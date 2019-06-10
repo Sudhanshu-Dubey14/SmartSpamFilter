@@ -1,23 +1,28 @@
 # -*- coding: utf-8 -*-
 
 import os
+
+import chardet
 import numpy as np
 from collections import Counter
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import confusion_matrix
 
+
 def make_Dictionary(train_dir):
-    '''Method to create Dictionary'''
-    emails = [os.path.join(train_dir,f) for f in os.listdir(train_dir)] #reads file names in directory and appends it with directory name
+    ''' Method to create Dictionary'''
+    emails = [os.path.join(train_dir, f) for f in os.listdir(train_dir)]  # reads file names in directory and appends it with directory name
     all_words = []
     for mail in emails:
         with open(mail) as m:
-            for i,line in enumerate(m):   #enumerate reads mail and returns each line and its counter
-                if i == 2:		  #why 2? Should be >=2 if picking lines after subject.
+            mailstr = str(m)
+            charset=chardet.detect(mailstr)
+            for i,line in enumerate(m):   # enumerate reads mail and returns each line and its counter
+                if i == 2:		  # why 2? Should be >=2 if picking lines after subject.
                     words = line.split()
                     all_words += words
 
-    dictionary = Counter(all_words)	#Counts number of occurrences of words
+    dictionary = Counter(all_words)	# Counts number of occurrences of words
 
     list_to_remove = dictionary.keys()
     for item in list_to_remove:
