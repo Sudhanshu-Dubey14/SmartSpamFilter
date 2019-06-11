@@ -2,6 +2,7 @@
 
 import os
 
+import json
 import numpy as np
 from collections import Counter
 from sklearn.naive_bayes import MultinomialNB
@@ -34,8 +35,11 @@ def make_Dictionary(train_dir):
         elif len(item) > 1:
             improvedDict[i] = item
             i = i+1
-    print("No. of Words processed: ", i)
     improvedDict = improvedDict.most_common(3000)
+    with open("dictionary", "w") as info:
+        info.write("No. of Words processed: ")
+        info.write('{}\n'.format(i))
+        info.write(json.dumps(improvedDict))
     return improvedDict
 
 
@@ -43,6 +47,10 @@ def extract_features(mail_dir):
     files = [os.path.join(mail_dir, fi) for fi in os.listdir(mail_dir)]
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
+    print(len(files))
+    '''with open("info", "w") as info:
+        info.write('Number of files read : {}\n'.format(len(files)))
+        info.write('{}\n'.format(files))'''
     for fil in files:
         try:
             with open(fil) as fi:
@@ -58,6 +66,7 @@ def extract_features(mail_dir):
                 docID = docID + 1
         except UnicodeDecodeError:
             pass
+    np.savetxt("feature.txt", features_matrix)
     return features_matrix
 
 
