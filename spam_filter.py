@@ -29,17 +29,13 @@ def make_Dictionary(train_dir):
     improvedDict = Counter()
     i = 0
     for item in list_to_remove:
-        if item.isalpha() is True:
-            improvedDict[i] = item
-            i = i+1
-        elif len(item) > 1:
+        if item.isalpha() and len(item) > 3:
             improvedDict[i] = item
             i = i+1
     improvedDict = improvedDict.most_common(3000)
     with open("dictionary", "w") as info:
         info.write("No. of Words processed: ")
         info.write('{}\n'.format(i))
-        info.write(json.dumps(improvedDict))
     return improvedDict
 
 
@@ -48,9 +44,6 @@ def extract_features(mail_dir):
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     print(len(files))
-    '''with open("info", "w") as info:
-        info.write('Number of files read : {}\n'.format(len(files)))
-        info.write('{}\n'.format(files))'''
     for fil in files:
         try:
             with open(fil) as fi:
@@ -58,15 +51,21 @@ def extract_features(mail_dir):
                     if i == 2:			# why 2?
                         words = line.split()
                         for word in words:
-                            wordID = 0
-                            for i, d in enumerate(dictionary):
-                                if d[0] == word:
-                                    wordID = i
-                                    features_matrix[docID, wordID] = words.count(word)
+                            if word.isalpha and len(word) > 3:
+                                wordID = 0
+                                for i, d in enumerate(dictionary):
+                                    with open("dictionary_test.txt", "a") as dt:
+                                        dt.write(d[1])
+                                        dt.write("\t")
+                                        dt.write(word)
+                                        dt.write("\n")
+                                    if d[1] == word:
+                                        wordID = i
+                                        features_matrix[docID, wordID] = words.count(word)
+                print("Mails processed: ", docID)
                 docID = docID + 1
         except UnicodeDecodeError:
             pass
-    np.savetxt("feature.txt", features_matrix)
     return features_matrix
 
 
@@ -74,12 +73,16 @@ def extract_features(mail_dir):
 
 train_dir = 'train-mails/'
 dictionary = make_Dictionary(train_dir)
+with open("dictionary", "a") as info:
+    info.write(json.dumps(dictionary))    # Can't write dict to file, so write as json string
 
 # Prepare feature vectors per training mail and its labels
 
 train_labels = np.zeros(702)
 train_labels[351:701] = 1
+np.savetxt("train_labels.txt", train_labels)     # special method to save 2-D np array
 train_matrix = extract_features(train_dir)
+np.savetxt("train_matrix.txt", train_matrix)
 
 # Training Naive bayes classifier
 
@@ -91,9 +94,13 @@ model1.fit(train_matrix, train_labels)  # Fit Naive Bayes classifier according t
 
 test_dir = 'test-mails/'
 test_matrix = extract_features(test_dir)
+np.savetxt("test_matrix.txt", test_matrix)
 test_labels = np.zeros(260)
 test_labels[130:260] = 1
+np.savetxt("test_labels.txt", test_labels)
 
 result1 = model1.predict(test_matrix)
+np.savetxt("result1.txt", result1)
+
 
 print(confusion_matrix(test_labels, result1))
