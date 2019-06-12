@@ -54,11 +54,11 @@ def extract_features(mail_dir):
                             if word.isalpha and len(word) > 3:
                                 wordID = 0
                                 for i, d in enumerate(dictionary):
-                                    with open("dictionary_test.txt", "a") as dt:
+                                    '''with open("dictionary_test.txt", "a") as dt:
                                         dt.write(d[1])
                                         dt.write("\t")
                                         dt.write(word)
-                                        dt.write("\n")
+                                        dt.write("\n")'''
                                     if d[1] == word:
                                         wordID = i
                                         features_matrix[docID, wordID] = words.count(word)
