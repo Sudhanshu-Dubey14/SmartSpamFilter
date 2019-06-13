@@ -29,7 +29,7 @@ def make_Dictionary(train_dir):
     improvedDict = Counter()
     i = 0
     for item in list_to_remove:
-        if item.isalpha() and len(item) > 3:
+        if item.isalpha() and len(item) > 2:
             improvedDict[i] = item
             i = i+1
     improvedDict = improvedDict.most_common(3000)
@@ -51,21 +51,16 @@ def extract_features(mail_dir):
                     if i == 2:			# why 2?
                         words = line.split()
                         for word in words:
-                            if word.isalpha and len(word) > 3:
+                            if word.isalpha and len(word) > 2:
                                 wordID = 0
                                 for i, d in enumerate(dictionary):
-                                    '''with open("dictionary_test.txt", "a") as dt:
-                                        dt.write(d[1])
-                                        dt.write("\t")
-                                        dt.write(word)
-                                        dt.write("\n")'''
                                     if d[1] == word:
                                         wordID = i
                                         features_matrix[docID, wordID] = words.count(word)
-                print("Mails processed: ", docID)
                 docID = docID + 1
         except UnicodeDecodeError:
             pass
+    print("Mails processed: ", docID)
     return features_matrix
 
 
