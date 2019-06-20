@@ -9,6 +9,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import confusion_matrix
 import pickle
 from shutil import copyfile
+from nltk.corpus import stopwords
 
 
 def make_Dictionary(train_dir):
@@ -31,7 +32,7 @@ def make_Dictionary(train_dir):
     improvedDict = Counter()
     i = 0
     for item in list_to_remove:
-        if item.isalpha() and len(item) > 2:
+        if item.isalpha() and len(item) > 2 and item not in stopWords:
             improvedDict[i] = item
             i = i+1
     improvedDict = improvedDict.most_common(3000)
@@ -52,7 +53,7 @@ def extract_features(mail_dir):
                     if i == 2:			# why 2?
                         words = line.split()
                         for word in words:
-                            if word.isalpha and len(word) > 2:
+                            if word.isalpha and len(word) > 2 and word not in stopWords:
                                 wordID = 0
                                 for i, d in enumerate(dictionary):
                                     if d[1] == word:
@@ -65,6 +66,7 @@ def extract_features(mail_dir):
     return features_matrix
 
 
+stopWords = set(stopwords.words('english'))
 # Create a dictionary of words with its frequency
 
 train_dir = 'train-mails/'
