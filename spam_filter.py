@@ -7,6 +7,8 @@ import numpy as np
 from collections import Counter
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import confusion_matrix
+import pickle
+from shutil import copyfile
 
 
 def make_Dictionary(train_dir):
@@ -43,7 +45,6 @@ def extract_features(mail_dir):
     files = [os.path.join(mail_dir, fi) for fi in os.listdir(mail_dir)]
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
-    print(len(files))
     for fil in files:
         try:
             with open(fil) as fi:
@@ -84,6 +85,10 @@ np.savetxt("train_matrix.txt", train_matrix)
 model1 = MultinomialNB()
 
 model1.fit(train_matrix, train_labels)  # Fit Naive Bayes classifier according to train_matrix and train_labels
+
+pickle.dump(model1, open('spamfilter.sav', 'wb'))
+copyfile('spamfilter.sav', 'backup/spamfilter.bk')
+copyfile('dictionary', 'backup/dictionary.bk')
 
 # Test the unseen mails for Spam
 
