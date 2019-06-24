@@ -11,6 +11,7 @@ import pickle
 from shutil import copyfile
 from nltk.corpus import stopwords
 from supporters.preprocessor import preprocessor
+from supporters.features import mail_features
 
 
 def make_Dictionary(train_dir):
@@ -27,26 +28,14 @@ def make_Dictionary(train_dir):
 
 
 def extract_features(mail_dir):
-    """ Method to extract features from a mail"""
+    """ Method to extract features from all mails"""
     files = [os.path.join(mail_dir, fi) for fi in os.listdir(mail_dir)]
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     for fil in files:
-        try:
-            with open(fil) as fi:
-                for i, line in enumerate(fi):
-                    if i == 2:			# why 2?
-                        words = line.split()
-                        for word in words:
-                            if word.isalpha and len(word) > 2 and word not in stopWords:
-                                wordID = 0
-                                for i, d in enumerate(dictionary):
-                                    if d[0] == word:
-                                        wordID = i
-                                        features_matrix[docID, wordID] = words.count(word)
-                docID = docID + 1
-        except UnicodeDecodeError:
-            pass
+        features = mail_features(fil)
+        features_matrix[docID] = features
+        docID = docID + 1
     print("Mails processed: ", docID)
     return features_matrix
 
