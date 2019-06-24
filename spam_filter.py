@@ -10,39 +10,24 @@ from sklearn.metrics import confusion_matrix
 import pickle
 from shutil import copyfile
 from nltk.corpus import stopwords
+from supporters.preprocessor import preprocessor
 
 
 def make_Dictionary(train_dir):
-    ''' Method to create Dictionary'''
+    """ Method to create Dictionary"""
     emails = [os.path.join(train_dir, f) for f in os.listdir(train_dir)]  # reads file names in directory
     all_words = []
     for mail in emails:
-        with open(mail, "r", encoding="us-ascii") as m:
-            try:
-                for i, line in enumerate(m):   # enumerate reads mail and returns each line and its counter
-                    if i == 2:		  # why 2? Should be >=2 if picking lines after subject.
-                        words = line.split()
-                        all_words += words
-            except UnicodeDecodeError:
-                pass
+        words = preprocessor(mail)
+        all_words += words
 
     dictionary = Counter(all_words)	  # Counts number of occurrences of words
-
-    list_to_remove = dictionary.keys()
-    improvedDict = Counter()
-    i = 0
-    for item in list_to_remove:
-        if item.isalpha() and len(item) > 2 and item not in stopWords:
-            improvedDict[i] = item
-            i = i+1
-    improvedDict = improvedDict.most_common(3000)
-    with open("dictionary", "w") as info:
-        info.write("No. of Words processed: ")
-        info.write('{}\n'.format(i))
-    return improvedDict
+    dictionary = dictionary.most_common(3000)
+    return dictionary
 
 
 def extract_features(mail_dir):
+    """ Method to extract features from a mail"""
     files = [os.path.join(mail_dir, fi) for fi in os.listdir(mail_dir)]
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
@@ -56,7 +41,7 @@ def extract_features(mail_dir):
                             if word.isalpha and len(word) > 2 and word not in stopWords:
                                 wordID = 0
                                 for i, d in enumerate(dictionary):
-                                    if d[1] == word:
+                                    if d[0] == word:
                                         wordID = i
                                         features_matrix[docID, wordID] = words.count(word)
                 docID = docID + 1
@@ -71,8 +56,8 @@ stopWords = set(stopwords.words('english'))
 
 train_dir = 'train-mails/'
 dictionary = make_Dictionary(train_dir)
-with open("dictionary", "a") as info:
-    info.write(json.dumps(dictionary))    # Can't write dict to file, so write as json string
+with open("dictionary", "w") as info:
+    json.dump(dictionary, info)    # Can't write dict to file, so write as json string
 
 # Prepare feature vectors per training mail and its labels
 
