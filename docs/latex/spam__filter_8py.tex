@@ -1,0 +1,37 @@
+\hypertarget{spam__filter_8py}{}\doxysection{spam\+\_\+filter.\+py File Reference}
+\label{spam__filter_8py}\index{spam\_filter.py@{spam\_filter.py}}
+\doxysubsection*{Namespaces}
+\begin{DoxyCompactItemize}
+\item 
+ \mbox{\hyperlink{namespacespam__filter}{spam\+\_\+filter}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{spam\+\_\+filter.\+make\+\_\+\+Dictionary}} (train\+\_\+dir)
+\item 
+def \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{spam\+\_\+filter.\+extract\+\_\+features}} (mail\+\_\+dir)
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}{spam\+\_\+filter.\+stop\+Words}} = set(stopwords.\+words(\textquotesingle{}english\textquotesingle{}))
+\item 
+string \mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{spam\+\_\+filter.\+train\+\_\+dir}} = \textquotesingle{}train-\/mails/\textquotesingle{}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}{spam\+\_\+filter.\+dictionary}} = make\+\_\+\+Dictionary(train\+\_\+dir)
+\item 
+\mbox{\hyperlink{namespacespam__filter_a20ddc875b2f00f180150124fa359ba26}{spam\+\_\+filter.\+train\+\_\+labels}} = np.\+zeros(702)
+\item 
+def \mbox{\hyperlink{namespacespam__filter_a1395e0bda02c77bfd02495a047708ca2}{spam\+\_\+filter.\+train\+\_\+matrix}} = extract\+\_\+features(train\+\_\+dir)
+\item 
+\mbox{\hyperlink{namespacespam__filter_aac43261374a32cd5821a41604b573ece}{spam\+\_\+filter.\+model1}} = Multinomial\+NB()
+\item 
+string \mbox{\hyperlink{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}{spam\+\_\+filter.\+test\+\_\+dir}} = \textquotesingle{}test-\/mails/\textquotesingle{}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{spam\+\_\+filter.\+test\+\_\+matrix}} = extract\+\_\+features(test\+\_\+dir)
+\item 
+\mbox{\hyperlink{namespacespam__filter_a6b52488e907498058cc0e440bfd7bc8f}{spam\+\_\+filter.\+test\+\_\+labels}} = np.\+zeros(260)
+\item 
+\mbox{\hyperlink{namespacespam__filter_a48fe69a8840402dc67566e0fbf9ee003}{spam\+\_\+filter.\+result1}} = model1.\+predict(test\+\_\+matrix)
+\end{DoxyCompactItemize}

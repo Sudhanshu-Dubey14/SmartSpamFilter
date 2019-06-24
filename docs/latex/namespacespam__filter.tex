@@ -1,0 +1,112 @@
+\hypertarget{namespacespam__filter}{}\doxysection{spam\+\_\+filter Namespace Reference}
+\label{namespacespam__filter}\index{spam\_filter@{spam\_filter}}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{make\+\_\+\+Dictionary}} (\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})
+\item 
+def \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}} (mail\+\_\+dir)
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}{stop\+Words}} = set(stopwords.\+words(\textquotesingle{}english\textquotesingle{}))
+\item 
+string \mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}} = \textquotesingle{}train-\/mails/\textquotesingle{}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}{dictionary}} = \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{make\+\_\+\+Dictionary}}(\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_a20ddc875b2f00f180150124fa359ba26}{train\+\_\+labels}} = np.\+zeros(702)
+\item 
+def \mbox{\hyperlink{namespacespam__filter_a1395e0bda02c77bfd02495a047708ca2}{train\+\_\+matrix}} = \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_aac43261374a32cd5821a41604b573ece}{model1}} = Multinomial\+NB()
+\item 
+string \mbox{\hyperlink{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}{test\+\_\+dir}} = \textquotesingle{}test-\/mails/\textquotesingle{}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{test\+\_\+matrix}} = \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}{test\+\_\+dir}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_a6b52488e907498058cc0e440bfd7bc8f}{test\+\_\+labels}} = np.\+zeros(260)
+\item 
+\mbox{\hyperlink{namespacespam__filter_a48fe69a8840402dc67566e0fbf9ee003}{result1}} = model1.\+predict(\mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{test\+\_\+matrix}})
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{namespacespam__filter_af8dfff7dea9523239be676b759944baa}\label{namespacespam__filter_af8dfff7dea9523239be676b759944baa}} 
+\index{spam\_filter@{spam\_filter}!extract\_features@{extract\_features}}
+\index{extract\_features@{extract\_features}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{extract\_features()}{extract\_features()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+extract\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+dir }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Method to extract features from a mail\end{DoxyVerb}
+ \mbox{\Hypertarget{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}\label{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}} 
+\index{spam\_filter@{spam\_filter}!make\_Dictionary@{make\_Dictionary}}
+\index{make\_Dictionary@{make\_Dictionary}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{make\_Dictionary()}{make\_Dictionary()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+make\+\_\+\+Dictionary (\begin{DoxyParamCaption}\item[{}]{train\+\_\+dir }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Method to create Dictionary\end{DoxyVerb}
+ 
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}\label{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}} 
+\index{spam\_filter@{spam\_filter}!dictionary@{dictionary}}
+\index{dictionary@{dictionary}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{dictionary}{dictionary}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+dictionary = \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{make\+\_\+\+Dictionary}}(\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})}
+
+\mbox{\Hypertarget{namespacespam__filter_aac43261374a32cd5821a41604b573ece}\label{namespacespam__filter_aac43261374a32cd5821a41604b573ece}} 
+\index{spam\_filter@{spam\_filter}!model1@{model1}}
+\index{model1@{model1}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{model1}{model1}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+model1 = Multinomial\+NB()}
+
+\mbox{\Hypertarget{namespacespam__filter_a48fe69a8840402dc67566e0fbf9ee003}\label{namespacespam__filter_a48fe69a8840402dc67566e0fbf9ee003}} 
+\index{spam\_filter@{spam\_filter}!result1@{result1}}
+\index{result1@{result1}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{result1}{result1}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+result1 = model1.\+predict(\mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{test\+\_\+matrix}})}
+
+\mbox{\Hypertarget{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}\label{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}} 
+\index{spam\_filter@{spam\_filter}!stopWords@{stopWords}}
+\index{stopWords@{stopWords}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{stopWords}{stopWords}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+stop\+Words = set(stopwords.\+words(\textquotesingle{}english\textquotesingle{}))}
+
+\mbox{\Hypertarget{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}\label{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}} 
+\index{spam\_filter@{spam\_filter}!test\_dir@{test\_dir}}
+\index{test\_dir@{test\_dir}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{test\_dir}{test\_dir}}
+{\footnotesize\ttfamily string spam\+\_\+filter.\+test\+\_\+dir = \textquotesingle{}test-\/mails/\textquotesingle{}}
+
+\mbox{\Hypertarget{namespacespam__filter_a6b52488e907498058cc0e440bfd7bc8f}\label{namespacespam__filter_a6b52488e907498058cc0e440bfd7bc8f}} 
+\index{spam\_filter@{spam\_filter}!test\_labels@{test\_labels}}
+\index{test\_labels@{test\_labels}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{test\_labels}{test\_labels}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+test\+\_\+labels = np.\+zeros(260)}
+
+\mbox{\Hypertarget{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}\label{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}} 
+\index{spam\_filter@{spam\_filter}!test\_matrix@{test\_matrix}}
+\index{test\_matrix@{test\_matrix}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{test\_matrix}{test\_matrix}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+test\+\_\+matrix = \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}{test\+\_\+dir}})}
+
+\mbox{\Hypertarget{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}\label{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}} 
+\index{spam\_filter@{spam\_filter}!train\_dir@{train\_dir}}
+\index{train\_dir@{train\_dir}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{train\_dir}{train\_dir}}
+{\footnotesize\ttfamily string spam\+\_\+filter.\+train\+\_\+dir = \textquotesingle{}train-\/mails/\textquotesingle{}}
+
+\mbox{\Hypertarget{namespacespam__filter_a20ddc875b2f00f180150124fa359ba26}\label{namespacespam__filter_a20ddc875b2f00f180150124fa359ba26}} 
+\index{spam\_filter@{spam\_filter}!train\_labels@{train\_labels}}
+\index{train\_labels@{train\_labels}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{train\_labels}{train\_labels}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+train\+\_\+labels = np.\+zeros(702)}
+
+\mbox{\Hypertarget{namespacespam__filter_a1395e0bda02c77bfd02495a047708ca2}\label{namespacespam__filter_a1395e0bda02c77bfd02495a047708ca2}} 
+\index{spam\_filter@{spam\_filter}!train\_matrix@{train\_matrix}}
+\index{train\_matrix@{train\_matrix}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{train\_matrix}{train\_matrix}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+train\+\_\+matrix = \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})}
+
