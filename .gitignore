@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+test_labels.txt
+test_matrix.txt
+train_matrix.txt
+train_labels.txt
