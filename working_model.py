@@ -2,20 +2,16 @@
 
 import sys
 
-import json
-# from collections import Counter
-# from sklearn.metrics import confusion_matrix
-from supporters.preprocessor import preprocessor
-# from nltk.corpus import stopwords
+from supporters.features import mail_features
+import numpy as np
+import pickle
 
 
 mail_file = sys.argv[1]
-words = preprocessor(mail_file)
+features_matrix = mail_features(mail_file)
+np.savetxt("working_matrix.txt", features_matrix)
 
-with open("words_test.txt", "w") as info:
-    info.write(json.dumps(words))    # Can't write dict to file, so write as json string
+ml_model = pickle.load(open('spamfilter.sav', 'rb'))
+result = ml_model.predict(features_matrix)
 
-with open("dictionary") as dic:
-    dictionary = json.load(dic)
-
-print(dictionary)
+print(result)
