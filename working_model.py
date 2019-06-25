@@ -13,5 +13,9 @@ np.savetxt("working_matrix.txt", features_matrix)
 
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
 result = ml_model.predict(features_matrix)
-
-print(result)
+if result == 1:
+    print(mail_file + " is a spam!!!")
+elif result == 0:
+    print(mail_file + " is normal mail.")
+else:
+    print("something went wrong!!")
