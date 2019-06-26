@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 
+## Documentation for this module
+# \brief  Model building code
+# \detail This code builds, trains and tests the Machine Learning model
+# \author Sudhanshu Dubey
+# \version    1.0
+# \date   25/6/2019
+
 import os
 
 import json
@@ -52,9 +59,7 @@ with open("dictionary", "w") as info:
 
 train_labels = np.zeros(702)
 train_labels[351:701] = 1
-np.savetxt("train_labels.txt", train_labels)     # special method to save 2-D np array
 train_matrix = extract_features(train_dir)
-np.savetxt("train_matrix.txt", train_matrix)
 
 # Training Naive bayes classifier
 
@@ -70,13 +75,9 @@ copyfile('dictionary', 'backup/dictionary.bk')
 
 test_dir = 'test-mails/'
 test_matrix = extract_features(test_dir)
-np.savetxt("test_matrix.txt", test_matrix)
 test_labels = np.zeros(260)
 test_labels[130:260] = 1
-np.savetxt("test_labels.txt", test_labels)
 
 result1 = model1.predict(test_matrix)
-np.savetxt("result1.txt", result1)
-
 
 print(confusion_matrix(test_labels, result1))
