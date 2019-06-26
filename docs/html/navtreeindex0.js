@@ -2,6 +2,8 @@ var NAVTREEINDEX0 =
 {
 "____init_____8py.html":[1,0,0,0],
 "dir_f77d7ab6dcdeb4db41c8fb021db99019.html":[1,0,0],
+"features_8py.html":[1,0,0,1],
+"features_8py.html#ad1c68752e02d430080a4fb5c9661158f":[1,0,0,1,0],
 "files.html":[1,0],
 "index.html":[],
 "namespacemembers.html":[0,1,0],
@@ -11,11 +13,12 @@ var NAVTREEINDEX0 =
 "namespacesample.html":[0,0,0],
 "namespacespam__filter.html":[0,0,1],
 "namespacesupporters.html":[0,0,2],
-"namespacesupporters_1_1preprocessor.html":[0,0,2,0],
+"namespacesupporters_1_1features.html":[0,0,2,0],
+"namespacesupporters_1_1preprocessor.html":[0,0,2,1],
 "namespaceworking__model.html":[0,0,3],
 "pages.html":[],
-"preprocessor_8py.html":[1,0,0,1],
-"preprocessor_8py.html#ae9775bdec8e4591c377578dc27075430":[1,0,0,1,0],
+"preprocessor_8py.html":[1,0,0,2],
+"preprocessor_8py.html#ae9775bdec8e4591c377578dc27075430":[1,0,0,2,0],
 "sample_8py.html":[1,0,1],
 "sample_8py.html#a6355511c28a60bb31b2871c9dd0d9fd4":[1,0,1,0],
 "spam__filter_8py.html":[1,0,2],
@@ -32,8 +35,8 @@ var NAVTREEINDEX0 =
 "spam__filter_8py.html#af8dfff7dea9523239be676b759944baa":[1,0,2,0],
 "spam__filter_8py.html#afa746cf1d46132f610b1843e8732b27f":[1,0,2,2],
 "working__model_8py.html":[1,0,3],
-"working__model_8py.html#a354e07aae206ee8007b3861724f8d48c":[1,0,3,0],
-"working__model_8py.html#a69a1cc7a0666721191699ca80a0dde79":[1,0,3,2],
-"working__model_8py.html#a7141488fefd0eadbef3928a4e8ab6137":[1,0,3,3],
-"working__model_8py.html#a82fb40b908f4974cc88ecc9a1c409ac7":[1,0,3,1]
+"working__model_8py.html#a354e07aae206ee8007b3861724f8d48c":[1,0,3,1],
+"working__model_8py.html#a35d09de5d9c7a97aa0443fda5dcd4487":[1,0,3,2],
+"working__model_8py.html#a7eb60a6ff29227bf831c7df45afdad58":[1,0,3,0],
+"working__model_8py.html#ad2edfa3ead9f4d129190b26b96dc71a7":[1,0,3,3]
 };

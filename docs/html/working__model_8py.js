@@ -1,7 +1,7 @@
 var working__model_8py =
 [
+    [ "features_matrix", "working__model_8py.html#a7eb60a6ff29227bf831c7df45afdad58", null ],
     [ "mail_file", "working__model_8py.html#a354e07aae206ee8007b3861724f8d48c", null ],
-    [ "nlp", "working__model_8py.html#a82fb40b908f4974cc88ecc9a1c409ac7", null ],
-    [ "stopWords", "working__model_8py.html#a69a1cc7a0666721191699ca80a0dde79", null ],
-    [ "words", "working__model_8py.html#a7141488fefd0eadbef3928a4e8ab6137", null ]
+    [ "ml_model", "working__model_8py.html#a35d09de5d9c7a97aa0443fda5dcd4487", null ],
+    [ "result", "working__model_8py.html#ad2edfa3ead9f4d129190b26b96dc71a7", null ]
 ];

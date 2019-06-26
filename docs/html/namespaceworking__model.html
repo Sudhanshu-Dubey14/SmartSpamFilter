@@ -106,16 +106,30 @@ $(document).ready(function(){initNavTree('namespaceworking__model.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a82fb40b908f4974cc88ecc9a1c409ac7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a82fb40b908f4974cc88ecc9a1c409ac7">nlp</a> = spacy.load(&quot;en_core_web_sm&quot;)</td></tr>
-<tr class="separator:a82fb40b908f4974cc88ecc9a1c409ac7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69a1cc7a0666721191699ca80a0dde79"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a69a1cc7a0666721191699ca80a0dde79">stopWords</a> = spacy.lang.en.stop_words.STOP_WORDS</td></tr>
-<tr class="separator:a69a1cc7a0666721191699ca80a0dde79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a354e07aae206ee8007b3861724f8d48c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">mail_file</a> = sys.argv[1]</td></tr>
 <tr class="separator:a354e07aae206ee8007b3861724f8d48c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7141488fefd0eadbef3928a4e8ab6137"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a7141488fefd0eadbef3928a4e8ab6137">words</a> = preprocessor(<a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">mail_file</a>)</td></tr>
-<tr class="separator:a7141488fefd0eadbef3928a4e8ab6137"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7eb60a6ff29227bf831c7df45afdad58"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a7eb60a6ff29227bf831c7df45afdad58">features_matrix</a> = mail_features(<a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">mail_file</a>)</td></tr>
+<tr class="separator:a7eb60a6ff29227bf831c7df45afdad58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35d09de5d9c7a97aa0443fda5dcd4487"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a35d09de5d9c7a97aa0443fda5dcd4487">ml_model</a> = pickle.load(open('spamfilter.sav', 'rb'))</td></tr>
+<tr class="separator:a35d09de5d9c7a97aa0443fda5dcd4487"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2edfa3ead9f4d129190b26b96dc71a7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#ad2edfa3ead9f4d129190b26b96dc71a7">result</a> = ml_model.predict(<a class="el" href="namespaceworking__model.html#a7eb60a6ff29227bf831c7df45afdad58">features_matrix</a>)</td></tr>
+<tr class="separator:ad2edfa3ead9f4d129190b26b96dc71a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Variable Documentation</h2>
+<a id="a7eb60a6ff29227bf831c7df45afdad58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7eb60a6ff29227bf831c7df45afdad58">&#9670;&nbsp;</a></span>features_matrix</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">working_model.features_matrix = mail_features(<a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">mail_file</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a354e07aae206ee8007b3861724f8d48c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a354e07aae206ee8007b3861724f8d48c">&#9670;&nbsp;</a></span>mail_file</h2>
 
@@ -130,42 +144,28 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a82fb40b908f4974cc88ecc9a1c409ac7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a82fb40b908f4974cc88ecc9a1c409ac7">&#9670;&nbsp;</a></span>nlp</h2>
+<a id="a35d09de5d9c7a97aa0443fda5dcd4487"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35d09de5d9c7a97aa0443fda5dcd4487">&#9670;&nbsp;</a></span>ml_model</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">working_model.nlp = spacy.load(&quot;en_core_web_sm&quot;)</td>
+          <td class="memname">working_model.ml_model = pickle.load(open('spamfilter.sav', 'rb'))</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a69a1cc7a0666721191699ca80a0dde79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69a1cc7a0666721191699ca80a0dde79">&#9670;&nbsp;</a></span>stopWords</h2>
+<a id="ad2edfa3ead9f4d129190b26b96dc71a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2edfa3ead9f4d129190b26b96dc71a7">&#9670;&nbsp;</a></span>result</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">working_model.stopWords = spacy.lang.en.stop_words.STOP_WORDS</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7141488fefd0eadbef3928a4e8ab6137"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7141488fefd0eadbef3928a4e8ab6137">&#9670;&nbsp;</a></span>words</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">working_model.words = preprocessor(<a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">mail_file</a>)</td>
+          <td class="memname">working_model.result = ml_model.predict(<a class="el" href="namespaceworking__model.html#a7eb60a6ff29227bf831c7df45afdad58">features_matrix</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
