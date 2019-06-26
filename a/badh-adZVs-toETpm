@@ -1,0 +1,105 @@
+Return-Path: <auto1+caf_=shubham_sharma=jcbl.com@jcblmail.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <shubham_sharma@jcbl.com>, <shubham_sharma@jcblmail.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <adZVs-toETpm>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id adZVs-toETpm; Thu, 25 Aug 2016 06:04:34 +0530 (IST)
+Received: from mail-qk0-f177.google.com (mail-qk0-f177.google.com [209.85.220.177])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 4DF0A61482
+	for <shubham_sharma@jcbl.com>; Thu, 25 Aug 2016 06:04:31 +0530 (IST)
+Received: by mail-qk0-f177.google.com with SMTP id l2so32073543qkf.3
+        for <shubham_sharma@jcbl.com>; Wed, 24 Aug 2016 17:35:37 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:x-gm-message-state:delivered-to
+         :message-id:from:to:subject:date:importance:in-reply-to:references
+         :mime-version;
+        bh=yyyZCLu3IGnGLOsJxvpmwA6N5UBFwfsBYZIpB6/I9dk=;
+        b=Fn6+pVbdCaZHtX25UMsogF2EvHr9u2KifIhTuBKk9CfdfneX7iHbQHTGbcug6V8I+v
+         L/vGChtSWO3dTFmiDVDM3r5s0fTLb9jSNgakScqNI160T2VU9UTTNdhyPKq/kElVnAUY
+         OKeff7Z8bUV8S8g1FPEcx7JsvL48O+yxOP5/Cbo7nyw/KnWhAsPJIRWcJ1M+oPGoVGbp
+         SHaFGxVGitCDtLSWnJWXTdRNm2o9UgQk/jDpkUpbr0VBsa0UDro4lv366YYNEI6Bfwwd
+         LCdzWdvNo5kKu93GK2tlAgrBX8IYEb7ZM/PgcZ6UglxSC1zpXJQKByHvKNtCe5XuX4Ve
+         wKUg==
+X-Original-Authentication-Results: mx.google.com;       spf=softfail (google.com: domain of transitioning jani_eliz@hotmail.com does not designate 107.182.173.5 as permitted sender) smtp.mailfrom=jani_eliz@hotmail.com;       dmarc=fail (p=NONE dis=NONE) header.from=hotmail.com
+X-Gm-Message-State: AE9vXwN+FLBMudUwBaRZyVeB5BbIAQXA4biR37/ZOR4VSh+2HsD11rt0C79qDo8cBmt0cxiCB08Hv9wzso6Vn3Qby0c+oyUVfbKFd+ARPnQs2uz+tM55UK5lXB9aqfALCIQRlZdnYwq0Z6pd8yICMWJW64TKs+6s0hLZJd0Z9XfiwPehRKW/1f5Bdy5qt3LMQkKRJQpQgKbWrPiEBeK12nJfD+2Liw==
+X-Received: by 10.55.102.75 with SMTP id a72mr7171757qkc.19.1472085334353;
+        Wed, 24 Aug 2016 17:35:34 -0700 (PDT)
+X-Forwarded-To: shubham_sharma@jcbl.com
+X-Forwarded-For: auto1@jcblmail.com shubham_sharma@jcbl.com
+Delivered-To: auto1@jcblmail.com
+Received: by 10.55.210.68 with SMTP id f65csp632921qkj;
+        Wed, 24 Aug 2016 17:35:33 -0700 (PDT)
+X-Received: by 10.98.129.130 with SMTP id t124mr11010802pfd.162.1472085333333;
+        Wed, 24 Aug 2016 17:35:33 -0700 (PDT)
+Received: from umail.jcbl.com (umail.jcbl.com. [107.182.173.5])
+        by mx.google.com with ESMTP id s70si12223236pfa.89.2016.08.24.17.35.33
+        for <auto1@jcblmail.com>;
+        Wed, 24 Aug 2016 17:35:33 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning jani_eliz@hotmail.com does not designate 107.182.173.5 as permitted sender) client-ip=107.182.173.5;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning jani_eliz@hotmail.com does not designate 107.182.173.5 as permitted sender) smtp.mailfrom=jani_eliz@hotmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=hotmail.com
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id 672BB1DA14C
+	for <auto1@jcblmail.com>; Thu, 25 Aug 2016 04:53:26 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1rOx1XuPrro3 for <auto1@jcblmail.com>;
+	Thu, 25 Aug 2016 04:53:26 +0530 (IST)
+Received: from mx11.jcbl.com (unknown [220.227.45.53])
+	by umail.jcbl.com (Postfix) with ESMTPA id 090901DA144
+	for <auto1@jcblmail.com>; Thu, 25 Aug 2016 04:53:26 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id D441CF244B8; Thu, 25 Aug 2016 00:34:24 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id C4C31F244A9
+	for <auto1@jcblmail.com>; Thu, 25 Aug 2016 06:04:24 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id BFFD261484
+	for <auto1@jcblmail.com>; Thu, 25 Aug 2016 06:04:24 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ex6jmQFNgRG5 for <auto1@jcblmail.com>;
+	Thu, 25 Aug 2016 06:04:24 +0530 (IST)
+Received: from DUB004-OMC4S8.hotmail.com (dub004-omc4s8.hotmail.com [157.55.2.83])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C00A261482
+	for <auto1@jcbl.com>; Thu, 25 Aug 2016 06:04:20 +0530 (IST)
+Received: from DUB125-W73 ([157.55.2.72]) by DUB004-OMC4S8.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Wed, 24 Aug 2016 17:35:24 -0700
+X-TMN: [v8aRxCgPCVtBjUXSTD/LdhuxRl7+sBYZmPeX407J7jo=]
+X-Originating-Email: [jani_eliz@hotmail.com]
+Message-ID: <DUB125-W731ADC4BCB4F050090608886ED0@phx.gbl>
+Content-Type: multipart/related;
+	boundary="_2395302c-d968-40a2-953a-bdf667b58dd1_"
+From: janina oliden <jani_eliz@hotmail.com>
+To: sandeep bhandari <auto1@jcbl.com>
+Subject: =?Windows-1252?Q?RE:_Confir?= =?Windows-1252?Q?macion_de_?=
+ =?Windows-1252?Q?patr=F3n_de_?= =?Windows-1252?Q?la_llanta?=
+Date: Wed, 24 Aug 2016 19:35:24 -0500
+Importance: Normal
+In-Reply-To: <001101d1fd2c$951fe9a0$bf5fbce0$@jcbl.com>
+References: <001101d1fd2c$951fe9a0$bf5fbce0$@jcbl.com>
+MIME-Version: 1.0
+X-OriginalArrivalTime: 25 Aug 2016 00:35:24.0564 (UTC) FILETIME=[91BDBD40:01D1FE68]
+
+--_2395302c-d968-40a2-953a-bdf667b58dd1_
+Content-Type: multipart/alternative;
+	boundary="_997c0c45-e662-423d-aabf-efe12ed6a076_"
+
+--_997c0c45-e662-423d-aabf-efe12ed6a076_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Buenas noches Prakash=2C para confirmate la medida del patron: debe ser 8mm=

@@ -1,0 +1,92 @@
+Return-Path:
+	<crypto.masterclass.amazon.relead-acme=jcbl.com@uaperformingarts.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@acmeformulation.com>, <viralshah@acmeformulation.com>,
+	<praveen_ajauria@jcbl.com>
+X-Envelope-To-Blocked: <info@acmeformulation.com>,
+	<viralshah@acmeformulation.com>, <praveen_ajauria@jcbl.com>
+X-Quarantine-ID: <aVnjduFPGWvL>
+X-Spam-Flag: YES
+X-Spam-Score: 12.599
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.599 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, EXCUSE_4=1.687, HTML_IMAGE_ONLY_20=0.7,
+	HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_3=0.328, MIME_HTML_ONLY=1.105,
+	MIME_HTML_ONLY_MULTI=0.001, MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01, T_RP_MATCHES_RCVD=-0.01] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aVnjduFPGWvL; Tue,  9 Oct 2018 11:30:25 +0530 (IST)
+Received: from mail.uaperformingarts.com (uaperformingarts.com [103.110.211.205])
+	by mx10.jcbl.com (Postfix) with ESMTP id 55D7CEEB056
+	for <acme@jcbl.com>; Tue,  9 Oct 2018 11:30:09 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=uaperformingarts.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=crypto.masterclass.amazon.relead@uaperformingarts.com;
+ bh=eRn02KflP5kh2PZYq9qrO5qPqrw=;
+ b=nO4M/GeLgSRkkbXhUnmO/kOFODMkgxcxrXQNxCQnOUbsYvwIeWFS0ySrYKTvPaGpyvBeTkB5TFRK
+   bLXwZZeKrZxgT8otbT5GZsU5C3EDNGHBgCHEaFpKGKUE6fD0HT8RLcsnMceXuLlo4hwL3Vrh3RQ7
+   W5towjZtIJ0jOBOyXYs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=uaperformingarts.com;
+ b=mNack7JwwpfNVjyNYiXHTgUzX8LN4tr/siklGD/CszYGejWoe8ZmBu3GMwAKNl091qhAg8d4s0sb
+   M9uxhJ+Vx8vujoKu5KL7ujRNC+YBO9E0hZU6VoH2ZaXhXnngiogS19MzSjQXIv2uK7mRRinB8XdO
+   iduJp/xMxcnQcZuM/1k=;
+Received: by mail.uaperformingarts.com id hnh1vk0001gc for <acme@jcbl.com>; Tue, 9 Oct 2018 01:49:03 -0400 (envelope-from <crypto.masterclass.amazon.relead-acme=jcbl.com@uaperformingarts.com>)
+Date: Tue, 9 Oct 2018 01:49:03 -0400
+From: "Crypto Masterclass Amazon Relead" <crypto.masterclass.amazon.relead@uaperformingarts.com>
+To:   <acme@jcbl.com>
+Subject: REVEALED: The $100 Retirement Plan
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_604_183779841.1539064141644"
+List-Unsubscribe: <http://www.uaperformingarts.com/5936f2v38w5HJ89C11o1HCt1v74dD14IDGiIfcGFhEGsi7Jg10FMw10MBTiwMxB9@/shifter-vilifies>
+Message-ID: <0.0.0.24.1D45F93C8F52BF2.1ABE32@mail.uaperformingarts.com>
+
+------=_Part_604_183779841.1539064141644
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <div>
+   <a href="http://www.uaperformingarts.com/grandparent-extramarital/a445S2y385kP86_10e2d19P74dY14ODGiIfcGFhEGsi5S1P0n10hpiwx2@By9"><img border="0" src="http://www.uaperformingarts.com/60b5q238H5CV7au10j2d1cA74dB14eDGiIfcGFhEGsi7i10AIrP9vPiwljkx9/shifter-vilifies" style="width: 200px; height: 160px; margin-left: 5px; margin-right: 5px; float: left; " /></a>
+   <b>Weird Trick to Make 78 Times More Money than Bitcoin</b>
+  </div> 
+  <div>
+   <br /> This computer geek has just discovered a simple, 3-step script that can help you make 78 times MORE money than Bitcoin.   </div> 
+  <div>
+   <br /> Even if you know nothing about cryptocurrencies? 
+  </div> 
+  <div>
+   <br /> You could still turn a single $100 bill into a retirement fortune in the coming months.   </div> 
+  <div>
+   <br /> 
+   <b><a href="http://www.uaperformingarts.com/grandparent-extramarital/a445S2y385kP86_10e2d19P74dY14ODGiIfcGFhEGsi5S1P0n10hpiwx2@By9">But you must follow this proven 3-step script</a></b>.   </div> 
+  <div>
+   &nbsp; 
+  </div> 
+  <div>
+   &nbsp; 
+  </div> 
+  <div>
+   &nbsp; 
+  </div> 
+  <div>
+   &nbsp; 
+  </div> 
+  <div>
+   <small>To be removed, please click <a href="http://www.uaperformingarts.com/necessarily-swish/8a06z2G38G5a8o6F12f2dZ1aWj74dj14YDGiIfcGFhEGsi5LK1r09j0BilwLx9">here</a> or write to 808 Saint Paul Street Baltimore, MD 21202.</small>
+  </div> 
+  <div style="text-align: left; ">
+   <font size="3">To be removed <a href="http://www.uaperformingarts.com/7cd4W2385U8FN912h2dA1bDZ74dC14SDGiIfcGFhEGsi7y1yX0NR9rU3X@iwx9/shifter-vilifies">view here</a><br /> PO Box 660675 #34709 Dallas, TX 75266-0675</font>
+  </div>   
+ <img src="http://www.uaperformingarts.com/grandparent-extramarital/12V6d2o3B85I8Q5T10N2d1dI74d_14VDGiIfcGFhEGsi6WZn1m010m1NilwJxl9" alt=""/></body>
+</html>
+
+------=_Part_604_183779841.1539064141644--
+

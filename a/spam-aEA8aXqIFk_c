@@ -1,0 +1,301 @@
+Return-Path: <bounce@adwordskeyword.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@jcbl.com>
+X-Envelope-To-Blocked: <info@jcbl.com>
+X-Quarantine-ID: <aEA8aXqIFk_c>
+X-Spam-Flag: YES
+X-Spam-Score: 15.251
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.251 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_06_12=1.103, DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274,
+	REMOVE_BEFORE_LINK=1.587, URIBL_JP_SURBL=1.948] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aEA8aXqIFk_c for <info@jcbl.com>;
+	Mon, 22 Oct 2018 13:28:25 +0530 (IST)
+Received: from mta5.adwordskeyword.com (unknown [185.247.138.98])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 47FC6EEADCF
+	for <info@jcbl.com>; Mon, 22 Oct 2018 13:28:22 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=adwordskeyword.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=info@adwordskeyword.com;
+ bh=/VTfnLvHhuS1MXV0pjr87LJaJ5Y=;
+ b=F+nPQx+kSk1u/EbPNMwqK0Vz/FYP/wZ8My2jhsLexJTTgtxMDlKz+nSqDa2HYotwDyT+rGMEVHnv
+   o+MLSpQ0uU4cIb/YNmWwqiqEZh/PU4vP/Br7H20jAjMabPENUjL6Ehtyj/jO5ur9TAtwRdFqsq2i
+   +UHFae0aBDMkRMTVa34=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=adwordskeyword.com;
+ b=bkPHuk0UxKoqxWLWnPB+s7YWwVsOGO2/tI6akJJtBZl49xA+MWoYNRwbOtfK5ozDrc6uASO0a/vF
+   GDRltSFfc1RTZVBK+pEOEvHPfTGWs1Zyijaww9WxIXTDjn/zshG9KjK+MHfQLqXAE8rgrB+d2s7C
+   EAljGdPyj7BnvJH+5z0=;
+Message-ID: <dae4dc92ac446ab05700524e532f4c2d@adwordskeyword.com>
+Date: Mon, 22 Oct 2018 00:12:04 +0000
+Subject: New Extensions to Google Analytics
+From: Google Extensions <info@adwordskeyword.com>
+Reply-To: Google Extensions <info@adwordsdisplay.com>
+To: "info@jcbl.com" <info@jcbl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1540167124_0f9e235cbaaded677413367d9147f93b_=_"
+X-Sender: bounce@adwordskeyword.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://ca.adwordsdisplay.com/index.php/campaigns/eb536tdqmk178/report-abuse/go524vhln0f49/ll146sprzq776
+X-Receiver: info@jcbl.com
+X-Fxyn-Tracking-Did: 0
+X-Fxyn-Subscriber-Uid: ll146sprzq776
+X-Fxyn-Mailer: SwiftMailer - 5.4.x
+X-Fxyn-EBS: http://ca.adwordsdisplay.com/index.php/lists/block-address
+X-Fxyn-Delivery-Sid: 3
+X-Fxyn-Customer-Uid: vd904vhnbjcc7
+X-Fxyn-Customer-Gid: 0
+X-Fxyn-Campaign-Uid: eb536tdqmk178
+Precedence: bulk
+List-Unsubscribe: <http://ca.adwordsdisplay.com/index.php/lists/go524vhln0f49/unsubscribe/ll146sprzq776/eb536tdqmk178/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:info@adwordsdisplay.com?subject=Campaign-Uid:eb536tdqmk178 /
+ Subscriber-Uid:ll146sprzq776 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: go524vhln0f49 <wiki>
+Feedback-ID: eb536tdqmk178:ll146sprzq776:go524vhln0f49:vd904vhnbjcc7
+
+
+--_=_swift_v4_1540167124_0f9e235cbaaded677413367d9147f93b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+!Important update for Webmasters / Sales & Marketing team New
+Extensions to Google Analytics
+Dear Google Analytics Users
+Google Analytics Extension Update: Starting October 10th, 2018, this
+new extension will now allow you to view even more information about
+your website visitors in nearly real-time, including search keywords,
+contact emails and more.
+Please visit Web leads for Google Analytics
+http://ca.adwordsdisplay.com/index.php/campaigns/eb536tdqmk178/track-url/l=
+l146sprzq776/ceb126a8d0775ebc23e97b932bb5a037629be038
+Just Launched: New InMarket Leads Tool
+Google InMarket Leads gives you the opportunity to get direct contact
+with the companies that have searched for a given company, product or
+service on Google. Even though the company has not visited your site,
+Google may still see what they've searched for.
+Please visit Google InMarket Leads
+http://ca.adwordsdisplay.com/index.php/campaigns/eb536tdqmk178/track-url/l=
+l146sprzq776/b4ed8e9c434b4fca6cd901ad674ffd0029c1f399
+for more details.
+Sign up with your Google Analytics account now to access the new
+extension.
+SIGN IN WITH GOOGLE ANALYTICS
+http://ca.adwordsdisplay.com/index.php/campaigns/eb536tdqmk178/track-url/=
+ll146sprzq776/26bda4d345a94dd95b492cee9e256c10fd6118c0
+=C2=A0
+Sincerely,
+Fastbase / Extension to Google Analytics
+DESIGNED FOR
+=C2=A9 2018 Fastbase Inc.
+You have received this mandatory service announcement to update you
+about important changes
+to Google Analytics or your account.
+Unsubscribe Here
+http://ca.adwordsdisplay.com/index.php/campaigns/eb536tdqmk178/track-url/=
+ll146sprzq776/4623527fa82b60dd59ab99daba34e6fc8b08ab83=C2=A0If=C2=A0yo=
+u=C2=A0want=C2=A0to=C2=A0stop=C2=A0further=C2=A0correspondence
+with FastBase Inc.
+
+--_=_swift_v4_1540167124_0f9e235cbaaded677413367d9147f93b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"UTF-8"><meta name=3D"x-apple-disable-message-refor=
+matting"><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"viewport" content=3D"width=3Ddevice-width, initi=
+al-scale=3D1, maximum-scale=3D1, user-scalable=3Dno">
+	<title>New Google Analytics Extension</title>
+	<style type=3D"text/css">@media only screen and (max-device-width: 767px) =
+{
+.mainbody {
+width:100% !important;
+}
+.indent_txt{
+}
+}
+@media only screen and (max-device-width:640px) {
+indent_txt
+{
+
+}
+.mainbody {
+width:100% !important;
+}
+.mb_pad1 {
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+.mb-title1 {
+font-size:16px !important;
+}
+}
+	</style>
+</head>
+<body bgcolor=3D"#fafafa" style=3D"width:100%; margin:0; padding:0">
+<table align=3D"left" bgcolor=3D"#fafafa" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"mainbody" style=3D"padding:0; margin:0px; backg=
+round-color:#fafafa;  font-family:Arial,sans-serif; width:100%">
+	<tbody>
+		<tr style=3D"">
+			<td valign=3D"top">=C2=A0</td>
+		</tr>
+		<tr>
+			<td align=3D"center" class=3D"main-colm" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mainbo=
+dy" style=3D"width:640px; max-width:100%;  margin:0px; padding:0px">
+				<tbody>
+					<tr>
+						<td align=3D"center" valign=3D"top">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der:#e0dede 1px solid; width:100%">
+							<tbody>
+								<tr>
+									<td class=3D"mb_pad1" style=3D"padding:30px 40px; background-col=
+or:#497ae0; color:#fff; letter-spacing:0.5px"><font class=3D"indent_txt" s=
+tyle=3D" display:block; margin-bottom:28px"><span style=3D"width: 8px;he=
+ight: 8px;font-size: 12px;border-radius:50%;border:2px solid #fff;displa=
+y:inline-block;text-align:center;line-height: 10px;margin-right: 5px;pad=
+ding: 3px;font-weight: bold;">!</span>Important update for Webmasters / =
+Sales & Marketing team</font> <font style=3D"font-size:26px; line-height:3=
+2px; color:#fff; text-align:center;">New Extensions to Google Analytics<=
+/font></td>
+								</tr>
+								<tr>
+									<td align=3D"left" class=3D"mb_pad1" style=3D"padding:30px 40px; b=
+ackground-color:#fff;">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"width:100%">
+										<tbody>
+											<tr>
+												<td align=3D"left" style=3D"padding-top:0px;padding-bottom:38=
+px;"><font color=3D"#525252" style=3D"font-size:15px; font-family:Arial,=
+sans-serif; padding-bottom:0px; padding-top:0px; display:block; padding-=
+left:0px; margin:0px; padding-right:0px">Dear Google Analytics Users</fo=
+nt></td>
+											</tr>
+											<tr>
+												<td style=3D"padding-top:0px;padding-bottom:35px;"><font cl=
+ass=3D"font1" color=3D"#525252" style=3D"font-size:15px; font-family:Arial=
+,sans-serif; padding-bottom:0px; padding-top:0px; display:block; padding=
+-left:0px; margin:0px; line-height:28px!important; padding-right:0px"><s=
+trong>Google Analytics Extension Update</strong>: Starting October 10th,=
+ 2018, this new extension will now allow you to view even more informati=
+on about your website visitors in nearly real-time, including search key=
+words, contact emails and more.<br />
+												Please visit <a href=3D"http://ca.adwordsdisplay.com/index.php/=
+campaigns/eb536tdqmk178/track-url/ll146sprzq776/ceb126a8d0775ebc23e97b93=
+2bb5a037629be038" style=3D"color:#295ecf" target=3D"_blank">Web leads fo=
+r Google Analytics</a> </font></td>
+											</tr>
+											<tr>
+												<td><font class=3D"font1" color=3D"#525252" style=3D"font-size:=
+15px; font-family:Arial,sans-serif; padding-bottom:0px; padding-top:0px;=
+ display:block; padding-left:0px; margin:0px; line-height:28px!important=
+; padding-right:0px"><strong>Just Launched: New InMarket Leads Tool</str=
+ong></font></td>
+											</tr>
+											<tr>
+												<td style=3D"padding-top:0px;padding-bottom:15px;"><font cl=
+ass=3D"font1" color=3D"#525252" style=3D"font-size:15px; font-family:Arial=
+,sans-serif; padding-bottom:0px; padding-top:0px; display:block; padding=
+-left:0px; margin:0px; line-height:28px!important; padding-right:0px">Go=
+ogle InMarket Leads gives you the opportunity to get direct contact with=
+ the companies that have searched for a given company, product or servic=
+e on Google. Even though the company has not visited your site, Google m=
+ay still see what they've searched for.<br />
+												Please visit <a href=3D"http://ca.adwordsdisplay.com/index.php/=
+campaigns/eb536tdqmk178/track-url/ll146sprzq776/b4ed8e9c434b4fca6cd901ad=
+674ffd0029c1f399" style=3D"color:#295ecf" target=3D"_blank">Google InMar=
+ket Leads</a> for more details.</font></td>
+											</tr>
+											<tr>
+												<td style=3D"padding-top:0px;padding-bottom:55px;"><font cl=
+ass=3D"font1" color=3D"#525252" style=3D"font-size:15px; font-family:Arial=
+,sans-serif; padding-bottom:0px; padding-top:0px; display:block; padding=
+-left:0px; margin:0px; line-height:28px!important; padding-right:0px">Si=
+gn up with your Google Analytics account now to access the new extension=
+.</font></td>
+											</tr>
+											<tr>
+												<td style=3D"text-align:center"><a href=3D"http://ca.adwordsd=
+isplay.com/index.php/campaigns/eb536tdqmk178/track-url/ll146sprzq776/26b=
+da4d345a94dd95b492cee9e256c10fd6118c0" style=3D"font-family:Arial; font-we=
+ight:noraml; color:#ffffff; font-size:14px; background:#4285f4; padding:=
+14px 20px 14px 20px; text-decoration:none; border-radius: 3px; display:i=
+nline-block;" target=3D"_blank">SIGN IN WITH <span style=3D"font-weight:=
+bold;">GOOGLE ANALYTICS</span></a></td>
+											</tr>
+											<tr>
+												<td style=3D"height:40px;">=C2=A0</td>
+											</tr>
+											<tr>
+												<td style=3D"padding-top:0px;padding-bottom:0px;"><font cla=
+ss=3D"font1" color=3D"#525252" style=3D"font-size:15px; font-family:Arial,=
+sans-serif; padding-bottom:0px; padding-top:0px; display:block; padding-=
+left:0px; margin:0px; line-height:28px!important; padding-right:0px">Sin=
+cerely,<br />
+												<span style=3D"font-size:17px">Fastbase / Extension to Google A=
+nalytics</span></font></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der:#e0dede 0px solid;width:100%; margin:0 auto;  max-width:100%;">
+							<tbody>
+								<tr>
+									<td style=3D"text-align:center; padding:30px 0px; "><font colo=
+r=3D"#525252" style=3D"font-size:12px; font-weight:600; font-family:Aria=
+l,sans-serif; padding:0px; margin:0px; text-align:center;">DESIGNED FOR<=
+br />
+									<span style=3D"font-size:25px; margin-bottom:15px; display:block">=
+<img src=3D"http://test.mailpaths.org/frontend/assets/gallery/cmpdo516v1oo=
+h809/google.png" style=3D"width:85px; margin:0; margin-top:5px;" /></span>=
+=C2=A9 2018 Fastbase Inc.</font></td>
+								</tr>
+								<tr>
+									<td style=3D"text-align:center; padding:0"><font color=3D"#52525=
+2" style=3D"font-size:12px; font-weight:600; font-family:Arial,sans-serif;=
+ padding:0px; margin:0px; text-align:center;">You have received this man=
+datory service announcement to update you about important changes<br />
+									to Google Analytics or your account.</font></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<br />
+			<br />
+			<a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"http://ca.adwordsdispla=
+y.com/index.php/campaigns/eb536tdqmk178/track-url/ll146sprzq776/4623527f=
+a82b60dd59ab99daba34e6fc8b08ab83" target=3D"_blank">Unsubscribe Here</=
+a>=C2=A0<span style=3D"color:#000033;">If=C2=A0you=C2=A0want=C2=A0to=C2=A0s=
+top=C2=A0further=C2=A0correspondence with FastBase Inc.</span></td>
+		</tr>
+	</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"http://ca.adwordsdisplay.com/index.php=
+/campaigns/eb536tdqmk178/track-opening/ll146sprzq776" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_v4_1540167124_0f9e235cbaaded677413367d9147f93b_=_--
+

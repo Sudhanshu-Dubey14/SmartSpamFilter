@@ -1,0 +1,102 @@
+Return-Path: <sodeaid@cp.arfadiacloud.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <aarti@jcblgroup.com>
+X-Envelope-To-Blocked: <aarti@jcblgroup.com>
+X-Quarantine-ID: <agg8gZEbfaqn>
+X-Spam-Flag: YES
+X-Spam-Score: 8.197
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.197 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635,
+	MIME_HTML_ONLY=1.105, NML_ADSP_CUSTOM_MED=1.2, PYZOR_CHECK=1.985,
+	RCVD_IN_BRBL_LASTEXT=1.644, SUBJ_ALL_CAPS=1.625,
+	T_RP_MATCHES_RCVD=-0.01, T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id agg8gZEbfaqn for <aarti@jcblgroup.com>;
+	Thu, 18 Oct 2018 00:05:29 +0530 (IST)
+Received: from cp.arfadiacloud.com (cp.arfadiacloud.com [52.74.237.90])
+	by mx10.jcbl.com (Postfix) with ESMTPS id D65BAEE90B1
+	for <anju@houseofdesign.co.in>; Thu, 18 Oct 2018 00:05:26 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=sodea.id;
+	 s=default; h=Content-Type:Content-Transfer-Encoding:MIME-Version:Message-ID:
+	Subject:From:To:Date:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=1/Dl4LL7FpJk0AgQqkvoPpuSfmz1cw+furtCSXP/vZI=; b=TvL0mqnP8nWnJPNKhW7Le3yDXK
+	9b/nviCDR85hbSj8xRG+VLwBKVdMbGVRDoA1FbiHlpNrdW8BuZvvmA4dK8wjWqAhewm+E7jwI67s9
+	ZvHDQPDq+T+9lxhNOkK0ycR7SVtcoP0xGWndyxdsMNI5yXyZFApeFxY82I1uYe/FhS0Ks6nBThX2I
+	Dj/fDumqdxsAf1fw9FwcYIgodnrpiSm8NtsICuEie/UItLJsq1HCUYconUtRs9cIsFOOIbIWJEM0d
+	LPaFivLkrlkE1Kco9bI5/Jo+CjFrjPWl6KkQx6LwZQqG8jkpE3iv746O7zUfo7hi0Bx7rsyUvb9as
+	IpN4sIHw==;
+Received: from sodeaid by cp.arfadiacloud.com with local (Exim 4.91)
+	(envelope-from <sodeaid@cp.arfadiacloud.com>)
+	id 1gCqgR-0007dj-3Y
+	for anju@houseofdesign.co.in; Thu, 18 Oct 2018 01:36:39 +0700
+Date: Wed, 17 Oct 2018 18:36:39 +0000
+To: anju@houseofdesign.co.in
+From: =?UTF-8?Q?BUILD_IRAQ_PROJECT?= <shammuhssan@gmail.com>
+Subject: =?UTF-8?Q?THE_RE=2dBUILD_IRAQ_PROJECT?=
+Message-ID: <347ddad6fc4dfcbd03b8af531e1329d2@www.sodea.id>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cp.arfadiacloud.com
+X-AntiAbuse: Original Domain - houseofdesign.co.in
+X-AntiAbuse: Originator/Caller UID/GID - [516 496] / [47 12]
+X-AntiAbuse: Sender Address Domain - cp.arfadiacloud.com
+X-Get-Message-Sender-Via: cp.arfadiacloud.com: authenticated_id: sodeaid/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: cp.arfadiacloud.com: sodeaid
+X-Source: 
+X-Source-Args: lsphp:/home/sodeaid/public_html/fonts/prom.php
+X-Source-Dir: sodea.id:/public_html/fonts
+
+17/10/2018
+=20
+Salaam Aleikum,
+=20
+The economy of Iraq has been devastated by the recent war, now that the war=
+ is winding down the emphasis in Iraq has turned to rebuilding a viable, vi=
+brant economy, in this light the Iraq Reconstruction Management Office (IRM=
+O) have been saddled with a renewed mandate from the Iraqi government to so=
+licit, evaluate and recommend reputable foreign companies to work as partne=
+rs in "THE RE-BUILD IRAQ PROJECT ". The launch of ongoing sourcing and bulk=
+ supply strategies has opened up new streams of public sector supply opport=
+unities, as your company has been shortlisted for this purpose and to parti=
+cipate " THE RE-BUILD IRAQ PROJECT ", this responsibility is required to be=
+ carried out transparently by all shortlisted companies, its also pertinent=
+ to inform all new contractors that Ad-hoc disbursement centers are now bee=
+n utilized to expedite payments to contractors through our European payment=
+ centers.
+=20
+Please kindly confirm your willingness to partake in this bulk supplies and=
+ contracting program under this new initiative "THE RE-BUILD IRAQ PROJECT "=
+=2E Note confirmation should be strictly by our email as written below, in =
+order to allow us send detailed procedures and the accompanying Iraq Recons=
+truction Management Office (IRMO) questionnaire will be sent promptly. Than=
+k you for your co-operation.
+=20
+Yours Faithfully,=20
+  =20
+Muhssan Sham(Engr.)
+Tel: +964-750-211-9067 EXT 102(Arab speaking), +44-70-319-028315 EXT 105(En=
+glish speaking)
+Fax: +964-780-380-0101, +44-70-240-10405
+Email: supplies@irmo.gq,shammuhssan@gmail.com
+___________________________________________________________________________=
+________________________________________________________________________
+Statement of Confidentiality: The contents of this e-mail message and any a=
+ttachments are confidential and are intended solely for addressee. The info=
+rmation may also be legally privileged. This transmission is sent in trust,=
+ for the sole purpose of delivery to the intended recipient. If you have re=
+ceived this transmission in error, any use, reproduction or dissemination o=
+f this transmission is strictly prohibited. If you are not the intended rec=
+ipient, please immediately notify the sender by reply e-mail or phone and d=
+elete this message and its attachments, if any.
+___________________________________________________________________________=
+________________________________________________________________________
+Sent from IRMO Server 2

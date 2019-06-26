@@ -1,0 +1,119 @@
+Return-Path: <3244-2323038371-371-acme=jcbl.com@mail.colorlght.xyz>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <info@acmeformulation.com>, <viralshah@acmeformulation.com>,
+	<praveen_ajauria@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <as3ZBHMuhvk6>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id as3ZBHMuhvk6; Thu, 16 Jun 2016 17:44:25 +0530 (IST)
+Received: from lake.colorlght.xyz (unknown [155.94.230.5])
+	by mx10.jcbl.com (Postfix) with ESMTP id 55837F22A99
+	for <acme@jcbl.com>; Thu, 16 Jun 2016 17:44:22 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=colorlght.xyz;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Reverse-Mortgage-Quiz.com@colorlght.xyz;
+ bh=t4npei9OtllbRj32EgneILArDSs=;
+ b=v+HCMQf4p4K6nzFVOGMeq6VLKG+UT5YX2/jKpJu+yxjZCrYFACP0+H6Xo614UWJx6qRdSnISbweX
+   SqC1J+kFBltP0l/17f4djfERu/C8JpzautK0Z2ltk/Mph0IIL6YusPb0Y+EMXNCkXWt8eX1vxtA/
+   weV/QSDa6z5xVgpSjwk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=colorlght.xyz;
+ b=c3azGAZuj/7pFtpImcOm6C7fSxtn2WMWXxhH35mzqN7k658CWofVRh23lx9D7eIPLl4tGwL1e34h
+   nFHyiGSJ0OBi2TIKE5qHd0m/feHtilkQZFRY4yPXxJuxN1DeTZOO0ozZVhUHBe64wKH1UsJaRech
+   QPvAp1fg5ddtFzZS3Js=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="0ebc67abf9df65088e8f60d0a7288c09"
+Date: Thu, 16 Jun 2016 08:00:30 -0400
+From: "Reverse-Mortgage-Quiz.com" <Reverse-Mortgage-Quiz.com@colorlght.xyz>
+Reply-To: "Reverse-Mortgage-Quiz.com" <Reverse-Mortgage-Quiz.com@colorlght.xyz>
+Subject: Online Quiz - is a reverse mortgage right for you
+To: <acme@jcbl.com>
+Message-ID: <0.0.2323038371.yryjpl8a76c0a3uamdxx778089.0@colorlght.xyz>
+
+--0ebc67abf9df65088e8f60d0a7288c09
+Content-Type: text/plain;
+
+Online Quiz - is a reverse mortgage right for you
+
+http://colorlght.xyz/HvGBrjX1DQePI4HPj7FV_9vfQtinEBwuEjhcMIJ0A9U
+
+Take this quiz to see if you qualify for a reverse mortgage
+
+Take this quiz to see how much you may receive with a reverse mortgage
+
+http://colorlght.xyz/HvGBrjX1DQePI4HPj7FV_9vfQtinEBwuEjhcMIJ0A9U
+
+Take this quiz to see if a reverse mortgage is a fit for you
+
+Online Quiz - is a reverse mortgage right for you
+
+
+
+to re-move 
+http://colorlght.xyz/oRRGAxqTu975_jPppgdTsIdcEvh2AA2e6ws78PF1u6M
+
+--0ebc67abf9df65088e8f60d0a7288c09
+Content-Type: text/html;
+
+<html>
+<head>
+</head>
+<body>
+<div style="margin-left: 40px; text-align: center;"><img src="http://colorlght.xyz/0d35ad97161f19386a.jpg" /></div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;">&nbsp;</div>
+</body>
+</html>
+<title></title>
+<a href="http://colorlght.xyz/7COzUNLp79Akad5y0pqr2U9PyHbe3B2FWMFxpWJVKXA"><img src="http://colorlght.xyz/0d35ad97161f19386a.jpg" /></a><img height="1" src="http://www.colorlght.xyz/VJq0rbPGcPS7h1WVKCuf1Ygy188M5nibwwaBQ3QJw-k" width="1" />
+<div style="text-align: center;">&nbsp;
+<h6>View this email <a href="http://colorlght.xyz/HvGBrjX1DQePI4HPj7FV_9vfQtinEBwuEjhcMIJ0A9U" style="color:#066EBE" target="_blank">online</a></h6>
+</div>
+
+<h1 style="font-size: 28px; padding: 0px 0px 10px 20px; display: block; border-bottom: 1px solid rgb(228, 228, 228); color: rgb(221, 2, 0); margin-left: 40px; text-align: center;"><a href="http://colorlght.xyz/HvGBrjX1DQePI4HPj7FV_9vfQtinEBwuEjhcMIJ0A9U" style="text-decoration:none" target="_blank"><b style="font-size:30px;color:#3584a2">Online Quiz - is a reverse mortgage right for you</b></a></h1>
+
+<div style="margin-left: 40px; text-align: center;"><a href="http://colorlght.xyz/HvGBrjX1DQePI4HPj7FV_9vfQtinEBwuEjhcMIJ0A9U" target="_blank"><img alt="Online Quiz - is a reverse mortgage right for you" border="0" src="http://colorlght.xyz/7d48f8a7acb8120624.jpg" style="box-shadow: 0px 0px 5px 5px #050000;" /></a><br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+
+<div style="margin-left: 40px; text-align: center;"><a href="http://colorlght.xyz/Fwy4GvCsBuK20z2JjBjmvueKsCYwXuHay0Qcb36ocAU" target="_blank"><img src="http://colorlght.xyz/a127e206ef58d76438.png" /></a></div>
+
+<p style="margin-left: 40px; text-align: center;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p style="margin-left: 40px; text-align: center;"><a href="http://colorlght.xyz/oRRGAxqTu975_jPppgdTsIdcEvh2AA2e6ws78PF1u6M"><img alt="" border="0" src="http://colorlght.xyz/c39f7edc0b7d1f685d.jpg" style="" /></a></p>
+
+<table align="left" height="449" style="background-color: rgb(255, 255, 255); border: 14px solid white;" width="600">
+	<tbody>
+		<tr>
+			<td>
+			<div id="random" style="color: #FFFFFF; font: Tahoma 4pt; border: 7px;">
+			<p style="text-align:left"><br />
+			Americans&#39; dieting attempts are of a self-help nature.</p>
+			problem created by use of the word &quot;complete <a href="http://colorlght.xyz/7COzUNLp79Akad5y0pqr2U9PyHbe3B2FWMFxpWJVKXA"><img src="http://colorlght.xyz/0d35ad97161f19386a.jpg" /></a> <img height="1" src="http://www.colorlght.xyz/VJq0rbPGcPS7h1WVKCuf1Ygy188M5nibwwaBQ3QJw-k" width="1" /> <a href="http://colorlght.xyz/7COzUNLp79Akad5y0pqr2U9PyHbe3B2FWMFxpWJVKXA"><img src="http://colorlght.xyz/0d35ad97161f19386a.jpg" /></a> <img height="1" src="http://www.colorlght.xyz/VJq0rbPGcPS7h1WVKCuf1Ygy188M5nibwwaBQ3QJw-k" width="1" />
+			<p>&nbsp;</p>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="margin-left: 600px;"><img src="http://colorlght.xyz/0d35ad97161f19386a.jpg" /></div>
+
+

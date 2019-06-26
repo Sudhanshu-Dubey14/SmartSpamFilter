@@ -1,0 +1,577 @@
+Return-Path: <donotreply@smartdraw.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <brijesh.chaubey@acmeformulation.com>,
+	<brijesh_chaubey@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aFXdO1ifz_aE>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aFXdO1ifz_aE; Tue, 26 Jan 2016 07:45:31 +0530 (IST)
+Received: from bizmail.smartdraw.com (bizmail.smartdraw.com [69.30.95.102])
+	by mx10.jcbl.com (Postfix) with ESMTP id C4BD8EC693A
+	for <brijesh_chaubey@jcbl.com>; Tue, 26 Jan 2016 07:45:30 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkey1; d=smartdraw.com;
+ h=From:To:Reply-to:Subject:MIME-Version:Content-Type; i=donotreply@smartdraw.com;
+ bh=w4KSfWaPt2sOCmJwrhlA0VKHQkg=;
+ b=SzEa37L8EvBv4s2pUBd4e+GBc8OITtQTHAmF91B5at2h4S+WC4poKEPRz9IHR7uFId6yVn48D4aU
+   mWyk8P3jclmE96gCcLZ9JUz8gCgwKpllJZmNW0vJNfK7hHiv8+Ma7vi0Q6gkYLR7x9StyWsWqbnU
+   Dxcj4yfXgELxxReQR3s=
+Received: by bizmail.smartdraw.com id hkrbjo1b8eoa for <brijesh_chaubey@jcbl.com>; Mon, 25 Jan 2016 11:50:50 -0800 (envelope-from <donotreply@smartdraw.com>)
+From: SmartDraw Software <donotreply@smartdraw.com>
+To:   <brijesh_chaubey@jcbl.com>
+Reply-to: messagereply@smartdraw.com
+Subject: An objective look at the Lean Startup strategy. Part 2 of 4
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f"
+
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/plain; charset=Windows-1252
+
+***********************************************************
+Lean Startup: The Right Strategy or Fool's Gold? (Part 2 of 4)
+***********************************************************
+In this series of four articles, we are examining the Lean
+Startup philosophy, how it aims to overcome three huge
+obstacles to startups, some drawbacks cited by critics of the
+Lean Startup, and finally, what we believe to be the answer
+to the question, "Is a Lean Startup the right strategy or
+fool's gold?"
+
+In Part 1, we looked at the Lean Startup philosophy, which
+focuses on customer satisfaction through continuous product
+and service innovation.
+
+In Part 2, we'll examine the three business obstacles that
+the Lean Startup aims to overcome.
+
+***********************************************************
+Obstacle 1: Incomplete Business Plan
+***********************************************************
+A recent article, "Why the Lean Start-Up Changes Everything" 
+by Steve Blank, appeared in the Harvard Business Review.
+(Blank is an associate professor at Stanford University;
+Eric Reis is one of his former students.) It discusses the
+"fallacy of the perfect business plan." Blank likens the
+futility of trying to accurately predict a five-year business
+forecast to a comment Mike Tyson once made about his opponents'
+prefight strategies: "Everybody has a plan until they get
+punched in the mouth."
+
+According to Blank, most businesses don't survive their first
+contact with customers. So while existing companies execute
+a business model, startups look for one. The Lean Startup is
+"designed to search for a repeatable and scalable business model."
+
+The Lean Startup philosophy is more interested in getting a
+product into the hands of potential customers quickly than
+spending a lot of time on hypothetical business forecasting.
+
+***********************************************************
+Obstacle 2: Untested Market Demand for the Company's Product
+***********************************************************
+Developing a finished product is often a time-consuming and
+capital-intensive undertaking. Worst of all, a traditional
+approach may produce an untested product that misses the mark
+and results in failure of the enterprise. The Lean Startup
+works around this issue through the MVP and a concept known
+as the "pivot."
+
+The MVP, or minimum viable product, is a product that has
+just enough features to be deployed for testing to early
+adopters. This is a group of prospective customers who are
+savvy enough to understand the company's vision through an
+early prototype model, and willing to offer feedback. The idea
+is for the company to avoid, as early as possible, building a
+product that customers don't want. Developing an MVP is the
+first step in the build-measure-learn feedback loop.
+
+In a pivot, a business hypothesis about the product, business
+model, or engine of growth is tested. If it fails, then a
+corrective course of action is taken.
+
+Creating a product in this manner becomes an iterative process
+between the business and its prospective customers.
+
+***********************************************************
+Obstacle No. 3: Lack of Adequate Funding
+***********************************************************
+It's no secret that most startups fail due to under-capitalization.
+But is it just a capitalization problem? Or is the real issue
+that all too frequently, startup capital is depleted during
+the development of an end product that customers simply don't
+want.
+
+The Lean Startup approach is intentionally geared to reduce
+the need for heavy upfront capital investment. This is done
+by quickly (a) building a basic product (the MVP) for launch,
+(b) testing the market's acceptance of it, and then (c)
+iterating the product or service through innovation and customer
+feedback.
+
+In Part 3 of this series we'll look at the counterpoint view:
+drawbacks to the Lean Startup.
+
+***********************************************************
+Get started using Lean templates now
+***********************************************************
+There's no risk when you buy SmartDraw. You get an amazingly
+powerful yet easy-to-use product, along with free support and
+our unconditional, 30-day money-back guarantee.
+
+**********************************************************
+Learn more
+**********************************************************
+Now that you're part of the SmartDraw community we invite
+you to keep in touch with us on your favorite social networks.
+
+- Connect with SmartDraw Software on Twitter
+  http://www.twitter.com/smartdraw
+
+- Connect with SmartDraw Software on Facebook
+  http://www.facebook.com/smartdraw
+
+- Connect with SmartDraw Software on LinkedIn
+  https://www.linkedin.com/company/38151
+
+- SmartDraw on YouTube
+  http://www.youtube.com/smartdraw
+
+- SmartDraw on SlideShare:
+  http://www.slideshare.com/smartdraw
+
+- SmartDraw on Google Plus:
+  https://plus.google.com/117596231208646286903
+
+
+You control the e-mail you get from SmartDraw Software. Unlist.
+http://www.smartdraw.com/support/emailpreferences.aspx?email=brijesh_chaubey@jcbl.com&TypeID=1
+
+SmartDraw Software, LLC
+9909 Mira Mesa Blvd., San Diego, CA 92131 USA
+Phone: 800-817-4238 (toll-free) | Phone: 858-225-3370
+(c)1994 - 2015 SmartDraw, LLC
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/html; charset=Windows-1252
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Lean Startup: The Right Strategy or Fool's Gold? (Part 2 of 4)</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+    /* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+    table{border-collapse:collapse !important;}
+    body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+    /* iOS BLUE LINKS */
+    .appleBody a {color:#68440a; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+
+    /* MOBILE STYLES */
+    @media screen and (max-width: 525px) {
+
+      /* ALLOWS FOR FLUID TABLES */
+      table[class="wrapper"]{
+        width:100% !important;
+      }
+
+      /* ADJUSTS LAYOUT OF LOGO IMAGE */
+      td[class="logo"]{
+        text-align: left;
+        padding: 20px 0 20px 0 !important;
+      }
+
+      td[class="logo"] img{
+        margin:0 auto!important;
+      }
+
+      /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+      td[class="mobile-hide"]{
+        display:none;}
+
+        img[class="mobile-hide"]{
+          display: none !important;
+        }
+
+        img[class="img-max"]{
+          max-width: 100% !important;
+          height:auto !important;
+        }
+
+        /* FULL-WIDTH TABLES */
+        table[class="responsive-table"]{
+          width:100%!important;
+        }
+
+        .responsive-block {
+          display: block !important;
+          margin: auto !important;
+        }
+
+      .responsive-CTA {
+          width: 80%;
+          display: block;
+          margin: auto;
+        }
+
+        .iphone-fix {
+          padding: 10px 30px 10px 30px !important;
+          text-align: left !important;
+        }
+
+        .iphone-text {
+                font-size: 26px !important;
+         }
+
+         .iphone-h1 {
+                font-size: 40px !important;
+         }
+
+            .iphone-header {
+                font-size: 34px !important;
+                padding-top: 20px !important
+         }
+
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        td[class="padding"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        td[class="padding-copy"]{
+          padding: 10px 5% 10px 5% !important;
+          text-align: left !important;
+        }
+
+        td[class="padding-meta"]{
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+
+        td[class="no-pad"]{
+          padding: 0 0 20px 0 !important;
+        }
+
+        td[class="no-padding"]{
+          padding: 0 !important;
+        }
+
+        .no-padding {
+          padding: 0 !important;
+        }
+
+        td[class="section-padding"]{
+          padding: 10px 15px 10px 15px !important;
+        }
+
+        td[class="section-padding-bottom-image"]{
+          padding: 50px 15px 0 15px !important;
+        }
+
+        /* ADJUST BUTTONS ON MOBILE */
+        td[class="mobile-wrapper"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        table[class="mobile-button-container"]{
+          margin:0 auto;
+          width:100% !important;
+        }
+
+        a[class="mobile-button"]{
+          width:80% !important;
+          padding: 15px !important;
+          border: 0 !important;
+          font-size: 16px !important;
+        }
+
+      }
+    </style>
+  </head>
+  <body style="margin: 0; padding: 0;">
+
+<!-- HEADER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td bgcolor="#666666">
+      <div align="center" style="padding: 0px 15px 0px 15px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="600" class="wrapper">
+          <!-- GRAY BAR -->
+          <tr>
+            <td style="padding: 20px 0px 30px 0px;">
+
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- LOGO SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 40px 15px 0 15px;" class="section-padding">
+      <table border="0" cellpadding="0" cellspacing="0" width="600">
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <!-- LOGO -->
+                <td class="padding-copy">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td>
+                        <img src="http://wc1.smartdraw.com/specials/mailings/images/2015/logo.png" border="0" alt="SmartDraw Logo" style="display: block; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+                </td>
+            </tr>
+          </table>
+      </td>
+  </tr>
+</table>
+
+<!-- ONE COLUMN SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 0 15px 0px 15px;" class="section-padding">
+      <table border="0" cellpadding="0" cellspacing="0" width="600">
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>
+                  <table>
+                    <tr>
+                      <td valign="top" style="padding: 20px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="responsive-block iphone-fix iphone-h1"><font face="'Open Sans', Verdana, sans-serif" style="font-size:36px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Lean Startup: The Right Strategy or Fool's Gold? (Part 2 of 4)</font>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td class="padding-copy">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="padding-top:20px; text-align: center;">
+                        <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/TCB-123461.png" width="auto" height="auto" border="0" alt="Lean tips" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text iphone-fix iphone-fix"><font face="'Open Sans', Verdana, sans-serif">In this series of four articles, we are examining the Lean Startup philosophy, how it aims to overcome three huge obstacles to startups, some drawbacks cited by critics of the Lean Startup, and finally, what we believe to be the answer to the question, "Is a Lean Startup the right strategy or fool's gold?"</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text iphone-fix iphone-fix"><font face="'Open Sans', Verdana, sans-serif">In Part 1, we looked at the Lean Startup philosophy, which focuses on customer satisfaction through continuous product and service innovation.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text iphone-fix iphone-fix"><font face="'Open Sans', Verdana, sans-serif">In Part 2, we'll examine the three business obstacles that the Lean Startup aims to overcome.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Obstacle 1: Incomplete Business Plan</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">A recent article, <em>"Why the Lean Start-Up Changes Everything"</em> by Steve Blank, appeared in the Harvard Business Review. (Blank is an associate professor at Stanford University; Eric Reis is one of his former students.) It discusses the “fallacy of the perfect business plan.” Blank likens the futility of trying to accurately predict a five-year business forecast to a comment Mike Tyson once made about his opponents' prefight strategies: "Everybody has a plan until they get punched in the mouth."</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">According to Blank, most businesses don't survive their first contact with customers. So while existing companies execute a business model, startups look for one. The Lean Startup is "designed to search for a repeatable and scalable business model."</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">The Lean Startup philosophy is more interested in getting a product into the hands of potential customers quickly than spending a lot of time on hypothetical business forecasting.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Obstacle 2: Untested Market Demand for the Company's Product</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Developing a finished product is often a time-consuming and capital-intensive undertaking. Worst of all, a traditional approach may produce an untested product that misses the mark and results in failure of the enterprise. The Lean Startup works around this issue through the MVP and a concept known as the “pivot.”</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px; padding-top: 20px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">The MVP, or minimum viable product, is a product that has just enough features to be deployed for testing to early adopters. This is a group of prospective customers who are savvy enough to understand the company's vision through an early prototype model, and willing to offer feedback. The idea is for the company to avoid, as early as possible, building a product that customers don't want. Developing an MVP is the first step in the build-measure-learn feedback loop.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px; padding-top: 20px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">In a pivot, a business hypothesis about the product, business model, or engine of growth is tested. If it fails, then a corrective course of action is taken.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px; padding-top: 20px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Creating a product in this manner becomes an iterative process between the business and its prospective customers.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Obstacle No. 3: Lack of Adequate Funding</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">It's no secret that most startups fail due to under-capitalization. But is it just a capitalization problem? Or is the real issue that all too frequently, startup capital is depleted during the development of an end product that customers simply don't want.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px; padding-top: 20px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">The Lean Startup approach is intentionally geared to reduce the need for heavy upfront capital investment. This is done by quickly (a) building a basic product (the MVP) for launch, (b) testing the market's acceptance of it, and then (c) iterating the product or service through innovation and customer feedback.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px; padding-top: 20px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">In Part 3 of this series we'll look at the counterpoint view: drawbacks to the Lean Startup.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-size:20px; font-weight:400;padding-top: 20px; margin-top:10px;margin-bottom:7px;line-height:110%; color: #666; font-family: 'Open Sans', Verdana, sans-serif;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Get started using Lean templates now.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">There's no risk when you buy SmartDraw. You get an amazingly powerful yet easy-to-use product, along with free support and our unconditional, 30-day money-back guarantee.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <tr>
+              <!-- HERO IMAGE -->
+              <td class="padding-copy" style="padding-top:20px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+                  <tbody>
+                    <tr>
+                      <td align="center" style="font-size:16px; color:#666666;border:1px solid #bbbbbb; text-align:center;padding-bottom:20px; padding-left:20px; padding-right:20px;">
+                        <h2 class="iphone-header" style="font-size: 30px; margin-top:20px; margin-bottom:10px;text-align:center;"><a href="http://www.smartdraw.com/buy/?slscid=7604_14445007_752A93B3-57B2-4DD4-9C77-A93FC451F7EF" style="text-decoration: none;color:#336699;"><font face="'Open Sans', Verdana, sans-serif">Save $100 or More</font></a></h2>
+                        <p class="iphone-text" style="margin-bottom: 15px;"><font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;"><a href="http://www.smartdraw.com/buy/?slscid=7604_14445007_752A93B3-57B2-4DD4-9C77-A93FC451F7EF" style="color: #336699;">when you buy</a>, the all new SmartDraw CI today.</font></p>
+
+
+
+
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonCTA" style="border-radius:3px; background-color:#074F06; text-align:center; margin: auto;">
+                          <tbody>
+                            <tr style="text-align:center; margin:auto;">
+                              <td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px; text-align:center; margin: auto;">
+                                <font face="'Open Sans', Verdana, sans-serif"> <a class="iphone-text" href="http://www.smartdraw.com/buy/?slscid=7604_14445007_752A93B3-57B2-4DD4-9C77-A93FC451F7EF" target="_blank" style="color:#FFFFFF; width:220px; text-align:center; font-size:20px; margin: auto; font-weight:bold; text-decoration:none;">Buy Now</a>
+                                </font>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <font face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">
+                          <p class="iphone-text" style="margin-bottom:0; margin-top: 15px;">This deal is only available for a limited time through this special email offer, so don't delay... get your copy of SmartDraw CI today!</p>
+                        </font>
+                      </td>
+
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+
+
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- FOOTER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td bgcolor="#ffffff" align="center" style="padding: 20px 0px;">
+      <!-- UNSUBSCRIBE COPY -->
+      <table bgcolor="#666666" width="600">
+        <tr>
+          <td style="padding-top: 20px; padding-bottom: 20px">
+            <table bgcolor="#666666" width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="margin: auto;">
+              <tr>
+                <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#ffffff;">
+                  <span class="appleFooter" style="color:#ffffff;">You control the e-mail you get from SmartDraw Software: <a href="http://www.smartdraw.com/support/emailpreferences.aspx?email=brijesh_chaubey@jcbl.com&TypeID=1" style="color: #ffffff; text-decoration: underline;" target="_blank">Unlist</a></span><br><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">SmartDraw Software, LLC | 9909 Mira Mesa Blvd. | San Diego, CA 92131 | USA</span><br /><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">&copy;1994-2015 SmartDraw, LLC</span>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <table bgcolor="#666666" width="300" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:auto;">
+              <tr>
+                <td bgcolor="#666666"><a href="https://twitter.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-twitter.png" alt="SmartDraw's Twitter" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="http://www.facebook.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-facebook.png" alt="SmartDraw's Facebook " border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.linkedin.com/company/38151"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-linkedin.png" alt="SmartDraw's LinkedIn" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://plus.google.com/+Smartdrawsoftware/posts"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-googleplus.png" alt="SmartDraw's Goople Plus" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.pinterest.com/smartdraw/"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-pinterest.png" alt="SmartDraw's Pinterest" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.youtube.com/user/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-youtube.png" alt="SmartDraw's YouTube" border="0" style="display:block"></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<img src="http://wc1.smartdraw.com/images/7604_14445007_752A93B3-57B2-4DD4-9C77-A93FC451F7EF.aspx" width="1" height="1" border="0">
+</body>
+</html>
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f--

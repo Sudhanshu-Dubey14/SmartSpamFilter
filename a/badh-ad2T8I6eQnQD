@@ -1,0 +1,101 @@
+Return-Path: <mailer@surveyletters.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <vasudha_aggarwal@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ad2T8I6eQnQD>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ad2T8I6eQnQD for <vasudha_aggarwal@jcbl.com>;
+	Fri, 27 May 2016 01:30:51 +0530 (IST)
+Received: from mail222.surveyletters.com (mail222.surveyletters.com [66.226.75.222])
+	by mx10.jcbl.com (Postfix) with ESMTP id DCEFBEDBDA1
+	for <vasudha_aggarwal@jcbl.com>; Fri, 27 May 2016 01:30:50 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=surveyletters.com;
+ h=Date:From:To:Reply-to:List-Unsubscribe:Date:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; t=1464293420; i=mailer@surveyletters.com;
+ bh=i4pTwGXLsRo89/VdEgciMZ44gj4=;
+ b=L2MB89EpP8lXCXqrsvzb9vMby1NqOZQUBfET1PiJTIsfQIoZr5z7vm+6tUjmzORUZ0V5bLSXcyPP
+   Wlh+ffGy5MfSsTcZa+2vBdIuUBX3u0tL/swi5aECsjLKYUSrK81PXPdJKSx9FDL2MvQTUr/ucwUv
+   krXNusbtnREIb61+ShE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=surveyletters.com;
+ b=OMSXX/q0RNqATimibI+BVsh+iWUgJXMkFTMhoUm7DOSBdv2K67InsVG0KSmGAz2uoKszSHmr1upT
+   v+cvH4VPo5yWXy3k4kcYhcc2Shpv2mD5C16eYXfrqx5AyeMGcEin+qZKHQSZQG+9ZnXRIjJs2+l6
+   5pk3eH0ZJ65CObfBAxo=;
+Date: Thu, 26 May 2016 06:19:45 -0700
+From:  amazon<mailer@surveyletters.com> 
+To: vasudha_aggarwal@jcbl.com
+Reply-to:   mailer@surveyletters.com
+List-Unsubscribe: <mailto:unsub@surveyletters.com>
+Date: Thu, 26 May 2016 06:20:03 -0700
+Subject: new deal every day
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<font size='2'><center>To ensure delivery to your inbox, please add <a href='mailto:mailer@surveyletters.com'>mailer@surveyletters.com</a> to your address book<br>Don't Miss a Single Deal! Please Mark Our Email Not-Spam</center></font><br> <html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlusÂ®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <center>
+  <table>
+			<tr colspan=2>
+				<td colspan=2><center>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24064&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/Dealoftheday.jpg" border=0 alt="Amazon Hadpicked Deals"></a>
+				</td>
+			</tr>
+
+			
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24065&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/ihavePowerBank.png" border=0 alt="Amazon Hadpicked Deals 40% off on PowerBanks"></a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24066&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/ce_av_deals.jpg" border=0  alt="Amazon Hadpicked Deals 40% off on Headphones"></a>
+				</td>
+			</tr>
+
+			
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24067&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/Mobiles.png" border=0 alt="Amazon Hadpicked Deals 40% off on mobiles"></a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24068&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/MI-store.png" border=0  alt="Amazon Hadpicked Deals 30% off on laptops"></a>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24069&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/TV.png" border=0  alt="Amazon Hadpicked Deals 30% off on TV"> </a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24070&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/diapers.jpg" border=0  alt="Amazon Hadpicked Deals 30% off on Diapers"></a>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24071&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/KenstarAc.png" border=0  alt="Amazon Hadpicked Deals Tabs under 10K"></a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48575638&linkID=24066&cmpID=3004215"  ><img src="http://www.surveyletters.com/creative/amazon-deals/spkr_50pc.jpg" border=0  alt="Amazon Hadpicked Deals 50% off on Speakers"></a>
+				</td>
+			</tr>
+
+
+
+
+  </table>
+ </body>
+</html>
+<img size='0' src='http://www.surveyletters.com/urc?act=openHandler&clid=86&u=48575638&cmpID=3004215'><center><font size='2'><br><br><br>If you do not wish to receive any newsletters and promotional emails from us, then please <a href='http://www.surveyletters.com/unsub.jsp?e=vasudha_aggarwal@jcbl.com&clid=86&u=48575638&cmpID=3004215'> Unsubscribe </a> here.</font></center>

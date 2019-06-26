@@ -1,0 +1,64 @@
+Return-Path: <ocs@icat.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <s_shekhar@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aTjFisZ_i1zA>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aTjFisZ_i1zA for <s_shekhar@jcbl.com>;
+	Mon, 20 Mar 2017 16:38:07 +0530 (IST)
+Received: from scanner.cloudmailstore.com (unknown [103.11.84.128])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 0C2CEF68138
+	for <s_shekhar@jcbl.com>; Mon, 20 Mar 2017 16:38:04 +0530 (IST)
+Received: from Internal Mail-Server by mx3.cloudmailstore.com (envelope-from
+	ocs@icat.in) with SMTP; 20 Mar 2017 16:30:41 +0530
+Received: from Application ([172.168.0.33]) by mail.icat.in
+	([111.93.38.214]) (MDaemon PRO v16.5.2)  with ESMTP id md50000105561.msg for
+	<s_shekhar@jcbl.com>; Mon, 20 Mar 2017 16:37:37 +0530
+X-Spam-Processed: mail.icat.in, Mon, 20 Mar 2017 16:37:37 +0530 (not
+	processed: message from trusted or authenticated source)
+X-MDRemoteIP: 172.168.0.33
+X-MDHelo: Application
+X-MDArrival-Date: Mon, 20 Mar 2017 16:37:37 +0530
+X-Return-Path: ocs@icat.in
+X-Envelope-From: ocs@icat.in
+X-MDaemon-Deliver-To: s_shekhar@jcbl.com
+From: ocs@icat.in
+To: s_shekhar@jcbl.com
+Message-ID: <904279526.1129.1490008040670.JavaMail.root@Application>
+Subject: [No Reply] FI Created
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+VadeRetro-Refid: LEGIT, OK,
+	(49)(0000)gggruggvucftvghtrhhoucdtuddrfeelhedrieejgddvhecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfrkffpgfetrffrnecuuegrihhlohhuthemuceftddtnecupfhoucgurghtvgcufhhivghlugculdegledmnecujfgurhephffvkffugggtgfeshhejtgdttddtvdenucfhrhhomhepohgtshesihgtrghtrdhinh
+Spam-Score: -0.10
+
+<body>
+
+  <br />
+  	Dear   Shekhar Sadashiv,<br />
+  <br />
+		
+	Summary of generated invoice is given below:  <br />
+
+	Docket Number 	: CVTBDJCBLLFCAE44325 <br />
+	Invoice Number 	: 27364  <br />
+	
+	Invoice Amount 	: 61,051.32 INR <br />
+	Service Tax 		: 9,157.70 INR <br />
+	Total Payable 	: 70,209.00 INR <br />
+	
+
+ 	Regards,<br />
+ 	Accounts Department
+ 	ICAT
+	<br /><br />
+	 This is a system generated e-mail. Please do not reply. In case of any concern, please e-mail the Customer Services Cell at team@icat.in with docket number reference.
+</body>
+

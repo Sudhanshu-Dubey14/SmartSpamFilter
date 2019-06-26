@@ -1,0 +1,65 @@
+Return-Path: <tomato@partyfinderpro.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <baljit_sidhu@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <anFn7nD9-603>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id anFn7nD9-603 for <baljit_sidhu@mslindia.net>;
+	Wed, 18 May 2016 10:34:36 +0530 (IST)
+Received: from mta6.partyfinderpro.com (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with SMTP id 79091ED99AF
+	for <baljit_sidhu@mslindia.net>; Wed, 18 May 2016 10:34:35 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=partyfinderpro.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=StuPT0/gFHsSnJy44GRFBdgt0kC9KEhs3wQvopmmryEIpm4RfUaEThxh1NtF1x3usGAlKPIxAirrDbeW/uhtiT1v5cFUViDhWkpmcnaXKySzJKQHXKm3jbYOVWt90T6V;
+Date: Wed, 18 May 2016 07:13:31 00100
+To: <baljit_sidhu@mslindia.net>
+Message-ID: <wsbn.wke@partyfinderpro.com>
+From: "Tomato Giant Special" <tomato@partyfinderpro.com>
+Subject: Grow delicious, fresh tomatoes in your own backyard
+Date: 18 May 2016 07:13:31 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://partyfinderpro.com/282bz4216a2">
+<html>
+<head>
+<title>Tomato Giant — Supersize Your Tomatoes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="320" border="0" cellspacing="0" cellpadding="5" id="container">
+	<tr>
+		<td style="font:12px/18px Arial, Helvetica, sans-serif;" id="header">
+			<a href="http://partyfinderpro.com/283bz4216g2">Tomato Giant — Supersize Your Tomatoes</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+        	<a href="http://partyfinderpro.com/283bz4216g2"><img src="http://partyfinderpro.com/img/tom.jpg" alt="Tomato Giant — Supersize Your Tomatoes" border="0" id="body"></a>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" style="font: 11px Arial, Helvetica, sans-serif; padding:0 20px;">If you would like to remove yourself from the<br />Tomato Giant list, <a href="http://partyfinderpro.com/284bz4216d2">click here</a>.<br />
+*This is an advertisement<br />
+1200 Ring Road Suite #2110 | Calumet City, IL 60409</td>
+	</tr>
+</table>
+</body>
+</html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Change your options by visiting <br>
+<a href="http://partyfinderpro.com/?e=baljit_sidhu@mslindia.net">here</a>.<br>
+5042 Wilshire Blvd #8874
+Los Angeles, CA 90036
+</font>
+</div>
+

@@ -1,0 +1,27 @@
+Return-Path: <lokendra@hudsonbroker.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <lokendra@hudsonbroker.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aS5Pbg6l7Cxl>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aS5Pbg6l7Cxl for <lokendra@hudsonbroker.in>;
+	Tue, 13 Feb 2018 17:53:28 +0530 (IST)
+Received: from adminPC (unknown [171.79.63.11])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 084A41009961
+	for <lokendra@hudsonbroker.in>; Tue, 13 Feb 2018 17:53:27 +0530 (IST)
+From: Microsoft Outlook <lokendra@hudsonbroker.in>
+To: =?utf-8?B?bG9rZW5kcmEgc2luZ2g=?= <lokendra@hudsonbroker.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+

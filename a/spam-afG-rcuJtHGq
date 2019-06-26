@@ -1,0 +1,66 @@
+Return-Path: <rajendra.tayde@valuemail.co.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jil_accounts@jcblmail.com>
+X-Envelope-To-Blocked: <jil_accounts@jcblmail.com>
+X-Quarantine-ID: <afG-rcuJtHGq>
+X-Spam-Flag: YES
+X-Spam-Score: 25.641
+X-Spam-Level: *************************
+X-Spam-Status: Yes, score=25.641 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, FORGED_MUA_OUTLOOK=2.785,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.565,
+	FROM_MISSPACED=2.99, FROM_MISSP_EH_MATCH=2.841, FROM_MISSP_MSFT=0.482,
+	FROM_MISSP_NO_TO=2.316, FROM_MISSP_URI=0.312, FROM_MISSP_USER=1.238,
+	FSL_CTYPE_WIN1251=0.607, FSL_UA=0.001, FSL_XM_419=0.328,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	MISSING_HEADERS=1.207, MSOE_MID_WRONG_CASE=3.373,
+	NSL_RCVD_FROM_USER=1.963, TO_NO_BRKTS_FROM_MSSP=0.961,
+	TO_NO_BRKTS_MSFT=0.199] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id afG-rcuJtHGq for <jil_accounts@jcblmail.com>;
+	Wed, 24 Apr 2019 07:58:16 +0530 (IST)
+Received: from smtpout.netcore.co.in (184.smtpout1.nsmailserv.com [202.162.246.184])
+	by mx10.jcbl.com (Postfix) with ESMTPS id B496510643AA
+	for <jil_accounts@jcbl.com>; Wed, 24 Apr 2019 07:58:14 +0530 (IST)
+Received: from smtp35.netcore.in (smtp35.netcore.co.in [202.162.240.66])
+	by cf1.netcore.co.in (Postfix) with ESMTP id A519B196672;
+	Wed, 24 Apr 2019 07:58:36 +0530 (IST)
+Received: from User (unknown [114.29.236.160])
+	(Authenticated sender: rajendra.tayde@valuemail.co.in)
+	by smtp.vgmail.in (Postfix) with ESMTPA id 6C66D1B07F3A;
+	Wed, 24 Apr 2019 07:57:34 +0530 (IST)
+X-uucphostname:smtp.vgmail
+From: "donotreply@gst.gov.in"<rajendra.tayde@valuemail.co.in>
+Subject: Tax Payment Transaction Receipt
+X-Intloopheader: 0
+Date: Wed, 24 Apr 2019 03:28:23 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-MailServ-MailFilter-MailScanner-Information: Please contact the ISP for more information
+X-MailServ-MailFilter-MailScanner-ID: 6C66D1B07F3A.A636A
+X-MailServ-MailFilter-MailScanner: Found to be clean
+X-MailScanner-From: rajendra.tayde@valuemail.co.in
+X-SMTP35-MailScanner-Information: Please contact the ISP for more information
+X-SMTP35-MailScanner-ID: 460FB32C969C7.A4494
+X-SMTP35-MailScanner: Found to be clean
+X-SMTP35-MailScanner-From: rajendra.tayde@valuemail.co.in
+X-Spam-Status: No
+Message-Id: <20190424022836.A519B196672@cf1.netcore.co.in>
+X-Cloudmilter-Processed: 1
+
+<p id="yui_3_16_0_ym19_1_1515372180698_2020">Dear Sir, <br><br>Your GST payment was debited. 75,000 rs has been debited from your Net banking Account. Your GST Payment 
+Challan is attached in the link below.</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2142">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2145"> <u id="yui_3_16_0_ym19_1_1515372180698_2144"><a rel="nofollow" target="_blank" href="http://yumehonda.com/js/states/404.htm" id="yui_3_16_0_ym19_1_1515372180698_2143">https://www.incometaxindia. gov.in/PaymentChallan </a></u></p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2019" align="left">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2146" align="left">Please download and save a copy of your Payment Challan 
+below.</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2005" align="left">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_1918"><br>Sincerely,<br>GST India

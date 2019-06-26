@@ -1,0 +1,94 @@
+Return-Path: <bounce.5118.12306648.12570099@tr2.eagaltrp.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <ccm_globe@globeauto.in>
+X-Envelope-To-Blocked: <ccm_globe@globeauto.in>
+X-Quarantine-ID: <aQkYUP_39P4B>
+X-Spam-Flag: YES
+X-Spam-Score: 6.988
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.988 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	DOS_RCVD_IP_TWICE_B=0.001, FORGED_RELAY_MUA_TO_MX=0.001,
+	HTML_IMAGE_ONLY_12=1.629, HTML_IMAGE_RATIO_02=0.805,
+	HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_1=0.139,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aQkYUP_39P4B for <ccm_globe@globeauto.in>;
+	Fri,  1 Feb 2019 18:59:16 +0530 (IST)
+Received: from tr2.eagaltrp.com (tr2.eagaltrp.com [207.106.22.103])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C85BDF4418C
+	for <ccm_globe@globeauto.in>; Fri,  1 Feb 2019 18:59:13 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1549027938;
+	s=pgmins2018; d=mail.pigeontk.in;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=1323; bh=2bLZtr+kJ7h95DqWViurbPHa6DC00hEGDFtcdCTjlME=;
+	b=y5nslrtqI5aIohHB1/WcOynXAZ4sRxrS69H7X0akC1O3ULRmf29StungkX2XXpiM
+	YbFI1lEvueWS2xXgCCcAm3eiIPkpQ6mmeybBaoGvUsYv0G63s0IAiYHWAiqU9axKmPU
+	KYOjW7eF2MWNqOJHSWKAW5So62mVjHiiEkvpTxwsgaC08DZlkPu5p2DjXoDa36accqR
+	nXgkiCkkm2noyQcr5vtDK8R4s9eVxqpfVRQEjBRdIbxfn+CHHJ1iR7Oc2J43exT9BBg
+	J5EyhtNrTT/pigcjN1irtDUQFnsRIqxOm2RGka6REwmcU7QCtB4oO+rTl6QhcOgXVb+
+	xy7nCW5r7g==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1549027938;
+	s=pgmins2018; d=eagaltrp.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=1323; bh=2bLZtr+kJ7h95DqWViurbPHa6DC00hEGDFtcdCTjlME=;
+	b=FdWfAsIrkFEO7oWYktxf/XM0qXcaSjQUS+L6fqHlE+GR7MKNP2yzUnrK1cXAapYD
+	ZCmxRPPfVZW73tG16/ay1tceDoW0j9OEbULeBYw0Iyo2ERrW3zR/xiUlYke3whI/MxL
+	pps6qmlv3tsZbhJefmmUltGHO2t5rQ/1ZgFHP3rX0Ig0BIiuGnsyWQiuu38TjgQ0PQV
+	235/Zmm56oeqWTbgMtIYBvHkaIe513nHzANQSPNP4WiRGvsduqluanL8sKV1C1djokB
+	fQJlwcveXqKqLnQZky9WsAq4FWMR6ZuvOzj00wnwa/Vmqa93RKPWG170xmN97r53KZX
+	rTeLGcN78Q==
+From: Pigeonmails <info@mail.pigeontk.in>
+Reply-To: info@mail.pigeontk.in
+To: ccm_globe@globeauto.in
+Message-ID: <12345796.190201070218218@tr2.eagaltrp.com>
+Subject: Grow Your Business with Powerful Email Service
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_348712_1933051802.1549027938281"
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://nqgvx.pigeonurl.com/email/email/unsubscribe/12345796>
+Feedback-ID: 5118:2725:inspfx
+Precedence: bulk
+X-Originating-IP: 207.106.22.103
+Date: Fri,  1 Feb 2019 19:02:18 +0530 (IST)
+
+------=_Part_348712_1933051802.1549027938281
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Pigeonmails
+
+http://nqgvx.pigeonurl.com/email/email/clickEmail/5118/12345796/ac73f
+
+
+------=_Part_348712_1933051802.1549027938281
+Content-Type: text/html; charset=UTF-8 
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Pigeonmails</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body  bgcolor=3D"#FFFFFF" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"=
+0" marginheight=3D"0" style=3D"text-align:center; margin:0;">
+<div align=3D"center">
+<a href=3D"http://nqgvx.pigeonurl.com/email/email/clickEmail/5118/12345796/=
+ac73f" target=3D"_blank">
+<img src=3D"http://postimage.in/pegionmails/pigeonemail.jpeg" width=3D"500"=
+ height=3D"800" alt=3D"">
+</a>
+</div>
+</body>
+</html>
+<div style=3D'width:100%;float:left;text-align: center;'><p style=3D'font-s=
+ize: 11px;' >To stop receiving these emails please <a href=3D'http://nqgvx.=
+pigeonurl.com/email/email/unsubscribe/12345796' >Unsubscribe</a> here.</p><=
+/div><img alt=3D'insign' src=3D'http://nqgvx.pigeonurl.com/email/email/open=
+Email/5118/12345796' width=3D'1' height=3D'1' style=3D'display:none'/>
+------=_Part_348712_1933051802.1549027938281--
+

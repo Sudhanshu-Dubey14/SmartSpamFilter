@@ -1,0 +1,124 @@
+Return-Path: <vinigroup@sg2plcpnl0153.prod.sin2.secureserver.net>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aMC1eXz-HXYp>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Content-Type"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aMC1eXz-HXYp for <admin@mslindia.net>;
+	Tue,  6 Sep 2016 11:40:26 +0530 (IST)
+Received: from sg2nlsmtp01.shr.prod.sin2.secureserver.net (sg2nlsmtp01.shr.prod.sin2.secureserver.net [182.50.132.200])
+	by mx10.jcbl.com (Postfix) with ESMTPS id B7620FE3BE3
+	for <vinod_reddy@mslindia.net>; Tue,  6 Sep 2016 11:40:23 +0530 (IST)
+Received: from sg2plcpnl0153.prod.sin2.secureserver.net ([43.255.152.15])
+	by : HOSTING RELAY : with SMTP
+	id h9aubKIiPCYYlh9aubXdwW; Mon, 05 Sep 2016 23:10:52 -0700
+Received: from vinigroup by sg2plcpnl0153.prod.sin2.secureserver.net with local (Exim 4.87)
+	(envelope-from <vinigroup@sg2plcpnl0153.prod.sin2.secureserver.net>)
+	id 1bh9bC-000Rgi-B2; Mon, 05 Sep 2016 23:11:10 -0700
+To: vinod_reddy@mslindia.net
+Subject: China LCL Consol ~ VINI
+X-PHP-Script: vini-group.com/email51.php for 120.63.197.251
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Content-Type: text/html; charset="iso-8859-1"
+X-Priority: 1
+X-MSMail-Priority: High
+From: VINI CONTAINER LINES PVT. LTD. <noreply@vinifreight.com>
+Message-Id: <E1bh9bC-000Rgi-B2@sg2plcpnl0153.prod.sin2.secureserver.net>
+Date: Mon, 05 Sep 2016 23:11:10 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sg2plcpnl0153.prod.sin2.secureserver.net
+X-AntiAbuse: Original Domain - mslindia.net
+X-AntiAbuse: Originator/Caller UID/GID - [2675725 215] / [47 12]
+X-AntiAbuse: Sender Address Domain - sg2plcpnl0153.prod.sin2.secureserver.net
+X-Get-Message-Sender-Via: sg2plcpnl0153.prod.sin2.secureserver.net: authenticated_id: vinigroup/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: sg2plcpnl0153.prod.sin2.secureserver.net: vinigroup
+X-Source: 
+X-Source-Args: /usr/sbin/proxyexec -q -d -s /var/lib/proxyexec/cagefs.sock/socket /bin/cagefs.server 
+X-Source-Dir: :/vinigroup/public_html
+X-CMAE-Envelope: MS4wfE7I2ddR60p4X3p6vI/Hhm9TmwGNDz5bKyIU/Smt9rDs+fnA1xaMuXaCr+aw98N9wW2P2YiI8Xp+bUF0P5qsT+l6X92DbQ5QkFuhaPJEzNoUVCUjOClY
+ +oNn5HWJjy7FoRYlX3EB3wM6cCBg7jfpnSXt5Jn3jdwiuYoSgy5BHtLbsZCITsvpL7FVIlvzTC6/HM5Spr0nnirKtIiyTnd9EQjOcj8OZkA9CtpVWZE6mB0n
+ jimhLNkKxqN/Mu9ff4KVYA==
+
+       
+        
+        <table align="center" cellspacing="0" cellpadding="1" border="1">
+            <tbody>
+			
+			   
+               
+				<tr>
+                    
+                    <td style="padding: 5px 10px;" colspan="2"><a href="http://vinifreight.com"><img src=http://vini-group.com/uploads/12445-13076966_1113403762014872_450991003889512250_n.jpg></a></td>
+                </tr>
+			    
+
+             
+	
+
+
+<tr>
+                   
+		<td style="padding: 5px 10px;" width="150" colspan="2">Contact us for bookings & enquiries </td>
+                   	   
+				   
+				   
+                </tr>	
+
+
+<tr>
+                   
+		<td style="padding: 5px 10px;" width="150" colspan="2">Marketing : <br>
+
+Hemant Kaliwada  |  +91 22 27758888  |  hemant@vinifreight.com   <br>
+
+Customer Service :  <br>
+
+Mildred Rodrigues  |  +91 22 27758888  |  mildred.mum@vinifreight.com </td>
+             	   
+				   
+				   
+                </tr>	
+
+		<tr>
+                   
+		<td style="padding: 5px 10px;" width="150" colspan="2">
+		<a href="http://vinifreight.com/aboutus.php">About Us </a>
+		&#x000A6;
+		<a href="http://vinifreight.com">Service</a>
+		&#x000A6; 
+		<a href="http://vinifreight.com/login.php">Customer Center</a>
+		&#x000A6;
+		<a href="http://vinifreight.com/contactinfo.php">Contact Us</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	   
+	 
+		
+		<b align="right"><a href="http://vinifreight.com" >www.vinifreight.com</b>
+
+
+		</td>                	   
+				   
+				   
+                </tr>		
+				
+				
+				
+				
+				 <tr>
+                    <td style="padding: 5px 10px;" width="150" colspan="2"><unsubscribe><a href="http://vini-group.com/unsubscribe.php?id='.8396.'&username='.vinod_reddy@mslindia.net.'">Please click here to unsubscribe.</a> <unsubscribe></td>
+                    
+                </tr>	
+								
+            </tbody>
+        </table>
+        

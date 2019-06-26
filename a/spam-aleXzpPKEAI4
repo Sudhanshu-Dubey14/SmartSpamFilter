@@ -1,0 +1,123 @@
+Return-Path: <Mr.sohalarfan.latif01@yandex.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <salestax@jcbl.com>
+X-Envelope-To-Blocked: <salestax@jcbl.com>
+X-Quarantine-ID: <aleXzpPKEAI4>
+X-Spam-Flag: YES
+X-Spam-Score: 19.775
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.775 tag=2 tag2=6.31 kill=6.31
+	tests=[ADVANCE_FEE_2_NEW_MONEY=0.596, ADVANCE_FEE_3_NEW=1.353,
+	ADVANCE_FEE_3_NEW_MONEY=1, ADVANCE_FEE_4_NEW=1,
+	ADVANCE_FEE_4_NEW_MONEY=0.001, ADVANCE_FEE_5_NEW=1.5,
+	ADVANCE_FEE_5_NEW_MONEY=0.001, DEAR_FRIEND=2.604,
+	FREEMAIL_ENVFROM_END_DIGIT=0.1, FREEMAIL_FROM=0.001,
+	FREEMAIL_REPLYTO_END_DIGIT=0.98, LOTS_OF_MONEY=0.001,
+	MILLION_USD=2.477, MISSING_HEADERS=1.207, MONEY_FRAUD_3=1.172,
+	MONEY_FRAUD_5=0.5, MONEY_FRAUD_8=1, REPLYTO_WITHOUT_TO_CC=1.946,
+	TVD_PH_BODY_META=2.296, T_DKIM_INVALID=0.01, T_HK_NAME_FM_MR_MRS=0.01,
+	T_MONEY_PERCENT=0.01, T_TO_NO_BRKTS_FREEMAIL=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aleXzpPKEAI4 for <salestax@jcbl.com>;
+	Wed, 27 Feb 2019 13:56:11 +0530 (IST)
+Received: from sonic306-20.consmr.mail.ne1.yahoo.com (sonic306-20.consmr.mail.ne1.yahoo.com [66.163.189.82])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C37481048F78
+	for <salestax@jcbl.com>; Wed, 27 Feb 2019 13:56:09 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1551255991; bh=Ymnz+x6Xi5B7RmpCaFycNRr/Q6cfVUf8QbSVGoReb8g=; h=Date:From:Reply-To:Subject:From:Subject; b=Hq/P/SFtfFYzWVHbcw2JAibmG75Igm3cZWrB4zxFA+I5tGvqKWEZ0oCTw2/sruGosVY9BSvRqVQHv7/aUdGaagPxGktaLEtpNAfaTypsXgjzqMQj5GqOquk/et5n53MJtxvz26vh10ZiY+h8Ap743BBPzmCBxAGih/fq1KSkk6CeM+uiDO50cDHEW5Ce8uaqcKZ0wBVVDdXJrNdN12/IKq6CxVi8HGLpY+5jD2KJ8q2OqyyQt0f+HxPFabzxDYIzwkTtuYT3JF3rQGkSTQcBss5NjsyEWRD1puYXgXn3+1eJegcVXcXQrqknH1WIfCq9Ij7gZ63Q+mqlaWKfg/B44Q==
+X-YMail-OSG: V4AmCAkVM1lCL_7qSRbLfcaru0AFWNjZsh9661cPIvcojOW6CXrFrk4CvalUxCn
+ 4paD7RaYBbj2dF9QIqpmHJxhwl5GYpuJxbWIwtmq6E4V3mxy8bcJBE5edmKDKeFzVGpbKyyAcj8j
+ q6c18mGSrxcBK9r3NFhpcDtqe6uGQca38OdnLQSrbZ0_SUy7AShyYgKlQLDRPDhsM97vV8jIFOon
+ dRwyHzAB19J68VYROAhR2W5AkJr1AJr_rJlxrabG2mcZQZdv6VO3laBW.ADGYQAdeAn7rYXLaj6F
+ 984VMl9RnDlXU_9OF4NkW8LrP09vwQqtUg_TQfU5rK34yz12agkUG12A8OMQoRmDCjuM5CDa9vxe
+ shbFgAX.r3yNG9Qp3OaiO.EHcx3N2DEpNmRw0WcCWMI51zSQSY0hEUDKExZyQn3tN977tQob4oF2
+ i9.gWOh2sw7cbxvosq6XRhCWRGa4XLnlEAwCoaFvyFnAq4RpqPKwOVgdc0J.jOkDNF5g1na58YXC
+ 0p9K668yuoo6C9hIHn60Lf6Wzs_VxMz7yn44BzEy33.kFPfWAtMVLMhDfX7crPKDcRMDif6pbCdC
+ lxcSXzplF.ukJ6D9J5IHcruoa85d2vIh_kuySK9QM0RTGatw9Jh1gRiuPNI0k9HEk9ixMQmJmYbM
+ VcRs2EKXwnXvzkVnDVHA2QcMfVxZrALFo9bzo5eb6zkADE7rGx3A4RP2BhZKWzL.18Ou.bcT_gQj
+ 4ccYRLnywpKFvLwO_Wf6.bN35xQ6wicSb3w4oEMqCjO7lJ_KnXGkOWqdOGH7sDT1L7taEHII1eH4
+ 7d1dDguLPLEbXLGqGJ5Gmr9GG6dL.8ndiYVGCq4tLo88V4EpTdUzR.mXd34JOYyQ6LySK14BBam_
+ VC2dPPRFrlvjs66YpkddS2hAHFKummiJTlSsyP8ujAVCtkpG9wzTz2Zc36kFNu2nrHCxfv4kzqn8
+ O3OoXwx4LtwvicekZ5kxL6XDDwkI4JNxz5m6Rl4eaCd8J5u8wWSLH.I.qPuMdkrh2pR7RiAREdE1
+ ICI4s9QkbLoldGQoCWteAswU87SIgge2FQh4nMH2snJGuFpp_OXCoTwWUMBJJ6cSW05WZkB9ore8
+ _
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic306.consmr.mail.ne1.yahoo.com with HTTP; Wed, 27 Feb 2019 08:26:31 +0000
+Date: Wed, 27 Feb 2019 08:26:27 +0000 (UTC)
+From: "Mr. Sohal Arfan Latif" <Mr.sohalarfan.latif01@yandex.com>
+Reply-To: Mr.sohalarfan.latif01@yandex.com
+Message-ID: <424752063.5829810.1551255987601@mail.yahoo.com>
+Subject: HELLO
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Friend,
+
+Good day to you and your family. I apologize if the content here-under are =
+contrary to your moral ethics but please treat with absolute secrecy and pe=
+rsonal.
+
+My name is Mr. Sohal Arfan Latif. from Pakistan, but worked in Damascus, Sy=
+ria. I am 40 years Old. I am the Son to a personal investor, also an oil Ty=
+coon from Syria and Saudi Arabia: Al Furat Petroleum Company (AFPC), the le=
+ader in the region in Reservoir
+Management.
+
+AFPC was established under Service Contract no. 210 ratified by Law no. 43 =
+of 1977 and named as per decree-law no. 12 in 1985. AFPC is a joint venture=
+ company between the General Petroleum Corporation (50%) and private shareh=
+olders Syria Shell Petroleum Development (SSPD) etc=E2=80=A6=E2=80=A6=E2=80=
+=A6
+
+I am the only Son/Child of my parents. My Mother and Father died during the=
+ escalation and climax of the Syrian war.
+
+But before the war got out of hand, my Father(now late) moved some funds in=
+to a bank in Burkina Faso, West Africa, for safety.
+
+The amount that was moved to the bank was a total of $42.6Million USD. I ha=
+d applied to both banks for the release of the funds to me, so that I could=
+ start a new business, but the bank Directors told me that my late Father l=
+eft a "Note"(WILL) in the form of conditions, that the banks Must Not relea=
+se the funds to me until I am of experienced age of investing the funds int=
+o a very good business venture, and the "Will" also stated that I should pr=
+esent an experienced business partner before the bank, who will assist me i=
+n investing wisely. Having schooled in London and read Political Science, I=
+ have no knowledge in business investment plan.
+
+This then brought me to the issue of searching for a reputable and trustwor=
+thy person, who has vast experiences in profitable businesses, where to inv=
+est the funds into.
+
+I want to transfer this fund into your bank account in your country, so tha=
+t we could invest it wisely. I have contacted the Director of the bank wher=
+e the fund is deposited in Burkina Faso, and asked if the fund could be loa=
+ded into an ATM VISA CARD and he said it is possible to load some of the fu=
+nds into an ATM VISA CARD, while most of it will be wired to your account v=
+ia online bank transfer.
+
+Why I contacted you is that I want you to tell me more about good investmen=
+ts, so that I will move this fund into your account in your country so that=
+ I could relocate my investment plan to your country.
+
+Tell me more about your country. How good it will be to invest in your coun=
+try Cities, Such as buying of properties, houses, real estate and investmen=
+ts in tourism.
+
+I will appreciate whatever result you may brief me. Do let me know your ide=
+a and knowledge regarding these or any other profitable investment you may =
+suggest.
+
+Take note; After the whole deal and the fund is released to us, You will be=
+ rewarded with 20% of the total amount for your participation and also be r=
+ewarded with 10% of any profit we invest the money into.
+
+I shall tell you more about this transaction as soon as i get your readines=
+s concerning this transaction.
+
+Waiting for your reply,
+
+Thanks and best regards,
+
+Mr. Sohal Arfan Latif.

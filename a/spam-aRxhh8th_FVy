@@ -1,0 +1,406 @@
+Return-Path: <the.desktop.microscope@expresswayag.org>
+Delivered-To: spam-quarantine
+X-Envelope-To: <baljit_sidhu@mslindia.net>
+X-Envelope-To-Blocked: <baljit_sidhu@mslindia.net>
+X-Quarantine-ID: <aRxhh8th_FVy>
+X-Spam-Flag: YES
+X-Spam-Score: 10.522
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.522 tag=2 tag2=6.31 kill=6.31
+	tests=[FROM_12LTRDOM=2, HTML_IMAGE_RATIO_04=0.61, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RCVD_IN_CSS=1,
+	RDNS_NONE=1.274, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aRxhh8th_FVy for <baljit_sidhu@mslindia.net>;
+	Wed, 10 Oct 2018 20:43:58 +0530 (IST)
+Received: from piercing.expresswayag.org (unknown [92.114.32.33])
+	by mx10.jcbl.com (Postfix) with ESMTP id C3025EEBD90
+	for <baljit_sidhu@mslindia.net>; Wed, 10 Oct 2018 20:43:55 +0530 (IST)
+To: baljit_sidhu@mslindia.net
+Reply-To: the.desktop.microscope@expresswayag.org
+Message-ID: <00a18.1hwRC6rzwoNVMRE4EgueeEao52.4381605.RdKiLOsS.ArK8lHIAtT9acivcK2pwvvZm3zSgyLvVpBKxSoD@piercing.expresswayag.org>
+Subject: This amazing microscope plugs into your usb drive and magnifies 1000 times
+From: The Desktop Microscope <the.desktop.microscope@expresswayag.org>
+MIME-Version: 1
+Content-Type: text/html; charset="UTF-8"
+Content-transfer-encoding: 8bit
+Date: Wed, 10 Oct 2018 11:14:22 -0400
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0; user-scalable=no;">
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+  <title>Scientific Toys</title>
+  <style type="text/css">
+@font-face {
+	font-family: 'Ember';
+	font-style: bold;
+	font-weight: 500;
+	src: local('Ember'), url(https://m.media-amazon.com/images/G/01/outbound/AmazonEmberDisplay_W_Bd._CB1508281071_.woff) format('woff');
+}
+@font-face {
+	font-family: 'Ember';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Ember'), url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/airstream/amazon_ember_lt-webfont.woff2) format('woff');
+}
+/* RESET STYLES */
+body {
+	margin: 0 !important;
+	padding: 0;
+	background-color: #ffffff;
+}
+table {
+	border-spacing: 0;
+	font-family: sans-serif;
+	color: #333333;
+}
+td {
+	padding: 0;
+}
+img {
+	border: 0;
+}
+td, a, span {
+	word-break: keep-all !important;
+}
+/* PAGE STYLES */
+h1 {
+	display: block;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+h2 {
+	display: block;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 120%;
+}
+h3 {
+	display: block;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 110%;
+}
+h4 {
+	display: block;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: normal;
+	line-height: 100%;
+}
+div[style*="margin: 16px 0"] {
+	margin: 0 !important;
+}
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important;
+}
+..appleBody a {
+	color: #68440a;
+	text-decoration: none;
+}
+..appleFooter a {
+	color: #999999;
+	text-decoration: none;
+}
+
+
+..wrapper {
+	width: 100%;
+	table-layout: fixed;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+..webkit {
+	max-width: 640px;
+	margin: 0 auto;
+}
+</style>
+  <style type="text/css">
+  @media screen and (max-width:480px){
+      .full100 {
+        width:100% !important;
+        max-width:100% !important;
+    }
+    .padding12 {
+        padding: 12px !important;
+    }
+    .paddingLR12 {
+        padding: 0 12px;
+    }
+    .maxWidth100 {
+        max-width: 100% !important;
+    }
+  /* general classes */  
+  .alignCenter {
+      text-align:center !important;
+      margin:0 auto !important;
+      float:none !important;
+  }
+  .alignRight {
+    text-align:right !important;
+  }
+  .alignLeft {
+    text-align:left !important;
+  }
+  .mWidth305 {
+    max-width:306px !important;
+  }
+  .mWidth100 {
+      max-width:100% !important;
+  }
+  .container {
+    width:98% !important;
+    }
+  .hideAll { display:none !important; }
+  .hide { display:none !important; line-height:0 !important;}
+  .tdwrap { display:inline-block !important; }
+  .block_wrap { display:block !important; padding:0 !important; margin:0 auto !important;}
+  .block { display:block !important; }
+  .valignbottom { vertical-align:bottom !important; }
+  .valigncenter { vertical-align:middle !important; }
+  .rel { position:relative !important; }
+  .abs { position:absolute !important; }
+  .show { display:block !important; width:auto !important; overflow:visible !important; float:none !important; max-height:inherit !important; line-height:inherit !important; }
+  .showOnMobile { display:block !important; max-height:none !important; line-height:inherit !important; }
+  
+    .bgHero { background-image: url('') !important; }
+  
+  .bgefefef { background-color:#efefef !important; }
+   
+  .marginr66 { margin-right:66px !Important; }
+  .marginl0 { margin-left:0px !Important; }
+  .marginl66 { margin-left:66px !Important; }
+  .aligncenter { text-align:center !important; }
+  .alignleft { text-align:left !important; }
+  .font10{ font-size:10px !important; }
+  .font11{ font-size:11px !important; line-height:11px !important; }
+  .font12{ font-size:12px !important; }
+  .font13{ font-size:13px !important; }
+  .font14{ font-size:14px !important; }
+  .font16{ font-size:16px !important; }
+  .font20{ font-size:20px !important; }
+  .font21{ font-size:21px !important; }
+  .font24{ font-size:24px !important; line-height:26px !important; }
+  .font36{ font-size:36px !important; line-height:36px !important; }
+  .lineh16{ line-height:16px !important; }
+  .lineh22{ line-height::22px !important; }
+  .line16{ font-size:16px !important; }
+  .line17{ font-size:17px !important; }
+  
+  /*widths*/
+  .full { width:100% !important;
+  max-width:100% !important;}
+  .deviceWidth { width:320px !important; }
+  .width0 { width:0px !important; }
+  .width52 { width:52px !important; }
+  .width100 { width:100px !important; }
+  .width153 { width:153px !important; }
+  .width298 { width:298px !important; }
+  .width294 { width:294px !important; }
+  .width300 { width:300px !important; }
+  .width306 { width:306px !important; }
+  .width320 { width:320px !important; min-width:320px !important; }
+  .width_30 { width:30% !important; }
+  .width_40 { width:40% !important; }
+  .width_50 { width:50% !important; }
+  .width_60 { width:60% !important; }
+  .width_70 { width:70% !important; }
+  .width_80 { width:80% !important; }
+  .width_90 { width:90% !important; 
+      max-width:90% !important;
+  }
+  .feFooter { width:290px !Important; }
+  .feDevicewidth { width:290px !Important; }
+  
+  /*heights*/
+  .height6 {height:6px !important; line-height:6px !important;}
+  .height12 {height:12px !important; line-height:12px !important;}
+  .height24 {height:24px !important;}
+  .hauto { height:auto !important; }
+  .height0 { height:0px !important; }
+  
+  /*padding*/
+  .padding0 { padding:0px !important; }
+  .paddingt6 { padding-top:6px !important; }
+  .paddingt10 { padding-top:10px !important; }
+  .paddingt12 { padding-top:12px !important; }
+  .paddingr0 {padding-right:0px !important; }
+  .paddingr10 {padding-right:10px !important; }
+  .paddingr20 {padding-right:20px !important; }
+  .paddingb5 { padding-bottom:5px !important; }
+  .paddingb10 { padding-bottom:10px !important; }
+  .paddingb20 { padding-bottom:20px !important; }
+  .paddingl0 {padding-left:0px !important; }
+  .paddingl10 {padding-left:10px !important; }
+  .paddingl20 {padding-left:20px !important; }
+  .paddinglr60 {padding-left:60px !important; padding-right:60px !important; }
+  
+  /*floats*/
+  .fl { float:left !important;  }
+  .fr { float:right !important; } 
+  .wrap { float:block !important; }
+  .clear { clear:both !important; }
+
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+  </xml>
+    
+    <style type="text/css">
+        .mm15 { padding:0px !important; margin-left:15px !important; margin-right:15px !important; }
+        .ml10 { padding:0px !important; margin-left:10px !important; }
+        .mr10 { padding:0px !important; margin-right:10px !important; }
+    </style>
+    <![endif]-->
+
+  <!--[if mso]>
+<style>
+a, span, td, table, div {
+font-family: Arial, sans-serif !important;
+}
+</style>
+<![endif]-->
+
+
+  </head>
+    <body style="padding:10px">
+    <!-- main container -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><!-- MASTER TABLE; controls the movable content container! -->
+      <tr>
+        <td align="center" class="movableContentContainer" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">               
+          
+         
+          <div class="movableContent" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+              <tbody>
+                <tr>
+                  <td align="center" colspan="9" height="20" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+                  </td>
+                </tr>
+                <tr>
+        
+                  <td width="15" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+                  </td>
+                  <td width="330" valign="middle" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+                    <div class="contentEditableContainer contentTextEditable" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+                      <div class="contentEditable" style="font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;">
+                     <div align="center">
+<img width="315" height="160" src="http://www.calliamedia.com/wp-content/uploads/2016/05/port-stem-4.jpg"  border="0" style="padding-right: 40px" alt="Scientific Toys">
+</div>
+<hr width="85%">
+<title>Message-KlHLXv4uw</title>
+
+<p align="left"><h2 align="left"><center><a style="color: #000000 !important; text-decoration: none;" href=
+"http://ww1.expresswayag.org/0Ixwef-PHBxSkA-s8eX7jUS_pqerfA3J?Skeditm.html"
+>Why not get them a gift this year that fosters an interest in science and exploration?</a></h2></p>
+
+<p style="color:#3B3B3B; font-size:15px; font-family: arial, sans-serif" align="left"; style="padding:20px; width: 400px">
+By far of our top sellers and top reviewed items of 2018. this desktop USB microscope lets your little Einstien explore their world and magnify images to their desktop 1000x. Hours of learning and fun to be had for science lovers of all ages!.<br>
+
+
+</span></p>
+					  <div style="padding-right: 20px; padding-left: 50px">
+<p style="color:#3B3B3B; font-size:13px"; align="center"; style="padding-left:20px"><span><a href="http://www.expresswayag.org/start-page.html/nf7vjGXCv" style="font-size: 18px; color: blue; font-weight: bolder; text-decoration: underline">
+&#x47;&#x65;&#x74;&#x20;&#x59;&#x6F;&#x75;&#x72;&#x73;&#x20;&#x54;&#x6F;&#x64;&#x61;&#x79;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x46;&#x52;&#x45;&#x45;&#x20;&#x53;&#x48;&#x49;&#x50;&#x50;&#x49;&#x4E;&#x47; > </a>
+</span></p>
+  <tbody align="center" style="align-content: center;">
+                                              <tr>
+                                                <td colspan="3" height="1"></td>
+                                              </tr>
+                                              <tr>
+                                                <td width="20"></td>
+                                                <td width="10"><table align="center" border="0" cellpadding="0" cellspacing="0" valign="top" width="18"; style="padding-bottom:1px">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td><div>
+                                                            <div align="center">
+                                                              <h2 style="color:#363636"> </h2><div align="center" style="padding-right: 25px">
+                 <p align="center"><a href="http://www.expresswayag.org/start-page.html/nf7vjGXCv"><img width="410" height="410" src="http://dc.expresswayag.org/imagedataworld/ocdbtj2V.png"  border="0" style="padding-left: 40px"></a></p>
+                                                                             </div>
+                                                          </div></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="13"></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td><div>
+                                                            <div style="padding-right: 40px"></div>
+                                 
+                                 
+          <div></div>     <div></div>  <div></div>  <div></div>                    
+                                 
+                                 
+                                                          </div></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="6"></td>
+                                                    </tr>
+                                                      <tr>
+                                                        <td><div>
+                                                           <div> </div>
+                                
+                                
+               <div></div>                 
+                              <div style="padding-right: 40px">
+                    <tbody style="padding-right: 40px">
+                                                            <tr style="padding-right: 40px">
+                                                              <td align="center" bgcolor="#ffffff;padding-right: 40px"><a href="http://www.expresswayag.org/start-page.html/nf7vjGXCv" style="font-size: 17px; font-family: Clan, Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; border-radius: 2px; border-width: 12px 8px; border-style: solid; border-color: #2870be; display: block; background-color: #2870be;" target="_blank" class="caps">Get Yours Here </a></td>
+                                                            </tr>
+                                                          </tbody>            
+                                                          </div></td>
+                                                      </tr>
+                                                    </tbody> 
+                
+                                                  </table></td>                               <td width="20"></td>
+                                              </tr>
+                                              <tr>
+                                                <td colspan="3" height="65"></td>          </tr>
+                                            </tbody>
+</center><br>
+ 
+
+
+</table>
+
+
+
+   <tr>
+      <td><table border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%; background-color: #fff; font-size: 2px;" align="center">
+          <tbody>
+            <tr>
+         
+              <td style="padding-top: 145px;font-size:px"> <p style="font-size:11px" align="center">
+   <p style="font-size:11px;" align="center"><br><a href="http://ww1.expresswayag.org/main_start.html/xRLLNg"><img width="268" height="64" src="http://datacenter.expresswayag.org/imagedataworld/RLoSm0Ow2oJdEVg.png"  border="0" style="padding-right: 30px" alt="company info"></a></p>
+
+<br><br><p align="center" style="padding-top: 82px; font-size: 13px">
+this energy and automotive company will be the biggest in history. oh well, lets just wait a few more years. apple is worth a trillion, and they make phones and laptops.<br>me. it?s not like it breeds roaches. it?s for people with roaches or lives in a complex that have roaches in the apartment next door. you don?t have them so obviously it can?t effect you. maybe they add the roaches .</p></p>
+                </td>
+            </tr>
+          </tbody>
+        </table></td></td>
+    </tr></p></tr>
+</p></table></div></div>
+</body>
+</html>

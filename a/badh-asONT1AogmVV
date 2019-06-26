@@ -1,0 +1,119 @@
+Return-Path: <dailynews@rediffnewsmailer.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <asONT1AogmVV>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id asONT1AogmVV for <admin@mslindia.net>;
+	Mon,  2 Oct 2017 05:01:14 +0530 (IST)
+Received: from backnotify2.rediffnews.in (unknown [119.252.154.173])
+	by mx10.jcbl.com (Postfix) with ESMTP id 5C2F7FE5ED5
+	for <bharat_kumar@mslindia.net>; Mon,  2 Oct 2017 05:01:12 +0530 (IST)
+Received: from BackyardStandalone.rediff.com (unknown [10.50.250.70])
+	by backnotify2.rediffnews.in (Postfix) with ESMTP id 3CCE91A0B09
+	for <bharat_kumar@mslindia.net>; Mon,  2 Oct 2017 05:03:27 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 backnotify2.rediffnews.in 3CCE91A0B09
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=rediffnewsmailer.com;
+	s=mail; t=1506900807; bh=CAL4ax2xQjTSQfD+Ez8wzveyseo=;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=UvHmMllfeHAARxllz2Mh9KGs3v7EWqUeIUFDy1qpXuayFWgo4OhaFjfRJVJNfWbUR
+	 MO4Ih3eID5RF4aWKMGOaEanigs+o+AVZVWNM8DYsSfSQ9rwGnyFV/QJ1OWkrg6tCkl
+	 jo6mT8h4hPPMvUQyxwAGlOV2ig2uX+IF7V96KNIk=
+From: Rediff News <dailynews@rediffnewsmailer.com>
+To: bharat_kumar@mslindia.net
+Message-ID: <1079914828.5180128.1506900803360.JavaMail.root@BackyardStandalone.rediff.com>
+Subject: Watch Aamir slip into a character he's *never* done before!
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-REDIFF-MAILERS: c42bdd163ae57a8f6313ce3a4a83bafc
+
+<div style="padding: 5px; font-family: verdana, arial; font-size: 12px;">
+	
+	
+			
+	<div style="clear:both;height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style='border:solid 7px #f0f0f0; text-align:left; width:95%;'>
+	<div style='border:solid 1px #ccc;background-color:#fff;padding:15px 0 10px 15px;'>
+	<table cellspacing='0' cellpadding='0' border='0' style='font-family:georgia;font-size:13px;width:96%;'>
+	
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>1</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/watch-aamir-slip-into-a-character-hes-never-done-before/20171001.htm?pos=1&src=NL20171002&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Watch Aamir slip into a character he's *never* done before!</p> This is how Aamir Khan's look in <I>Secret Superstar</I> came alive. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>2</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/column/give-me-hope/20171001.htm?pos=2&src=NL20171002&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Give me hope!</p> 'I am hopeful more people will boycott this politics of hatred and realise that it won't help our great nation to prosper.
+
+ <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>3</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/money-5-tips-to-buy-the-best-health-insurance-plan/20171001.htm?pos=3&src=NL20171002&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Buying health insurance? 5 tips</p> These tips will help you buy the plan you need. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+		</table>
+	</div>
+	</div>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<p style="margin: 5px 0 0 0; font-size: 14px;" align="center">
+		<b><a href='http://www.rediff.com/newsletter/2017/oct/02newsletter.html' target="_blank"
+			style="white-space: nowrap">View in browser</a> &nbsp; &nbsp; 
+			<a href="http://www.rediff.com/" target="_blank"
+			style="white-space: nowrap">Explore rediff.com</a> &nbsp; &nbsp; 
+			<a href="http://rediff.com/newsapp" target="_blank"
+			style="white-space: nowrap">Get our News App!</a></b>
+	</p>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style="text-align: center">
+		<p style="margin: 5px 0;">
+			<span>You have received this mail from&nbsp;</span> <a
+				href="http://www.rediff.com" rel="external" target="_blank">
+				Rediff.com </a> <span>&nbsp;because you have subscribed to</span> <a
+				href="http://www.rediff.com">Rediff.com</a>'s newsletter. To ensure
+			delivery, add <a href="mailto:newsletter@rediffnews.in">dailynews@rediffnewsmailer.com</a>
+			to your address book
+		</p>
+		<div>
+			<span>This is an auto-generated mail. Click&nbsp;</span><a
+				href="http://www.rediff.com/newsletter/unsubscribe" rel="external"
+				target="_blank">Unsubscribe me from this list</a><span>&nbsp;if
+				you do not wish to receive any future newsletters from <a
+				href="http://www.rediff.com">Rediff.com</a>.
+			</span> <br />
+			<br /> <strong>&copy; 2017&nbsp;<a
+				href="http://www.rediff.com" rel="external" target="_blank">Rediff.com</a>.
+			</strong>
+		</div>
+	</div>
+
+</div>
+
+<img border="0" height="0" width="0" style="display: none;"
+	src="http://track.rediff.com/click?url=___http://im.rediff.com/uim/trans.gif___&cmp=signature&lnk=open-(NL20171002)&newservice=editnews&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0" />

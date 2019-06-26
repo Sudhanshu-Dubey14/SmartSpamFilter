@@ -1,0 +1,401 @@
+Return-Path: <Ajay.Sharma8@hdfcbank.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <finance_ldh@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <axm4EsswSC9s>
+X-Amavis-Alert: BAD HEADER SECTION Header field occurs more than once:
+	"MIME-Version" occurs 3 times
+X-Spam-Flag: NO
+X-Spam-Score: -0.669
+X-Spam-Level:
+X-Spam-Status: No, score=-0.669 tag=x tag2=x kill=x
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id axm4EsswSC9s for <finance_ldh@globeauto.in>;
+	Fri, 26 Oct 2018 16:45:25 +0530 (IST)
+Received: from antispam15.softcell.in (relay8.hdfcbank.com [202.154.164.108])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 580D5EEC3CF
+	for <finance_ldh@globeauto.in>; Fri, 26 Oct 2018 16:45:23 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; d=hdfcbank.com; s=corp; c=relaxed/simple;
+	q=dns/txt; i=@hdfcbank.com; t=1540552631; x=1543144631;
+	h=From:Sender:Reply-To:Subject:Date:Message-ID:To:Cc:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=jyvDYGik58cyBZ5m2GWUB2MLZaCF/40hHVqrPfJ+x+o=;
+	b=MK3r9qRgOGFn+gGICS9cfJFXDl5kVFX2pcrWH35u5hZaNgbV104y3V/ZSD3SzPP8
+	V+CyRWZ9L2Ayyn3LBLLQzn7tiO4n+2m9I8nuChNZZVtQKCfsRYSQtEstfw3rvI+4
+	vTtSKohRF31IfexvJfYMOZeEfa6fF3CVkgSoUf6JH4Q=;
+X-AuditID: ca9aa00f-79fff70000004f6d-09-5bd2f7b77fcd
+Received: from relay38.hdfcbank.com (Unknown_Domain [202.154.160.38])
+	(using TLS with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by antispam15.softcell.in (Symantec Messaging Gateway) with SMTP id 0B.F5.20333.7B7F2DB5; Fri, 26 Oct 2018 16:47:11 +0530 (IST)
+Received: from hbchaha10.hdfcbank.com ([175.100.160.48])
+  by relay38.hdfcbank.com with ESMTP; 26 Oct 2018 16:47:09 +0530
+To: "JATIN GOEL" <finance_ldh@globeauto.in>
+In-Reply-To: <e0bcabc5-646d-6136-7439-c94371082b58@globeauto.in>
+Message-ID: <OFAD168233.046CFC47-ON65258332.003DFE05-1540552627988@hdfcbank.com>
+Date: Fri, 26 Oct 2018 16:47:08 +0530
+From: Ajay.Sharma8@hdfcbank.com
+MIME-Version: 1.0
+Subject: Re: Do confirm of SAVIOUR EDUCATION ABROAD (OPC) PVT LTD
+Cc: "Diwakar Ahluwalia" <diwakar_ahluwalia@globeauto.in>,
+	Sunny.Chauhan@hdfcbank.com,
+	Karan.Seth@hdfcbank.com
+X-Mailer: IBM Traveler 9.0.1.17 Build 201703170414_20 on server HBTRAVELER6/SVR/HBL
+ on behalf of device with id wor...218, type 410 (ios) and description
+ Apple-iPhone WorxMail:Apple-iPhone WorxMail/18.9.0-18 (XIAOMIREDMINOTE5PRO; 8.1.0) (OS
+ 3)
+X-KeepSent: AD168233:046CFC47-65258332:003DFE05;
+ type=4; name=$KeepSent
+X-MIMETrack: Itemize by nTRAVELER.EXE on HBTRAVELER6/SVR/HBL(Release 9.0.1FP9 HF342|January
+ 22, 2018) at 26-10-2018 16:47:08,
+	Serialize by Router on HBCHAHA10/SVR/HBL(Release 9.0.1FP10 HF66|February 09, 2018) at
+ 26-10-2018 16:47:04
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	 boundary="--_com.citrix.email_3069031495890792"
+X-CFilter-Loop: Reflected
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrDIsWRmVeSWpSXmKPExsVyatYCNd3t3y9FG5y9wWKx7/ReJotP67Yx
+	OzB5NG3eyxTAGNXAaJOYl5dfkliSqpCSWpxsq5SSWZyck5iZm1oUb2RhZmFopqSQmWKrZGis
+	pFCQk5icmpuaV2KrlFhQkJqXomTHpYABbIDKMvMUUvOS81My89JtlTyD/XUtLEwtdQ2V7Dxc
+	3JwVnBLzshXy09IykzMTcxKeiWd0bX3KWLA2tGL/v4UsDYyz3boYOTkkBEwkTh1fwNTFyMUh
+	JLCVSWL61j/MIAkhgSqJH0cWsIDYIgLaEi+mfQOLcwo4SDQ1PmcFsXkFAiSunPvNBGKzCKhK
+	/DxzkxHEZhOQl9i5+ykTRI2gxMmZT8DmCAs4SuzaMYkNxGYWKJRY1faHHWSxhMBPRom9C0+z
+	Q1zkKdHXP4UNIvGWUeLX6V/s6CYhs5kFwiWWXX8M1SwpcXDFDZYJjEKzkJThY8O0Q9jqEn/m
+	XWKGsLUlli18DWRzANlqEstalZCFFzByrGIUS8wrySwuSMw1NNUrzk8rSU7NydHLzNvECEkU
+	/DsYf/e4HGIU4GBU4uE1fHMpWog1say4MvcQoykwwCYyS4km5wPTUV5JvKGxpamloYGhpZmZ
+	iZmSOG/fx3PRQgLpwASTnZpaAEwlRaU5qcWHGJk4OKUaGE1XLPIUM9ju+sDN4D1DbdibUPZM
+	5bUGAtudyo4pLjrp9Peg25ZvRQrVr6y3ns/c+G67WGHyvPqYuH/fT11N0FtkVvH3R+0Zg+mV
+	YmoP3DLtV9ov+DCxWKIx4OTahfHLT5hFnQ187fSpNvPn7KI1z5gVf3a+juhqM7Uu+HijbNPv
+	A1XT9rPzLFRiKc5INNRiLipOBAAb5EMHDwMAAA==
+
+
+----_com.citrix.email_3069031495890792
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ok for delivery =0A=
+=0A=
+Ajay Sharma=0A=
+SM Auto Loans=0A=
+9814688158.=0A=
+HDFC BANK=0A=
+From: JATIN GOEL <finance_ldh@globeauto.in>=0A=
+Sent: Friday 26 October 2018 1:52 PM=0A=
+To: ajay.sharma8@hdfcbank.com=0A=
+CC: Diwakar Ahluwalia <diwakar_ahluwalia@globeauto.in>=0A=
+Subject: Do confirm of SAVIOUR EDUCATION ABROAD (OPC) PVT LTD=0A=
+=0A=
+>From: JATIN GOEL <finance_ldh@globeauto.in>=0A=
+>Sent: Friday 26 October 2018 1:52 PM=0A=
+>To: ajay.sharma8@hdfcbank.com=0A=
+>CC: Diwakar Ahluwalia <diwakar_ahluwalia@globeauto.in>=0A=
+>Subject: Do confirm of SAVIOUR EDUCATION ABROAD (OPC) PVT LTD=0A=
+>=0A=
+>Dear Sir,=0A=
+>=0A=
+>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Plz confirm the do for the delivery.=
+=0A=
+>=0A=
+>=0A=
+>Thanks & Regards=0A=
+>=0A=
+>Jatin Goel=0A=
+>=0A=
+>=0A=
+>=0A=
+>=0A=
+>-------- Forwarded Message -------- Subject: Do of SAVIOUR EDUCATION ABROAD=
+ (OPC) PVT LTDDate: Fri, 26 Oct 2018 13:35:24 +0530From: Karan.Seth@hdfcbank=
+.comTo: finance_ldh@globeauto.inCC: Ajay.Sharma8@hdfcbank.com, sm_ldh@globea=
+uto.in =0A=
+>=0A=
+>Dear Sir - Application in the name SAVIOUR EDUCATION ABROAD (OPC) PVT LTD h=
+as been approved with us,Kindly Delivered the same. =0A=
+>=0A=
+>Loan amount - 1897000/- =0A=
+>PF =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A04800/- =0A=
+>Disb amount - =C2=A01892200/- =0A=
+>=0A=
+>=0A=
+>Payment will be released subject to Submission of Insurance,RC and Margin M=
+oney. =0A=
+>=0A=
+>=0A=
+>=0A=
+>Thanks and Regards, =0A=
+>=C2=A0 =C2=A0 Karan Seth =0A=
+>=C2=A0 =C2=A0RM- Auto Loans =0A=
+>=C2=A0 =C2=A0Ludhiana =0A=
+>=C2=A0 =C2=A09872888889 =0A=
+>=0A=
+>HDFC Bank=0A=
+>=0A=
+>HDFC Bank officials or representatives will NEVER ask you for your personal=
+ information i.e. your card details, passwords, PIN, CVV, OTP etc. DO NOT sh=
+are these details with anyone over phone, SMS or email =0A=
+>=0A=
+>To read more about secure banking http://www.hdfcbank.com/aboutus/security/=
+security_tips.htm =0A=
+>=0A=
+>=EF=BF=BC =0A=
+>___________________________________________________________________________=
+________________=0A=
+>Disclaimer:=0A=
+>"The information contained herein (including any accompanying documents) is=
+ confidential and is intended solely for the addressee(s). If you have erron=
+eously received this message, please immediately delete it and notify the se=
+nder. Also, if you are not the intended recipient, you are hereby notified t=
+hat any disclosure, copying, distribution or taking any action in reliance o=
+n the contents of this message or any accompanying document is strictly proh=
+ibited and is unlawful. The organization is not responsible for any damage c=
+aused by a virus or alteration of the e-mail by a third party or otherwise.=
+=0A=
+>Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, Lower=
+ Parel (W), Mumbai - 400 013. " =0A=
+>=EF=BF=BC =0A=
+>=0A=
+>Advisory Note : This=C2=A0 email message originates from outside HDFC BANK.=
+ Please be extra vigilant before you click on a link, open attachments or re=
+ply.=C2=A0 =0A=
+>=0A=
+
+
+HDFC Bank officials or representatives will NEVER ask you for your personal=
+ information i.e. your card details, passwords, PIN, CVV, OTP etc. DO NOT sh=
+are these details with anyone over phone, SMS or email
+
+To read more about secure banking http://www.hdfcbank.com/aboutus/security/s=
+ecurity_tips.htm 
+
+____________________________________________________________________________=
+_______________
+Disclaimer:
+"The information contained herein (including any accompanying documents) is=
+ confidential and is intended solely for the addressee(s). If you have erron=
+eously received this message, please immediately delete it and notify the se=
+nder. Also, if you are not the intended recipient, you are hereby notified t=
+hat any disclosure, copying, distribution or taking any action in reliance o=
+n the contents of this message or any accompanying document is strictly proh=
+ibited and is unlawful. The organization is not responsible for any damage c=
+aused by a virus or alteration of the e-mail by a third party or otherwise.
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, Lower P=
+arel (W), Mumbai - 400 013. " 
+
+----_com.citrix.email_3069031495890792
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Ok for delivery </div>=0A=
+<br>=0A=
+<div dir=3D"ltr">Ajay Sharma</div>=0A=
+<div dir=3D"ltr">SM Auto Loans</div>=0A=
+<div dir=3D"ltr">9814688158.</div>=0A=
+<div dir=3D"ltr">HDFC <u>BANK</u></div>=0A=
+=0A=
+=0A=
+<hr/><b>From:</b> <xliff:g id=3Dsender>JATIN GOEL &lt;finance_ldh@globeauto.=
+in&gt;</xliff:g><br/><b>Sent:</b> <xliff:g id=3Dsent>Friday 26 October 2018=
+ 1:52 PM</xliff:g><br/><b>To:</b> <xliff:g id=3Dto>ajay.sharma8@hdfcbank.com=
+</xliff:g><br/><b>CC:</b> <xliff:g id=3Dcc>Diwakar Ahluwalia &lt;diwakar_ahl=
+uwalia@globeauto.in&gt;</xliff:g><br/><b>Subject:</b> <xliff:g id=3Dsubject>=
+Do confirm of SAVIOUR EDUCATION ABROAD (OPC) PVT LTD</xliff:g><br/><br/><htm=
+l>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dwindow=
+s-1252">
+  </head>
+  <body text=3D"#000000" bgcolor=3D"#FFFFFF">
+    <p>Dear Sir,</p>
+    <p>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Plz confirm the do for the deliv=
+ery.</p>
+    <p><br>
+    </p>
+    <p>Thanks &amp; Regards</p>
+    <p>Jatin Goel</p>
+    <p><br>
+    </p>
+    <div class=3D"moz-forward-container"><br>
+      <br>
+      -------- Forwarded Message --------
+      <table class=3D"moz-email-headers-table" cellspacing=3D"0"
+        cellpadding=3D"0" border=3D"0">
+        <tbody>
+          <tr>
+            <th nowrap=3D"nowrap" valign=3D"BASELINE" align=3D"RIGHT">Subjec=
+t:
+            </th>
+            <td>Do of SAVIOUR EDUCATION ABROAD (OPC) PVT LTD</td>
+          </tr>
+          <tr>
+            <th nowrap=3D"nowrap" valign=3D"BASELINE" align=3D"RIGHT">Date:=
+ </th>
+            <td>Fri, 26 Oct 2018 13:35:24 +0530</td>
+          </tr>
+          <tr>
+            <th nowrap=3D"nowrap" valign=3D"BASELINE" align=3D"RIGHT">From:=
+ </th>
+            <td><a class=3D"moz-txt-link-abbreviated" href=3D"mailto:Karan.S=
+eth@hdfcbank.com">Karan.Seth@hdfcbank.com</a></td>
+          </tr>
+          <tr>
+            <th nowrap=3D"nowrap" valign=3D"BASELINE" align=3D"RIGHT">To: </=
+th>
+            <td><a class=3D"moz-txt-link-abbreviated" href=3D"mailto:finance=
+_ldh@globeauto.in">finance_ldh@globeauto.in</a></td>
+          </tr>
+          <tr>
+            <th nowrap=3D"nowrap" valign=3D"BASELINE" align=3D"RIGHT">CC: </=
+th>
+            <td><a class=3D"moz-txt-link-abbreviated" href=3D"mailto:Ajay.Sh=
+arma8@hdfcbank.com">Ajay.Sharma8@hdfcbank.com</a>, <a class=3D"moz-txt-link-=
+abbreviated" href=3D"mailto:sm_ldh@globeauto.in">sm_ldh@globeauto.in</a></td=
+>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">Dear Sir - Application in the
+        name SAVIOUR
+        EDUCATION ABROAD (OPC) PVT LTD has been approved with us,Kindly
+        Delivered
+        the same.</font>
+      <br>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">Loan amount - 1897000/-</font>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">PF =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0
+        =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A04800/-=
+</font>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">Disb amount - =C2=A01892200/-</fo=
+nt>
+      <br>
+      <br>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">Payment will be released subject
+        to
+        Submission of Insurance,RC and Margin Money.</font>
+      <br>
+      <br>
+      <br>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">Thanks and Regards,</font>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">=C2=A0 =C2=A0 Karan Seth</font>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">=C2=A0 =C2=A0RM- Auto Loans </fon=
+t>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">=C2=A0 =C2=A0Ludhiana</font>
+      <br>
+      <font size=3D"2" face=3D"sans-serif">=C2=A0 =C2=A09872888889</font>
+      <br>
+      <br>
+      <meta charset=3D"utf-8">
+      <title>HDFC Bank</title>
+      <br>
+      <br>
+      HDFC Bank officials or representatives will NEVER ask you for your
+      personal information i.e. your card details, passwords, PIN, CVV,
+      OTP etc. DO NOT share these details with anyone over phone, SMS or
+      email
+      <br>
+      <br>
+      To read more about secure banking
+      <a class=3D"moz-txt-link-freetext" href=3D"http://www.hdfcbank.com/abo=
+utus/security/security_tips.htm">http://www.hdfcbank.com/aboutus/security/se=
+curity_tips.htm</a> <br>
+      <br>
+      <a
+href=3D"https://www.hdfcbank.com/StartDoing/index.html?utm_source=3Ddirect&a=
+mp;utm_medium=3Dredirect&amp;utm_campaign=3Dstartdoing&amp;utm_content=3D&am=
+p;%20promo_code=3Dredirect&amp;source_code=3DBrand"
+        style=3D"outline:none" target=3D"_blank" moz-do-not-send=3D"true"><i=
+mg
+src=3D"http://mailer.hdfcbank.com/campaign/July17/Digital-Signature/Devika-S=
+hopping.jpg"
+          alt=3D"" moz-do-not-send=3D"true" width=3D"728" height=3D"90"></a>
+      <br>
+____________________________________________________________________________=
+_______________<br>
+      Disclaimer:<br>
+      "The information contained herein (including any accompanying
+      documents) is confidential and is intended solely for the
+      addressee(s). If you have erroneously received this message,
+      please immediately delete it and notify the sender. Also, if you
+      are not the intended recipient, you are hereby notified that any
+      disclosure, copying, distribution or taking any action in reliance
+      on the contents of this message or any accompanying document is
+      strictly prohibited and is unlawful. The organization is not
+      responsible for any damage caused by a virus or alteration of the
+      e-mail by a third party or otherwise.<br>
+      Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat
+      Marg, Lower Parel (W), Mumbai - 400 013. "
+    </div>
+  
+<br>
+<font size=3D"2">
+<img src=3D"http://email.jcbl.com/Globeauto.jpg" alt=3D"Globe Auto LOGO" wid=
+th=3D"622px" height=3D"83px">
+</font>
+
+<br>
+<p style=3D"margin: 0px 0px 10.66px;"><strong></strong><em></em><span style=
+=3D"text-decoration: underline;"></span><sub></sub><sup></sup><span style=3D=
+"text-decoration: line-through;"></span></p><p style=3D"margin: 0px 0px 10.6=
+6px;"><span style=3D"margin: 0px; color: red;"><font face=3D"Calibri"><font=
+ size=3D"3"><strong>Advisory Note : This<span style=3D"margin: 0px;">&nbsp;
+</span>email message originates from outside HDFC BANK. Please be extra
+vigilant before you click on a link, open attachments or reply.<span style=
+=3D"margin: 0px;">&nbsp; </span></strong></font></font></span></p><p style=
+=3D"margin: 0px 0px 10.66px;">
+
+<strong></strong><em></em><span style=3D"text-decoration: underline;"></span=
+><sub></sub><sup></sup><span style=3D"text-decoration: line-through;"></span=
+><span  style=3D"font-family: Calibri;"></span><font size=3D"3"></font><span=
+  style=3D"font-family: Times New Roman;"></span><strong></strong><strong></=
+strong><strong></strong><strong></strong><strong></strong><strong></strong><=
+strong></strong><strong></strong><strong></strong><strong></strong><strong><=
+/strong><strong></strong></p>
+<meta charset=3D"utf-8">
+<title>HDFC Bank</title><br><br>HDFC Bank officials or representatives will=
+ NEVER ask you for your personal information i.e. your card details, passwor=
+ds, PIN, CVV, OTP etc. DO NOT share these details with anyone over phone, SM=
+S or email
+
+<br><br>To read more about secure banking http://www.hdfcbank.com/aboutus/se=
+curity/security_tips.htm <br><br>
+<a href=3D"https://www.hdfcbank.com/StartDoing/index.html?utm_source=3Ddirec=
+t&utm_medium=3Dredirect&utm_campaign=3Dstartdoing&utm_content=3D&%20promo_co=
+de=3Dredirect&source_code=3DBrand" style=3D"outline:none" target=3D"_blank">=
+<img  src=3D"http://mailer.hdfcbank.com/campaign/July17/Digital-Signature/De=
+vika-Shopping.jpg" alt=3D"" width=3D"728" height=3D"90"></a>
+<br>________________________________________________________________________=
+___________________<br>Disclaimer:<br>
+"The information contained herein (including any accompanying documents) is=
+ confidential and is intended solely for the addressee(s). If you have erron=
+eously received this message, please immediately delete it and notify the se=
+nder. Also, if you are not the intended recipient, you are hereby notified t=
+hat any disclosure, copying, distribution or taking any action in reliance o=
+n the contents of this message or any accompanying document is strictly proh=
+ibited and is unlawful. The organization is not responsible for any damage c=
+aused by a virus or alteration of the e-mail by a third party or otherwise.<=
+br>
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, Lower P=
+arel (W), Mumbai - 400 013. "
+</body>
+</html>
+
+----_com.citrix.email_3069031495890792--

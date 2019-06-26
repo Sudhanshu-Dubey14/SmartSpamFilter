@@ -1,0 +1,88 @@
+Return-Path: <official-cop-cam-mktho=mslindia.net@biz-farmer.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mktho@mslindia.net>
+X-Envelope-To-Blocked: <mktho@mslindia.net>
+X-Quarantine-ID: <a2izqtYf23MO>
+X-Spam-Flag: YES
+X-Spam-Score: 10.61
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.61 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_28=0.726, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a2izqtYf23MO for <mktho@mslindia.net>;
+	Mon,  8 Oct 2018 04:52:33 +0530 (IST)
+Received: from mail.biz-farmer.com (biz-farmer.com [103.110.211.156])
+	by mx10.jcbl.com (Postfix) with ESMTP id 8209AEEA353
+	for <mktho@mslindia.net>; Mon,  8 Oct 2018 04:52:31 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=biz-farmer.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=official-cop-cam@biz-farmer.com;
+ bh=IuLxoA5t2nVfbQ7rcMz+pnxsYBA=;
+ b=ku28tW+XVdNOEulDDL4evQbynKVVmoD4R35OYB22RiQHdbeDo9YMcBRQZFLoeLi1rQMvDKpnMDLG
+   s4kh2Y82ptJqD4WGm1UauqJhQxXBDX6AHSmuK9l+1FKxZx3hF4gDJ5F6oziDytragAbEqjm0K8Mp
+   Fv14SXUC5BDtPwEiVvU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=biz-farmer.com;
+ b=UuyX282k2tooVmZMy+a7az930MrqtCmWUCx5tvE7E/bM56xKHKc1rDS56ukmd1IWM99uvpFs6PX9
+   th/Z4wp0r79flzI+bxNIlIFRy65ONrF/0AdHMB/gbw9a9EuggSeBJ9HhmRz+PSD1wT+lKhHhCVSX
+   Gi0Qt5+iApqyP6PawDo=;
+Received: by mail.biz-farmer.com id hnaak60001g5 for <mktho@mslindia.net>; Sun, 7 Oct 2018 19:11:08 -0400 (envelope-from <official-cop-cam-mktho=mslindia.net@biz-farmer.com>)
+Date: Sun, 7 Oct 2018 19:11:08 -0400
+From: "Official Cop Cam" <official-cop-cam@biz-farmer.com>
+To:   <mktho@mslindia.net>
+Subject: Small Camera Shoots In High-Definition!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_184_179100699.1538953851627"
+List-Unsubscribe: <http://www.biz-farmer.com/1X15s2M385WWR8912PMLL11pj722D19gigxasfiwhbrHbDErIx5V1R0y10u2yiywxkN9/revoked-stanchion>
+Message-ID: <0.0.0.13.1D45E9307E39F62.593AD2@mail.biz-farmer.com>
+
+------=_Part_184_179100699.1538953851627
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head> 
+  <title>Cop Cam? ? The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything Whenever Motion is Detected!</title> 
+  <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" /> 
+ </head> 
+ <body bgcolor="#FFFFFF" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"> 
+  <table border="0" cellpadding="5" cellspacing="0" width="320"> 
+   <tbody> 
+    <tr> 
+     <td style="display:none !important; 
+ visibility:hidden; 
+ mso-hide:all; 
+ font-size:1px; 
+ color:#ffffff; 
+ line-height:1px; 
+ max-height:0px; 
+ max-width:0px; 
+ opacity:0; 
+ overflow:hidden; ">Small Camera Records Anything, Anywhere!</td> 
+    </tr> 
+    <tr> 
+     <td style="font:12px Arial, Helvetica, sans-serif; "> <p>Cop Cam&nbsp; - The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything Whenever Motion is Detected!</p> <p>Cop Cam is the wireless HD recording camera smaller than one square inch! Hide Cop Cam virtually anywhere and shoot in incredible high-def with a powerful microphone to record perfect audio. The high tech motion sensor loop records. Upload footage to your computer to share in seconds. Use Cop Cam can be used as a body cam and dash cam or for bad neighbors and packaging thieves. High anywhere and record anything with the Cop Cam!</p> <h1 style="text-align: center; "><a href="http://www.biz-farmer.com/greyest-labeling/abc6X23F8U5mH8m610u2c0dg722l19bigxasfiwhbrHbDErIx5r1q0x10uOUWMiwMx9">Learn More</a></h1> </td> 
+    </tr> 
+    <tr> 
+     <td><br /> <br /> <br /> <br /> <br /> &nbsp; </td> 
+    </tr> 
+    <tr> 
+     <td align="center" style="font: 11px Arial, Helvetica, sans-serif">If you would like to remove yourself from the Cop Cam? list, <a href="http://www.biz-farmer.com/d316W23pK85X8D6p10B2c0eF722w19QigxasfiwhbrHbDErIx5I10Di10rO3iwxP9lL/marionette-dislocate">click here</a>.<br /> *This is an advertisement<br /> <span id="OLK_SRC_BODY_SECTION2">PO Box 4077 Broadlands, VA 20148</span></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <div style="text-align: left; ">
+   <font size="3">To be removed <a href="http://www.biz-farmer.com/7735DG2385N8q9j12Int2c0fh722u19figxasfiwhbrHbDErIx6BTO1w09PXLNiOwx9/marionette-dislocate">view here</a><br /> 8345 N.W. 66 St. #A8119-B Miami, FL 33166</font>
+  </div>   
+ <img src="http://www.biz-farmer.com/minimization-excellently/3b46v2O3R85R85zq11f2cg10O722T19FigxasfiwhbrHbDErIx6m_y1S010WXTi@1wxy9" alt=""/></body>
+</html>
+
+------=_Part_184_179100699.1538953851627--
+

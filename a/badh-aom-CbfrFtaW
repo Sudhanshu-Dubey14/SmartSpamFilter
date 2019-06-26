@@ -1,0 +1,44 @@
+Return-Path: <root@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ccm_globe@globeauto.in>, <mrs_globe@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aom-CbfrFtaW>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "To"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aom-CbfrFtaW; Sat, 26 Mar 2016 09:04:20 +0530 (IST)
+Received: from voip.jcbl.com (unknown [10.20.144.124])
+	by mx10.jcbl.com (Postfix) with ESMTP id 37EE3ED0EE2;
+	Sat, 26 Mar 2016 09:04:20 +0530 (IST)
+Received: by voip.jcbl.com (Postfix, from userid 0)
+	id B668554230D; Sat, 26 Mar 2016 09:10:01 +0530 (IST)
+To: mrs_globe@globeauto.in
+Subject: Daily Calls during Non Office Hours
+X-PHP-Originating-Script: 0:missed_calls.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+To: <mrs_globe@globeauto.in>
+From: Nebero CMS<nebcms@globeauto.in>
+Cc: Amandeep Singh<ccm_globe@globeauto.in>
+Message-Id: <20160326034001.B668554230D@voip.jcbl.com>
+Date: Sat, 26 Mar 2016 09:10:01 +0530 (IST)
+
+<html>
+	<body>
+	Hi, <br/>
+	Following is the list of calls during Non Office Hours: 
+
+<br/><table><tr><th>Call Time	</th><th></th><th>	Caller</th></tr>
+<tr><td>2016-03-25 18:48:16</td><td></td><td>	9467502504</td></tr>
+<tr><td>2016-03-25 19:13:09</td><td></td><td>	8872153258</td></tr>
+<tr><td>2016-03-26 06:31:11</td><td></td><td>	8950136339</td></tr>
+<tr><td>2016-03-26 08:22:56</td><td></td><td>	9781500064</td></tr>
+<tr><td>2016-03-26 08:27:33</td><td></td><td>	9872880108</td></tr>
+</table><br/>
+	Regards,<br/>
+	Nebero CMS<br/>
+	Globe Ambala <br/>

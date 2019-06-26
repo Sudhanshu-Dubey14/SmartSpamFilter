@@ -1,0 +1,109 @@
+Return-Path: <test@genetiks.com.tr>
+Delivered-To: spam-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked: <poonam_rawal@jcblmail.com>
+X-Quarantine-ID: <aGv2GtfxsIDI>
+X-Spam-Flag: YES
+X-Spam-Score: 11.131
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.131 tag=2 tag2=6.31 kill=6.31
+	tests=[ADVANCE_FEE_2_NEW_MONEY=0.596, ADVANCE_FEE_3_NEW=1.353,
+	ADVANCE_FEE_3_NEW_MONEY=1, ADVANCE_FEE_4_NEW=1,
+	ADVANCE_FEE_4_NEW_MONEY=0.001, ADVANCE_FEE_5_NEW=1.5,
+	ADVANCE_FEE_5_NEW_MONEY=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HK_SCAM_N2=3.099, LOTS_OF_MONEY=0.001,
+	MONEY_FRAUD_3=1.172, MONEY_FRAUD_5=0.5, MONEY_FRAUD_8=1,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_HK_NAME_MR_MRS=0.01,
+	T_MONEY_PERCENT=0.01, T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aGv2GtfxsIDI for <poonam_rawal@jcblmail.com>;
+	Thu, 28 Mar 2019 14:33:24 +0530 (IST)
+Received: from genetiks.com.tr (genetiks.com.tr [178.62.198.221])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C5A6FF21A02
+	for <ibd@jcbl.com>; Thu, 28 Mar 2019 14:33:20 +0530 (IST)
+Received: from genetiks.com.tr (localhost [127.0.0.1])
+	by genetiks.com.tr (Postfix) with ESMTP id 460784AF6
+	for <ibd@jcbl.com>; Thu, 28 Mar 2019 05:03:43 -0400 (EDT)
+Authentication-Results: genetiks.com.tr (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=genetiks.com.tr
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=genetiks.com.tr;
+	 h=content-language:content-transfer-encoding:content-type
+	:content-type:to:mime-version:user-agent:date:date:message-id
+	:subject:subject:from:from:reply-to; s=dkim; t=1553763822; x=
+	1556355823; bh=2gwerp1uESEGuNVpo8iz+XUP/gWWZt10/BqihZb5iBg=; b=h
+	nK0htG3URpalf9FNOvBFvpwayAL+D4ZWC1VXyq6SZ7TNVGEgNdWO3e7nReLr0lOt
+	nAs6Wds1lnq5L/CN7yzmnFrIQMA3uKsP7puk3ZA/9fHqxdC0pTnOKKjeG/u+MCqS
+	Cl6lv8ialvWHg90qYO8QwERDMvvVL+q6y2hppLAVZ4=
+X-Virus-Scanned: Debian amavisd-new at genetiks.com.tr
+X-Spam-Flag: NO
+X-Spam-Score: 3.298
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.298 tagged_above=2 required=6.31
+	tests=[ADVANCE_FEE_5_NEW_MONEY=1.521, ALL_TRUSTED=-1,
+	FREEMAIL_FORGED_REPLYTO=2.503, FREEMAIL_REPLYTO_END_DIGIT=0.25,
+	HK_NAME_MR_MRS=0.001, HK_SCAM_N2=0.001, LOTS_OF_MONEY=0.001,
+	MONEY_FRAUD_8=0.001, T_MONEY_PERCENT=0.01, T_SHARE_50_50=0.01]
+	autolearn=no autolearn_force=no
+Received: from genetiks.com.tr ([127.0.0.1])
+	by genetiks.com.tr (genetiks.com.tr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ocPaYKghM3Qp for <ibd@jcbl.com>;
+	Thu, 28 Mar 2019 05:03:42 -0400 (EDT)
+Received: from [10.152.157.191] (unknown [81.92.203.86])
+	by genetiks.com.tr (Postfix) with ESMTPSA id 2247F9F8;
+	Thu, 28 Mar 2019 05:02:17 -0400 (EDT)
+Reply-To: bruceaddy7@gmail.com
+From: "Mrs. Dare Addy" <test@genetiks.com.tr>
+Subject: Re: Notification!!!
+Message-ID: <bff89df8-65a0-50e2-2fde-bd8f91f2b414@genetiks.com.tr>
+Date: Thu, 28 Mar 2019 02:04:12 -0700
+User-Agent: Mozilla/5.0 (Windows NT 6.3; rv:60.0) Gecko/20100101
+ Thunderbird/60.6.0
+MIME-Version: 1.0
+To: undisclosed-recipients: ;
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+Content-Language: en-US
+
+Attn: Sir/Madam,
+
+I'm Dare Addy the manager of audit & accounts department in Naxitis 
+Bank. I used to be the personal account manager to our late bank 
+customer who died in an auto crash in Westminster, London with his 
+entire family early this year; before his death, he had funds deposit of 
+£12,500,000.00 GBP (Twelve Million Five Hundred Thousand British Pounds 
+Sterling) with us. This fund was meant for an urgent cash investment; 
+hence it was kept in our vault.
+
+It was during one of my search that I came across your contact 
+information through a discreet contact from the UK Business Council 
+(UKBC) here in London, UK.
+
+In view of the necessity to implementing the banking regulations on the 
+inheritance claim, as he the decease has no trustee or next of kin to 
+his deposit, I independently decided to contact you in strict confidence 
+as you have the same family name with him.
+
+Therefore, if agree for us to use your name to claim this fund in our 
+bank, we shall share the money in the following rations: 50% for you 
+while 50% will be for me.
+
+I will obtain the necessary legal documents on your behalf, which are 
+the documents the bank will need from you before releasing the fund to 
+you as the beneficiary. This transaction is 100% risk free since I am 
+still working with the bank.
+
+Finally, for the security of the transaction, all correspondence should 
+be between you and my husband. Find below his contact information.
+
+Name: Bruce Addy
+E-mail: bruceaddy7@gmail.com
+
+Revert back directly to my husband on the above mentioned contact 
+information either by e-mail, by sending your details; for us to proceed 
+while bearing in mind that the transaction should be strictly confidential.
+
+Yours sincerely,
+Mrs. Dare Addy
+

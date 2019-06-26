@@ -1,0 +1,436 @@
+Return-Path: <update@phonerupay.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <vasudha_aggarwal@jcbl.com>
+X-Envelope-To-Blocked: <vasudha_aggarwal@jcbl.com>
+X-Quarantine-ID: <a7QZkzgrJ_2b>
+X-Spam-Flag: YES
+X-Spam-Score: 6.409
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.409 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, LOW_PRICE=0.6,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RDNS_NONE=1.274, T_DKIM_INVALID=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a7QZkzgrJ_2b for <vasudha_aggarwal@jcbl.com>;
+	Thu, 28 Feb 2019 06:31:49 +0530 (IST)
+Received: from mta0.phonerupay.com (unknown [216.117.186.60])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 5EED11049023
+	for <vasudha_aggarwal@jcbl.com>; Thu, 28 Feb 2019 06:31:46 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=up; d=phonerupay.com;
+ h=Sender:Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=mailer@phonerupay.com;
+ bh=BR2o8jgCX6h/FAhd3gEKGlE6MMQvY5XMtwyjWBKegNA=;
+ b=XledycgZmPdp6O21P6+RPj0yBXUEyqCwrzR3In6gZUGZJl+TOl1HwtTjpeZieXirVTWx5iQ2CZ6Y
+   R0AFt1iJ5pIrmHXT0GbRGUv8G42M5GXuZAeYuTMm+OCXkwTCSDFJkBUTnGNHJKg4wS3/IlaMardD
+   7GNeusGC4t/SX0YFhlc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=up; d=phonerupay.com;
+ b=aGZ/U12c8jcDRwKCUYEPhb40rmZE8iBW0bAIH/Ec23QKg707AzkV2cZ0VJdQllqItN4Jhi252Zpa
+   ELIsLUHdmKVnQBArQNVDAvMAlGXHjDIEzeGk7phT8E7ESwKRCfCGJFudIwvHf5FnBBn1HU18hm8b
+   DtuTswKGAPjo9YNfXjc=;
+Sender: mailer@phonerupay.com
+Message-ID: <cd52f31d5cfd550f02b493c0670ea9a4@phonerupay.com>
+Date: Thu, 28 Feb 2019 01:02:11 +0000
+Subject: Important Update: Amazon Great Indian Festival Bargains upto 90%
+From: Great Indian Sale <info@phonerupay.com>
+Reply-To: Great Indian Sale <info@phonerupay.com>
+To: "vasudha_aggarwal@jcbl.com" <vasudha_aggarwal@jcbl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1551315731_72fade6fa966ae82d8ec55b6f4052ce0_=_"
+X-Sender: update@phonerupay.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/report-abuse/df447ldpxqfed/la987akc5ffe7
+X-Receiver: vasudha_aggarwal@jcbl.com
+X-Kdbw-Tracking-Did: 19
+X-Kdbw-Subscriber-Uid: la987akc5ffe7
+X-Kdbw-Mailer: SwiftMailer - 5.4.x
+X-Kdbw-EBS: http://t.phonerupay.com/index.php/lists/block-address
+X-Kdbw-Delivery-Sid: 16
+X-Kdbw-Customer-Uid: dn336xl19yb00
+X-Kdbw-Customer-Gid: 4
+X-Kdbw-Campaign-Uid: wk268jcn7la8c
+Precedence: bulk
+List-Unsubscribe: <http://t.phonerupay.com/index.php/lists/df447ldpxqfed/unsubscribe/la987akc5ffe7/wk268jcn7la8c/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:info@phonerupay.com?subject=Campaign-Uid:wk268jcn7la8c /
+ Subscriber-Uid:la987akc5ffe7 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: df447ldpxqfed <CIIMem>
+Feedback-ID: wk268jcn7la8c:la987akc5ffe7:df447ldpxqfed:dn336xl19yb00
+
+
+--_=_swift_v4_1551315731_72fade6fa966ae82d8ec55b6f4052ce0_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Shopper,
+Amazon welcomes big deals on big brands. So what are you wa=
+iting
+for,=C2=A0 go ahead buy everything that you=E2=80=99ve been postpon=
+ing. Stay
+ahead with the trends of 2019 and find irresistible deals on mo=
+biles,
+laptops, apparel, large electronics, home and kitchen products and=
+
+much more...
+Great India Sale =E2=80=93 Electronics and Furniture
+* =
+More savings with 10% Instant Discount Credit and Debit cards
+* This year=
+'s biggest discounts on=C2=A0TVs & Appliances
+http://t.phonerupay.com/ind=
+ex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/6e423b90706908ad3aa9=
+7e76103b954cb4983ae1=C2=A0|
+No cost EMI | Exchange offers up to Rs. 22,00=
+0/- | 100+ Launches
+* Mobiles=C2=A0
+http://t.phonerupay.com/index.php/c=
+ampaigns/wk268jcn7la8c/track-url/la987akc5ffe7/ea66f981039a5e70dbc66b63a550=
+e7bdfe97dab0starting
+Rs. 313/month
+* Furniture
+http://t.phonerupay.co=
+m/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/102f615d75c055e=
+832904b8d5412844ce6df9f8d=C2=A0starting
+Rs. 517/month
+* Large Appliance=
+s
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la9=
+87akc5ffe7/3b3b3adb586f7ce08bdff3002d33b6f5e322d20e=C2=A0starting
+Rs. 999=
+/month
+* Laptops
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7l=
+a8c/track-url/la987akc5ffe7/5820b11660c5303a86b5874e04d043d12a721c6d=C2=
+=A0starting
+Rs. 1,677/month
+* Lowest Prices of the year on=C2=A0Home & =
+Kitchen
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-u=
+rl/la987akc5ffe7/fb4738163b278734671482e9723282d6c5ac738f=C2=A0|
+Up to 80=
+% OFF
+* Up to 35% OFF on=C2=A0Amazon=C2=A0Devices
+http://t.phonerupay.c=
+om/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/0b83cbf389e183=
+a6cfa4e09c0635ec5727326089
+MOBILE FEST
+* The Moto Store
+http://t.phon=
+erupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/b1f436=
+44b189603b16cefe098f3abe38b55ed3ea=C2=A0|=C2=A0Up
+to Rs. 6000/- OFF!
+* =
+Stellar Prices on=C2=A0Best-selling Mobile Phones
+http://t.phonerupay.com=
+/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/44bbedc965914a29=
+1e4d855728ab1457c02cfce8=C2=A0|=C2=A0Redmi
+6A Flash Sale Marathon | No co=
+st EMI | Exchange Offer | 1Lakh+ deals
+on Mobile accessories
+OTHER TOP =
+OFFERS:=C2=A0
+* Shopping made more affordable with=C2=A0No cost EMI & exc=
+hange schemes
+* Great Discounts on=C2=A0Books, Entertainment and more
+h=
+ttp://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la987akc=
+5ffe7/172319892aa0897e1ad5d68f6205171bd76524ad=C2=A0|
+Up to 60% OFF
+* U=
+p to 90% OFF on=C2=A0Fashion
+http://t.phonerupay.com/index.php/campaigns/=
+wk268jcn7la8c/track-url/la987akc5ffe7/ef82288373df2809c35fee3a689125873efef=
+c3a=C2=A0|
++ 15% CashBack
+* Attractive Deals on iPhones=C2=A0
+http://=
+t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/=
+04ed4fbd30f2a66e1bd33481eebea3d066b4353c+
+10% Cashback on ICICI Credit Ca=
+rd EMI
+* I love MI Sale
+http://t.phonerupay.com/index.php/campaigns/wk2=
+68jcn7la8c/track-url/la987akc5ffe7/0077b5208b0df4861842d486cbcad7c428407af2=
+=C2=A0|
+Up to Rs. 2000 OFF | Exchange Offer | No Cost EMI
+* Amazon=
+=C2=A0Fashion Deals
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7=
+la8c/track-url/la987akc5ffe7/55a748b7fcf6282d3de9e79031b6c904e69d7c72
+* D=
+aniel Wellington Watches=C2=A0
+http://t.phonerupay.com/index.php/campaign=
+s/wk268jcn7la8c/track-url/la987akc5ffe7/f88f9431bb463c7b28b0610fe0ef67cbf0e=
+d6d16|
+Up to 25% OFF=C2=A0
+* Laptops=C2=A0
+http://t.phonerupay.com/in=
+dex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/3d90b514e8a55fa6a2b=
+01f738f35d9af7a867492for
+Every Need
+* 30% to 80% OFF=C2=A0Sunglasses
+=
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la987ak=
+c5ffe7/4b34342be7b7fce8aabe86813e45a995a54ecdbb
+* Up to 60% OFF on=C2=
+=A0Cameras & Accessories
+http://t.phonerupay.com/index.php/campaigns/wk26=
+8jcn7la8c/track-url/la987akc5ffe7/93e22c4428ecbb77cf375e6dba490a65e99a0971=
+
+Also, don't forget to check out our high-impact landing pages for
+grea=
+t deals:
+* Deal of the Day and Lightning Deals on the=C2=A0TODAY'S DEALS=
+=C2=A0
+http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-ur=
+l/la987akc5ffe7/cc3802eff4587c7593e3e724c5599d63d006a282page
+* Price Cras=
+h on=C2=A010,000+ Daily Essentials
+http://t.phonerupay.com/index.php/camp=
+aigns/wk268jcn7la8c/track-url/la987akc5ffe7/cb8a07e5bbce707432f3951db1ec2a2=
+5b1e04e37|
+20% - 50% OFF | 40+ Rs. 1/- Deals
+* Great Budget shopping wi=
+th=C2=A0THE 99 STORE
+http://t.phonerupay.com/index.php/campaigns/wk268jcn=
+7la8c/track-url/la987akc5ffe7/c2aacf7bc6678946f987d56b043858eddde361c8
+Th=
+anks
+Click here to Unsubscribe
+http://t.phonerupay.com/index.php/campai=
+gns/wk268jcn7la8c/track-url/la987akc5ffe7/e73e2b0dc1f9fe714fcbd3ca61ebf1ba3=
+4309d6d
+
+--_=_swift_v4_1551315731_72fade6fa966ae82d8ec55b6f4052ce0_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+=09<title></title>
+</head>
+<body data-gramm=3D"true" data-gramm_editor=3D"true" data-gramm_id=3D"0b784=
+553-9cba-a583-a017-991a019efddb"><br />
+Dear Shopper,<br />
+<br />
+Amazon welcomes big deals on big brands. So what are you waiting for,=C2=
+=A0 go ahead buy everything that you=E2=80=99ve been postponing. Stay ahead=
+ with the trends of 2019 and find irresistible deals on mobiles, laptops, a=
+pparel, large electronics, home and kitchen products and much more...<br />
+<br />
+<b><font>Great India Sale =E2=80=93 Electronics and Furniture</font></b>
+<ul>
+=09<li style=3D"margin-left:15px">More savings with <strong>10% </strong><b=
+>Instant Discount Credit and Debit cards</b></li>
+=09<li style=3D"margin-left:15px"><b>This year's biggest discounts on=C2=
+=A0<a href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/tra=
+ck-url/la987akc5ffe7/6e423b90706908ad3aa97e76103b954cb4983ae1" target=3D"_b=
+lank">TVs & Appliances</a></b>=C2=A0| No cost EMI | Exchange offers up to R=
+s. 22,000/- | 100+ Launches</li>
+=09<li style=3D"margin-left:15px"><b><a href=3D"http://t.phonerupay.com/ind=
+ex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/ea66f981039a5e70dbc6=
+6b63a550e7bdfe97dab0" style=3D"color:#1155cc" target=3D"_blank">Mobiles=
+=C2=A0</a></b><g class=3D"gr_ gr_92 gr-alert gr_gramm gr_inline_cards gr_ru=
+n_anim Grammar only-ins replaceWithoutSep" data-gr-id=3D"92" id=3D"92">star=
+ting</g> Rs. 313/month</li>
+=09<li style=3D"margin-left:15px"><b><a href=3D"http://t.phonerupay.com/ind=
+ex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/102f615d75c055e83290=
+4b8d5412844ce6df9f8d" style=3D"color:#1155cc" target=3D"_blank">Furniture</=
+a></b>=C2=A0starting Rs. 517/month</li>
+=09<li style=3D"margin-left:15px"><b><a href=3D"http://t.phonerupay.com/ind=
+ex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/3b3b3adb586f7ce08bdf=
+f3002d33b6f5e322d20e" style=3D"color:#1155cc" target=3D"_blank">Large Appli=
+ances</a></b>=C2=A0starting Rs. 999/month</li>
+=09<li style=3D"margin-left:15px"><b><a href=3D"http://t.phonerupay.com/ind=
+ex.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/5820b11660c5303a86b5=
+874e04d043d12a721c6d" style=3D"color:#1155cc" target=3D"_blank">Laptops</a>=
+</b>=C2=A0<g class=3D"gr_ gr_93 gr-alert gr_gramm gr_inline_cards gr_run_an=
+im Grammar only-ins replaceWithoutSep" data-gr-id=3D"93" id=3D"93">starting=
+</g> Rs. 1,677/month</li>
+=09<li style=3D"margin-left:15px"><b>Lowest Prices of the year on=C2=A0<a h=
+ref=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/=
+la987akc5ffe7/fb4738163b278734671482e9723282d6c5ac738f" target=3D"_blank">H=
+ome & Kitchen</a></b>=C2=A0| Up to 80% OFF</li>
+=09<li style=3D"margin-left:15px"><b>Up to 35% OFF on=C2=A0<a href=3D"http:=
+//t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe=
+7/0b83cbf389e183a6cfa4e09c0635ec5727326089" target=3D"_blank">Amazon=C2=
+=A0Devices</a></b></li>
+</ul>
+
+<table align=3D"center" style=3D"border:undefined" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"margin:0px" valign=3D"top">
+=09=09=09<table style=3D"border:undefined" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"left" style=3D"margin:0px" valign=3D"top"><s=
+pan style=3D"font-family:arial, sans-serif"><span style=3D"font-family:aria=
+l, sans-serif"><b><font>MOBILE FEST</font></b></span></span>
+
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><b><a =
+href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url=
+/la987akc5ffe7/b1f43644b189603b16cefe098f3abe38b55ed3ea" style=3D"color:#11=
+55cc" target=3D"_blank">The Moto Store</a></b>=C2=A0|=C2=A0<b>Up to Rs. 600=
+0/- OFF!</b></span></span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><b>Stellar Prices on=
+=C2=A0<a href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/=
+track-url/la987akc5ffe7/44bbedc965914a291e4d855728ab1457c02cfce8" target=3D=
+"_blank">Best-selling Mobile Phones</a></b>=C2=A0|=C2=A0Redmi 6A Flash Sale=
+ Marathon | No cost EMI | Exchange Offer | 1Lakh+ deals on Mobile accessori=
+es</li>
+=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09<span style=3D"font-family:arial, sans-serif"><span style=
+=3D"font-family:arial, sans-serif"><b><font>OTHER TOP OFFERS:=C2=A0</font><=
+/b></span></span>
+
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px">Shopping made more affo=
+rdable with=C2=A0<b>No cost EMI & exchange schemes</b></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><b>Great Discounts on=
+=C2=A0<a href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/=
+track-url/la987akc5ffe7/172319892aa0897e1ad5d68f6205171bd76524ad" target=3D=
+"_blank">Books, Entertainment and more</a></b>=C2=A0| Up to 60% OFF</li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><b>Up to 90% OFF on=
+=C2=A0<a href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/=
+track-url/la987akc5ffe7/ef82288373df2809c35fee3a689125873efefc3a" target=3D=
+"_blank">Fashion</a></b>=C2=A0| + 15% CashBack</li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><a hre=
+f=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la=
+987akc5ffe7/04ed4fbd30f2a66e1bd33481eebea3d066b4353c" style=3D"color:#1155c=
+c" target=3D"_blank"><b>Attractive Deals on iPhones=C2=A0</b></a>+ 10% Cash=
+back on ICICI Credit Card EMI</span></span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><a hre=
+f=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la=
+987akc5ffe7/0077b5208b0df4861842d486cbcad7c428407af2" style=3D"color:#1155c=
+c" target=3D"_blank"><b>I love MI Sale</b></a>=C2=A0| Up to Rs. 2000 OFF | =
+Exchange Offer | No Cost EMI</span></span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><a hre=
+f=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la=
+987akc5ffe7/55a748b7fcf6282d3de9e79031b6c904e69d7c72" style=3D"color:#1155c=
+c" target=3D"_blank"><b>Amazon=C2=A0Fashion Deals</b></a></span></span></li=
+>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><a hre=
+f=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url/la=
+987akc5ffe7/f88f9431bb463c7b28b0610fe0ef67cbf0ed6d16" style=3D"color:#1155c=
+c" target=3D"_blank"><b>Daniel Wellington Watches=C2=A0</b></a>| Up to 25% =
+OFF=C2=A0</span></span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif"><b><a =
+href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/track-url=
+/la987akc5ffe7/3d90b514e8a55fa6a2b01f738f35d9af7a867492" style=3D"color:#11=
+55cc" target=3D"_blank">Laptops=C2=A0</a></b>for Every Need</span></span></=
+li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif">30% to=
+ 80% OFF=C2=A0<a href=3D"http://t.phonerupay.com/index.php/campaigns/wk268j=
+cn7la8c/track-url/la987akc5ffe7/4b34342be7b7fce8aabe86813e45a995a54ecdbb" s=
+tyle=3D"color:#1155cc" target=3D"_blank"><b>Sunglasses</b></a></span></span=
+></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px; text-align:left"><span =
+style=3D"font-family:arial, sans-serif"><span style=3D"font-family:arial, s=
+ans-serif">Up to 60% OFF on=C2=A0<a href=3D"http://t.phonerupay.com/index.p=
+hp/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/93e22c4428ecbb77cf375e6d=
+ba490a65e99a0971" style=3D"color:#1155cc" target=3D"_blank"><b>Cameras & Ac=
+cessories</b></a></span></span></li>
+=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table align=3D"center" style=3D"border:undefined" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"margin:0px" valign=3D"top">
+=09=09=09<table style=3D"border:undefined" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"left" style=3D"margin:0px" valign=3D"top"><s=
+pan style=3D"font-family:arial, sans-serif"><span style=3D"font-family:aria=
+l, sans-serif"><b style=3D"color:#222222; font-family:arial, sans-serif; fo=
+nt-size:12.8px; font-style:normal; font-variant-ligatures:normal; font-vari=
+ant-caps:normal; letter-spacing:normal; orphans:2; text-align:-webkit-left;=
+ text-transform:none; white-space:normal; widows:2; word-spacing:0px; -webk=
+it-text-stroke-width:0px; background-color:#ffffff; text-decoration-style:i=
+nitial; text-decoration-color:initial">Also, don't forget to check out our =
+high-impact landing pages for great deals:</b></span></span>
+
+=09=09=09=09=09=09<ul style=3D"color:#222222; font-family:arial, sans-serif=
+; font-size:12.8px; font-style:normal; font-variant-ligatures:normal; font-=
+variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; tex=
+t-align:-webkit-left; text-transform:none; white-space:normal; widows:2; wo=
+rd-spacing:0px; -webkit-text-stroke-width:0px; background-color:#ffffff; te=
+xt-decoration-style:initial; text-decoration-color:initial">
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif">Deal o=
+f the Day and Lightning Deals on the=C2=A0<a href=3D"http://t.phonerupay.co=
+m/index.php/campaigns/wk268jcn7la8c/track-url/la987akc5ffe7/cc3802eff4587c7=
+593e3e724c5599d63d006a282" style=3D"color:#1155cc" target=3D"_blank"><b>TOD=
+AY'S DEALS</b>=C2=A0</a>page</span></span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><b style=3D"font-size: =
+12.8px;">Price Crash on=C2=A0<a href=3D"http://t.phonerupay.com/index.php/c=
+ampaigns/wk268jcn7la8c/track-url/la987akc5ffe7/cb8a07e5bbce707432f3951db1ec=
+2a25b1e04e37" target=3D"_blank">10,000+ Daily Essentials</a></b><span style=
+=3D"font-size: 12.8px;">| 20% - 50% OFF | 40+ Rs. 1/- Deals</span></li>
+=09=09=09=09=09=09=09<li style=3D"margin-left:15px"><span style=3D"font-fam=
+ily:arial, sans-serif"><span style=3D"font-family:arial, sans-serif">Great =
+Budget shopping with=C2=A0<a href=3D"http://t.phonerupay.com/index.php/camp=
+aigns/wk268jcn7la8c/track-url/la987akc5ffe7/c2aacf7bc6678946f987d56b043858e=
+ddde361c8" style=3D"color:#1155cc" target=3D"_blank"><b>THE 99 STORE</b></a=
+></span></span></li>
+=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09<br style=3D"color:#222222; font-family:arial, sans-serif=
+; font-size:12.8px; font-style:normal; font-variant-ligatures:normal; font-=
+variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; tex=
+t-align:-webkit-left; text-transform:none; white-space:normal; widows:2; wo=
+rd-spacing:0px; -webkit-text-stroke-width:0px; background-color:#ffffff; te=
+xt-decoration-style:initial; text-decoration-color:initial" />
+=09=09=09=09=09=09<span style=3D"font-family:arial, sans-serif"><span style=
+=3D"font-family:arial, sans-serif"><span style=3D"font-size:12.8px; text-al=
+ign:-webkit-left; -webkit-text-stroke-width:0px"><span style=3D"color:#2222=
+22"><span style=3D"font-family:arial, sans-serif"><span style=3D"font-style=
+:normal"><span style=3D"font-variant-ligatures:normal"><span style=3D"font-=
+variant-caps:normal"><span style=3D"font-weight:400"><span style=3D"letter-=
+spacing:normal"><span style=3D"orphans:2"><span style=3D"text-transform:non=
+e"><span style=3D"white-space:normal"><span style=3D"widows:2"><span style=
+=3D"word-spacing:0px"><span style=3D"background-color:#ffffff"><span style=
+=3D"text-decoration-style:initial"><span style=3D"text-decoration-color:ini=
+tial"><span style=3D"display:inline !important"><span style=3D"float:none">=
+Thanks</span></span></span></span></span></span></span></span></span></span=
+></span></span></span></span></span></span></span></span></span></span></td=
+>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<div style=3D"text-align:center;"><br /><br /><br /><br /><br /><br /><span=
+ style=3D"font-size:10px;">Click here to <a data-unsubtag=3D"_UNSUBSCRIBE_U=
+RL_" href=3D"http://t.phonerupay.com/index.php/campaigns/wk268jcn7la8c/trac=
+k-url/la987akc5ffe7/e73e2b0dc1f9fe714fcbd3ca61ebf1ba34309d6d">Unsubscribe</=
+a></span></div>
+
+<img width=3D"1" height=3D"1" src=3D"http://t.phonerup=
+ay.com/index.php/campaigns/wk268jcn7la8c/track-opening/la987akc5ffe7" alt=
+=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1551315731_72fade6fa966ae82d8ec55b6f4052ce0_=_--
+

@@ -1,0 +1,181 @@
+Return-Path: <dailynews@rediffnewsmailer.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <agg7NjThCyZF>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id agg7NjThCyZF for <admin@mslindia.net>;
+	Tue,  5 Jul 2016 07:32:58 +0530 (IST)
+Received: from backnotify1.rediffnews.in (unknown [119.252.154.156])
+	by mx10.jcbl.com (Postfix) with ESMTP id 02C61FC2956
+	for <bharat_kumar@mslindia.net>; Tue,  5 Jul 2016 07:32:56 +0530 (IST)
+Received: from BackyardStandalone.rediff.com (unknown [10.50.250.70])
+	by backnotify1.rediffnews.in (Postfix) with ESMTP id 7168F50838
+	for <bharat_kumar@mslindia.net>; Tue,  5 Jul 2016 07:34:02 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 backnotify1.rediffnews.in 7168F50838
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=rediffnewsmailer.com;
+	s=mail; t=1467684242; bh=jhnIMirWdB7rVE48ryc0Aiuw2/A=;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=fd4npUy2e35+IRGesXb7xNlH0OPcO0izN2uAcn+EIU43c3ZLVhKRWQGnrspaCy1Ap
+	 3Ks6oKgssF9QtbQW/M0Bsm3a7M4b4rTtuEJmQ1bGSf6EMX6jYSQcc+xe/CXyaJWpD/
+	 Y2hA58+oAJLXBukUS/A0RKM5b6Mu+IvyFSD5bW7Y=
+From: Rediff News <dailynews@rediffnewsmailer.com>
+To: bharat_kumar@mslindia.net
+Message-ID: <1160201053.339204938.1467684304519.JavaMail.root@BackyardStandalone.rediff.com>
+Subject: Their pay hike will cost us Rs 102,000 crores!
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-REDIFF-MAILERS: c42bdd163ae57a8f6313ce3a4a83bafc
+
+<div style="padding: 5px; font-family: verdana, arial; font-size: 12px;">
+	
+	
+			
+	<div style="clear:both;height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style='border:solid 7px #f0f0f0; text-align:left; width:95%;'>
+	<div style='border:solid 1px #ccc;background-color:#fff;padding:15px 0 10px 15px;'>
+	<table cellspacing='0' cellpadding='0' border='0' style='font-family:georgia;font-size:13px;width:96%;'>
+	
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>1</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/column/why-government-employees-dont-deserve-a-pay-hike/20160704.htm?pos=1&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Their pay hike will cost us Rs 102,000 crores!</p> Why they don't deserve it.
+ <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>2</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/perfin-5-stocks-that-can-offer-high-returns/20160704.htm?pos=2&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>5 stocks that can offer high returns </p> Check it out. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>3</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/money-atm-woes-how-i-lost-rs-25000/20160704.htm?pos=3&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>ATM woes: 'How I lost Rs 25,000'</p> The machine malfunctioned, but it was Akhil Goel who had to suffer. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>4</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/graduates-quietly-go-home-as-grofers-turns-them-away/20160704.htm?pos=4&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Hired, but no job yet!</p> Graduates quietly go home as Grofers turns them away. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>5</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/column/know-what-indias-insurance-against-isis-is/20160704.htm?pos=5&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>India's unique insurance against ISIS</p> There is no 'My way or the highway' here. It is more like 'All right, you do it your way, and I'll do it mine.' <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>6</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/pix-auto-car-sales-the-top-performers-in-india/20160704.htm?pos=6&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Car sales: The top performers</p> Three companies commandeered over 70 per cent of the market share. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>7</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/salman-has-always-been-a-bigger-star-than-me/20160704.htm?pos=7&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>'Salman's the bigger star...'</p> What Aamir Khan has to say about <EM>Sultan, Dangal</EM> and the Khan triumvirate.  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>8</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/perfin-face-procedural-problems-with-your-investments-heres-help/20160704.htm?pos=8&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Facing problems with your investments? </p> Here's help. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>9</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/holy-cow-cattle-to-get-own-aadhaar-cards/20160704.htm?pos=9&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Holy cow! Cattle to get own Aadhaar cards</p> Hmmm! What next? <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>10</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/meet-the-contestants-of-jhalak-dikhhla-jaa-9/20160704.htm?pos=10&src=NL20160705&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>They'll compete on <I>Jhalak Dikhhla Jaa 9</I></p> The list is out. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+		</table>
+	</div>
+	</div>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<p style="margin: 5px 0 0 0; font-size: 14px;" align="center">
+		<b><a href='http://www.rediff.com/newsletter/2016/jul/05newsletter.html' target="_blank"
+			style="white-space: nowrap">View in browser</a> &nbsp; &nbsp; 
+			<a href="http://www.rediff.com/" target="_blank"
+			style="white-space: nowrap">Explore rediff.com</a> &nbsp; &nbsp; 
+			<a href="http://rediff.com/newsapp" target="_blank"
+			style="white-space: nowrap">Get our News App!</a></b>
+	</p>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style="text-align: center">
+		<p style="margin: 5px 0;">
+			<span>You have received this mail from&nbsp;</span> <a
+				href="http://www.rediff.com" rel="external" target="_blank">
+				Rediff.com </a> <span>&nbsp;because you have subscribed to</span> <a
+				href="http://www.rediff.com">Rediff.com</a>'s newsletter. To ensure
+			delivery, add <a href="mailto:newsletter@rediffnews.in">dailynews@rediffnewsmailer.com</a>
+			to your address book
+		</p>
+		<div>
+			<span>This is an auto-generated mail. Click&nbsp;</span><a
+				href="http://www.rediff.com/newsletter/unsubscribe" rel="external"
+				target="_blank">Unsubscribe me from this list</a><span>&nbsp;if
+				you do not wish to receive any future newsletters from <a
+				href="http://www.rediff.com">Rediff.com</a>.
+			</span> <br />
+			<br /> <strong>&copy; 2014&nbsp;<a
+				href="http://www.rediff.com" rel="external" target="_blank">Rediff.com</a>.
+			</strong>
+		</div>
+	</div>
+
+</div>
+
+<img border="0" height="0" width="0" style="display: none;"
+	src="http://track.rediff.com/click?url=___http://im.rediff.com/uim/trans.gif___&cmp=signature&lnk=open-(NL20160705)&newservice=editnews&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0" />

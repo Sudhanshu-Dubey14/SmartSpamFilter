@@ -1,0 +1,96 @@
+Return-Path: <obadanmike1945@gmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <companysecretary@jcbl.com>
+X-Envelope-To-Blocked: <companysecretary@jcbl.com>
+X-Quarantine-ID: <a71Ivpbmp9QT>
+X-Spam-Flag: YES
+X-Spam-Score: 19.251
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.251 tag=2 tag2=6.31 kill=6.31
+	tests=[ADVANCE_FEE_2_NEW_MONEY=0.596, ADVANCE_FEE_3_NEW=1.353,
+	ADVANCE_FEE_3_NEW_MONEY=1, ADVANCE_FEE_4_NEW=1,
+	ADVANCE_FEE_4_NEW_MONEY=0.001, ADVANCE_FEE_5_NEW=1.5,
+	ADVANCE_FEE_5_NEW_MONEY=0.001, DEAR_BENEFICIARY=1.768,
+	DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, LOTS_OF_MONEY=0.001,
+	MIME_HTML_ONLY=1.105, MONEY_FRAUD_3=1.172, MONEY_FRAUD_5=0.5,
+	MONEY_FRAUD_8=1, NML_ADSP_CUSTOM_MED=1.2, RCVD_IN_BRBL_LASTEXT=1.644,
+	RCVD_IN_RP_RNBL=1.284, SPF_SOFTFAIL=0.972, TVD_PH_BODY_META=2.296,
+	T_DKIM_INVALID=0.01, T_TO_NO_BRKTS_FREEMAIL=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a71Ivpbmp9QT for <companysecretary@jcbl.com>;
+	Fri,  7 Jun 2019 18:03:26 +0530 (IST)
+Received: from sv1.codearg.space (codearg.space [142.93.72.1])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 63AD7FEB446
+	for <companysecretary@jcbl.com>; Fri,  7 Jun 2019 18:03:24 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=teus.com.mx
+	; s=default; h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID
+	:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=Z+Ol1Is5+g5GLNuQjTfICnyxzkZB0JL7w6k2G3Te8M0=; b=KVX6puHZEG2peieFhXLUM9ZyPI
+	Rle8z6PJbDMVDOFRlMP/8mPws0vDsaBGzSUmQT5Bv91LRyyjLQ8vP2B2Z5ht/JtfqaVsVo9nxujb3
+	SNNigWC8O1Lb7Ez+oIECHDtERiG2AtkGcaHzvevANvHK4RVUA+f+QR9RyvkQTQsvn78SYteX10K0G
+	Czi2IwSlJBLh6qL+W26NALO9bjl3/vzRzhiOrIIvr1s07qkjfJmvNZDqepYH7N4PQ+Ss0pA2YOfpg
+	Z+4O6I/bOyeeQpRMJCXrlAiOPU/a/Hs8YQp62g2pGzFuDPRkLspcvwa5zg+jveUl0xwaiovJG5YHB
+	wrcib7Bg==;
+Received: from teuscom by sv1.codearg.space with local (Exim 4.92)
+	(envelope-from <obadanmike1945@gmail.com>)
+	id 1hZE4H-0006YV-Tg
+	for companysecretary@jcbl.com; Fri, 07 Jun 2019 07:34:01 -0500
+To: companysecretary@jcbl.com
+Subject: Beneficiary
+X-PHP-Script: www.teus.com.mx/demo/js/extensions/php-mailer.php for 129.205.113.205
+X-PHP-Originating-Script: 1009:php-mailer.php
+Date: Fri, 7 Jun 2019 12:34:01 +0000
+From: Mike Obadan <obadanmike1945@gmail.com>
+Message-ID: <ec0d9acad55f2386ec941fe5a7de0727@www.teus.com.mx>
+X-Mailer: Leaf PHPMailer 2.7 (leafmailer.pw)
+MIME-Version: 1.0
+Content-Type: text/html; charset=
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sv1.codearg.space
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [1009 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - gmail.com
+X-Get-Message-Sender-Via: sv1.codearg.space: authenticated_id: teuscom/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: sv1.codearg.space: teuscom
+X-Source: 
+X-Source-Args: php-fpm: pool teus_com_mx                                
+X-Source-Dir: teus.com.mx:/public_html/demo/js/extensions
+
+Dear Beneficiary,
+
+My name is Mr Mike Obadan; I have been watching on your approved payment for some time now since I started working here in the bank as a Clerk under the office of the Director on Foreign Payments, I have worked as the Assistant to the Deputy Director and was demoted when they found out that I have never been in support of their shady deals, they wrote petition against me and I was moved to the Finance Ministry and now I am back to continue my good work which I believe that only God is the one to pay me back and not you though in a lower department and position.
+
+I have gone through your file and have found out that you have completed all that is required of you to have your payment released into your account but the greed which exist in the lives of the Directors of the Foreign Payment, Central Bank of Nigeria and other approved paying Banks here will not let them do what they are supposed to do about your payment, it has long been due and approved for payment but because of the amount involved which is $10.5Million, the Directors of Foreign Payment with the former Governor of Central Bank of Nigeria Mallam Sanusi Lamido Sanusi, Prof. Charles Soludo, and other Bank Directors will never let you know what to do to get your funds transferred to your account because of their personal wants for money.
+
+This is what Mallam Sanusi Lamido Sanusi and the EFCC Director introduced to all of them, telling them never to approve your payment so that they can use it to trade on the International Market and make 10% of the amount. Check out how much they must have made with your money since it was first approved for transfer. This is one secret most of our foreign beneficiaries are not aware of and they need someone to stand for them to clear this and make them get their payments within 48 hours. To be frank with you, if I had contacted you last week, you would have received this money in your account through KTT wire transfer because I know their secret which they believe no one else is aware of.
+
+All you have to do is to work with Nigerian Bar Association (NBA) and they will get this document for you, file in the document directly to the Office of the President and request for an immediate transfer by the President and once that is done, the document will be sent to payee Bank automatically they will contact you for remittance, and the good thing is that once you have obtained this document that bank will transfer the fund to your account within 48hours.
+
+The document we are talking about is called Irrevocable Presidential Permit (IPP) once you have gotten this document, they will NEVER have any reason to delay your payment for more than 48 hours. This document is usually issued by the Association of Nigeria Lawyers popularly called the Nigerian Bar Association (NBA), Court of Justice, and the President himself.
+
+Now tell me, if the NBA backs you as their client, the Court of Justice Approves you as the True Beneficiary and the President says pay the beneficiary, who is bank Directors to say no and delay your payment for one extra day? They will never let you have the Idea of this because they want to keep, the only way you can get this payment now is to immediately get the Irrevocable Presidential Permit (IPP) and once you have this document, you will file it in directly to the office of the President for an immediate release order.
+
+This is what I was doing for some clients and the Directors found out and kicked against me. I have no interest in your money, I have no interest in what they do too but my anger is that they use and dump us not because we want to share money with them but because they think we know nothing about their deals.
+
+Please assure me that no one will know about this and it will be secret until you have received the document and take the bank by surprise, now I am giving you the contact information of the Nigerian Bar Association (NBA), so that you can contact them and request for the Irrevocable Presidential Permit Document, Below are the contact details.
+
+Nigerian Bar Association (NBA)
+                          
+Contact person: Barrister Peterson Olakunle
+
+Email Address: obadanmike1945@gmail.com
+Phone: 0907-8999-096
+
+Kindly contact the Lawyer with the above information.
+
+Yours Sincerely
+Mr Mike Obadan
+

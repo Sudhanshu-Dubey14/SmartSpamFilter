@@ -1,0 +1,2003 @@
+Return-Path:
+	<marriott-HP2v400000166e08934308323c96e96c566a0082@email-marriott.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <rahul@hudsonbroker.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aT8jr8zMZmaA>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char A0 hex):
+	Feedback-ID: ...2031-e039-4b76-998e-27cbae2d3f3d:email:epslh1\302\240
+X-Spam-Flag: NO
+X-Spam-Score: 2.34
+X-Spam-Level: **
+X-Spam-Status: No, score=2.34 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_04=0.61, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	MIME_HTML_ONLY_MULTI=0.001, MPART_ALT_DIFF=0.724,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aT8jr8zMZmaA for <rahul@hudsonbroker.in>;
+	Mon,  5 Nov 2018 02:30:39 +0530 (IST)
+Received: from mta191c.pmx1.epsl1.com (mta191c.pmx1.epsl1.com [142.54.247.191])
+	by mx10.jcbl.com (Postfix) with ESMTP id 09937EED5E4
+	for <rahul@hudsonbroker.in>; Mon,  5 Nov 2018 02:30:35 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=email-marriott.com;
+	s=ep1; t=1541365380;
+	bh=JZu2ZoWTkFPfVI73WOGZjd+BDl3zk3e26p3AxNUunUI=;
+	h=MIME-Version:Subject:From:To:Date:Content-Type;
+	b=SMnmXAv976VTfrFXVEiCTBXM/DFSARmPpFRVIR24C7QclGz4h/2THAmorf1ptIxlU
+	 ubxdUW39eteTgx50bkCqKjfTguM2xtvOLsB8//s6Rxe1FE6ow7+Bhk6/76TCoZeaC2
+	 RXuLkIcqkbv3eDwlXdp4xzXCZ3Zl85BBXxvPOtgw=
+Received: from [10.233.18.115] ([10.233.18.115:36378])
+	by pc1udsmtn1n11 (envelope-from <marriott-HP2v400000166e08934308323c96e96c566a0082@email-marriott.com>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ECSTREAM
+	id 82/A1-37645-48E5FDB5; Sun, 04 Nov 2018 21:03:00 +0000
+List-Unsubscribe: <mailto:marriott-HP2v400000166e08934308323c96e96c566a0082@email-marriott.com?subject=list-unsubscribe>
+Message-ID: <HP2v400000166e08934308323c96e96c566a0082@email-marriott.com>
+MIME-Version: 1.0
+X-SS: 12d14ee2-697e-4e85-9dbd-51d8bf72b5d8
+Feedback-ID: 12d14ee2-697e-4e85-9dbd-51d8bf72b5d8:9ce82031-e039-4b76-998e-27cbae2d3f3d:email:epslh1 
+X-NSS: 12d14ee2-697e-4e85-9dbd-51d8bf72b5d8
+Reply-To: "marriott@email-marriott.com"
+ <marriott-HP2v400000166e08934308323c96e96c566a0082@email-marriott.com>
+Subject: It's Time to Plan
+From: Marriott Rewards  <marriott@email-marriott.com>
+To: rahul@hudsonbroker.in
+Date: Sun, 4 Nov 2018 21:03:00 +0000
+Content-Type: multipart/alternative;
+ boundary="-=Part.1b82da4.34089e588461663f.166e0893535.cc542d3877d017a6=-"
+
+---=Part.1b82da4.34089e588461663f.166e0893535.cc542d3877d017a6=-
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<!-- 3/15/18 updated for Outlook 120 dpi -->
+<html lang=3D"en" xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml" xmlns:v=3D"ur=
+n:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:of=
+fice">
+<head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<meta name=3D"x-apple-disable-message-reformatting">
+<!--FIX FOR OUTLOOK DPI SCALING-->
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if !mso]><!-- -->
+<meta content=3D"IE=3Dedge" http-equiv=3D"X-UA-Compatible">
+<!--<![endif]-->
+<title>Rahul, We've Got 6,700 Places to Holiday</title>
+
+<!--WEB FONTS-->
+<style type=3D"text/css">
+@font-face {
+  font-family: 'Proxima-Nova-Regular';
+  src: url('http://media=2E4at5=2Enet/email_domains/fonts/mar/proxima-nova=
+-regular=2Eeot') format('embedded-opentype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/proxima-nova-regu=
+lar=2Ewoff') format('woff'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/proxima-nova-regu=
+lar=2Ettf') format('truetype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/proxima-nova-regu=
+lar=2Esvg') format('svg');
+  font-style: normal;
+}
+
+[style*=3D"Proxima-Nova-Regular"] {
+  font-family: 'Proxima-Nova-Regular', Arial, Helvetica, Verdana, sans-ser=
+if !important;
+}
+
+/* use style=3D"font-family:Arial, sans-serif, 'Proxima-Nova-Regular';" */
+
+@font-face {
+  font-family: 'Brown-Bold';
+  src: url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Bold=
+=2Eeot') format('embedded-opentype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Bold=2Ewoff=
+') format('woff'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Bold=2Ettf'=
+) format('truetype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Bold=2Esvg'=
+) format('svg');
+  font-style: normal;
+}
+
+[style*=3D"Brown-Bold"] {
+  font-family: 'Brown-Bold', Arial, Helvetica, Verdana, sans-serif !import=
+ant;
+}
+
+/* use style=3D"font-family:Arial, sans-serif, 'Brown-Bold'; font-weight:b=
+old;" */
+
+@font-face {
+  font-family: 'Brown-Regular';
+  src: url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Regula=
+r=2Eeot') format('embedded-opentype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Regular=2Ew=
+off') format('woff'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Regular=2Et=
+tf') format('truetype'),
+  url('http://media=2E4at5=2Enet/email_domains/fonts/mar/Brown-Regular=2Es=
+vg') format('svg');
+  font-style: normal;
+}
+
+[style*=3D"Brown-Regular"] {
+  font-family: 'Brown-Regular', Arial, Helvetica, Verdana, sans-serif !imp=
+ortant;
+}
+
+/* use style=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weigh=
+t:regular;" */
+
+}
+</style>
+
+<!--[if gt mso 9]>
+<style type=3D"text/css">
+[style*=3D"Proxima-Nova-Regular"] {font-family:'Proxima-Nova-Regular', Ari=
+al, sans-serif !important;}
+[style*=3D"Brown-Regular"] {font-family:'Brown-Regular', Arial, sans-serif=
+ !important;}
+[style*=3D"Brown-Bold"] {font-family:'Brown-Bold', Arial, sans-serif !impo=
+rtant;}
+</style>
+<![endif]-->
+
+<style type=3D"text/css">
+* {
+  -webkit-text-size-adjust: none;
+}
+
+/* prevent iOS font upsizing */
+
+=2EExternalClass * {
+  line-height: 100%;
+}
+
+/* force Outlook=2Ecom to honor line-height */
+
+td {
+  mso-line-height-rule: exactly;
+}
+
+/* prevent iOS auto-linking */
+
+=2Eapplefix a {
+  /* use on a span around the text */
+  color: #333333;
+  text-decoration: none;
+}
+
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
+/** Prevent Outlook Purple Links **/
+
+=2EgreyLink a:link {
+  color: #888888;
+}
+
+=2EwhiteLink a:link,
+=2Etopnav a:link,
+=2Efooter-navcaptop a:link,
+=2Efooter-nav a:link,
+=2Efooter-navcapbot a:link {
+  color: #ffffff;
+}
+
+=2EblueLink a:link {
+  color: #004EBD;
+}
+
+/* CTA hover effect */
+
+=2EhoverBlueCTA:hover {
+  background-color: #0666b0 !important;
+  border: solid 1px #0666b0 !important;
+  color: #ffffff !important;
+}
+
+=2EhoverBlueCTA:hover a {
+  background-color: #0666b0 !important;
+  color: #ffffff !important;
+}
+
+=2EhoverBlackCTA:hover {
+  background-color: #1c1c1c !important;
+  border: solid 1px #1c1c1c !important;
+  color: #ffffff !important;
+}
+
+=2EhoverBlackCTA:hover a {
+  background-color: #1c1c1c !important;
+  color: #ffffff !important;
+}
+
+/* accordion/progressive disclosure in footer */
+
+table[class=3Dfooter] =2Ereadmore {
+  position: relative;
+  display: inline-block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: inherit !important;
+  max-height: inherit !important;
+  overflow: visible !important;
+  float: none !important;
+  font-size: 12px !important;
+  color: #8f8f8f !important;
+  text-decoration: none;
+}
+
+table[class=3Dfooter] =2Eaccordion p {
+  max-height: 1px;
+  margin-bottom: 0px;
+  overflow: hidden;
+}
+
+table[class=3Dfooter] #accordion1:target p {
+  max-height: 999px;
+}
+
+
+/*** Responsive CSS ***/
+
+@media only screen and (max-width: 414px) {
+/*** Layout ***/
+body {
+  width: 100%;
+  min-width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+}
+=2EmarginFix {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+=2Efull-width-container {
+  width: 100% !important;
+  min-width: 320px !important;
+}
+=2Efull-width-container-inner {
+  width: 100% !important;
+  min-width: 100% !important;
+  padding: 0px 10px 0px 10px !important;
+}
+=2Ehide {
+  width: 0px !important;
+  height: 0px !important;
+  display: none !important;
+}
+=2Edisplay {
+  display: block !important;
+}
+=2Eshow {
+  display: table-cell !important;
+  height: auto !important;
+  max-height: inherit !important;
+  overflow: visible !important;
+  float: none !important;
+}
+=2Eshow img {
+  width: auto;
+  display: block !important;
+  height: auto;
+  margin: 0 0 0 0 !important;
+}
+=2Efull-width {
+  width: 100% !important;
+  min-width: 100% !important;
+}
+=2EmobileWidth40 {
+  width: 40% !important;
+}
+=2EresponsiveCell {
+  width: 100% !important;
+  display: block !important;
+}
+=2EstackTbl {
+  width: 100% !important;
+  display: table !important;
+}
+=2EstackTblMarginTop {
+  width: 100% !important;
+  display: table !important;
+  margin-top: 60px !important;
+}
+=2EstackTblMarginBottom {
+  width: 100% !important;
+  display: table !important;
+  margin-bottom: 60px !important;
+}
+=2Ecenter {
+  margin: 0px auto !important;
+  text-align: center !important;
+}
+=2Ealign-center {
+  text-align: center !important;
+}
+=2Ealign-top {
+  vertical-align: top !important;
+}
+=2EalignLeft {
+  text-align: left !important;
+}
+=2EfloatLeft {
+  float: left !important;
+  width: 40% !important;
+}
+=2EfloatRight {
+  float: right !important;
+  width: 60% !important;
+}
+=2EautoHeight {
+  height: auto !important;
+}
+=2Emember-status-border {
+  border-top: 1px solid #c6c6c6 !important;
+}
+=2Emember-status-noborder {
+  border-bottom: none !important;
+}
+
+/*** Padding Styles ***/
+=2EmobilePadding1 {
+  padding: 20px 20px 20px 20px !important;
+  height: auto !important;
+}
+=2EmobilePadding2 {
+  padding: 0px 20px 0px 20px !important;
+}
+=2EmobilePadding3 {
+  padding: 20px 20px 0px 20px !important
+}
+=2EmobilePadding4 {
+  padding: 0px 20px 20px 20px !important
+}
+=2EmobilePadding5 {
+  padding: 30px 20px 30px 20px !important
+}
+=2EmobilePadding6 {
+  padding: 40px 20px 40px 20px !important
+}
+=2EmobilePadding7 {
+  padding: 40px 20px 40px 20px !important
+}
+=2EmobilePadding8 {
+  padding: 40px 60px 40px 60px !important
+}
+=2Epadding0 {
+  padding: 0px !important
+}
+=2EtopPadding0 {
+  padding-top: 0px !important
+}
+=2EtopPadding5 {
+  padding-top: 5px !important;
+}
+=2EtopPadding10 {
+  padding-top: 10px !important;
+}
+=2EtopPadding20 {
+  padding-top: 20px !important;
+}
+=2EtopPadding40 {
+  padding-top: 40px !important;
+}
+=2EtopPadding60 {
+  padding-top: 60px !important;
+}
+=2EtopPadding80 {
+  padding-top: 80px !important;
+}
+=2EtopPadding100 {
+  padding-top: 100px !important;
+}
+=2EbottomPadding0 {
+  padding-bottom: 0px !important
+}
+=2EbottomPadding5 {
+  padding-bottom: 5px !important;
+}
+=2EbottomPadding10 {
+  padding-bottom: 10px !important;
+}
+=2EbottomPadding20 {
+  padding-bottom: 20px !important;
+}
+=2EbottomPadding30 {
+  padding-bottom: 30px !important;
+}
+=2EbottomPadding40 {
+  padding-bottom: 40px !important;
+}
+=2EbottomPadding60 {
+  padding-bottom: 60px !important;
+}
+=2EbottomPadding80 {
+  padding-bottom: 80px !important;
+}
+=2EbottomPadding100 {
+  padding-bottom: 100px !important;
+}
+=2ErightPadding0 {
+  padding-right: 0px !important;
+}
+=2ErightPadding10 {
+  padding-right: 10px !important;
+}
+=2ErightPadding20 {
+  padding-right: 20px !important;
+}
+=2EleftPadding10 {
+  padding-left: 10px !important;
+}
+=2EleftPadding0 {
+  padding-left: 0px !important;
+}
+
+/*** Mobile Font Size ***/
+=2EfontSize20 {
+  font-size: 20px !important;
+  line-height: 22px !important;
+}
+=2EfontSize14 {
+  font-size: 14px !important;
+  line-height: 16px !important;
+}
+=2EfontSize11 {
+  font-size: 11px !important;
+  line-height: 18px !important;
+}
+=2EfontSize10 {
+  font-size: 10px !important;
+  line-height: 16px !important;
+}
+
+/*** Text/Divider/Image Styles ***/
+=2EnoBackground {
+  background: none !important;
+  background-color: #ffffff !important;
+  height: auto !important;
+}
+=2EwhiteBackground {
+  background-color: #ffffff !important;
+}
+=2EfullWidthImg {
+  width: 100% !important;
+  height: auto !important;
+  min-width: 100% !important;
+}
+=2EdividerHiddenBorder {
+  border-top: 1px solid #d6d6d6 !important;
+}
+
+/* IMAGE SWAPS */
+/* background image resize scalable height */
+=2EimgReplace {
+  background-image: url(http://media=2E4at5=2Enet/email_domains/mar/148048=
+/images/eNews_NewTemplate_Placeholder_Mobile=2Ejpg) !important;
+  width: 100% !important;
+  /* update height here */
+  background-size: cover !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  display: block !important;
+}
+=2EimgResize {
+  background-image: url(http://media=2E4at5=2Enet/email_domains/mar/148048=
+/images/eNews_NewTemplate_Placeholder_Mobile=2Ejpg) !important;
+  width: 100% !important;
+  height: auto !important;
+  /* update height here */
+  background-size: cover !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  display: block !important;
+}
+=2EpngHeight1 {
+  height: 100px !important;
+}
+
+/*** navigation ***/
+=2Efloating-nav {
+  border-right: none !important;
+  border-bottom: 1px solid #d6d6d6 !important;
+}
+=2Efooter-nav-top {
+  display: block !important;
+  width: 100% !important;
+  border-bottom: 1px solid #c6c6c6 !important;
+  padding: 15px 0px 15px 0px !important;
+}
+=2Efooter-nav {
+  padding: 0px 5px 0px 5px !important;
+}
+=2Efooter-navborder {
+  border-right: 1px solid #d6d6d6 !important;
+}
+=2Efooter-navnoborder {
+  border-right: none !important;
+}
+=2Efooter-nav-bottom {
+  display: block !important;
+  width: 100% !important;
+  text-align: left !important;
+  padding: 15px 0px 0px 0px !important;
+}
+
+/*** MESSAGE-SPECIFIC CSS GOES HERE ***/
+
+
+/*** MESSAGE-SPECIFIC CSS GOES HERE ***/
+/*** END Responsive CSS ***/
+}
+</style>
+
+</head>
+
+<body style=3D"margin:0px; padding:0px;">
+
+
+
+ =20
+
+
+
+
+
+  <!-- CONTENT CONTAINER -->
+
+  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" c=
+lass=3D"marginFix">
+
+    <!-- HEADER CONTAINER -->
+    <tr>
+      <td width=3D"100%" align=3D"center" bgcolor=3D"#f7f7f7">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"6=
+40" style=3D"width:640px" class=3D"full-width-container">
+          <tr>
+            <td width=3D"640" align=3D"center" style=3D"min-width:640px;" =
+class=3D"full-width-container">
+
+              <!-- HD1: Preheader -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td class=3D"hide">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">
+                      <tr>
+                        <div style=3D"display:none;font-size:1px;color:#f7=
+f7f7;line-height:1px;font-family:'Proxima-Nova-Regular', Arial, sans-serif;=
+max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;"> Get =
+ready for your best holiday yet!</div>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- end HD1: Preheader -->
+
+			 =20
+             <!-- HEADER GOES HERE -->
+           =20
+			<!-- AAM open pixel -->
+			<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+    			<tr>
+           			<td align=3D"left" valign=3D"top">
+                      <img src=3D"http://marriottinternationa=2Edemdex=2En=
+et/event?d_cid=3D64650%0194432965486004180631E92406F00226A=2E01&d_event=3Di=
+mp&c_mailingname=3D20181103_DESTINATIONS" width=3D"1" height=3D"1" border=
+=3D"0">
+            		</td>
+          		</tr>
+			</table>
+			<!-- AAM open pixel -->
+
+            <!-- HD2: Header Member -->
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"padding:15px =
+15px 15px 15px;">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+width=3D"100%">
+                    <tr>
+                   =20
+                      <!-- member name -->
+                      <td width=3D"33%" align=3D"left">
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td width=3D"46" align=3D"left"><a href=3D"htt=
+p://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4=
+e850000021ef3a0bcc2/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2Xm=
+HtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><i=
+mg src=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/images/m-user-=
+circle-header=2Epng" width=3D"32" height=3D"32" border=3D"0" alt=3D"account=
+" ></a></td>
+                            <td align=3D"left"  valign=3D"middle" style=3D=
+"font-family:Arial, sans-serif, 'Brown-Bold'; font-weight:bold; font-size:1=
+4px; line-height:20px; color:#1c1c1c; padding:0px 0px 0px 0px;" class=3D"hi=
+de"><a href=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c5=
+66a0/12d14ee2697e4e850000021ef3a0bcc3/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?=
+__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" st=
+yle=3D"color:#1c1c1c; text-decoration:none;" target=3D"_blank">Rahul</a> </=
+td>
+                          </tr>
+                        </table>
+                      </td>
+                      <!-- end member name -->
+                     =20
+                      <!-- header logo -->
+                      <td width=3D"33%" align=3D"center"><a href=3D"http:/=
+/email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e85=
+0000021ef3a0bcc4/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtX=
+jKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img =
+src=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/images/header_ico=
+n_mr=2Epng" width=3D"99" height=3D"44" border=3D"0" alt=3D"Marriott Rewards=
+" ></a></td>
+                      <!-- end header logo -->
+                     =20
+                      <!-- search -->
+                      <td width=3D"33%" align=3D"right">
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td align=3D"right"  valign=3D"middle" style=
+=3D"font-family:Arial, sans-serif, 'Brown-Bold'; font-weight:bold; font-siz=
+e:14px; line-height:20px; color:#1c1c1c; padding:0px 0px 0px 0px;" class=3D=
+"hide"><a href=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e9=
+6c566a0/12d14ee2697e4e850000021ef3a0bcc5/12d14ee2-697e-4e85-9dbd-51d8bf72b5=
+d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D"=
+ style=3D"color:#1c1c1c; text-decoration:none;" target=3D"_blank">Find &amp=
+; Reserve</a> </td>
+                            <td width=3D"35" align=3D"right"><a href=3D"ht=
+tp://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e=
+4e850000021ef3a0bcc6/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2X=
+mHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><=
+img src=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/images/m-sear=
+ch-header=2Epng" width=3D"28" height=3D"28" border=3D"0" alt=3D"" ></a></td=
+>
+                          </tr>
+                        </table>
+                      </td>
+                      <!-- end search -->
+                     =20
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table> =20
+            <!-- end HD2: Header Member -->=20
+
+           =20
+           =20
+          <!-- HEADER GOES HERE --> =20
+
+          =20
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- end HEADER CONTAINER -->
+
+    <!-- MESSAGE-SPECIFIC CSS GOES HERE -->
+
+    <style type=3D"text/css">
+      @media only screen and (max-width: 414px) {
+  =20
+      }
+    </style>
+
+    <!-- MESSAGE-SPECIFIC CSS GOES HERE -->
+
+    <!-- MODULE CONTAINER -->
+    <tr>
+      <td width=3D"100%" align=3D"center" bgcolor=3D"#f7f7f7">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"6=
+40" style=3D"width:640px" class=3D"full-width-container">
+          <tr>
+            <td width=3D"640" align=3D"center" style=3D"min-width:640px;" =
+class=3D"full-width-container">
+              <!-- INNER CONTAINER - place all modules below -->
+
+         <!-- F5: Feature 5 - No background image, copy centered -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td align=3D"center"><a href=3D"http://email-marriott=2E=
+com/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcc7/1=
+2d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAV=
+Ma5S575yBLsoKzM4fwBvfuHkRA=3D=3D
+" target=3D"_blank"><img src=3D"http://media=2E4at5=2Enet/email_domains/ma=
+r/0727/images/mosaic-1=2Egif" border=3D"0" width=3D"640" height=3D"419" sty=
+le=3D"display:block;" alt=3D"" class=3D"fullWidthImg"></a></td>
+                </tr>
+                <tr>
+                  <td align=3D"center" style=3D"padding:20px 60px 60px 60p=
+x; -webkit-box-shadow: 0px 5px 5px -5px rgba(147,147,147,1); -moz-box-shado=
+w: 0px 5px 5px -5px rgba(147,147,147,1); box-shadow: 0px 5px 5px -5px rgba(=
+147,147,147,1);" class=3D"mobilePadding1">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">
+                =20
+                      <tr>
+                        <td align=3D"center" valign=3D"bottom" style=3D"fo=
+nt-family:Arial, sans-serif, 'Brown-Bold'; font-weight:bold; color:#1c1c1c;=
+ font-size:36px; line-height:39px; text-transform:uppercase; letter-spacing=
+:0=2E75px; padding: 30px 0px 10px 0px;"><a href=3D"http://email-marriott=2E=
+com/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcc8/1=
+2d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAV=
+Ma5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"color:#1c1c1c;=
+ text-decoration:none;">PLAN YOUR BEST HOLIDAY=2E</a></td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" valign=3D"bottom" style=3D"fo=
+nt-family:Arial, sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c; font-si=
+ze:18px; line-height:24px; padding: 0px 20px 20px 20px;">Rahul, celebrate t=
+he holidays your way at over 6,700 hotels around the world=2E</td>
+                      </tr>
+                      <!-- CTA -->
+                      <tr>
+                        <td align=3D"center" style=3D"padding: 20px 0px 0p=
+x 0px;" class=3D"padding0">
+                          <table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full-width">
+                            <tr>
+                              <td align=3D"center" bgcolor=3D"#0079d4" cla=
+ss=3D"hoverBlueCTA" style=3D"font-family:Arial, sans-serif, 'Brown-Bold'; f=
+ont-weight:bold; font-size:18px; color:#ffffff; text-align:center; backgrou=
+nd:#0079d4; border:1px solid #0079d4; display:block; letter-spacing:0=2E5px=
+; padding:16px 30px 14px 30px;"><a href=3D"http://email-marriott=2Ecom/T/v4=
+00000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcc9/12d14ee2-=
+697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575y=
+BLsoKzM4fwBvfuHkRA=3D=3D" style=3D"color:#ffffff; text-decoration:none;">St=
+art Planning</a></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <!-- end CTA -->
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- end F5: Feature 5 - No background image, copy centered =
+-->
+
+           <!-- D2: Divider 2 - Minor -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td height=3D"1" style=3D"font-size:1px; line-height:1px=
+; padding:0px 20px 0px 20px;">
+                    <table align=3D"center" width=3D"100%" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                      <tr>
+                        <td height=3D"1" style=3D"border-top:1px solid #d6=
+d6d6; font-size:1px; line-height:1px;">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- end D2: Divider 2 - Minor -->=20
+	            =20
+			  <!-- T4: Tertiary 4 - Icon with copy block -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td align=3D"center" style=3D"padding:40px 80px 40px 80p=
+x;" class=3D"mobilePadding6">
+                    <!-- image -->
+                    <table width=3D"104" align=3D"left" class=3D"stackTbl"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:inline; =
+width:104px;">
+                      <tr>
+                        <td align=3D"center" valign=3D"top"><a href=3D"htt=
+p://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4=
+e850000021ef3a0bcca/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2Xm=
+HtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><i=
+mg border=3D"0" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/ima=
+ges/hello_2=2Egif" width=3D"104" height=3D"62" alt=3D"" style=3D"display:bl=
+ock;"></a></td>
+                      </tr>
+                    </table>
+                    <!-- end image -->
+
+                    <table width=3D"356" align=3D"right" class=3D"stackTbl=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:inline;=
+ width:356px;">
+                      <tr>
+                        <td align=3D"left" valign=3D"top">
+                          <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"100%">
+                            <tr>
+                              <td align=3D"left" valign=3D"top" style=3D"f=
+ont-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular; color:#=
+1c1c1c; font-size:18px; line-height:24px; text-align:left; padding:0px 0px =
+0px 0px" class=3D"topPadding20 align-center"><a href=3D"http://email-marrio=
+tt=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0b=
+ccb/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk048=
+88UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"color:#1c=
+1c1c; text-decoration:none;">We want to speak your language=2E</a></td>
+                            </tr>
+                            <tr>
+                              <td align=3D"left" valign=3D"top" style=3D"f=
+ont-family:Arial, sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c; font-s=
+ize:14px; line-height:20px; text-align:left;padding:0px 0px 5px 0px;" class=
+=3D"align-center">Log in to your Rewards account today and update your lang=
+uage preference from over ten choices=2E</td>
+                            </tr>
+                            <!-- CTA -->
+                            <tr>
+                              <td align=3D"left" valign=3D"top" style=3D"f=
+ont-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular; color:#=
+0079d4;; font-size:18px; line-height:24px; text-align:left;" class=3D"align=
+-center"><a href=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96=
+e96c566a0/12d14ee2697e4e850000021ef3a0bccc/12d14ee2-697e-4e85-9dbd-51d8bf72=
+b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=
+=3D" target=3D"_blank" style=3D"color:#0079d4; text-decoration:none;">Get S=
+tarted&nbsp;<span style=3D"color:#0079d4; font-size:24px; line-height:24px;=
+">&rsaquo;</span></a></td>
+                            </tr>
+                            <!-- end CTA -->
+						</table>
+				  	  </td>
+					</tr>
+				  </table>
+                </td>
+			  </tr>
+			</table>
+			<!-- end T4: Tertiary 4 - Icon with copy block  -->
+            =20
+			=09
+            <!-- S6: Bottom drop shadow -->
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <tr><td height=3D"1" bgcolor=3D"#d7d7d7" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#e7e7e7" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f4f4f4" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f5f5f5" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f6f6f6" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+            </table>
+            <!-- end S6: Bottom drop shadow -->
+
+
+
+              <!-- D1: Divider 1 - Major page break -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td height=3D"40" style=3D"font-size:40px; line-height:4=
+0px;">&nbsp;</td>
+                </tr>
+              </table>
+              <!-- end D1: Divider 1 - Major page break -->=09
+			=09
+				=09
+	  <!-- Start targetted content - US Version -->=09
+	 =20
+			=09
+	  <!-- Start targetted content - ROTW Version -->		=09
+
+	  <!-- H2: Section Headline 2 - On white -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td align=3D"center" style=3D"padding:20px 20px 0px 20px=
+;">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">
+                      <tr>
+                        <td align=3D"center" valign=3D"bottom" style=3D"pa=
+dding:0px 0px 10px 0px;"><img src=3D"http://media=2E4at5=2Enet/email_domain=
+s/mar/148048/images/map_pin_blue=2Epng" height=3D"26" width=3D"20" alt=3D""=
+ border=3D"0" valign=3D"top"/></td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" valign=3D"bottom" style=3D"fo=
+nt-family:Arial, sans-serif, 'Brown-Bold'; font-weight:bold; color:#0079d4;=
+ font-size:24px; line-height:24px; letter-spacing:0=2E75px; font-weight:bol=
+d; text-transform:uppercase;">HOLIDAY TRAVEL INSPIRATION</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- end H2: Section Headline 2 - On white -->	=09
+			=09
+			=09
+	    <!-- S2: Secondary 2 - Checkerboard -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td align=3D"center" style=3D"padding:60px 20px 60px 20p=
+x;" class=3D"mobilePadding">
+
+                    <!-- image left/copy right -->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%">
+                      <tr>
+                        <td>
+                          <!-- image -->
+                          <table width=3D"290" align=3D"left" class=3D"sta=
+ckTbl" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:in=
+line; width:290px;">
+                            <tr>
+                              <td align=3D"center" valign=3D"top"><a href=
+=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14e=
+e2697e4e850000021ef3a0bccd/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0=
+oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_bl=
+ank"><img border=3D"0" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0=
+727/images/xmas-rotw-1=2Ejpg" width=3D"290" height=3D"193" alt=3D"" style=
+=3D"display:block;" class=3D"fullWidthImg"></a></td>
+                            </tr>
+                          </table>
+                          <!-- end image -->
+                          <!-- copy -->
+                          <table width=3D"290" align=3D"right" class=3D"st=
+ackTbl" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:i=
+nline; width:290px;">
+                            <tr>
+                              <!-- adjust td height value to match image h=
+eight -->
+                              <td height=3D"193" align=3D"center" valign=
+=3D"middle" class=3D"autoHeight">
+                                <table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%">
+                                  <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular;=
+ color:#1c1c1c; font-size:24px; line-height:27px; text-align:left; padding:=
+0px 0px 10px 0px" class=3D"align-center topPadding20"><a href=3D"http://ema=
+il-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000=
+021ef3a0bcce/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKC=
+ycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"=
+color:#1c1c1c; text-decoration:none;">Make more memories=2E</a></td>
+                                  </tr>
+                                  <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"font-family:Arial, sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c=
+; font-size:18px; line-height:24px; text-align:left; padding:0px 0px 20px 0=
+px;" class=3D"align-center">Celebrate Christmas at these four festive desti=
+nations=2E</td>
+                                  </tr>
+                                  <!-- CTA -->
+                                  <tr>
+                                    <td align=3D"left">
+                                      <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class=3D"full-width">
+                                        <tr>
+                                          <td align=3D"center" bgcolor=3D"=
+#ffffff" class=3D"hoverBlackCTA" style=3D"font-family:Arial, sans-serif, 'B=
+rown-Regular'; font-weight:regular; font-size:18px; color:#1c1c1c; text-ali=
+gn:center; background:#ffffff; border:1px solid #d6d6d6; display:block; pad=
+ding:16px 30px 14px 30px;"><a href=3D"http://email-marriott=2Ecom/T/v400000=
+166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bccf/12d14ee2-697e-=
+4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoK=
+zM4fwBvfuHkRA=3D=3D" style=3D"color:#1c1c1c; text-decoration:none;">Read Mo=
+re</a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <!-- end CTA -->
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- end copy -->
+                        </td>
+                      </tr>
+                    </table>
+                    <!-- end image left/copy right -->
+
+                    <!-- divider w/ hidden border - use between each check=
+erboard module -->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" bgcolor=3D"#ffffff">
+                      <tr>
+                        <td height=3D"1" style=3D"font-size:1px; line-heig=
+ht:1px; padding:10px 0px 10px 0px;" class=3D"topPadding60 bottomPadding60">
+                          <table align=3D"center" width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                            <tr>
+                              <td height=3D"1" style=3D"border-top:none; f=
+ont-size:1px; line-height:1px;" class=3D"dividerHiddenBorder">&nbsp;</td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                    <!-- end divider w/ hidden border -->
+
+                    <!-- copy left/image right -->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%">
+                      <tr>
+                        <td>
+
+                          <!--[if gte mso 9]><table cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" width=3D"100%" dir=3D"rtl"><tr><td align=3D"left=
+" valign=3D"top" dir=3D"ltr"><![endif]-->
+
+                          <table class=3D"stackTbl" align=3D"right" width=
+=3D"290" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:=
+inline; width:290px;">
+                            <tr>
+                              <td align=3D"center" valign=3D"top"><a href=
+=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14e=
+e2697e4e850000021ef3a0bcd0/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0=
+oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_bl=
+ank"><img border=3D"0" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0=
+727/images/midautumfest-1=2Ejpg" width=3D"290" height=3D"193" alt=3D"" styl=
+e=3D"display:block;" class=3D"fullWidthImg"></a></td>
+                            </tr>
+                          </table>
+
+                          <!--[if gte mso 9]></td><td align=3D"left" valig=
+n=3D"top" dir=3D"ltr"><![endif]-->
+
+                          <table class=3D"stackTbl" align=3D"left" width=
+=3D"290" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:=
+inline; width:290px;">
+                            <tr>
+                              <!-- adjust td height value to match image h=
+eight -->
+                              <td height=3D"193" align=3D"center" valign=
+=3D"middle" class=3D"autoHeight">
+                                <table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%">
+                                  <tr>
+                                    <td align=3D"right" valign=3D"top" sty=
+le=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular; =
+color:#1c1c1c; font-size:24px; line-height:27px; tex-align:right; padding:0=
+px 0px 10px 0px" class=3D"topPadding20 align-center"><a href=3D"http://emai=
+l-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e8500000=
+21ef3a0bcd1/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCy=
+cNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"c=
+olor:#1c1c1c; text-decoration:none;">Celebrate the harvest=2E</a></td>
+                                  </tr>
+                                  <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"font-family:Arial, sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c=
+; font-size:18px; line-height:24px; text-align:right; padding:0px 0px 20px =
+0px;" class=3D"align-center">Discover the decadent dessert that marks China=
+&#8217;s Mid-Autumn Festival=2E</td>
+                                  </tr>
+                                  <!-- CTA -->
+                                  <tr>
+                                    <td align=3D"right">
+                                      <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class=3D"full-width">
+                                        <tr>
+                                          <td align=3D"center" bgcolor=3D"=
+#ffffff" class=3D"hoverBlackCTA" style=3D"font-family:Arial, sans-serif, 'B=
+rown-Regular'; font-weight:regular; font-size:18px; color:#1c1c1c; text-ali=
+gn:center; background:#ffffff; border:1px solid #d6d6d6; display:block; pad=
+ding:16px 30px 14px 30px;"><a href=3D"http://email-marriott=2Ecom/T/v400000=
+166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcd2/12d14ee2-697e-=
+4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoK=
+zM4fwBvfuHkRA=3D=3D" style=3D"color:#1c1c1c; text-decoration:none;">Read Mo=
+re</a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <!-- end CTA -->
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+
+                          <!--[if gte mso 9]></td></tr></table><![endif]--=
+>
+
+                        </td>
+                      </tr>
+                    </table>
+					 =20
+				=09
+                    <!-- copy left/image right -->
+					 =20
+					 =20
+	                    <!-- divider w/ hidden border - use between each chec=
+kerboard module -->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" bgcolor=3D"#ffffff">
+                      <tr>
+                        <td height=3D"1" style=3D"font-size:1px; line-heig=
+ht:1px; padding:10px 0px 10px 0px;" class=3D"topPadding60 bottomPadding60">
+                          <table align=3D"center" width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                            <tr>
+                              <td height=3D"1" style=3D"border-top:none; f=
+ont-size:1px; line-height:1px;" class=3D"dividerHiddenBorder">&nbsp;</td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                    <!-- end divider w/ hidden border -->				 =20
+					 =20
+
+          <!-- image left/copy right -->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%">
+                      <tr>
+                        <td>
+                          <!-- image -->
+                          <table width=3D"290" align=3D"left" class=3D"sta=
+ckTbl" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:in=
+line; width:290px;">
+                            <tr>
+                              <td align=3D"center" valign=3D"top"><a href=
+=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14e=
+e2697e4e850000021ef3a0bcd3/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0=
+oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_bl=
+ank"><img border=3D"0" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0=
+727/images/nye-2=2Ejpg" width=3D"290" height=3D"193" alt=3D"" style=3D"disp=
+lay:block;" class=3D"fullWidthImg"></a></td>
+                            </tr>
+                          </table>
+                          <!-- end image -->
+                           <!-- copy -->
+                          <table width=3D"290" align=3D"right" class=3D"st=
+ackTbl" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:i=
+nline; width:290px;">
+                            <tr>
+                              <!-- adjust td height value to match image h=
+eight -->
+                              <td height=3D"193" align=3D"center" valign=
+=3D"middle" class=3D"autoHeight">
+                                <table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%">
+                                  <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular;=
+ color:#1c1c1c; font-size:24px; line-height:27px; text-align:left; padding:=
+0px 0px 10px 0px" class=3D"align-center topPadding20"><a href=3D"http://ema=
+il-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000=
+021ef3a0bcd4/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKC=
+ycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"=
+color:#1c1c1c; text-decoration:none;">Ring in the New Year=2E</a></td>
+                                  </tr>
+                                  <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"font-family:Arial, sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c=
+; font-size:18px; line-height:24px; text-align:left; padding:0px 0px 20px 0=
+px;" class=3D"align-center">Rock New Year&#8217;s Eve at these five hot spo=
+ts around the world=2E</td>
+                                  </tr>
+                                  <!-- CTA -->
+                                  <tr>
+                                    <td align=3D"left">
+                                      <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class=3D"full-width">
+                                        <tr>
+                                          <td align=3D"center" bgcolor=3D"=
+#ffffff" class=3D"hoverBlackCTA" style=3D"font-family:Arial, sans-serif, 'B=
+rown-Regular'; font-weight:regular; font-size:18px; color:#1c1c1c; text-ali=
+gn:center; background:#ffffff; border:1px solid #d6d6d6; display:block; pad=
+ding:16px 30px 14px 30px;"><a href=3D"http://email-marriott=2Ecom/T/v400000=
+166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcd5/12d14ee2-697e-=
+4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoK=
+zM4fwBvfuHkRA=3D=3D" style=3D"color:#1c1c1c; text-decoration:none;">Read Mo=
+re</a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <!-- end CTA -->
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- end copy -->
+                        </td>
+                      </tr>
+                    </table>
+                    <!-- end image left/copy right -->
+					 =20
+                  </td>
+                </tr>
+              </table>
+              <!-- end S2: Secondary 2 - Checkerboard -->		=09
+			=09
+			=09
+            <!-- S6: Bottom drop shadow -->
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <tr><td height=3D"1" bgcolor=3D"#d7d7d7" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#e7e7e7" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f4f4f4" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f5f5f5" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+              <tr><td height=3D"1" bgcolor=3D"#f6f6f6" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td></tr>
+            </table>
+            <!-- end S6: Bottom drop shadow -->
+			=09
+  <!-- Start targetted content - ROTW Version -->			=09
+	=09
+			=09
+
+              <!-- D1: Divider 1 - Major page break -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td height=3D"40" style=3D"font-size:40px; line-height:4=
+0px;">&nbsp;</td>
+                </tr>
+              </table>
+              <!-- end D1: Divider 1 - Major page break -->			=09
+			=09
+
+
+	</td>
+          <!-- end INNER CONTAINER - place all modules above -->
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- end MODULE CONTAINER-->
+ =20
+ =20
+ =20
+ =20
+  <!-- MODULE CONTAINER COLOR BACKGROUND -->
+  <tr>
+    <td width=3D"100%" align=3D"center" bgcolor=3D"#0079d4">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640" cl=
+ass=3D"full-width-container">
+        <tr>
+          <!-- INNER CONTAINER - place all modules above -->
+          <td width=3D"640" align=3D"center" style=3D"min-width:640px;" cl=
+ass=3D"full-width-container">
+         =20
+         =20
+         =20
+    <!-- T4: Tertiary 4 - Icon with copy block -->
+			<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+			  <tr>
+				<td align=3D"center" style=3D"padding:40px 90px 40px 90px;" class=3D"m=
+obilePadding6">
+			      <!-- image -->
+            <!--[if gte mso 9]><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%"><tr><td align=3D"left" valign=3D"top" ><![endif=
+]-->
+                  <table width=3D"95" align=3D"left" class=3D"stackTbl" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:inline;">
+				    <tr>
+					  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marriot=
+t=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bc=
+d6/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0488=
+8UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0" s=
+rc=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/gift-anim-2=
+=2Egif" width=3D"90" height=3D"80" alt=3D"" style=3D"display:block; backgro=
+und-color:#0079d4;" class=3D""></a></td>
+					</tr>
+				  </table>
+				  <!-- end image -->=20
+          <!--[if gte mso 9]></td><td align=3D"left" valign=3D"top"><![end=
+if]-->
+                  <table width=3D"360" align=3D"right" class=3D"stackTbl" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:inline;">
+				    <tr>
+					  <td align=3D"left" valign=3D"top">
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+						  <tr>
+							<td align=3D"left" valign=3D"top" style=3D"font-family:Arial, sans-=
+serif, 'Brown-Regular'; font-weight:regular; color:#ffffff; font-size:18px;=
+ line-height:24px; text-align:left; padding:0px 0px 0px 0px" class=3D"topPa=
+dding20 align-center"><a href=3D"http://email-marriott=2Ecom/T/v400000166e0=
+8934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcd7/12d14ee2-697e-4e85-=
+9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fw=
+BvfuHkRA=3D=3D" target=3D"_blank" style=3D"color:#ffffff; text-decoration:n=
+one;">Gift Ideas for Every Kind of Traveler</a></td>
+						  </tr>
+						  <tr>
+							<td align=3D"left" valign=3D"top" style=3D"font-family:Arial, sans-=
+serif, 'Proxima-Nova-Regular'; color:#ffffff; font-size:14px; line-height:2=
+0px; text-align:left;padding:0px 0px 0px 0px;" class=3D"align-center">Make =
+your list and check it twice=2E These gifts, for explorers like you, will d=
+elight every time=2E </td>
+						  </tr>
+						  <!-- CTA -->
+						  <tr>
+							<td align=3D"left" valign=3D"top" style=3D"font-family:Arial, sans-=
+serif, 'Brown-Regular'; font-weight:regular; color:#0079d4;; font-size:18px=
+; line-height:24px; text-align:left;" class=3D"align-center"><a href=3D"htt=
+p://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4=
+e850000021ef3a0bcd8/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2Xm=
+HtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" st=
+yle=3D"color:#ffffff; text-decoration:none;">Let&#8217;s Go Shopping&nbsp;<=
+span style=3D"color:#ffffff; font-size:24px; line-height:24px;">&rsaquo;</s=
+pan></a></td>
+						  </tr>
+						  <!-- end CTA -->
+						</table>
+            <!--[if gte mso 9]></td></tr></table><![endif]-->
+				  	  </td>
+					</tr>
+				  </table>
+                </td>
+			  </tr>
+			</table>
+			<!-- end T4: Tertiary 4 - Icon with copy block  -->
+         =20
+          </td>
+          <!-- end INNER CONTAINER - place all modules above -->
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- full-width drop shadow -->
+  <tr><td height=3D"1" bgcolor=3D"#c8c8c8" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#d7d7d7" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#e7e7e7" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#f4f4f4" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#f5f5f5" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <tr><td height=3D"1" bgcolor=3D"#f6f6f6" style=3D"font-size:1px; line-he=
+ight:1px;">&nbsp;</td></tr>
+  <!-- end full-width drop shadow -->
+  <!-- end MODULE CONTAINER COLOR BACKGROUND -->
+ =20
+ =20
+=20
+ <!-- MODULE CONTAINER -->
+  <tr>
+    <td width=3D"100%" align=3D"center" bgcolor=3D"#f7f7f7">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640=
+" class=3D"full-width-container">
+        <tr>
+          <td width=3D"640" align=3D"center" style=3D"min-width:640px;" cl=
+ass=3D"full-width-container">
+          <!-- INNER CONTAINER - place all modules below --> =20
+			 =20
+			 =20
+		         <!-- D1: Divider 1 - Major page break -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td height=3D"40" style=3D"font-size:40px; line-height:4=
+0px;">&nbsp;</td>
+                </tr>
+              </table>
+              <!-- end D1: Divider 1 - Major page break -->	 =20
+			 =20
+			 =20
+			 =20
+             <!-- H2: Section Headline 2 - On white -->
+        	<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" bgcolor=3D"#ffffff">
+			  <tr>
+				<td align=3D"center" style=3D"padding:20px 20px 10px 20px;">
+                  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">
+                    <tr>
+					  <td align=3D"center" valign=3D"bottom" style=3D"padding:0px 0px 10p=
+x 0px;"><img src=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/imag=
+es/map_pin_blue=2Epng" height=3D"26" width=3D"20" border=3D"0" valign=3D"to=
+p"/></td>
+					</tr>
+                    <tr>
+					  <td align=3D"center" valign=3D"bottom" style=3D"font-family:Arial, =
+sans-serif, 'Brown-Bold'; font-weight:bold; color:#0079d4; font-size:24px; =
+line-height:24px; letter-spacing:0=2E75px; font-weight:bold; text-transform=
+:uppercase;">CREATE YOUR OWN TRAVEL STORY</td>
+				    </tr>
+					  	       <tr>
+					  <td align=3D"center" valign=3D"bottom" style=3D"font-family:Arial, =
+sans-serif, 'Proxima-Nova-Regular'; color:#1c1c1c; font-size:18px; line-hei=
+ght:24px; padding: 20px 60px 0px 60px;" class=3D"leftPadding10 rightPadding=
+10">Explore over 300 independent hotels at three brands that celebrate the =
+unique character and local flavor of the destination=2E Create memories to =
+share with your loved ones that will last a lifetime=2E
+			=09
+</td>
+				    </tr>
+				  </table>
+				</td>
+			  </tr>
+		    </table>
+        	<!-- end H2: Section Headline 2 - On white -->			 =20
+        =09
+        	<!-- S5: Secondary 5, 3-across -->
+			<table bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+			  <tr>
+				<td align=3D"center" style=3D"padding:40px 20px 40px 20px;">
+				  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0">
+				    <tr>
+					  <td>
+					    <!--[if gte mso 9]><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"100%"><tr><td align=3D"left" valign=3D"top"><![endif]-->
+						=09
+						<!-- 3-across column 1 -->												=09
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"205=
+" align=3D"left" class=3D"stackTblMarginBottom">
+						  <tr>
+							<td align=3D"center" valign=3D"top" style=3D"padding-right:15px;" c=
+lass=3D"padding0">
+							  <!-- image -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bcd9/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/gritti-1=
+=2Ejpg" width=3D"190" height=3D"128" alt=3D"" style=3D"display:block; backg=
+round-color:#939393;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end image -->
+							=09
+										  <!-- logo -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bcda/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/luxury-col=
+lection-logo=2Ejpg" width=3D"190" height=3D"90" alt=3D"" style=3D"display:b=
+lock; background-color:#ffffff;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end logo -->
+							  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+								  <td align=3D"center" valign=3D"top">
+									<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">
+									  <tr>
+										<td align=3D"center" valign=3D"top" style=3D"font-family:Arial, =
+sans-serif, 'Brown-Regular'; font-weight:regular; color:#1c1c1c; font-size:=
+24px; line-height:27px; padding:5px 0px 15px 0px;"><a href=3D"http://email-=
+marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021=
+ef3a0bcdb/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycN=
+LIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"col=
+or:#1c1c1c; text-decoration:none;">The Gritti Palace, Venice</a></td>
+									  </tr>
+									</table>
+								=09
+                          =20
+								  </td>
+								</tr>
+							  </table>							=09
+							</td>
+						  </tr>
+						</table>
+                        <!-- end 3-across column 1 -->
+
+						<!--[if gte mso 9]></td><td align=3D"left" valign=3D"top"><![endif]-=
+->
+                       =20
+                        <!-- 3-across column 2 -->												=09
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"205=
+" align=3D"left" class=3D"stackTblMarginBottom">
+						  <tr>
+							<td align=3D"center" valign=3D"top" style=3D"padding-right:15px;" c=
+lass=3D"padding0">
+							  <!-- image -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bcdc/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/margroove-=
+1=2Ejpg" width=3D"190" height=3D"128" alt=3D"" style=3D"display:block; back=
+ground-color:#939393;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end image -->
+							=09
+															  <!-- logo -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bcdd/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/autograph-=
+collection-logo=2Ejpg" width=3D"190" height=3D"90	" alt=3D"" style=3D"displ=
+ay:block; background-color:#ffffff;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end logo -->
+							  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+								  <td align=3D"center" valign=3D"top">
+									<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">
+									  <tr>
+										<td align=3D"center" valign=3D"top" style=3D"font-family:Arial, =
+sans-serif, 'Brown-Regular'; font-weight:regular; color:#1c1c1c; font-size:=
+24px; line-height:27px; padding:5px 0px 15px 0px;"><a href=3D"http://email-=
+marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021=
+ef3a0bcde/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycN=
+LIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"col=
+or:#1c1c1c; text-decoration:none;">El Mangroove, Costa Rica</a></td>
+									  </tr>
+									</table>
+							=09
+								  </td>
+								</tr>
+							  </table>							=09
+							</td>
+						  </tr>
+						</table>
+                        <!-- end 3-across column 2 -->
+
+						<!--[if gte mso 9]></td><td align=3D"left" valign=3D"top"><![endif]-=
+->
+                       =20
+                        <!-- 3-across column 3 -->												=09
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"190=
+" align=3D"left" class=3D"stackTbl">
+						  <tr>
+							<td align=3D"center" valign=3D"top">
+							  <!-- image -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bcdf/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/vagabond-1=
+=2Ejpg" width=3D"190" height=3D"128" alt=3D"" style=3D"display:block; backg=
+round-color:#939393;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end image -->
+							=09
+															  <!-- logo -->
+                              <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+								<tr>=20
+								  <td align=3D"center" valign=3D"top"><a href=3D"http://email-marr=
+iott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a=
+0bce0/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk0=
+4888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img border=3D"0=
+" src=3D"http://media=2E4at5=2Enet/email_domains/mar/0727/images/tribute-po=
+rtfolio-logo=2Ejpg" width=3D"190" height=3D"90" alt=3D"" style=3D"display:b=
+lock; background-color:#ffffff;" class=3D""></a></td>
+								</tr>
+							  </table>
+                              <!-- end logo -->
+							  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+								  <td align=3D"center" valign=3D"top">
+									<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">
+									  <tr>
+										<td align=3D"center" valign=3D"top" style=3D"font-family:Arial, =
+sans-serif, 'Brown-Regular'; font-weight:regular; color:#1c1c1c; font-size:=
+24px; line-height:27px; padding:5px 0px 15px 0px;"><a href=3D"http://email-=
+marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021=
+ef3a0bce1/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycN=
+LIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"col=
+or:#1c1c1c; text-decoration:none;">The Vagabond Club, Singapore</a></td>
+									  </tr>
+									</table>
+								=09
+                             =20
+								  </td>
+								</tr>
+							  </table>							=09
+							</td>
+						  </tr>
+						</table>
+                        <!-- end 3-across column 3 -->
+
+					    <!--[if gte mso 9]></td></tr></table><![endif]-->
+					  </td>
+					</tr>
+				  </table>
+                </td>
+			  </tr>
+			</table>
+			<!-- end S5: Secondary 5, 3-across -->
+		=09
+		=09
+			                <!-- CTA1: Primary -->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" bgcolor=3D"#ffffff">
+                <tr>
+                  <td align=3D"center" style=3D"padding:0px 80px 60px 80px=
+; " class=3D"mobilePadding1">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">
+                      <!-- CTA -->
+                      <tr>
+                        <td align=3D"center" style=3D"padding: 0px 0px 0px=
+ 0px;" class=3D"padding0">
+                          <table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full-width">
+                            <tr>
+                              <td align=3D"center" bgcolor=3D"#0079d4" cla=
+ss=3D"hoverBlueCTA" style=3D"font-family:Arial, sans-serif, 'Brown-Bold'; f=
+ont-weight:bold; font-size:18px; color:#ffffff; text-align:center; backgrou=
+nd:#0079d4; border:1px solid #0079d4; display:block; letter-spacing:0=2E5px=
+; padding:16px 30px 14px 30px;"><a href=3D"http://email-marriott=2Ecom/T/v4=
+00000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bce2/12d14ee2-=
+697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575y=
+BLsoKzM4fwBvfuHkRA=3D=3D
+" style=3D"color:#ffffff; text-decoration:none;">Discover More</a></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <!-- end CTA -->
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- end CTA1: Primary -->
+			 =20
+			 =20
+			 =20
+			<!-- S6: Bottom drop shadow -->
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+  			  <tr><td height=3D"1" bgcolor=3D"#d7d7d7" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+  			  <tr><td height=3D"1" bgcolor=3D"#e7e7e7" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+  			  <tr><td height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+  			  <tr><td height=3D"1" bgcolor=3D"#f4f4f4" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+  			  <tr><td height=3D"1" bgcolor=3D"#f5f5f5" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+  			  <tr><td height=3D"1" bgcolor=3D"#f6f6f6" style=3D"font-size:1px; li=
+ne-height:1px;">&nbsp;</td></tr>
+            </table>
+            <!-- end S6: Bottom drop shadow -->
+			 =20
+
+
+            </td>
+            <!-- end INNER CONTAINER - place all modules above -->
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- end MODULE CONTAINER-->
+
+
+
+    <!-- FOOTER CONTAINER -->
+    <tr>
+      <td width=3D"100%" align=3D"center" bgcolor=3D"#f7f7f7">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"6=
+40" style=3D"width:640px" class=3D"full-width-container">
+          <tr>
+            <td width=3D"640" align=3D"center" style=3D"min-width:640px;" =
+class=3D"full-width-container">
+
+
+                        =20
+			<!-- FOOTER GOES HERE -->
+           =20
+            <!-- FT1: Footer - Member -->
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <!-- you are here -->
+              <tr>
+			    <td align=3D"center" valign=3D"top" style=3D"padding: 40px 0px 20px=
+ 0px; border-bottom:1px solid #c6c6c6;"><a href=3D"http://email-marriott=2E=
+com/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bce3/1=
+2d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAV=
+Ma5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" border=3D"0"><img src=
+=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/images/you_are_here=
+=2Epng" alt=3D"" height=3D"26" width=3D"264" border=3D"0"/></a></td>
+		      </tr>
+              <!-- end you are here -->
+              <!-- footer nav -->
+              <tr>
+                <td align=3D"center">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"full-width">
+                    <tr>
+                      <td align=3D"center" style=3D"padding:20px 0px 0px 0=
+px;" class=3D"responsiveCell padding0">
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+                          <tr>
+                           <td align=3D"center" valign=3D"middle" style=3D=
+"" class=3D"footer-nav-top">
+                              <table align=3D"center" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <!-- nav item 1 -->
+                                  <td align=3D"center" valign=3D"middle" s=
+tyle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular=
+; color:#0079d4; font-size:13px; line-height:19px; text-transform:uppercase=
+; padding:0px 10px 0px 0px; border-right: solid 1px #c6c6c6; white-space:no=
+wrap;" class=3D"footer-nav"><a href=3D"http://email-marriott=2Ecom/T/v40000=
+0166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bce4/12d14ee2-697e=
+-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLso=
+KzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"color:#0079d4; text-decora=
+tion:none;">unsubscribe</a></td>
+                                  <!-- nav item 1 -->=20
+                      			  <!-- nav item 2 -->
+                                  <td align=3D"center" valign=3D"middle" s=
+tyle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular=
+; color:#0079d4; font-size:13px; line-height:19px; text-transform:uppercase=
+; padding:0px 10px 0px 10px; border-right: solid 1px #c6c6c6; white-space:n=
+owrap;" class=3D"footer-nav"><span style=3D"font-family:Arial, sans-serif, =
+'Brown-Regular'; font-weight:regular; color: #C2C60A;"><a href=3D"http://em=
+ail-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e85000=
+0021ef3a0bce5/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKK=
+CycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D=
+"color:#0079d4; text-decoration:none;">terms of use</a></span></td>
+                      			  <!-- end nav item 2 -->=20
+                      			  <!-- nav item 3 -->
+                                  <td align=3D"center" valign=3D"middle" s=
+tyle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular=
+; color:#0079d4; font-size:13px; line-height:19px; text-transform:uppercase=
+; padding:0px 10px 0px 10px; border-right: solid 1px #c6c6c6; white-space:n=
+owrap;" class=3D"footer-nav"><span style=3D"font-family:Arial, sans-serif, =
+'Brown-Regular'; font-weight:regular; color: #B20CC2;"><a href=3D"http://em=
+ail-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e85000=
+0021ef3a0bce6/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKK=
+CycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D=
+"color:#0079d4; text-decoration:none;">preferences</a></span></td>
+                      			  <!-- end nav item 3 -->=20
+                      			  <!-- nav item 4-->
+                                  <td align=3D"center" valign=3D"middle" s=
+tyle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular=
+; color:#0079d4; font-size:13px; line-height:19px; text-transform:uppercase=
+; padding:0px 10px 0px 10px; border-right: solid 1px #c6c6c6; white-space:n=
+owrap;" class=3D"footer-nav footer-navnoborder"><span style=3D"font-family:=
+Arial, sans-serif, 'Brown-Regular'; font-weight:regular; color: #B20CC2;"><=
+a href=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/=
+12d14ee2697e4e850000021ef3a0bce7/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU_=
+_=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=
+=3D"_blank" style=3D"color:#0079d4; text-decoration:none;">privacy policy</=
+a></span></td>
+                      			  <!--end nav item 4 -->
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td align=3D"center" style=3D"padding:20px 0px 0px 0=
+px;" class=3D"responsiveCell padding0">
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td align=3D"center" valign=3D"middle" style=
+=3D"" class=3D"footer-nav-bottom">
+                              <table align=3D"center" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <!-- nav item 5 -->
+                      			  <td align=3D"center" valign=3D"middle">
+                        		    <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" width=3D"100%">
+                          			  <tr>
+                            		    <td align=3D"right" valign=3D"middle" st=
+yle=3D"font-family:Arial, sans-serif, 'Brown-Regular'; font-weight:regular;=
+ color:#0079d4; font-size:13px; line-height:19px; text-transform:uppercase;=
+ padding:0px 5px 0px 10px; white-space:nowrap;" class=3D"footer-nav"><a hre=
+f=3D"http://email-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14=
+ee2697e4e850000021ef3a0bce8/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv=
+0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_b=
+lank" style=3D"color:#0079d4; text-decoration:none;">find hotels</a></td>
+                            		    <td align=3D"right"><a href=3D"http://em=
+ail-marriott=2Ecom/T/v400000166e08934308323c96e96c566a0/12d14ee2697e4e85000=
+0021ef3a0bce9/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKK=
+CycNLIk04888UAVMa5S575yBLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank"><img src=
+=3D"http://media=2E4at5=2Enet/email_domains/mar/148048/images/m-search-foot=
+er=2Epng" width=3D"25" height=3D"25" border=3D"0" alt=3D"" ></a></td>
+                           			  </tr>
+                        		    </table>
+                      			  </td>
+                      			  <!-- nav item 5 -->
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!-- end footer nav -->
+              <!-- social icons -->
+              <tr>
+                <td align=3D"center" valign=3D"middle" style=3D"padding:40=
+px 0px 0px 0px;" class=3D"">
+                  <table align=3D"center" width=3D"140" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td align=3D"center" valign=3D"middle" style=3D"padd=
+ing:0px 5px 0px 5px;"><a href=3D"http://email-marriott=2Ecom/T/v400000166e0=
+8934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcea/12d14ee2-697e-4e85-=
+9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fw=
+BvfuHkRA=3D=3D" target=3D"_blank" border=3D"0"><img src=3D"http://media=2E4=
+at5=2Enet/email_domains/mar/148048/images/footer_icon_facebook=2Epng" alt=
+=3D"Facebook" height=3D"22" width=3D"22" border=3D"0"/></a></td>
+                      <td align=3D"center" valign=3D"middle" style=3D"padd=
+ing:0px 5px 0px 5px;"><a href=3D"http://email-marriott=2Ecom/T/v400000166e0=
+8934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bceb/12d14ee2-697e-4e85-=
+9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fw=
+BvfuHkRA=3D=3D" target=3D"_blank" border=3D"0"><img src=3D"http://media=2E4=
+at5=2Enet/email_domains/mar/148048/images/footer_icon_twitter=2Epng" alt=3D=
+"Twitter" height=3D"22" width=3D"22" border=3D"0"/></a></td>
+                      <td align=3D"center" valign=3D"middle" style=3D"padd=
+ing:0px 5px 0px 5px;"><a href=3D"http://email-marriott=2Ecom/T/v400000166e0=
+8934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bcec/12d14ee2-697e-4e85-=
+9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575yBLsoKzM4fw=
+BvfuHkRA=3D=3D" target=3D"_blank" border=3D"0"><img src=3D"http://media=2E4=
+at5=2Enet/email_domains/mar/148048/images/footer_icon_instagram=2Epng" alt=
+=3D"Instagram" height=3D"22" width=3D"22" border=3D"0"/></a></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!-- end social icons -->
+              <!-- web view -->
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"font-family:A=
+rial, sans-serif, 'Brown-Regular'; font-weight:regular; color:#8f8f8f; font=
+-size:13px; line-height:19px; text-transform:uppercase; padding:20px 0px 20=
+px 0px;"><a href=3D"http://email-marriott=2Ecom/H/2/v400000166e08934308323c=
+96e96c566a0/12d14ee2-697e-4e85-9dbd-51d8bf72b5d8/HTML" target=3D"_blank" st=
+yle=3D"color:#8f8f8f; white-space:nowrap;">WEB VIEW</a></td>
+              </tr>
+              <!-- end web view -->
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"font-family:A=
+rial, sans-serif, 'Brown-Regular'; font-weight:regular; color:#8f8f8f; font=
+-size:13px; line-height:19px; padding:0px 0px 40px 0px;">&copy;2018 Marriot=
+t International, Inc=2E
+                 =20
+                </td>
+              </tr>
+              <!-- divider -->
+              <tr>
+                <td height=3D"1" style=3D"font-size:1px; line-height:1px;"=
+><table align=3D"center" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0"><tr><td height=3D"1" style=3D"border-top:1px solid #c6c6c6; f=
+ont-size:1px; height:1px; line-height:1px">&nbsp;</td></tr></table></td>
+              </tr>
+              <!-- end divider -->
+              <!-- terms & conditions -->
+              <tr>
+			    <td>
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+width=3D"100%" class=3D"footer">
+					<tr>
+					  <td align=3D"left" style=3D"padding:0px 20px 0px 20px;" class=3D"mo=
+bilePadding2">
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%" class=3D"footer">
+						  <tr>
+							<td align=3D"center" valign=3D"top" style=3D"font-family:Arial, san=
+s-serif, 'Brown-Regular'; font-weight:regular; color:#8f8f8f; font-size:12p=
+x; line-height:18px; padding: 20px 0px 40px 0px;"><span style=3D"font-famil=
+y:Arial, sans-serif, 'Brown-Regular'; font-weight:regular; color:#8f8f8f; f=
+ont-size:12px; line-height:18px; text-transform:uppercase; margin: 0;"></sp=
+an>
+
+                  <p>
+                  To unsubscribe: Select "News &amp; Program Information" =
+on our <span class=3D"greyLink"><a href=3D"http://email-marriott=2Ecom/T/v4=
+00000166e08934308323c96e96c566a0/12d14ee2697e4e850000021ef3a0bced/12d14ee2-=
+697e-4e85-9dbd-51d8bf72b5d8?__dU__=3Dv0oQlZ2XmHtXjKKCycNLIk04888UAVMa5S575y=
+BLsoKzM4fwBvfuHkRA=3D=3D" target=3D"_blank" style=3D"color:#919191;">unsubs=
+cribe</a></span> page=2E<br /><br />
+
+If you unsubscribe from Marriott promotional email, we will continue to se=
+nd only transactional messages such as reservation confirmation emails=2E<b=
+r /><br />
+
+You can also unsubscribe by writing to:<br />
+
+Marriott Rewards<br>Menara Olympia, No=2E 8 Jalan Raja Chulan, 50200 Kuala=
+ Lumpur, Malaysia
+
+
+                     </p>
+                            </td>
+						  </tr>
+						</table>
+					  </td>
+					</tr>
+				  </table>
+				</td>
+			  </tr>
+              <!-- end terms & conditions -->
+            </table>
+            <!-- end FT1: Footer - Member --> =20
+<!-- Start Adara Media Pixel -->
+<img src=3D"https://tag=2Eyieldoptimizer=2Ecom/ps/ps?t=3Di&p=3D1057&pg=3De=
+m&mlvl=3DB&mbal=3D0&nbal=3D0&cchl=3DN&mst=3D&mctry=3D&mrep=3DP&ckey=3D23654=
+072&lmem=3DY&rcrm=3D&ebrk=3DY" width=3D"1" height=3D"1" />
+<!-- End Adara Media Pixel -->           =20
+         =20
+           =20
+           =20
+           <!-- FOOTER GOES HERE -->            =20
+           =20
+
+  =20
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- end FOOTER CONTAINER -->
+  </table>
+
+  <!-- END CONTENT CONTAINER -->
+
+<img src=3D'http://email-marriott=2Ecom/O/v400000166e08934308323c96e96c566=
+a0/12d14ee2697e4e8500004c5a42963aa1' style=3D"display:none; max-height: 0px=
+; font-size: 0px; overflow: hidden; mso-hide: all"/></body>
+
+</html>
+
+---=Part.1b82da4.34089e588461663f.166e0893535.cc542d3877d017a6=---
+

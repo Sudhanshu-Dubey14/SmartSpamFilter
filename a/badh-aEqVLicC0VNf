@@ -1,0 +1,121 @@
+Return-Path: <wines@passionateweirdo.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aEqVLicC0VNf>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E2 hex):
+	Subject: ...ious Wines plus 3 FREE bottles \303\242\302\200\302\223
+	JUST $89.99
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aEqVLicC0VNf for <admin@mslindia.net>;
+	Tue,  5 Apr 2016 11:40:52 +0530 (IST)
+Received: from mta9.passionateweirdo.com (passionateweirdo.com [207.244.96.186])
+	by mx10.jcbl.com (Postfix) with SMTP id E0A88ED2A82
+	for <kj_rao@mslindia.net>; Tue,  5 Apr 2016 11:40:48 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=passionateweirdo.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=hlPGa/0IFTqlZ+GVKw+5PKFM2rx3R7A92s0O82eNneGJTBlu8dIyzmJdTCUbAQl7lT7ykhL7S7r3KBFA447G0h5SvcnXbufclFqSd1ZiPc6Vf8rw+svmO0QfpqE3CX1g;
+Date: Tue, 5 Apr 2016 08:17:05 00100
+To: <kj_rao@mslindia.net>
+Message-ID: <kmd.yoetn@passionateweirdo.com>
+From: "Laithwaites Wines" <wines@passionateweirdo.com>
+Subject: 12 Delicious Wines plus 3 FREE bottles – JUST $89.99
+Date: 05 Apr 2016 08:17:05 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<table width="640" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0">
+    <tbody>
+        <tr>
+            <td style="text-align: center; font-size: medium"><a href="http://passionateweirdo.com/217kz41980i2"> 	 	<strong>Laithwaite&rsquo;s Wine<br />
+            A Dozen World-Class Reds - OVER 45% off!</strong></a></td>
+        </tr>
+        <tr>
+            <td align="center"><!-- TOP BAR TABLE -->
+            <table width="600" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td align="left"><a href="http://passionateweirdo.com/217kz41980i2"><img src="http://image-hostup.com/293068/header.jpg" alt="Laithwaite's Wine" border="0" width="600" height="79" style="display:block;" /></a></td>
+                    </tr>
+                    <!-- CLOSE TOP BAR TABLE -->
+                </tbody>
+            </table>
+            <!-- BODY CONTENT TABLE -->
+            <table width="600" cellspacing="0" cellpadding="0" border="0">
+                <!-- HEADER IMAGES -->
+                <tbody>
+                    <tr>
+                        <td align="left">
+                        <div style="height:287px;"><a href="http://passionateweirdo.com/217kz41980i2"><img src="http://image-hostup.com/293068/hero.jpg" border="0" alt="Save $80 on 12 Delicious Wines" width="600" height="287" style="display:block;" /></a></div>
+                        <div style="height:66px;"><a href="http://passionateweirdo.com/217kz41980i2"><img src="http://image-hostup.com/293068/subhead.jpg" border="0" alt="Enjoy 12 world-class wines JUST $89.99" width="600" height="66" style="display:block;" /></a></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="600" cellspacing="0" cellpadding="0" border="0">
+                <!-- BODY COPY -->          <!--LEFT COLUMN -->
+                <tbody>
+                    <tr>
+                        <td width="374" valign="top">
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:20px;font-family:arial,georgia;margin-top:10px;margin-right:18px;margin-bottom:8px;margin-left:18px; text-align:left;">Dear Wine Lover,</p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:20px;font-family:arial,georgia;text-align:left;margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;">The best things in life are often the most simple. That's true of 4 Seasons from <a href="http://passionateweirdo.com/217kz41980i2" style="color:#8f0d31;font-weight:bold;">Laithwaite's Wine</a><strong>, the world's leading home delivery wine specialist.</strong> This special service gives you access to our most exciting finds &ndash; at exclusive low prices &ndash; with no fees, no obligations and a <strong>100% money-back guarantee.</strong></p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:20px;font-family:arial,georgia;text-align:left;margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;">With today's remarkable introductory offer you'll <strong>SAVE $80 and get FREE shipping on 12 exceptional reds:</strong> California Cabernet, gold medal Bordeaux, rich Argentine Malbec and more.</p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:20px;font-family:arial,georgia;text-align:left;margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;"><a href="http://passionateweirdo.com/217kz41980i2" style="color:#8f0d31;font-weight:bold;">Order now</a> and we'll also send you <strong>three FREE bottles of double-gold Gran Reserva</strong> (worth $44.97) from one of our favorite estates in Spain.</p>
+                        <p style="font-size:12px;font-weight:normal;color:#363636;line-height:10px;font-family:arial,georgia; margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;text-align:left;"><a href="http://passionateweirdo.com/217kz41980i2"><img alt="Order NOW for FREE shipping" src="http://image-hostup.com/293068/nowbutton.jpg" border="0" width="295" height="63" /></a></p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:10px;font-family:arial,georgia; margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;text-align:left;">Best wishes,</p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:10px;font-family:arial,georgia; margin-top:12px;margin-right:26px;margin-bottom:2px;margin-left:18px;text-align:left;"><img src="http://image-hostup.com/293068/sig.jpg" alt="Tony Laithwaite" width="156" height="65" /></p>
+                        <p style="font-size:13px;font-weight:normal;color:#363636;line-height:20px;font-family:arial,georgia; margin-top:12px;margin-right:18px;margin-bottom:8px;margin-left:18px;text-align:left;">Tony Laithwaite<br />
+                        Founder</p>
+                        </td>
+                        <!-- RIGHT COLUMN -->
+                        <td width="204" valign="top" align="center"><a href="http://passionateweirdo.com/217kz41980i2"><img src="http://image-hostup.com/293068/premium.jpg" border="0" alt="Your FREE gift... 3 FREE bottles." width="204" height="305" /></a>
+                        <p style="font-size:12px;font-weight:normal;color:#363636;line-height:18px;font-family:arial,georgia;margin-top:0px;margin-right:16px;margin-bottom:8px;margin-left:18px;text-align:left;"><a href="http://passionateweirdo.com/217kz41980i2" style="color:#8f0d31;font-weight:bold;">Order today</a> and we&rsquo;ll send you a free trio of acclaimed,<br />
+                        2005 Gran Reserva &ndash; <strong>also shipped FREE</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="169" valign="middle" align="left" colspan="2" cellpadding="0" cellspacing="0"><a href="http://passionateweirdo.com/217kz41980i2"><img src="http://image-hostup.com/293068/guarantee.jpg" border="0" alt="100% Money-back guarantee - Order NOW" width="600" height="169" /></a></td>
+                    </tr>
+                    <tr>
+                        <td valign="top" align="left" colspan="2" cellpadding="0" cellspacing="0">
+                        <table border="0" cellspacing="0" cellpadding="0" width="600" align="center">
+                            <tbody>
+                                <tr>
+                                    <td class="footer" style="padding: 10px;" align="left" bgcolor="#ffffff">
+                                    <p style="color: #363636; font-family: arial, helvetica, sans-serif; font-size: 11px;">Void where prohibited by law.</p>
+                                    <p style="color: #363636; font-family: arial, helvetica, sans-serif; font-size: 11px;">If you have further questions, our customer service department is always happy to help. You can call us at 1-800-842-4050 (lines open Mon&ndash;Fri 8 AM to 11 PM ET, Sat &amp; Sun 8 AM to 8 PM ET).<br />
+                                    <br />
+                                    
+                                    <p style="color: #363636; font-family: arial, helvetica, sans-serif; font-size: 11px;">Laithwaite's Wine Customer Service | PO Box 264 | Montoursville | PA | 17754 <br />
+                                    <br />
+                                    You have received this email because you are registered with one of our opt-in affiliates. Laithwaite's Wine does not support unsolicited mail. If you no longer wish to receive emails from Laithwaite's Wine, please <a href="http://passionateweirdo.com/218kz41980a2" target="_blank">opt-out here</a>.</p>
+                                    <p style="color: #363636; font-family: arial, helvetica, sans-serif; font-size: 11px;">&copy; 2015 laithwaiteswine.com.  All Rights Reserved.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<img src="http://www.afftrackinglinks.com/impression.track?CID=293068&AFID=279517&ADID=1323383&SID=" border='0' /><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Manage your options by visiting <br>
+<a href="http://passionateweirdo.com/?e=kj_rao@mslindia.net">here</a>.<br>
+
+287 Cheesequake Rd, Bldg 1B, Suite # 22202-B Parlin, NJ  08859
+
+</font>
+</div>
+

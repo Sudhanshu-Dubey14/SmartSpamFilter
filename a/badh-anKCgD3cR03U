@@ -1,0 +1,33 @@
+Return-Path: <lu02a_parts@globeauto.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <kinga.cichowlas@porr.pl>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <anKCgD3cR03U>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id anKCgD3cR03U for <kinga.cichowlas@porr.pl>;
+	Mon, 17 Sep 2018 23:39:34 +0530 (IST)
+Received: from 10.3.27.120 (unknown [190.92.57.123])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id CDAC3EE8707
+	for <kinga.cichowlas@porr.pl>; Mon, 17 Sep 2018 23:39:33 +0530 (IST)
+Date: Mon, 17 Sep 2018 12:10:03 -0600
+From: IT Service Desk Portal <it-servicedesk@porr.at> <lu02a_parts@globeauto.in>
+To: kinga.cichowlas@porr.pl
+Message-ID: <22458662242609417165.786E0D862113493C@porr.pl>
+Subject: FACTURE #0039447
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_57246_2676348455.5197615641080562753"
+
+------=_Part_57246_2676348455.5197615641080562753
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0DCher,
+
+=0DVeuillez trouver ci-joint votre facture de compte IT Service Desk Portal=

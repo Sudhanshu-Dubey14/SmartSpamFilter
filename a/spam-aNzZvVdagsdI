@@ -1,0 +1,1042 @@
+Return-Path:
+	<3OiWtXBEKDSUOPSFQMZ+GFFEQSPYZHPPHMF.DPNTVSFTI_CIBUJBKDCM.DPN@feedburner.bounces.google.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <suresh_bhatia@jcbl.com>
+X-Envelope-To-Blocked: <suresh_bhatia@jcbl.com>
+X-Quarantine-ID: <aNzZvVdagsdI>
+X-Spam-Flag: YES
+X-Spam-Score: 7.199
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.199 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_REPLYTO=2.775, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aNzZvVdagsdI for <suresh_bhatia@jcbl.com>;
+	Wed, 10 Apr 2019 04:35:14 +0530 (IST)
+Received: from mail-it1-f197.google.com (mail-it1-f197.google.com [209.85.166.197])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 8B9C3EF9AC7
+	for <suresh_bhatia@jcbl.com>; Wed, 10 Apr 2019 04:35:11 +0530 (IST)
+Received: by mail-it1-f197.google.com with SMTP id o197so553814ito.3
+        for <suresh_bhatia@jcbl.com>; Tue, 09 Apr 2019 16:05:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:reply-to:sender:precedence:list-unsubscribe:message-id
+         :date:subject:from:to;
+        bh=KOoqgOPzq5TbbXaAUo7765J/Pn4PJ9407ztG9MvOEec=;
+        b=XTCmRPk1STxTKXneqXzvxTflwbCBdYKEQbPB4x66zDpCzTgskuIuZxqHfLDgyU1NqH
+         PCSA5YntFVlBMF7qpfQA0XOaG1aRDlsi8mnSJJTupdOye6OJBGCROzFVsVvzO8JOaQpQ
+         qchfQmHGBqvmRWXUzkr2oDWUyy1XmaN5oDUZzOpS+oJSdZlagtRzsqV8+u2FJ+oJok+f
+         mK6w22dsb6q9CCbv6sCVlXKD0kK/D9a6X8uktsgoT66751m4XhD/DuKN1hqoLuJxZX8/
+         FE82yRyLocznycn5nbRXbNnFrkxI6D/jqB5y4ohohIeGPCj9SI3O4Dl1c0rqC03WOTAW
+         1DDQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:sender:precedence
+         :list-unsubscribe:message-id:date:subject:from:to;
+        bh=KOoqgOPzq5TbbXaAUo7765J/Pn4PJ9407ztG9MvOEec=;
+        b=Xs2tMA5UlQ5/wVUWpAbRJNaPySLHKFSIaGDAKmW6+Ror6R15mqx1Yo50uMoZL866rU
+         a7ymgryyWFNd72RsaH47Y9Jpf5OoumdQujJTj3q4B6hG6W7w916ROkJblNakFq7FiAHL
+         p6zU2Vp0pvmRiBfKkPDjUcaH7lD9MtNZMqP3ZX2/w+Qd0MMEMRUjzYEPs2jzAu3igPNQ
+         AvO+o/NUlMJujqE9v7tEa/j40DQYUsnIqohXRlWJc/vwsNSZfxms8GiUOyYgE5RYPOxm
+         +jyLJg3pLJ6z10uBrgb7dmFXNBw6XPTVPzdndCtPsmj1GVhYlQbEsuWvGHUhdY3d5h9X
+         HdbA==
+X-Gm-Message-State: APjAAAUZ/VKHR91mfI9l4Ez/k+PR9I2STU3+j38C7Yms70PcT3fEM/ry
+	quYEPW1B7dkhjyeqj+VC+eEc/D/A+I/1a9bVzMerLXY=
+MIME-Version: 1.0
+X-Received: by 2002:a6b:ee16:: with SMTP id i22mt1457924ioh.9.1554851130972;
+ Tue, 09 Apr 2019 16:05:30 -0700 (PDT)
+Reply-To: Sarkari Naukri Daily <sarkarinaukriworld.in@gmail.com>
+Sender: noreply+feedproxy@google.com
+Precedence: bulk
+List-Unsubscribe: <https://feedburner.google.com/fb/a/mailunsubscribe?k=n0xqHiUgSM26K33JtbvD6lKoaJA>
+Message-ID: <000000000000572396058620fdea@google.com>
+Date: Tue, 09 Apr 2019 23:05:31 +0000
+Subject: Latest Sarkari Naukri - Goverment Jobs Openings
+From: Sarkari Naukri Daily <noreply+feedproxy@google.com>
+To: suresh_bhatia@jcbl.com
+Content-Type: multipart/alternative; boundary="0000000000005bdcfd058620fd37"
+
+--0000000000005bdcfd058620fd37
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U2Fya2FyaSBOYXVrcmkgIERhaWx5DQoNCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vLy8vLy8vLy8NCkluZGlhbiBBaXIgZm9yY2UgUmVzdWx0IC0gQWlyIEZvcmNlIFggfCBZIEdy
+b3VwIFJlc3VsdCAyMDE5DQoNClBvc3RlZDogMDkgQXByIDIwMTkgMDk6MjUgQU0gUERUDQpodHRw
+Oi8vZmVlZHByb3h5Lmdvb2dsZS5jb20vfnIvU2Fya2FyaS1OYXVrcmktV29ybGQvfjMvaEhkTDFZ
+b01XMHcvP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWlsDQoNCg0KSW5kaWFu
+IEFpciBmb3JjZSBNb3R0byA6IOCkqOCkreCkgyDgpLjgpY3gpKrgpYPgpLbgpIIg4KSm4KWA4KSq
+4KWN4KSk4KSu4KWNIChTYW5za3JpdCk7IElBU1QgOiBOYWJoYeG4pSAgDQpTcHLMpcWbYeG5gSBE
+xKtwdGFtOyAoVG91Y2ggdGhlIFNreSB3aXRoIEdsb3J5KSBIZWFkcXVhcnRlcnMgOiBOZXcgRGVs
+aGkgIA0KRm91bmRlZCA6IDggT2N0b2JlciAxOTMyLCBJbmRpYSBJQUYgUmVjcnVpdG1lbnQgSUFG
+IEFkbWl0IENhcmQgSW5kaWFuIEFybXkgIA0KSW5kaWFuIE5hdnkgQWlyIEZvcmNlIFggfCBZIEdy
+b3VwIFJlc3VsdCAyMDE5IEluZGlhbiBBaXJmb3JjZSBBaXJtZW4gIA0KU2VsZWN0aW9uIFRlc3Qg
+SGFzIFJlY2VudGx5IFVwbG9hZGVkIFVwbG9hZGVkIFJlc3VsdCBmb3IgVGhlIFJlY3J1aXRtZW50
+ICANClBvc3QuLi4NCg0KVGhlIHBvc3QgSW5kaWFuIEFpciBmb3JjZSBSZXN1bHQgIEFpciBGb3Jj
+ZSBYIHwgWSBHcm91cCBSZXN1bHQgMjAxOSAgDQphcHBlYXJlZCBmaXJzdCBvbiBTYXJrYXJpIE5h
+dWtyaSAgRGFpbHkuDQoNCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8NClVQU0MgQ0RTIFJlc3VsdCAtIENvbWJpbmVkIERlZmVuY2UgU2VydmljZSBDRFMgSSBSZXN1
+bHQgMjAxOQ0KDQpQb3N0ZWQ6IDA5IEFwciAyMDE5IDA4OjAzIEFNIFBEVA0KaHR0cDovL2ZlZWRw
+cm94eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL2RfWkRJRXlXbDY4Lz91
+dG1fc291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNClVOSU9OIFBVQkxJQyBT
+RVJWSUNFIENPTU1JU1NJT04gKFVQU0MpIERob2xwdXIgSG91c2UsIFNoYWhqYWhhbiBSb2FkLCBO
+ZXcgIA0KRGVsaGkgIDExMDA2OSBGYWNpbGl0YXRpb24gQ291bnRlciA6IDAxMS0yMzA5ODU0MyAv
+IDIzMzg1MjcxIC8gMjMzODExMjUgLyAgDQoyMzA5ODU5MSBFbWFpbCA6IGZlZWRiYWNrLXVwc2NA
+Z292LmluIFVQU0MgQ0RTIFJlc3VsdCAgQ29tYmluZWQgRGVmZW5jZSAgDQpTZXJ2aWNlIENEUyBJ
+IFJlc3VsdCAyMDE5IFVuaW9uIFB1YmxpYyBTZXJ2aWNlIENvbW1pc3Npb24sIFVQU0MgSGFzICAN
+ClJlY2VudGx5IFVwbG9hZGVkIENvbWJpbmVkIERlZmVuY2UgU2VydmljZSBDRFMgSSBSZXN1bHQg
+MjAxOS4gVGhvc2UgIA0KQ2FuZGlkYXRlcyBXaG8gaGF2ZSBBcHBlYXJlZCBpbiB0aGlzIFJlY3J1
+aXRtZW50Li4uDQoNClRoZSBwb3N0IFVQU0MgQ0RTIFJlc3VsdCAgQ29tYmluZWQgRGVmZW5jZSBT
+ZXJ2aWNlIENEUyBJIFJlc3VsdCAyMDE5ICANCmFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1
+a3JpICBEYWlseS4NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Lw0KVVAgUG9saWNlIFJlc3VsdCAtIENvbnN0YWJsZSBBZGRpdGlvbmFsIEZpbmFsIFJlc3VsdCAy
+MDE5DQoNClBvc3RlZDogMDkgQXByIDIwMTkgMDc6NDkgQU0gUERUDQpodHRwOi8vZmVlZHByb3h5
+Lmdvb2dsZS5jb20vfnIvU2Fya2FyaS1OYXVrcmktV29ybGQvfjMvU1VjYXhUMUZPSU0vP3V0bV9z
+b3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWlsDQoNCg0KVXR0YXIgUHJhZGVzaCBQb2xp
+Y2UgUmVjcnVpdG1lbnQgYW5kIFByb21vdGlvbiBCb2FyZCAsIEx1Y2tub3cgVHVsc2kgR2FuZ2Eg
+IA0KQ29tcGxleCwgMTktQyBMZWdpc2xhdGl2ZSBBc3NlbWJseSBNYXJnIEx1Y2tub3csIFV0dGFy
+IFByYWRlc2gtMjI2MDAxICANCkNvbnRhY3QgTm8uOiA5NDUzODI3MjA3IEVtYWlsIElEIDogaGVs
+cGRlc2sudXBwcnBiMTYxN0BnbWFpbC5jb20gVVBQb2xpY2UgIA0KUmVjcnVpdG1lbnQgVVBQb2xp
+Y2UgQWRtaXQgQ2FyZCBVUFBvbGljZSBBbnN3ZXIgS2V5IEpvaW5JbmRpYW5Bcm15IFVQICANClBv
+bGljZSBSZXN1bHQgIENvbnN0YWJsZSBBZGRpdGlvbmFsIEZpbmFsIFJlc3VsdCAyMDE5IFV0dGFy
+IFByYWRlc2ggUG9saWNlICANClJlY3J1aXRtZW50IGFuZCBQcm9tb3Rpb24gQm9hcmQgLCBMdWNr
+bm93IEhhcyBSZWNlbnRseSBVcGxvYWRlZCBGaW5hbCAgDQpSZXN1bHQgb2YgdGhlLi4uDQoNClRo
+ZSBwb3N0IFVQIFBvbGljZSBSZXN1bHQgIENvbnN0YWJsZSBBZGRpdGlvbmFsIEZpbmFsIFJlc3Vs
+dCAyMDE5IGFwcGVhcmVkICANCmZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICBEYWlseS4NCg0KLy8v
+Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KVG9wIEN1cnJlbnQgQWZm
+YWlycyBGb3IgU2Fya2FyaSBOYXVrcmkgUHJlcGFyYXRpb24gMDkgQXByaWwgMjAxOQ0KDQpQb3N0
+ZWQ6IDA5IEFwciAyMDE5IDA2OjAxIEFNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29t
+L35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL2RoeDI2LXhiWDhnLz91dG1fc291cmNlPWZlZWRi
+dXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNCjEuIERoYW51c2gsIHRoZSBmaXJzdCBpbmRpZ2Vu
+b3VzIGxvbmctcmFuZ2UgYXJ0aWxsZXJ5IGd1biBoYXMgYmVlbiBpbmR1Y3RlZCAgDQppbnRvIHRo
+ZSBJbmRpYW4gQXJteS4g4KSq4KS54KSy4KWAIOCkuOCljeCkteCkpuClh+CktuClgCDgpLLgpILg
+pKzgpYAg4KSm4KWC4KSw4KWAIOCkleClgCDgpIbgpLDgpY3gpJ/gpL/gpLLgpLDgpYAg4KSX4KSo
+IOCkp+CkqOClgeCktyDgpJXgpYsg4KSt4KS+4KSw4KSk4KWA4KSvICANCuCkuOClh+CkqOCkviDg
+pK7gpYfgpIIg4KS24KS+4KSu4KS/4KSyIOCkleCkv+Ckr+CkviDgpJfgpK/gpL7gpaQgMi4gQWNj
+b3JkaW5nIHRvIHRoZSBQaEQgQ2hhbWJlciBvZiBDb21tZXJjZSBhbmQgIA0KSW5kdXN0cnksIGJp
+bGF0ZXJhbCB0cmFkZSBiZXR3ZWVuIEluZGlhIGFuZCBFVSBpcyBsaWtlbHkgdG8gcmVhY2ggJCAy
+MDAgIA0KYmlsbGlvbiBieSAyMDIyLiDgpKrgpYDgpI/gpJrgpKHgpYAg4KSa4KWI4KSC4KSs4KSw
+IOCkkeCkqyDgpJXgpYngpK7gpLDgpY3gpLgg4KSP4KSC4KShLi4uDQoNClRoZSBwb3N0IFRvcCBD
+dXJyZW50IEFmZmFpcnMgRm9yIFNhcmthcmkgTmF1a3JpIFByZXBhcmF0aW9uIDA5IEFwcmlsIDIw
+MTkgIA0KYXBwZWFyZWQgZmlyc3Qgb24gU2Fya2FyaSBOYXVrcmkgIERhaWx5Lg0KDQovLy8vLy8v
+Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vDQpCQ1BMIFJlY3J1aXRtZW50IDIw
+MTkgLSA2NiBHcmFkdWF0ZSBFbmdpbmVlcnMgJiBUZWNobmljaWFuIFZhY2FuY3kgQCAgDQpiY3Bs
+b25saW5lLmNvLmluDQoNClBvc3RlZDogMDkgQXByIDIwMTkgMDM6MzUgQU0gUERUDQpodHRwOi8v
+ZmVlZHByb3h5Lmdvb2dsZS5jb20vfnIvU2Fya2FyaS1OYXVrcmktV29ybGQvfjMvTTdncHpvVjlL
+cm8vP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWlsDQoNCg0KQkNQTCBSZWNy
+dWl0bWVudCAyMDE5IEJDUEwgYWthIEJyYWhtYXB1dHJhIENyYWNrZXIgJiBQb2x5bWVyIExpbWl0
+ZWQgIA0KaW52aXRlcyBBcHBsaWNhdGlvbiBmb3IgdGhlIHBvc3Qgb2YgNjYgR3JhZHVhdGUgRW5n
+aW5lZXJzICYgVGVjaG5pY2lhbi4gIA0KQXBwbHkgT25saW5lIGJlZm9yZSAzMCBBcHJpbCAyMDE5
+LiBCQ1BMIFJlY3J1aXRtZW50ICANClF1YWxpZmljYXRpb24vZWxpZ2liaWxpdHkgY29uZGl0aW9u
+cywgaG93IHRvIGFwcGx5ICYgb3RoZXIgcnVsZXMgYXJlIGdpdmVuICANCmJlbG934oCmIE9mZmlj
+aWFsIHdlYnNpdGUgaXMgd3d3LmJjcGxvbmxpbmUuY28uaW4gQnJhaG1hcHV0cmEgQ3JhY2tlciBh
+bmQgIA0KUG9seW1lciBMaW1pdGVkICBCQ1BMIFJlY3J1aXRtZW50ICA2NiBHcmFkdWF0ZSBFbmdp
+bmVlcnMgJiBUZWNobmljaWFuICANClZhY2FuY3kgLi4uDQoNClRoZSBwb3N0IEJDUEwgUmVjcnVp
+dG1lbnQgMjAxOSAgNjYgR3JhZHVhdGUgRW5naW5lZXJzICBUZWNobmljaWFuIFZhY2FuY3kgQCAg
+DQpiY3Bsb25saW5lLmNvLmluIGFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICBEYWls
+eS4NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KTkhQQyBS
+ZWNydWl0bWVudCAyMDE5IC0gMzYgVHJhZGUgQXBwcmVudGljZXMgVmFjYW5jeSBAIG5ocGNpbmRp
+YS5jb20NCg0KUG9zdGVkOiAwOSBBcHIgMjAxOSAwMToxMyBBTSBQRFQNCmh0dHA6Ly9mZWVkcHJv
+eHkuZ29vZ2xlLmNvbS9+ci9TYXJrYXJpLU5hdWtyaS1Xb3JsZC9+My9FdlMtbkNUSWFKZy8/dXRt
+X3NvdXJjZT1mZWVkYnVybmVyJnV0bV9tZWRpdW09ZW1haWwNCg0KDQpOSFBDIFJlY3J1aXRtZW50
+IDIwMTkgTkhQQyBha2EgTmF0aW9uYWwgSHlkcm9lbGVjdHJpYyBQb3dlciBDb3Jwb3JhdGlvbiAg
+DQppbnZpdGVzIGFwcGxpY2F0aW9uIGZvciB0aGUgcG9zdCBvZiAzNiBUcmFkZSBBcHByZW50aWNl
+cy4gQXBwbHkgT25saW5lICANCmJlZm9yZSAxMCBNYXkgMjAxOS4gTkhQQyBSZWNydWl0bWVudCBR
+dWFsaWZpY2F0aW9uL2VsaWdpYmlsaXR5IGNvbmRpdGlvbnMsICANCmhvdyB0byBhcHBseSAmIG90
+aGVyIHJ1bGVzIGFyZSBnaXZlbiBiZWxvd+KApk9mZmljaWFsIFdlYnNpdGUgaXMgIA0Kd3d3Lm5o
+cGNpbmRpYS5jb20uIE5hdGlvbmFsIEh5ZHJvZWxlY3RyaWMgUG93ZXIgQ29ycG9yYXRpb24g4oCT
+IE5IUEMgIA0KUmVjcnVpdG1lbnQg4oCTIDM2IFRyYWRlIEFwcHJlbnRpY2VzIFZhY2FuY3kg4oCT
+IExhc3QgRGF0ZSAxMCBNYXkgMjAxOSBQb3N0ICANCk5hbWUuLi4NCg0KVGhlIHBvc3QgTkhQQyBS
+ZWNydWl0bWVudCAyMDE5ICAzNiBUcmFkZSBBcHByZW50aWNlcyBWYWNhbmN5IEAgIA0KbmhwY2lu
+ZGlhLmNvbSBhcHBlYXJlZCBmaXJzdCBvbiBTYXJrYXJpIE5hdWtyaSAgRGFpbHkuDQoNCi8vLy8v
+Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8NClJhaWx3YXkgUmVjcnVpdG1l
+bnQgQm9hcmQgKFJSQikgRXhhbSBTeWxsYWJ1cyAtIEdyb3VwLUQgQ2xhc3MtSVYgRXhhbQ0KDQpQ
+b3N0ZWQ6IDA5IEFwciAyMDE5IDEyOjUxIEFNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUu
+Y29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zLzN5cUVYOXJQZHF3Lz91dG1fc291cmNlPWZl
+ZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNClZpc2l0IHRoaXMgcGFnZSBhbGwgUmFpbHdh
+eSBSZWNydWl0bWVudCBCb2FyZCBzeWxsYWJ1cyBmb3IgSnVuaW9yIEVuZ2luZWVyLCAgDQpHcm91
+cC1EIENsYXNzLUlWLMKgQXNzaXN0YW50IExvY28gUGlsb3QgKEFMUCksIFRlY2huaWNpYW5zICYg
+U3ViLUluc3BlY3RvcnMgIA0KJiBDb25zdGFibGVzIEV4YW0gYW5kIGFsbCBvdGhlciBSUkIgc3ls
+bGFidXMuwqBJdCB3aWxsIGdpdmUgeW91IGEgYnJpZWYgaWRlYSAgDQpvbiBob3cgdG8gc3RhcnQg
+eW91ciBleGFtIHByZXBhcmF0aW9ucy4gUlJCIFJlY3J1aXRtZW50IFJSQiBSZXN1bHQgUlJCICAN
+CkFuc3dlciBLZXkgUlJCIEFkbWl0IENhcmQgUmFpbHdheSBSZWNydWl0bWVudCBCb2FyZCAoUlJC
+KSDigJMgR3JvdXAtRCAgDQpDbGFzcy1JViBFeGFtIFN5bGxhYnVzLCBQYXR0ZXJuLi4uDQoNClRo
+ZSBwb3N0IFJhaWx3YXkgUmVjcnVpdG1lbnQgQm9hcmQgKFJSQikgRXhhbSBTeWxsYWJ1cyAgR3Jv
+dXAtRCBDbGFzcy1JViAgDQpFeGFtIGFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICBE
+YWlseS4NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KQUlJ
+TVMgQmh1YmFuZXN3YXIgUmVjcnVpdG1lbnQgMjAxOSAtIDAyIFJlc2VhcmNoIGFzc29jaWF0ZSBA
+ICANCmFpaW1zYmh1YmFuZXN3YXIubmljLmluDQoNClBvc3RlZDogMDkgQXByIDIwMTkgMTI6MTgg
+QU0gUERUDQpodHRwOi8vZmVlZHByb3h5Lmdvb2dsZS5jb20vfnIvU2Fya2FyaS1OYXVrcmktV29y
+bGQvfjMvOUpaQ0ROaVJEWGcvP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWls
+DQoNCg0KQUlJTVMgQmh1YmFuZXN3YXIgUmVjcnVpdG1lbnQgMjAxOSBBSUlNUyBha2EgQWxsIElu
+ZGlhIEluc3RpdHV0ZSBvZiBNZWRpY2FsICANClNjaWVuY2VzLCBCaHViYW5lc3dhciBJbnZpdGVz
+IGFwcGxpY2F0aW9ucyBmb3IgdGhlIHBvc3Qgb2YgMDIgUmVzZWFyY2ggIA0KYXNzb2NpYXRlLiBX
+YWxrLWluLUludGVydmlldyAyMCBBcHJpbCAyMDE5LiBBSUlNUyBCaHViYW5lc3dhciBSZWNydWl0
+bWVudCAgDQpRdWFsaWZpY2F0aW9uLyBlbGlnaWJpbGl0eSBjb25kaXRpb25zLCBob3cgdG8gYXBw
+bHkgJiBvdGhlciBydWxlcyBhcmUgZ2l2ZW4gIA0KYmVsb3figKbCoCBPZmZpY2lhbCBXZWJzaXRl
+IGlzIHd3dy5haWltc2JodWJhbmVzd2FyLm5pYy5pbiBBSUlNUyBQYXRuYSBBSUlNUyAgDQpKb2Ro
+cHVyIEFJSU1TIFJhaXB1ciBBSUlNUyBEZWxoaSBBbGwgSW5kaWEgSW5zdGl0dXRlIG9mIE1lZGlj
+YWwgU2NpZW5jZXMgLi4uDQoNClRoZSBwb3N0IEFJSU1TIEJodWJhbmVzd2FyIFJlY3J1aXRtZW50
+IDIwMTkgIDAyIFJlc2VhcmNoIGFzc29jaWF0ZSBAICANCmFpaW1zYmh1YmFuZXN3YXIubmljLmlu
+IGFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICBEYWlseS4NCg0KLy8vLy8vLy8vLy8v
+Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KQ1NNQ1JJIFJlY3J1aXRtZW50IDIwMTkg
+LSBQcm9qZWN0IEFzc2lzdGFudCBWYWNhbmN5IEAgY3NtY3JpLm9yZw0KDQpQb3N0ZWQ6IDA4IEFw
+ciAyMDE5IDExOjIzIFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1Nhcmth
+cmktTmF1a3JpLVdvcmxkL34zL1lwQ1p0a3ZfNW84Lz91dG1fc291cmNlPWZlZWRidXJuZXImdXRt
+X21lZGl1bT1lbWFpbA0KDQoNCkNTTUNSSSBSZWNydWl0bWVudCAyMDE5IENTTUNSSSBha2EgQ2Vu
+dHJhbCBTYWx0ICYgTWFyaW5lIENoZW1pY2FscyBSZXNlYXJjaCAgDQpJbnN0aXR1dGUgSW52aXRl
+cyBhcHBsaWNhdGlvbnMgZm9yIHRoZSBwb3N0IG9mIDAxIFByb2plY3QgQXNzaXN0YW50IExldmVs
+IOKAkyAgDQpJSSAuIFdhbGstaW4tSW50ZXJ2aWV3IDMwIEFwcmlsIDIwMTkuIENTTUNSSSBSZWNy
+dWl0bWVudCBRdWFsaWZpY2F0aW9uLyAgDQplbGlnaWJpbGl0eSBjb25kaXRpb25zLCBob3cgdG8g
+YXBwbHkgJiBvdGhlciBydWxlcyBhcmUgZ2l2ZW4gYmVsb3figKYgIA0KT2ZmaWNpYWwgV2Vic2l0
+ZSBpcyB3d3cuY3NtY3JpLm9yZyBDZW50cmFsIFNhbHQgJiBNYXJpbmUgQ2hlbWljYWxzIFJlc2Vh
+cmNoICANCkluc3RpdHV0ZSAgQ1NNQ1JJIFJlY3J1aXRtZW50ICBQcm9qZWN0IEFzc2lzdGFudC4u
+Lg0KDQpUaGUgcG9zdCBDU01DUkkgUmVjcnVpdG1lbnQgMjAxOSAgUHJvamVjdCBBc3Npc3RhbnQg
+VmFjYW5jeSBAIGNzbWNyaS5vcmcgIA0KYXBwZWFyZWQgZmlyc3Qgb24gU2Fya2FyaSBOYXVrcmkg
+IERhaWx5Lg0KDQovLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vDQo5
+IEFwcmlsIE1DUSBDdXJyZW50IEFmZmFpcnMgVmlkZW8gRm9yIFNTQywgSUJQUyBQTyBDbGVyayBS
+UkIgTkVUIFVQUFNDIEV4YW0gIA0KUHJlcHJhdGlvbg0KDQpQb3N0ZWQ6IDA4IEFwciAyMDE5IDEw
+OjQ3IFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3Jp
+LVdvcmxkL34zL1pzSFpOdVhRaWNVLz91dG1fc291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1l
+bWFpbA0KDQoNCu+7vyBRLjEuIOCkueCkvuCksiDgpLngpYAg4KSu4KWH4KSCIOCkleCljOCkqCDg
+pLjgpL4g4KSm4KWH4KS2IOCkheCkguCkpOCksOCljeCksOCkvuCkt+CljeKAjeCkn+CljeCksOCl
+gOCkryDgpLjgpYzgpLAg4KSX4KSg4KSs4KSC4KSn4KSoIOCkruClh+CkgiDgpLbgpL7gpK7gpL/g
+pLIg4KS54KWB4KSGIOCkueCliCA/ICANCmEuIOCkleCljeCksOCli+Ckj+CktuCkv+Ckr+CkviBi
+LiDgpJrgpL/gpLLgpYAgYy4g4KSs4KWL4KSy4KWA4KS14KS/4KSv4KS+IGQuIOCkh+CkqOCkruCl
+h+CkgiDgpLjgpYcg4KSV4KWL4KSIIOCkqOCkueClgOCkgiBBbnMgOiBjLiDgpKzgpYvgpLLgpYDg
+pLXgpL/gpK/gpL4gIA0KUS4yLiDgpLngpL7gpLIg4KS54KWAIOCkruClh+CkgiDgpJXgpYjgpKvg
+pYcg4KS44KS+4KSH4KSC4KSf4KS/4KSr4KS/4KSVIOCkleCkv+CkuCDgpLDgpL7gpJzgpY3igI3g
+pK8g4KSu4KWH4KSCIOCksuCkvuCkguCkmiDgpJXgpL/gpK/gpL4g4KSX4KSv4KS+IOCkueCliCA/
+IGEuIOCkleCksOCljeCkqOCkvuCkn+CklSAgDQpiLiDgpJXgpYfgpLDgpLIgYy4g4KSu4KS54KS+
+4KSw4KS+4KS34KWN4oCN4KSf4KWN4KSwIGQuIOCkh+CkqOCkruClh+CkgiDgpLjgpYcg4KSV4KWL
+4KSIIOCkqOCkueClgOCkgiBBbnMgOiBiLiDgpJXgpYfgpLDgpLIuLi4NCg0KVGhlIHBvc3QgOSBB
+cHJpbCBNQ1EgQ3VycmVudCBBZmZhaXJzIFZpZGVvIEZvciBTU0MsIElCUFMgUE8gQ2xlcmsgUlJC
+IE5FVCAgDQpVUFBTQyBFeGFtIFByZXByYXRpb24gYXBwZWFyZWQgZmlyc3Qgb24gU2Fya2FyaSBO
+YXVrcmkgIERhaWx5Lg0KDQovLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vDQpVS1BTQyBSZXN1bHQgLSAgTG93ZXIgU3Vib3JkaW5hdGUgU2VydmljZSBJbnRlcnZpZXcg
+UmVzdWx0IDIwMTkNCg0KUG9zdGVkOiAwOCBBcHIgMjAxOSAxMDoyMSBQTSBQRFQNCmh0dHA6Ly9m
+ZWVkcHJveHkuZ29vZ2xlLmNvbS9+ci9TYXJrYXJpLU5hdWtyaS1Xb3JsZC9+My9EVzFLQ3RfTEJC
+Yy8/dXRtX3NvdXJjZT1mZWVkYnVybmVyJnV0bV9tZWRpdW09ZW1haWwNCg0KDQpVdHRhcmFraGFu
+ZCBQdWJsaWMgU2VydmljZSBDb21taXNzaW9uIChVS1BTQykgQ2hhaXJtYW46IE1hai5HZW4uIEFu
+YW5kICANClNpbmdoIFJhd2F0KiBMb2NhdGlvbjogR3VydWt1bCBLYW5ncmksIEhhcmlkd2FyLCBV
+dHRhcmFraGFuZCBGb3VuZGVkOiAxNCAgDQpNYXJjaCAyMDAxIE1vdHRvOiDgpKjgpL/gpLfgpY3g
+pKrgpJXgpY3gpLfgpKTgpL4g4KSJ4KSk4KWN4KSV4KWD4KS34KWN4KSf4KSk4KS+IOCkquCkvuCk
+sOCkpuCksOCljeCktuCkv+CkpOCkviBGb3JtYXRpb246IDE0IE1hcmNoIDIwMDEgIA0KVUtQU0Mg
+UmVjcnVpdG1lbnQgVUtQU0MgQWRtaXQgQ2FyZCBVS01TU0IgU1NTQ1VLIEdPViBMb3dlciBTdWJv
+cmRpbmF0ZSAgDQpTZXJ2aWNlIEludGVydmlldyBSZXN1bHQsIEN1dG9mZiBNYXJrcyAyMDE5IFV0
+dGFyYWtoYW5kIFB1YmxpYyBTZXJ2aWNlICANCkNvbW1pc3Npb24sIFVLUFNDIEhhcyBSZWNlbnRs
+eSBVcGxvYWRlZCBJbnRlcnZpZXcgUmVzdWx0ICYgQ3V0b2ZmIE1hcmtzIGZvciAgDQpUaGUgUmVj
+cnVpdG1lbnQgUG9zdC4uLg0KDQpUaGUgcG9zdCBVS1BTQyBSZXN1bHQgICBMb3dlciBTdWJvcmRp
+bmF0ZSBTZXJ2aWNlIEludGVydmlldyBSZXN1bHQgMjAxOSAgDQphcHBlYXJlZCBmaXJzdCBvbiBT
+YXJrYXJpIE5hdWtyaSAgRGFpbHkuDQoNCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vLy8vLy8vLy8NClVQU0VTU0IgUmVzdWx0IC0gVEdULCBQR1QgMjAxMSBGaW5hbCBSZXN1bHQg
+MjAxOQ0KDQpQb3N0ZWQ6IDA4IEFwciAyMDE5IDA5OjMzIFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94
+eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL3BJUHJEaWdaU3BjLz91dG1f
+c291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNClV0dGFyIFByYWRlc2ggU2Vj
+b25kYXJ5IEVkdWNhdGlvbiBTZXJ2aWNlIFNlbGVjdGlvbiBCb2FyZCBBZGRyZXNzIDogMjMsICAN
+CkFsbGVuZ2FuaiwgUHJheWFncmFqLCBVdHRhciBQcmFkZXNoIDIxMTAwMiBQaG9uZSA6IDA1MzIg
+MjQ2IDY4NTEgT2ZmaWNpYWwgIA0KV2Vic2l0ZSA6IHd3dy51cHNlc3NiLm9yZyBVUFNTU0MgVVBQ
+U0MgVVBQQ0wgVVAgUG9saWNlIFVQU0VTU0LCoCBUR1QsIFBHVCAgDQoyMDExIEZpbmFsIFJlc3Vs
+dCAyMDE5IFV0dGFyIFByYWRlc2ggU2Vjb25kYXJ5IEVkdWNhdGlvbiBTZXJ2aWNlIFNlbGVjdGlv
+biAgDQpCb2FyZCwgVVBTRVNTQiBIYXMgUmVjZW50bHkgVXBsb2FkZWTCoCBUR1QsIFBHVCAyMDEx
+wqAgUmVjcnVpdG1lbnQgRmluYWwgIA0KUmVzdWx0IDIwMTkuIFRob3NlIENhbmRpZGF0ZXMgV2hv
+IEhhdmUgQXBwbGllZCBGb3IuLi4NCg0KVGhlIHBvc3QgVVBTRVNTQiBSZXN1bHQgIFRHVCwgUEdU
+IDIwMTEgRmluYWwgUmVzdWx0IDIwMTkgYXBwZWFyZWQgZmlyc3Qgb24gIA0KU2Fya2FyaSBOYXVr
+cmkgIERhaWx5Lg0KDQovLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+DQpSUkIgIE5UUEMgR3JvdXAgRCAtIEZyZWUgT25saW5lIFN0dWR5IC0gMSw1MCwwMDAgVmFjYW5j
+eSDgpK7gpYfgpIIg4KS44KWHIDEsMDAsMDAwICANClNlbGVjdGlvbiDgpLngpK4g4KSm4KWH4KSC
+4KSX4KWHIEpvaW4gIE5vdw0KDQpQb3N0ZWQ6IDA4IEFwciAyMDE5IDA4OjQwIFBNIFBEVA0KaHR0
+cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL1pCNUVa
+VDdIUDFJLz91dG1fc291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNCkhpIEZy
+aWVuZCwgV2UganVzdCBqdXN0IGxhdW5jaGVkIG91ciBZb3VUdWJlIENoYW5uZWwgRURVV0lTRUdV
+UlUgYW5kIG91ciAgDQpwcmltZSBmb2N1cyBpcyBjdXJyZW50IEdyb3VwRCwgTlRQQyBhbmQgb3Ro
+ZXIgUlJCIHZhY2FuY2llcy4gT3VyIHRlYW0gaXMgIA0KZGVkaWNhdGlvbiB0byB0ZWFjaCB5b3Ug
+ZnJvbSBiYXNpYyB0byBhZHZhbmNlIGxldmVsLiBXZSB3aWxsIHRlYWNoIHlvdSwgIA0KZ3VpZGUg
+eW91ICYgbW90aXZhdGUgeW91IHN1Y2ggYSB3YXkgdGhhdCB5b3Ugd2lsbCBjcmFjayB0aGUgUlJC
+IHRoaXMgIA0Kc2Vzc2lvbi4gU28gZ3V5cyBmYXN0ZW4geW91ciBzZWF0IGJlbHQuLi4NCg0KVGhl
+IHBvc3QgUlJCICBOVFBDIEdyb3VwIEQgIEZyZWUgT25saW5lIFN0dWR5ICAxLDUwLDAwMCBWYWNh
+bmN5IOCkruClh+CkgiDgpLjgpYcgIA0KMSwwMCwwMDAgU2VsZWN0aW9uIOCkueCkriDgpKbgpYfg
+pILgpJfgpYcgSm9pbiAgTm93IGFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICAgDQpE
+YWlseS4NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KSFNT
+QyBSZWNydWl0bWVudCAyMDE5IC0gMTAyNyBHcm91cCBEICYgVEdUIFZhY2FuY3kgQCBoc3NjLmdv
+di5pbg0KDQpQb3N0ZWQ6IDA4IEFwciAyMDE5IDA2OjE5IFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94
+eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL3dXWEp3dHZ3YTQ4Lz91dG1f
+c291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNCkhTU0MgUmVjcnVpdG1lbnQg
+MjAxOSBIU1NDIGFrYSBIYXJ5YW5hIFN0YWZmIFNlbGVjdGlvbiBDb21taXNzaW9uIGludml0ZXMg
+IA0KYXBwbGljYXRpb25zIGZvciB0aGUgcG9zdCBvZiAxMDI3IEdyb3VwIEQgJiBUR1QgVmFjYW5j
+eSAyMDE5LiBIU1NDICANClJlY3J1aXRtZW50IFF1YWxpZmljYXRpb24vIGVsaWdpYmlsaXR5IGNv
+bmRpdGlvbnMsIGhvdyB0byBhcHBseSAmIG90aGVyICANCnJ1bGVzIGFyZSBnaXZlbiBiZWxvd+KA
+piBPZmZpY2lhbCB3ZWJzaXRlIGlzIGhzc2MuZ292LmluIEhhcnlhbmEgU3RhZmYgIA0KU2VsZWN0
+aW9uIENvbW1pc3Npb24gIEhTU0MgUmVjcnVpdG1lbnQgMjAxOSDigJMgMjQ5IEdyb3VwIEQgVmFj
+YW5jeSDigJMgTGFzdCAgDQpEYXRlIDIyIEFwcmlsIFBvc3QgTmFtZS4uLg0KDQpUaGUgcG9zdCBI
+U1NDIFJlY3J1aXRtZW50IDIwMTkgIDEwMjcgR3JvdXAgRCAgVEdUIFZhY2FuY3kgQCBoc3NjLmdv
+di5pbiAgDQphcHBlYXJlZCBmaXJzdCBvbiBTYXJrYXJpIE5hdWtyaSAgRGFpbHkuDQoNCi8vLy8v
+Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8NClVQUENMIFJlY3J1aXRtZW50
+IDIwMTkgLSA0MTAyIFRlY2huaWNpYW4gKExpbmUpIFZhY2FuY3kgQCB1cGVuZXJneS5pbg0KDQpQ
+b3N0ZWQ6IDA4IEFwciAyMDE5IDA2OjEwIFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUu
+Y29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zLzV3THJVdXdSdGRRLz91dG1fc291cmNlPWZl
+ZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNClVQUENMIFJlY3J1aXRtZW50IDIwMTkgVVBQ
+Q0wgYWthIFV0dGFyIFByYWRlc2ggUG93ZXIgQ29ycG9yYXRpb24gTGltaXRlZCAgDQppbnZpdGVz
+IGFwcGxpY2F0aW9uIGZvciB0aGUgcG9zdCBvZiA0MTAyIFRlY2huaWNpYW4gKExpbmUpLiBBcHBs
+eSBPbmxpbmUgIA0KYmVmb3JlIDMwIEFwcmlsIDIwMTkuIFVQUENMIFJlY3J1aXRtZW50IFF1YWxp
+ZmljYXRpb24vZWxpZ2liaWxpdHkgIA0KY29uZGl0aW9ucywgaG93IHRvIGFwcGx5ICYgb3RoZXIg
+cnVsZXMgYXJlIGdpdmVuIGJlbG934oCmIE9mZmljaWFsIHdlYnNpdGUgaXMgIA0Kd3d3LnVwZW5l
+cmd5LmluIFV0dGFyIFByYWRlc2ggUG93ZXIgQ29ycG9yYXRpb24gTGltaXRlZCAgVVBQQ0wgUmVj
+cnVpdG1lbnQgIA0KMjAxOSAgNDEwMiBUZWNobmljaWFuIChMaW5lKSBWYWNhbmN5ICBMYXN0IERh
+dGUgMzAuLi4NCg0KVGhlIHBvc3QgVVBQQ0wgUmVjcnVpdG1lbnQgMjAxOSAgNDEwMiBUZWNobmlj
+aWFuIChMaW5lKSBWYWNhbmN5IEAgIA0KdXBlbmVyZ3kuaW4gYXBwZWFyZWQgZmlyc3Qgb24gU2Fy
+a2FyaSBOYXVrcmkgIERhaWx5Lg0KDQovLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vLy8vLy8vDQpDR1ZZQVBBTSBSZWNydWl0bWVudCAyMDE5IC0gMTQ0MjggQXNzaXN0YW50IFRl
+YWNoZXIsIFRlYWNoZXIgJiBMZWN0dXJlciAgDQpWYWNhbmN5IEAgY2d2eWFwYW0uY2hvaWNlLmdv
+di5pbg0KDQpQb3N0ZWQ6IDA4IEFwciAyMDE5IDA1OjU3IFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94
+eS5nb29nbGUuY29tL35yL1NhcmthcmktTmF1a3JpLVdvcmxkL34zL2gxSEVPT1BaZmJBLz91dG1f
+c291cmNlPWZlZWRidXJuZXImdXRtX21lZGl1bT1lbWFpbA0KDQoNCkNHVllBUEFNIFJlY3J1aXRt
+ZW50IDIwMTkgQ0dWWUFQQU0gYWthIENoaGF0dGlzZ2FyaCBQcm9mZXNzaW9uYWwgIA0KRXhhbWlu
+YXRpb24gQm9hcmQgaW52aXRlcyBhcHBsaWNhdGlvbiBmb3IgdGhlIHBvc3RzIG9mIDE0NDI4IEFz
+c2lzdGFudCAgDQpUZWFjaGVyLCBUZWFjaGVyICYgTGVjdHVyZXIgVmFjYW5jecKgIDIwMTkuIENH
+VllBUEFNIFJlY3J1aXRtZW50ICANClF1YWxpZmljYXRpb24vIGVsaWdpYmlsaXR5IGNvbmRpdGlv
+bnMsIGhvdyB0byBhcHBseSAmIG90aGVyIHJ1bGVzIGFyZSBnaXZlbiAgDQpiZWxvd+KApiBPZmZp
+Y2lhbCBXZWJzaXRlIGlzIGNndnlhcGFtLmNob2ljZS5nb3YuaW4gQ2hoYXR0aXNnYXJoIFByb2Zl
+c3Npb25hbCAgDQpFeGFtaW5hdGlvbiBCb2FyZCAgQ0dWWUFQQU0gUmVjcnVpdG1lbnQgMjAxOSAt
+MTQ0MjggQXNzaXN0YW50IFRlYWNoZXIsICANClRlYWNoZXIgJiBMZWN0dXJlciBWYWNhbmN5ICBM
+YXN0IERhdGUgMTIuLi4NCg0KVGhlIHBvc3QgQ0dWWUFQQU0gUmVjcnVpdG1lbnQgMjAxOSAgMTQ0
+MjggQXNzaXN0YW50IFRlYWNoZXIsIFRlYWNoZXIgICANCkxlY3R1cmVyIFZhY2FuY3kgQCBjZ3Z5
+YXBhbS5jaG9pY2UuZ292LmluIGFwcGVhcmVkIGZpcnN0IG9uIFNhcmthcmkgTmF1a3JpICAgDQpE
+YWlseS4NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLw0KQ0dQ
+U0MgUmVjcnVpdG1lbnQgMjAxOSAtIDE1ODEgTGlicmFyaWFuLCBTcG9ydHMgT2ZmaWNlciwgQ2l2
+aWwgSnVkZ2UsICANCkFzc2lzdGFudCBQcm9mZXNzb3IsIFByb2Zlc3NvciwgQXNzb2NpYXRlIFBy
+b2Zlc3NvciAmIEhPRCBWYWNhbmN5IEAgIA0KcHNjLmNnLmdvdi5pbg0KDQpQb3N0ZWQ6IDA4IEFw
+ciAyMDE5IDA1OjQyIFBNIFBEVA0KaHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1Nhcmth
+cmktTmF1a3JpLVdvcmxkL34zL20xWVg2amtqSzRvLz91dG1fc291cmNlPWZlZWRidXJuZXImdXRt
+X21lZGl1bT1lbWFpbA0KDQoNCkNHUFNDIFJlY3J1aXRtZW50IDIwMTkgQ0dQU0MgYWthIENoaGF0
+dGlzZ2FyaCBQdWJsaWMgU2VydmljZSBDb21taXNzaW9uICANCmludml0ZXMgT25saW5lIEFwcGxp
+Y2F0aW9uIGZvciAxNTgxIExpYnJhcmlhbiwgU3BvcnRzIE9mZmljZXIsIENpdmlsIEp1ZGdlLCAg
+DQpBc3Npc3RhbnQgUHJvZmVzc29yLCBQcm9mZXNzb3IsIEFzc29jaWF0ZSBQcm9mZXNzb3IgJiBI
+T0QgVmFjYW5jeSAyMDE5LiAgDQpDR1BTQyBSZWNydWl0bWVudCBRdWFsaWZpY2F0aW9uL2VsaWdp
+YmlsaXR5IGNvbmRpdGlvbnMsIGhvdyB0byBhcHBseSAmICANCm90aGVyIHJ1bGVzIGFyZSBnaXZl
+biBiZWxvd+KApk9mZmljaWFsIHdlYnNpdGUgaXMgd3d3LnBzYy5jZy5nb3YuaW4gIA0KQ2hoYXR0
+aXNnYXJoIFB1YmxpYyBTZXJ2aWNlIENvbW1pc3Npb24gIENHUFNDIFJlY3J1aXRtZW50IDIwMTkg
+IDExNyAgDQpMaWJyYXJpYW4gJiBTcG9ydHMgT2ZmaWNlciBWYWNhbmN5IC4uLg0KDQpUaGUgcG9z
+dCBDR1BTQyBSZWNydWl0bWVudCAyMDE5ICAxNTgxIExpYnJhcmlhbiwgU3BvcnRzIE9mZmljZXIs
+IENpdmlsICANCkp1ZGdlLCBBc3Npc3RhbnQgUHJvZmVzc29yLCBQcm9mZXNzb3IsIEFzc29jaWF0
+ZSBQcm9mZXNzb3IgIEhPRCBWYWNhbmN5IEAgIA0KcHNjLmNnLmdvdi5pbiBhcHBlYXJlZCBmaXJz
+dCBvbiBTYXJrYXJpIE5hdWtyaSAgRGFpbHkuDQoNCi0tDQpZb3UgYXJlIHN1YnNjcmliZWQgdG8g
+ZW1haWwgdXBkYXRlcyBmcm9tICJTYXJrYXJpIE5hdWtyaSAgRGFpbHkuIg0KVG8gc3RvcCByZWNl
+aXZpbmcgdGhlc2UgZW1haWxzLCB5b3UgbWF5IHVuc3Vic2NyaWJlIG5vdzogIA0KaHR0cHM6Ly9m
+ZWVkYnVybmVyLmdvb2dsZS5jb20vZmIvYS9tYWlsdW5zdWJzY3JpYmU/az1uMHhxSGlVZ1NNMjZL
+MzNKdGJ2RDZsS29hSkENCg0KRW1haWwgZGVsaXZlcnkgcG93ZXJlZCBieSBHb29nbGUuDQpHb29n
+bGUsIDE2MDAgQW1waGl0aGVhdHJlIFBhcmt3YXksIE1vdW50YWluIFZpZXcsIENBIDk0MDQzLCBV
+bml0ZWQgU3RhdGVzDQoNCg==
+--0000000000005bdcfd058620fd37
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>Sarkari Naukri  Daily</title>
+</head>
+<body>
+<style type=3D"text/css">
+
+                        h1 a:hover {background-color:#888;color:#fff ! impo=
+rtant;}
+
+                        div#emailbody table#itemcontentlist tr td div ul {
+                                        list-style-type:square;
+                                        padding-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div block=
+quote {
+                                padding-left:6px;
+                                border-left: 6px solid #dadada;
+                                margin-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div li {
+                                margin-bottom:1em;
+                                margin-left:1em;
+                        }
+
+
+                        table#itemcontentlist tr td a:link, table#itemconte=
+ntlist tr td a:visited, table#itemcontentlist tr td a:active, ul#summarylis=
+t li a {
+                                color:#0000ff;
+                                font-weight:bold;
+                                text-decoration:none;
+                        }      =20
+
+                        img {border:none;}
+
+
+                </style>
+<div xmlns=3D"http://www.w3.org/1999/xhtml" id=3D"emailbody" style=3D"margi=
+n:0 2em;font-family:Verdana, Arial, Helvetica, sans-serif;line-height:140%;=
+font-size:12px;color:#000000;">
+<table style=3D"border:0;padding:0;margin:0;width:100%">
+<tr>
+<td style=3D"vertical-align:top" width=3D"99%">
+<h1 style=3D"margin:0;padding-bottom:6px;">
+<a style=3D"color:#888;font-size:22px;font-family:Verdana, Arial, Helvetica=
+, sans-serif;font-weight:normal;text-decoration:none;" href=3D"http://www.s=
+arkarinaukridaily.in" title=3D"(http://www.sarkarinaukridaily.in)">Latest S=
+arkari Naukri - Goverment Jobs Openings</a>
+</h1>
+</td>
+<td width=3D"1%" />
+</tr>
+</table>
+<hr style=3D"border:1px solid #ccc;padding:0;margin:0" />
+<ul style=3D"clear:both;padding:0 0 0 1.2em;width:100%" id=3D"summarylist">
+<li>
+<a href=3D"#1">Indian Air force Result &ndash; Air Force X | Y Group Result=
+ 2019</a>
+</li>
+<li>
+<a href=3D"#2">UPSC CDS Result &ndash; Combined Defence Service CDS I Resul=
+t 2019</a>
+</li>
+<li>
+<a href=3D"#3">UP Police Result &ndash; Constable Additional Final Result 2=
+019</a>
+</li>
+<li>
+<a href=3D"#4">Top Current Affairs For Sarkari Naukri Preparation 09 April =
+2019</a>
+</li>
+<li>
+<a href=3D"#5">BCPL Recruitment 2019 &ndash; 66 Graduate Engineers &amp; Te=
+chnician Vacancy @ bcplonline.co.in</a>
+</li>
+<li>
+<a href=3D"#6">NHPC Recruitment 2019 &ndash; 36 Trade Apprentices Vacancy @=
+ nhpcindia.com</a>
+</li>
+<li>
+<a href=3D"#7">Railway Recruitment Board (RRB) Exam Syllabus &ndash; Group-=
+D Class-IV Exam</a>
+</li>
+<li>
+<a href=3D"#8">AIIMS Bhubaneswar Recruitment 2019 &ndash; 02 Research assoc=
+iate @ aiimsbhubaneswar.nic.in</a>
+</li>
+<li>
+<a href=3D"#9">CSMCRI Recruitment 2019 &ndash; Project Assistant Vacancy @ =
+csmcri.org</a>
+</li>
+<li>
+<a href=3D"#10">9 April MCQ Current Affairs Video For SSC, IBPS PO Clerk RR=
+B NET UPPSC Exam Prepration</a>
+</li>
+<li>
+<a href=3D"#11">UKPSC Result &ndash;  Lower Subordinate Service Interview R=
+esult 2019</a>
+</li>
+<li>
+<a href=3D"#12">UPSESSB Result &ndash; TGT, PGT 2011 Final Result 2019</a>
+</li>
+<li>
+<a href=3D"#13">RRB  NTPC Group D &ndash; Free Online Study &ndash; 1,50,00=
+0 Vacancy =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B8=E0=A5=87 1,00,000 Selection=
+ =E0=A4=B9=E0=A4=AE =E0=A4=A6=E0=A5=87=E0=A4=82=E0=A4=97=E0=A5=87 Join  Now=
+</a>
+</li>
+<li>
+<a href=3D"#14">HSSC Recruitment 2019 &ndash; 1027 Group D &amp; TGT Vacanc=
+y @ hssc.gov.in</a>
+</li>
+<li>
+<a href=3D"#15">UPPCL Recruitment 2019 &ndash; 4102 Technician (Line) Vacan=
+cy @ upenergy.in</a>
+</li>
+<li>
+<a href=3D"#16">CGVYAPAM Recruitment 2019 &ndash; 14428 Assistant Teacher, =
+Teacher &amp; Lecturer Vacancy @ cgvyapam.choice.gov.in</a>
+</li>
+<li>
+<a href=3D"#17">CGPSC Recruitment 2019 &ndash; 1581 Librarian, Sports Offic=
+er, Civil Judge, Assistant Professor, Professor, Associate Professor &amp; =
+HOD Vacancy @ psc.cg.gov.in</a>
+</li>
+</ul>
+<table id=3D"itemcontentlist">
+<tr xmlns=3D"">
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"1" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/hHdL1YoMW0w/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">Indian Air =
+force Result &ndash; Air Force X | Y Group Result 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 09:25 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/01/India=
+n-Air-Force2.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>Indian Air =
+force Motto : =E0=A4=A8=E0=A4=AD=E0=A4=83 =E0=A4=B8=E0=A5=8D=E0=A4=AA=E0=A5=
+=83=E0=A4=B6=E0=A4=82 =E0=A4=A6=E0=A5=80=E0=A4=AA=E0=A5=8D=E0=A4=A4=E0=A4=
+=AE=E0=A5=8D (Sanskrit); IAST : Nabha=E1=B8=A5 Spr=CC=A5=C5=9Ba=E1=B9=81 D=
+=C4=ABptam; (Touch the Sky with Glory) Headquarters : New Delhi Founded : 8=
+ October 1932, India IAF Recruitment IAF Admit Card Indian Army Indian Navy=
+ Air Force X | Y Group Result 2019 Indian Airforce Airmen Selection Test Ha=
+s Recently Uploaded Uploaded Result for The Recruitment Post...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/in=
+dian-air-force-result/">Indian Air force Result &#8211; Air Force X | Y Gro=
+up Result 2019</a> appeared first on <a rel=3D"nofollow" href=3D"http://www=
+.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://fe=
+eds.feedburner.com/~r/Sarkari-Naukri-World/~4/hHdL1YoMW0w?utm_source=3Dfeed=
+burner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"2" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/d_ZDIEyWl68/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">UPSC CDS Re=
+sult &ndash; Combined Defence Service CDS I Result 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 08:03 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2018/02/upsc.=
+jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>UNION PUBLIC SERVICE COM=
+MISSION (UPSC) Dholpur House, Shahjahan Road, New Delhi &#8211; 110069 Faci=
+litation Counter : 011-23098543 / 23385271 / 23381125 / 23098591 Email : fe=
+edback-upsc@gov.in UPSC CDS Result &#8211; Combined Defence Service CDS I R=
+esult 2019 Union Public Service Commission, UPSC Has Recently Uploaded Comb=
+ined Defence Service CDS I Result 2019. Those Candidates Who have Appeared =
+in this Recruitment...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/up=
+sc-cds-result/">UPSC CDS Result &#8211; Combined Defence Service CDS I Resu=
+lt 2019</a> appeared first on <a rel=3D"nofollow" href=3D"http://www.sarkar=
+inaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://feeds.fee=
+dburner.com/~r/Sarkari-Naukri-World/~4/d_ZDIEyWl68?utm_source=3Dfeedburner&=
+utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"3" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/SUcaxT1FOIM/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">UP Police R=
+esult &ndash; Constable Additional Final Result 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 07:49 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/08/UP-Po=
+lice.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>Uttar Pradesh Polic=
+e Recruitment and Promotion Board , Lucknow Tulsi Ganga Complex, 19-C Legis=
+lative Assembly Marg Lucknow, Uttar Pradesh-226001 Contact No.: 9453827207 =
+Email ID : helpdesk.upprpb1617@gmail.com UPPolice Recruitment UPPolice Admi=
+t Card UPPolice Answer Key JoinIndianArmy UP Police Result &#8211; Constabl=
+e Additional Final Result 2019 Uttar Pradesh Police Recruitment and Promoti=
+on Board , Lucknow Has Recently Uploaded Final Result of the...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/up=
+-police-result/">UP Police Result &#8211; Constable Additional Final Result=
+ 2019</a> appeared first on <a rel=3D"nofollow" href=3D"http://www.sarkarin=
+aukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://feeds.feedb=
+urner.com/~r/Sarkari-Naukri-World/~4/SUcaxT1FOIM?utm_source=3Dfeedburner&ut=
+m_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"4" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/dhx26-xbX8g/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">Top Current=
+ Affairs For Sarkari Naukri Preparation 09 April 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 06:01 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2018/02/curr.=
+jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>1. Dhanush, the first in=
+digenous long-range artillery gun has been inducted into the Indian Army. =
+=E0=A4=AA=E0=A4=B9=E0=A4=B2=E0=A5=80 =E0=A4=B8=E0=A5=8D=E0=A4=B5=E0=A4=A6=
+=E0=A5=87=E0=A4=B6=E0=A5=80 =E0=A4=B2=E0=A4=82=E0=A4=AC=E0=A5=80 =E0=A4=A6=
+=E0=A5=82=E0=A4=B0=E0=A5=80 =E0=A4=95=E0=A5=80 =E0=A4=86=E0=A4=B0=E0=A5=8D=
+=E0=A4=9F=E0=A4=BF=E0=A4=B2=E0=A4=B0=E0=A5=80 =E0=A4=97=E0=A4=A8 &#8216;=E0=
+=A4=A7=E0=A4=A8=E0=A5=81=E0=A4=B7&#8217; =E0=A4=95=E0=A5=8B =E0=A4=AD=E0=A4=
+=BE=E0=A4=B0=E0=A4=A4=E0=A5=80=E0=A4=AF =E0=A4=B8=E0=A5=87=E0=A4=A8=E0=A4=
+=BE =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B6=E0=A4=BE=E0=A4=AE=E0=A4=BF=E0=A4=
+=B2 =E0=A4=95=E0=A4=BF=E0=A4=AF=E0=A4=BE =E0=A4=97=E0=A4=AF=E0=A4=BE=E0=A5=
+=A4 2. According to the PhD Chamber of Commerce and Industry, bilateral tra=
+de between India and EU is likely to reach $ 200 billion by 2022. =E0=A4=AA=
+=E0=A5=80=E0=A4=8F=E0=A4=9A=E0=A4=A1=E0=A5=80 =E0=A4=9A=E0=A5=88=E0=A4=82=
+=E0=A4=AC=E0=A4=B0 =E0=A4=91=E0=A4=AB =E0=A4=95=E0=A5=89=E0=A4=AE=E0=A4=B0=
+=E0=A5=8D=E0=A4=B8 =E0=A4=8F=E0=A4=82=E0=A4=A1...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/to=
+p-current-affairs-for-sarkari-naukri-preparation-09-april-2019/">Top Curren=
+t Affairs For Sarkari Naukri Preparation 09 April 2019</a> appeared first o=
+n <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in">Sarkari Nau=
+kri  Daily</a>.</p><img src=3D"http://feeds.feedburner.com/~r/Sarkari-Naukr=
+i-World/~4/dhx26-xbX8g?utm_source=3Dfeedburner&utm_medium=3Demail" height=
+=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"5" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/M7gpzoV9Kro/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">BCPL Recrui=
+tment 2019 &ndash; 66 Graduate Engineers &amp; Technician Vacancy @ bcplonl=
+ine.co.in</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 03:35 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2013/12/Brahm=
+aputra-Cracker-Polymer-Limited-BCPL.jpg?x63309" class=3D" wp-post-image" al=
+t=3D"" /><p>BCPL Recruitment 2019 BCPL aka Brahmaputra Cracker &amp; Polyme=
+r Limited invites Application for the post of 66 Graduate Engineers &amp; T=
+echnician. Apply Online before 30 April 2019. BCPL Recruitment Qualificatio=
+n/eligibility conditions, how to apply &amp; other rules are given below=E2=
+=80=A6 Official website is www.bcplonline.co.in Brahmaputra Cracker and Pol=
+ymer Limited &#8211; BCPL Recruitment &#8211; 66 Graduate Engineers &amp; T=
+echnician Vacancy &#8211;...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/bc=
+pl-recruitment/">BCPL Recruitment 2019 &#8211; 66 Graduate Engineers &#038;=
+ Technician Vacancy @ bcplonline.co.in</a> appeared first on <a rel=3D"nofo=
+llow" href=3D"http://www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.<=
+/p><img src=3D"http://feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/M7gpz=
+oV9Kro?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1"=
+ alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"6" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/EvS-nCTIaJg/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">NHPC Recrui=
+tment 2019 &ndash; 36 Trade Apprentices Vacancy @ nhpcindia.com</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 01:13 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/01/NHPC-=
+Limited.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>NHPC Recruitment=
+ 2019 NHPC aka National Hydroelectric Power Corporation invites application=
+ for the post of 36 Trade Apprentices. Apply Online before 10 May 2019. NHP=
+C Recruitment Qualification/eligibility conditions, how to apply &amp; othe=
+r rules are given below=E2=80=A6Official Website is www.nhpcindia.com. Nati=
+onal Hydroelectric Power Corporation =E2=80=93 NHPC Recruitment =E2=80=93 3=
+6 Trade Apprentices Vacancy =E2=80=93 Last Date 10 May 2019 Post Name...</p=
+>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/nh=
+pc-recruitment/">NHPC Recruitment 2019 &#8211; 36 Trade Apprentices Vacancy=
+ @ nhpcindia.com</a> appeared first on <a rel=3D"nofollow" href=3D"http://w=
+ww.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://=
+feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/EvS-nCTIaJg?utm_source=3Dfe=
+edburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"7" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/3yqEX9rPdqw/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">Railway Rec=
+ruitment Board (RRB) Exam Syllabus &ndash; Group-D Class-IV Exam</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 12:51 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/03/rrb.j=
+pg?x63309" class=3D" wp-post-image" alt=3D"" /><p>Visit this page all Railw=
+ay Recruitment Board syllabus for Junior Engineer, Group-D Class-IV,=C2=A0A=
+ssistant Loco Pilot (ALP), Technicians &amp; Sub-Inspectors &amp; Constable=
+s Exam and all other RRB syllabus.=C2=A0It will give you a brief idea on ho=
+w to start your exam preparations. RRB Recruitment RRB Result RRB Answer Ke=
+y RRB Admit Card Railway Recruitment Board (RRB) =E2=80=93 Group-D Class-IV=
+ Exam Syllabus, Pattern...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/rr=
+b-exam-syllabus/">Railway Recruitment Board (RRB) Exam Syllabus &#8211; Gro=
+up-D Class-IV Exam</a> appeared first on <a rel=3D"nofollow" href=3D"http:/=
+/www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http:=
+//feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/3yqEX9rPdqw?utm_source=3D=
+feedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"8" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/9JZCDNiRDXg/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">AIIMS Bhuba=
+neswar Recruitment 2019 &ndash; 02 Research associate @ aiimsbhubaneswar.ni=
+c.in</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 09 Apr 2019 12:18 AM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2013/08/AIIMS=
+-Bhu.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>AIIMS Bhubaneswar R=
+ecruitment 2019 AIIMS aka All India Institute of Medical Sciences, Bhubanes=
+war Invites applications for the post of 02 Research associate. Walk-in-Int=
+erview 20 April 2019. AIIMS Bhubaneswar Recruitment Qualification/ eligibil=
+ity conditions, how to apply &amp; other rules are given below=E2=80=A6=C2=
+=A0 Official Website is www.aiimsbhubaneswar.nic.in AIIMS Patna AIIMS Jodhp=
+ur AIIMS Raipur AIIMS Delhi All India Institute of Medical Sciences &#8211;=
+...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/ai=
+ims-bhubaneswar-recruitment/">AIIMS Bhubaneswar Recruitment 2019 &#8211; 02=
+ Research associate @ aiimsbhubaneswar.nic.in</a> appeared first on <a rel=
+=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in">Sarkari Naukri  Dai=
+ly</a>.</p><img src=3D"http://feeds.feedburner.com/~r/Sarkari-Naukri-World/=
+~4/9JZCDNiRDXg?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" wid=
+th=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"9" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;fo=
+nt-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World/=
+~3/YpCZtkv_5o8/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">CSMCRI Recr=
+uitment 2019 &ndash; Project Assistant Vacancy @ csmcri.org</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 11:23 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/07/CSMCR=
+I.png?x63309" class=3D" wp-post-image" alt=3D"" /><p>CSMCRI Recruitment 201=
+9 CSMCRI aka Central Salt &amp; Marine Chemicals Research Institute Invites=
+ applications for the post of 01 Project Assistant Level =E2=80=93 II . Wal=
+k-in-Interview 30 April 2019. CSMCRI Recruitment Qualification/ eligibility=
+ conditions, how to apply &amp; other rules are given below=E2=80=A6 Offici=
+al Website is www.csmcri.org Central Salt &amp; Marine Chemicals Research I=
+nstitute &#8211; CSMCRI Recruitment &#8211; Project Assistant...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/cs=
+mcri-recruitment/">CSMCRI Recruitment 2019 &#8211; Project Assistant Vacanc=
+y @ csmcri.org</a> appeared first on <a rel=3D"nofollow" href=3D"http://www=
+.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://fe=
+eds.feedburner.com/~r/Sarkari-Naukri-World/~4/YpCZtkv_5o8?utm_source=3Dfeed=
+burner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"10" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/ZsHZNuXQicU/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">9 April MC=
+Q Current Affairs Video For SSC, IBPS PO Clerk RRB NET UPPSC Exam Prepratio=
+n</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 10:47 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2019/03/advis=
+e111-e1553455125529.png?x63309" class=3D" wp-post-image" alt=3D"" /><p>=EF=
+=BB=BF Q.1. =E0=A4=B9=E0=A4=BE=E0=A4=B2 =E0=A4=B9=E0=A5=80 =E0=A4=AE=E0=A5=
+=87=E0=A4=82 =E0=A4=95=E0=A5=8C=E0=A4=A8 =E0=A4=B8=E0=A4=BE =E0=A4=A6=E0=A5=
+=87=E0=A4=B6 =E0=A4=85=E0=A4=82=E0=A4=A4=E0=A4=B0=E0=A5=8D=E0=A4=B0=E0=A4=
+=BE=E0=A4=B7=E0=A5=8D=E2=80=8D=E0=A4=9F=E0=A5=8D=E0=A4=B0=E0=A5=80=E0=A4=AF=
+ =E0=A4=B8=E0=A5=8C=E0=A4=B0 =E0=A4=97=E0=A4=A0=E0=A4=AC=E0=A4=82=E0=A4=A7=
+=E0=A4=A8 =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B6=E0=A4=BE=E0=A4=AE=E0=A4=BF=
+=E0=A4=B2 =E0=A4=B9=E0=A5=81=E0=A4=86 =E0=A4=B9=E0=A5=88 ? a. =E0=A4=95=E0=
+=A5=8D=E0=A4=B0=E0=A5=8B=E0=A4=8F=E0=A4=B6=E0=A4=BF=E0=A4=AF=E0=A4=BE b. =
+=E0=A4=9A=E0=A4=BF=E0=A4=B2=E0=A5=80 c. =E0=A4=AC=E0=A5=8B=E0=A4=B2=E0=A5=
+=80=E0=A4=B5=E0=A4=BF=E0=A4=AF=E0=A4=BE d. =E0=A4=87=E0=A4=A8=E0=A4=AE=E0=
+=A5=87=E0=A4=82 =E0=A4=B8=E0=A5=87 =E0=A4=95=E0=A5=8B=E0=A4=88 =E0=A4=A8=E0=
+=A4=B9=E0=A5=80=E0=A4=82 Ans : c. =E0=A4=AC=E0=A5=8B=E0=A4=B2=E0=A5=80=E0=
+=A4=B5=E0=A4=BF=E0=A4=AF=E0=A4=BE Q.2. =E0=A4=B9=E0=A4=BE=E0=A4=B2 =E0=A4=
+=B9=E0=A5=80 =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=95=E0=A5=88=E0=A4=AB=E0=A5=
+=87 =E0=A4=B8=E0=A4=BE=E0=A4=87=E0=A4=82=E0=A4=9F=E0=A4=BF=E0=A4=AB=E0=A4=
+=BF=E0=A4=95 =E0=A4=95=E0=A4=BF=E0=A4=B8 =E0=A4=B0=E0=A4=BE=E0=A4=9C=E0=A5=
+=8D=E2=80=8D=E0=A4=AF =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B2=E0=A4=BE=E0=A4=
+=82=E0=A4=9A =E0=A4=95=E0=A4=BF=E0=A4=AF=E0=A4=BE =E0=A4=97=E0=A4=AF=E0=A4=
+=BE =E0=A4=B9=E0=A5=88 ? a. =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=A8=E0=A4=BE=
+=E0=A4=9F=E0=A4=95 b. =E0=A4=95=E0=A5=87=E0=A4=B0=E0=A4=B2 c. =E0=A4=AE=E0=
+=A4=B9=E0=A4=BE=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E2=80=8D=E0=A4=9F=E0=A5=
+=8D=E0=A4=B0 d. =E0=A4=87=E0=A4=A8=E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B8=E0=
+=A5=87 =E0=A4=95=E0=A5=8B=E0=A4=88 =E0=A4=A8=E0=A4=B9=E0=A5=80=E0=A4=82 Ans=
+ : b. =E0=A4=95=E0=A5=87=E0=A4=B0=E0=A4=B2...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/9-=
+april-mcq-current-affairs-video-for-ssc-ibps-po-clerk-rrb-net-uppsc-exam-pr=
+epration/">9 April MCQ Current Affairs Video For SSC, IBPS PO Clerk RRB NET=
+ UPPSC Exam Prepration</a> appeared first on <a rel=3D"nofollow" href=3D"ht=
+tp://www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"h=
+ttp://feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/ZsHZNuXQicU?utm_sourc=
+e=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div=
+>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"11" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/DW1KCt_LBBc/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">UKPSC Resu=
+lt &ndash;  Lower Subordinate Service Interview Result 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 10:21 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"45" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2013/09/UKPSC=
+-e1397875412652.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>Uttarakh=
+and Public Service Commission (UKPSC) Chairman: Maj.Gen. Anand Singh Rawat*=
+ Location: Gurukul Kangri, Haridwar, Uttarakhand Founded: 14 March 2001 Mot=
+to: =E0=A4=A8=E0=A4=BF=E0=A4=B7=E0=A5=8D=E0=A4=AA=E0=A4=95=E0=A5=8D=E0=A4=
+=B7=E0=A4=A4=E0=A4=BE =E0=A4=89=E0=A4=A4=E0=A5=8D=E0=A4=95=E0=A5=83=E0=A4=
+=B7=E0=A5=8D=E0=A4=9F=E0=A4=A4=E0=A4=BE =E0=A4=AA=E0=A4=BE=E0=A4=B0=E0=A4=
+=A6=E0=A4=B0=E0=A5=8D=E0=A4=B6=E0=A4=BF=E0=A4=A4=E0=A4=BE Formation: 14 Mar=
+ch 2001 UKPSC Recruitment UKPSC Admit Card UKMSSB SSSCUK GOV Lower Subordin=
+ate Service Interview Result, Cutoff Marks 2019 Uttarakhand Public Service =
+Commission, UKPSC Has Recently Uploaded Interview Result &amp; Cutoff Marks=
+ for The Recruitment Post...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/uk=
+psc-result/">UKPSC Result &#8211;  Lower Subordinate Service Interview Resu=
+lt 2019</a> appeared first on <a rel=3D"nofollow" href=3D"http://www.sarkar=
+inaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://feeds.fee=
+dburner.com/~r/Sarkari-Naukri-World/~4/DW1KCt_LBBc?utm_source=3Dfeedburner&=
+utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"12" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/pIPrDigZSpc/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">UPSESSB Re=
+sult &ndash; TGT, PGT 2011 Final Result 2019</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 09:33 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"64" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2019/04/up.jp=
+g?x63309" class=3D" wp-post-image" alt=3D"" /><p>Uttar Pradesh Secondary Ed=
+ucation Service Selection Board Address : 23, Allenganj, Prayagraj, Uttar P=
+radesh 211002 Phone : 0532 246 6851 Official Website : www.upsessb.org UPSS=
+SC UPPSC UPPCL UP Police UPSESSB=C2=A0 TGT, PGT 2011 Final Result 2019 Utta=
+r Pradesh Secondary Education Service Selection Board, UPSESSB Has Recently=
+ Uploaded=C2=A0 TGT, PGT 2011=C2=A0 Recruitment Final Result 2019. Those Ca=
+ndidates Who Have Applied For...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/up=
+sessb-result-tgt-pgt-2011-final-result-2019/">UPSESSB Result &#8211; TGT, P=
+GT 2011 Final Result 2019</a> appeared first on <a rel=3D"nofollow" href=3D=
+"http://www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=
+=3D"http://feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/pIPrDigZSpc?utm_=
+source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/>=
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"13" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/ZB5EZT7HP1I/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">RRB  NTPC =
+Group D &ndash; Free Online Study &ndash; 1,50,000 Vacancy =E0=A4=AE=E0=A5=
+=87=E0=A4=82 =E0=A4=B8=E0=A5=87 1,00,000 Selection =E0=A4=B9=E0=A4=AE =E0=
+=A4=A6=E0=A5=87=E0=A4=82=E0=A4=97=E0=A5=87 Join  Now</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 08:40 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/08/Railw=
+ay.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>Hi Friend, We just ju=
+st launched our YouTube Channel EDUWISEGURU and our prime focus is current =
+GroupD, NTPC and other RRB vacancies. Our team is dedication to teach you f=
+rom basic to advance level. We will teach you, guide you &amp; motivate you=
+ such a way that you will crack the RRB this session. So guys fasten your s=
+eat belt...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/rr=
+b-groupd-ntpc-online-study/">RRB  NTPC Group D &#8211; Free Online Study &#=
+8211; 1,50,000 Vacancy =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B8=E0=A5=87 1,00,=
+000 Selection =E0=A4=B9=E0=A4=AE =E0=A4=A6=E0=A5=87=E0=A4=82=E0=A4=97=E0=A5=
+=87 Join  Now</a> appeared first on <a rel=3D"nofollow" href=3D"http://www.=
+sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http://fee=
+ds.feedburner.com/~r/Sarkari-Naukri-World/~4/ZB5EZT7HP1I?utm_source=3Dfeedb=
+urner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"14" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/wWXJwtvwa48/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">HSSC Recru=
+itment 2019 &ndash; 1027 Group D &amp; TGT Vacancy @ hssc.gov.in</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 06:19 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/01/Harya=
+na-SSC2.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>HSSC Recruitment=
+ 2019 HSSC aka Haryana Staff Selection Commission invites applications for =
+the post of 1027 Group D &amp; TGT Vacancy 2019. HSSC Recruitment Qualifica=
+tion/ eligibility conditions, how to apply &amp; other rules are given belo=
+w=E2=80=A6 Official website is hssc.gov.in Haryana Staff Selection Commissi=
+on &#8211; HSSC Recruitment 2019 =E2=80=93 249 Group D Vacancy =E2=80=93 La=
+st Date 22 April Post Name...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/hs=
+sc-recruitment/">HSSC Recruitment 2019 &#8211; 1027 Group D &#038; TGT Vaca=
+ncy @ hssc.gov.in</a> appeared first on <a rel=3D"nofollow" href=3D"http://=
+www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http:/=
+/feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/wWXJwtvwa48?utm_source=3Df=
+eedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"15" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/5wLrUuwRtdQ/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">UPPCL Recr=
+uitment 2019 &ndash; 4102 Technician (Line) Vacancy @ upenergy.in</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 06:10 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2017/09/UPPCL=
+.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>UPPCL Recruitment 2019 =
+UPPCL aka Uttar Pradesh Power Corporation Limited invites application for t=
+he post of 4102 Technician (Line). Apply Online before 30 April 2019. UPPCL=
+ Recruitment Qualification/eligibility conditions, how to apply &amp; other=
+ rules are given below=E2=80=A6 Official website is www.upenergy.in Uttar P=
+radesh Power Corporation Limited &#8211; UPPCL Recruitment 2019 &#8211; 410=
+2 Technician (Line) Vacancy &#8211; Last Date 30...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/up=
+pcl-recruitment/">UPPCL Recruitment 2019 &#8211; 4102 Technician (Line) Vac=
+ancy @ upenergy.in</a> appeared first on <a rel=3D"nofollow" href=3D"http:/=
+/www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a>.</p><img src=3D"http:=
+//feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/5wLrUuwRtdQ?utm_source=3D=
+feedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"16" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/h1HEOOPZfbA/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">CGVYAPAM R=
+ecruitment 2019 &ndash; 14428 Assistant Teacher, Teacher &amp; Lecturer Vac=
+ancy @ cgvyapam.choice.gov.in</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 05:57 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/11/Chhat=
+tisgarh-Professional-Examination-Board.png?x63309" class=3D" wp-post-image"=
+ alt=3D"" /><p>CGVYAPAM Recruitment 2019 CGVYAPAM aka Chhattisgarh Professi=
+onal Examination Board invites application for the posts of 14428 Assistant=
+ Teacher, Teacher &amp; Lecturer Vacancy=C2=A0 2019. CGVYAPAM Recruitment Q=
+ualification/ eligibility conditions, how to apply &amp; other rules are gi=
+ven below=E2=80=A6 Official Website is cgvyapam.choice.gov.in Chhattisgarh =
+Professional Examination Board &#8211; CGVYAPAM Recruitment 2019 -14428 Ass=
+istant Teacher, Teacher &amp; Lecturer Vacancy &#8211; Last Date 12...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/cg=
+-vyapam-recruitment/">CGVYAPAM Recruitment 2019 &#8211; 14428 Assistant Tea=
+cher, Teacher &#038; Lecturer Vacancy @ cgvyapam.choice.gov.in</a> appeared=
+ first on <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in">Sar=
+kari Naukri  Daily</a>.</p><img src=3D"http://feeds.feedburner.com/~r/Sarka=
+ri-Naukri-World/~4/h1HEOOPZfbA?utm_source=3Dfeedburner&utm_medium=3Demail" =
+height=3D"1" width=3D"1" alt=3D""/></div>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"17" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif;f=
+ont-size:18px;" href=3D"http://feedproxy.google.com/~r/Sarkari-Naukri-World=
+/~3/m1YX6jkjK4o/?utm_source=3Dfeedburner&amp;utm_medium=3Demail">CGPSC Recr=
+uitment 2019 &ndash; 1581 Librarian, Sports Officer, Civil Judge, Assistant=
+ Professor, Professor, Associate Professor &amp; HOD Vacancy @ psc.cg.gov.i=
+n</a>
+</p>
+<p style=3D"font-size:12px;color:#555;margin:9px 0 3px 0;font-family:Verdan=
+a, Arial, Helvetica, sans-serif;line-height:140%;font-size:12px;">
+<span>Posted:</span> 08 Apr 2019 05:42 PM PDT</p>
+<div style=3D"margin:0;font-family:Verdana, Arial, Helvetica, sans-serif;li=
+ne-height:140%;font-size:12px;color:#000000;"><img width=3D"50" height=3D"5=
+0" src=3D"http://cdn.sarkarinaukridaily.in/wp-content/uploads/2014/07/Gover=
+nment-of-Chhattisgarh.jpg?x63309" class=3D" wp-post-image" alt=3D"" /><p>CG=
+PSC Recruitment 2019 CGPSC aka Chhattisgarh Public Service Commission invit=
+es Online Application for 1581 Librarian, Sports Officer, Civil Judge, Assi=
+stant Professor, Professor, Associate Professor &amp; HOD Vacancy 2019. CGP=
+SC Recruitment Qualification/eligibility conditions, how to apply &amp; oth=
+er rules are given below=E2=80=A6Official website is www.psc.cg.gov.in Chha=
+ttisgarh Public Service Commission &#8211; CGPSC Recruitment 2019 &#8211; 1=
+17 Librarian &amp; Sports Officer Vacancy &#8211;...</p>
+<p>The post <a rel=3D"nofollow" href=3D"http://www.sarkarinaukridaily.in/ch=
+hattisgarh-psc-recruitment/">CGPSC Recruitment 2019 &#8211; 1581 Librarian,=
+ Sports Officer, Civil Judge, Assistant Professor, Professor, Associate Pro=
+fessor &#038; HOD Vacancy @ psc.cg.gov.in</a> appeared first on <a rel=3D"n=
+ofollow" href=3D"http://www.sarkarinaukridaily.in">Sarkari Naukri  Daily</a=
+>.</p><img src=3D"http://feeds.feedburner.com/~r/Sarkari-Naukri-World/~4/m1=
+YX6jkjK4o?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D=
+"1" alt=3D""/></div>
+</td>
+</tr>
+</table>
+<table style=3D"border-top:1px solid #999;padding-top:4px;margin-top:1.5em;=
+width:100%" id=3D"footer">
+<tr>
+<td style=3D"text-align:left;font-family:Helvetica,Arial,Sans-Serif;font-si=
+ze:11px;margin:0 6px 1.2em 0;color:#333;">You are subscribed to email updat=
+es from <a href=3D"http://www.sarkarinaukridaily.in">Sarkari Naukri  Daily<=
+/a>.<br />To stop receiving these emails, you may <a href=3D"https://feedbu=
+rner.google.com/fb/a/mailunsubscribe?k=3Dn0xqHiUgSM26K33JtbvD6lKoaJA">unsub=
+scribe now</a>.</td>
+<td style=3D"font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0=
+ 6px 1.2em 0;color:#333;text-align:right;vertical-align:top">Email delivery=
+ powered by Google</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"text-align:left;font-family:Helvetica,Arial,Sans=
+-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333;">Google, 1600 Amphit=
+heatre Parkway, Mountain View, CA 94043, United States</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
+
+--0000000000005bdcfd058620fd37--

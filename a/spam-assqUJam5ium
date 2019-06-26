@@ -1,0 +1,102 @@
+Return-Path: <diffcomphuntdong1981@yahoo.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <deepak_salwan@jcbl.com>, <is_gujral@jcbl.com>
+X-Envelope-To-Blocked: <deepak_salwan@jcbl.com>, <is_gujral@jcbl.com>
+X-Quarantine-ID: <assqUJam5ium>
+X-Spam-Flag: YES
+X-Spam-Score: 7.796
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.796 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_FUTURE_12_24=2.489, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, FREEMAIL_REPLYTO=2.775, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, T_TO_NO_BRKTS_FREEMAIL=0.01,
+	UPPERCASE_50_75=0.791] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id assqUJam5ium; Wed, 30 Jan 2019 01:38:46 +0530 (IST)
+Received: from sonic304-22.consmr.mail.ne1.yahoo.com (sonic304-22.consmr.mail.ne1.yahoo.com [66.163.191.148])
+	by mx10.jcbl.com (Postfix) with ESMTPS id E4A69F44E2A
+	for <is_gujral@jcbl.com>; Wed, 30 Jan 2019 01:38:43 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1548792696; bh=FhhCd8kxaDypV3Zp94ea10njvs1CUMYCatQLo3U5T4Y=; h=Date:To:From:Reply-To:Subject:From:Subject; b=XG/u4co7B5013Spz638cvSmeaqg1np0a2Hvv6ar2ooGQskLslfLWjjVqFthdeAeVYZXwD0Wd/2GBnWYyjz35zln3G65uLth6tu/dZmfJ0yxIxXBiZ4xYdDpaDWStYYf3JIbIK3AWpz+KNaZ4Eh+Y/ub8W8q9R4oZ0leQfNZR7jiCr1WEQGjrnYtw4aF9u2FJWpeIxaSlvYzueHKHtMcZIC4psRJEf/d7c/QbPddkaQn9OSMJBXzb1gJU51G1mcPOXn9188WBqwXzQsFI6tNSl9lc4zA7/SpsQPXC9tHxJUWJrMqfCQETNIPVYVPf9j3XGKzBngiOyyqqiTQA0HQtxg==
+X-YMail-OSG: Qo2TLyAVM1lxz_JHbViof8jnvcWRYoFQeJE1O1zwtBKqaTBUvt48XoFNeN_pjpY
+ KCN.7CP1Jav28FnV8GUjLxQPL5JcAvJIy3WnOEUDFG217612TH3d2fQ3I6eJYvaHfj0ahsMju2JM
+ kxrBApM.HjOHSqZpHmg1wqC6IhvyzPEVSOhSaXULKbpQ850RYyR97OIM8E7YbM5HMPh8GsYcIBaa
+ .dNUTeM4heypNLs_tbI_O6sb16n7o4EK_qlNBafi9oB1AF8OJfn2Nr6q8xsg5OJl1gUGyNmUh6K4
+ 1eeE4bkLPYzIuFx7kfG5gXTRGai915ysaH6O5qFax3JLkmv3_GkO_ksUClgwnEmGgPQRJxWMso_V
+ UxpngOyapGz4Xi.Kmx3ZvECdwhLr9puOqQNorADy3yL1v9fg7Y3hZFBNXAgc14JHvxzoM6R7tl0m
+ RwLQ_fVTL0KCAS8bxRt56YzzUkrgLhmcqiBza3SWZ33DWCjLAO00wt_gRAyTbSdAR_lt7owW7xN5
+ NiJ_HJdgSoWUiRLsajbf3CuqDVY_Nu7T3VvQaXlbYIyYu6Skfnnhoctxx_7slx9_KPmwvbuLasJ9
+ 7XXk9CJZXtanbduXV5x_CbpY7jeCc_qOmD5a.BL.cuPR6nmuNHuA_jSpndFM0WvdmIHGJSpu83td
+ k1bsnbVphkPQP8OuFP1bxJYlryV0LHY.3uqZdcta77twlaeLhOgVD_yWpq8Qp_ISu6GYt5zLrpJw
+ CYSOY_iePr94XJ7kA4lcXgQdE7ULy0YLRjbMkbzYSbbzlTB49yTrvgjQ6W64IC_N9bBAhb.LVIdN
+ P._.BbsgNj9IhOEJCh73Grhyb3IrwZQinuAIvbCK.oLYAtEwHaRxjd3c9SV6_is1Z5Q0vxlfM7v7
+ xM8X2x2SURKs9.f.td2fPwwox232w70Yr__QrHWiSdQGDidsGogEgLT8abEdxj2UmHCCD94yXK9n
+ dUNgZV4yphAtDCfDri9aFOELDLHS0yZR6KZOqObyZL6wfXHN6Nd9hNE09s49KKMxY5PjYqdcFRA.
+ WHkqtsPuMfYCpseq.YzPzLBD7SFGjPrNy4Ep8VKFPapUdZSPH8ns3xqg-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic304.consmr.mail.ne1.yahoo.com with HTTP; Tue, 29 Jan 2019 20:11:36 +0000
+Received: from 96.9.253.121 (EHLO borshonevija) ([96.9.253.121])
+          by smtp403.mail.ne1.yahoo.com (Oath Hermes SMTP Server) with ESMTPA ID 7747fdc4a6be599717c5b8a4347dbba1
+          for <is_gujral@jcbl.com>;
+          Tue, 29 Jan 2019 20:11:35 +0000 (UTC)
+Date: Wed, 30 Jan 2019 18:08:24 +0000
+To: is_gujral@jcbl.com
+From: Aarohi <diffcomphuntdong1981@yahoo.com>
+Reply-To: graphicsdesigner.apnadesign@gmail.com
+Subject: Welcome your visitors digitally - Visitor Management System
+Message-ID: <vWiQNLKH7HsTxBxQjvfvKq8XSso8tkQR1QlvZb2ldEY@borshonevija>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoMzQsIDM0LCAzNCk7IGZvbnQtZmFtaWx5OiBnYXJh
+bW9uZCwgc2VyaWY7IGZvbnQtc2l6ZTogMTMuMzMzM3B4OyI+VG8gbWFuYWdlIHlvdXIgdmlzaXRv
+cnMsIHdlIGFyZSBwcm92aWRpbmcgYSBzb2Z0d2FyZSBzeXN0ZW0gbmFtZWQg4oCYQUFHQU5UVUvi
+gJkgLSBWaXNpdG9yIE1hbmFnZW1lbnQgU3lzdGVtLiBLaW5kbHkgY2hlY2sgb3V0IHRoZSBiZWxv
+dyBtZW50aW9uZWQgZmVhdHVyZXMgb2YgdGhlIHNvZnR3YXJlOjwvc3Bhbj48c3BhbiBjbGFzcz0i
+aW0iIHN0eWxlPSJjb2xvcjogcmdiKDgwLCAwLCA4MCk7IGZvbnQtZmFtaWx5OiBBcmlhbCwgSGVs
+dmV0aWNhLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IHNtYWxsOyI+PC9zcGFuPjwvcD48ZGl2Pjxm
+b250IGZhY2U9ImdhcmFtb25kLCBzZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTMuMzMz
+M3B4OyI+PGJyPjwvc3Bhbj48L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBmYWNlPSJnYXJhbW9uZCwg
+c2VyaWYiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEy
+cHg7IHdoaXRlLXNwYWNlOiBub3dyYXA7Ij4xLiZuYnNwO1ZFUklGSUVEJm5ic3A7TU9CSUxFJm5i
+c3A7TlVNQkVSPC9zcGFuPjxiciBzdHlsZT0iY29sb3I6IHJnYig1MSwgNTEsIDUxKTsgZm9udC1z
+aXplOiAxMnB4OyI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoNTEsIDUxLCA1MSk7IGZvbnQtc2l6
+ZTogMTJweDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiPjIuJm5ic3A7RElHSVRBTCZuYnNwO1JFR0lT
+VFJBVElPTjwvc3Bhbj48YnIgc3R5bGU9ImNvbG9yOiByZ2IoNTEsIDUxLCA1MSk7IGZvbnQtc2l6
+ZTogMTJweDsiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6
+IDEycHg7IHdoaXRlLXNwYWNlOiBub3dyYXA7Ij4zLiZuYnNwO1BJQ1RVUkUmbmJzcDtPRiZuYnNw
+O1ZJU0lUT1I8L3NwYW4+PGJyIHN0eWxlPSJjb2xvcjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNp
+emU6IDEycHg7Ij48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig1MSwgNTEsIDUxKTsgZm9udC1zaXpl
+OiAxMnB4OyB3aGl0ZS1zcGFjZTogbm93cmFwOyI+NC4mbmJzcDtQUkUtUkVHSVNUUkFUSU9OJm5i
+c3A7JiZuYnNwO0JVTEsmbmJzcDs8d2JyPlJFR0lTVFJBVElPTjwvc3Bhbj48YnIgc3R5bGU9ImNv
+bG9yOiByZ2IoNTEsIDUxLCA1MSk7IGZvbnQtc2l6ZTogMTJweDsiPjxzcGFuIHN0eWxlPSJjb2xv
+cjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7IHdoaXRlLXNwYWNlOiBub3dyYXA7
+Ij41LiZuYnNwO09OJm5ic3A7LVNQT1QmbmJzcDtJRCZuYnNwO0dFTkVSQVRJT048L3NwYW4+PGJy
+IHN0eWxlPSJjb2xvcjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7Ij48c3BhbiBz
+dHlsZT0iY29sb3I6IHJnYig1MSwgNTEsIDUxKTsgZm9udC1zaXplOiAxMnB4OyB3aGl0ZS1zcGFj
+ZTogbm93cmFwOyI+Ni4mbmJzcDtRUiZuYnNwO0NPREU8L3NwYW4+PGJyIHN0eWxlPSJjb2xvcjog
+cmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7Ij48c3BhbiBzdHlsZT0iY29sb3I6IHJn
+Yig1MSwgNTEsIDUxKTsgZm9udC1zaXplOiAxMnB4OyB3aGl0ZS1zcGFjZTogbm93cmFwOyI+Ny4m
+bmJzcDtCT09LJm5ic3A7QVBQT0lOVE1FTlQ8L3NwYW4+PGJyIHN0eWxlPSJjb2xvcjogcmdiKDUx
+LCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7Ij48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig1MSwg
+NTEsIDUxKTsgZm9udC1zaXplOiAxMnB4OyB3aGl0ZS1zcGFjZTogbm93cmFwOyI+OC4mbmJzcDtF
+WENFRUQmbmJzcDtUSU1FJm5ic3A7Tk9USUZJQ0FUSU9OPC9zcGFuPjxiciBzdHlsZT0iY29sb3I6
+IHJnYig1MSwgNTEsIDUxKTsgZm9udC1zaXplOiAxMnB4OyI+PHNwYW4gc3R5bGU9ImNvbG9yOiBy
+Z2IoNTEsIDUxLCA1MSk7IGZvbnQtc2l6ZTogMTJweDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiPjku
+Jm5ic3A7U0VORCZuYnNwO0NBTEVOREFSJm5ic3A7SU5WSVRBVElPTjwvc3Bhbj48YnIgc3R5bGU9
+ImNvbG9yOiByZ2IoNTEsIDUxLCA1MSk7IGZvbnQtc2l6ZTogMTJweDsiPjxzcGFuIHN0eWxlPSJj
+b2xvcjogcmdiKDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7IHdoaXRlLXNwYWNlOiBub3dy
+YXA7Ij4xMC4mbmJzcDtCTE9DSyZuYnNwO0xJU1Q8L3NwYW4+PGJyIHN0eWxlPSJjb2xvcjogcmdi
+KDUxLCA1MSwgNTEpOyBmb250LXNpemU6IDEycHg7Ij48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig1
+MSwgNTEsIDUxKTsgZm9udC1zaXplOiAxMnB4OyB3aGl0ZS1zcGFjZTogbm93cmFwOyI+MTEuJm5i
+c3A7Q0FOJm5ic3A7QUREJm5ic3A7QU5PVEhFUiZuYnNwO1ZJU0lUT1I8L3NwYW4+Jm5ic3A7Jm5i
+c3A7PC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0iZ2FyYW1vbmQsIHNlcmlmIj48YnI+PC9m
+b250PjwvZGl2PjxwPjxzcGFuIGNsYXNzPSJpbSIgc3R5bGU9ImNvbG9yOiByZ2IoODAsIDAsIDgw
+KTsgZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTog
+c21hbGw7Ij48L3NwYW4+PC9wPjxkaXYgc3R5bGU9ImNvbG9yOiByZ2IoMzQsIDM0LCAzNCk7IGZv
+bnQtZmFtaWx5OiBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IHNtYWxs
+OyI+PGZvbnQgZmFjZT0iZ2FyYW1vbmQsIHNlcmlmIj48Yj5Gb3IgYW55IHF1ZXJ5LCBjYWxsIHVz
+IGF0ICs5MSA5NTYwNTk4Mzk0PC9iPjwvZm9udD48L2Rpdj4=
+

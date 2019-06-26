@@ -1,0 +1,137 @@
+Return-Path: <Bankinformation@kotak.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ghanshyam_pandey@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a6KXrLF8NM1M>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a6KXrLF8NM1M for <ghanshyam_pandey@jcbl.com>;
+	Mon, 29 Aug 2016 20:22:59 +0530 (IST)
+Received: from massmail002.kotak.com (alerts.kotak.com [203.196.200.11])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 6BB71FE1D58
+	for <GHANSHYAM_PANDEY@jcbl.com>; Mon, 29 Aug 2016 20:22:57 +0530 (IST)
+Message-Id: <467777$1auts6k@massmail002.kotak.com>
+MIME-Version: 1.0
+Date:29 Aug 16 15:04:42
+From:Bankinformation@kotak.com
+To:GHANSHYAM_PANDEY@JCBL.COM
+Subject:Stay Alert! Don't share your credit card details.
+Content-Type: multipart/mixed;
+ boundary="-----SECBOUND"
+
+-------SECBOUND
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+
+<html>
+<head>
+<title>Vhishing-mailer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<center>
+  <table width="700" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="25" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; font-weight:normal;"> If you are unable to view the below e-mailer, please <a span id="ClickHere" href="http://www.kotak.com/bank/mailers/2016/dec/vhishing/mailer.html" target="_blank" class="droppable">click here</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><table width="700" cellpadding="0" cellspacing="0" border="1">
+          <tr>
+            <td align="center" valign="middle"><table width="700" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td valign="middle" align="center"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                    <span class="droppable" id="hdr-visg-mr"> <img style="display:block;" src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/hdr-visg-mr-30-06-2016.jpg" width="700" height="65" alt=""> </span> 
+                    <!-- End here --></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                    <span class="droppable" id="bnr-visg-mr"> <img src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/bnr-visg-mr-30-06-2016.jpg" alt="" width="700" height="200" style="display:block;" border="0"> </span> 
+                    <!-- End here --></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><table width="620" border="0" cellpadding="0" cellspacing="20">
+                      <tr>
+                        <td align="left" valign="middle"><font color="#333333" style="font-size: 13px;" face="Arial, Helvetica, sans-serif"> <span class="droppable" id="firstname">Dear Customer,</span> <br>
+                          <br />
+                          The sweetest words and deals could also be the dangerous ones. Do not give your sensitive credit card details to fraudsters claiming to be from your bank. </font></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                    <span class="droppable" id="ofr-visg-mr"> <img src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/ofr-visg-mr-30-06-2016.jpg" alt="" width="700" height="156" style="display:block;" border="0"> </span> 
+                    <!-- End here --></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><table width="600" border="0" cellpadding="0" cellspacing="10">
+                      <tr>
+                        <td valign="middle" align="center"><table width="580" border="0" cellpadding="0" cellspacing="5" bgcolor="#EBEBED">
+                            <tr>
+                              <td width="69" align="center" valign="middle"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                                <span class="droppable" id="icon-visg-mr"> <img style="display:block;" src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/icon-visg-mr-30-06-2016.png" width="58" height="65" alt=""> </span> 
+                                <!-- End here --></td>
+                              <td width="496" align="left" valign="middle"><font color="#333333" style="font-size: 11px;" face="Arial, Helvetica, sans-serif"> Sharing the above details can lead to unauthorized transactions on your Kotak Credit Card. For the purpose of authentication, they may also route you through IVR. Do not pay heed to such requests. <br />
+                                A bank employee will never ask for the above information via Phone, SMS or E-mail. </font></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><table width="610" border="0" cellpadding="0" cellspacing="15">
+                      <tr>
+                        <td valign="middle" align="center"><table width="580" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td align="left" valign="middle"><font color="#333333" style="font-size: 12px;" face="Arial, Helvetica, sans-serif"> Warm regards, </font></td>
+                            </tr>
+                            <tr>
+                              <td valign="middle" align="left"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                                <span class="droppable" id="sign-visg-mr"> <img style="display:block;" src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/sign-visg-mr-30-06-2016.jpg" width="59" height="33" alt=""> </span> 
+                                <!-- End here --></td>
+                            </tr>
+                            <tr>
+                              <td align="left" valign="middle"><font color="#333333" style="font-size: 12px;" face="Arial, Helvetica, sans-serif"> Amit Labroo<br />
+                                Senior Executive Vice President<br />
+                                Credit Cards<br />
+                                Kotak Mahindra Bank Limited </font></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"><!--Start from here. Remove this line. This is for unica developr before loding to unica remove this.--> 
+                    <span class="droppable" id="ftr-visg-mr"> <img src="http://www.kotak.com/bank/mailers/2016/dec/vhishing/images/ftr-visg-mr-30-06-2016.jpg" width="700" height="177" usemap="#Map" style="display:block;" border="0"> </span> 
+                    <!-- End here -->
+                    
+                    <UAEreferenceLabel n="images/ftr-visg-mr-30-06-2016.jpg" width="700" height="177" usemap="#Map" style="display:block;" border="0"></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</center>
+<map name="Map" id="Map">
+  <area shape="rect" coords="609,16,634,42" href="https://foursquare.com/kotakbankltd" target="_blank" />
+  <area shape="rect" coords="580,16,607,43" href="http://www.linkedin.com/company/kotak-mahindra-bank" target="_blank" />
+  <area shape="rect" coords="551,16,578,43" href="https://www.youtube.com/user/KotakBankIndia" target="_blank" />
+  <area shape="rect" coords="524,16,548,41" href="https://twitter.com/KotakBankLtd" target="_blank" />
+  <area shape="rect" coords="496,16,521,42" href="https://www.facebook.com/KotakBank" target="_blank" />
+  <area shape="rect" coords="510,75,580,91" href="http://www.kotak.com/privacy-policy.html" target="_blank" />
+  <area shape="rect" coords="585,75,641,90" href="http://www.kotak.com/disclaimer.html" target="_blank" />
+</map>
+<map name="Map2">
+  <area shape="rect" coords="92,329,197,347" href="http://www.kotak.com/" target="_blank">
+  <area shape="rect" coords="249,343,344,358" href="http://www.kotak.com/" target="_blank">
+  <area shape="rect" coords="383,344,472,358" href="http://app.kotak.com/" target="_blank">
+</map>
+</body>
+</html>

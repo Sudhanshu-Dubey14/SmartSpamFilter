@@ -1,0 +1,153 @@
+Return-Path: <info@partmartmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <kawalpreet.singh@grandtrunk-harley.in>
+X-Envelope-To-Blocked: <kawalpreet.singh@grandtrunk-harley.in>
+X-Quarantine-ID: <akQk4JIvGkY6>
+X-Spam-Flag: YES
+X-Spam-Score: 6.436
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.436 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	DOS_RCVD_IP_TWICE_B=0.001, FROM_12LTRDOM=2, HTML_IMAGE_ONLY_32=0.001,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id akQk4JIvGkY6
+	for <kawalpreet.singh@grandtrunk-harley.in>;
+	Thu, 22 Nov 2018 19:28:31 +0530 (IST)
+Received: from server1.bestwebservers.net (server1.bestwebservers.net [65.175.68.84])
+	by mx10.jcbl.com (Postfix) with ESMTPS id DEE80F443D1
+	for <kawalpreet.singh@grandtrunk-harley.in>; Thu, 22 Nov 2018 19:28:29 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=partmartmail.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:List-Unsubscribe:Message-ID:Subject:Reply-To:From:To:Date:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=q7i5zFFgW/l1WVdTmsup7l8OWls9QlFhsH4AaM5x1R8=; b=PnUHlbB6Wn0m4IddrfHVtuAJ5B
+	YyosbUnC/gESJWj9ur5Y6pivclPkCoxxZvARZOVhmZQhSIa/joM0QbEIZPWZCaiLINNsM01OV/prD
+	oiVte9hWywXyfzIn2yLodLLE88yq/e3BjFYdydbeIxqJz4rA/y32awa8o8iZUHnRagSoBn7MG2meI
+	I9ehg6A4E56mgqiTmuQck6vHGLHNVoUasnqUjiAzIRsjfzEbRq8X5BSjfjuUxDVSiYzPD5gvyO5pe
+	iQWGkcpNA0wvAjKhR02hR+EEwc76YhsJn41TKnZZGANA3jTD9KjXCHGgUFr3DOc6KIblTPgIUkdSp
+	DnfnK+lA==;
+Received: from server1.bestwebservers.net ([65.175.68.84]:35940)
+	by server1.bestwebservers.net with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <info@partmartmail.com>)
+	id 1gPpVn-0007Hu-MB
+	for kawalpreet.singh@grandtrunk-harley.in; Thu, 22 Nov 2018 21:59:19 +0800
+Date: Thu, 22 Nov 2018 21:59:19 +0800
+To: kawalpreet.singh@grandtrunk-harley.in
+From: Partmart <info@partmartmail.com>
+Reply-To: Partmart <info@partmartmail.com>
+Subject: Be The First To Upload Your Brand and Get a Bonus 6 Months FREE!
+Message-ID: <b9dcc0d8df1ea1971d1cbe9025714056@server1.bestwebservers.net>
+X-Mailer: Sendy (https://sendy.co)
+List-Unsubscribe: <http://partmartmail.com/unsubscribe/M892QeKaoX3Zf7PBdz0mEq8921iBX6wIW892K5qUld6ovPsChdLgvH54SIT8CtKNwrUiWI>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b9dcc0d8df1ea1971d1cbe9025714056"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.bestwebservers.net
+X-AntiAbuse: Original Domain - grandtrunk-harley.in
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - partmartmail.com
+X-Get-Message-Sender-Via: server1.bestwebservers.net: authenticated_id: info@partmartmail.com
+X-Authenticated-Sender: server1.bestwebservers.net: info@partmartmail.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This is a multi-part message in MIME format.
+
+--b1_b9dcc0d8df1ea1971d1cbe9025714056
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+To Business Owners Who Deal In Parts For Anything..
+Everyday day thousands of searches are made on Partmart.com the worlds largest Parts database.
+The most searched brands today included the following Manufacturers.
+
+BMW, Club Car, Ford, John Deere, Honda, Yamaha, New Holland, KTM, Briggs & Stratton, Suzuki, Subaru, Can Am, F G Wilson, Volvo, Ducati, Isuzu, Bobcat, DAF, Zoot, Kawasaki, ACDELCO, Walbro, Fuso, Cagiva, Oregon, Snapper, Gas Gas, Piaggio, Case, Kubota, Polaris, MTD, Renault, Mitsubishi, Nissan and more.
+
+Partmart has been operating since 1996, initally focusing on the worldwide Motorcycle Industry. In the past two years after thousands of requests we have added more and more brands to our search list and now cater for Parts For anything on the Planet.
+Don't see your Brand listed? - No Problem, we will add your Brand - just drop us an email.
+
+The fact is someone always has to be the first to list their brand on Partmart, otherwise when people search for that brand of part, it will show Nil stock. Even the most popular brands listed on Partmart, don’t have every part listed.
+
+SO RIGHT NOW we are offering the first 5 Businesses in each of the brands that have zero parts listed, A BONUS 6 MONTHS FREE - Thats a BIG 18 Months on Partmart for the price of 12,  plus you get an extra 10% discount if you pay for 12 months in advance.
+Simply sign up for 12 months and we will add a BONUS 6 Months for FREE
+
+Partmart connects buyers and sellers worldwide, with no sneaky fees or hidden charges. You deal direct with the buyer and you get the full sale amount everytime.
+
+Our sample upload file below, shows you how simple it is to correctly format your file. Your sucess is our number 1 priority so if you have any trouble setting up your parts file, simply send your file to us, Partmart is happy to set up our first file Free of charge.
+
+Regards,
+
+Dan Swan
+Partmart.com  
+
+No longer want to receive these emails? Click Now
+
+
+
+
+--b1_b9dcc0d8df1ea1971d1cbe9025714056
+Content-Type: text/html; charset=us-ascii
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1><a href="http://partmartmail.com/l/Fy3b7p9M1VLr9lZgDTQM6A"><img alt="" src="http://partmartmail.com/uploads/1542356509.jpg" style="width: 1000px; height: 430px;" /></a></h1>
+
+<h1><strong>To Business Owners Who Deal In Parts For Anything..</strong></h1>
+
+<h3><strong>Everyday day thousands of searches are made on Partmart.com the worlds largest Parts database. </strong></h3>
+
+<h3>The most searched brands today included the following Manufacturers.</h3>
+
+<p>BMW, Club Car, Ford, John Deere, Honda, Yamaha, New Holland, KTM, Briggs &amp; Stratton, Suzuki, Subaru, Can Am, F G Wilson, Volvo, Ducati, Isuzu, Bobcat, DAF, Zoot, Kawasaki, ACDELCO, Walbro, Fuso, Cagiva, Oregon, Snapper, Gas Gas, Piaggio, Case, Kubota, Polaris, MTD, Renault, Mitsubishi, Nissan and more.</p>
+
+<p>Partmart has been operating since 1996, initally focusing on the worldwide Motorcycle Industry. In the past two years after thousands of requests we have added more and more brands to our search list and now cater for Parts For anything on the Planet.</p>
+
+<h3>Don&#39;t see your Brand listed? - No Problem, we will add your Brand - just drop us an email.</h3>
+
+<p>The fact is someone always has to be the first to list their brand on Partmart, otherwise when people search for that brand of part, it will show Nil stock. Even the most popular brands listed on Partmart, don&rsquo;t have every part listed.<br />
+<br />
+<strong>RIGHT NOW</strong> we are offering the first 5 Businesses in each of the brands that have zero parts listed, <strong>A BONUS 6 MONTHS FREE</strong> - <strong>Thats a BIG 18 Months on Partmart for the price of 12</strong>.</p>
+
+<h3>Simply sign up for 12 months and <ins>we will add a BONUS 6 Months for FREE</ins></h3>
+
+<p>Partmart connects buyers and sellers worldwide, with no sneaky fees or hidden charges. You deal direct with the buyer and you get the full sale amount everytime.</p>
+
+<p>Our sample upload file below, shows you how simple it is to correctly set up your file. Your sucess is our number 1 priority so if you have any trouble setting up your parts file, simply send your file to us, Partmart is happy to set up our first file <strong>Free of charge.</strong></p>
+
+<p><img alt="" src="http://partmartmail.com/uploads/1542876918.JPG" style="width: 629px; height: 186px;" /></p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://partmartmail.com/l/o35EfztEs00S892gMfKPwncA"><img alt="" src="http://partmartmail.com/uploads/1542890823.png" style="width: 359px; height: 54px; float: left;" /></a></p>
+
+<h2 style="text-align: center;">&nbsp;</h2>
+
+<h3>&nbsp;</h3>
+
+<p>Regards,</p>
+
+<p>Dan Swan<br />
+Partmart.com &nbsp;</p>
+
+<p>No longer want to receive these emails? <a href="http://partmartmail.com/l/H2fczZrvcUUiDXgMC1kHCQ">Click Here</a></p>
+</body>
+</html>
+<img src="http://partmartmail.com/t/s67H2SkCnnc1QSGcwNl763Iw/KtTqvG8lIKgzhR6892mXQP0Q" alt="" style="width:1px;height:1px;"/>
+
+
+
+--b1_b9dcc0d8df1ea1971d1cbe9025714056--
+

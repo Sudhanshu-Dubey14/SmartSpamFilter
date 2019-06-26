@@ -1,0 +1,144 @@
+Return-Path: <bo-b310eajbf916adaureh26byt84w2u4@b.e.2mg.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <m_palani@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <avXmu_0pCg0q>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E0 hex):
+	Subject:
+	\303\240\302\244\302\225\303\240\302\245\302\215\303\240\302\244\302\260\303\240\302\244\302\277\303\240\302\244\302\237\303\240[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id avXmu_0pCg0q for <m_palani@jcbl.com>;
+	Fri, 26 May 2017 16:12:30 +0530 (IST)
+Received: from mta960.chtah.net (mta960.chtah.net [8.30.201.18])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C5AE0FA40BE
+	for <m_palani@jcbl.com>; Fri, 26 May 2017 16:12:25 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=e.2mg.in;
+	s=20170320145236; t=1495795504; x=1511693104;
+	bh=YEeiIiEdECo5H0Q4bRMr+nOyhhFFggg6ev+wDu91ktI=; h=From:Reply-To;
+	b=A5XASQgq3gZtkPM+G4EiGfPXTo86EntrL7ZD38TPpkEYUF2r7OAqOSmLmOfVFvCZs
+	 6zW6cCslw/QyfEulHImTsXeB9diTUUv8j/N4kz21nT7Um6dsdUdDcEwKwYnUMWoudS
+	 VqYx45w7Artus/pX2C+BPGrIbHc1OAwOxeb95A1Xst0kZoSj0Me6KASdx2x6PQbYLq
+	 utq+dBcjNFRw5jV05stWC9I1G/vniMxPQBD7e4gCvEysiWPxZaiOafAEFqDhkSTnwr
+	 G4B99545J9aipvwd0AZmliyczLV0eUUUR26f+lV0lhabbikwCUyNuMmOflTS0W811x
+	 HrY+Rmkpks30Q==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=e.2mg.in;
+  b=DaoDWYUUnuBc88uYvCLQ6VUVOTpEwEr6Qo7ydj3zer0W2BK3ftiVMLVoOLSyprrCrfnwuWZ2nNrf/ZWL56ZV7RHofqOwKfBfwGjIdJm6qOxSKR9hAjF9jn0ovdMhQzkaznRrCjndRPKPeJmdHA73452TGWv946ub3sfApA7Ald0=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type;
+Date: Fri, 26 May 2017 10:45:04 -0000
+Message-ID: <b310eajbf916adaureh26byt84w2u4.1766535.1622@mta960.e.2mg.in>
+List-Unsubscribe: <mailto:rm-0b310eajbf916adaureh26byt84w2u4@e.2mg.in>
+From: "Lic Of India" <any89@e.2mg.in>
+To: m_palani@jcbl.com
+Subject: क्रिटिकल बीमारी से बचे
+MIME-Version: 1.0
+Reply-To: "info@e.2mg.in" <support-b310eajbf916adaureh26byt84w2u4@e.2mg.in>
+Content-type: multipart/alternative; boundary="=b310eajbf916adaureh26byt84w2u4"
+
+
+--=b310eajbf916adaureh26byt84w2u4
+Content-Type: text/plain; charset="utf-8"
+Content-transfer-encoding: 8bit
+
+Hospital Bills + Medicinal Expenses + Doctor Fees : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+( All Inclusive ) : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+IRDAI Approved Insurance Web Aggregator : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link1 
+
+-Cashless treatment at thousands of network hospitals : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+- Get Free Yearly Health Check-up : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+Get 5 Lac Family Health Cover : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+Calculate Your Premium Now : http://e.2mg.in/a/tBZKAacB9Z18CB9cKj$AAGvSH3y/link2= 
+
+--=b310eajbf916adaureh26byt84w2u4
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/spacer.gif" width=
+=3D"1" height=3D"1" style=3D"display:none !important; max-height:1px !impor=
+tant; max-width:1px !important; border:0 !important; background-color:trans=
+parent !important; padding:0 !important; outline:0 !important; min-height:1=
+px !important; min-width:1px !important; height:1px !important; width:1px !=
+important;" alt=3D"">
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"border:solid 1px #000; max-width:600px; min-width:250px; width:100%"=
+ width=3D"100%">
+  <tbody>
+    <tr>
+      <td align=3D"center" style=3D" padding:15px 0px 0px 0px;" valign=3D"m=
+iddle"><a href=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/link3" styl=
+e=3D"font:bold 26px calibri; text-align:center; color:#000; text-decoration=
+:none">Hospital Bills + Medicinal Expenses + Doctor Fees</a>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"center" style=3D"font:bold 20px calibri; text-align:cent=
+er;color:#000;" valign=3D"middle"><a href=3D"http://e.2mg.in/a/hBZKAacB9Z18=
+CB9cKj$AAGvSH3y/link3" style=3D"text-decoration:none;">( All Inclusive )</a>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"center" style=3D"font:bold 26px calibri; text-align:cent=
+er;color:#69ae1f; padding:10px 0px;" valign=3D"middle"><span style=3D"font-=
+size:14px;"><a href=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/link1"=
+ style=3D"text-decoration:none;"><span style=3D"color:#FFA07A;">IRDAI Appro=
+ved Insurance Web Aggregator</span></a></span>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"left" valign=3D"top">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+          <tbody>
+            <tr>
+              <td style=3D"padding:5px 20px; font:normal 16px calibri; colo=
+r:#000;">-<a href=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/link3" s=
+tyle=3D"text-decoration:none;"> Cashless treatment at thousands of network =
+hospitals</a>
+              </td>
+            </tr>
+            <tr>
+              <td style=3D"padding:5px 20px; font:normal 16px calibri; colo=
+r:#000;"><a href=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/link3" st=
+yle=3D"text-decoration:none;">- Get Free Yearly Health Check-up</a>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"middle"><span style=3D"font-si=
+ze:16px;"><strong><a href=3D"http://e.2mg.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/=
+link3" style=3D"text-decoration:none;">Get <span style=3D"color:#000;">5 La=
+c</span> Family Health Cover</a></strong></span>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"middle"><a href=3D"http://e.2m=
+g.in/a/hBZKAacB9Z18CB9cKj$AAGvSH3y/link3" style=3D"font:bold 26px calibri; =
+text-align:center; color:#000; text-decoration:underline">Calculate Your Pr=
+emium Now</a>
+              </td>
+            </tr>
+            <tr>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+
+
+--=b310eajbf916adaureh26byt84w2u4--
+

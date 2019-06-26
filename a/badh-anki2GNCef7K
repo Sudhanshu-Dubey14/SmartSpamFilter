@@ -1,0 +1,228 @@
+Return-Path: <bo-b8wtwjbbfgp808auk62u3bysq3kza9@b.e.mailermmiindia.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <anki2GNCef7K>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char FC hex): From:
+	"Messe M\303\274nchen India" <u[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id anki2GNCef7K for <jcblho@jcbl.com>;
+	Thu, 30 Jun 2016 14:31:37 +0530 (IST)
+Received: from mta960.chtah.net (mta960.chtah.net [8.30.201.18])
+	by mx10.jcbl.com (Postfix) with ESMTP id E2BEFF231A9
+	for <jcblho@jcbl.com>; Thu, 30 Jun 2016 14:31:32 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=e.mailermmiindia.com; s=20150123074605; t=1467277376;
+	x=1483088576; bh=9LdvsG7oXbDDLmPFAWrY6955ia/vpJV1idjdhx/yR6w=;
+	h=From:Reply-To;
+	b=YBNTUEEMYTu+dFwgCO9S1M4/SuUTOo55w9UK0Z7aPKM1+Ezmh6BriFZTZNpb4OPYn
+	 0lCjJ3d4HyU7xbYM/6TA5NbCAA3bn/0OmIccsk89CyVfiHk5ft9L+Zyp441V4Hqv5M
+	 Y6a5aFjx+ZWleXE+5HhDLKOyUOs0gMYNSQ9kdC+Nkd/dCJheUg4Z5JPrXG/0PA41g5
+	 BetxNNOogGHsIcTkxQlziEjTJHP6c+BrP72paVV+QP7WOj+VntXE+SXNA4FSpZHuuD
+	 5ZkHI5d2NCmlsiR3iPSIglox1JsH/La7Fg8bvPox7gtgfzMPAmHVKp981LZ27Or6yb
+	 T52luzGYU8Ciw==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=e.mailermmiindia.com;
+  b=iBMtPYzOb4y61POwj919/MHYrUgr9n2PWWj+zHjDzP9aK0QZOdm3jOAmT/6iSEneXA4bEKFveUrcCkgkseuaZQF8rj/hf6b/xHM+l+b/eCNsCBSkVw5yRXVYGrWQja48VVj5x5y6fk1i69W9ggq4asEweU9kng9SzB8w0BeS0J4=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type;
+Date: Thu, 30 Jun 2016 09:02:56 -0000
+Message-ID: <b8wtwjbbfgp808auk62u3bysq3kza9.261098.3713@mta960.e.mailermmiindia.com>
+List-Unsubscribe: <mailto:rm-0b8wtwjbbfgp808auk62u3bysq3kza9@e.mailermmiindia.com>
+From: "Messe München India" <updates@e.mailermmiindia.com>
+To: jcblho@jcbl.com
+Subject: Industry Leaders have confirmed their participation @ analytica Anacon India & India Lab Expo 2016. Have you ??
+MIME-Version: 1.0
+Reply-To: "info@mmi-india.in" <support-b8wtwjbbfgp808auk62u3bysq3kza9@e.mailermmiindia.com>
+Content-type: multipart/alternative; boundary="=b8wtwjbbfgp808auk62u3bysq3kza9"
+
+
+--=b8wtwjbbfgp808auk62u3bysq3kza9
+Content-Type: text/plain; charset="iso-8859-1"
+Content-transfer-encoding: 8bit
+
+AAI Buyer Seller EDM
+
+Bringing the best ROI to you
+
+Confirmed exhibitors in 2016
+
+VIP buyers at the trade fair
+
+Are you participating in 2016?
+
+For more details contact: Messe München India
+Ms. Avisha Desai | Tel.: +91 22 4255 4710 | Mobile: +91 98206 68393 | Email: avisha.desai@mmi-india.in : mailto:mohsin.darvesh@mmi-india.in 
+
+If you find this email in Spam Please Mark as not spam
+
+Mark as important| Report Spam : mailto:rm-2b8wtwjbbfgp808auk62u3bysq3kza9@e.mailermmiindia.com?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list.  | To Unsubscribe click here : mailto:rm-2b8wtwjbbfgp808auk62u3bysq3kza9@e.mailermmiindia.com?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list.  | To view in browser Click Here :  http://e.mailermmiindia.com/a/tBXdN$VB8$VXfB9PNX7AAA-vqft/link1?t_sparams=i2upT5U4D2emaPaMJiYhgMaRLsMA8JC75BCaMi$zFOQSykGnnDs6mI7oxd1M69PLkOJ8a9zJ6sCPlSA 
+
+--=b8wtwjbbfgp808auk62u3bysq3kza9
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset=3D"utf-8">
+<title>AAI Buyer Seller EDM</title>
+</head>
+
+<body style=3D"padding:0; margin:0;"><img src=3D"http://e.mailermmiindia.co=
+m/a/hBXdN$VB8$VXfB9PNX7AAA-vqft/spacer.gif" width=3D"1" height=3D"1" style=
+=3D"display:none !important; max-height:1px !important; max-width:1px !impo=
+rtant; border:0 !important; background-color:transparent !important; paddin=
+g:0 !important; outline:0 !important; min-height:1px !important; min-width:=
+1px !important; height:1px !important; width:1px !important;" alt=3D"">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody>
+        <tr>
+            <td align=3D"center"><table width=3D"800" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"border:1px solid #cccccc;">
+                <tbody>
+                    <tr>
+                        <td bgcolor=3D"#ffd51a">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style=3D"padding:0; margin:0; font-size:0px;"><=
+img src=3D"http://www.indialabexpo.com/emailer-imgs/AAI-Buyer-Seller-EDM-Ju=
+ne2016/header.jpg" width=3D"800" height=3D"180" alt=3D""/></td>
+                    </tr>
+                    <tr>
+                        <td style=3D"padding:0; margin:0; font-size:0px;"><=
+img src=3D"http://www.indialabexpo.com/emailer-imgs/AAI-Buyer-Seller-logo-E=
+DM/banner.jpg" width=3D"800" height=3D"330" alt=3D""/></td>
+                    </tr>
+                    <tr>
+                        <td height=3D"50" align=3D"center" style=3D"font:80=
+0 30px Arial; color:#3f3e40; letter-spacing:-1px;">Bringing the best ROI to=
+ you</td>
+                    </tr>
+                    <tr>
+                        <td height=3D"30" align=3D"center" bgcolor=3D"#ffd5=
+31" style=3D"font:normal 18px Arial;"><strong>Confirmed exhibitors in 2016<=
+/strong></td>
+                    </tr>
+                    <tr>
+                        <td align=3D"center"><img src=3D"http://www.indiala=
+bexpo.com/emailer-imgs/AAI-Buyer-Seller-logo-EDM/confirmed-exhibitors-logos=
+..jpg" width=3D"738" height=3D"271" alt=3D""/></td>
+                    </tr>
+                    <tr>
+                        <td height=3D"30" align=3D"center" bgcolor=3D"#ffd5=
+31" style=3D"font:normal 18px Arial;"><strong>VIP buyers at the trade fair<=
+/strong></td>
+                    </tr>
+                    <tr>
+                        <td align=3D"center"><img src=3D"http://www.indiala=
+bexpo.com/emailer-imgs/AAI-Buyer-Seller-logo-EDM/vip-buyers-logos.jpg" widt=
+h=3D"738" height=3D"231" alt=3D""/></td>
+                    </tr>
+                    <tr>
+                        <td height=3D"50" align=3D"center" style=3D"font:80=
+0 30px Arial; color:#3f3e40; letter-spacing:-1px;">Are you participating in=
+ 2016?</td>
+                    </tr>
+                    <tr>
+                        <td><table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+                            <tbody>
+                                <tr>
+                                    <td width=3D"25" bgcolor=3D"#d2d3d5">&n=
+bsp;</td>
+                                    <td align=3D"left" bgcolor=3D"#d2d3d5" =
+style=3D"font:normal 12px Arial; line-height:16px;"><strong>For more detail=
+s contact: Messe M&uuml;nchen India</strong><br>
+                                        Ms. Avisha Desai | Tel.: +91 22 425=
+5 4710 | Mobile: +91 98206 68393 | Email: <a href=3D"mailto:mohsin.darvesh@=
+mmi-india.in" style=3D"color:#000; text-decoration:none;">avisha.desai@mmi-=
+india.in</a></td>
+                                    <td width=3D"122"><img src=3D"http://ww=
+w.indialabexpo.com/emailer-imgs/AAI-Buyer-Seller-EDM-June2016/mmi-logo.jpg"=
+ width=3D"142" height=3D"63" alt=3D""/></td>
+                                    <td width=3D"25">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table></td>
+                    </tr>
+                    <tr>
+                        <td style=3D"padding:0; margin:0; font-size:0px;"><=
+img src=3D"http://www.indialabexpo.com/emailer-imgs/AAI-Buyer-Seller-EDM-Ju=
+ne2016/footer.jpg" alt=3D"" width=3D"800" height=3D"120" usemap=3D"#Map"/>
+                            <map name=3D"Map">
+                                <area shape=3D"rect" coords=3D"130,45,159,7=
+5" href=3D"http://e.mailermmiindia.com/a/hBXdN$VB8$VXfB9PNX7AAA-vqft/link4"=
+ target=3D"_blank" alt=3D"">
+                                <area shape=3D"rect" coords=3D"82,44,114,74=
+" href=3D"http://e.mailermmiindia.com/a/hBXdN$VB8$VXfB9PNX7AAA-vqft/link2" =
+target=3D"_blank">
+                                <area shape=3D"rect" coords=3D"31,45,64,75"=
+ href=3D"http://e.mailermmiindia.com/a/hBXdN$VB8$VXfB9PNX7AAA-vqft/link3" t=
+arget=3D"_blank">
+                            </map></td>
+                    </tr>
+                    </tbody>
+            </table></td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
+
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+      <tbody>
+        <tr>
+          <td>
+          <table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0">
+               <tbody>
+                <tr>
+                    <td width=3D"600" height=3D"14" align=3D"center" valign=
+=3D"middle">
+                              <span style=3D"font-family:Arial, sans-serif;=
+ font-size:12px; color:#666666; line-height:12px;">If you find this email i=
+n Spam Please Mark as <span style=3D"font-weight:bold;">not spam</span></sp=
+an>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0=
+" cellspacing=3D"0">
+               <tbody>
+                <tr>
+                    <td width=3D"600" height=3D"14" align=3D"center" valign=
+=3D"middle">
+                              <span style=3D"font-family:Arial, sans-serif;=
+ font-size:12px; color:blue; line-height:12px;">Mark as important</span> | =
+<span style=3D"font-family:Arial, sans-serif; font-size:12px; color:#666666=
+; line-height:12px;"><a href=3D"mailto:rm-2b8wtwjbbfgp808auk62u3bysq3kza9@e=
+.mailermmiindia.com?subject=3DUnsubscribe&amp;body=3DYou%20will%20be%20unsu=
+bscribed%20from%20mailing%20list." target=3D"_blank" style=3D"color:blue; f=
+ont-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; text-de=
+coration: none; font-weight:bold;">Report Spam</a></span> | <span style=3D"=
+font-family:Arial, sans-serif; font-size:12px; color:blue; line-height:12px=
+;">To Unsubscribe <a href=3D"mailto:rm-2b8wtwjbbfgp808auk62u3bysq3kza9@e.ma=
+ilermmiindia.com?subject=3DUnsubscribe&amp;body=3DYou%20will%20be%20unsubsc=
+ribed%20from%20mailing%20list." target=3D"_blank" style=3D"text-decoration:=
+none; color:blue;">click here</a></span> | <span style=3D"font-family:Arial=
+, sans-serif; font-size:12px; color:blue; line-height:12px;">To view in bro=
+wser <a href=3D" http://ebm.e.mailermmiindia.com/c/tag/BXdN$VB8$VXfB9PNX7AA=
+A-vqft/doc.html?t_sparams=3Di2upT5U4D2emaPaMJiYhgMaRLsMA8JC75BCaMi$zFOQSykG=
+nnDs6mI7oxd1M69PLkOJ8a9zJ6sCPlSA" target=3D"_blank" style=3D"text-decoratio=
+n:none; color:blue;">Click Here</a></span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+--=b8wtwjbbfgp808auk62u3bysq3kza9--
+

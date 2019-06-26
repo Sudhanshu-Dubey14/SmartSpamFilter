@@ -1,0 +1,160 @@
+Return-Path: <bounce-656-53770364-656-248@kts.emailvx.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Envelope-To-Blocked: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Quarantine-ID: <auA9t3YIldrQ>
+X-Spam-Flag: YES
+X-Spam-Score: 8.428
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.428 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BL_SPAMCOP_NET=1.246,
+	RCVD_IN_BRBL_LASTEXT=1.644, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, T_URIBL_SEM_FRESH_10=0.01,
+	T_URIBL_SEM_FRESH_15=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id auA9t3YIldrQ; Thu,  8 Nov 2018 21:24:38 +0530 (IST)
+Received: from kts.emailvx.com (kts.emailvx.com [93.119.178.252])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 70965F4BB6E
+	for <mukesh_kumar@jcbl.com>; Thu,  8 Nov 2018 21:24:27 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emailvx; d=kts.emailvx.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Transfer-Encoding:Content-Type; i=kenny@kts.emailvx.com;
+ bh=1jTNt4wEmQtTknqV6260Hfo+oW4=;
+ b=C/UbstnxAFx0/K+/QkyAsMd9FTUnwhFJLB1CLFY766LEB/GwqDoINoBYkPVdrCxYlIG3OcFxU+rI
+   7q03Dh76urx0rBGNxQQcwbWJPfav3G7BDIOhnCFmr9PlkguEHLhSMeE32xZ0Ktb9JZKfW8CoXcCF
+   6NJOuLc9Tcj3t93gDOU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=emailvx; d=kts.emailvx.com;
+ b=OmJlvOzGS/rGALhr7iv/AJMm6VSKBJl8o7l/hhssDX44MkOn47VOP5fRl9eAwwjCGh8Hjft9b1+D
+   HPvlQmyRtTFIGd1uVy03arO+juqnbILH7bNp2KJJwFgd4kSP2m1E0wkpxTXA3BI8A2OskVm6Fvzb
+   7CVG0hhZkzbmbSty98E=;
+Received: by kts.emailvx.com id hshe3g0e97cd for <mukesh_kumar@jcbl.com>; Thu, 8 Nov 2018 04:49:27 -0500 (envelope-from <bounce-656-53770364-656-248@kts.emailvx.com>)
+Date: Thu, 8 Nov 2018 04:49:26 -0500
+To: "mukesh_kumar@jcbl.com" <mukesh_kumar@jcbl.com>
+From: kenny <kenny@kts.emailvx.com>
+Reply-to: k
+Subject: do u cold ?
+Message-ID: <d6ecc56335ba53c2497703dd3139a271@kts.emailvx.com>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: bounce@kts.emailvx.com
+List-Unsubscribe: kenny@kts.emailvx.com
+X-MessageID: M3x8fHwyNjM1ODB8fHx8bXVrZXNoX2t1bWFyQGpjYmwuY29tfHx8fDN8fHx8MXx8fHww
+X-Report-Abuse: <http://kts.emailvx.com/oem/report_abuse.php?mid=M3x8fHwyNjM1ODB8fHx8bXVrZXNoX2t1bWFyQGpjYmwuY29tfHx8fDN8fHx8MXx8fHww>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<div style=3D"position: relative; font-size: 14px; padding: 15px 15px 10px =
+15px; *padding: 15px 15px 0 15px;&#10;    overflow: visible; font-size: 14p=
+x; line-height: 170%; min-height: 100px; _height: 100px;">
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin=
+: 0px auto; padding: 0px 10px; background-color: #ffffff; font-family: aria=
+l, helvetica, sans-serif; width: 650px;">
+<tr>
+<td><img border=3D"0" src=3D"http://email.emailvs.com/img/UGG1.jpg" style=
+=3D"display: block; border-width: 0px; border-style: solid;" usemap=3D"#Map=
+" /></td>
+</tr>
+<tr>
+<td><img border=3D"0" src=3D"http://email.emailvs.com/img/UGG2.jpg" style=
+=3D"display: block; border-width: 0px; border-style: solid;" usemap=3D"#Map=
+2" /></td>
+</tr>
+<tr>
+<td><a href=3D"https://www.roparka.com/"><img border=3D"0" src=3D"http://em=
+ail.emailvs.com/img/UGG3.jpg" style=3D"display: block; border-width: 0px; b=
+order-style: solid;" /></a></td>
+</tr>
+<tr>
+<td><img border=3D"0" src=3D"http://email.emailvs.com/img/UGG4.jpg" style=
+=3D"display: block; border-width: 0px; border-style: solid;" usemap=3D"#Map=
+3" /></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><img border=3D"0" src=3D"http://email.emailvs.com/img/UGG6.jpg" style=
+=3D"display: block; border-width: 0px; border-style: solid;" usemap=3D"#Map=
+5" /></td>
+</tr>
+<tr>
+<td><img border=3D"0" src=3D"http://email.emailvs.com/img/UGG7.jpg" style=
+=3D"display: block; border-width: 0px; border-style: solid;" usemap=3D"#Map=
+6" /></td>
+</tr>
+<tr>
+<td>
+<p style=3D"line-height: 36px; font-size: 12px; color: #777777; margin: 0px=
+; padding: 20px 0px 20px 8px;text-align: left;">Every Canada Goose product =
+is designed with purpose and informed by the rugged demands of the Arctic.<=
+br /> The precision of every cut, fold and stitch is one that&rsquo;s guide=
+d by decades of experience.<br /> we&rsquo;ve been made in Canada since 195=
+7 and always will be.1</p>
+</td>
+</tr>
+</table>
+<map id=3D"Map" name=3D"Map">
+<area coords=3D"2,2,120,94" href=3D"https://www.roparka.com/" shape=3D"rect=
+" />=20
+</map>
+<map id=3D"Map2" name=3D"Map2">
+<area coords=3D"6,3,61,28" href=3D"https://www.roparka.com/" shape=3D"rect"=
+ />
+<area coords=3D"73,3,167,29" href=3D"https://www.roparka.com/" shape=3D"rec=
+t" />
+<area coords=3D"183,6,283,28" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"294,2,358,28" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"366,2,412,31" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"419,2,462,28" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"473,4,536,26" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"547,3,640,28" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />=20
+</map>
+<map id=3D"Map3" name=3D"Map3">
+<area coords=3D"7,3,425,241" href=3D"https://www.roparka.com/" shape=3D"rec=
+t" />
+<area coords=3D"225,250,420,446" href=3D"https://www.roparka.com/" shape=3D=
+"rect" />
+<area coords=3D"440,8,642,446" href=3D"https://www.roparka.com/" shape=3D"r=
+ect" />
+<area coords=3D"13,253,202,445" href=3D"https://www.roparka.com/" shape=3D"=
+rect" />=20
+</map>
+<map id=3D"Map5" name=3D"Map5">
+<area coords=3D"3,41,207,295" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"219,36,430,297" href=3D"https://www.roparka.com/" shape=3D"=
+rect" />
+<area coords=3D"438,38,647,296" href=3D"https://www.roparka.com/" shape=3D"=
+rect" />=20
+</map>
+<map id=3D"Map6" name=3D"Map6">
+<area coords=3D"8,3,89,20" href=3D"https://www.roparka.com/" shape=3D"rect"=
+ />
+<area coords=3D"104,3,146,21" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"164,4,277,20" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"294,3,436,23" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />
+<area coords=3D"449,2,572,26" href=3D"https://www.roparka.com/" shape=3D"re=
+ct" />=20
+</map>
+</div>
+
+<img src=3D"http://kts.emailvx.com/oem/to.php?p=3Drv/ru/rs/5o5g/rv/rs" widt=
+h=3D"5" height=3D"2" alt=3D".">
+
+</body>
+</html>

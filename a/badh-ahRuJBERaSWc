@@ -1,0 +1,511 @@
+Return-Path: <TCDLH-355116-par_nanda@tcmailer11.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ahRuJBERaSWc>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char C3 hex):
+	List-Unsubscribe:
+	...hLm5ldA==unsub>,<http://t\303\203\302\234vrheinlandindi[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ahRuJBERaSWc for <admin@mslindia.net>;
+	Wed,  6 Apr 2016 09:33:04 +0530 (IST)
+Received: from m36.tcmail8.in (m36.tcmail8.in [199.166.35.36])
+	by mx10.jcbl.com (Postfix) with ESMTP id D7CCCED2D31
+	for <par_nanda@mslindia.net>; Wed,  6 Apr 2016 09:33:00 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=oct; d=tuvrheinland.net;
+ h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:MIME-Version:Content-Transfer-Encoding:Content-Type; i=academy@tuvrheinland.net;
+ bh=z9tyQcruYdDuHSEDoCCGFucFpz0=;
+ b=at4g8IoJQTuJhWe9i82au+R0sUQI9H/lB5d/rrt97DAY6fU7F9XlX7dT023siWAatKFs+0tmgeVp
+   3f7KAXxaozS7zIrSK9e40zl7GapxS/SVfc2BYWGU4kcRQZVGEHY6HXguqZhFEShoEOgdeejaCk2e
+   PGlvCtaPuVu83x3+eOk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=oct; d=tuvrheinland.net;
+ b=oZEgj7Tjho4zaaNKpqxLrKH1m2LlviW9wTE3adnCszro7ODBNzxi5jR94MLxqIjeftGg57ZwPijj
+   G785e7VjCyLdgLMelkJUuMLrgzcN/JLG9dDGgZmfE2vaPWfIopcOnVf44116/DBExRqMM9EJRRrz
+   ObXpXs6wlpo3okEMnno=;
+Date: Wed, 6 Apr 2016 05:09:22 +0100
+To: par_nanda@mslindia.net
+From: TUV Rheinland Academy <academy@tuvrheinland.net>
+Reply-to: amit.kaushal@ind.tuv.com
+Subject: IRCA Certified Lead Auditor Course on QMS 9001:2015 & EMS 14001:2015 in New Delhi
+X-Mailer: tcmailer11.in
+X-Complaints-To: abuse@tcmailer11.in
+List-Unsubscribe: <mailto:unsubscribe@tcmailer11.in?subject=TCDLH-355116-44585-2-cGFyX25hbmRhQG1zbGluZGlhLm5ldA==unsub>,<http://tÜvrheinlandindiapvtltd.tcmailer11.in/tr/ud/2/355116/44585/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D>
+Message-ID: <TCDLH-355116-44585-2-cGFyX25hbmRhQG1zbGluZGlhLm5ldA==unsub@tcmailer11.in>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<title>IRCA Certified Lead Auditor Course </title>
+<style type=3D"text/css">
+
+</style>
+<body>
+<table style=3D"width: 666px;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-=
+size: 11px; color: #333;" height=3D"30" width=3D"666" align=3D"center"><a h=
+ref=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/v/2/355116/4458=
+5/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D' ><span style=3D"color: #333; text-d=
+ecoration: underline;">View this message in your browser</a></span> &nbsp;|=
+&nbsp; <a href=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/f/2/=
+355116/44585/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D' ><span style=3D"color: #=
+333; text-decoration: underline;">Forward to your friends</a></span></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"border: 1px solid #cccccc; width: 1048px;" align=3D"center"=
+ border=3D"20" bordercolor=3D"#FF6600" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"1044" bgcolor=3D"#FFFFFF">
+<table style=3D"width: 1043px;" align=3D"center" border=3D"0" bordercolor=
+=3D"#FF9900" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr bgcolor=3D"#CCCCCC">
+<td height=3D"82" width=3D"1043" align=3D"right" bgcolor=3D"#FFFFFF">
+<div align=3D"left">
+<p align=3D"right"><strong><a href=3D"http://t=C3=9Cvrheinlandindiapvtltd.t=
+cmailer11.in/tr/r/2/355116/44585/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D/0/W10=
+%3D"  target=3D"_blank"><span style=3D"font-size: 24px;"><img src=3D"http:/=
+/image.trackcampaigns.com/ci/2047/3124/355116/images/image1.jpg"  style=3D"=
+padding: 0; margin: 0; display: inline block;" alt=3D"TUV Rheinland" title=
+=3D"TUV Rheinland" height=3D"67" width=3D"242" align=3D"top" border=3D"0" /=
+></span></a></strong></p>
+</div>
+</td>
+</tr>
+<tr>
+<td bordercolor=3D"#000000" height=3D"840" valign=3D"top" bgcolor=3D"#FFFFF=
+F">
+<table style=3D"width: 1044px;" border=3D"1" bordercolor=3D"#000000">
+<tbody>
+<tr><th scope=3D"col" width=3D"508" bgcolor=3D"#FF9933"><span style=3D"font=
+-size: small; color: #000080;" class=3D"style111"><strong><em><span style=
+=3D"text-decoration: underline;">Early Bird Discount:</span> Rs. 3000.00 di=
+scount on delegate fee if registered with payment exactly 15 days before th=
+e program.</em></strong></span></th><th scope=3D"col" width=3D"8" bgcolor=
+=3D"#000066">&nbsp;</th><th scope=3D"col" width=3D"506" bgcolor=3D"#FF9900"=
+><span style=3D"font-size: small; color: #000080;"><strong><em><span style=
+=3D"text-decoration: underline;">Group Discount:</span></em></strong><stron=
+g><em> 10% discount on 3 or more people from single organization</em></stro=
+ng></span></th></tr>
+</tbody>
+</table>
+<table style=3D"width: 1044px;" border=3D"1" bordercolor=3D"#000000">
+<tbody>
+<tr><th scope=3D"col" bgcolor=3D"#000066">
+<p class=3D"style106"><span style=3D"font-family: arial,helvetica,sans-seri=
+f;"><strong><span style=3D"font-size: medium; color: #00ff00;">IRCA Certifi=
+ed Lead Auditor Course</span></strong></span></p>
+</th></tr>
+</tbody>
+</table>
+<table style=3D"width: 1044px; height: 93px;" border=3D"1" bordercolor=3D"#=
+000000">
+<tbody>
+<tr><th scope=3D"col" height=3D"87" width=3D"513" bgcolor=3D"#D5ECFD">
+<p class=3D"style97" align=3D"center"><span style=3D"color: #000000;"><stro=
+ng><span style=3D"font-size: medium; font-family: arial,helvetica,sans-seri=
+f;">ISO 9001: 2015 - Quality Management System </span></strong></span><br /=
+><span style=3D"color: #993300;"><strong><span style=3D"font-size: medium; =
+font-family: arial,helvetica,sans-serif;" class=3D"style108"> (IRCA Registr=
+ation No: A 17217)</span></strong></span></p>
+<span style=3D"color: #000000;"><strong><span style=3D"font-size: medium; f=
+ont-family: arial,helvetica,sans-serif;" class=3D"style97">23rd &ndash; 27t=
+h May 2016: New Delhi</span></strong></span></th><th scope=3D"col" width=3D=
+"514" bgcolor=3D"#F2E6E3">
+<p class=3D"style97" align=3D"center"><span style=3D"color: #000000;"><stro=
+ng><span style=3D"font-family: arial,helvetica,sans-serif; font-size: mediu=
+m;">ISO 14001: 2015 - Environmental Management System<br /> <span style=3D"=
+color: #993300;" class=3D"style107">(IRCA Registration No: A18010)</span></=
+span></strong></span></p>
+<span style=3D"color: #000000;"><strong><span style=3D"font-family: arial,h=
+elvetica,sans-serif; font-size: medium;" class=3D"style97">20th &nbsp;- 24t=
+h June 2016: New Delhi</span></strong></span></th></tr>
+</tbody>
+</table>
+<div align=3D"justify">
+<table style=3D"width: 1043px;" border=3D"1" bordercolor=3D"#000000">
+<tbody>
+<tr><th scope=3D"col" width=3D"513">
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">TUV Rheinland (India) Pvt. Ltd. is conducting the <strong>ISO =
+9001:2015 Lead Auditor Course</strong> from <strong>23rd &ndash; 27th May 2=
+016 in New Delhi.</strong> This is a five-day interactive training course, =
+intended for qualifying individuals as Lead Auditors. <strong>Our Lead Audi=
+tor Courses are registered with International Registrar of Certified Audito=
+rs (IRCA)</strong>. The course fulfills the requirements for qualifying as =
+Auditors/Lead Auditors to the IRCA Scheme. This course provides valuable in=
+puts on Quality Management System and provides practical skills essential t=
+o become a competent lead auditor. By the end of this course, delegates wil=
+l be able to perform first, second and third party audits of quality manage=
+ment systems against ISO 9001:2015, in accordance with ISO 19011 and ISO 17=
+021 as applicable.</span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"left"><span st=
+yle=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; color: =
+#000000;">Benefits:</span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"left"><span st=
+yle=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; color: =
+#000000;">Upon successful completion of the course you should be able to:</=
+span></p>
+<div style=3D"text-align: justify;" class=3D"style97" align=3D"left">
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Describe the purpose of a quality m=
+anagement system (QMS)</span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Explain the high level structure</s=
+pan></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Explain the risk based approach</sp=
+an></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Explain the purpose, content and in=
+terrelationship of ISO 9000:2015, ISO 19011:2011, and ISO 17021:2011</span>=
+</li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Interpret the requirements of ISO 9=
+001:2015 within the context of audit</span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Describe the roles and responsibili=
+ties of auditors and lead auditors</span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;" class=3D"style95">Plan and conduct =
+an audit in accordance with ISO 19011 and ISO 17021 and demonstrate the abi=
+lity to: </span>
+<ul>
+<li class=3D"style95"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; font-size: x-small; color: #000000;">Plan and prepare effectively</span>=
+</li>
+<li class=3D"style95"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; font-size: x-small; color: #000000;">Gather objective evidence, through =
+effective interviewing, observation, sampling and note taking.</span></li>
+<li class=3D"style95"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; font-size: x-small; color: #000000;">Analyse and interpret information i=
+n order to determine conformance with requirements.</span></li>
+<li class=3D"style95"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; font-size: x-small; color: #000000;">Report the audit, including writing=
+ valid, factual and value-adding non-conformity report.</span></li>
+<li class=3D"style95"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; font-size: x-small; color: #000000;">Undertake audit follow-up activitie=
+s, including evaluating the effectiveness of corrective action.</span></li>
+</ul>
+</li>
+</ul>
+</div>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"left"><span st=
+yle=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; color: =
+#000000;">Outline:</span></p>
+<div style=3D"text-align: justify;" class=3D"style97" align=3D"left">
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Knowledge of standards</span></li>
+</ul>
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Knowledge of the audit processes an=
+d responsibilities</span></li>
+</ul>
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Knowledge of how to plan an audit</=
+span></li>
+</ul>
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Knowledge of how to carry out the a=
+udit</span></li>
+</ul>
+<ul type=3D"disc">
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;">Knowledge of how to report the audi=
+t findings and carry out the follow up activities</span></li>
+</ul>
+</div>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">Participants Profile: The course would benefit personnel from =
+Quality, Inspection, Maintenance, Purchase, Production, Marketing, Sales an=
+d Auditors (External & Internal), management representatives, supervisors, =
+Personnel with industrial / Institutional experience etc.</span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">Examination: There would be a written examination at the end o=
+f this course. Delegates who successfully complete both the examination and=
+ the continuous assessment will be awarded a Certificate of Successful Comp=
+letion and will satisfy the formal training requirements for IRCA QMS Audit=
+or Certification scheme.</span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;" class=3D"style118"><span style=3D"color: #0000ff;"><strong>Reg=
+istration: </strong>The course fee for the program is <strong>Rs. 23,000/ <=
+/strong>per participant (+14.5% of service tax extra). </span><strong><span=
+ style=3D"color: #0000ff;">Course fee includes cost of certificate, course =
+material, lunch & coffee/tea etc.</span> </strong></span></p>
+</th><th scope=3D"col" width=3D"514">
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">An effective Environmental Management System depends upon an e=
+ffective audit by a competent EMS Auditor. Technical knowledge and practica=
+l skills are essential to become a competent Lead Auditor. Keeping this in =
+view, <strong>T&Uuml;V Rheinland </strong>is organising a 5 days<strong> Le=
+ad Auditor Course on ISO 14001: 2015 from 20th &nbsp;- 24th June 2016 in Ne=
+w Delhi.</strong></span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">This course is registered with <strong>IRCA (UK</strong>), the=
+ world&rsquo;s foremost body for Auditor Certification and this 5 days cour=
+se will provide most comprehensive range of management systems on ISO 14001=
+: 2015. The course uses a mixture of taught sessions, discussions and pract=
+ical exercises to achieve its aims. The practical exercises are based upon =
+a fictional company. However, the procedures, work instructions and data ar=
+e typical and could relate to many different enterprises equally. &nbsp;</s=
+pan></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;">The practical exercises have been carefully designed to focus =
+upon issues that commonly arise during EMS audits. &nbsp; &nbsp;</span></p>
+<p style=3D"text-align: justify;" class=3D"style103" align=3D"justify"><spa=
+n style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; col=
+or: #000000;"><span style=3D"text-decoration: underline;">Contents: </span>=
+&nbsp;</span></p>
+<div style=3D"text-align: justify;" align=3D"justify">
+<ul>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Recap of audit basics (ISO =
+14001)</strong></span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Guidelines for Audits (ISO =
+19011 and ISO 17021)</strong></span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Planning, preparation and i=
+mplementation of audits</strong></span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Surveillance activities, fo=
+llow-up</strong></span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Communication</strong></spa=
+n></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Questioning techniques, aud=
+it opening, audit questions, active listening, communication problems</stro=
+ng></span></li>
+<li class=3D"style95"><span style=3D"font-size: x-small; font-family: arial=
+,helvetica,sans-serif; color: #000000;"><strong>Interfaces between OH&SMS, =
+EMS and QMS, in auditing</strong></span></li>
+</ul>
+</div>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"left"><span st=
+yle=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; color: =
+#000000;"><strong><span style=3D"text-decoration: underline;">Benefits:</sp=
+an>&nbsp; </strong></span></p>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"left"><span st=
+yle=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; color: =
+#000000;">Upon successful completion, delegates will:</span></p>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Audit as per the requirements of ISO =
+14001:2015standard</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Understand key elements of ISO 19011 =
+and ISO/IEC 17021Standards</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Understand key environmental issues</=
+span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Plan an audit against a set of audit =
+criteria</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Successfully execute an environmental=
+ management systems audit</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Understand the differences between QM=
+S and EMS audits</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Create clear, concise and relevant au=
+dit reports</span></div>
+</li>
+</ul>
+<ul style=3D"text-align: justify;" class=3D"style95">
+<li>
+<div align=3D"left"><span style=3D"font-size: x-small; font-family: arial,h=
+elvetica,sans-serif; color: #000000;">Communicate the audit findings to a c=
+lient.</span></div>
+</li>
+</ul>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;"><strong>Participants Profile:</strong><strong> </strong>Person=
+nel involved in the implementation of Management Systems, Managers/executiv=
+es who are involved in Internal Quality Audit, Persons who require knowledg=
+e on Management System Auditing process, Personnel who wish to register as =
+Lead Auditor with IRCA, Consultants in Environmental sectors etc.</span></p=
+>
+<p style=3D"text-align: justify;" class=3D"style95" align=3D"justify"><span=
+ style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; colo=
+r: #000000;"><strong>Examination: </strong>There would be a written examina=
+tion at the end of this course. Delegates who successfully complete both th=
+e examination and the continuous assessment will be awarded a Certificate o=
+f Successful Completion and will satisfy the formal training requirements f=
+or IRCA EMS Auditor Certification scheme.</span></p>
+<p style=3D"text-align: justify;" class=3D"style113" align=3D"justify"><spa=
+n style=3D"font-size: x-small; font-family: arial,helvetica,sans-serif; col=
+or: #0000ff;">Registration Fee: Rs. 23,000/- per participant + 14.5% Servic=
+e Tax * Course fee includes cost of certificate, course material, lunch & c=
+offee/tea etc.</span></p>
+</th></tr>
+</tbody>
+</table>
+</div>
+<table bgcolor=3D"#CCFF99" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+>
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"1043" bgcolor=3D"#000033">
+<div align=3D"center"><span style=3D"font-family: arial,helvetica,sans-seri=
+f; color: #ffff00;"><strong><span style=3D"font-size: medium;" class=3D"sty=
+le116">Hurry up..!! Total no. of seats are limited to 10..!!</span></strong=
+></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bordercolor=3D"#000066" style=3D"font-family: Arial, Helvetica, sans-se=
+rif; color: #010101; font-size: 14px; line-height: 18px;" align=3D"left" bg=
+color=3D"#FFFFFF">
+<p style=3D"text-align: justify;" class=3D"style95"><strong><span class=3D"=
+style103">Faculty: Highly experienced faculty from TUV Rheinland Academy wi=
+ll conduct this training. The training sessions will provide participants a=
+n opportunity to discuss specific problems with the expert faculty.</span><=
+/strong></p>
+<p style=3D"text-align: justify;" class=3D"style95"><strong>Venue: </strong=
+>The exact venue will be intimated on receiving the confirmation from the d=
+elegates.</p>
+<p style=3D"text-align: justify;" class=3D"style100"><strong>Our Training /=
+ Workshop are Case studies / Assessment based learning session with support=
+ of Group Exercises / Interactive QA Session.</strong></p>
+<p style=3D"text-align: justify;" class=3D"style100"><strong>We would appre=
+ciate if you can please support to forward this Mailer / Brochure to HR / L=
+earning & Development Team for more participation.</strong></p>
+<ul class=3D"style95" type=3D"disc">
+<li style=3D"text-align: justify;">These are non-residential courses and de=
+legates are requested to make their own arrangements for accommodation.</li=
+>
+<li style=3D"text-align: justify;">For registration, please forward the dul=
+y filled registration form with details to TUV Rheinland, Gurgaon, Registra=
+tion form will be sent upon request.</li>
+<li style=3D"text-align: justify;">The at par cheque/ DD should be drawn in=
+ favor of TUV Rheinland (India) Pvt Ltd payable at Bangalore.</li>
+<li style=3D"text-align: justify;"><strong>Registrations will be accepted o=
+n <strong>"First come First Served"</strong> basis, Delegate fee is non-ref=
+undable. However, change of nominations accepted.</strong></li>
+</ul>
+<p class=3D"style95" align=3D"left"><strong><span style=3D"text-decoration:=
+ underline;">To avail Early Bird / Group Discount and Registration / more d=
+etails, please contact:</span></strong></p>
+<p align=3D"center"><span class=3D"style84"><strong>Amit Kaushal</strong><b=
+r /> (Academy & Life Care)<br /> <strong>T&Uuml;V Rheinland (India) Pvt. Lt=
+d., </strong><br /> Plot&nbsp;# 328, Phase 4, Udyog Vihar, Gurgaon - 122015=
+, Haryana, India.<br /> <strong>Mobile # 91-9811983831, 9999860726</strong>=
+</span><span class=3D"style95"><br /> Email: <a href=3D"mailto:amit.kaushal=
+@ind.tuv.com" >amit.kaushal@ind.tuv.com</a> , Internet: <a href=3D"http://t=
+=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/r/2/355116/44585/cGFyX25hbmRhQ=
+G1zbGluZGlhLm5ldA%3D%3D/2/W10%3D" >http://www.ind.tuv.com</a></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top: 1px dashed #010101;" bgcolor=3D"#CCCCCC">&nbsp;</t=
+d>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; color: #0000ff; fon=
+t-size: 14px; line-height: 20px;" align=3D"left" bgcolor=3D"#FFFFFF">
+<p style=3D"text-align: justify;" align=3D"justify"><span class=3D"style73"=
+><strong><em>About us:&nbsp;T&Uuml;V Rheinland (India)</em></strong><em> is=
+ a member of T&Uuml;V Rheinland Group. The T&Uuml;V Rheinland Group is a le=
+ading provider of technical services worldwide. Established in 1872 with he=
+adquarters in Cologne, the Group employs more than 18,000 people in 500 loc=
+ations in 65 countries. T&Uuml;V Rheinland India, a subsidiary of T&Uuml;V =
+Rheinland Group, Germany, commenced its operations in India in the year 199=
+6 with local headquarters at Bangalore. We have a nationwide presence with =
+32 locations spread over 30 cities in India, employing over 600 highly skil=
+led professionals. T&Uuml;V Rheinland (Academy & Life Care) Division which =
+is one of our six business fields was started with the goal to impart hands=
+ on training on the basis of &ldquo;Teach Fishing rather than giving a Fish=
+&rdquo;.</em><br /> <em>The Academy & Life Care division offers services an=
+d support to industry and educational institutions in professional, vocatio=
+nal & industry - relevant training. Our training courses are specially desi=
+gned to suit the client&rsquo;s needs and customized for bridging the knowl=
+edge gap. We are deeply committed to introduce various concepts in educatio=
+nal sectors and industry in order to promote the Quality practices, enhance=
+ efficiency and improve productivity. We have been associated with more tha=
+n 85 educational institutions and 350 companies across India for providing =
+services on Technical, Nontechnical and Management Oriented training and un=
+dertaking strategic consultancy and turn key projects.</em></span></p>
+</td>
+</tr>
+<tr>
+<td height=3D"19" align=3D"center" bgcolor=3D"#CCCCCC"><span style=3D"font-=
+family: arial,helvetica,sans-serif; color: #000080;"><strong><span style=3D=
+"font-size: medium;" class=3D"style12">&nbsp;</span></strong></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 670px;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; color: #010101; fon=
+t-size: 12px;" height=3D"30" width=3D"670" align=3D"right">To unsubscribe <=
+a href=3D http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/u/2/355116/4=
+4585/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D><span style=3D"color: #4d4d4d; te=
+xt-decoration: underline;">click here</a></span></td>
+</tr>
+</tbody>
+</table>
+<img src=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/w/2/355116=
+/44585/cGFyX25hbmRhQG1zbGluZGlhLm5ldA%3D%3D/oct.gif' width=3D'1' height=3D'=
+1' /></body>
+</html>
+

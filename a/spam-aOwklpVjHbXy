@@ -1,0 +1,104 @@
+Return-Path: <6731-1576-2078-1852-jcblho=jcbl.com@mail.fabgadgetall.icu>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked: <jcblho@jcbl.com>
+X-Quarantine-ID: <aOwklpVjHbXy>
+X-Spam-Flag: YES
+X-Spam-Score: 9.343
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.343 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.001,
+	MPART_ALT_DIFF=0.724, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RCVD_IN_PSBL=2.7,
+	RDNS_NONE=1.274, SPF_PASS=-0.001, T_DKIM_INVALID=0.01,
+	T_RCVD_IN_SEMBLACK=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOwklpVjHbXy for <jcblho@jcbl.com>;
+	Sat, 16 Feb 2019 17:41:00 +0530 (IST)
+Received: from back.fabgadgetall.icu (unknown [185.254.29.145])
+	by mx10.jcbl.com (Postfix) with ESMTP id 119EBF4BA42
+	for <jcblho@jcbl.com>; Sat, 16 Feb 2019 17:40:54 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=fabgadgetall.icu;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Info@fabgadgetall.icu;
+ bh=xTDpN3b8WI8AsoWIMJgQq8W5Phk=;
+ b=zwOQFihDdVOBM4dplQqEoC0VomqB4YNSlZfyqYiqUVQwzEuzOU75MP14HHm9Hi/g85y5LTNhYJGx
+   Cf7SwwxX0jGRYzKeuSl9LYezAepDfxh2JHBjmsAEVuMNMEI8GOsitGtVwYb1MbXHIn1VrsUoxeyb
+   ka5Ysx3fukhasmrmyA8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=fabgadgetall.icu;
+ b=RfN3nn+DgRicvIReYChtYIbsiOJYaAY81p+AkMTqpXSPHeIScKNjyWx9M6CGDcIPvqfyHk+zrlcP
+   sE+bmtM7yWxi1fKcfwMHVd6s7kSjnvPI952zL1JGSAQ+uW0C4pqZMJmD7T2/uR1Ez8XA4IKX3OD/
+   ASEOypS9+i6msKsUbRA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8a389b893491d5827290531e51a0cb18"
+Date: Sat, 16 Feb 2019 05:36:52 -0500
+From: "GetGadgetDeals" <Info@fabgadgetall.icu>
+Reply-To: "Gadget Deals Online" <Info@fabgadgetall.icu>
+Subject: 10 Insanely Cool Products That You Probably Haven't Heard About
+To: <jcblho@jcbl.com>
+Message-ID: <39c3vktkmdk2bq57-cf0uw7iat5rs8o1v-81e@fabgadgetall.icu>
+
+--8a389b893491d5827290531e51a0cb18
+Content-Type: text/plain;
+
+Content-Transfer-Encoding: 8bit
+
+--8a389b893491d5827290531e51a0cb18
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Untitled Document</title>
+</head>
+<body><a href="http://fabgadgetall.icu/JAO8-OX6Aa1q470jwkKzVQgJmAUsOrGqp8AHlSAJU0Sh9RNy_2078_628_efd0118f_0300"><img border="0" src="http://fabgadgetall.icu/AiyorOa-WlNuPf6A_qxuKSp7EhdqT2_S_0wOkIlK4aTamF0_2078_628_8bf9e577_0300" /> </a>
+<table align="center" cellpadding="0px" cellspacing="0px" style="font-family:Georgia, 'Times New Roman', Times, serif; border:1px solid #FF0000; font-size:15px; line-height:22px;" width="650">
+	<tbody>
+		<tr>
+			<td><a href="http://fabgadgetall.icu/5ftfurgFMytQg4U6T0pxSUXObKYnVE4b5VO6r9Ux6FzqKQY_2078_628_1438ab97_0300" target="_blank"><img src="http://fabgadgetall.icu/3ff9b6303a9c975a03.gif" width="650" /></a></td>
+		</tr>
+		<tr>
+			<td align="center" style="padding:15px;"><br />
+			<b style="font-size:29px; line-height:34px;">Why wait? Here are 10 portable tech gadgets you&#39;ll want to use every day !</b><br />
+			<br />
+			Electronics are getting smaller and smaller, and we all seem to have our own special must-have gadgets that we never leave home without.<br />
+			<br />
+			Tech enthusiast is full of highly technological and gadgets that you would love to own as a high priority. There can be gadgets that you would not even want to have it, but still, Lose Your Heart upon. However, with a Limited budget, your decision should be good enough oomph your life.</td>
+		</tr>
+		<tr>
+			<td align="center"><br />
+			<a href="http://fabgadgetall.icu/5ftfurgFMytQg4U6T0pxSUXObKYnVE4b5VO6r9Ux6FzqKQY_2078_628_1438ab97_0300" style="background-color:#E1E100; font-size:19px; color:#0000FF; font-weight:bold; border:2px groove #FFFF00; text-decoration:none; padding:11px;" target="_blank">&nbsp; Check It Now! --&gt; Get Your&#39;s Today &nbsp; </a><br />
+			<br />
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+&nbsp;
+<center><span style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://fabgadgetall.icu/Yqp-HXuPioizKq9tQPCqPakxiXj32xVO6nRem_Je2VRs6TM_2078_628_33837b67_0300" style="color:#0099FF" target="_blank">Unsubscribe</a><br />
+645 Adonais Way Atlanta, GA 30328 </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#fff; font-size:8px;">league&rsquo;s reach. The NFL also was widely ridiculed for having the audacity to honor the Rev. Martin Luther King Jr. while actively silencing another advocate of peaceful protes This on top of polls that now tilt in Kaepernick&rsquo;s favor and a resoundingly successful Nike ad campaign featuring the exiled quarterback No, this was a lost cause for the NFL a long time ago. It just took the league a while to admit it If anything, it proves my point from last year Reid said after he signed a three-year extension with the Carolina Panthers earlier this week t sign until the (fourth) week and did for almost the league minimum. And this year I signed a more substantial contract. And nothing has changed m still the same player Winter5s icy grip wreaked havoc across a wide swath of the northern U1S1 on Tuesday3 bringing sleet3 snow3 ice3 power outages and commuter headaches to more than 100 million people from Seattle to Boston1 The worst of Tues
+ day5s eastern storm will wind down Wednesday3 though strong winds and snow showers will still create a wintry feel in the Midwest and Northeast1 Meanwhile3 for folks in the West3 the weather misery is only getting started: The storm that slammed Washington state Tuesday will roar down the coast into California over the next few days3 walloping the region with torrential rain and yards of snow1 <a href="http://fabgadgetall.icu/pcStXMc_b_z7uE8wWyqNN5gdF8BQQqBRIcMYYsOJhKg7Y2vy_2078_628_82181841_0300" target="_blank"><img src="http://fabgadgetall.icu/3e86ca9476c4ab18c5.png" /></a> </span></center>
+</body>
+</html>
+
+--8a389b893491d5827290531e51a0cb18--
+

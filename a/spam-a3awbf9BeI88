@@ -1,0 +1,163 @@
+Return-Path: <mail-noreply@sukinninfo.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sandip_c@jcbl.com>
+X-Envelope-To-Blocked: <sandip_c@jcbl.com>
+X-Quarantine-ID: <a3awbf9BeI88>
+X-Spam-Flag: YES
+X-Spam-Score: 12.781
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.781 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_IMAGE_ONLY_32=0.001,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_RP_RNBL=1.284, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, T_URIBL_BLACK_OVERLAP=0.01,
+	T_URIBL_SEM_FRESH_10=0.01, T_URIBL_SEM_FRESH_15=0.01,
+	URIBL_BLACK=1.775, URIBL_DBL_SPAM=1.7, URIBL_JP_SURBL=1.948]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a3awbf9BeI88 for <sandip_c@jcbl.com>;
+	Wed, 24 Oct 2018 06:50:35 +0530 (IST)
+Received: from ads.sukinninfo.com (ads.sukinninfo.com [162.144.147.244])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 1DB5EEE90D9
+	for <sandip_c@jcbl.com>; Wed, 24 Oct 2018 06:50:33 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sukinninfo.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=2yilA/tKatYKbAXl1SI2lu/IwcYYSkvxxBJSAUXOP38=; b=kuGu3TtQucwBupUTaBXYliKzir
+	9mRyuIl3RslQBCoAegx66ZwB6AuVozq+11Mkcd+5iHIfPr0YKTwTf3XT/QTwErzJ8khWiFhQ9UkvI
+	Xa/ASQhw0lrgCwbpu6zlwPB6LY2Yw4wphYEZTxTZ7ChIJsvwl5GP7vDD1InaUHkXYlusfkT4uZ6Sm
+	07bDF7ufuQlNofeuyIOoEKVVuqMpCt9qVme4zxPTg+vgaKu0VnN+7aR1w7Wlav2bZBwojPK15u8Tc
+	4nl+oFeLl6FC7vNMLWVIHrH0UwC+Mh47xfVdH1kpVEjmriHqmMMbfrCeFGkcpYPfPUQFruZ563iGb
+	CjbRYbZg==;
+Received: from sukininfo by ads.sukinninfo.com with local (Exim 4.91)
+	(envelope-from <mail-noreply@sukinninfo.com>)
+	id 1gF7s9-0000RH-DG
+	for sandip_c@jcbl.com; Wed, 24 Oct 2018 01:22:09 +0000
+To: sandip_c@jcbl.com
+Subject: Hair Darkening Shampoo
+X-PHP-Originating-Script: 500:email.php
+Message-ID: <cffdbe73a5f6393a24df418e3227d12b@sukinninfo.com>
+Date: Tue, 23 Oct 2018 22:45:08 +0000
+From: "Sukinn Healthcare India" <info@sukinnhealthcare.com>
+Reply-To: sales@sukinnhealthcare.com
+MIME-Version: 1.0
+X-Mailer-LID: 4
+List-Unsubscribe: <https://sukinninfo.com/eml/unsubscribe.php?M=190671&C=4b387e32901382f890e30db8cd93deb4&L=4&N=7>
+X-Mailer-SID: 7
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_50908be2348b7d4a3d16ffd30c340a94"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ads.sukinninfo.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [500 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - sukinninfo.com
+X-Get-Message-Sender-Via: ads.sukinninfo.com: authenticated_id: sukininfo/sender_address_domain
+X-Authenticated-Sender: ads.sukinninfo.com: mail-noreply@sukinninfo.com
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi -f /home/sukininfo/public_html/eml/admin/cron/cron.php 
+X-Source-Dir: sukinninfo.com:/public_html/eml/admin/cron
+
+--b1_50908be2348b7d4a3d16ffd30c340a94
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+https://sukinninfo.com/eml/display.php?M=190671&C=4b387e32901382f890e30db8cd93deb4&S=7&L=4&N=4
+
+
+To stop receiving these
+emails:https://sukinninfo.com/eml/unsubscribe.php?M=190671&C=4b387e32901382f890e30db8cd93deb4&L=4&N=7
+
+--b1_50908be2348b7d4a3d16ffd30c340a94
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>
+<div>
+<div>
+<div style="margin: 0 auto; width: 650px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 650px;">
+<tbody>
+<tr>
+<td><a target="_blank" title="Get instant black hair"
+href="https://sukinninfo.com/eml/link.php?M=190671&N=7&L=5&F=H"><img
+border="0" vspace="0" hspace="0" style="margin: 0px; border: 0px;
+display:block;" alt="Best hair dye shampoo" height="718" width="650"
+src="http://www.sukinnhealthcare.com/wp-content/uploads/2018/09/Good-hair-dye-shampoo.jpg"
+/></a></td>
+</tr>
+<tr>
+<td height="40" bgcolor="#B9A59E" style="font-family:Arial, Helvetica,
+sans-serif; font-size:16px; color:#000; text-align:center;
+font-weight:600;">SUKINN HEALTHCARE INDIA</td>
+</tr>
+<tr>
+<td bgcolor="#B9A59E" align="center">Website : <a
+style="text-decoration:none; color:#000; font-family:Arial, Helvetica,
+sans-serif; font-size:13px; text-align:center;"
+href="https://sukinninfo.com/eml/link.php?M=190671&N=7&L=4&F=H"
+target="_blank">www.sukinnhealthcare.com</a> |  eMail : <a
+style="text-decoration:none; color:#000; font-family:Arial, Helvetica,
+sans-serif; font-size:13px; text-align:center;"
+href="mailto:sales@sukinnhealthcare.com">sales@sukinnhealthcare.com</a></td>
+</tr>
+<tr>
+<td bgcolor="#B9A59E" align="center"></td>
+</tr>
+<tr>
+<td bgcolor="#B9A59E" align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0"
+style="width: 120px;">
+<tbody>
+<tr>
+<td><a href="https://sukinninfo.com/eml/link.php?M=190671&N=7&L=2&F=H"
+target="_blank"><img alt="facebook link" border="0" vspace="0" hspace="0"
+style="display:block;"
+src="http://www.sukinnhealthcare.com/wp-content/uploads/2018/01/icon-facebook.jpg"
+width="30" height="30" /></a></td>
+<td><a href="https://sukinninfo.com/eml/link.php?M=190671&N=7&L=3&F=H"
+target="_blank"><img alt="twitter link" border="0" vspace="0" hspace="0"
+style="display:block;"
+src="http://www.sukinnhealthcare.com/wp-content/uploads/2018/01/icon-twitter.jpg"
+width="30" height="30" /></a></td>
+<td><a href="https://sukinninfo.com/eml/link.php?M=190671&N=7&L=1&F=H"
+target="_blank"><img border="0" vspace="0" hspace="0"
+style="display:block;"
+src="http://www.sukinnhealthcare.com/wp-content/uploads/2018/01/icon-youtube.jpg"
+width="30" height="30" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#B9A59E" align="center"><a style="text-decoration:none;
+color:#000; font-family:Arial, Helvetica, sans-serif; font-size:13px;
+text-align:center;"
+href="https://sukinninfo.com/eml/unsubscribe.php?M=190671&C=4b387e32901382f890e30db8cd93deb4&L=4&N=7/">Unsubscribe
+</a> |  <a style="text-decoration:none; color:#000; font-family:Arial,
+Helvetica, sans-serif; font-size:13px; text-align:center;"
+href="https://sukinninfo.com/eml/display.php?M=190671&C=4b387e32901382f890e30db8cd93deb4&S=7&L=4&N=4">View
+web version</a></td>
+</tr>
+<tr>
+<td bgcolor="#B9A59E"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div><img
+src="https://sukinninfo.com/eml/open.php?M=190671&L=4&N=7&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_50908be2348b7d4a3d16ffd30c340a94--
+

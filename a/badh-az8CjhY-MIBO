@@ -1,0 +1,27 @@
+Return-Path: <sanjeev.kumar@himalayan-harley.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <sanjeev.kumar@himalayan-harley.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <az8CjhY-MIBO>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id az8CjhY-MIBO for <sanjeev.kumar@himalayan-harley.in>;
+	Fri,  6 Oct 2017 13:47:57 +0530 (IST)
+Received: from adminPC (unknown [192.168.1.221])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 23183FE7294
+	for <sanjeev.kumar@himalayan-harley.in>; Fri,  6 Oct 2017 13:47:55 +0530 (IST)
+From: Microsoft Outlook <sanjeev.kumar@himalayan-harley.in>
+To: =?utf-8?B?U2FuamVldiBLdW1hcg==?= <sanjeev.kumar@himalayan-harley.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+

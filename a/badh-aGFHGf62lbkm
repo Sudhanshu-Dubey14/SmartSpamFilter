@@ -1,0 +1,188 @@
+Return-Path:
+	<1005979.0.0303DD8A.4838.1524221928.13.0-0-prod_seat=mslindia.net@ocmail25.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <prod_seat@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aGFHGf62lbkm>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aGFHGf62lbkm for <prod_seat@mslindia.net>;
+	Fri, 20 Apr 2018 16:30:26 +0530 (IST)
+Received: from oct183.ocmail20.in (oct183.ocmail20.in [199.166.35.183])
+	by mx10.jcbl.com (Postfix) with ESMTP id 6FC4D102523F
+	for <prod_seat@mslindia.net>; Fri, 20 Apr 2018 16:30:23 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=oct; d=fccashback.in;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type; i=mails@fccashback.in;
+ bh=GxQmziwFIa1qL7qGmNxLLV44vxY=;
+ b=C1pzuo0RkyK4AmYg40Rc+btuskjjB+UVQzurTpc9MEe/VjbQgpkRvHMcH1mPTKpHAAnYWb5jveqR
+   7yrP/R8VEJmVKcwZhZNLVbZ83Z5JdTukDBKsSP9GC5Z1ylVDZDZ1zDJQyJGj0ZDE8w1kYv8DLFx6
+   uf50IbfGDJ2MyK365m0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=oct; d=fccashback.in;
+ b=Fbh2OxpgdjsFC0+jdsCK9PIJKNABiFGz5fDR0Um4uBvdjOuJYGsNgN3Gq/e0+l312JHHcJ8x7iR/
+   1m/lzvd/l6TRFZpSXoNUCnbVOOXwQT7SKlwXUZRYRyumUjQqDrNhvVwJbd1vu3czUguYM4tCqExY
+   UvLXWWLQV9LipzfHMSM=;
+x-sender: mails@fccashback.in
+x-receiver: prod_seat@mslindia.net
+From: FreeCharge <mails@fccashback.in>
+To: prod_seat@mslindia.net
+Message-ID: <1674423991.8497968.1524216008564.JavaMail.nb@ip-10-11-81-56>
+Subject: Get 50% cashback on Recharges/Bills with FreeCharge UPI !
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8497965_1881575048.1524216008563"
+
+------=_Part_8497965_1881575048.1524216008563
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"UTF-8">
+=09<title></title>
+</head>
+<body>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 100%;max-width: 550px; border: solid 1px #e2f4fd">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td><img alt=3D"header" src=3D"https://offers.freecharge.in/FUP20A=
+P/header.jpg" style=3D"width: 100%" /></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><img alt=3D"header" src=3D"https://offers.freecharge.in/FUP20A=
+P/header-text.jpg" style=3D"width: 100%" /></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"margin: 0px; padding: 0px;padding-left: 9%;padding-rig=
+ht: 10%;margin-top: 15px;margin-bottom: 20px;"><a href=3D"https://wizrocket=
+mail.com/r?e=3DK2Jkch97B396b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQk=
+c%2BNTwUNDU9IFtVcXQray4uIT88P05%2BXkA%2BPDsoNi47JFwQclg%2BOTkuMyYpaUVKQ18IM=
+zZpbXhjfgAEAwVka2RyCGhiegoABQZneH5pICAgIG1AWEI4LnBxdS0oOVlvVVExOycnI3gv&r=
+=3Dhttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freech=
+arge.android&c=3D588905760" style=3D"margin: 0px; padding: 0px;font-family:=
+ Helvetica, Arial, 'sans-serif'; font-weight:600; font-size: 14px;line-heig=
+ht: bo 25px;color:#174755;width:100px; height: 35px; border: solid 1px #dc6=
+f4a;padding-left: 20px;padding-right: 20px;padding-top: 8px;padding-bottom:=
+ 8px;text-decoration: none;border-radius: 5px; background-color:#fff " targ=
+et=3D"_blank">USE CODE: <span style=3D"color:#dc6f4a">FCUPI</span></a></p>
+
+=09=09=09<p style=3D"margin: 0px; padding: 0px;  font-family: Helvetica, Ar=
+ial, 'sans-serif'; font-weight:300;     font-size: 14px;line-height: 18px;p=
+adding-left: 9%;padding-right: 10%; margin-top: 35px; margin-bottom: 20px; =
+color:#333333;">Follow the steps below to get rewarded:</p>
+=09=09=09<img alt=3D"header" src=3D"https://offers.freecharge.in/FUP20AP/up=
+i-banner.jpg" style=3D"width: 100%" /></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"margin: 0px; padding: 0px;padding-left: 9%;padding-rig=
+ht: 10%;margin-top: 25px;margin-bottom: 15px;"><a href=3D"https://wizrocket=
+mail.com/r?e=3DK2Jkch97B396b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQk=
+c%2BNTwUNDU9IFtVcXQray4uIT88P05%2BXkA%2BPDsoNi47JFwQclg%2BOTkuMyYpaUVKQ18IM=
+zZpbXhjfgAEAwVka2RyCGhiegoABQZneH5pICAgIG1AWEI4LnBxdS0oOVlvVVExOycnI3gv&r=
+=3Dhttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freech=
+arge.android&c=3D588905760" style=3D"margin: 0px; padding: 0px;font-family:=
+ Helvetica, Arial, 'sans-serif'; font-weight:400; font-size: 14px;line-heig=
+ht: 25px;color:#fff;width:100px; height: 35px; border: solid 1px #dc6f4a;pa=
+dding-left: 20px;padding-right: 20px;padding-top: 8px;padding-bottom: 8px;t=
+ext-decoration: none;border-radius: 5px; background-color:#dc6f4a " target=
+=3D"_blank">TRANSACT NOW</a></p>
+
+=09=09=09<p style=3D"margin: 0px; padding: 0px;  font-family: Helvetica, Ar=
+ial, 'sans-serif'; font-weight:300;     font-size: 14px;line-height: 18px;p=
+adding-left: 9%;padding-right: 10%; margin-top: 45px;color:#333333;">Dear V=
+ikas,</p>
+
+=09=09=09<p style=3D"margin: 0px; padding: 0px; font-family: Helvetica, Ari=
+al, 'sans-serif'; font-weight:300;     font-size: 14px;line-height: 22px;pa=
+dding-left: 9%;padding-right: 10%; margin-top: 10px;color:#333333">Hi FreeC=
+harger, Recharge or pay your bills with FreeCharge UPI and get rewarded! Ge=
+t 50% cashback upto <span>=E2=82=B9</span>25. Offer is valid twice per user=
+. Upgrade to the latest FreeCharge Android app now. Hurry! Transact now. Ha=
+ppy FreeCharging!</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"margin: 0px; padding: 0px; font-family: Helvetica, Ari=
+al, 'sans-serif'; font-weight:300;     font-size: 14px;line-height: 22px;pa=
+dding-left: 9%;padding-right: 10%; margin-top: 30px;color:#4c4c4c; margin-b=
+ottom: 30px">To Know More <a href=3D"https://wizrocketmail.com/r?e=3DK2Jkch=
+97B396b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQkc%2BNTwUNDU9IFtVcXQra=
+y4uIT88P05%2BXkA%2BPDsoNi47JFwQclg%2BOTkuMyYpaUVKQ18IMzZpbXhjfgAEAwVka2RyCG=
+hiegoABQZneH5pICAgIG1AWEI4LnBxdS0oOVlvVVExOycnI3gv&r=3Dhttps%3A%2F%2Fwww.fr=
+eecharge.in%2Fdesktop%2Fofferdetails%2FFCUPI_531&c=3D588905760" style=3D"co=
+lor:#4c4c4c; text-decoration: underline;" target=3D"_blank">click here.</a>=
+</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td bgcolor=3D"#F2F9FB" style=3D"padding: 20px 10%;">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>
+=09=09=09=09=09=09<p style=3D"margin:0px; padding:0px;padding-top:10px; fon=
+t-family:Helvetica, Arial, sans-serif; font-size:11px; font-weight:300; col=
+or:#666766; line-height:22px;">Download the Freecharge mobile app now</p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td align=3D"right" width=3D"40%">
+=09=09=09=09=09=09<p style=3D"margin:0px;padding:0px; margin-top: 8px"><a h=
+ref=3D"https://wizrocketmail.com/r?e=3DK2Jkch97B396b2R%2FDSZmfQoDAwFlYyw1KS=
+0sNUwECAFjbWV5YiYSC0FVQkc%2BNTwUNDU9IFtVcXQray4uIT88P05%2BXkA%2BPDsoNi47JFw=
+Qclg%2BOTkuMyYpaUVKQ18IMzZpbXhjfgAEAwVka2RyCGhiegoABQZneH5pICAgIG1AWEI4LnBx=
+dS0oOVlvVVExOycnI3gv&r=3Dhttps%3A%2F%2Fitunes.apple.com%2Fin%2Fapp%2Fid8774=
+95926%3Fmt%3D8&c=3D588905760" style=3D"margin:0px;padding:0px; font-size:0p=
+x;"><img alt=3D"appstore" src=3D"https://offers.freecharge.in/FUP20AP/apple=
+.png" width=3D"25px" /> </a> <a href=3D"https://wizrocketmail.com/r?e=3DK2J=
+kch97B396b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQkc%2BNTwUNDU9IFtVcX=
+Qray4uIT88P05%2BXkA%2BPDsoNi47JFwQclg%2BOTkuMyYpaUVKQ18IMzZpbXhjfgAEAwVka2R=
+yCGhiegoABQZneH5pICAgIG1AWEI4LnBxdS0oOVlvVVExOycnI3gv&r=3Dhttps%3A%2F%2Fpla=
+y.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freecharge.android%26bsft_=
+uid%3D67ee8ef2-d187-44bd-9516-faa26a7eea54%26bsft_clkid%3D8618dd78-6411-4be=
+7-a0b0-360081cfe1cf&c=3D588905760" style=3D"margin:0px;padding:0px; font-si=
+ze:0px;  margin-left:10px; margin-right:10px" target=3D"_blank"> <img alt=
+=3D"playstore" src=3D"https://offers.freecharge.in/FUP20AP/android.png" wid=
+th=3D"25px" /> </a> <a href=3D"https://wizrocketmail.com/r?e=3DK2Jkch97B396=
+b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQkc%2BNTwUNDU9IFtVcXQray4uIT8=
+8P05%2BXkA%2BPDsoNi47JFwQclg%2BOTkuMyYpaUVKQ18IMzZpbXhjfgAEAwVka2RyCGhiegoA=
+BQZneH5pICAgIG1AWEI4LnBxdS0oOVlvVVExOycnI3gv&r=3Dhttps%3A%2F%2Fwww.microsof=
+t.com%2Fen-us%2Fstore%2Fapps%2FFreeCharge-recharge-mobile-dth-data-card%2F9=
+wzdncrdsr94&c=3D588905760" style=3D"margin:0px;padding:0px; font-size:0px; =
+"><img alt=3D"window-store" src=3D"https://offers.freecharge.in/FUP20AP/win=
+dow.png" width=3D"25px" /> </a></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td colspan=3D"2">
+=09=09=09=09=09=09<p style=3D"margin:0px; padding:0px;padding-top:10px; fon=
+t-family:Helvetica, Arial, sans-serif; font-size:11px; font-weight:300; col=
+or:#666766; line-height:22px;">@FCPT. If you do not wish to receive any fur=
+ther communication, please <a href=3D"https://offers.freecharge.in/unsub/Fr=
+eechargeUn.html?e=3DZm5kfgEGAg1hYk16YmhmeQMDAAJuRWB7ZmJifwAALkQlNTYUJD8zP3J=
+dQlg%2BNDYiNnQ8LkY%3D&wzrk_ex=3D0" style=3D"border: 0px; outline: 0px; curs=
+or: pointer;color:#666766;text-decoration: none" target=3D"_blank">click he=
+re</a></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</body>
+</html>
+<img  border=3D"0" height=3D"1" width=3D"1" src=3D"https://wizrocketmail.co=
+m/r?e=3DK2Jkch97B396b2R%2FDSZmfQoDAwFlYyw1KS0sNUwECAFjbWV5YiYSC0FVQkc%2BNTw=
+UNDU9IFtVcXQray4uIT88P05%2BXkA%2BPDsoNi47JFwQZ10yLTcvKyFwPEhCWms%2BPnBxdWtn=
+eQYCAAdmbGsUZWpjcwIEAwR1dnA8LSg5FEJZR1sjeGhpICAgIG1UVFI2Lz4%2FdSc%3D&c=3D69=
+0122496"></img>
+------=_Part_8497965_1881575048.1524216008563--
+

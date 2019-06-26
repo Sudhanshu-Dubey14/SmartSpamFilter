@@ -1,0 +1,433 @@
+Return-Path: <techg@bounce.indiatimes.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <vivek_datta@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aQKB2dDCJQIP>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aQKB2dDCJQIP for <vivek_datta@globeauto.in>;
+	Thu,  7 Apr 2016 10:59:26 +0530 (IST)
+Received: from osmtp4.etretail.com (osmtp4.etretail.com [223.165.29.80])
+	by mx10.jcbl.com (Postfix) with ESMTP id A3CFFED335C
+	for <vivek_datta@jcbl.com>; Thu,  7 Apr 2016 10:59:24 +0530 (IST)
+Received: from localhost (192.169.23.10.static.etheric.net [192.169.23.10])
+	by osmtp4.etretail.com (Postfix) with ESMTP id 2AEB5B05EC
+	for <vivek_datta@jcbl.com>; Thu,  7 Apr 2016 11:05:41 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp4.etretail.com 2AEB5B05EC
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etcio.com;
+	s=default; t=1460007341;
+	bh=poSDncH0tyFTlyT8xRmRevNDREcyly/QnXCoBlBS5Wg=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To;
+	b=cE1kMeQGDVNWONFusPxqiBqohVPnV/vekfVs24fV3z1szc9ssB6BYBFS4LrvPmnM0
+	 07oNwR+pfCStI97KaVDCYSyiywoKrg8saan+nRon1wZOErVCYr9ZR60Yx+YI46ruGR
+	 V3ETnfVZWF5sqqd8snf2W1VL4OfV9cLjlTO6Jfic=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETCIO Latest News<newsletter@etcio.com>
+To: vivek_datta@jcbl.com
+Subject: Meg Whitman tells CIOs everything they need to know about HP Enterprise| Ujjain Kumbh Mela: Now offer Aarti with your VR headset
+Reply-To: no-reply@etcio.com
+
+<!DOCTYPE html><html><head><!-- HEAD1 -->
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://b2bstatic.iimg.in/Themes/Release/images/IT-favicon.ico" type="image/x-icon" />
+</head><!-- /HEAD1 -->
+<body style="background:#eeeeee; font-family:Arial, Helvetica, sans-serif; margin:0; padding:0; font-size:100%;"><!-- HEAD2 -->
+
+<table width="100%" bgcolor="#eeeeee" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+<tr>
+<td>
+<!--[if gte mso 9]>
+
+<table align="center" width="655" cellpadding="0" cellspacing="0" style="width:655px; margin:auto;">
+<tr>
+<td>
+
+<![endif]-->
+
+<!--[if lte mso 9]>
+
+<table align="center" width="655px" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+
+	<table class="nletter-wrap" style="max-width:635px;" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+    <td style="padding-left:10px; padding-right:10px;">
+	<a name="top_block"></a>
+    
+			
+ <table width="100%" align="left" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="10"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" align="left" cellpadding="0" cellspacing="0">
+								<tr>
+					<td align="right" valign="top" width="100%" style="padding-bottom:1px;">
+						<span style="display:block; font-size:11px; color:#000;
+font-family:Arial, sans-serif; text-align:right;">Thu, Apr 7, 2016   </span>
+					</td>
+				</tr>
+								<tr>
+					<td  align="left" width="100%">
+						<img border="0" height="28" style="font-family:arial; font-size:36px; color:#02465b; border:0; display:block; vertical-align:top;" title="ETCIO.com" alt="ETCIO.com" src="http://b2bstatic.iimg.in/Themes/Release/images/img-etcio-logo-sep.png"  />
+					</td>
+				</tr>
+								<tr>
+					<td align="left" style="padding-top:5px;">
+						<span style="display:block; font-size:14px; line-height:16px; color:#ed1c24;
+font-family:georgia, serif; text-align:left;">
+							Daily Newsletter
+						</span>
+					</td>
+				</tr>
+							</table>
+		</td>
+	</tr>
+	<tr>
+		<td height="15"></td>
+	</tr>
+</table>
+	
+		
+	
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin:0px 0px 10px">
+					<tbody>
+						<tr>
+							<td align="center">
+								<a 
+								href="http://cio.economictimes.indiatimes.com/l.php?&banner=logmein&type=1&url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fcampaigns%2Flogmein-nl&activity_name=etciodailynews_2016-04-07&email=vivek_datta@jcbl.com"
+								target="_blank">
+									<img style="display:block; width:100%; border:0;" alt="aahar" 
+									src="http://b2bimages.iimg.in/files/retail_files/logmein-1458715746-banner-1.jpg">
+								</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+	
+	<table width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;"><tr>
+										<td valign="top" style="padding-bottom:10px;">
+											<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border:#dcd4c9 1px solid; border-top:#f3eade 1px solid; border-bottom:#bab4aa 1px solid; box-shadow:0 1px 1px #dcd4c9; margin-top:0px;">
+												<tr><td style="height:20px"></td></tr><tr>
+												<td style="padding:0px 20px">
+												<table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Top Stories
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.cio.com%2Farticle%2F3052923%2Fdata-center%2Fmeg-whitman-tells-cios-everything-they-need-to-know-about-hp-enterprise.html&mailer_id=4751&item_id=881256&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Meg Whitman tells CIOs everything they need to know about HP Enterprise<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  cio.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fconsumer-tech%2Fujjain-kumbh-mela-now-offer-aarti-with-your-vr-headset%2F51723586&mailer_id=0&item_id=881246&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Ujjain Kumbh Mela: Now offer Aarti with your VR headset<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.cio.com%2Farticle%2F3052876%2Fbusiness-process-management%2Freport-cios-neglect-bpm-in-favor-of-trendier-software.html&mailer_id=4751&item_id=881252&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Report: CIOs neglect BPM in favor of trendier software<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  cio.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fdigital-security%2Findia-fourth-most-affected-country-by-downadup-computer-virus-report%2F51710228&mailer_id=0&item_id=879540&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												India fourth most-affected country by Downadup computer virus: Report<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fstrategy-and-management%2Fuse-this-tool-from-microsoft-to-see-if-youre-wasting-your-time-in-crummy-meetings%2F51723686&mailer_id=0&item_id=881251&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Use this tool from Microsoft to see if you're wasting your time in crummy meetings<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.inc.com%2Fquora%2Favoid-these-10-career-mistakes-that-can-set-you-back-decades.html&mailer_id=4751&item_id=881267&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Avoid These 10 Career Mistakes That Can Set You Back Years<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  inc.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Ftechcrunch.com%2F2016%2F04%2F06%2Fibm-pfizer-launch-joint-experiment-putting-iot-and-analytics-to-bear-on-parkinsons-disease%2F&mailer_id=4751&item_id=881255&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												IBM, Pfizer launch joint experiment to help measure Parkinsons symptoms using IoT andanalytics<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  tech crunch</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fcarolinecenizalevine%2F2016%2F04%2F06%2Fstarting-a-new-job-10-steps-to-ensure-your-success%2F%237bd0fb8ee2ca&mailer_id=4751&item_id=881257&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Starting a new job? 10 steps to ensure your success<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  forbes</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fianmorris%2F2016%2F04%2F06%2Fgoogle-is-sitting-on-a-timebomb-with-its-nest-disaster%2F%23a6dbfc028d15&mailer_id=4751&item_id=881253&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Google is sitting on a timebomb with its Nest disaster<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  forbes</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Ffortune.com%2F2016%2F04%2F06%2Fgoogle-rackspace-server-ibm%2F&mailer_id=4751&item_id=881258&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Google steps up its server smarts<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  fortune</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.fastcompany.com%2F3058579%2Fyour-most-productive-self%2Fsix-habits-of-the-best-conversationalists&mailer_id=4751&item_id=881261&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Six habits of the best conversationalists<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  fast company</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=https%3A%2F%2Fwww.themuse.com%2Fadvice%2F4-nosy-interview-questions-youre-allowed-to-ask-because-the-answers-matter%3Fref%3Dhome-small-tile-0&mailer_id=4751&item_id=881263&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												4 Nosy Interview Questions Youre Allowed to Ask (Because the Answers Matter)<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  The Muse</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.inc.com%2Fjeff-haden%2Ftenacious-persistent-and-successful-9-things-mentally-tough-people-always-do.html&mailer_id=4751&item_id=881265&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												 9 Things Mentally Tough People Always Do<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  inc.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Ftime.com%2F4283526%2Fwhatsapp-encryption%2F&mailer_id=4751&item_id=881268&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Here's Why WhatsApp's Encryption Is Such a Big Deal<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Time</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fmotherboard.vice.com%2Fread%2Fhow-cern-fights-hackers%3Ftrk_source%3Dhomepage-lede&mailer_id=4751&item_id=881272&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												How CERN Fights Hackers<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  motherboard</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Security
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.infoworld.com%2Farticle%2F3051936%2Finsider-threats%2Finside-job-what-cios-miss-in-preventing-data-leaks.html&mailer_id=4751&item_id=881271&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Inside job: What CIOs miss in preventing data leaks<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  infoworld</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Strategy & Management
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fstrategy-and-management%2Findias-it-services-to-grow-10-12-in-next-5-years-nasscom-chairman-bvr-mohan-reddy%2F51723550&mailer_id=0&item_id=881179&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												India's IT services to grow 10-12% in next 5 years: NASSCOM Chairman BVR Mohan Reddy<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fstrategy-and-management%2Fhow-startups-like-edge-networks-hackerrank-use-technology-to-recruit-better%2F51712367&mailer_id=0&item_id=879681&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												How startups like EdGE Networks, HackerRank use technology to recruit better<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fstrategy-and-management%2Fnarayana-murthy-indian-it-companies-act-as-immigration-agents%2F51712321&mailer_id=0&item_id=879682&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Narayana Murthy: Indian IT companies act as immigration agents<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Services & Apps
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fenterprise-services-and-applications%2Foracle-simplifies-cloud-adoption-in-india-with-its-new-service-offerings%2F51714397&mailer_id=0&item_id=879919&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Oracle simplifies cloud adoption in India with its new service offerings<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Consumer Tech
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fconsumer-tech%2Fdigital-wallet-companies-like-paytm-mobikwik-wont-be-roped-in-for-toll-collection%2F51723649&mailer_id=0&item_id=881248&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Digital wallet companies like Paytm, Mobikwik wont be roped in for toll collection<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Data Center
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fdata-center%2Flinkedin-comes-up-with-its-first-data-centre-in-the-apac-region%2F51711411&mailer_id=0&item_id=879649&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												LinkedIn comes up with its first data centre in the APAC region<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Corporate
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fcorporate-news%2Featon-to-set-up-a-global-innovation-centre-in-pune%2F51713839&mailer_id=0&item_id=879817&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												Eaton to set up a global innovation centre in Pune<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://cio.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fcio.economictimes.indiatimes.com%2Fnews%2Fcorporate-news%2Fas-apple-plots-india-push-samsung-stakes-turf-with-revamped-phones%2F51710224&mailer_id=0&item_id=879526&dt=2016-04-07&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etcio_news_2016-04-07&email=vivek_datta@jcbl.com&activity_name=etciodailynews_2016-04-07" target="_blank">
+												As Apple plots India push, Samsung stakes turf with revamped phones<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETCIO.com</span>
+												</a>
+										</td></tr><tr>
+												<td style="padding-top:0px;" colspan="2"></td>
+												</tr>
+											</table>
+											<table width="100%" style="clear:both;" cellpadding="0" cellspacing="0">
+												<tr><td style="height:10px"></td></tr>
+											</table>
+										</td>
+									</tr>
+									</table>
+									<div style="display:none;width:0;height:0;">
+										<img src='http://cio.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=emNYNis5L0pwRHpPVGlwUjVMSGVKVWh6MnBKVjc4bUhINTk0V0Ria3BvVT0=&activity_name=etciodailynews_2016-04-07&euid=UEN5a0hsSFBBSW1GcUh0dUNTWEljdz09&current_date=2016-04-07' style="display:none;width:0;height:0;" height="0" width="0" />
+									</div>
+									</td></tr>							<!-- {$$!!PROMOMIDBLOCK!!$$} -->
+							<!-- {$$!!OTHERPARTYBLOCK!!$$} -->
+								<tr><td>
+	<!-- {$$!!PROMOBOTTOMBLOCK!!$$} -->	
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;">
+    <tr>
+    <td style="padding-right:8px;" valign="top"><img src="http://b2bstatic.iimg.in/Themes/Release/images//img-etr-join.gif" width="23px"></td>
+    <td valign="top" style="font-size:13px; color:#000000; font-weight:bold">Invite your friends and colleagues to sign up for this newsletter. Tell them to send an email to <a href="mailto:join@etcio.com" style="color:#1e7cdc; text-decoration:none;">join@etcio.com</a></td>
+    </tr>
+    </table>
+    <br>
+    
+    <table id="unsub_mail_bx" width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;">
+    <tr>
+    <td class="toplnks" align="left" style="color:#777777; font-size:11px; line-height:15px;">
+    Add <a href="#" style="color:#1e7cdc;">newsletter@etcio.com</a> to your address book to ensure that our mails reach your Inbox. If you do not want to receive this mailer, you can <a href="http://cio.economictimes.indiatimes.com/unsubscribe.php?zx=JmVtYWlsPXZpdmVrX2RhdHRhQGpjYmwuY29tJmFjdGl2aXR5X25hbWU9ZXRjaW9kYWlseW5ld3M%3D" style="color:#1e7cdc; text-decoration:none;">unsubscribe</a> from our mailing list.
+    </td>
+    </tr>
+    <tr>
+    <td style="color:#262626; font-size:11px; line-height:15px; padding:12px 0;">
+    2016 ETCIO | <a href="http://cio.economictimes.indiatimes.com/contact_us.php" target="_blank" style="color:#1e7cdc; text-decoration:none;">Contact Us</a> <br>
+	ETCIO.com (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301, Uttar Pradesh, India
+	<br>
+	<br>
+    </td>  
+    </table>
+    
+    
+    </td>
+		
+		<!-- {$$!!PROMORIGHTBLOCK!!$$} -->
+	</tr>	
+	</table>
+	
+    <br>
+    
+    
+    	
+	</td>
+	</tr>
+    </table>
+
+<!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+<!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+</td>
+</tr>
+</table>
+</body></html><!-- /HEAD2 -->

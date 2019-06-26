@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <beantjcbl@ovi.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <anr_MTM6kpBF>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id anr_MTM6kpBF for <beantjcbl@ovi.com>;
+	Sun,  3 Jun 2018 12:56:46 +0530 (IST)
+Received: by mx10.jcbl.com (Postfix, from userid 5000)
+	id A1D5B102A1C5; Sun,  3 Jun 2018 12:56:46 +0530 (IST)
+Delivered-To: hr@jcbl.com
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 365451025D18
+	for <hr@jcbl.com>; Sun,  3 Jun 2018 12:56:46 +0530 (IST)
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WGfX7JLG9ptE for <hr@jcbl.com>;
+	Sun,  3 Jun 2018 12:56:46 +0530 (IST)
+Received: from golf.turmricss.bid (unknown [50.3.234.154])
+	by mx10.jcbl.com (Postfix) with ESMTP id 862DE1029DA2
+	for <hr@jcbl.com>; Sun,  3 Jun 2018 12:56:45 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=turmricss.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Cheating@turmricss.bid;
+ bh=W7WWJEilJZDDhC8YjgpfQ3DwyJ0=;
+ b=RR/ZRreJ98JeUnR4FyTyIFquCQdSwg6UObwaREKwA8UNTlfr9X14SMATQJ5b1vfOaKZKU8TX77jn
+   wGIFighhtvgB8bNW3Fha1rZIV/4C9NlKPf9Wvwx8PIUERReBjre5XMAYtqSdnsz3NHj+BAIEGugn
+   2uamcNszNybtoZ5isaE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=turmricss.bid;
+ b=BJYyZoL5YsvtIkIf72Pmv2Q+DDkZ7bVAS8f1jsfB0bwsSprkyhSRSr8PU+ybOLf4mbvWioyQMd05
+   jXCmmNFE17jUhlx5S7j9am9KT3wbPdjvY/i5f4cOUeB4JeZpktli2yQtJXhQdg9roEuryzje1+f2
+   F5oBIjCF17ZiJwrDCls=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="cb40b80bd4481bf45f7728e81e78e40e"
+Date: Sun, 3 Jun 2018 03:26:27 -0400
+From: "Cheating_Cougars" <Cheating@turmricss.bid>
+Reply-To: "Cheating_Cougars" <Cheating@turmricss.bid>
+Subject: You don't have to spend the night alone
+To: <hr@jcbl.com>
+Message-ID: <0.0.161.fuwtfka1cchqsr910008.0@turmricss.bid>
+
+--cb40b80bd4481bf45f7728e81e78e40e
+Content-Type: text/plain;
+
+You don't have to spend the night alone
+
+Need a buddy? You just got one!
+http://turmricss.bid/wVB7IRO_fbLi41g7KBdZtU6VorqEROBrYziBgBX-lnjCLg
+Need a buddy? You just got one!
+
+http://turmricss.bid/wVB7IRO_fbLi41g7KBdZtU6VorqEROBrYziBgBX-lnjCLg
+
+
+
+You don't have to spend the night alone
+http://turmricss.bid/wVB7IRO_fbLi41g7KBdZtU6VorqEROBrYziBgBX-lnjCLg
+You don't have to spend the night alone
+
+
+to re-move 
+http://turmricss.bid/VFyVjckoaPIiNVAMkvzGgO1Py_2_2oblA_1qeUgxA78Xcw
+
+--cb40b80bd4481bf45f7728e81e78e40e
+Content-Type: text/html;
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>Hi,<br />
+<br />
+Someone has requested to be your buddy!<br />
+<br />
+Snap! You just got a messa<br />
+<br />
+<a href="http://turmricss.bid/wVB7IRO_fbLi41g7KBdZtU6VorqEROBrYziBgBX-lnjCLg"><img alt="" src="http://turmricss.bid/024d4ede6089380d08.jpg" /></a><br />
+<br />
+Gordon F. Irizarry</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://turmricss.bid/bB9d50Uc8GgnhfsGzf3CyUFATz36XQOJAkOk9jSE8dYWkQ"><img alt="" src="http://turmricss.bid/61cc4bd18c7e48a5e4.jpg" /></a><br />
+<span id="random" style="color: #FFFFFF; font: Tahoma 4pt; border: 7px;font-size:3px;"><a href="http://turmricss.bid/mVneOlaraU-EYpe8vRpVLIWvJ3THSlKcc8SYA-xJM40CIg"><img src="http://turmricss.bid/33d40ec8bdc08b4e3f.jpg" /> <img height="1" src="http://www.turmricss.bid/MqoImqQi92_B-wgZ_KJKfmFCzTGY_kthNMRLvcYxgID09g" width="1" /></a> From the 1950s through the present, Berkeley Lab has maintained its status as a major international center for physics research, and has also diversified its research program into almost every realm of scientific investigation. The Laboratory&#39;s 20 scientific divisions are organized within six areas of research: Computing Sciences<a href="http://turmricss.bid/mVneOlaraU-EYpe8vRpVLIWvJ3THSlKcc8SYA-xJM40CIg"><img src="http://turmricss.bid/33d40ec8bdc08b4e3f.jpg" /> <img height="1" src="http://www.turmricss.bid/MqoImqQi92_B-wgZ_KJKfmFCzTGY_kthNMRLvcYxgID09g" width="1" /></a>The laboratory director, Michael Witherell, is appointed by the university regents 
+ and reports to the university president. Although Berkeley Lab is governed by UC independently of the Berkeley campus, the two entities are closely interconnected: more than 200 Berkeley Lab researchers hold joint appointments as UC Berkeley faculty and more than 500 UC Berkeley graduate students conduct research at Berkeley Lab.</span></body>
+</html>

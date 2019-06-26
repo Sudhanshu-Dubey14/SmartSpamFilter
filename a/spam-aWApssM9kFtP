@@ -1,0 +1,81 @@
+Return-Path: <physiotru-is_gujral=jcbl.com@differentbreedsofbulldogs.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <is_gujral@jcbl.com>
+X-Envelope-To-Blocked: <is_gujral@jcbl.com>
+X-Quarantine-ID: <aWApssM9kFtP>
+X-Spam-Flag: YES
+X-Spam-Score: 8.231
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.231 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_32=0.001, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aWApssM9kFtP for <is_gujral@jcbl.com>;
+	Thu, 15 Nov 2018 08:15:21 +0530 (IST)
+Received: from mail.differentbreedsofbulldogs.com (differentbreedsofbulldogs.com [67.198.233.142])
+	by mx10.jcbl.com (Postfix) with ESMTP id 9C855F44182
+	for <is_gujral@jcbl.com>; Thu, 15 Nov 2018 08:15:13 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=differentbreedsofbulldogs.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=physiotru@differentbreedsofbulldogs.com;
+ bh=BdJuXenSwPv/wIxUUZc793PIXEA=;
+ b=XD9q4I46gyb822PrwW6MqLYl/YW3lPkZPFLtLBti5QW0mvJa1d2hR6NMPYPbPqMI/l00xCXPVjwC
+   lEBiBJKx/RPnEckEGDlzWLoq0TgPt27gr7YTSZ+XcZ0eVKFT3GsTXl0kO4d5nl4T2dcH/RcX9bOD
+   oaw4DTTlZMb3orjRSbM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=differentbreedsofbulldogs.com;
+ b=T2tHEC2cHKbBlv2KL58uGVKZAcURkr0F9hI1SED+lbzFgifYBXWxeGB3oh3OjFZa+qNc8gpSt5R1
+   +ycXv4kfIm4tqr1mQaePgJZFoHy7iC+UXILrGDJzGdy1LkJ+uSTSUWqCqCIpqDNwe/zmcfGhYpM+
+   C1zkD677fDFxmh3e84Q=;
+Received: by mail.differentbreedsofbulldogs.com id htjet80001gl for <is_gujral@jcbl.com>; Wed, 14 Nov 2018 21:40:09 -0500 (envelope-from <physiotru-is_gujral=jcbl.com@differentbreedsofbulldogs.com>)
+Date: Wed, 14 Nov 2018 21:40:09 -0500
+From: PhysioTru <physiotru@differentbreedsofbulldogs.com>
+To:   <is_gujral@jcbl.com>
+Subject: 3 &ldquo;Health Foods&rdquo; That Could Be Killing You
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1636_2095835020.1542249493470"
+List-Unsubscribe: <http://www.differentbreedsofbulldogs.com/lang/8824E2385vt8v912U1FJF1_l8e4R19Dbw_Z4cvDhfcGFhEGsi5BA10H10hpMBi@wPx9>
+Message-ID: <0.0.0.23B.1D47C8C86D48C34.276528@mail.differentbreedsofbulldogs.com>
+
+------=_Part_1636_2095835020.1542249493470
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="utf-8" /> 
+  <title>Untitled Document</title> 
+ </head> 
+ <body style="font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;"> 
+  <p>Do you LOVE coffee? You're not alone. In fact, it's estimated that 83% of American<br /> adults drink it!</p> 
+  <p>Now, while I would never ask you to give it up - I know you won't LOL - I do want<br /> to let you know that if you're CONSTANTLY tired and need coffee to &quot;survive the<br /> day&quot;, well, there's a very good chance your body is trying to warn you something<br /> is VERY wrong.</p> 
+  <p>You see as a surgeon, I simply can't afford to be tired all the time.<br /> It could cost someone their life.</p> 
+  <p>And it was for exactly that reason I put my medical training to good use by<br /> researching the causes of fatigue, and more importantly, how to fix it.</p> 
+  <p>What did I find?</p> 
+  <p>Well, the first thing to know is that constantly feeling tired is a serious warning<br /> signs of all the health issues you don't want to deal with:</p> 
+  <p><strong><u>Heart Disease, Diabetes, High Blood Pressure, Brain problems and more...</u></strong></p> 
+  <p>Second, my research led me to several delicious foods you can eat every day<br /> that instantly skyrocket your energy levels - and keep them up all day, without<br /> any type of jitters or crash.</p> 
+  <p>I made a brief video about it that reveals not only these every day foods, but<br /> three &quot;health foods&quot; you need to AVOID at all costs.</p> 
+  <p>Sure, you're told by the Big Food corporations and their fancy marketing<br /> departments they're good for you, but in reality, they're doing nothing but<br /> zapping your energy, lowering your metabolism and destroying your health.</p> 
+  <p>If you want to fix your fatigue - and avoid the serious health problems associated<br /> with it - simply <strong><u><a href="http://www.differentbreedsofbulldogs.com/1f16a2j3x85B86SG10V3744D8e4Z19Wbw_Z4cvDhfcGFhEGsi6jt1XH010HPiwLykx9z/class">take my advice and eat THIS daily.</a> </u></strong></p> 
+  <p>PS - Yes, you can still enjoy your coffee, too :)</p> 
+  <p>&nbsp;</p> 
+  <p>&nbsp;</p> 
+  <p>&nbsp;</p> 
+  <img border="0" height="1" src="http://www.differentbreedsofbulldogs.com/7916M2Fy385bj7Pa12z374C7TX8e4C19jbw_Z4cvDhfcGFhEGsi5Q10lM9UqTpiwx9p/lang" width="1" />If you prefer to not receive these emails, please visit the 
+  <a href="http://www.differentbreedsofbulldogs.com/size/de65D238y5UYw8610h3745x8e4D19lbw_Z4cvDhfcGFhEGsi7t1o0rkG10ilpBjiBwx9">this link.</a>
+  <br /> Or mail your request to:
+  <br /> 218 E. Bearss Ave., Ste. 203, Tampa, FL 33613 
+  <div>
+   <span style="font-size:20px; "><span style="font-family:georgia,serif; ">To be removed <a href="http://www.differentbreedsofbulldogs.com/dir/2e25pO2385j8So910Q3746z8e4F19kbw_Z4cvDhfcGFhEGsi7m10qQIT9OkNL@iwx9">view here</a><br /> P.O. Box 85073 Attn: 34709-A Richmond, VA 23285</span></span>
+  </div>   
+ <img src="http://www.differentbreedsofbulldogs.com/6476n238Ky5p85Yw10V3748L8e4y19ebw_Z4cvDhfcGFhEGsi7zh1SO0m10yAiLPw1Tx9/class" alt=""/></body>
+</html>
+
+------=_Part_1636_2095835020.1542249493470--
+

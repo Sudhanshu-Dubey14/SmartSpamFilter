@@ -1,0 +1,35 @@
+Return-Path: <support@policyensure.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <support@policyensure.com>
+X-Envelope-To-Blocked: <support@policyensure.com>
+X-Quarantine-ID: <aug1K95m1yjF>
+X-Spam-Flag: YES
+X-Spam-Score: 6.695
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.695 tag=2 tag2=6.31 kill=6.31
+	tests=[DYN_RDNS_SHORT_HELO_HTML=0.001, FROM_12LTRDOM=2,
+	FSL_HELO_NON_FQDN_1=0.001, HELO_NO_DOMAIN=0.001,
+	HTML_EXTRA_CLOSE=0.001, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_MID=0.14,
+	RDNS_DYNAMIC=0.363, SPF_SOFTFAIL=0.972, TO_EQ_FM_DIRECT_MX=0.51,
+	TO_EQ_FM_HTML_DIRECT=0.79, TO_EQ_FM_HTML_ONLY=0.036,
+	TO_NO_BRKTS_DYNIP=0.139] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aug1K95m1yjF for <support@policyensure.com>;
+	Tue, 18 Jun 2019 12:19:13 +0530 (IST)
+Received: from i-h1-cs-r11-i0229-50 (i-h1-cs-r11-i0229-50.webazilla.com [188.42.97.50])
+	by mx10.jcbl.com (Postfix) with ESMTP id 11B5E1045879
+	for <support@policyensure.com>; Tue, 18 Jun 2019 12:19:11 +0530 (IST)
+MIME-Version: 1.0
+From: support@policyensure.com
+To: support@policyensure.com
+Date: 18 Jun 2019 12:20:33 +0530
+Subject: Approval of POS with POS Id 1071
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Name : and POS ID: 1071 </br> Please verify POS Document and appr=
+oved this status in SAIBA to enable POS for certificate generatio=
+n on APP.</br></br></br>
+

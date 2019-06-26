@@ -1,0 +1,419 @@
+Return-Path: <bounce@amcca.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <rg_arora@jcblgroup.com>
+X-Envelope-To-Blocked: <rg_arora@jcblgroup.com>
+X-Quarantine-ID: <aZjwesXiR6eh>
+X-Spam-Flag: YES
+X-Spam-Score: 6.372
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.372 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aZjwesXiR6eh for <rg_arora@jcblgroup.com>;
+	Sun, 25 Nov 2018 12:25:18 +0530 (IST)
+Received: from zenmails.comgmail.com.novalocal (server2.watermanagement.online [43.228.126.170])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 0E028F45A49
+	for <rg_arora@jcbl.com>; Sun, 25 Nov 2018 12:25:16 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=amcca.info;
+	 s=default; h=List-Id:List-Unsubscribe:Content-Type:MIME-Version:Reply-To:
+	From:Date:Message-ID:Subject:To:Sender:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Help:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=TsgSqg2qnVX9sXPouxGj+XFBJcecvSsDHRqn7FsNpuo=; b=LgWpfriA5mFegauUHtPRjmhhbO
+	gMtvJlPSdjBAopHvLkQmjLdyKVIzxpRsiMrM3eszUqxPG+tjDQ8wZGOT48GEgZ2dFND4OXBTjIviB
+	gvNXSGOFVSIgaLSuHgFNkxVaiUk3IDplFeADEX+hCjifYkAsWZ/eP0hsy4+CBT2ksGoHJrPCl6br3
+	V6b+T3pzblEsPBT6543cK+jeBcnbLJPnOrcwoLpsYOjSZsgZ+C5asrGXoGncP7mlZ4gD0mnWtTah2
+	Sm/AY1+5KEruWvcc4he4tvliwhv9aZ2UXbYUjnxQi2oblak6ACAgvFH50XfsihIqrZk0HOUzXchEF
+	EsMAx6sQ==;
+Received: from amcca by zenmails.comgmail.com.novalocal with local (Exim 4.91)
+	(envelope-from <bounce@amcca.info>)
+	id 1gQoL5-00005V-Gr
+	for rg_arora@jcbl.com; Sun, 25 Nov 2018 14:56:19 +0800
+To: "" <rg_arora@jcbl.com>
+Subject: Email, Sms and Whatsapp Marketing
+X-PHP-Originating-Script: 504:SimpleMailInvoker.php
+Message-ID: <ffa772a135ac792c0082a57d9142ca62@amcca.info>
+Date: Sun, 25 Nov 2018 06:56:19 +0000
+From: Anil kumar <info@amcca.info>
+Reply-To: Anil kumar <zenmails.com@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1543128979_06361b4df0b2584432ffbc5a1f44f9fa_=_"
+X-Sender: bounce@amcca.info
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://amcca.info/index.php/campaigns/bh3796ptqtabc/report-abuse/ck3751o5y0042/tp732lyg60db5
+X-Receiver: rg_arora@jcbl.com
+X-Adcw-Tracking-Did: 0
+X-Adcw-Subscriber-Uid: tp732lyg60db5
+X-Adcw-Mailer: SwiftMailer - 5.4.x
+X-Adcw-EBS: http://amcca.info/index.php/lists/block-address
+X-Adcw-Delivery-Sid: 1
+X-Adcw-Customer-Uid: rn403nl4b5da2
+X-Adcw-Customer-Gid: 0
+X-Adcw-Campaign-Uid: bh3796ptqtabc
+Precedence: bulk
+List-Unsubscribe: <http://amcca.info/index.php/lists/ck3751o5y0042/unsubscribe/tp732lyg60db5/bh3796ptqtabc/unsubscribe-direct?source=email-client-unsubscribe-button>
+List-Id: ck3751o5y0042 <whois data>
+Feedback-ID: bh3796ptqtabc:tp732lyg60db5:ck3751o5y0042:rn403nl4b5da2
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - zenmails.comgmail.com.novalocal
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [504 496] / [47 12]
+X-AntiAbuse: Sender Address Domain - amcca.info
+X-Get-Message-Sender-Via: zenmails.comgmail.com.novalocal: authenticated_id: amcca/from_h
+X-Authenticated-Sender: zenmails.comgmail.com.novalocal: info@amcca.info
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php -q /home/amcca/public_html/apps/console/console.php send-campaigns 
+X-Source-Dir: /home/amcca
+
+
+--_=_swift_v4_1543128979_06361b4df0b2584432ffbc5a1f44f9fa_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Respected Sir/madam,=20
+
+ Greetings from My Way Services
+
+ Hop=
+e to have a long and fruitful business relation with you
+
+ We are pleas=
+ed to offer below mentioned rates for your email, sms and
+whatsapp market=
+ing Solution.=20
+
+ Below are the best rates for the=C2=A0bulksms packages=
+:=20
+
+=C2=A0=C2=A0=20
+
+SN=20
+
+SMS QUANTITY=20
+
+PROMOTIONAL=C2=A0 =
+=C2=A0( IN RS )=20
+
+TRANSACTIONAL=C2=A0 =C2=A0( IN RS )=20
+
+1=20
+
+1,0=
+0,000=20
+
+6,000/-=20
+
+8,000/-=20
+
+2=20
+
+3,00,000=20
+
+15,000/-=20
+=
+
+23,500/-=20
+
+3=20
+
+5,00,000=20
+
+22,500/-=20
+
+35,000/-=20
+
+=
+=C2=A0=20
+
+Quotations=C2=A0for the Bulk Whatsapp=20
+
+=C2=A0=20
+
+=
+=C2=B7 =C2=A0 =C2=A01 Lac=C2=A0& Above=C2=A0WHATSAPP : 13 paise/wa=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =3D 13000
+INR=20
+
+=C2=B7=C2=A0 =C2=A0 3 Lac=
+=C2=A0& Above=C2=A0WHATSAPP : 12 paise/wa=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =3D 36000
+INR=20
+
+=C2=B7 =C2=A0 =C2=A05 Lac & Above WHATSAPP : 11 p=
+aise/wa=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =3D 55000 INR
+
+
+=C2=A0=20
+=
+
+=C2=A0=20
+
+Quotations=C2=A0for the Bulk Email Yearly plan=20
+
+=C2=
+=A0
+ .=C2=A0 =C2=A01 Lac=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =3D 2000 INR=20
+
+=C2=B7=C2=A0 =C2=A05=C2=A0Lac=C2=A0Ema=
+il :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =3D 5000 INR=20
+
+=
+=C2=B7=C2=A0=C2=A010 Lac Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0=3D 7000 INR
+
+ Quotations=C2=A0for the Bulk Email Monthly pla=
+n=20
+
+=C2=A0=20
+
+.=C2=A0 =C2=A02=C2=A0Lac=C2=A0Email :=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =3D 2000 INR=20
+
+=C2=B7=C2=A0 10 Lac=
+=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=3D 4500 INR =
+
+
+=C2=B7=C2=A0 30 Lac Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0=3D 8500 INR=20
+
+ FEATURES :=C2=A0=20
+
+ =E2=99=A6 For Transac=
+tional SMS You Can Sent Of Both Numbers ( DND & Non
+DND ) and 24/7.=20
+=
+
+=E2=99=A6 For Promotional SMS You Can Sent Only Non DND Numbers From=
+=C2=A09 AM
+to 9 PM.=20
+
+=E2=99=A6=C2=A0Free API=20
+
+=E2=99=A6=C2=
+=A0Free White Label=20
+
+=E2=99=A6 Delivery Of SMS Is PAN India.=20
+
+ Do=
+ let me know of your decision.
+
+ Please feel free to contact me=C2=
+=A0for any query.=20
+
+ THANKS & REGARDS,=20
+
+=C2=A0=20
+
+Anil kumar
+=
+ www.mywayservices.in http://www.mywayservices.in/=20
+
+Email Id :=C2=
+=A0sales@mywayservices.in=20
+
+Contact No. : 9555210752,7827276155=20
+
+--_=_swift_v4_1543128979_06361b4df0b2584432ffbc5a1f44f9fa_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+</head>
+<body>
+<p>Respected Sir/madam,</p>
+
+<p><br />
+Greetings from My Way Services<br />
+<br />
+Hope to have a long and fruitful business relation with you<br />
+<br />
+We are pleased to offer below mentioned rates for your email, sms and whats=
+app marketing Solution.</p>
+
+<p><br />
+Below are the best rates for the=C2=A0bulksms packages:</p>
+
+<p>=C2=A0=C2=A0</p>
+
+<table width=3D"532">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td width=3D"40">
+=09=09=09<p><strong>SN</strong></p>
+=09=09=09</td>
+=09=09=09<td width=3D"122">
+=09=09=09<p><strong>SMS QUANTITY</strong></p>
+=09=09=09</td>
+=09=09=09<td width=3D"175">
+=09=09=09<p><strong>PROMOTIONAL=C2=A0 =C2=A0( IN RS )</strong></p>
+=09=09=09</td>
+=09=09=09<td width=3D"195">
+=09=09=09<p><strong>TRANSACTIONAL=C2=A0 =C2=A0( IN RS )</strong></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td width=3D"40">
+=09=09=09<p>1</p>
+=09=09=09</td>
+=09=09=09<td width=3D"122">
+=09=09=09<p>1,00,000</p>
+=09=09=09</td>
+=09=09=09<td width=3D"175">
+=09=09=09<p>6,000/-</p>
+=09=09=09</td>
+=09=09=09<td width=3D"195">
+=09=09=09<p>8,000/-</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td width=3D"40">
+=09=09=09<p>2</p>
+=09=09=09</td>
+=09=09=09<td width=3D"122">
+=09=09=09<p>3,00,000</p>
+=09=09=09</td>
+=09=09=09<td width=3D"175">
+=09=09=09<p>15,000/-</p>
+=09=09=09</td>
+=09=09=09<td width=3D"195">
+=09=09=09<p>23,500/-</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td width=3D"40">
+=09=09=09<p>3</p>
+=09=09=09</td>
+=09=09=09<td width=3D"122">
+=09=09=09<p>5,00,000</p>
+=09=09=09</td>
+=09=09=09<td width=3D"175">
+=09=09=09<p>22,500/-</p>
+=09=09=09</td>
+=09=09=09<td width=3D"195">
+=09=09=09<p>35,000/-</p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<p>=C2=A0</p>
+
+<p><strong>Quotations=C2=A0for the Bulk Whatsapp</strong></p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2638">=C2=A0</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2637">=C2=B7 =C2=A0 =
+=C2=A01 Lac=C2=A0& Above=C2=A0WHATSAPP : 13 paise/wa=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =3D 13000 INR</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2635">=C2=B7=C2=A0 =
+=C2=A0 3 Lac=C2=A0& Above=C2=A0WHATSAPP : 12 paise/wa=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =3D 36000 INR</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2633">=C2=B7 =C2=A0 =
+=C2=A05 Lac & Above WHATSAPP : 11 paise/wa=C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =3D 55000 INR</p>
+
+<p>=C2=A0</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2631">=C2=A0</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2630"><strong>Quotatio=
+ns</strong><strong>=C2=A0for the Bulk Email Yearly plan</strong></p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2660">=C2=A0<br />
+.=C2=A0 =C2=A01 Lac=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =3D 2000 INR</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2662">=C2=B7=C2=A0 =
+=C2=A05=C2=A0Lac=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =3D 5000 INR</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2664">=C2=B7=C2=A0=
+=C2=A010 Lac Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=3D 700=
+0 INR<br />
+<br />
+<br />
+<strong>Quotations</strong><strong>=C2=A0for the Bulk Email Monthly plan</s=
+trong></p>
+
+<p>=C2=A0</p>
+
+<p>.=C2=A0 =C2=A02=C2=A0Lac=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =3D 2000 INR</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2662">=C2=B7=C2=A0 10 =
+Lac=C2=A0Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=3D 4500 IN=
+R</p>
+
+<p id=3D"m_-1357824640197665975m_-587003371024448254m_-1320122547671670677m=
+_-8385571247178210285yui_3_16_0_ym19_1_1514457977030_2664">=C2=B7=C2=A0 30 =
+Lac Email :=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=3D 8500 INR</p>
+
+<p><br />
+<br />
+<u>FEATURES :=C2=A0</u></p>
+
+<p><br />
+=E2=99=A6 For Transactional SMS You Can Sent Of Both Numbers ( DND & Non DN=
+D ) and 24/7.</p>
+
+<p>=E2=99=A6 For Promotional SMS You Can Sent Only Non DND Numbers From=
+=C2=A09 AM to 9 PM.</p>
+
+<p>=E2=99=A6=C2=A0Free API</p>
+
+<p>=E2=99=A6=C2=A0Free White Label</p>
+
+<p>=E2=99=A6 Delivery Of SMS Is PAN India.</p>
+
+<p><br />
+<br />
+Do let me know of your decision.<br />
+<br />
+Please feel free to contact me=C2=A0for any query.</p>
+
+<p><br />
+THANKS & REGARDS,</p>
+
+<p>=C2=A0</p>
+
+<p>Anil kumar<br />
+<a data-saferedirectreason=3D"2" data-saferedirecturl=3D"https://www.google=
+.com/url?q=3Dhttp://www.mywayservices.in&amp;source=3Dgmail&amp;ust=3D15431=
+33657413000&amp;usg=3DAFQjCNFCvIBKFmSewl2DiwqGjjMksILjPQ" href=3D"http://ww=
+w.mywayservices.in/" target=3D"_blank">www.mywayservices.in</a></p>
+
+<p>Email Id :=C2=A0<a href=3D"mailto:sales@mywayservices.in" target=3D"_bla=
+nk">sales@mywayservices.in</a></p>
+
+<p>Contact No. : 9555210752,7827276155</p>
+<img width=3D"1" height=3D"1" src=3D"http://amcca.info/index.php/campaigns/=
+bh3796ptqtabc/track-opening/tp732lyg60db5" alt=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1543128979_06361b4df0b2584432ffbc5a1f44f9fa_=_--
+

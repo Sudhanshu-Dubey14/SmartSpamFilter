@@ -1,0 +1,106 @@
+Return-Path: <northern.newswire@kickoverflow.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Envelope-To-Blocked: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Quarantine-ID: <abo6tHa441ni>
+X-Spam-Flag: YES
+X-Spam-Score: 12.516
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.516 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001, INVALID_MSGID=1.167,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_PSBL=2.7, REMOVE_BEFORE_LINK=1.587,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_JP_SURBL=1.948]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id abo6tHa441ni; Thu, 29 Nov 2018 08:44:04 +0530 (IST)
+Received: from taint.kickoverflow.com (taint.kickoverflow.com [162.244.13.44])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 90585F4BFB5
+	for <mukesh_kumar@jcbl.com>; Thu, 29 Nov 2018 08:44:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=kickoverflow.com;
+	s=dkim; t=1543461318;
+	bh=ORvjYHVWeuohrv+8m0tmMQRxRI8ZHOcJUkMNcd90MQs=;
+	h=date:from:to:subject:message-id:mime-version:content-type;
+	b=mxcB0JvJsrnJ6U0cXvUTFy8NxsZFosMStucZdlt/PjJkkZxVq5Q4x9+VlXkLhD++c
+	 oYUkCcS+qBMvZqQwaS31KrzT+32bicGDNXt/Nm9yMXrD7e0Mvn9LjVSeVR5oWQC4l9
+	 MdtcEdwRyMRX3lRBmgU1OtRJ4474M331FlXLLD1Q=
+Date: Wed, 28 Nov 2018 22:15:18 -0500
+From: "Santa's Shop" <northern.newswire@kickoverflow.com>
+To: <mukesh_kumar@jcbl.com>
+Subject: Great Christmas Gift Idea
+MailX-ID: 494099
+Message-ID: 178124d4c0d47a496138a07_c659ff5b
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="----=_NeTtPart_553_54V2_26U0AX56.H162NE1";
+
+------=_NeTtPart_553_54V2_26U0AX56.H162NE1
+Content-type: text/plain
+
+
+﻿Santa Claus has a Personalized Santa Letter Package for YOUR child!
+
+Read More => http://www.focusedreality.stream/1c85934b64247a496138a0740e03_c659ff5b-010109090002/C/
+
+Send your child or relative a personalized letter from Santa this holiday season!!
+
+Your letter is personalized for your child, signed by Santa and sent from the North Pole directly to their house! This truly makes this holiday season
+a magical one!
+
+Santa's Package includes a personalized letter written and signed by Santa, a personalized Official Nice List Certificate, Santa's Map and Santa's
+Nice List that Santa Checked Twice!
+
+--> Check it out now and make this season special: http://www.focusedreality.stream/1c85934b64247a496138a0740e03_c659ff5b-010109090002/C/<-- 
+
+Official Letters From Santa,
+Santa Support
+
+PS Don't forget, we have a very special surprise that we offer to our Customers Only. After your order is placed, you will see what all the excitement
+is about!! Your child's face will light up with pure excitement!
+
+Sponsored by Holiday Printables Inc
+4411 Bee Ridge Rd #442 Sarasota, FL 34233
+Unsubscribe here: http://focusedreality.stream/178124d4c0d47a496138a07_c659ff5b/U/
+
+
+------=_NeTtPart_553_54V2_26U0AX56.H162NE1
+Content-Type: text/html
+
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+</head>
+<body>
+<p style="width:400px;">
+Santa Claus has a <a href="http://www.focusedreality.stream/1c86bc4687547a496138a0740b03_c659ff5b-010109090002/C/" target="_blank"><strong>Personalized Santa Letter Package</a> for YOUR
+child!</strong><br><br>
+Send your child or relative a personalized letter from Santa this holiday season!!<br><br>
+Your letter is personalized for your child, signed by Santa and sent from the North Pole directly to their house! This truly makes this holiday season
+a magical one!<br><br>
+Santa's Package includes a personalized letter written and signed by Santa, a personalized Official Nice List Certificate, Santa's Map and Santa's
+Nice List that Santa Checked Twice!<br><br>
+<strong><a href="http://www.focusedreality.stream/1c86bc4687547a496138a0740b03_c659ff5b-010109090002/C/" target="_blank"> --> Check it out now and make this season special! <-- </a></strong>
+<br><br>
+Official Letters From Santa,<br>
+Santa Support<br><br>
+<strong>PS Don't forget, we have a very special surprise</strong> that we offer to our Customers Only.
+After your order is placed, you will see what all the excitement is about!!
+<a href="http://www.focusedreality.stream/1c86bc4687547a496138a0740b03_c659ff5b-010109090002/C/" target="_blank">Your child's face will light up with pure excitement!</a> 
+</a>
+</center>
+</p>
+<center>
+<p>
+Sponsored by Holiday Printables Inc<br>
+4411 Bee Ridge Rd  #442 Sarasota, FL 34233<br>
+<a href="http://www.focusedreality.stream/178124d4c0d47a496138a07_c659ff5b/U/" target="_blank">Unsubscribe</a>
+</p>
+</center>
+<img src="http://www.focusedreality.stream/1c829ba960347a496138a0745a04_c659ff5b-010109090002/V/" width="1" height="1" /></body>
+</html>
+
+------=_NeTtPart_553_54V2_26U0AX56.H162NE1--
+

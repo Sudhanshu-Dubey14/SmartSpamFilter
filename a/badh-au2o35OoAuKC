@@ -1,0 +1,42 @@
+Return-Path: <frank@hesed.spb.ru>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <postmaster@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <au2o35OoAuKC>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char EC hex):
+	Subject: \303\254\303\225\303\236\303\233\303\201\303\221
+	\303\224\303\217\303\227\303\201\303\222\303\216\303\201\303\221 [...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id au2o35OoAuKC for <postmaster@jcbl.com>;
+	Thu,  9 Mar 2017 04:46:34 +0530 (IST)
+Received: from 14.36.218.153 (unknown [14.36.218.153])
+	by mx10.jcbl.com (Postfix) with SMTP id EB36FF65AAA
+	for <postmaster@jcbl.com>; Thu,  9 Mar 2017 04:46:29 +0530 (IST)
+Received: from unknown (HELO localhost) (frank@hesed.spb.ru@150.111.210.139)
+	by 14.36.218.153 with ESMTPA; Thu, 9 Mar 2017 08:20:15 +0900
+Message-ID: <001601d29861$e9b21ee0$966fd28b@AIRPOSQ6NWCYC5>
+From: "Lambert Mendoza" <frank@hesed.spb.ru>
+To: <postmaster@jcbl.com>
+Subject: Лучшая товарная партнёрка
+Date: Thu, 9 Mar 2017 08:14:46 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="KOI8-R";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+IKRA - это в первую очередь товарная партнёрка, которая является 
+собственностью самых крупных производителей WOW товаров в России, СНГ и 
+Европе. Предоставляем арбитражникам все возможности для заработка через нашу 
+платформу. Заходите, будет интересно! http://ikra.top/
+

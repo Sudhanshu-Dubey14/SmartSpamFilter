@@ -1,0 +1,48 @@
+Return-Path: <edp_ludhiana@globeauto.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <edp_ludhiana@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aQWtdVMqiITJ>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.532
+X-Spam-Level: **
+X-Spam-Status: No, score=2.532 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, HTML_MESSAGE=0.001, MISSING_DATE=1.396,
+	MISSING_MID=0.14, PYZOR_CHECK=1.985, T_HK_FAKENAME_MICROSOFT=0.01]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aQWtdVMqiITJ for <edp_ludhiana@globeauto.in>;
+	Fri,  1 Feb 2019 12:02:32 +0530 (IST)
+Received: from DESKTOPBQA14B4 (unknown [118.185.190.146])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 35B9DF4B0A1
+	for <edp_ludhiana@globeauto.in>; Fri,  1 Feb 2019 12:02:21 +0530 (IST)
+From: "Microsoft Outlook" <edp_ludhiana@globeauto.in>
+Sender: "Microsoft Outlook" <edp_ludhiana@globeauto.in>
+To: "Jaswinder Singh" <edp_ludhiana@globeauto.in>
+Subject: Microsoft Outlook Test Message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01D4BA26.66F123F0"
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0000_01D4BA26.66F123F0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is an e-mail message sent automatically by Microsoft Outlook while =
+testing the settings for your account.
+
+------=_NextPart_000_0000_01D4BA26.66F123F0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>This is an e-mail message sent automatically by Microsoft =
+Outlook while testing the settings for your account.
+</p></body></html>
+------=_NextPart_000_0000_01D4BA26.66F123F0--
+

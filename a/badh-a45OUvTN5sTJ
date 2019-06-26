@@ -1,0 +1,154 @@
+Return-Path: <bo-b3yxg2cbf9uycxauq56vabytq2x645@b.d.bankservices.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <viralshah@acmeformulation.com>, <administrator@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a45OUvTN5sTJ>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E0 hex): From:
+	"\303\240\302\244\302\252\303\240\302\245\302\200\303\240\302\244\302\217\303\240\302\244\302\256
+	\303\240\302\244\302\257[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a45OUvTN5sTJ; Tue, 16 May 2017 10:55:55 +0530 (IST)
+Received: from mta860.chtah.net (mta860.chtah.net [63.236.31.146])
+	by mx10.jcbl.com (Postfix) with ESMTPS id CC6EBF89619
+	for <viralshah@jcbl.com>; Tue, 16 May 2017 10:55:54 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=d.bankservices.co.in; s=20170323121708; t=1494912478;
+	x=1510810078; bh=WgKMlKVwJTFw1CFY9s5ugOvLAywJcMz7Kf0Z6DbOeUY=;
+	h=From:Reply-To;
+	b=X7jyM6HiD2ZBtopFjW16zwwjPsC7WBjdr9qCqDvBLV2W4YlMX70rx0Aj8hUmS5O8h
+	 mjlC1DudOElCY2Trw94ZnO+fbFFGfqMAfHbZY2R1itYDn8kNQXpa8/rvGvsWlKwDt5
+	 ZHNzgk+9EFo4LgDzrvXZDf1RptfCP0WMhwAANs5bC0JwXFdeisULfkV3vKStxGRgG9
+	 SKbHb+JX4qIV0aE4BbQAvrbPyD7XbR8fwbdFixaUY+kQb3ta5BDmPqJ+0ulXCuzz4I
+	 TQ/g+AsTuPj1WfB3j3sIiTpxbznzrxmqpQ14hafM+9sjCfH+x2vTI7pfLUUuOEo4hm
+	 PBG0QcXraiOTg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=d.bankservices.co.in;
+  b=YSAKuI6fUx0Dva4D/R2Ba+y3dxdscteInyROQuT4Jlu/RD6b0pGTT3PbKaGTRf50SBYzwPXBh5Cjcpm1fn3CQ/rN5ipCQEjwLs3oiXOKNG+4fd+zAqKjhSTF9+C0u49vO21xk95xDDjGM0+WjdyG9EeyEyGyyLcaQdChHzkND3A=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type;
+Date: Tue, 16 May 2017 05:27:58 -0000
+Message-ID: <b3yxg2cbf9uycxauq56vabytq2x645.1309859.543@mta860.d.bankservices.co.in>
+List-Unsubscribe: <mailto:rm-0b3yxg2cbf9uycxauq56vabytq2x645@d.bankservices.co.in>
+From: "पीएम योजना" <trapti_12@d.bankservices.co.in>
+To: viralshah@jcbl.com
+Subject: Dear User- Pay Zero for Medical Expence
+MIME-Version: 1.0
+Reply-To: "noreply@d.bankservices.co.in" <support-b3yxg2cbf9uycxauq56vabytq2x645@d.bankservices.co.in>
+Content-type: multipart/alternative; boundary="=b3yxg2cbf9uycxauq56vabytq2x645"
+
+
+--=b3yxg2cbf9uycxauq56vabytq2x645
+Content-Type: text/plain; charset="utf-8"
+Content-transfer-encoding: 8bit
+
+Hospital Bills + Medicinal Expenses + Doctor Fees : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+( All Inclusive ) : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+Har Ghar- life Cover with LIC : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+-Cashless treatment at thousands of network hospitals : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+- Get Free Yearly Health Check-up : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+Click here for details : http://d.bankservices.co.in/a/tBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2 
+
+Report Spam : mailto:rm-0b3yxg2cbf9uycxauq56vabytq2x645@d.bankservices.co.in?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list.  | 
+Unsubscribe : mailto:rm-2b3yxg2cbf9uycxauq56vabytq2x645@d.bankservices.co.in?subject=Unsubscribe&body=You will be unsubscribed from mailing list.  
+
+--=b3yxg2cbf9uycxauq56vabytq2x645
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://d.bankservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE-yjH0/space=
+r.gif" width=3D"1" height=3D"1" style=3D"display:none !important; max-heigh=
+t:1px !important; max-width:1px !important; border:0 !important; background=
+-color:transparent !important; padding:0 !important; outline:0 !important; =
+min-height:1px !important; min-width:1px !important; height:1px !important;=
+ width:1px !important;" alt=3D"">
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"border:solid 1px #000; max-width:600px; min-width:250px; width:100%"=
+ width=3D"100%">
+  <tbody>
+    <tr>
+      <td align=3D"center" style=3D" padding:15px 0px 0px 0px;" valign=3D"m=
+iddle"><a href=3D"http://d.bankservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE-yjH0=
+/link2" style=3D"font:bold 26px calibri; text-align:center; color:#000; tex=
+t-decoration:none">Hospital Bills + Medicinal Expenses + Doctor Fees</a>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"center" style=3D"font:bold 20px calibri; text-align:cent=
+er;color:#000;" valign=3D"middle"><a href=3D"http://d.bankservices.co.in/a/=
+hBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2" style=3D"text-decoration:none;">( All In=
+clusive )</a>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"center" style=3D"font:bold 26px calibri; text-align:cent=
+er;color:#69ae1f; padding:10px 0px;" valign=3D"middle"><span style=3D"font-=
+size:16px;"><a href=3D"http://d.bankservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE=
+-yjH0/link2" style=3D"text-decoration:none;"><span style=3D"color:#000000;"=
+>Har Ghar- life Cover with LIC</span></a></span>
+      </td>
+    </tr>
+    <tr>
+      <td align=3D"left" valign=3D"top">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+          <tbody>
+            <tr>
+              <td style=3D"padding:5px 20px; font:normal 16px calibri; colo=
+r:#000;">-<a href=3D"http://d.bankservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE-y=
+jH0/link2" style=3D"text-decoration:none;"> Cashless treatment at thousands=
+ of network hospitals</a>
+              </td>
+            </tr>
+            <tr>
+              <td style=3D"padding:5px 20px; font:normal 16px calibri; colo=
+r:#000;"><a href=3D"http://d.bankservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE-yj=
+H0/link2" style=3D"text-decoration:none;">- Get Free Yearly Health Check-up=
+</a>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"middle"><a href=3D"http://d.ba=
+nkservices.co.in/a/hBZGo2WB9ZP9SB9b0XCAAE-yjH0/link2" style=3D"font:bold 26=
+px calibri; text-align:center; color:#000; text-decoration:underline">Click=
+ here for details</a>
+              </td>
+            </tr>
+            <tr>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align=3D"center" width=3D"100%" border=3D"0">
+  <tr>
+    <td style=3D"text-align:center; padding:0px 0px;">=20
+<span style=3D"font-family:Arial, sans-serif; font-size:12px; color:#666666=
+; line-height:12px;"><a href=3D"mailto:rm-0b3yxg2cbf9uycxauq56vabytq2x645@d=
+.bankservices.co.in?subject=3DUnsubscribe&amp;body=3DYou%20will%20be%20unsu=
+bscribed%20from%20mailing%20list." style=3D"color:#999999; font-size: 12px;=
+ font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration:=20
+
+none; font-weight:bold;" target=3D"_blank">Report Spam</a></span> |=20
+<span style=3D"font-family:Arial, sans-serif; font-size:12px; color:blue; l=
+ine-height:16px;"><a href=3D"mailto:rm-2b3yxg2cbf9uycxauq56vabytq2x645@d.ba=
+nkservices.co.in?subject=3DUnsubscribe&amp;body=3DYou will be unsubscribed =
+from mailing list." style=3D"text-decoration:none; color:#999999;" target=
+=3D"_blank">Unsubscribe</a></span> </td>
+  </tr>
+</table>
+
+
+--=b3yxg2cbf9uycxauq56vabytq2x645--
+

@@ -1,0 +1,447 @@
+Return-Path: <apache@TaxLawsO34626.localdomain>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ae0tMZcYAu3m>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "To"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ae0tMZcYAu3m for <jcbl@jcbl.com>;
+	Sat, 16 Jun 2018 18:33:00 +0530 (IST)
+Received: from TaxLawsO34626.localdomain (unknown [103.241.146.21])
+	by mx10.jcbl.com (Postfix) with ESMTP id BEA83102D09F
+	for <jcbl@jcbl.com>; Sat, 16 Jun 2018 18:33:00 +0530 (IST)
+Received: by TaxLawsO34626.localdomain (Postfix, from userid 48)
+	id 721DC11FA51; Sat, 16 Jun 2018 18:33:41 +0530 (IST)
+To: 
+Subject: Pre-Print Highlights of GSTR from CLI
+X-PHP-Originating-Script: 0:readfile.php
+From: info@cliofindia.com
+to: newsletter@cli.in
+MIME-Version: 1.0
+Content-type:text/html;charset=UTF-8
+Message-Id: <20180616130341.721DC11FA51@TaxLawsO34626.localdomain>
+Date: Sat, 16 Jun 2018 18:33:41 +0530 (IST)
+
+<html>
+<head>
+ 
+<style type="text/css">
+<!--
+.style3 {color: #0033FF}
+.style4 {font-size: 16px}
+-->
+</style>
+</head>
+<body link="#3366CC" vlink="#9999CC" text="#000000" alink="#0000CC" bgcolor="#FFFFFF"
+background="images/backgrnd.gif">
+
+
+<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000066" bgcolor="#FFFFFF"> <!-- First Table Starts-->
+<tr> 
+
+
+
+<td width="19%" valign="top">
+
+<div style="position:absolute; top: 10px; width: 183px; height: 2000px;">
+  <table width="183" height="1330">
+    <tr>
+      <!-- Advt Starting ---> 
+          
+        <td width="175" height="20"> 
+
+        
+        <p>    
+
+ <h3 align="center" class="style3">
+
+
+<img src="http://www.taxlawsonline.com/fs/resources/new.gif" width="75" height="40" alt="NEW"><br><br>
+
+
+<a href="http://www.taxlawsonline.com/index.html">
+<img border="0" alt="Logo" src="http://www.taxlawsonline.com/fs/resources/rtlol11.png" width="150" height="55"></a>
+
+
+<center><h3 align="center"><a href ="http://www.taxlawsonline.com/index.html"><font color="Blue">The new version of Taxlawsonline.com portal is ready and waiting to be explored.</a></font></center> 
+
+
+<br><br>
+ </h3>
+  <center><img src="http://www.taxlawsonline.com/fs/resources/TLOLS3.jpg"  alt="TLOL Suite 3.0"></center>
+       <center> <h4 align="center" style="color:#0000FF" > <font face="Verdana, Geneva, sans-serif"><b>ITR ONLINE is now part of <br>TLOL Suite 3.0* <br>and so is <br>Company Cases,<br>VAT and Service Tax cases<br>& <br>Goods and Service Tax Reports.</b></font></h4>  
+<h4 align="center" style="color:ff6600"><font face="Verdana, Geneva, sans-serif">TLOL SUITE 3.0* - <br>The Complete Tax and Company Law Reference</font></h4></center><br>
+<h6 align="center" style="color:#000000" > <font face="Verdana, Geneva, sans-serif">*Access to content will be activated based on options/modules subscribed.</font></h6>
+        <br><br>
+        
+<!--img src="http://www.taxlawsonline.com/fs/resources/new.gif" width="75" height="40" alt="NEW"-->
+ <center><h4 align="center"><a href ="http://www.taxlawsonline.com/index.html?gstindex"><font color="Blue">Click here to view subject index</a></font></center>    <br><br>
+ <tr>
+   <td>
+           <h3 align="center" class="style3"> </h3><img src="http://www.taxlawsonline.com/fs/resources/new.gif" width="75" height="40" alt="NEW"><br><br>
+ <a href="http://www.taxlawsonline.com/resources/images/OrderForm2018.pdf">         
+ <img src="http://www.taxlawsonline.com/fs/resources/cliorderform18.gif" width="175" height="399" alt="Company Law institute of India Pvt Ltd Order Form">
+         <br>  <br><br><br><br><br><br>
+</td>       
+	</tr>
+
+   <tr>
+         <td> 
+         <!--h3 align="center" class="style3"> </h3><img src="http://www.taxlawsonline.com/fs/resources/new.gif" width="75" height="40" alt="NEW"-->
+<a href="http://www.taxlawsonline.com/estore.html#PUBLICATIONS">
+    <img src="http://www.taxlawsonline.com/fs/resources/ITL_GST.gif" width="175" height="371"  alt="A. N. AIYAR'S ITL 2017 GST"> </p>   
+  </td>   
+          	</tr>
+           	
+        
+      </table> 
+</div>
+
+</td> <!-- End of Advt --->
+
+
+<!---    News Letter HTML Coding starts here ---->
+<td width="81%" valign="top">
+<div>
+
+<center>
+<img src="http://www.taxlawsonline.com/fs/resources/clilogo87new.gif"  align="middle" alt="CLI">
+</center>
+
+
+<head>
+
+
+
+<font color=red><center><a href="http://www.cliofindia.com/"><font color=red>www.cliofindia.com</a></center>
+<center><a href="mailto:info@cliofindia.com"><font color =red>info@cliofindia.com</a> </center>	</font>
+</head>
+
+<body link="#3366CC" vlink="#9999CC" text="#000000" alink="#0000CC" bgcolor="#FFFFFF"
+background="images/backgrnd.gif">
+
+
+
+
+<hr align="left">
+
+<CENTER><h1><FONT COLOR="DRAK PINK">GOODS AND SERVICE TAX REPORTS (GSTR) HIGHLIGHTS</FONT></H1></CENTER>
+
+<blockquote>
+<div align="center">
+<h3>
+  <a name="1056330"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif"></font>
+</h3>
+</div>
+<div align="center">
+<h3>
+  <a name="1056422"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <caption><b><i><font face="Verdana, Arial, Helvetica, sans-serif"></font></i></b></caption>
+  <tr>
+    <td colspan="4" rowspan="1"><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<h3>
+  <a name="1056333"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">OnLine Edition</font>
+</h3>
+</div>
+<div align="center">
+<h3>
+  <a name="1056334"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">Vol. 4</font>
+</h3>
+</div>
+</font></td>
+    <td colspan="4" rowspan="1"><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<h3>
+  <a name="1056342"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">Print Edition</font>
+</h3>
+</div>
+<div align="center">
+<h3>
+  <a name="1056343"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">Vol. 53, Part 4, dated 18-6-2018</font>
+</h3>
+</div>
+</font></td>
+  </tr>
+  <tr>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056352"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">SUPREME COURT<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056355"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">HIGH COURTS<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056358"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif"> ENGLISH CASES<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056361"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">CLB<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056364"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">SUPREME COURT<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056367"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif"><a href="#1056429">HIGH COURTS</a><br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056370"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif"> ENGLISH CASES<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056373"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">CLB<br></font>
+</div>
+</font></td>
+  </tr>
+  <tr>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056376"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">SAT <br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056379"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">DRAT<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056382"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">STATUTES<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056385"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">JOURNAL<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056388"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">SAT <br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056391"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">DRAT<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056394"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">STATUTES<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056397"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">JOURNAL<br></font>
+</div>
+</font></td>
+  </tr>
+  <tr>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056400"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">NEWS-BRIEFS<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056403"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">AAR<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056406"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">TAXATION TRIBUNAL<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056409"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">CESTAT<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056412"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">NEWS-BRIEFS<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056415"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif"><a href="#1056461">AAR</a><br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056418"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif">TAXATION TRIBUNAL<br></font>
+</div>
+</font></td>
+    <td><font face="Verdana, Arial, Helvetica, sans-serif"><div align="center">
+<a name="1056421"> </a><font  color="#00ffff" face="Verdana, Arial, Helvetica, sans-serif"><a href="#1056452">CESTAT</a><br></font>
+</div>
+</font></td>
+  </tr>
+</table>
+
+
+
+</font>
+</h3>
+</div>
+<div align="center">
+<a name="1056423"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056424"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<h3>
+  <a name="1056425"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">PRINT EDITION</font>
+</h3>
+</div>
+<div align="center">
+<a name="1056426"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056427"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<h2>
+  <a name="1056429"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">HIGH COURT JUDGMENTS</font>
+</h2>
+</div>
+<div align="center">
+<a name="1056430"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056431"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+
+<a name="1056432"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Finding by Tribunal that contract indivisible, that agreement involved assessee undertaking engineering design as well as construction of water project and that assessee did not render engineering consultancy, cannot be reversed in absence of material to contrary : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Commissioner of Customs and Central Excise v. Customs, Excise and Service Tax Appellate Tribunal, Commissioner of Customs and Central Excise v. Hindustan Construction Company Ltd. (Mad) P. 444</b></font><br></font>
+
+
+<a name="1056433"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056434"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Goods and services tax : Detention of goods : Assessee relegated to remedy of adjudication by writ court : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Limrass Earthmovers v. Assistant State Tax Officer (Ker) P. 471</b></font><br></font>
+
+
+<a name="1056435"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056436"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Detention of goods and issuance of notice demanding tax and penalty for getting goods released : Direction by writ court : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Shri Dutt India Private Limited v. Assistant State Tax Officer (Ker) P. 472</b></font><br></font>
+
+
+<a name="1056437"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056438"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Goods and services tax : Goods travelling into State from outside : Rules prescribed by State as to documents to be carried not applicable : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Modern Traders v. State of U. P. (All) P. 474</b></font><br></font>
+
+
+<a name="1056439"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056440"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Goods and services tax : Seizure of goods on ground of wrong declaration in e-way bill : Direction by writ court : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Pragati Enterprises v. State of U. P. (All) P. 478</b></font><br></font>
+
+
+<a name="1056441"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056442"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Goods and services tax : Detention of goods for failure to produce transit declaration form : Direction by writ court : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Meenu Traders v. Union of India (All) P. 479</b></font><br></font>
+
+
+<a name="1056443"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056444"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Check-post officer justified in levying penalty on ground tax invoice found at time of interception not in conformity with provisions prescribed : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Jai Hind Ply v. Additional Commissioner of Commercial Taxes (Karn) P. 480</b></font><br></font>
+
+
+<a name="1056445"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056446"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Pursuant to order in remand neither assessment order becomes "non est" nor second appeal before Tribunal becomes infructuous : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Kammedkutty (P. K.) v. State of Kerala (Ker) P. 485</b></font><br></font>
+
+
+<a name="1056447"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056448"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Goods and services tax : Movement of goods pursuant to inter-State trade : Seizure for failure to produce transit declaration form invalid in absence of notification by Central Government prescribing documents to be carried : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Delhi Gujrat Fleet Carrier Pvt. Ltd. v. State of U. P. (All) P. 509</b></font><br></font>
+
+<div align="center">
+<a name="1056449"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056450"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<h2>
+  <a name="1056452"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">CUSTOMS, EXCISE AND SERVICE TAX APPELLATE TRIBUNAL</font>
+</h2>
+</div>
+<div align="center">
+<a name="1056453"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056454"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+
+<a name="1056455"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Export of services : Rejection of claim of refund of tax paid on ground claim not filed in form ASTR-1, improper : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>RBS Corporate Finance India Pvt. Ltd. v. Commissioner of Service Tax (CESTAT-Mum) P. 494</b></font><br></font>
+
+
+<a name="1056456"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+
+
+<a name="1056457"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif">Service tax : Taxes, cesses or duties levied not consideration for any particular service : </font><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Tanuku Municipality v. C. C., C. E. &amp; S. T (CESTAT-Hyd) P. 499</b></font><br></font>
+
+<div align="center">
+<a name="1056458"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056459"> </a><font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<h2>
+  <a name="1056461"> </a><font color="#003366"  face="Verdana, Arial, Helvetica, sans-serif">AUTHORITY FOR ADVANCE RULINGS</font>
+</h2>
+</div>
+<div align="center">
+<a name="1056462"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+<div align="center">
+<a name="1056463"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</div>
+
+<a name="1056464"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><font  color="#0000ff" face="Wingdings"><b>F </b></font>Goods and services tax : Works contract involving repair, maintenance and fitting out of immovable property, namely, railway tracks, and also transfer of property in goods in course thereof being "Composite supply" of labour and goods, taxable at 18 per cent : <font  color="#ff00ff" face="Verdana, Arial, Helvetica, sans-serif"><b>Sreepati Ranjan Gope &amp; Sons, In re (AAR) . . . 506</b></font><br></font>
+
+
+<a name="1053882"> </a><font  color="#0000ff" face="Verdana, Arial, Helvetica, sans-serif"><br></font>
+</blockquote>
+
+
+
+
+<hr>
+<table align="right" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right"><font size="1">
+
+<b>   COMPANY LAW INSTITUTE OF INDIA PVT. LTD.</b><br>
+    No. 2, Vaithyaram Street,<br>
+    T.Nagar, Chennai - 600017.<br>	
+    Phone: (044) 24350752 - 55<br>
+    Fax: (044) 24322015<br>
+    <a href="mailto:info@cliofindia.com">info@cliofindia.com</a><br>
+    </font></td>
+  </tr>
+</table>
+
+
+<font size= "2" color="black" justify ="left">
+To Unsubscribe : Reply back with "Unsubscribe" in subject followed by the key word "ITR" or "CC" or  "GSTR" or "ITR (Trib)", respectively or "All" 
+ if you do not want any Email.
+ITR : Income Tax Reports, CC : Company Cases, 
+GSTR : Goods and Service Tax Reports, ITR (Trib) : ITR'S Tribunal Tax Reports.  Also send your feedback or comments to <a href="mailto:info@cliofindia.com">info@cliofindia.com</a>
+</font>
+
+</td></tr>
+</table>
+
+</div>
+</td>
+
+
+</tr>
+</table>
+
+</body>
+</html>
+

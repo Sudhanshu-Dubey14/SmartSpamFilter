@@ -1,0 +1,1614 @@
+Return-Path:
+	<e7db941d.AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3@bnc3.mailjet.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sanjeev_babbar@jcbl.com>
+X-Envelope-To-Blocked: <sanjeev_babbar@jcbl.com>
+X-Quarantine-ID: <a1Y0NXdyxfSz>
+X-Spam-Flag: YES
+X-Spam-Score: 7.504
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.504 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a1Y0NXdyxfSz for <sanjeev_babbar@jcbl.com>;
+	Tue,  9 Apr 2019 09:05:08 +0530 (IST)
+Received: from o138.p8.mailjet.com (o138.p8.mailjet.com [87.253.233.138])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 99E8DEF99C4
+	for <sanjeev_babbar@jcbl.com>; Tue,  9 Apr 2019 09:05:02 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; q=dns/txt;
+  d=kpiinstitute.org; i=update@kpiinstitute.org; s=mailjet;
+  h=message-id:mime-version:from:to:subject:date:list-id:list-unsubscribe:
+  precedence:x-csa-complaints:x-mj-mid:x-mj-smtpguid:x-report-abuse-to:
+  content-type:content-transfer-encoding;
+  bh=CM68DpZh7l6+ijM3Mnh/yTLORuT+WVBnjuPkCoYDf0w=;
+  b=pbGIMLU15p3/6wb1Kuj6/V29DaYew1El9NngowUX3BKhPwd/njt+5NCPV
+ DsmnCglgxEnSKF0ADFBbH27uemepQK/qBq8unMIRt4xV1a27TE7px5CEQMsb
+ p33APilsQjcGVel8fQmNcB3fqqrzod1/3rAxeksPdx0xq03bNwyhlY=
+Message-Id: <e7db941d.AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3@mailjet.com>
+MIME-Version: 1.0
+From: The KPI Institute <update@kpiinstitute.org>
+To: sanjeev_babbar@jcbl.com
+Subject: TKI Update April
+Date: Tue,  9 Apr 2019 03:35:19 +0000 (UTC)
+List-Id: <update.kpiinstitute.org.jwrw-j3y.mj>
+List-Unsubscribe: <mailto:unsub-e7db941d.jwrw.sx99o3t7qusm@bnc3.mailjet.com>
+Precedence: bulk
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-MJ-Mid:
+	AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc
+X-MJ-SMTPGUID: 2772465d-c56c-45d7-a357-7260fb3624fe
+X-REPORT-ABUSE-TO: Message sent by Mailjet please report to
+	abuse@mailjet.com with a copy of the message
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <!-- NAME: EDUCATE -->
+        <!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <title>*|MC:SUBJECT|*</title>
+       =20
+    <style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+	/*
+	@tab Page
+	@section Heading 1
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#222222;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:40px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 2
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#222222;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:28px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 3
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#444444;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:22px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 4
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#949494;
+			/*@editable*/font-family:Georgia;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:italic;
+			/*@editable*/font-weight:normal;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Container Style
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#F7F7F7;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0px;
+			/*@editable*/padding-bottom:0px;
+		}
+	/*
+	@tab Header
+	@section Header Interior Style
+	*/
+		.headerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Header
+	@section Header Text
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/color:#757575;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Link
+	*/
+		.headerContainer .mcnTextContent a,.headerContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section Body Container Style
+	*/
+		#templateBody{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:27px;
+			/*@editable*/padding-bottom:63px;
+		}
+	/*
+	@tab Body
+	@section Body Interior Style
+	*/
+		.bodyContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Body
+	@section Body Text
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/color:#757575;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section Body Link
+	*/
+		.bodyContainer .mcnTextContent a,.bodyContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section Footer Style
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#f7f7f7;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:45px;
+			/*@editable*/padding-bottom:63px;
+		}
+	/*
+	@tab Footer
+	@section Footer Interior Style
+	*/
+		.footerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Footer
+	@section Footer Text
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Footer
+	@section Footer Link
+	*/
+		.footerContainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+.mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 1
+	@tip Make the first-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h1{
+			/*@editable*/font-size:30px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 2
+	@tip Make the second-level headings larger in size for better readability =
+on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:26px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 3
+	@tip Make the third-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h3{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 4
+	@tip Make the fourth-level headings larger in size for better readability =
+on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+	*/
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small s=
+creens.
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Footer Text
+	@tip Make the footer content text larger in size for better readability on=
+ small screens.
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}</style></head>
+    <body>
+        <!--*|IF:MC_PREVIEW_TEXT|*-->
+        <!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"=
+display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px=
+; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIE=
+W_TEXT|*</span><!--<![endif]-->
+        <!--*|END:IF|*-->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"t=
+emplateHeader" data-template-container>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateContainer=
+">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"hea=
+derContainer"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: center;"><a href=3Dht=
+tp://jwrw.mjt.lu/nl2/jwrw/l9vws.html?m=3DAMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH=
+8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc&b=3De7db941d&e=3D422c75b2&x=
+=3D-Xn8ByHrTqCEZC45iV_akDDevuL5ab8QWuCcnYXwY4A target=3D"_blank">View in Br=
+owser!</a></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnImageBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding:9px" class=3D"mcnImageB=
+lockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"=
+min-width:100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding-right: 9px; padding-left: 9px; padding-top: 0; padding-botto=
+m: 0; text-align:center;">
+                               =20
+                                    <a href=3D"http://jwrw.mjt.lu/lnk/AMEAA=
+DZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/=
+1/W_uNpYetsnSU1vG0q1Dy2w/aHR0cDovL2JpdC5seS8yVW5kRVNK" title=3D"" class=3D"=
+" target=3D"_blank">
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/3198e7c0e81f5d828b3cf6fd1/images/2fd57555=
+-fb98-47e9-a83c-0e0c80ccae09.jpg" width=3D"564" style=3D"max-width:1170px; =
+padding-bottom: 0; display: inline !important; vertical-align: bottom;" cla=
+ss=3D"mcnImage">
+                                    </a>
+                               =20
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"t=
+emplateBody" data-template-container>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateContainer=
+">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"bod=
+yContainer"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: justify;"><font color=
+=3D"#000000"><img data-file-id=3D"562645" height=3D"54" src=3D"https://gall=
+ery.mailchimp.com/3198e7c0e81f5d828b3cf6fd1/images/f36ea501-0176-4f87-970f-=
+890d2362805a.jpg" style=3D"border: 0px initial ; width: 800px; height: 54px=
+; margin: 0px;" width=3D"800"></font><br>
+<span style=3D"color:#000000">Dear&nbsp; Sanjeev,</span><br>
+<br>
+<font color=3D"#000000">It is said that communication works for those who w=
+ork at it. After launching The Knowledge Corner, last month, we=E2=80=99ve =
+been flooded&nbsp;by lots of people, asking for a little assistance from ou=
+r trainers. The feedback we got from all of you convinced us that this prog=
+ram works and it=E2=80=99s really appreciated.</font><br>
+<font color=3D"#000000">Also, as promised, we=E2=80=99re publishing the mos=
+t interesting question we got so far (the name &amp; company are not disclo=
+sed, however, we can let you know that it came from a manager located in Sa=
+udi Arabia).</font></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnBoxedTextBlock" style=3D"min-width:100%;">
+    <!--[if gte mso 9]>
+	<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"100%">
+	<![endif]-->
+	<tbody class=3D"mcnBoxedTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnBoxedTextBlockInner">
+               =20
+				<!--[if gte mso 9]>
+				<td align=3D"center" valign=3D"top" ">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" style=3D"min-width:100%;" class=3D"mcnBoxedTextC=
+ontentContainer">
+                    <tbody><tr>
+                       =20
+                        <td style=3D"padding-top:9px; padding-left:18px; pa=
+dding-bottom:9px; padding-right:18px;">
+                       =20
+                            <table border=3D"0" cellspacing=3D"0" class=3D"=
+mcnTextContentContainer" width=3D"100%" style=3D"min-width: 100% !important=
+;background-color: #D0E3F1;">
+                                <tbody><tr>
+                                    <td valign=3D"top" class=3D"mcnTextCont=
+ent" style=3D"padding: 18px;color: #F2F2F2;font-family: Helvetica;font-size=
+: 14px;font-weight: normal;text-align: center;">
+                                        <div style=3D"text-align: left;"><s=
+pan style=3D"color:#000000"><span style=3D"font-size:18px">Question</span><=
+br>
+How to set a KPI when there=E2=80=99s no reference available in the market?=
+ It means that the type of business model we have is unique to others?</spa=
+n></div>
+&nbsp;
+
+<div style=3D"text-align: justify;"><span style=3D"color:#000000"><span sty=
+le=3D"font-size:18px">Answer</span><br>
+Selecting KPIs is a process that encompasses various techniques in order to=
+ make sure the selected indicators do monitor the achievement of the desire=
+d objectives.<br>
+<br>
+For sure, looking at bench-marking data, or searching what others do can he=
+lp. However, setting a KPI needs to be an internal process of the organisat=
+ion, customised for its particular needs.<br>
+<br>
+2 of the KPI selection techniques we recommend being used in the KPI select=
+ion workshops are Value Flow Analysis and KPI Balancing. More insights abou=
+t these techniques can be found in our articles from Performance Magazine, =
+at:<br>
+What is KPI Balancing and why is it important for businesses? </span><a hre=
+f=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgB=
+crBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/2/4VovGq5Y6__pmZ-IIWxDsw/aHR0cHM6Ly93d3cuc=
+GVyZm9ybWFuY2VtYWdhemluZS5vcmcva3BpLWJhbGFuY2luZy1pbXBvcnRhbnQtYnVzaW5lc3Nl=
+cy8" target=3D"_blank"><span style=3D"color:#000000">https://www.performanc=
+emagazine.org/kpi-balancing-important-businesses/</span></a><span style=3D"=
+color:#000000"> and<br>
+What is Value Flow Analysis (VFA) </span><a href=3D"http://jwrw.mjt.lu/lnk/=
+AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gA=
+IONc/3/XWp1sA5r-gr8Ul6HwfI1Og/aHR0cHM6Ly93d3cucGVyZm9ybWFuY2VtYWdhemluZS5vc=
+mcvd2hhdC1pcy12YWx1ZS1mbG93LWFuYWx5c2lzLXZmYS8" target=3D"_blank"><span sty=
+le=3D"color:#000000">https://www.performancemagazine.org/what-is-value-flow=
+-analysis-vfa/</span></a><span style=3D"color:#000000"> ?<br>
+Once KPIs are selected, the next step is to have them documented, in order =
+to better understand them, and to accurately gather and report data for the=
+m. As part of the documentation process, setting the target may be a challe=
+nging step, especially when there are no references in the market, no bench=
+-marking studies, no competitors to look at. Thus, looking at historical da=
+ta inside the organisation and testing the set targets in the first 3 to 6 =
+months is the recommended approach. Setting the right targets is, in most c=
+ases, an adjustment process. Acknowledging the internal capabilities of the=
+ company is essential, but testing different target level can lead to exper=
+iential learning and eventually to the right target. Hope this helps. Good =
+luck in your KPI selection project!</span></div>
+
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if gte mso 9]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if gte mso 9]>
+                </tr>
+                </table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <strong><span style=3D"font-size:14px"><span st=
+yle=3D"font-family:arial,helvetica neue,helvetica,sans-serif"><span style=
+=3D"color:#000000">Starting today, we're waiting for your new performance m=
+anagement questions! Just remember: you can ask only a question at a time (=
+per month) and you can do that by simply replying to this email!</span></sp=
+an></span></strong>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"300" style=3D"width:300px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:300px;" width=3D"100%" class=3D"mcnTextConte=
+ntContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-left:18px; padding-bottom:9px; padding-right:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: center;"><img data-fi=
+le-id=3D"562657" height=3D"24" src=3D"https://gallery.mailchimp.com/3198e7c=
+0e81f5d828b3cf6fd1/images/2fe273f4-ea1d-46bf-8623-221b894c5f47.jpg" style=
+=3D"border: 0px initial ; width: 360px; height: 24px; margin: 0px;" width=
+=3D"360"></div>
+
+<div style=3D"text-align: left;">
+<div style=3D"text-align: left;"><span style=3D"color:#000000"><strong>Cert=
+ify your knowledge!</strong></span></div>
+
+<ul>
+	<li style=3D"text-align: left;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc=
+-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/4/a=
+0FHxUKUhhJRlN8AFD0vxw/aHR0cDovL2JpdC5seS8yVW1hVFJX" target=3D"_blank"><span=
+ style=3D"color:#000000">Certified Benchmarking Professional</span></a><spa=
+n style=3D"color:#000000"> - April 30th - May 2nd, 2019 - Dubai, UAE</span>=
+</li>
+	<li style=3D"text-align: left;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc=
+-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/5/P=
+Jda6CNFE_auGABTqcYdEw/aHR0cDovL2JpdC5seS8yVXA1MDZ1" target=3D"_blank"><span=
+ style=3D"color:#000000">Certified Performance Management Professional</spa=
+n></a><span style=3D"color:#000000"> - April 28-30th, 2019 - Dubai, UAE</sp=
+an></li>
+	<li style=3D"text-align: left;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc=
+-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/6/t=
+qPT04G8JrtBr7uFQPNILA/aHR0cDovL2JpdC5seS8yVW9qTk9M" target=3D"_blank"><span=
+ style=3D"color:#000000">Certified Balanced Scorecard Management System Pro=
+fessional</span></a><span style=3D"color:#000000"> - April 24-26th, 2019 - =
+Kuala Lumpur, Malaysia</span></li>
+	<li style=3D"text-align: left;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc=
+-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/7/5=
+uLO56nysfRTbw1_zAImXw/aHR0cDovL2JpdC5seS8yVW9ST3lz" target=3D"_blank"><span=
+ style=3D"color:#000000">Certified KPI Professional</span></a><span style=
+=3D"color:#000000"> - May 13-15th, 2019 - Sidney, Australia</span></li>
+</ul>
+
+<div style=3D"text-align: left;">&nbsp;</div>
+
+<div style=3D"text-align: center;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAAD=
+Zc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/8=
+/DJUM-Km0tJy2eFVLYLoDmA/aHR0cDovL2JpdC5seS8yRldsQTNs" target=3D"_blank"><sp=
+an style=3D"color:#000000"><img data-file-id=3D"562237" height=3D"31" src=
+=3D"https://gallery.mailchimp.com/3198e7c0e81f5d828b3cf6fd1/images/38ede0a0=
+-cc74-467e-89ff-9a12e3d72c7d.png" style=3D"border: 0px  ; width: 250px; hei=
+ght: 31px; margin: 0px;" width=3D"250"></span></a></div>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"300" style=3D"width:300px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:300px;" width=3D"100%" class=3D"mcnTextConte=
+ntContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-left:18px; padding-bottom:9px; padding-right:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: center;"><img data-fi=
+le-id=3D"562661" height=3D"24" src=3D"https://gallery.mailchimp.com/3198e7c=
+0e81f5d828b3cf6fd1/images/71d1b65f-cce5-4c14-bb18-e08b51d3a89c.jpg" style=
+=3D"border: 0px  ; width: 360px; height: 24px; margin: 0px;" width=3D"360">=
+</div>
+
+<div style=3D"text-align: left;">
+<div style=3D"text-align: left;"><span style=3D"color:#000000"><strong>Vali=
+date your expertise with us!</strong></span></div>
+
+<div style=3D"text-align: center;">&nbsp;</div>
+
+<div style=3D"text-align: justify;"><span style=3D"color:#000000">The onlin=
+e Performance Course aims at closing the organizations=E2=80=99 performance=
+ gap by offering first class&nbsp;business insights in six pillars, from to=
+ols and techniques in data analysis, to key concepts &amp;&nbsp;real-life p=
+rocesses. The online Performance Course aims at closing the organizations=
+=E2=80=99 performance gap by offering first class, in-depth business insigh=
+ts in six pillars, from tools and techniques in data analysis, to key conce=
+pts, real-life processes in initiative management</span>.&nbsp;<br>
+&nbsp;</div>
+
+<div style=3D"text-align: center;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAAD=
+Zc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/9=
+/r0KQ3i9IWPDECgz7ByuK5g/aHR0cDovL2JpdC5seS8yRzJFdEJG" target=3D"_blank"><im=
+g data-file-id=3D"562241" height=3D"31" src=3D"https://gallery.mailchimp.co=
+m/3198e7c0e81f5d828b3cf6fd1/images/0cc4e9de-b1db-4bc7-bfff-3619ca5e2715.png=
+" style=3D"border: 0px  ; width: 250px; height: 31px; margin: 0px;" width=
+=3D"250"></a></div>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"300" style=3D"width:300px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:300px;" width=3D"100%" class=3D"mcnTextConte=
+ntContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-left:18px; padding-bottom:9px; padding-right:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: center;"><img data-fi=
+le-id=3D"562649" height=3D"24" src=3D"https://gallery.mailchimp.com/3198e7c=
+0e81f5d828b3cf6fd1/images/bb9112f2-0aed-4e2c-807a-3765e897e1eb.jpg" style=
+=3D"border: 0px initial ; width: 360px; height: 24px; margin: 0px;" width=
+=3D"360"></div>
+
+<div style=3D"text-align: left;">&nbsp;
+<div style=3D"text-align: center;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAAD=
+Zc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/1=
+0/H0If_uT-ghFJOKdTEKmwqA/aHR0cDovL2JpdC5seS8yRlcyanox" target=3D"_blank"><s=
+pan style=3D"color:#000000"><strong>Bestseller Functional Area<br>
+The Knowledge and Innovation<br>
+KPI Dictionary</strong></span></a></div>
+
+<div style=3D"text-align: justify;"><span style=3D"color:#000000">This dict=
+ionary provides valuable information on over 130 KPIs in the Knowledge and =
+Innovation sector not only by defining them, but also by presenting the cal=
+culation formula for each and every one of them. It is an innovative tool, =
+essential for assessing and optimizing your performance in the 3 main funct=
+ions: Innovation, Knowledge Management, R&amp;D.</span></div>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"300" style=3D"width:300px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:300px;" width=3D"100%" class=3D"mcnTextConte=
+ntContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-left:18px; padding-bottom:9px; padding-right:18p=
+x;">
+                       =20
+                            <div style=3D"text-align: center;"><img data-fi=
+le-id=3D"562649" height=3D"24" src=3D"https://gallery.mailchimp.com/3198e7c=
+0e81f5d828b3cf6fd1/images/bb9112f2-0aed-4e2c-807a-3765e897e1eb.jpg" style=
+=3D"border: 0px  ; width: 360px; height: 24px; margin: 0px;" width=3D"360">=
+</div>
+
+<div style=3D"text-align: left;">
+<div style=3D"text-align: center;"><span style=3D"color:#000000">&nbsp;</sp=
+an><br>
+<a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-A=
+AipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/11/2Tw1lv1x5IloaHbNFjFF1A/aHR0cDovL2=
+JpdC5seS8yRlcyV3N5" target=3D"_blank"><strong style=3D"color: #000000;text-=
+align: center;">Bestseller by Industry</strong></a></div>
+
+<div style=3D"text-align: center;"><a href=3D"http://jwrw.mjt.lu/lnk/AMEAAD=
+Zc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/1=
+2/eTPBcWvYHgFejHoZiXATzQ/aHR0cDovL2JpdC5seS8yRlcyV3N5"><span style=3D"color=
+:#000000"><strong>Top 25 Business Consulting KPIs - 2016 Extended Edition</=
+strong></span></a></div>
+
+<div style=3D"text-align: justify;"><span style=3D"color:#000000">This exte=
+nded report compiles the most popular 25 KPIs used by business consulting c=
+ompanies worldwide throughout 2009 and 2015. One of the most important bene=
+fits that this report brings is an international perspective on the most po=
+pular Business Consulting KPIs. They provide quantifiable measurement of th=
+e main components that lead to a successful implementation of business cons=
+ulting strategies.</span></div>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <span style=3D"color:#000000"><img data-file-id=
+=3D"562653" height=3D"54" src=3D"https://gallery.mailchimp.com/3198e7c0e81f=
+5d828b3cf6fd1/images/fdb5e347-431f-4db8-a26e-afbe9a25403a.jpg" style=3D"bor=
+der: 0px  ; width: 800px; height: 54px; margin: 0px;" width=3D"800"></span>
+
+<ul>
+	<li><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8A=
+AEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/13/4ov67Lurkws2NiNzRsUkuQ/aHR0c=
+HM6Ly9iaXQubHkvMkc2RGVUZg" target=3D"_blank">Interview: Practitioner Interv=
+iew: Aisha Zayed Al Ali</a></li>
+	<li><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8A=
+AEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/14/3oJI-KBtkqNSGdBmy7n9RQ/aHR0c=
+HM6Ly9iaXQubHkvMnVVN2pQTA" target=3D"_blank">Organizational Performance - L=
+inking the gamification model to organizational performance</a></li>
+	<li><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8A=
+AEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/15/-blaWk2ysp27xRccXEQc8A/aHR0c=
+HM6Ly9iaXQubHkvMkZXeEVTaA" target=3D"_blank">Performance Tools - Financial =
+KPIs =E2=80=93 How To Detect The Truly Key Ones?</a></li>
+	<li><a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8A=
+AEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/16/S9hvRAvp9CxXKVk0HyjTHg/aHR0c=
+HM6Ly9iaXQubHkvMlZ1bVhOeA" target=3D"_blank">Employee Performance - The Imp=
+ortance of Delegation for Improved Business Performance</a></li>
+</ul>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <span style=3D"color:#000000">We hope you enjoy=
+ed this month's news! If you'd&nbsp;like to get info tailored to a&nbsp;spe=
+cific industry or area, drop us a line and we'd&nbsp;be more than happy to =
+help you get the wheels turning!</span><br>
+<br>
+<strong><span style=3D"color:#000000">Send us your opinion at </span><a hre=
+f=3D"mailto:ioana.pasc@kpiinstitute.com?subject=3DMy%20suggestions%20for%20=
+TKI%20Update%20" target=3D"_blank"><span style=3D"color:#000000">update@kpi=
+institute.org</span></a></strong><span style=3D"color:#000000">.&nbsp;<br>
+<br>
+Until next month!&nbsp;<br>
+The TKI Team</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"t=
+emplateFooter" data-template-container>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateContainer=
+">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"foo=
+terContainer"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnShareBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnShareBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding:9px" class=3D"mcnShareB=
+lockInner">
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"mcnShareContentContainer" style=3D"min-width:100%;=
+">
+    <tbody><tr>
+        <td align=3D"center" style=3D"padding-top:0; padding-left:9px; padd=
+ing-bottom:0; padding-right:9px;">
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" style=3D"min-width:100%;" class=3D"mcnShareContent=
+">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" class=3D"mcnShareCo=
+ntentItemContainer" style=3D"padding-top:9px; padding-right:9px; padding-le=
+ft:9px;">
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+                            <tbody><tr>
+                                <td align=3D"left" valign=3D"top">
+                                    <!--[if mso]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                    <![endif]-->
+                                   =20
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top"=
+>
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=3D=
+"padding-right:9px; padding-bottom:9px;" class=3D"mcnShareContentItemContai=
+ner">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem" s=
+tyle=3D"border-collapse:separate;">
+                                                        <tbody><tr>
+                                                            <td align=3D"le=
+ft" valign=3D"middle" style=3D"padding-top:5px; padding-right:9px; padding-=
+bottom:5px; padding-left:9px;">
+                                                                <table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"">
+                                                                    <tbody>=
+<tr>
+                                                                        <td=
+ align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconConte=
+nt">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/17/mLfwFRDTgqGAPvw59sYWgw/aHR0cDovL=
+3d3dy5mYWNlYm9vay5jb20vc2hhcmVyL3NoYXJlci5waHA_dT0qfFVSTDpBUkNISVZFX0xJTktf=
+U0hPUlR8Kg" target=3D"_blank"><img src=3D"https://cdn-images.mailchimp.com/=
+icons/social-block-v2/outline-color-facebook-48.png" style=3D"display:block=
+;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </t=
+d>
+                                                                        <td=
+ align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"pa=
+dding-left:5px;">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/18/Frk8_lLK2-WpyLGF0uJhtg/aHR0cDovL=
+3d3dy5mYWNlYm9vay5jb20vc2hhcmVyL3NoYXJlci5waHA_dT0qfFVSTDpBUkNISVZFX0xJTktf=
+U0hPUlR8Kg" target=3D"" style=3D"color: #202020;font-family: Arial;font-siz=
+e: 12px;font-weight: normal;line-height: normal;text-align: center;text-dec=
+oration: none;">Share</a>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </tbody></t=
+able>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                   =20
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top"=
+>
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=3D=
+"padding-right:9px; padding-bottom:9px;" class=3D"mcnShareContentItemContai=
+ner">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem" s=
+tyle=3D"border-collapse:separate;">
+                                                        <tbody><tr>
+                                                            <td align=3D"le=
+ft" valign=3D"middle" style=3D"padding-top:5px; padding-right:9px; padding-=
+bottom:5px; padding-left:9px;">
+                                                                <table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"">
+                                                                    <tbody>=
+<tr>
+                                                                        <td=
+ align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconConte=
+nt">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/19/twHtBKN6rUqIsyKYyzqP-g/aHR0cDovL=
+3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PSp8VVJMOk1DX1NVQkpFQ1R8KjogKnxVUkw6=
+QVJDSElWRV9MSU5LX1NIT1JUfCo" target=3D"_blank"><img src=3D"https://cdn-imag=
+es.mailchimp.com/icons/social-block-v2/outline-color-twitter-48.png" style=
+=3D"display:block;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </t=
+d>
+                                                                        <td=
+ align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"pa=
+dding-left:5px;">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/20/7Yipo7SxgaipdCSpl4hdAQ/aHR0cDovL=
+3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PSp8VVJMOk1DX1NVQkpFQ1R8KjogKnxVUkw6=
+QVJDSElWRV9MSU5LX1NIT1JUfCo" target=3D"" style=3D"color: #202020;font-famil=
+y: Arial;font-size: 12px;font-weight: normal;line-height: normal;text-align=
+: center;text-decoration: none;">Tweet</a>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </tbody></t=
+able>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                   =20
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top"=
+>
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=3D=
+"padding-right:9px; padding-bottom:9px;" class=3D"mcnShareContentItemContai=
+ner">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem" s=
+tyle=3D"border-collapse:separate;">
+                                                        <tbody><tr>
+                                                            <td align=3D"le=
+ft" valign=3D"middle" style=3D"padding-top:5px; padding-right:9px; padding-=
+bottom:5px; padding-left:9px;">
+                                                                <table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"">
+                                                                    <tbody>=
+<tr>
+                                                                        <td=
+ align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconConte=
+nt">
+                                                                           =
+ <a href=3D"*|FORWARD|*" target=3D"_blank"><img src=3D"https://cdn-images.m=
+ailchimp.com/icons/social-block-v2/outline-color-forwardtofriend-48.png" st=
+yle=3D"display:block;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </t=
+d>
+                                                                        <td=
+ align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"pa=
+dding-left:5px;">
+                                                                           =
+ <a href=3D"*|FORWARD|*" target=3D"" style=3D"color: #202020;font-family: A=
+rial;font-size: 12px;font-weight: normal;line-height: normal;text-align: ce=
+nter;text-decoration: none;">Forward</a>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </tbody></t=
+able>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                   =20
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top"=
+>
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=3D=
+"padding-right:0; padding-bottom:9px;" class=3D"mcnShareContentItemContaine=
+r">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem" s=
+tyle=3D"border-collapse:separate;">
+                                                        <tbody><tr>
+                                                            <td align=3D"le=
+ft" valign=3D"middle" style=3D"padding-top:5px; padding-right:9px; padding-=
+bottom:5px; padding-left:9px;">
+                                                                <table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"">
+                                                                    <tbody>=
+<tr>
+                                                                        <td=
+ align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconConte=
+nt">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/21/IUhkVHYSdNAZfuRw3UkMxg/aHR0cDovL=
+3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP3VybD0qfFVSTDpBUkNISVZFX0xJTktfU0hP=
+UlR8KiZtaW5pPXRydWUmdGl0bGU9KnxVUkw6TUNfU1VCSkVDVHwq" target=3D"_blank"><im=
+g src=3D"https://cdn-images.mailchimp.com/icons/social-block-v2/outline-col=
+or-linkedin-48.png" style=3D"display:block;" height=3D"24" width=3D"24" cla=
+ss=3D""></a>
+                                                                        </t=
+d>
+                                                                        <td=
+ align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"pa=
+dding-left:5px;">
+                                                                           =
+ <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8AAEr-=
+AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/22/tni2_1OcGor6Ry57EITZeA/aHR0cDovL=
+3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP3VybD0qfFVSTDpBUkNISVZFX0xJTktfU0hP=
+UlR8KiZtaW5pPXRydWUmdGl0bGU9KnxVUkw6TUNfU1VCSkVDVHwq" target=3D"" style=3D"=
+color: #202020;font-family: Arial;font-size: 12px;font-weight: normal;line-=
+height: normal;text-align: center;text-decoration: none;">Share</a>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </tbody></t=
+able>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                   =20
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+			   =20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+                       =20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+                       =20
+                            <p dir=3D"ltr" id=3D"docs-internal-guid-ecdfb31=
+a-3bb2-aa17-bc26-9cd84a14ac92"><span style=3D"color:#000000">You are receiv=
+ing these emails because of your expressed interest in The KPI Institute pr=
+oducts and services. Although we'd hate to see you go, you can always <a hr=
+ef=3D"http://jwrw.mjt.lu/unsub2?hl=3Den&amp;m=3DAMEAADZc-tQAAcXzDGQAAAAuErU=
+AAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc&amp;b=3De7db941d&amp;e=
+=3D422c75b2&amp;x=3D-Xn8ByHrTqCEZC45iV_akDDevuL5ab8QWuCcnYXwY4A" target=3D"=
+_blank">unsubscribe</a> here. </span></p>
+
+<p dir=3D"ltr" id=3D"docs-internal-guid-ecdfb31a-3bb2-aa17-bc26-9cd84a14ac9=
+2" style=3D"line-height: 125%;">If you want to access, manage your personal=
+ data or&nbsp;oppose processing, feel free to contact us at any time at&nbs=
+p;<a href=3D"mailto:dataoffice@kpiinstitute.org">dataoffice@kpiinstitute.or=
+g</a>. For more details, see <a href=3D"http://jwrw.mjt.lu/lnk/AMEAADZc-tQA=
+AcXzDGQAAAAuErUAAAAAbH8AAEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/23/MQcy=
+wY3Jf3UkImj0qV6Z8g/aHR0cHM6Ly9rcGlpbnN0aXR1dGUub3JnL3Rlcm1zLWFuZC1jb25kaXRp=
+b25zLw" target=3D"_blank">Terms &amp; Conditions</a>.</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+               =20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+   =20
+<br/><img src=3D"http://jwrw.mjt.lu/oo/AMEAADZc-tQAAcXzDGQAAAAuErUAAAAAbH8A=
+AEr-AAipxgBcrBL3J3JGXcVsRdejV3Jg-zYk_gAIONc/1d916c17/e.gif" height=3D"1" wi=
+dth=3D"1" alt=3D"" border=3D"0" style=3D"height:1px;width:1px;border:0;"/>
+</body>
+</html>
+
+=

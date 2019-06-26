@@ -1,0 +1,91 @@
+Return-Path: <mailer@surveyletters.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <anita_arora@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aGfKAQDRWbbz>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aGfKAQDRWbbz for <anita_arora@jcbl.com>;
+	Thu, 31 Dec 2015 12:18:44 +0530 (IST)
+Received: from mail222.surveyletters.com (mail222.surveyletters.com [66.226.75.222])
+	by mx10.jcbl.com (Postfix) with ESMTP id 3DF1EEC303C
+	for <anita_arora@jcbl.com>; Thu, 31 Dec 2015 12:18:44 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=surveyletters.com;
+ h=Date:From:To:Reply-to:List-Unsubscribe:Date:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; t=1451544550; i=mailer@surveyletters.com;
+ bh=GtBDtVXaialBYapY70p3ibaqLMA=;
+ b=bm19IEQFMttD/eikRQ2Qn07SPgyyLC8t4vqYKZaOZKCjA87UCqiFMXdsv+GvRUUxrk3ZiY42Fqvm
+   z1nOiwmsjo1b1WsE8FuiXNyoSoFYGeqDq48o4vdStu5PGpIQoyZodEve5/vofpUH0+oIjKzAAT5d
+   4wbcq4i6pxLVm9c/9K0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=surveyletters.com;
+ b=EA5H6D3ER+3E8eKzShAC9/QDyyTtrQLv2UbwH4OV/6d6NKDvLvU75BleicacmbqutLWQwSySMyww
+   XfH/+2cjSmO3V/GP/dQ87I76bVQRq6Rv95cHDhLnuR/UVSy2EDEXJWHyo8xNL5S8WNAE1+7ESYsP
+   c/TmzEV9wIXMzQkDx6Y=;
+Date: Wed, 30 Dec 2015 23:40:15 -0700
+From: Amazon Deals<mailer@surveyletters.com> 
+To: anita_arora@jcbl.com
+Reply-to: mailer@surveyletters.com
+List-Unsubscribe: <mailto:unsub@surveyletters.com>
+Date: Wed, 30 Dec 2015 23:40:40 -0700
+Subject:Amazing Hand-picked Deals from Amazon!
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<font size='2'><center>To ensure delivery to your inbox, please add <a href='mailto:mailer@surveyletters.com'>mailer@surveyletters.com</a> to your address book<br>Don't Miss a Single Deal! Please Mark Our Email Not-Spam</center></font><br><!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlusÂ®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <center>
+  <table>
+			<tr colspan=2>
+				<td colspan=2><center>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23617&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/amazon-deal.png" border=0 alt="Amazon Hadpicked Deals"></a>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23618&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/Mobiles.png" border=0 alt="Amazon Hadpicked Deals 40% off on mobiles"></a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23619&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/laptops.png" border=0  alt="Amazon Hadpicked Deals 30% off on laptops"></a>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23620&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/TV.png" border=0  alt="Amazon Hadpicked Deals 30% off on TV"> </a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23621&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/StylingTools_.png" border=0  alt="Amazon Hadpicked Deals 20% off on Styling Tools"></a>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23622&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/Tab.jpg" border=0  alt="Amazon Hadpicked Deals Tabs under 10K"></a>
+				</td>
+				<td>
+					<a  href="http://www.surveyletters.com/ofc?act=linkHandler&clid=86&u=48251127&linkID=23623&cmpID=3003993"  ><img src="http://www.surveyletters.com/creative/amazon-deals/pb.jpg" border=0  alt="Amazon Hadpicked Deals 50% off on Powerbanks"></a>
+				</td>
+			</tr>
+
+
+
+
+  </table>
+ </body>
+</html>
+<img size='0' src='http://www.surveyletters.com/urc?act=openHandler&clid=86&u=48251127&cmpID=3003993'><center><font size='2'><br><br><br>If you do not wish to receive any newsletters and promotional emails from us, then please <a href='http://www.surveyletters.com/unsub.jsp?e=anita_arora@jcbl.com&clid=86&u=48251127&cmpID=3003993'> Unsubscribe </a> here.</font></center>

@@ -1,0 +1,86 @@
+Return-Path: <bounce-2967020-17294960-1121024-124688@yserver.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <edp_globechd@globeauto.in>
+X-Envelope-To-Blocked: <edp_globechd@globeauto.in>
+X-Quarantine-ID: <aD4CtAdaopYB>
+X-Spam-Flag: YES
+X-Spam-Score: 6.91
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.91 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_IMAGE_ONLY_24=1.282,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aD4CtAdaopYB for <edp_globechd@globeauto.in>;
+	Thu, 14 Feb 2019 15:58:09 +0530 (IST)
+Received: from y17.sendyellow.in (y17.sendyellow.in [103.7.181.25])
+	by mx10.jcbl.com (Postfix) with ESMTP id CC376F4BED3
+	for <edp_globechd@jcbl.com>; Thu, 14 Feb 2019 15:41:57 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=1343109050.yserver; d=yserver.in;
+ h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:MIME-Version:Content-Transfer-Encoding:Content-Type; i=user-18r@yserver.in;
+ bh=A0iYxRaXwIy+oHWw43Gr5kkzIXO/364ZHdi2ESkR+m4=;
+ b=BRooz82I8QcXyt9dvJ+hEIrHgKg+NvAR565H+T80FL+QvcHcJqoUS/+ytpxgkeAuba8ifcd8lu+Q
+   8ih+CRRMAM8c7pE4B4gMcx7uz0uV/bUu/92kRp8OmwJifdVWiTklIV1xKgf7MxEiX98ZzqJQEfnV
+   /kMMsQRq2Ez6zLgek1I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=1343109050.yserver; d=yserver.in;
+ b=Vs+wc8lRv5pGf03R7Fqu6jDRt0wv46W3z5se5iV43jp8mwudrk1nFNHPB2q14kIe7qI3AeL7u+/8
+   eJcY/dfaOkIRDOkVgBa2gK2Xbu2XuuyQqIu55eTI1Y9bNHayJEtxu5WCg20J5oKWrm/KwVYiwSDe
+   YcMOPycbenvaclhSMUw=;
+Received: from localhost.localdomain (103.7.181.9) by y17.sendyellow.in id hckvso1ltf0k for <edp_globechd@jcbl.com>; Thu, 14 Feb 2019 15:45:35 +0530 (envelope-from <bounce-2967020-17294960-1121024-124688@yserver.in>)
+Date: Thu, 14 Feb 2019 15:45:49 +0530
+To: "edp_globechd@jcbl.com" <edp_globechd@jcbl.com>
+From: TBA <heena@travelbookingagent.in>
+Reply-to: TBA <heena@travelbookingagent.in>
+Subject: Special Deals online Hotel Booking on TBA - Book Now
+Message-ID: <e19bbae602e1efd6d1d0eff2f5b6ba6d@localhost.localdomain>
+X-Priority: 3
+Sender: <user-18r@yserver.in>
+X-Mailer: YellowMail
+X-Complaints-To: abuse@yellowmail.in
+List-Unsubscribe: <http://login.yellowmail.in/ympro/u.php?p=bzs/rs/1u6r/50f/auj/rs>, <mailto:abuse@yserver.in?subject=unsubscribe:bzs-1u6r-ZWRwX2dsb2JlY2hkQGpjYmwuY29t-50f-18r-rs>
+X-MessageID: bzs-1u6r-ZWRwX2dsb2JlY2hkQGpjYmwuY29t-50f-18r-rs
+X-Report-Abuse: <http://login.yellowmail.in/ympro/report_abuse.php?mid=bzs-1u6r-ZWRwX2dsb2JlY2hkQGpjYmwuY29t-50f-18r-rs>
+X-AntiSpam: Yellow Mail is a paid optin service.We do not tolerate UCE of any kind. Please report it ASAP to abuse@yellowmail.in
+X-SMTPAPI: {"unique_args":{"abuse-id":"bzs-1u6r-ZWRwX2dsb2JlY2hkQGpjYmwuY29t-50f-18r-rs"}, "category":"campaign"}
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<!doctype html>=0A<html>=0A<head>=0A<meta charset=3D"utf-8">=0A<style type=
+=3D"text/css">=0A    @media only screen and (max-width:743px){=0A        im=
+g{=0A            height:auto !important;=0A            max-width:743px !imp=
+ortant;=0A            width: 100% !important;=0A        }=0A    }=0A</style=
+>=0A=0A</head>=0A<center>=0A<body style=3D"margin:0px; padding:0px;">=0A=0A=
+<table align=3D"center" width=3D"195" border=3D"0" style=3D"font-family:Ver=
+dana, Geneva, sans-serif; font-size:10px;">=0A=0A<tr><td width=3D"98"><a hr=
+ef=3D"http://login.yellowmail.in/ympro/wb.php?p=3Dbzs/auj/rs/1u6r/50f/rs">V=
+iew web browser</a></td>=0A<td width=3D"83" height=3D"20" bgcolor=3D"#99999=
+9" style=3D"text-align:center; border:1px solid #000;"><a href=3D"http://lo=
+gin.yellowmail.in/ympro/report_abuse.php?mid=3Dbzs-1u6r-ZWRwX2dsb2JlY2hkQGp=
+jYmwuY29t-50f-18r-rs">Report Spam</a></td>=0A=0A</tr>=0A</table>=0A<a href=
+=3D"http://login.yellowmail.in/ympro/tl.php?p=3Dbzs/auj/rs/1u6r/50f/rs//htt=
+p%3A%2F%2Fbit.ly%2F2GAP7it" target=3D"new"> <img src=3D"http://www.ebulksms=
+.in/mailer/hotel-booking.jpg" alt=3D"TBA Online hotel booking " /> </a>=0A<=
+p style=3D"font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-se=
+rif; font-size: 9px;">If you do not want to receive Our updates then<a href=
+=3D"http://login.yellowmail.in/ympro/u.php?p=3Dbzs/rs/1u6r/50f/auj/rs/rt">C=
+lick here to unsubscribe</a></p>=0A<table align=3D"center" width=3D"550" bo=
+rder=3D"0" style=3D" font-family: Verdana, Geneva, sans-serif; font-size:10=
+px;">=0A<tr>=0A=0A<td colspan=3D"3"><a href=3D"http://login.yellowmail.in/y=
+mpro/tl.php?p=3Dbzs/auj/rs/1u6r/50f/rs//http%3A%2F%2Fwww.yellowmail.in"><im=
+g src=3D"http://login.yellowmail.in/hd/yellowmail.png" width=3D"102" height=
+=3D"27" border=3D"0" align=3D"center" /></a></td>=0A</tr>=0A  <tr>=0A    <t=
+d width=3D"141" style=3D"border-right:1px solid #000;"><a href=3D"http://lo=
+gin.yellowmail.in/ympro/u.php?p=3Dbzs/rs/1u6r/50f/auj/rs/rt">Click here to =
+unsubscribe</a></td>=0A    <td width=3D"77" style=3D"border-right:1px solid=
+ #000;"><a href=3D"http://login.yellowmail.in/ympro/report_abuse.php?mid=3D=
+bzs-1u6r-ZWRwX2dsb2JlY2hkQGpjYmwuY29t-50f-18r-rs">Report Abuse</a></td>=0A =
+   <td width=3D"318"><a href=3D"http://login.yellowmail.in/ympro/f.php?p=3D=
+bzs/auj/rs/1u6r/50f/rs">Forward To Friend</a></td>=0A    =0A  </tr>=0A</tab=
+le>=0A=0A=0A<img src=3D"http://login.yellowmail.in/ympro/to.php?p=3Dbzs/auj=
+/rs/1u6r/50f/rs" width=3D"5" height=3D"2" alt=3D".">=0A=0A</body>=0A</cente=
+r>=0A</html>
+

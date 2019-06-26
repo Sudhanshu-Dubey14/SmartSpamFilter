@@ -1,0 +1,180 @@
+Return-Path: <dailynews@rediffnewsmailer.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <afjDTKpxSBuy>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id afjDTKpxSBuy for <admin@mslindia.net>;
+	Thu,  2 Jun 2016 07:34:31 +0530 (IST)
+Received: from backnotify1.rediffnews.in (unknown [119.252.154.156])
+	by mx10.jcbl.com (Postfix) with ESMTP id CFF8DEDD4CC
+	for <bharat_kumar@mslindia.net>; Thu,  2 Jun 2016 07:34:28 +0530 (IST)
+Received: from BackyardStandalone.rediff.com (unknown [10.50.250.70])
+	by backnotify1.rediffnews.in (Postfix) with ESMTP id 6BE3550256
+	for <bharat_kumar@mslindia.net>; Thu,  2 Jun 2016 07:33:24 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 backnotify1.rediffnews.in 6BE3550256
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=rediffnewsmailer.com;
+	s=mail; t=1464833004; bh=pgyyAThXieqWvIT8kgh1AoMuShw=;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=GAMhksAj6iPWC4RNKQgDJuxQjofJuCnBh0dKhOejgGmRi4rN93guYfACWE7Z9IYuy
+	 FSa+21O8EShbDVzzztUZiv/BVg7JJTmxgktZSPnG76zPEwb0ff/NsS5W97rUX5HShC
+	 6BaPCzj0xYPT7EcyD0MPp49FLKucBW5BqMqIXJi4=
+From: Rediff News <dailynews@rediffnewsmailer.com>
+To: bharat_kumar@mslindia.net
+Message-ID: <467814393.294882311.1464833076304.JavaMail.root@BackyardStandalone.rediff.com>
+Subject: Are the medicines you are having safe?
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-REDIFF-MAILERS: c42bdd163ae57a8f6313ce3a4a83bafc
+
+<div style="padding: 5px; font-family: verdana, arial; font-size: 12px;">
+	
+	
+			
+	<div style="clear:both;height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style='border:solid 7px #f0f0f0; text-align:left; width:95%;'>
+	<div style='border:solid 1px #ccc;background-color:#fff;padding:15px 0 10px 15px;'>
+	<table cellspacing='0' cellpadding='0' border='0' style='font-family:georgia;font-size:13px;width:96%;'>
+	
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>1</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/toxins-in-cough-syrups-other-drugs-due-to-plastic-bottling/20160601.htm?pos=1&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Are the medicines you are having safe?</p> Toxins in cough syrups, other drugs. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>2</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/with-183-crores-trapped-india-tops-global-slavery-index/20160601.htm?pos=2&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>India is global slavery capital</p> At last count, India had nearly 1.83 crore people enslaved. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>3</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/special/this-girl-is-going-to-grow-vegetables-after-a-phd/20160601.htm?pos=3&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>She's going to grow vegetables after a PhD</p> "We Indians have forgotten what is good for us," says Preeti Virkar, a believer of  a different kind.  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>4</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/bihar-stays-results-of-toppers-who-failed-to-answer-basic-questions/20160601.htm?pos=4&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Toppers can't answer basic questions!</p> Bihar stays results, board orders probe. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>5</div></td>
+		<td>
+			<a href='http://www.rediff.com/sports/report/this-shooter-is-indias-best-bet-for-gold-in-rio/20160601.htm?pos=5&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>India's best bet for gold in Rio</p> Meet Apurvi Chandela. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>6</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/honouring-the-man-who-caught-nathuram-godse/20160601.htm?pos=6&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>The man who caught Nathuram Godse</p> Raghunath Nayak was a gardener at Birla House. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>7</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/pay-more-for-phone-bills-travel-from-today/20160601.htm?pos=7&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Pay more for phone bills, travel</p> What the Krishi Kalyan Cess will cost you. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>8</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/jacqueline-the-franchise-queen/20160601.htm?pos=8&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Jacqueline: The Franchise Queen</p> Here's why she is not dating anyone. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>9</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/health-fattofit-how-i-lost-26-kilos-in-12-months/20160601.htm?pos=9&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>How I lost 26 kilos in 12 months</p> Vinod Kumar from New Delhi shares his incredible weight loss story. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>10</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/ronit-roy-i-am-nobodys-enemy/20160601.htm?pos=10&src=NL20160602&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Ronit Roy: I am nobody's enemy</p> Television's hero and Bollywood's villain explains why he lost out on <EM>Homeland, Zero Dark Thirty</EM>. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+		</table>
+	</div>
+	</div>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<p style="margin: 5px 0 0 0; font-size: 14px;" align="center">
+		<b><a href='http://www.rediff.com/newsletter/2016/jun/02newsletter.html' target="_blank"
+			style="white-space: nowrap">View in browser</a> &nbsp; &nbsp; 
+			<a href="http://www.rediff.com/" target="_blank"
+			style="white-space: nowrap">Explore rediff.com</a> &nbsp; &nbsp; 
+			<a href="http://rediff.com/newsapp" target="_blank"
+			style="white-space: nowrap">Get our News App!</a></b>
+	</p>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style="text-align: center">
+		<p style="margin: 5px 0;">
+			<span>You have received this mail from&nbsp;</span> <a
+				href="http://www.rediff.com" rel="external" target="_blank">
+				Rediff.com </a> <span>&nbsp;because you have subscribed to</span> <a
+				href="http://www.rediff.com">Rediff.com</a>'s newsletter. To ensure
+			delivery, add <a href="mailto:newsletter@rediffnews.in">dailynews@rediffnewsmailer.com</a>
+			to your address book
+		</p>
+		<div>
+			<span>This is an auto-generated mail. Click&nbsp;</span><a
+				href="http://www.rediff.com/newsletter/unsubscribe" rel="external"
+				target="_blank">Unsubscribe me from this list</a><span>&nbsp;if
+				you do not wish to receive any future newsletters from <a
+				href="http://www.rediff.com">Rediff.com</a>.
+			</span> <br />
+			<br /> <strong>&copy; 2014&nbsp;<a
+				href="http://www.rediff.com" rel="external" target="_blank">Rediff.com</a>.
+			</strong>
+		</div>
+	</div>
+
+</div>
+
+<img border="0" height="0" width="0" style="display: none;"
+	src="http://track.rediff.com/click?url=___http://im.rediff.com/uim/trans.gif___&cmp=signature&lnk=open-(NL20160602)&newservice=editnews&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0" />

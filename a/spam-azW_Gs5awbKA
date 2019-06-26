@@ -1,0 +1,291 @@
+Return-Path: <bpp999-bounce@bpupil.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <rg_arora@jcblgroup.com>
+X-Envelope-To-Blocked: <rg_arora@jcblgroup.com>
+X-Quarantine-ID: <azW_Gs5awbKA>
+X-Spam-Flag: YES
+X-Spam-Score: 9.102
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.102 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_06_12=1.103, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, T_URIBL_SEM_RED=0.01, URIBL_BLACK=1.775,
+	URIBL_DBL_SPAM=1.7] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id azW_Gs5awbKA for <rg_arora@jcblgroup.com>;
+	Wed, 20 Mar 2019 16:34:34 +0530 (IST)
+Received: from server.bpupil.com (server.bpupil.com [162.241.179.94])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 5EF9B104A282
+	for <rg_arora@jcbl.com>; Wed, 20 Mar 2019 16:34:32 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bpupil.com;
+	 s=default; h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:
+	MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=XzX72DZPnVD3xVZPrOYofj69qPFoJ1bcNTJrNJMyJYY=; b=XN0+WsNYWSOTcSJh8qF/FQ0bSl
+	CvIjMfyW4Iis77AdmgoljXVBV4T/7qGntTZY/RqbU5yEuv7pGZbuNWj6YtP8SQbpj4viJNCga+k2Q
+	cng+EJaUNWBC1U4aNeghqE34dgIvFT6ufD7/514h2b6ljBmw9bhT47ssqsDWXG6HpNbU3g2zws4ff
+	DlECU/cR3NKgeq6OHpfWMrlPWTfe5J0/07/NxShivFV7gRTjh+t7L7MA1RNYolxZBpdHbCEI65sjj
+	OGgWCoWAb8raXNNiZvusKv1DNGpRlAXAxF+cM3cCxSiQWNopDyczu3MFBdEdcGrG6WTObj5RVV4Uc
+	KXxtm37g==;
+Received: from bpupilco by server.bpupil.com with local (Exim 4.91)
+	(envelope-from <bpp999-bounce@bpupil.com>)
+	id 1h6Z31-0007Xs-Jy
+	for rg_arora@jcbl.com; Wed, 20 Mar 2019 05:06:15 -0600
+To: "Rg Rg" <rg_arora@jcbl.com>
+Subject: Jcbl Ltd Team wins INRC Championship
+X-PHP-Originating-Script: 500:email.php
+Message-ID: <637cfc6068503ebe73da4de34a413dd3@bpp999.bpupil.com>
+Date: Wed, 20 Mar 2019 01:23:10 +0000
+From: "Richa Gupta" <richa.g@inrcindia.org>
+Reply-To: richa.g@inrcindia.org
+MIME-Version: 1.0
+X-Mailer-LID: 26
+List-Unsubscribe: <http://bpp999.bpupil.com/unsubscribe.php?M=384569&C=36d8d48dfe9c0a12c704ab7fa10fb56a&L=26&N=36>
+X-Mailer-RecptId: 384569
+X-Mailer-SID: 36
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_91f333552780d13550ef9fd4eae1624a"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.bpupil.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [500 495] / [47 12]
+X-AntiAbuse: Sender Address Domain - bpupil.com
+X-Get-Message-Sender-Via: server.bpupil.com: authenticated_id: bpupilco/sender_address_domain
+X-Authenticated-Sender: server.bpupil.com: bpp999-bounce@bpupil.com
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi -f /home/bpupilco/public_html/bpp999/admin/cron/cron.php 
+X-Source-Dir: bpupil.com:/public_html/bpp999/admin/cron
+
+--b1_91f333552780d13550ef9fd4eae1624a
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://bpp999.bpupil.com/display.php?M=384569&C=36d8d48dfe9c0a12c704ab7fa10fb56a&S=36&L=26&N=31
+
+
+To stop receiving these
+emails:http://bpp999.bpupil.com/unsubscribe.php?M=384569&C=36d8d48dfe9c0a12c704ab7fa10fb56a&L=26&N=36
+
+--b1_91f333552780d13550ef9fd4eae1624a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><meta http-equiv="Content-Type"
+content="text/html; charset=utf-8" />
+<title>%company% Team wins the Indian National Rally Championship
+(INRC)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<style type="text/css"><!--
+ .ReadMsgBody {width: 100%; background-color: #f2f2f2;}
+ .ExternalClass {width: 100%; background-color: #f2f2f2;}
+body	 {width: 100%; background-color: #f2f2f2; margin:0; padding:0;
+-webkit-font-smoothing: antialiased; font-family: Arial, Helvetica,
+sans-serif;;}
+table {border-collapse: collapse;}
+hr { color:#555863;}
+ .onethird{width:33%; padding-left:1%; padding-right:1%; float:left; }
+@media only screen and (max-width: 640px)  {
+	body[yahoo] .deviceWidth {width:440px!important; padding:0;}
+	body[yahoo] .center {text-align: center!important;}
+	body[yahoo] .onethird{width:440px!important; padding:0; float:none;
+padding-bottom:10px;}
+}
+@media only screen and (max-width: 500px) {
+	body[yahoo] .deviceWidth {width:280px!important; padding:0;}
+	body[yahoo] .center {text-align: center!important;}
+	body[yahoo] .onethird{width:280px!important; padding:0; float:none;
+padding-bottom:10px;}
+}
+@media only screen and (max-width: 350px) {
+	body[yahoo] .deviceWidth {width:230px!important; padding:0;}
+	body[yahoo] .center {text-align: center!important;}
+	body[yahoo] .onethird{width:230px!important; padding:0;
+float:none;padding-bottom:10px;}
+}
+--></style>
+<table width="100%" border="0" align="center" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="100%">
+<table width="620" border="0" align="center" cellpadding="0"
+cellspacing="0" bgcolor="#ffffff" class="deviceWidth" style="border: 1px
+solid #ddd;">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; margin: 0 auto; padding-left: 20px;
+text-align: center; padding-right: 20px; padding-top: 5px; padding-bottom:
+5px;" width="100%" align="center">
+<table class="deviceWidth" width="100%" cellspacing="0" cellpadding="0"
+border="0" align="left">
+<tbody>
+<tr>
+<td style="padding: 0px;" width="100%" align="left"><a
+href="http://bpp999.bpupil.com/link.php?M=384569&N=36&L=18&F=H"
+target="_blank" style="width: 100%;"><img
+src="http://lncnnl.com/2019/03/team-wins-inrc/images/logo.png" alt="INRC
+India" style="display: block; width: 100% !important; height: auto
+!important; max-width: 100px;" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" bgcolor="#fff"><img
+src="http://lncnnl.com/2019/03/team-wins-inrc/images/banner.jpg"
+alt="banner" border="0" style="display: block; max-width: 620px; width:
+100% !important; height: auto !important;" /></td>
+</tr>
+<tr>
+<td align="center" valign="middle" bgcolor="#000000" style="padding: 20px
+5px; line-height: 30px;"><span style="color: #cccccc; font-size:
+24px;"><b>Jcbl Ltd</b>&nbsp;Team wins the</span><br /> <span style="color:
+#f93; font-size: 24px;"><strong>Indian National</strong></span> <span
+style="color: #33cc33; font-size: 24px;"><strong>Rally
+Championship</strong></span> <span style="font-size: 24px; color:
+#cccccc;"><strong>(INRC)</strong></span></td>
+</tr>
+<tr>
+<td align="center" valign="middle" bgcolor="#ffffff" style="padding-bottom:
+20px; padding-top: 20px;">
+<table width="92%" border="0" align="center" cellpadding="0"
+cellspacing="0" style="color: #fff; font-size: 15px;">
+<tbody>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;"><span style="font-size: 14px;">Wouldn&rsquo;t it be great  to read
+this headline news ? Inviting </span><strong>%company%</strong><span
+style="font-size: 14px;"> to join the league of top companies that have
+their own motorsports team.  Alternatively you can look at it as a CSR
+activity and start a Motorsports Team and support  some budding young 
+motor sports rally team while making a name for your firm with a Sports
+Team desired by Corporates. </span><br /><br />
+<div style="text-align: center;"><span style="font-size: large;
+background-color: #f2f2f2;">The board of </span><strong
+style="background-color: #f2f2f2;">INRC</strong><span style="font-size:
+large; background-color: #f2f2f2;"> is sending this special invite to
+</span><strong style="background-color: #f2f2f2;">%company%</strong><span
+style="font-size: large; background-color: #f2f2f2;"> to  own your own team
+in INRC.</span></div>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;">Best part is the majority investment in owning a motorsports team is
+in Your cars which will be registered in your company name. See some
+examples below:-</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;">Top Corporates are desiring  to sponsor sports events or have their
+own motorsports team to encourage Speed, Energy, Motivation across the
+enterprise.</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;"><strong>INRC</strong> will be relayed this year in TV channels and
+has wide coverage in  newspapers like Times of India, Indian express, 
+Hindu, Hindusthan times  etc. We are ensuring the sport stays competitive
+and lining up fast paced rally drivers for <strong>%Company%</strong>-
+ensuring  podium winning positions assured for new teams by assigning some
+leading rally champions along with young performing champions.</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;">We are enabling a healthy mix of corporate social
+responsibility(CSR) supporting young budding motorsports champions as well
+as Branding and Marketing for your firm. INRC represents Speed, Energy,
+precision and Quality that <strong>%Company%</strong> resonates with and we
+look forward to a discussion regards how you can benefit aligning with 
+INRC.</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;">Please let us know of a time for a quick meeting or refer us to the
+decision maker responsible for Branding/Marketing Sponsorships or CSR
+activities at <strong>%company%</strong>.</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000;
+font-size: 14px; text-align: left; padding: 10px 5px 10px; line-height:
+19px;"><strong>INRC</strong> will be held in <b>Delhi, Chennai, Bengaluru,
+Cochin, Coimbatore &amp; Mumbai/Pune</b>. This opportunity is for a limited
+time till another 6 companies field their teams. If you are interested
+please let us know immediately.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="background-color: #f3f2f2; margin: 0
+auto; padding-left: 20px; text-align: center; padding-right: 20px;
+padding-top: 5px; padding-bottom: 5px;">
+<table width="300" border="0" align="left" cellpadding="0" cellspacing="0"
+class="deviceWidth">
+<tbody>
+<tr>
+<td align="center" width="100%" style="font-family: Arial, Helvetica,
+sans-serif; color: #333333; font-size: 11px; text-align: left; padding: 8px
+5px 5px; line-height: 19px;">&copy; inrcindia.org 2019 - All rights
+reserved</td>
+</tr>
+</tbody>
+</table>
+<table width="60" border="0" align="right" cellpadding="0" cellspacing="0"
+class="deviceWidth">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://bpp999.bpupil.com/link.php?M=384569&N=36&L=30&F=H"
+target="_blank"><img
+src="http://lncnnl.com/2019/03/inrc-mumbai-pune/images/icon-fb.png"
+width="19" border="0" style="padding: 5px 2px 2px 2px;" /></a></td>
+<td align="center"><a
+href="http://bpp999.bpupil.com/link.php?M=384569&N=36&L=31&F=H"
+target="_blank"><img
+src="http://lncnnl.com/2019/03/inrc-mumbai-pune/images/icon-twitter.png"
+width="19" border="0" style="padding: 5px 2px 2px 2px;" /></a></td>
+<td align="center"><a
+href="http://bpp999.bpupil.com/link.php?M=384569&N=36&L=28&F=H"
+target="_blank"><img
+src="http://lncnnl.com/2019/03/inrc-mumbai-pune/images/icon-linkedin.png"
+width="19" border="0" style="padding: 5px 2px 2px 2px;" /></a></td>
+<td align="center"><a
+href="http://bpp999.bpupil.com/link.php?M=384569&N=36&L=29&F=H"
+target="_blank"><img
+src="http://lncnnl.com/2019/03/inrc-mumbai-pune/images/icon-insta.png"
+width="19" border="0" style="padding: 5px 2px 2px 2px;" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table><img
+src="http://bpp999.bpupil.com/open.php?M=384569&L=26&N=36&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://bpp999.bpupil.com/unsubscribe.php?M=384569&C=36d8d48dfe9c0a12c704ab7fa10fb56a&L=26&N=36">Click
+here to unsubscribe</a></body></html>
+
+--b1_91f333552780d13550ef9fd4eae1624a--
+

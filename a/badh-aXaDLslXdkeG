@@ -1,0 +1,19 @@
+Return-Path: <mailer@surveyletters.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aXaDLslXdkeG>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: unexpected end of header
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aXaDLslXdkeG for <jcblho@jcbl.com>;
+	Sun, 20 Mar 2016 11:45:01 +0530 (IST)
+Received: from mail222.surveyletters.com (mail222.surveyletters.com [66.226.75.222])
+	by mx10.jcbl.com (Postfix) with ESMTP id 7AAB5ECEF64
+	for <jcblho@jcbl.com>; Sun, 20 Mar 2016 11:45:01 +0530 (IST)
+Date: Sat, 19 Mar 2016 23:05:43 -0700
+

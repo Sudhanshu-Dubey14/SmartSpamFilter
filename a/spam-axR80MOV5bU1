@@ -1,0 +1,83 @@
+Return-Path: <age.defying.energy-is_gujral=jcbl.com@healthy-nutritive.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <is_gujral@jcbl.com>
+X-Envelope-To-Blocked: <is_gujral@jcbl.com>
+X-Quarantine-ID: <axR80MOV5bU1>
+X-Spam-Flag: YES
+X-Spam-Score: 14.353
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.353 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_32=0.001, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_BRBL_LASTEXT=1.644,
+	RCVD_IN_RP_RNBL=1.284, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id axR80MOV5bU1 for <is_gujral@jcbl.com>;
+	Sun,  2 Dec 2018 17:48:56 +0530 (IST)
+Received: from mail.healthy-nutritive.com (healthy-nutritive.com [103.110.208.59])
+	by mx10.jcbl.com (Postfix) with ESMTP id C9507F4B631
+	for <is_gujral@jcbl.com>; Sun,  2 Dec 2018 17:48:55 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=healthy-nutritive.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=age.defying.energy@healthy-nutritive.com;
+ bh=/+UBE7zIyN94agFn/NTj7LJmL7s=;
+ b=pOh+Zqc8wDV9RjIyeTf8/h5r9rkE/VyO9UheL5zxiHvL75PBF1nj8oJKmBq9PIAuOyN5HF53MOd/
+   c3B9YzSmPynpJW796I6SBMx/XdlvS/Fp2WM0vu5Q/GdvnsqYpT1xIofwMWwMz1m/xnZ905hV+xXp
+   Vmq31Gie3WroOe9hsNY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=healthy-nutritive.com;
+ b=elkB8rirtvYWVeB62ZfhftjbW6bMsQvhbDJRhD3+c9m1Qf/hnHMQpLX0dwzilYtMmFG8pf6Wcnem
+   S+lKXoNFX54yEE0CqDAoWZ5SwynAKJAiPzL0Tp6OV18oiKO2Sl6jNzDZQsCOq31j+FjKInhYFFiH
+   exaVhay71iODYhv22Ek=;
+Received: by mail.healthy-nutritive.com id h0f70q0001gi for <is_gujral@jcbl.com>; Sun, 2 Dec 2018 07:04:09 -0500 (envelope-from <age.defying.energy-is_gujral=jcbl.com@healthy-nutritive.com>)
+Date: Sun, 2 Dec 2018 07:04:09 -0500
+From: "Age Defying Energy" <age.defying.energy@healthy-nutritive.com>
+To:   <is_gujral@jcbl.com>
+Subject: Tired of being tired all the time?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_946_1813562490.1543752178674"
+List-Unsubscribe: <http://www.healthy-nutritive.com/3776u2s38Z5l89Wo11Jt1P1Cz970g19abw_Z4cvDhfcGFhEGsi5Sn10F9I1Wik1wx9/class>
+Message-ID: <0.0.0.15E.1D48A3721A03A3A.4E3EE6@mail.healthy-nutritive.com>
+
+------=_Part_946_1813562490.1543752178674
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="utf-8" /> 
+  <title>Untitled Document</title> 
+ </head> 
+ <body style="font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;"> 
+  <p>Do you LOVE coffee? You're not alone. In fact, it's estimated that 83% of American<br /> adults drink it!</p> 
+  <p>Now, while I would never ask you to give it up - I know you won't LOL - I do want<br /> to let you know that if you're CONSTANTLY tired and need coffee to &quot;survive the<br /> day&quot;, well, there's a very good chance your body is trying to warn you something<br /> is VERY wrong.</p> 
+  <p>You see as a surgeon, I simply can't afford to be tired all the time.<br /> It could cost someone their life.</p> 
+  <p>And it was for exactly that reason I put my medical training to good use by<br /> researching the causes of fatigue, and more importantly, how to fix it.</p> 
+  <p>What did I find?</p> 
+  <p>Well, the first thing to know is that constantly feeling tired is a serious warning<br /> signs of all the health issues you don't want to deal with:</p> 
+  <p><strong><u>Heart Disease, Diabetes, High Blood Pressure, Brain problems and more...</u></strong></p> 
+  <p>Second, my research led me to several delicious foods you can eat every day<br /> that instantly skyrocket your energy levels - and keep them up all day, without<br /> any type of jitters or crash.</p> 
+  <p>I made a brief video about it that reveals not only these every day foods, but<br /> three &quot;health foods&quot; you need to AVOID at all costs.</p> 
+  <p>Sure, you're told by the Big Food corporations and their fancy marketing<br /> departments they're good for you, but in reality, they're doing nothing but<br /> zapping your energy, lowering your metabolism and destroying your health.</p> 
+  <p>If you want to fix your fatigue - and avoid the serious health problems associated<br /> with it - simply <strong><u><a href="http://www.healthy-nutritive.com/9cb5tr2385O__8610p3a70B970l19Rbw_Z4cvDhfcGFhEGsi5J1u0r10KNqzziwqx9/style">take my advice and eat THIS daily.</a> </u></strong></p> 
+  <p>PS - Yes, you can still enjoy your coffee, too :)</p> 
+  <p>&nbsp;</p> 
+  <p>&nbsp;</p> 
+  <p>&nbsp;</p> 
+  <img border="0" height="1" src="http://www.healthy-nutritive.com/e214Q2385c7QaS12l3a73pPR970R19fbw_Z4cvDhfcGFhEGsi6Vq1A0L10PBp3Pziwx9/color" width="1" />If you prefer to not receive these emails, please visit the 
+  <a href="http://www.healthy-nutritive.com/98f5P238r5SA86u10j3a71D970D19Qbw_Z4cvDhfcGFhEGsi7uF1XY0D10h2qyzi1wx9/class">this link.</a>
+  <br /> Or mail your request to:
+  <br /> 218 E. Bearss Ave., Ste. 203, Tampa, FL 33613 
+  <div>
+   <span style="font-size:20px; "><span style="font-family:georgia,serif; ">To be removed <a href="http://www.healthy-nutritive.com/98f5m238G5k89WV12sH3ar72p970S19Dbw_Z4cvDhfcGFhEGsi6UN1LN010F2liAOwx9U/size">view here</a><br /> 7365 Main Street #12 Unit #2213 Stratford, CT 06614</span></span>
+  </div>   
+ <img src="http://www.healthy-nutritive.com/color/b164D2385n8g5R11K3La74X970A19Bbw_Z4cvDhfcGFhEGsi5aZ10J10Xz2liBPwx9" alt=""/></body>
+</html>
+
+------=_Part_946_1813562490.1543752178674--
+

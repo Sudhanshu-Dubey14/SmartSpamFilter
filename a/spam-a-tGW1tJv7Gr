@@ -1,0 +1,278 @@
+Return-Path: <mail.txyofbzlventndr@email.warehousexpo.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@mslindia.net>
+X-Envelope-To-Blocked: <info@mslindia.net>
+X-Quarantine-ID: <a-tGW1tJv7Gr>
+X-Spam-Flag: YES
+X-Spam-Score: 6.312
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.312 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_GREY=1.084] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a-tGW1tJv7Gr for <info@mslindia.net>;
+	Sat, 15 Jun 2019 11:26:42 +0530 (IST)
+Received: from mail79-185.us1.msgfocus.com (mail79-185.us1.msgfocus.com [81.29.79.185])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 1D3E9104AD47
+	for <info@mslindia.net>; Sat, 15 Jun 2019 11:26:40 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=msgf; d=msgfocus.com;
+ h=Subject:X-Mailer:Message-ID:Reply-To:To:List-Unsubscribe:From:Date:
+ MIME-Version:Content-Type;
+ bh=x6vTRZ7roQ0LdBR+LTlBWWp2uzkubBCu+cr6Xt09Uc4=;
+ b=TrCxMkWUfhY6afXeUwTvEvEyaxZP0eSVUG1H4SmUPrkjteG2KZ9AznuLXKlOyNduxPXwenWwvd7X
+   Au4q5exL4f5DDhisg2YJFOgt5Y/3+NgSWutfIGktpYe7uEAdrOhYb8aA0lX4UTPwbiTjvGu4lIUL
+   8hVCTydZKiX4H3rjSKQ=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.warehousexpo.in; s=amf;
+	t=1560578268; bh=x6vTRZ7roQ0LdBR+LTlBWWp2uzkubBCu+cr6Xt09Uc4=;
+	h=Subject:X-Mailer:Message-ID:Reply-To:To:List-Unsubscribe:From:
+	 Date:MIME-Version:Content-Type;
+	b=ph2OImGzDSUvZpggB24Ge9na0u747t3X9bIke6F141TMSyKS1oBA7CDpqd8ue6lOP
+	 l5ugaTtgSUMvJ1VU23Hg8AAXmsa2Fta46ORYBC69QqDjtSk8ddOBq2fmlcp6uKg3W+
+	 yo9BJF4yfonxrtHBW+xt7LvPkOGRtAfs0PQaOhhw=
+Subject: 5 days to go!
+X-Mailer: MessageFocus v2 launch
+Message-ID: <DI82-798r2lvzI-7aC4-12bf4mDcWCba8M@email.warehousexpo.in>
+Reply-To: Akshita Kapoor <akshita.kapoor@reedmanch.com>
+To: info@mslindia.net
+List-Unsubscribe:
+ <mailto:mail.txyofbzlventndr@email.warehousexpo.in?subject=Unsubscribe>
+From: Kinjal <kinjal@email.warehousexpo.in>
+Date: Sat, 15 Jun 2019 06:57:48 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--1310EC9B00F7460813E50FC7"
+
+
+----1310EC9B00F7460813E50FC7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+India Warehousing Show 2019
+
+http://email.warehousexpo.in/c/1p8cEHICjH4dBI2rSEFjAi
+
+http://email.warehousexpo.in/c/1p8ob31HDVVpHROy07Lywf
+
+http://email.warehousexpo.in/c/1p8zHokMYaMBO1AE7ARNsc
+
+http://email.warehousexpo.in/c/1p8LdJDSipDNUbmKf3Y2o9
+
+For more information contact:
+
+Janish Jafri
++91 99996 86007
+janish.jafri@reedmanch.com
+
+Organised By: Reed Manch Exhibitions Pvt. Ltd.
+
+Unit-03/04/05, First Floor, Southern Park, D2 Saket, New Delhi, 110017, Ind=
+ia
+
+http://email.warehousexpo.in/c/1p8WK4WXCEv00l8Qmx4hk6
+
+http://email.warehousexpo.in/u/1aXkOlovI4VLQNPuJL1Y
+
+----1310EC9B00F7460813E50FC7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>India Warehousing Show 2019</title>
+<style type=3D"text/css">
+a:hover {
+	text-decoration: none !important;
+	color: #0000FF;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F7F7F7;
+}
+</style>
+</head>
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0">
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"800">
+
+<tr>
+<td align=3D"center" width=3D"853" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"381">
+
+<tr>
+<td align=3D"center" width=3D"207" height=3D"21" valign=3D"middle"><font fa=
+ce=3D"Arial, Helvetica, sans-serif" size=3D"1" color=3D"#666666"><a style=
+=3D"font-family: Arial, Helvetica, sans-serif; color: #000000; text-decorat=
+ion: none;" href=3D"http://email.warehousexpo.in/c/1p6U0iz1213QUBBL2mXD2D" =
+target=3D"_blank">Click here to view this email as web page</a></font></td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" colspan=3D"5" height=3D"" valign=3D"top" bgcolor=3D"#F=
+FFFFF"></td>
+</tr>
+
+</table>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"650">
+
+<tr>
+<td align=3D"center" height=3D"160" valign=3D"middle" bgcolor=3D"#082B3F"><=
+a href=3D"http://email.warehousexpo.in/c/1p75wDS6mfV30LnR9Q3RYA" target=3D"=
+_blank"><img src=3D"http://www.iwsdel.com/mailers/june/5days/banner.gif" al=
+t=3D"" width=3D"650" height=3D"567"></a></td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"19" valign=3D"middle" bgcolor=3D"#082B3F">&n=
+bsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"115" valign=3D"middle" bgcolor=3D"#082B3F">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"300">
+
+<tr>
+<td align=3D"center" width=3D"337" height=3D"100" bgcolor=3D"#A8CF45"><font=
+ style=3D"font-size: 32px; font-weight: bold; color: #ffffff;" face=3D"Treb=
+uchet MS, Arial, Helvetica, sans-serif"><a style=3D"font-family: 'Trebuchet=
+ MS', Arial, Helvetica, sans-serif; font-size: 32px; font-weight: bold; col=
+or: #ffffff; text-decoration: none;" href=3D"http://email.warehousexpo.in/c=
+/1p7h2ZbbGuMf6V9Xhja6Ux" target=3D"_blank"><b>FREE VISITOR <br> REGISTRATIO=
+N</b></a></font></td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"19" valign=3D"middle" bgcolor=3D"#082B3F">&n=
+bsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"19" valign=3D"middle" bgcolor=3D"#082B3F">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600">
+
+<tr>
+<td align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"280">
+
+<tr>
+<td align=3D"center" width=3D"222" height=3D"45" bgcolor=3D"#F58634"><font =
+style=3D"font-size: 20px; font-weight: bold; color: #000000;" face=3D"Trebu=
+chet MS, Arial, Helvetica, sans-serif"><a style=3D"font-family: 'Trebuchet =
+MS', Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; colo=
+r: #ffffff; text-decoration: none;" href=3D"http://email.warehousexpo.in/c/=
+1p7szkuh0JDrd4W3oMglQu" target=3D"_blank"><b>LIST OF EXHIBITORS</b></a></fo=
+nt></td>
+</tr>
+
+</table>
+</td>
+<td align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"280">
+
+<tr>
+<td align=3D"center" width=3D"222" height=3D"45" bgcolor=3D"#F58634"><font =
+style=3D"font-size: 20px; font-weight: bold; color: #000000;" face=3D"Trebu=
+chet MS, Arial, Helvetica, sans-serif"><a style=3D"font-family: 'Trebuchet =
+MS', Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; colo=
+r: #ffffff; text-decoration: none;" href=3D"http://email.warehousexpo.in/c/=
+1p7PC16rFdlPpoufDIsPIo" target=3D"_blank"><b>PRODUCT LAUNCHES</b></a></font=
+></td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"19" valign=3D"middle" bgcolor=3D"#082B3F">&n=
+bsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"81" valign=3D"middle" bgcolor=3D"#848484">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"620">
+
+<tr>
+<td align=3D"left" colspan=3D"2" height=3D"34"><font style=3D"font-size: 15=
+px; color: #ffffff;" face=3D"Trebuchet MS, Arial, Helvetica, sans-serif">Fo=
+r more information contact:</font></td>
+</tr>
+<tr>
+<td align=3D"left" width=3D"92" height=3D"80"><img src=3D"http://www.iwsdel=
+.com/mailers/june/5days/janish.png" alt=3D"" width=3D"77" height=3D"77"></t=
+d>
+<td align=3D"left" width=3D"528" height=3D"80"><font style=3D"font-size: 15=
+px; color: #ffffff;" face=3D"Trebuchet MS, Arial, Helvetica, sans-serif"> <=
+b>Janish Jafri</b><br>+91 99996 86007<br>janish.jafri@reedmanch.com</font><=
+/td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"37" valign=3D"middle" bgcolor=3D"#848484">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"620">
+
+<tr>
+<td align=3D"left" width=3D"475" height=3D"23"><font style=3D"font-size: 13=
+px; text-align: left;" face=3D"Trebuchet MS, Arial, Helvetica, sans-serif" =
+color=3D"#FFFFFF">Organised By: Reed Manch Exhibitions Pvt. Ltd. </font></t=
+d>
+<td align=3D"left" rowspan=3D"2" width=3D"145"><img src=3D"http://www.iwsde=
+l.com/mailers/june/5days/reed-manch.png" alt=3D"" width=3D"120" height=3D"3=
+5"></td>
+</tr>
+<tr>
+<td align=3D"left"><font style=3D"font-size: 13px; text-align: left;" face=
+=3D"Trebuchet MS, Arial, Helvetica, sans-serif" color=3D"#FFFFFF">Unit-03/0=
+4/05, First Floor, Southern Park, D2 Saket, New Delhi, 110017, India </font=
+></td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"50" valign=3D"middle" bgcolor=3D"#848484">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"620">
+
+<tr>
+<td align=3D"left">&nbsp;</td>
+<td align=3D"right"><font face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
+color=3D"#FFFFFF"><a style=3D"font-family: Arial, Helvetica, sans-serif; co=
+lor: #ffffff; text-decoration: none;" href=3D"http://email.warehousexpo.in/=
+c/1p818mpwZsd1vyglLbz4El" target=3D"_blank"><b>www.IndiaWarehousingShow.com=
+</b></a></font></td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+</table>
+<p style=3D"text-align: center;" align=3D"center"><font face=3D"arial,helve=
+tica,sans-serif" size=3D"1" color=3D"#ffffff">&nbsp;<a href=3D"http://email=
+.warehousexpo.in/u/1aXkOlovI4VLQNPuJL1Y">Click here to unsubscribe</a></fon=
+t></p>
+<img src=3D"http://email.warehousexpo.in/t/12bf4mDcWCba8M.png" alt=3D"">
+<!--[if lt mso 12]><img src=3D"https://t.msgf.net/r/12bf4mDcWCba8M.png?c=3D=
+1" alt=3D""><![endif]--><![if gt mso 11]><img src=3D"https://t.msgf.net/r/1=
+2bf4mDcWCba8M.png" alt=3D""><![endif]>
+</body>
+</html>=
+
+----1310EC9B00F7460813E50FC7--

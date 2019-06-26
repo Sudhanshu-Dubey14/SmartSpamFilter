@@ -1,0 +1,454 @@
+Return-Path:
+	<bounce.cli118-827-836-13544483-1985-17-17-ritesh_sharma=globeauto.in@multi27.azl.cpranc.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ritesh_sharma@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <apHhgZxJ6_DV>
+X-Amavis-Alert: BAD HEADER SECTION Improper folded header field made up
+	entirely of whitespace (char 09 hex): DKIM-Signature:
+	...VzGj6Ja+gndgkZDISURy0t\n\tpLgjbVxouHNkCpTwBJU=\n\t
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id apHhgZxJ6_DV for <ritesh_sharma@globeauto.in>;
+	Wed, 31 May 2017 11:42:45 +0530 (IST)
+Received: from multi27.azl.cpranc.com (multi27.azl.cpranc.com [45.126.38.156])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 32521F69C18
+	for <ritesh_sharma@globeauto.in>; Wed, 31 May 2017 11:42:41 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=vm; d=cpranc.com;
+ h=Date:To:From:Reply-To:Subject:Message-ID:Sender:List-Unsubscribe:MIME-Version:Content-Type; i=epro=3Dbox.epromotionalmail.com@multi27.azl.cpranc.com;
+ bh=1tv7Rt/sDcrEDOW0eieMoyLxwF8=;
+ b=W5Tfl8qP4RdUUFn9+0zLbfmHnf6SOmIz1oA1i3iVrZ185hZt6guBrOwoQFf7acl2CPGVc4DbT3MQ
+   w5BT0ZMJg1MhBBsFESzpgcrlMk8mXoUhVpDEYkzx38noLUcATJGAneiQWGaFLKNW9TwY1k3VFCrt
+   xjvqWue2hHukvDZ1oQY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=vm; d=cpranc.com;
+ b=b+Ivv3qKd45mONgS9+oGivWSism/ff1O/9gQsojlktSW0boBin9FfkBhKKiyIwuMfDnpMICPdv5a
+   EFPpzxTC9GUFDZQFDw7ZP2oDiqtndwzwGqmDUchBdeZTU196VcmqE9jzxeXtCiXkJWKUJP4VAF+/
+   Pjt2vqrHSnyAJF6cM1A=;
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=28560; s=vm;
+	t=1496211337; c=relaxed/simple;
+	h=From:To:Subject;
+	d=mailer.epromotionalmail.com;
+	z=From:=20House=20of=20Hiranandani=20<epro@box.epromotionalmail.com>
+	|To:=20ritesh_sharma@globeauto.in
+	|Subject:=20Book=20a=20ready-to-move-in=203BHK=20home=20at=20Bannerghatta=20by=20House=20of=20Hiranandani;
+	bh=Leq8RjYgS++qSmophC+6AISeDZQ=;
+	b=EYL10HQuwjb1xP5s2fUuQD6VNAkEnSAbEOW4KGURkKoj5TCOeepQO/q5CgrRsbBRmTTx9D8LjLKl
+	cq18Tqdd5WJQwt/xHAp5aDoywMMRRHh20HlGKxHCwgCQ6oiuQ12oyoVzGj6Ja+gndgkZDISURy0t
+	pLgjbVxouHNkCpTwBJU=
+	
+Date: Wed, 31 May 2017 06:15:37 +0000
+To: ritesh_sharma@globeauto.in
+From: House of Hiranandani <epro@box.epromotionalmail.com>
+Reply-To: epro@box.epromotionalmail.com
+Subject: Book a ready-to-move-in 3BHK home at Bannerghatta by House of Hiranandani
+Message-ID: <1496211337-MTM1NDQ0ODMtODI3@box.epromotionalmail.com>
+Sender: mailer.epromotionalmail.com <epro=box.epromotionalmail.com@multi27.azl.cpranc.com>
+List-Unsubscribe: <http://panel.epromotionalmail.com/us/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/Hiran.html>,<mailto:bounce.cli118-827-836-13544483-1985-17-17-ritesh_sharma=globeauto.in@multi27.azl.cpranc.com?subject=unsubscribe>
+X-Subscriber-ID: ritesh_sharma@globeauto.in
+X-Campaignid: 827
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dc35ebc06359316461677d321593be26"
+
+--b1_dc35ebc06359316461677d321593be26
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+If you find this email in Spam Please Mark as Not spam =09=09=09=09=09=09=
+=09 View in browser =09=09=09=09=09=09 =09=09=09=09=09=09=09=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20 Packed and ready=20=20=20=20=20=20=20=20=20=20=20=20  =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20 for the new address.=20=20=20=20=20  =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20 Book your drea=
+m home at Hill Crest - Bannerghatta, starting from =E2=82=B91.40CR.*=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20 You no longer have to wait for great things to happen, at least no=
+t when it comes to your new home at Hill Crest - House of Hiranandani, Bann=
+erghatta. With our well-planned spaces and infrastructure we have ensured t=
+hat there is something for everybody here. Surrounded by some delightful am=
+enities, it offers you the best of recreational sports and lifestyle amenit=
+ies that will make you feel complete.=20=20=20=20=20=20=20=20=20  =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20 For special of=
+fers call : 08066085553=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20or visit www.houseofhiranan=
+dani.com=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20Disclaimer: The layout details,=
+ amenities and facilities mentioned / shown are subject to changes / reloca=
+tion within the composite development / are subject to modification, amendm=
+ent, changes and revocable, without any notice, at the discretion of the De=
+veloper. The images shown are for illustration purposes only and may not be=
+ an exact representation of the product.=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20 The project is financed by ICICI bank and =
+NOC will be provided on request. *Conditions apply.=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20   =
+=20=20=20=20=20=20=20=09=09=09=09=09=09If you would like to unsubscr=
+ibe and stop receiving these emails Click here =C2=BB
+
+--b1_dc35ebc06359316461677d321593be26
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ =09=09=09=09<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"=
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> =09=09=09=09=09=
+=09<html> =09=09=09=09=09=09<head> =09=09=09=09=09=09<title>Book a ready-to=
+-move-in 3BHK home at Bannerghatta by House of Hiranandani</title> =09=09=
+=09=09=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /> =09=09=09=09=09=09<meta name=3D"viewport" content=3D"width=3Dd=
+evice-width, initial-scale=3D1.0"/> =09=09=09=09=09=09<style type=3D"text/c=
+ss"> =09=09=09=09=09=09=09#outlook a{ =09=09=09=09=09=09=09=09padding:0; =
+=09=09=09=09=09=09=09=09} =09=09=09=09=09=09=09body{ =09=09=09=09=09=09=09=
+=09width:100% !important; =09=09=09=09=09=09=09=09} =09=09=09=09=09=09=09bo=
+dy{ =09=09=09=09=09=09=09=09-webkit-text-size-adjust:none; =09=09=09=09=09=
+=09=09=09} =09=09=09=09=09=09=09body{ =09=09=09=09=09=09=09=09margin:0; =09=
+=09=09=09=09=09=09=09padding:0; =09=09=09=09=09=09=09=09} =09=09=09=09=09=
+=09=09img{ =09=09=09=09=09=09=09=09border:none; =09=09=09=09=09=09=09=09fon=
+t-size:14px; =09=09=09=09=09=09=09=09font-weight:bold; =09=09=09=09=09=09=
+=09=09height:auto; =09=09=09=09=09=09=09=09line-height:100%; =09=09=09=09=
+=09=09=09=09outline:none; =09=09=09=09=09=09=09=09text-decoration:none; =09=
+=09=09=09=09=09=09=09text-transform:capitalize; =09=09=09=09=09=09=09=09} =
+=09=09=09=09=09=09=09table{ =09=09=09=09=09=09=09=09margin:0; =09=09=09=09=
+=09=09=09=09padding:0; =09=09=09=09=09=09=09=09} =09=09=09=09=09=09=09.preh=
+eader {display:none !important;} =09=09=09=09=09=09=09=20@media only scree=
+n and (max-width: 650px){=20  body[YAHOO] .deviceWidth {=20=20width:100%=
+ !important;=20=20padding:0;=20  }=20  td[class=3D"banner"] img{=20   =
+ width:100% !important;=20  }=20  td[class=3D"space"]{=20=20padding: 0 =
+!important;=20  }=20}=20@media only screen and (max-width: 620px){=20  =
+td[class=3D"top-border"]{=20=20padding: 0 14px !important;=20  }=20}   =
+ @media only screen and (max-width: 568px){=20  td[class=3D"leftcontain"]{=
+=20=20width: 100%;=20=20display: block;=20  }=20  td[class=3D"rightco=
+ntain"]{=20=20width: 100%;=20=20display: block;=20=20padding: 0 !impo=
+rtant;=20=20text-align:  center !important;=20  }=20  td[class=3D"leftc=
+ontain"] img,td[class=3D"rightcontain"] img,td[class=3D"sub-right"] {=20  =
+  margin:10px auto;=20=20text-align: center;=20  }=20  td[class=3D"top-=
+border"]{=20=20padding: 0 13px !important;=20  }=20  td[class=3D"head"]=
+{=20=20font-size: 32px !important;=20  }=20  td[class=3D"sub-head"]{   =
+=20 font-size: 17px !important;=20  }=20  td[class=3D"txt"]{=20=20font=
+-size: 12px !important=20  }=20  td[class=3D"sub-right"]{=20=20padding:=
+ 5px 0 0 !important;=20  }=20}=20@media only screen and (max-width: 520p=
+x){=20  td[class=3D"top-border"]{=20=20padding: 0 12px !important;=20  =
+}=20}=20@media only screen and (max-width: 480px){=20  td[class=3D"top-b=
+order"]{=20=20padding: 0 11px !important;=20  }=20  td[class=3D"head"]{=
+=20=20font-size: 30px !important;=20  }=20  td[class=3D"sub-head"]{=20=
+=20font-size: 20px !important;=20  }=20  td[class=3D"txt"]{=20=20font-=
+size: 10px !important=20  }=20}=20@media only screen and (max-width: 460=
+px){=20  td[class=3D"top-border"]{=20=20padding: 0 10px !important;=20 =
+ }=20}=20@media only screen and (max-width: 420px){=20  td[class=3D"top-=
+border"]{=20=20padding: 0 9px !important;=20  }=20  td[class=3D"text-mi=
+ddle"]{=20=20padding: 10px 5px !important;=20=20text-align: left=20  }=
+=20  td[class=3D"head"]{=20=20font-size: 27px !important;=20  }=20  td=
+[class=3D"sub-head"]{=20=20font-size: 17px !important;=20  }=20  td[cla=
+ss=3D"txt"]{=20=20font-size: 9px !important=20  }=20  td[class=3D"sub-r=
+ight"] {=20=20font-size: 13px !important;=20  }=20}=20@media only scre=
+en and (max-width: 360px){=20  td[class=3D"top-border"]{=20=20padding: 0=
+ 8px !important;=20  }=20}=20@media only screen and (max-width: 320px){ =
+=20 td[class=3D"top-border"]{=20=20padding: 0 7px !important;=20  }=20=
+  td[class=3D"head"]{=20=20font-size: 25px !important;=20  }=20  td[cla=
+ss=3D"sub-head"]{=20=20font-size: 15px !important;=20  }=20}  </style> =
+ <script async=3D"" src=3D"./House of Hiranandani_files/processor.sm.js.dow=
+nload" type=3D"text/javascript" charset=3D"UTF-8"></script>  <script async=
+=3D"" src=3D"./House of Hiranandani_files/processor.sm.js.download" type=3D=
+"text/javascript" charset=3D"UTF-8"></script>  <script src=3D"./House of Hi=
+ranandani_files/deal.js.download"></script>  <script src=3D"./House of Hira=
+nandani_files/client.download"></script>  <script type=3D"text/javascript" =
+src=3D"./House of Hiranandani_files/saved_resource.download"></script>  <sc=
+ript type=3D"text/javascript" src=3D"./House of Hiranandani_files/saved_res=
+ource(1).download"></script>  <script=20type=3D"text/javascript" src=3D"./=
+House of Hiranandani_files/get.download"></script>  <script src=3D"./House =
+of Hiranandani_files/deal.js(1).download"></script>  <script src=3D"./House=
+ of Hiranandani_files/client(1).download"></script>  <style type=3D"text/cs=
+s">=20.sm-ib-iframe{=20  border:none!important;=20  top:0!important;=20=
+  left:0!important;=20  width:100%!important;=20  height:100%!important; =
+=20 z-index:1000!important;=20  position:fixed!important;=20  background=
+-color:rgba(100,100,100,.5)!important}=20.sm-fs-iframe{=20  border:none!i=
+mportant;=20  width:auto;=20  height:125px;=20  position:relative!import=
+ant;=20  z-index:105!important}=20.sm-image-button{=20  top:0;=20  bott=
+om:0;=20  left:0;=20  right:0;=20  margin:auto;=20  margin-top:20%;=20=
+  font-size:14px!important;=20  color:#fff!important;=20  width:8.83em!im=
+portant;=20  height:2.6em!important;=20  line-height:2.6em!important;=20=
+  background-color:#f1863c!important;=20  border-radius:2px!important;=20=
+  text-transform:capitalize!important;=20  text-align:center!important;   =
+   font-family:OpenSans,sans-serif!important;=20  cursor:pointer!important=
+;=20  position:absolute!important;=20  transition:background=20=20.3s!i=
+mportant;=20  z-index:99!important}=20.sm-image-button:hover{=20  backgr=
+ound-color:#e96911}=20.sm-image-button-spinner{=20  position:absolute!imp=
+ortant;=20  z-index:100!important;=20  left:0!important;=20  right:0!imp=
+ortant;=20  top:0!important;=20  bottom:0!important;=20  margin:auto!imp=
+ortant;=20  width:50px!important;=20  height:50px!important}  </style>  <=
+style type=3D"text/css">=20.sm-ib-iframe{=20  border:none!important;=20 =
+ top:0!important;=20  left:0!important;=20  width:100%!important;=20  he=
+ight:100%!important;=20  z-index:1000!important;=20  position:fixed!impor=
+tant;=20  background-color:rgba(100,100,100,.5)!important}=20.sm-fs-ifram=
+e{=20  border:none!important;=20  width:auto;=20  height:125px;=20  pos=
+ition:relative!important;=20  z-index:105!important}=20.sm-image-button{ =
+=20 top:0;=20  bottom:0;=20  left:0;=20  right:0;=20  margin:auto;=20=
+  margin-top:20%;=20  font-size:14px!important;=20  color:#fff!important;=
+=20  width:8.83em!important;=20  height:2.6em!important;=20  line-height=
+:2.6em!important;=20  background-color:#f1863c!important;=20  border-radi=
+us:2px!important;=20  text-transform:capitalize!important;=20  text-align=
+:center!important;=20  font-family:OpenSans,sans-serif!important;=20  cur=
+sor:pointer!important;=20  position:absolute!important;=20  transition:ba=
+ckground=20=20.3s!important;=20  z-index:99!important}=20.sm-image-butt=
+on:hover{=20  background-color:#e96911}=20.sm-image-button-spinner{=20  =
+position:absolute!important;=20  z-index:100!important;=20  left:0!import=
+ant;=20  right:0!important;=20  top:0!important;=20  bottom:0!important;=
+=20  margin:auto!important;=20  width:50px!important;=20  height:50px!im=
+portant}   =09=09=09=09=09=09</style> =09=09=09=09=09=09</head> =09=09=09=
+=09=09=09<body style=3D'width:100% !important;webkit-text-size-adjust:none;=
+ margin:0; =09=09=09=09=09=09=09=09padding:0' leftmargin=3D'0' marginwidth=
+=3D'0'  topmargin=3D'0'  marginheight=3D'0' offset=3D'0'> =09=09=09=09=09=
+=09<span style=3D"display:none !important;" class=3D"preheader"><img src=3D=
+"http://panel.epromotionalmail.com/opens/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhl=
+b/blank.gif"  width=3D"0" height=3D"0" style=3D"display:none !important;"><=
+/span>=20 =09=09=09=09=09=09<span class=3D"preheader" style=3D"display:non=
+e !important;" ></span> =09=09=09=09=09=09<div style=3D"width:100%; font-fa=
+mily:Verdana, sans-serif, Segoe, Segoe UI, DejaVu Sans, Trebuchet MS;"> =09=
+=09=09=09=09=09 <p style=3D"font-size:12px; color:#999; margin:0; padding:1=
+0px 0 4px 0; text-align:center;">If you find this email in Spam Please Mark=
+ as Not spam</p> =09=09=09=09=09=09=09<p style=3D"font-size:12px; color:#33=
+3; margin:0; padding:0 0 10px 0; text-align:center;"> <a href=3D"http://pan=
+el.epromotionalmail.com/vb/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/Hiran.html" =
+style=3D"text-decoration:none;">View in browser</a></p></div> =09=09=09=09=
+=09=09<div style=3D"width:100%"> =09=09=09=09=09=09=09<!-- saved from url=
+=3D(0064)http://campaigns.iksula.com/email/HOH/10517_emailer_2/index.html -=
+->  <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type=
+" />  <meta content=3D"width=3Ddevice-width, initial-scale=3D1" name=3D"vie=
+wport" />=20 <style type=3D"text/css">=20@media only screen and (max-widt=
+h: 650px){=20  body[YAHOO] .deviceWidth {=20=20width:100% !important;   =
+=20 padding:0;=20  }=20  td[class=3D"banner"] img{=20=20width:100% !im=
+portant;=20  }=20  td[class=3D"space"]{=20=20padding: 0 !important;=20=
+  }=20}=20@media only screen and (max-width: 620px){=20  td[class=3D"top=
+-border"]{=20=20padding: 0 14px !important;=20  }=20}=20@media only sc=
+reen and (max-width: 568px){=20  td[class=3D"leftcontain"]{=20=20width: =
+100%;=20=20display: block;=20  }=20  td[class=3D"rightcontain"]{=20   =
+ width: 100%;=20=20display: block;=20=20padding: 0 !important;=20=20t=
+ext-align:  center !important;=20  }=20  td[class=3D"leftcontain"] img,td=
+[class=3D"rightcontain"] img,td[class=3D"sub-right"] {=20=20margin:10px a=
+uto;=20=20text-align: center;=20  }=20  td[class=3D"top-border"]{=20  =
+  padding: 0 13px !important;=20  }=20  td[class=3D"head"]{=20=20font-s=
+ize: 32px !important;=20  }=20  td[class=3D"sub-head"]{=20=20font-size:=
+ 17px !important;=20  }=20  td[class=3D"txt"]{=20=20font-size: 12px !im=
+portant=20  }=20  td[class=3D"sub-right"]{=20=20padding: 5px 0 0 !impor=
+tant;=20  }=20}=20@media only screen and (max-width: 520px){=20  td[cla=
+ss=3D"top-border"]{=20=20padding: 0 12px !important;=20  }=20}=20@medi=
+a only screen and (max-width: 480px){=20  td[class=3D"top-border"]{=20   =
+ padding: 0 11px !important;=20  }=20  td[class=3D"head"]{=20=20font-si=
+ze: 30px !important;=20  }=20  td[class=3D"sub-head"]{=20=20font-size: =
+20px !important;=20  }=20  td[class=3D"txt"]{=20=20font-size: 10px !imp=
+ortant=20  }=20}=20@media only screen and (max-width: 460px){=20  td[cl=
+ass=3D"top-border"]{=20=20padding: 0 10px !important;=20  }=20}=20@med=
+ia only screen and (max-width: 420px){=20  td[class=3D"top-border"]{=20  =
+  padding: 0 9px !important;=20  }=20  td[class=3D"text-middle"]{=20=20=
+padding: 10px 5px !important;=20=20text-align: left=20  }=20  td[class=
+=3D"head"]{=20=20font-size: 27px !important;=20  }=20  td[class=3D"sub-=
+head"]{=20=20font-size: 17px !important;=20  }=20  td[class=3D"txt"]{  =
+=20  font-size: 9px !important=20  }=20  td[class=3D"sub-right"] {=20  =
+  font-size: 13px !important;=20  }=20}=20@media only screen and (max-wi=
+dth: 360px){=20  td[class=3D"top-border"]{=20=20padding: 0 8px !importan=
+t;=20  }=20}=20@media only screen and (max-width: 320px){=20  td[class=
+=3D"top-border"]{=20=20padding: 0 7px !important;=20  }=20  td[class=3D=
+"head"]{=20=20font-size: 25px !important;=20  }=20  td[class=3D"sub-hea=
+d"]{=20=20font-size: 15px !important;=20  }=20}  </style>  <script asyn=
+c=3D"" src=3D"./House of Hiranandani_files/processor.sm.js.download" type=
+=3D"text/javascript" charset=3D"UTF-8"></script>  <script async=3D"" src=3D=
+"./House of Hiranandani_files/processor.sm.js.download" type=3D"text/javasc=
+ript" charset=3D"UTF-8"></script>  <script src=3D"./House of Hiranandani_fi=
+les/deal.js.download"></script>  <script src=3D"./House of Hiranandani_file=
+s/client.download"></script>  <script type=3D"text/javascript" src=3D"./Hou=
+se of Hiranandani_files/saved_resource.download"></script>  <script type=3D=
+"text/javascript" src=3D"./House of Hiranandani_files/saved_resource(1).dow=
+nload"></script>  <script=20type=3D"text/javascript" src=3D"./House of Hir=
+anandani_files/get.download"></script>  <script src=3D"./House of Hirananda=
+ni_files/deal.js(1).download"></script>  <script src=3D"./House of Hiranand=
+ani_files/client(1).download"></script>  <style type=3D"text/css">=20.sm-i=
+b-iframe{=20  border:none!important;=20  top:0!important;=20  left:0!imp=
+ortant;=20  width:100%!important;=20  height:100%!important;=20  z-index=
+:1000!important;=20  position:fixed!important;=20  background-color:rgba(=
+100,100,100,.5)!important}=20.sm-fs-iframe{=20  border:none!important;   =
+   width:auto;=20  height:125px;=20  position:relative!important;=20  z-=
+index:105!important}=20.sm-image-button{=20  top:0;=20  bottom:0;=20  l=
+eft:0;=20  right:0;=20  margin:auto;=20  margin-top:20%;=20  font-size:=
+14px!important;=20  color:#fff!important;=20  width:8.83em!important;=20=
+  height:2.6em!important;=20  line-height:2.6em!important;=20  background=
+-color:#f1863c!important;=20  border-radius:2px!important;=20  text-trans=
+form:capitalize!important;=20  text-align:center!important;=20  font-fami=
+ly:OpenSans,sans-serif!important;=20  cursor:pointer!important;=20  posit=
+ion:absolute!important;=20  transition:background=20=20.3s!important;   =
+   z-index:99!important}=20.sm-image-button:hover{=20  background-color:#=
+e96911}=20.sm-image-button-spinner{=20  position:absolute!important;=20 =
+ z-index:100!important;=20  left:0!important;=20  right:0!important;=20 =
+ top:0!important;=20  bottom:0!important;=20  margin:auto!important;=20 =
+ width:50px!important;=20  height:50px!important}  </style>  <style type=
+=3D"text/css">=20.sm-ib-iframe{=20  border:none!important;=20  top:0!imp=
+ortant;=20  left:0!important;=20  width:100%!important;=20  height:100%!=
+important;=20  z-index:1000!important;=20  position:fixed!important;=20 =
+ background-color:rgba(100,100,100,.5)!important}=20.sm-fs-iframe{=20  bo=
+rder:none!important;=20  width:auto;=20  height:125px;=20  position:rela=
+tive!important;=20  z-index:105!important}=20.sm-image-button{=20  top:0=
+;=20  bottom:0;=20  left:0;=20  right:0;=20  margin:auto;=20  margin-t=
+op:20%;=20  font-size:14px!important;=20  color:#fff!important;=20  widt=
+h:8.83em!important;=20  height:2.6em!important;=20  line-height:2.6em!imp=
+ortant;=20  background-color:#f1863c!important;=20  border-radius:2px!imp=
+ortant;=20  text-transform:capitalize!important;=20  text-align:center!im=
+portant;=20  font-family:OpenSans,sans-serif!important;=20  cursor:pointe=
+r!important;=20  position:absolute!important;=20  transition:background  =
+=20  .3s!important;=20  z-index:99!important}=20.sm-image-button:hover{ =
+=20 background-color:#e96911}=20.sm-image-button-spinner{=20  position:a=
+bsolute!important;=20  z-index:100!important;=20  left:0!important;=20  =
+right:0!important;=20  top:0!important;=20  bottom:0!important;=20  marg=
+in:auto!important;=20  width:50px!important;=20  height:50px!important}  =
+</style>  <script type=3D"text/javascript" src=3D"./House of Hiranandani_fi=
+les/saved_resource(2).download"></script>  <script type=3D"text/javascript"=
+ src=3D"./House of Hiranandani_files/saved_resource(3).download"></script> =
+ <script type=3D"text/javascript" src=3D"./House of Hiranandani_files/int-j=
+s.download"></script>  <script type=3D"text/javascript" src=3D"./House of H=
+iranandani_files/saved_resource(4).download"></script>  <script type=3D"tex=
+t/javascript" src=3D"./House of Hiranandani_files/saved_resource(5).downloa=
+d"></script>  <script type=3D"text/javascript" src=3D"./House of  Hirananda=
+ni_files/saved_resource(6).download"></script>  <script type=3D"text/javasc=
+ript" src=3D"./House of Hiranandani_files/saved_resource(7).download"></scr=
+ipt>  <script type=3D"text/javascript" src=3D"./House of Hiranandani_files/=
+saved_resource(8).download"></script>  <script type=3D"text/javascript" src=
+=3D"./House of Hiranandani_files/saved_resource(9).download"></script>  <sc=
+ript charset=3D"UTF-8" src=3D"./House of Hiranandani_files/284932_ALL.js.do=
+wnload"></script>  <script charset=3D"UTF-8" src=3D"./House of Hiranandani_=
+files/284932_BNX.js.download"></script>  <script charset=3D"UTF-8" src=3D".=
+/House of  Hiranandani_files/linkcheck.js.download"></script>  <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devic=
+eWidth" style=3D"font-size:0;" width=3D"600">=20<tbody>=20  <tr>=20=20<=
+td align=3D"left" class=3D"banner" valign=3D"top">=20=20  <a href=3D"http=
+://panel.epromotionalmail.com/links/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/960=
+8/Hiran.html" target=3D"_blank"><img alt=3D"" src=3D"http://mediawoks.com/h=
+tml/hiranandani/10317_01.jpg.download" style=3D"display:block; border:none;=
+" width=3D"600" /></a>=20=20</td>=20  </tr>=20  <tr>=20=20<td align=
+=3D"left" class=3D"top-border" style=3D"padding:0 15px;" valign=3D"top">   =
+=20   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">=20=20=20<tbody>=20=20=20  <tr>=20=20=20=20<td align=3D"left" =
+style=3D"border-right: 1px solid #7d1643; border-left: 1px solid #7d1643; b=
+order-bottom: 1px solid #7d1643;" valign=3D"top">=20=20=20=20  <table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=20=20=20=
+=20=20<tbody>=20=20=20=20=20  <tr>=20=20=20=20=20=20<td align=
+=3D"left" style=3D"padding: 0 7px 15px;" valign=3D"top">=20=20=20=20   =
+=20   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">=20=20=20=20=20=20=20<tbody>=20=20=20=20=20=20=20  <tr>   =
+=20=20=20=20=20=20=20 <td align=3D"center" class=3D"head" style=3D"p=
+adding:20px 0 0; font-family:Tahoma, Geneva, sans-serif; font-size:37px; co=
+lor:#7d1542;text-transform:uppercase" valign=3D"top">=20=20=20=20=20  =
+=20=20=20Packed and ready=20=20=20=20=20=20=20=20</td>=20=20  =
+=20=20=20=20=20</tr>=20=20=20=20=20=20=20  <tr>=20=20=20=20=
+=20=20=20=20<td align=3D"center" class=3D"sub-head" style=3D"padding:0 =
+20px 15px; font-family:Tahoma, Geneva, sans-serif; font-size:23px; color:#7=
+d1542;text-transform:uppercase" valign=3D"top">=20=20=20=20=20=20=20=
+=20  for the new address.=20=20=20=20=20=20=20=20</td>=20=20=20=
+=20=20=20=20  </tr>=20=20=20=20=20=20=20  <tr>=20=20=20=20  =
+=20=20=20  <td align=3D"center" class=3D"txt" style=3D"padding:0 20px 15=
+px 20px; font-family:Tahoma, Geneva, sans-serif; font-size:13px; color:#231=
+f20;" valign=3D"top">=20=20=20=20=20=20=20=20  Book your dream home=
+ at Hill Crest - Bannerghatta, starting from =E2=82=B91.40CR.*=20=20=20 =
+=20=20=20=20   </td>=20=20=20=20=20=20=20  </tr>=20=20=20=20=
+=20=20=20  <tr>=20=20=20=20=20=20=20=20<td align=3D"left" class=
+=3D"banner" valign=3D"top">=20=20=20=20=20=20=20=20  <a href=3D"htt=
+p://panel.epromotionalmail.com/links/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/96=
+08/Hiran.html" target=3D"_blank"><img alt=3D"" data-square=3D"232680" src=
+=3D"http://mediawoks.com/html/hiranandani/10317_03.jpg" style=3D"display:bl=
+ock; border:none;" width=3D"554" /></a>=20=20=20=20=20=20=20=20</td=
+>=20=20=20=20=20=20=20  </tr>=20=20=20=20=20=20=20  <tr>=20 =
+=20=20=20=20=20=20   <td align=3D"center" class=3D"text-middle" style=
+=3D"padding:15px 20px; font-family:Tahoma, Geneva, sans-serif; font-size:11=
+px; color:#4d4d4f;" valign=3D"top">=20=20=20=20=20=20=20=20  You no=
+ longer have to wait for great things to happen, at least not when it comes=
+ to your new home at<b> Hill Crest - House of Hiranandani, Bannerghatta.</b=
+> With our well-planned spaces and infrastructure we have ensured that ther=
+e is something for everybody here. Surrounded by some delightful amenities,=
+ it offers you the best of recreational sports and lifestyle amenities that=
+ will make you feel complete.=20=20=20=20=20=20=20=20</td>=20=20 =
+=20=20=20=20=20 </tr>=20=20=20=20=20=20=20  <tr>=20=20=20   =
+=20=20=20=20 <td align=3D"left" class=3D"space" style=3D"padding:10px" =
+valign=3D"top">=20=20=20=20=20=20=20=20  <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">=20=20=20=20=20=20=20  =
+=20  <tbody>=20=20=20=20=20=20=20=20=20  <tr>=20=20=20=20=20=
+=20=20=20=20=20<td align=3D"left" class=3D"leftcontain" style=3D"" val=
+ign=3D"top">=20=20=20=20=20=20=20=20=20=20  <a href=3D"http://pan=
+el.epromotionalmail.com/links/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/9608/Hira=
+n.html" target=3D"_blank"><img alt=3D"" src=3D"http://mediawoks.com/html/hi=
+ranandani/10317_05.jpg.download" style=3D"display:block; border:none;" widt=
+h=3D"243" /></a>=20=20=20=20=20=20=20=20=20=20</td>=20=20=20  =
+=20=20=20=20=20=20  <td align=3D"left" class=3D"rightcontain" style=
+=3D"padding:0 0 0 25px;" valign=3D"middle">=20=20=20=20=20=20=20=20=
+=20=20  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">=20=20=20=20=20=20=20=20=20=20=20<tbody>=20=20=20=20  =
+=20=20=20=20=20=20=20<tr>=20=20=20=20=20=20=20=20=20=20   =
+=20 <td align=3D"right" class=3D"sub-right" style=3D"font-family:Georgia, =
+Tahoma, Geneva, 'Times New Roman', Times, serif; font-size:15px; color:#414=
+142; padding:50px 0 0;" valign=3D"top">=20=20=20=20=20=20=20=20=20=
+=20=20=20  For special offers call : <a href=3D"tel:08066085553" style=
+=3D"font-family:Georgia, Tahoma, Geneva, 'Times New Roman', Times, serif; f=
+ont-size:15px; color:#414142; text-decoration: none;">08066085553</a>=20  =
+=20=20=20=20=20=20=20=20=20=20=20<br />=20=20=20=20=20=20 =
+=20=20=20=20=20=20 or visit <a href=3D"http://panel.epromotionalmail.=
+com/links/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/9608/Hiran.html" style=3D"fon=
+t-family:Georgia, Tahoma, Geneva, 'Times New Roman', Times, serif; font-siz=
+e:15px; color:#414142; text-decoration: none;" target=3D"_blank">www.houseo=
+fhiranandani.com</a>=20=20=20=20=20=20=20=20=20=20=20=20</td>  =
+=20=20=20=20=20=20=20=20=20=20=20</tr>=20=20=20=20=20=20  =
+=20=20=20=20  </tbody>=20=20=20=20=20=20=20=20=20=20  </table=
+>=20=20=20=20=20=20=20=20=20=20</td>=20=20=20=20=20=20=20 =
+=20=20 </tr>=20=20=20=20=20=20=20=20=20</tbody>=20=20=20=20 =
+=20=20=20=20 </table>=20=20=20=20=20=20=20=20</td>=20=20=20 =
+=20=20=20=20 </tr>=20=20=20=20=20=20=20  <tr>=20=20=20=20   =
+=20=20=20 <td align=3D"left" style=3D"font-family:Georgia, Tahoma, Genev=
+a, 'Times New Roman', Times, serif; font-size:8px; color:#231f20; padding: =
+15px 15px 0;" valign=3D"top">=20=20=20=20=20=20=20=20  Disclaimer: =
+The layout details, amenities and facilities mentioned / shown are subject =
+to changes / relocation within the composite development / are subject to m=
+odification, amendment, changes and revocable, without any notice, at the d=
+iscretion of the Developer. The images shown are for illustration purposes =
+only and may not be an exact representation of the product.=20=20=20=20=
+=20=20=20=20  <br />=20=20=20=20=20=20=20=20  The project is fi=
+nanced by ICICI bank and NOC will be provided on request. *Conditions apply=
+.=20=20=20=20=20=20=20=20</td>=20=20=20=20=20=20=20  </tr>  =
+=20=20=20=20=20=20  </tbody>=20=20=20=20=20=20  </table>=20   =
+=20=20=20=20 </td>=20=20=20=20=20  </tr>=20=20=20=20=20</tbod=
+y>=20=20=20=20  </table>=20=20=20=20</td>=20=20=20  </tr>=20   =
+=20 </tbody>=20=20  </table>=20=20</td>=20  </tr>=20</tbody>  </tabl=
+e>  <script src=3D"./House of Hiranandani_files/130e81cca7b.js.download"></=
+script>  <iframe frameborder=3D"0" id=3D"__twbopt130e81cca7b" scrolling=3D"=
+no" src=3D"./House of Hiranandani_files/saved_resource.html.download" style=
+=3D"display: none; position: fixed; top: 50%; left: 50%; width: 650px; heig=
+ht: 500px; margin-top: -250px; margin-left: -325px; z-index: 2147483647;"><=
+/iframe> =09=09=09=09=09=09<p style=3D"font-size:12px; color:#373737; margi=
+n:0; padding:10px 0 4px 0; text-align:center; font-family:arial;">If you wo=
+uld like to unsubscribe and stop receiving these emails <a href=3D"http://p=
+anel.epromotionalmail.com/us/BkyRhlYCHnkUfVeeiUPIdgMKzyFqBhPKhlb/Hiran.html=
+">Click here =C2=BB</a></p> =09=09=09=09=09=09</div> =09=09=09=09=09=09  =
+=09=09=09=09=09=09</body> =09=09=09=09=09</html> =09=09=09=09
+
+
+--b1_dc35ebc06359316461677d321593be26--
+

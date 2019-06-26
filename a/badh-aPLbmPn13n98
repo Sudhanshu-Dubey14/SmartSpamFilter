@@ -1,0 +1,879 @@
+Return-Path: <rishi@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <postmaster@ceritamotors.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aPLbmPn13n98>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aPLbmPn13n98 for <postmaster@ceritamotors.com>;
+	Wed, 25 Jan 2017 10:13:53 +0530 (IST)
+Received: from umail.jcbl.com (umail.jcbl.com [107.182.173.5])
+	by mx10.jcbl.com (Postfix) with ESMTP id BDA63F49836
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 10:13:51 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id 08E1F1DA190
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 08:49:44 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZFNCN1QB_kAh for <postmaster@ceritamotors.com>;
+	Wed, 25 Jan 2017 08:49:43 +0530 (IST)
+Received: from mx11.jcbl.com (unknown [220.227.45.53])
+	by umail.jcbl.com (Postfix) with ESMTPA id 031741DA18D
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 08:49:43 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id F1637F29A77; Wed, 25 Jan 2017 04:43:47 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id D89A0F29A75
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 10:13:47 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id D0885F49839
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 10:13:47 +0530 (IST)
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cQjBrbQwWJLe for <postmaster@ceritamotors.com>;
+	Wed, 25 Jan 2017 10:13:47 +0530 (IST)
+Received: from umail.jcbl.com (umail.jcbl.com [107.182.173.5])
+	by mx10.jcbl.com (Postfix) with ESMTP id 17FEAF49838
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 10:13:46 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id 956881DA191
+	for <postmaster@ceritamotors.com>; Wed, 25 Jan 2017 08:49:38 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oEXwdJxdB1OK for <postmaster@ceritamotors.com>;
+	Wed, 25 Jan 2017 08:49:38 +0530 (IST)
+Received: from mx11.jcbl.com (unknown [220.227.45.53])
+	by umail.jcbl.com (Postfix) with ESMTPA id 8976F1DA192
+	for <vijeta_kumari@ceritamotors.com>; Wed, 25 Jan 2017 08:49:37 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id 70E96F29A77; Wed, 25 Jan 2017 04:43:42 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id 9AD73F29A75;
+	Wed, 25 Jan 2017 10:13:41 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 8B022F49834;
+	Wed, 25 Jan 2017 10:13:41 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Q2UdpFDp2-YL; Wed, 25 Jan 2017 10:13:41 +0530 (IST)
+Received: from [192.168.1.21] (unknown [192.168.3.2])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id CCD51F49833;
+	Wed, 25 Jan 2017 10:13:39 +0530 (IST)
+Subject: Fwd: Auto7 Jan 25, 2017
+From: Rishi <rishi@jcbl.com>
+X-Forwarded-Message-Id:
+Message-ID: <58882D33.1000800@jcbl.com>
+Date: Wed, 25 Jan 2017 10:14:35 +0530
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101
+ Thunderbird/44.0
+MIME-Version: 1.0
+To: undisclosed-recipients: ;
+Content-Type: multipart/alternative;
+ boundary="------------080204060704070307060907"
+X-Copyrighted-Material: Please visit http://www.company.com/privacy.htm
+X-Copyrighted-Material: Please visit http://www.company.com/privacy.htm
+
+This is a multi-part message in MIME format.
+--------------080204060704070307060907
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+
+
+-------- Forwarded Message --------
+Subject: 	Auto7 Jan 25, 2017
+
+
+
+*/Happy /**/Republic /**/Day!/*
+
+*JCBL.jpg*
+
+BSE-27,375.58 (+0.95%) NSE-8,475.80 (+1.00%) Crude oil-INR 3591 / (53.18 
+$/B) USD-68.16 (INR)
+
+_Industry News <#s17>
+_*-Passenger vehicle sales set to top 10% growth <#a20882>*
+
+*-Budget should support auto manufacturers <#BUDG>*
+
+*-Solar-powered roads for India? <#SOL>***
+
+*-Peugeot returns to India through CK Birla <#RE>***
+
+*-ARAI, Cognizant to develop autonomous <#AC>***
+
+*
+*_New Launches / Announcement <#s18>
+_*-Honda City facelift may launch next month <#HC>***
+
+*
+*_International News <#s19>
+_*-Donald Trump meets with automakers as he demands more US-built cars 
+<#DT>***
+
+*
+*_Luxury / Sports Cars <#s25>
+_*-Audi etches symbols into car paint <#a20870>
+-BMW and MINI Driving Experience relaunches <#a20872>**
+
+*_Cars / SUVs <#s20>_*
+-Tata Motors want to be No 3 carmaker by FY19 <#a20876>*
+
+*-Tata Motors working on reducing waiting <#TM>*
+
+*-How are cars made? <#Cars>***
+
+*-First look | Maruti Ignis: A surprisingly cool <#FL>*
+
+**
+
+	
+
+_EVs / Hybrids <#s21>
+_*-- <#a20852>
+*_CV / LCV / Agricultural Vehicles <#s22>
+_*-Tata Motors kickstarts T1 Racer Programme 2.0 <#a20875>
+-Overwhelming response for Tata Yodha <#a20879>
+-Ashok Leyland finance arm raises Rs250 crore <#ALL>***
+
+*
+*_Two wheelers / Three wheelers <#s23>_*
+-TVS Motor Q3 net rises 10% amid <#a20881>
+-Yamaha launches FZ 25, price starts at Rs 1.19 <#YM>***
+
+*
+*_AutoTech. / Suppliers <#s16>_*
+-JTEKT Corp to buy 25% stake in Sona Koyo <#JT>***
+
+*-German auto supplier SHW plunges on loss <#GER>*
+
+*-Why driverless cars, alone, won’t take you <#OPO>***
+
+*
+*_Tyres / Aftermarket <#s15>_*
+-AIRIA calls for increasing raising import duty <#a20880>
+-Uber and Ola fare hike case: Drivers must <#UBE>***
+
+*
+*_Auto Insurance / Finance <#s13>_*
+--
+*_Oil / Alternative Fuels / Lubes <#s14>
+_*--
+*_Market / Commodities / Metals <#s12>
+_*-Sensex scales 258 pts to 2-month high <#a20874>
+-Last Closing <#s24>
+
+*
+
+*_News In Detail_*
+
+
+*Industry News**
+
+**Passenger vehicle sales set to top 10% growth this fiscal despite 
+demonetisation
+*The Hindu Business Line 
+<http://thehindubusinessline.com/companies/passenger-vehicle-sales-set-to-top-10-growth-this-fiscal-despite-demonetisation/article9499972.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication>
+
+Tata Motors to consolidate its market reach, share
+
+The country's passenger vehicle sales are set to witness a 10 per cent 
+growth this year in spite of the temporary setback due to 
+demonetisation, according to a senior official of Tata Motors Limited.
+
+Image result for vehicle sales growthVivek Srivatsa, Senior General 
+Manager-Marketing, Passenger Vehicles Business Unit, Tata Motors 
+Limited, said, “In the first nine months ended December 31, 2016, the 
+overall sales of passenger vehicles was up 8.6 per cent and we expect 
+this growth momentum to continue and the sales to end at about 10 per 
+cent by March 31, 2017.”
+
+“After about two years of subdued growth, the passenger vehicle sales 
+witnessed strong growth. While the demonetisation could have some 
+temporary impact, we expect the market to close at about 3 million units 
+this fiscal. As against this growth, Tata Motors has seen a growth of 
+about 17.3 per cent in first nine months ended December 2016 and we 
+expect to do well this quarter too riding on the success of the compact 
+car Tiago and the launch of new utility vehicle Hexa,” he said.
+
+“As a leading automotive company, our focus has been to consolidate the 
+market and gain market share. Tiago to a large extent, followed by SUV 
+Safari, Bolt and Zest have done well. These have added to volumes,” he said.
+
+The response to Hexa has been good thus far and there is a wait list of 
+about 8-9 weeks. While Tata Motors will now focus on domestic sales of 
+Hexa initially, our long term plans are to export to other markets, he said.
+
+Compact SUV
+
+Tata Motors expects to roll out its compact sports utility vehicle later 
+this year to enter a segment where it has no presence.
+
+“The country's utility market has been growing at a strong pace of about 
+32.6 per cent and the launch of Hexa and later compact SUV will help us 
+consolidate the market,” he said.
+
+The company expects Hexa to well in the South known for a strong diesel 
+market.
+
+*Top <#top1>*
+
+*Budget should support auto manufacturers with tax rebates***
+
+Business Standard 
+<http://www.business-standard.com/article/b2b-connect/budget-should-support-auto-manufacturers-with-tax-rebates-117012400824_1.html>
+
+It should provide support to car infotainment sector for new investing 
+in technology & manpower
+
+Demonetisation brought in a temporary interruption in the auto industry. 
+The automobile and auto peripheral sales took a hit during this time 
+with a decrease in disposable income by the consumers. The sector is 
+awaiting the budget policies to combat this loss of sales during the 
+last quarter by uplifting consumer sentiment with positive announcements.
+
+Image result for budget india automotiveAccording to sector reports, the 
+December 2016 sales saw a drop by 18.66 percent. However with the 
+economy slowly moving towards digital transactions, there has been a 
+steady upturn in the sales in the auto sector.
+
+The budget should focus on announcing stringent policies and practices 
+to avoid falsification of invoices and records to complement the 
+demonetisation move. This will make the entire sector more accountable 
+and will bring a sense of positivity in the market.
+
+The genuine market players have been plagued with multiple excise 
+duties, cesses and taxes. The sector is looking at a favourable budget 
+which tackles this issue providing relief to not only the buyers but 
+also the genuine providers. The automobile industry should benefit from 
+a complementing duty regime under GST so as to ensure easy 
+interpretation of the laws by the officers from the customs and taxation 
+departments. This will lead to an increased focus on modernisation by 
+the market players.
+
+With the world moving towards newer technologies, India needs to start 
+innovating with higher efficiency and increased productivity. These 
+things are only possible if the government policies are framed keeping 
+in mind the players that exist in the market.
+
+Price sensitivity of the Indian consumer, cost optimisation needs of 
+market players and increasing focus on environmental concerns will drive 
+critical changes in the market. With the increasing demand for 
+customisation comes the challenge of managing diverse product lines, 
+with multiple product feature variants. This results in huge investments 
+in technology, manpower and infrastructure. The government has an open 
+opportunity to offer incentives and benefits to such manufacturers and 
+innovators.
+
+Pankaj Jagwani, director, Blaupunkt India Pankaj Jagwani, director, 
+Blaupunkt India The car infotainment industry in particular invests a 
+lot in technology, manpower and infrastructure in advance to manufacture 
+consumer friendly products. The entire process takes anywhere between 
+2-3 years, and the hardware rollout goes on for much longer. The new 
+budget policies should be able to support the effort put in by such 
+manufacturers in terms of tax rebates or subsidisation.
+
+Being ranked the sixth largest country in the world and accounting for 
+7.1 percent of national GDP, the Indian auto industry still has a lot of 
+scope of improvement and growth. While the budget 2017 should focus on 
+improvement in customer mindset, there should also be market player 
+friendly policies which will make the entire process of innovation 
+within reach especially for the genuine service providers.
+
+A proper approach towards demonetisation leading to an increase in 
+disposable income, easy interpretation of laws, tax rebates and 
+subsidies for the sector for innovation and production are the core 
+things one should expect from the Union Budget 2017.
+
+*Top <#top1>*
+
+*Solar-powered roads for India?***
+
+MINT 
+<http://www.livemint.com/Leisure/7UbbAbRnDi0NTsghFZmVIN/Solarpowered-roads-for-India.html>
+
+India has the second-largest road network in the world after the US, is 
+blessed with about 300 days of sunny weather
+
+Call it utopian but the idea of having solar-powered roads in India is a 
+truly appealing one. The reason is simple. The country, which has the 
+second-largest road network in the world after the US, is blessed with 
+about 300 days of sunny weather and a government that is convinced about 
+the potential of solar power and electric cars.
+
+A solar-powered highway in Normandy, France. Photo: ReutersIn 2014, 
+Prime Minister Narendra Modi announced a goal to increase solar power 
+capacity to 100 gigawatts (GW) by 2022. Moreover, it is encouraging the 
+sale of electric cars in the country.
+
+On the flip side, India does not have enough electricity to even power 
+all its cities, towns and villages. So even powering electric cars at 
+charging stations is bound to pose a big challenge. In this context, a 
+solar-powered road that charges electric vehicles on the go does sound 
+like a good idea.
+
+The proposition is not outlandish. In fact, the world’s first solar 
+highway was inaugurated last December in France, in the not-very-sunny 
+village of Tourouvre-au-Perche in Normandy. The road was built by Colas, 
+an Anglo-French construction company. According to a press statement, 
+Colas teamed up with the French National Solar Energy Institute to 
+develop the solar highway called Wattway, which is a kilometre long. The 
+project is expected to be used by about 2,000 motorists a day.
+
+Wattway photovoltaic panels are directly applied to existing roads, 
+highways, bike paths, parking areas, etc., without any civil engineering 
+work and can safely bear vehicle traffic while producing electricity, 
+claims Colas. Each panel contains 15cm-wide cells making up a very thin 
+film of polycrystalline silicon that transforms solar energy into 
+electricity. These fragile photovoltaic (PV) cells are coated in a 
+multilayer substrate composed of resins and polymers, translucent enough 
+to allow sunlight to pass through, and resistant enough to withstand 
+truck traffic.
+
+Colas claims that an average single home (not including heating) can do 
+with a mere 20 m2 of Wattway, while 100 m2 of Wattway panels can provide 
+enough power for an electric car to travel 100,000km.
+
+Ségolène Royal, France’s minister for ecology and energy, announced last 
+January that the government intends to pave 1,000km of road with 
+photovoltaic panels in the next five years, supplying power to millions 
+of people.
+
+However, it was the Netherlands that built the first solar road—a bike 
+path—in 2014. Other companies in the fray for solar roadways include 
+German start-up Solmove, which aims to bring solar panels to German 
+roads, and Idaho-based Solar Roadways Inc., which has received three 
+rounds of US government funding (more than $2 million, or Rs13.6 crore) 
+in venture capital) to test its technology, according to a 22 December 
+report in National Geographic.
+
+Exciting as solar roadways may sound, there are many challenges on that 
+path. For one, a little more than 60% of Indian roads are paved. Second, 
+the cost of building a solar roadway is exorbitant—just a kilometre of 
+the Normandy road, for instance, cost around €5 million (around Rs36.5 
+crore). Third, while the sun is undoubtedly the greatest sustainable 
+energy source on earth, the problem is the low efficiency—80% of 
+installed PV panels worldwide have a performance of 15% or lower. 
+Fourth, solar panels can be stolen in India. Last but not least, Indian 
+municipalities suffer from a lack of coordination when it comes to 
+incessantly digging up roads.
+
+To be fair, India has explored the utility of solar roofs. After setting 
+up canal-top solar power projects, scientists at the Gujarat Energy 
+Research and Management Institute proposed, in April 2013, a pilot solar 
+power project for a Gujarat state highway. But nothing much was heard 
+about the project after that.
+
+That said, as prices continue to fall, solar energy is increasingly 
+becoming an economical energy choice for homeowners and businesses. A 28 
+January 2016 note by Peter Harrop, chairman of research firm IDTechEx 
+Ltd., points out that while “installing photovoltaics in roads seems a 
+daft idea at first...a closer look reveals that most of the problems are 
+easily overcome....”
+
+Harrop concludes: “At IDTechEx, we do not see solar roads replacing 
+power stations: Do that with a field full of solar panels, not 
+transmission and maintenance over long distances. However, they could be 
+excellent for dynamic (in-motion) charging of electric vehicles possibly 
+coupled with roadside wind turbines or tethered multicopters providing 
+Airborne Wind Energy, AWE in the new jargon.”
+
+*Top <#top1>*
+
+*
+
+**Peugeot returns to India through CK Birla venture - Les Echos***
+
+REUTERS <http://in.reuters.com/article/peugeot-india-idINKBN15724E>
+
+Deal includes a Chennai assembly plant with current annual production 
+capacity of 12,000 vehicles
+
+PARIS - French carmaker PSA Group will announce a return to India this 
+week through a manufacturing venture with New Delhi-based CK Birla 
+Group, Les Echos reported on Monday.
+
+The maker of Peugeot and Citroen cars, absent from the fast-growing 
+Indian market since the late 1990s, has signed a joint venture deal with 
+the family-owned conglomerate to include a Chennai assembly plant with 
+current annual production capacity of 12,000 vehicles, the French daily 
+newspaper said on its website.
+
+A PSA spokesman declined to comment on the report.
+
+Under Chief Executive Carlos Tavares, PSA is pursuing an ambitious 
+recovery plan after a 2014 brush with bankruptcy and has pledged to find 
+an Indian partner by 2018 to resume production in a market that 
+registers about 3 million new vehicles a year.
+
+*Top <#top1>*
+
+*ARAI, Cognizant to jointly develop autonomous vehicles***
+
+Financial Express 
+<http://www.financialexpress.com/industry/arai-cognizant-to-jointly-develop-autonomous-vehicles/521148/>
+
+Automotive Research Association of India, cognizantAutomotive Research 
+Association of India, cognizant.
+
+The Automotive Research Association of India (ARAI) and Cognizant 
+Technology Solutions have started work on autonomous vehicle technologies.
+
+The first of their prototypes was showcased during the Symposium for 
+International Automotive Technology at ARAI Pune.
+
+The prototype demonstrated is capable of making decisions based on its 
+surroundings such as lane-keeping, signal and signage reading, and 
+obstacle detection, and will evolve as both organisations work towards 
+the next milestones in the engagement.
+
+ARAI and Cognizant demonstrated the initial R&D work to Anant Gete, 
+minister of heavy industries and public enterprises and Vishvajit Sahay, 
+joint secretary, department of heavy industry, ministry of heavy 
+industries and public enterprises.
+
+The technology is powered by smart sensing using stereo cameras, radar, 
+ultrasonic sensors; intelligent adaptive control for speed, distance and 
+direction control; and efficient actuation for accelerator, brake and 
+steering.
+
+The building blocks of the programme include vehicle navigation, driver 
+assist, decision making and vehicle control.
+
+They are using the Advanced Driver Assistance Systems model for the 
+programme.
+
+*Top <#top1>*
+
+
+*New Launches / Announcement**
+
+**Honda City facelift may launch next month in India***
+
+Kashmir Monitor.in 
+<http://www.kashmirmonitor.in/Details/116581/honda-city-facelift-likely-to-launch-in-india-next-month>
+
+Mumbai :Honda's most popular nameplate in India, the Honda City, is set 
+for a revival. While it may just be a cosmetic update, it's nonetheless 
+important for Honda since the City anchors the company's India sales and 
+is one of the top selling cars in the C-segment.
+
+To re-register its grip over the segment by taking the first mover's 
+advantage, Honda would want to launch the City facelift in India ahead 
+of Ciaz facelift which could be here in March-April 2017. The Ciaz 
+outsold the City in 2016 by a margin of 5000-odd units.
+
+http://secure.kashmirmonitor.in/Upload_Images/Upload_Images_Articles/1bb6bb3c-19b0-469b-993d-ab8898d4e51d.JPGThe 
+City facelift recently made way into the Thai market and rumours were 
+rife that it would come to India as early as January 2017. Our sources, 
+however, point to a Feb 2017 launch. Dealerships in Delhi are accepting 
+bookings for the updated model as some buyers are ready to wait out for 
+the new City.
+
+Official bookings for the updated model are expected to commence in the 
+last week of January 2017. Honda dealerships are therefore in the 
+process of selling off their existing City stock by offering juicy deals 
+on top of cartel discount.
+
+The City facelift for the Thai market gets a mildly reworked fascia with 
+a new bumper and a new sleeker front grille. The most talked-about 
+update is the inclusion of LED headlamps in the package that may make 
+way into the Indian market as well. Honda City's chief rival in India 
+and the current segment leader, Maruti Suzuki Ciaz, already gets 
+projector headlamps as standard. With Maruti Suzuki's Ignis sporting LED 
+projector headlamps, we expect Maruti Suzuki to offer the same in the 
+upcoming Ciaz facelift as well. The Ciaz may enter the company's premium 
+retail chain, Nexa, as their fifth product, fourth being the Baleno RS 
+which is due for a Feb 2017 launch.
+
+The C-segment didn't see much happening in the year 2016 with only the 
+Skoda Rapid undergoing a major cosmetic overhaul. 2017 will, however, 
+see the C-segment battle heating up with the all-new Hyundai Verna set 
+to arrive in the market. The Hyundai Verna was once a tough nut to crack 
+in the C-segment in India. However, new product launches in the Honda 
+City and the Maruti Suzuki Ciaz took Hyundai completely off-guard and 
+outnumbered the Verna on sales charts.
+
+The new Verna is expected to make a strong comeback in India riding high 
+on features. Importantly, Hyundai is expected to power the new Verna 
+with a mild-hybrid diesel engine as seen on the Maruti Suzuki Ciaz SHVS 
+(more on the new Verna and other upcoming Hyundais here.)
+
+*Top <#top1>*
+
+
+*International News**
+
+**Donald Trump meets with automakers as he demands more US-built cars***
+
+MINT 
+<http://www.livemint.com/Industry/Jdo3TTdKDK5qrncYjT1gHO/Ashok-Leyland-finance-arm-raises-Rs250-crore-through-rights.html>
+
+The meeting with Donald Trump presents automakers with a key opportunity 
+to weigh in on issues the administration plans to tackle, including 
+trade, regulatory and tax reforms
+
+Donald Trump has openly agitated for US automakers to keep jobs in the 
+country and cancel plans to build plants abroad. Photo: AP
+
+Washington: President Donald Trump met Tuesday with the chief executives 
+of the big three US automakers as he looks to persuade car manufacturers 
+to keep production within the country.
+
+“I want new plants to be built here for cars sold here!” Trump said in a 
+posting on Twitter before the meeting in Washington on Tuesday.
+
+The heads of Ford Motor Co., Fiat Chrysler Automobiles NV and General 
+Motors Co. attended the meeting at the White House. The meeting presents 
+Detroit’s automakers with a key opportunity to weigh in on major issues 
+the administration plans to tackle in its earliest days, including 
+trade, regulatory and tax reforms.
+
+“He looks forward to hearing their ideas, on how we can work together to 
+bring more jobs back to this industry in particular,” White House press 
+secretary Sean Spicer said.
+
+Ford CEO Mark Fields planned to discuss corporate tax reform, the need 
+for “data-driven regulations” and trade policy initiatives that address 
+foreign currency manipulation, Ford spokeswoman Christin Baker said. GM 
+CEO Mary Barra and Chrysler CEO Sergio Marchionne also planned to 
+attend, according to spokeswomen for the two companies prior to the 
+gathering.
+
+Trump met Monday with prominent American manufacturers including Elon 
+Musk, the head of Tesla Motors Inc., and said he would dramatically cut 
+regulations and corporate taxes. But Trump said manufacturers would face 
+tough penalties if they move production outside the country. Fields also 
+attended that meeting.
+
+Cutting regulations
+
+“We think we can cut regulations by 75%. Maybe more,” Trump said. “When 
+you want to expand your plant, or when Mark wants to come in and build a 
+big massive plant, or when Dell wants to come in and do something 
+monstrous and special—you’re going to have your approvals really fast.”
+
+After the meeting, Fields said he was confident Trump was “very serious 
+on making sure the US economy is going to be strong and have policies—on 
+tax, regulatory or trade—to drive that.”
+
+Trump has openly agitated for US automakers to keep jobs in the US and 
+cancel plans to build plants abroad.
+
+“Car companies and others, if they want to do business in our country, 
+have to start making things here again. WIN!” Trump tweeted on Sunday.
+
+Domestic investments
+
+All three automakers have given Trump fodder for promoting his efforts 
+to boost US hiring. Ford cancelled a $1.6 billion car assembly plant in 
+Mexico and has said it will spend $700 million to expand a Michigan 
+factory instead. GM and Fiat Chrysler have each pledged $1 billion in 
+investment toward domestic assembly, though both companies have said 
+their plans were made prior to Trump winning the election.
+
+All three also continue to produce vehicles in Mexico. Ford will 
+assemble Focus compacts at an existing factory in Hermosillo already 
+building Fusion and Lincoln MKZ sedans.
+
+GM hasn’t announced any step back from plans announced in late 2014 that 
+it would spend $5 billion on new plants in the country by 2018, creating 
+5,600 jobs. Fiat Chrysler has seven facilities south of the border 
+building parts as well as Ram trucks and vans, Fiat 500 small cars and 
+Dodge Journey sport utility vehicles.
+
+In November, the Alliance of Automobile Manufacturers sent an eight-page 
+letter to the Trump transition team with a series of recommendations, 
+including aligning programs run by the EPA and the National Highway 
+Traffic Safety Administration. Inconsistent rules threaten to saddle the 
+industry with “potentially billions of dollars in fines,” said the trade 
+group, which represents most of the world’s biggest automakers including 
+GM, Ford, Toyota and Volkswagen AG.
+
+The alliance asked for a presidential panel to review all auto 
+regulations, including fuel-economy rules, as consumers continue to 
+reject efficient cars and electrified vehicles in favour of pickups and 
+SUVs.
+
+“The combination of low gas prices and the existing fuel efficiency 
+gains from the early years of the program is undercutting consumer 
+willingness to buy the vehicles with more expensive alternative 
+powertrains,” the group said. Bloomberg
+
+*Top <#top1>*
+
+
+*Luxury / Sports Cars **
+
+**Audi etches symbols into car paint
+*Automotive World 
+<http://automotiveworld.com/news-releases/audi-etches-symbols-car-paint/>
+
+Audi has developed a process for the partial matting of painted 
+surfaces. A special powder roughens the clear lacquer on the surface to 
+a depth of a few thousandths of a millimeter so that individual markings 
+become visible. With this process, the Audi exclusive program offers 
+personalized design of the side blades for all R8 customers.
+
+images (2)The process developed by Audi experts makes each Audi unique. 
+As the desired symbols are applied to components after being painted, 
+the process can easily be integrated into normal series production. “The 
+method of partial matting is an excellent example of the flexibility of 
+our production. Being able to implement individualization in normal 
+series production is one of the aims of our smart factory,” stated Prof. 
+Dr. Hubert Waltl, Member of the Board of Management for Production at 
+AUDI AG.
+
+Painting an automobile consists of – in addition to the cathodic dip 
+coating to protect against corrosion – at least three further coats: 
+filler, base coat and the transparent lacquer as the top protective 
+coat. With the newly developed process, a template of the desired 
+pattern is first placed on the component. A blasting system then sprays 
+a special powder onto the surface, which roughens the clear lacquer to a 
+depth of just a few thousandths of a millimeter – less than a tenth of 
+the thickness of a human hair. This creates the effect of a matt and 
+homogeneous pattern.
+
+“With this process, we modify the brilliance of the paintwork and the 
+intensity of its sheen. Light hitting the surface is then reflected 
+diffusely by the individualized surface areas. This makes it appear 
+matt,” explained project manager Dr. Erhard Brandl. Production section 
+head Mirko Endres added: “This form of individualization is weather 
+resistant, unlike conventional lettering and stickers, and it has a much 
+more high-quality appearance.”
+
+The Audi paint shop can apply almost any pattern that a customer might 
+desire and which does not affect any third-party rights. At present, 
+components with a size up to a meter by a meter can be processed in this 
+way. The super sports car Audi R8 is the first model for which this 
+technology is offered through the Audi exclusive individualization 
+program. If desired, R8 customers can have their individual lettering 
+and graphics applied to the side blades of the Coupe and the open Spyder 
+version. It is planned to extend the offer to other models in the future.
+
+Fuel consumption of the models named above:
+
+·Audi R8 Coupe:
+
+·Combined fuel consumption in l/100 km: 12.3-11.4
+
+·CO2 emissions combined in g/km: 287-272
+
+·Audi R8 Spyder:
+
+·Combined fuel consumption in l/100 km: 11.7
+
+·CO2 emissions combined in g/km: 277
+
+*Top <#top1>*
+
+*
+
+**BMW and MINI Driving Experience relaunches in the USA
+*Automotive World 
+<http://automotiveworld.com/news-releases/bmw-mini-driving-experience-relaunches-usa/>
+
+BMW of North America is allowing customers to experience the successful 
+driver training courses of the BMW and MINI Driving Experience in the 
+USA too. The BMW Performance Center West in southern California and the 
+BMW Performance Center East in Spartanburg now bear the seal of quality 
+“BMW Driving Experience, Official Partner of BMW M.” The basis for this 
+is the successful certification by a team of inspectors from the BMW and 
+MINI Driving Experience in Germany. The first international location to 
+be awarded this status was the BMW and MINI Driving Experience in the 
+Netherlands in 2015.
+
+“We are pleased to present the second partner in the 
+internationalisation of our successful driver safety programme at the 
+BMW and MINI Driving Experience,” said Frank van Meel, President of BMW 
+M GmbH. “As with the pilot project in the Netherlands, the BMW 
+Performance Centers in the USA fully comply with all the prerequisites 
+for the certification. Because of this, our customers in North America 
+can now look forward to training courses that meet the high standards of 
+the BMW and MINI Driving Experience in Germany.”
+
+“The BMW Performance Center in Spartanburg has been helping drivers 
+improve their skills, become safer drivers and experience the Ultimate 
+Driving Machine in a very dynamic way since 1999. Now with the 
+completion of our new BMW Performance Center West, we are better able to 
+serve our many west coast customers.” stated Ludwig Willisch President 
+and CEO of BMW of North America, LLC. “With this certification by BMW M, 
+we can ensure consistency of our BMW and MINI Driving Experiences at 
+both US locations and worldwide.” continued Willisch.
+
+The BMW Performance Center West is the latest location for the BMW and 
+MINI Driving Experience in North America. It is located a few kilometres 
+outside La Quinta, about two hours’ drive southeast of Los Angeles and 
+was the second of its type in the USA when it was opened in 2014. It 
+covers an area of about 130,000 m² and features a 2.25-kilometre circuit 
+with a 25,000-m² paddock, a skid pad, and a 790-m² performance facility. 
+The BMW Performance Center West is located on the premises of partner 
+and premium automobile club “The Thermal Club”. 8.9 kilometres of 
+racetrack and areas for maintenance and repairs are available here. The 
+main building has a 21-metre control tower, while an outbuilding houses 
+the fleet of track cars and safety cars.
+
+The range of courses on offer at the BMW Performance Center West is 
+extensive. Car Control Clinics and Teen Driving Schools are aimed at 
+young drivers and beginners. Offerings such as the M School and Advanced 
+M School cater for more advanced drivers and the field of racing. 
+Tailored programmes, such as those for business customers, are also 
+available.
+
+In 1999, BMW opened the BMW Performance Center East not far from the BMW 
+plant in Spartanburg, South Carolina. This was the company’s first 
+permanent performance driving centre in the USA. Since its opening, more 
+than 161,000 BMW customers have taken part in courses. More than 9,700 
+customers have attended courses at the BMW Performance Center West in 
+the first two years since it was opened.
+
+The international certification concept developed by the BMW and MINI 
+Driving Experience in Germany is aimed at ensuring all locations meet or 
+exceed uniform, premium global standards regarding the customer 
+experience. Customers benefit from the specific know-how and experience 
+of the BMW instructors in regions all over the world. After the 
+Netherlands and the USA, further certifications are being prepared in 
+South Korea, South Africa and Scandinavia.
+
+About the BMW and MINI Driving Experience The BMW and MINI Driving 
+Experience is part of BMW M GmbH. As one of the first provides of driver 
+training courses, it has been thrilling its customers with driving 
+experiences in BMW Group vehicles since 1977. The BMW and MINI Driving 
+Experience currently offers about 50 different training courses for BMW 
+and MINI models, as well as BMW motorcycles, in over 30 countries around 
+the world – all under the watchful eye of professional instructors. In 
+Germany alone, over 25,000 people took part in training courses in 2016. 
+The global figure for the same year was over 100,000.
+
+Under the slogan “Passion leaves traces”, the BMW and MINI Driving 
+Experience plays an important role in improving driving safety on public 
+roads, while at the same time conveying the joy of driving for which BMW 
+is renowned. The BMW and MINI Driving Experience fulfils its social 
+responsibility with its driver safety courses on asphalt and snow, which 
+give the customers all the basics they need to drive safely and 
+competently. The same can be said of the internal BMW driver training 
+for approximately 20 different internal driving licences. On the other 
+side of the coin are spectacular racetrack and drifting courses, which 
+allow customers to enjoy emotional and action-packed experiences in 
+powerful BMW M vehicles.
+
+As well as the regular range of training courses, the BMW and MINI 
+Driving Experience also places great importance on meeting the 
+customer’s specific desires. A team specialising in corporate events and 
+incentives works closely with the customer to put together packages 
+tailored to the customer’s requirements.
+
+*Top <#top1>*
+
+
+*Cars / SUVs**
+
+**Tata Motors want to be No 3 carmaker by FY19
+*The Economic Times
+
+Tata Motors, which today launched its lifestyle SUV Hexa here, said it 
+expects to improve market share this year to become the third largest 
+carmaker in the country after Maruti and Hyundai.
+
+The Hexa is coming at an introductory price of Rs 12.20 lakh, 
+ex-showroom Hyderabad for the manual transmission and Rs 15.11 lakh for 
+the automatic variant.
+
+"With 5.1 per cent market share we are already the number 4 player. Our 
+mission is to become number 3 in market by March 2019 and we expect 
+these new launches will help us achieve that number. In fact, in Andhra 
+and Telangana we are already at No 3 but our ambition is to become No 3 
+nationally by the March 2019," Vivek Srivatsa, marketing head, passenger 
+vehicles business unit at Tata Motors said here.
+
+He said the Hexa is a lifestyle utility vehicle and we are confident 
+about its performance and effortless driving abilities.
+
+He said the company will come out with a new compact SUV in 2017 
+calendar and added "not only the Tiago, our other products like the 
+Zest, Bolt, Safari are delivering very good numbers now."
+
+*Top <#top1>*
+
+*Tata Motors working on reducing waiting period for Hexa***
+
+Financial Express 
+<http://www.financialexpress.com/industry/tata-motors-working-on-reducing-waiting-period-for-hexa/521140/>
+
+Tata Motors is working on reducing the waiting period for their new 
+lifestyle utility vehicle, Hexa. The new vehicle (Hexa) has a waiting 
+period of around two months.
+
+Tata Motors is working on reducing the waiting period for their new 
+lifestyle utility vehicle, Hexa. The new vehicle (Hexa) has a waiting 
+period of around two months.Pratap Bose, design head, Tata Motors, said 
+the Hexa has received significant bookings and the company was carrying 
+out production to match the demand and was doing everything possible to 
+start deliveries soon. He did not disclose the exact number of bookings 
+for the Hexa but said the response was good.
+
+The automatic variants of the Hexa has generated a lot of interest among 
+customers, Bose said. The culture of weekend getaways is taken off in a 
+big way and this combined with the need to travel within the city 
+traffic during weekdays made the Hexa an attractive option, he said.
+
+Bose was speaking at the launch of the Hexa in the Pune and rest of 
+Maharashtra markets.
+
+Tata Motors is wooing potential customers by taking the Hexa to their 
+doorstep and making customers experience the cars. “This customized, 
+personalized and dedicated service started with the Tiago and is being 
+continued with the Hexa” he said.
+
+This was part of the strategy to bring the service industry mindset to 
+their industry, Bose said. The company is also using the “influencers” 
+from across strata of society from actors, cricketers, TV celebrities to 
+fashion designers to share their experience about the vehicle. These 
+vehicles were given to them for a few days and then their feedback 
+sought, which is being used to sell the vehicle.
+
+*Top <#top1>*
+
+*How are cars made?***
+
+Business Line 
+<http://www.thehindubusinessline.com/multimedia/video/article9499125.ece>
+
+Here is a quick look at Maruti Suzuki’s line for assembling the Swift 
+and the Baleno at its Manesar Plant in Haryana.
+
+Henry Ford first introduced assembly line production in 1913. This has 
+made car manufacturing faster over the years.
+
+The step-by-step progress in the manufacture of cars has seen 
+innumerable innovations and process improvements which have enabled high 
+volume production at the lowest possible costs. Last year, nearly 70 
+million passenger vehicles rolled off the assembly lines worldwide.
+
+*Top <#top1>*
+
+*First look | Maruti Ignis: A surprisingly cool hatchback***
+
+MINT 
+<http://www.livemint.com/Leisure/dH8ND2LXrPM0T9H3pZZzwM/First-look--Maruti-Ignis-A-surprisingly-cool-hatchback.html>
+
+Maruti Ignis’ radical design is sure to appeal to young car buyers 
+wanting something unique
+
+

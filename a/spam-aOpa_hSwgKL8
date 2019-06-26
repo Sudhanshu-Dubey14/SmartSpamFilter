@@ -1,0 +1,162 @@
+Return-Path: <bounce@smtp5.executiveedu.net.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <vasudha_aggarwal@jcbl.com>
+X-Envelope-To-Blocked: <vasudha_aggarwal@jcbl.com>
+X-Quarantine-ID: <aOpa_hSwgKL8>
+X-Spam-Flag: YES
+X-Spam-Score: 8.153
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.153 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, DOS_RCVD_IP_TWICE_B=0.001, HTML_MESSAGE=0.001,
+	MPART_ALT_DIFF=0.724, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RDNS_NONE=1.274,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOpa_hSwgKL8 for <vasudha_aggarwal@jcbl.com>;
+	Wed, 24 Oct 2018 09:21:05 +0530 (IST)
+Received: from smtp5.executiveedu.net.in (unknown [182.78.2.171])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 3ECDBEE9323
+	for <vasudha_aggarwal@jcbl.com>; Wed, 24 Oct 2018 09:20:35 +0530 (IST)
+Received: from smtp5.executiveedu.net.in (unknown [182.78.2.171])
+	by smtp5.executiveedu.net.in (Postfix) with ESMTP id 56DD916087D
+	for <vasudha_aggarwal@jcbl.com>; Wed, 24 Oct 2018 09:21:56 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=executiveeducation.asia; s=smtp5_100; t=1540353116;
+	bh=y+OUEJPr+VBNB4iWcRIsEolT3h5Nr0zW5r6K+6Ffux8=;
+	h=To:Subject:Date:From:Reply-To:List-Unsubscribe;
+	b=cR7xP+hSA9Y9+h0L/tb535DnzWNUcJJg/UKR52pC281doPGD7IaZdD8CqhOZFpobK
+	 ZFwIho/jP/tNStvKFT+l39x4f8wSh958XDUAB0zMmNgYUr/Jv8wKwOEc50ebhjh3r8
+	 0MwWmBpLKMglC+0vyO01LUdSYGc6+1mJ6KSHtp+I=
+To: vasudha_aggarwal@jcbl.com
+Subject: RE : 21st Century Leadership In a VUCA World
+Message-ID: <44cd0ce30adb37cddabc5b1fc21d7f26@smtp5.executiveedu.net.in>
+Date: Wed, 24 Oct 2018 03:42:05 +0000
+From: "Indian School of Business" <cee_isb@executiveeducation.asia>
+Reply-To: cee_isb@executiveeducation.asia
+MIME-Version: 1.0
+X-Mailer-LID: 679
+List-Unsubscribe: <http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4171250&C=2b718e110a895d8f16b66f6f937ccac2&L=679&N=673>
+X-Mailer-RecptId: 4171250
+X-Mailer-SID: 673
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_89c00b4bbb1e0687076d04f970adb990"
+Content-Transfer-Encoding: 8bit
+
+--b1_89c00b4bbb1e0687076d04f970adb990
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://smtp5.executiveedu.net.in/executiveedu/display.php?M=4171250&C=2b718e110a895d8f16b66f6f937ccac2&S=673&L=679&N=684
+
+
+To stop receiving these
+emails:http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4171250&C=2b718e110a895d8f16b66f6f937ccac2&L=679&N=673
+
+--b1_89c00b4bbb1e0687076d04f970adb990
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+    <title></title>
+    <style>
+        td {
+            padding-top: 3px;
+            padding-bottom: 3px;
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size:14.50px;
+            font-family:'Book Antiqua';
+        }
+
+    </style>
+</head>
+<body>
+<div style="font-family: 'Book Antiqua'; text-align: justify; font-size:
+14.50px;"><b>Dear Sir/Madam,</b><br /><br /> Greetings from <b>Indian
+School of Business (ISB)!</b><br /><br /> In continuation to my below mail,
+I would like to know if you wish to nominate yourself for programme on
+<b>"21st Century Leadership (In a VUCA World)"</b> to be held at the <b>ISB
+Hyderabad campus.</b><br /><br /> <b>About the programme:-</b><br /> This
+programme can help you adopt proactive leadership skills, agile thinking
+frameworks, and foster a proclivity to truly inspire people in times of
+uncertainty. Essentially, the programme equips you to thrive as an
+effective leader in a complex business environment by developing a 21st
+century mindset and the ability to lead change. The programme achieves
+these objectives through a combination of theoretical inputs and
+workshop-oriented participation. <br /><br /> You can get in touch with me
+on the below mentioned number or reply on this mail with your contact
+details, I hope that you would participate in and benefit from this
+programme offered by <b>Indian School of Business.</b> <br /><br /> Warm
+Regards,<br /> <b>Priya Sharma<br /> Indian School of Business<br /> Tel:
++91 22 62843549<br /> Mobile: +91 8355935419<br /><br /> </b><hr
+/><b>From:</b> Indian School of Business [<a style="text-decoration: blink;
+color: blue;"
+href="mailto:cee_isb@executiveeducation.asia?subject=21st%20Century%20Leadership%20In%20a%20VUCA%20World&amp;body=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ACompanyName:%0D%0AContactName:%0D%0AMobile%20No:%0D%0ADesignation:%0D%0ACity:%0D%0ATel:"><u>mailto:cee_isb@executiveeducation.asia</u></a>]<br
+/> <b>Sent:</b> Thursday, October 01, 2018 9:54 AM<br /> <b>Subject:</b>
+21st Century Leadership In a VUCA World<br /><br /> Dear
+Sir/Ma&rsquo;am,<br /><br /> Greetings from <b>Indian School of Business
+(ISB)!</b><br /><br /> We are happy to inform that ISB is offering a
+programme on <b>'21st Century Leadership (In a VUCA World)'.</b><br /><br
+/> <b>About the programme:-</b><br /> This programme can help you adopt
+proactive leadership skills, agile thinking frameworks, and foster a
+proclivity to truly inspire people in times of uncertainty. Essentially,
+the programme equips you to thrive as an effective leader in a complex
+business environment by developing a 21st century mindset and the ability
+to lead change. The programme achieves these objectives through a
+combination of theoretical inputs and workshop-oriented participation. <br
+/><br /> <b>Programme concepts:-</b><br /><br />
+<table cellpadding="0" cellspacing="0" style="width: 700px;">
+<tbody>
+<tr style="background-color: #d8d8d8;">
+<td>Threat Assessment</td>
+<td>Mindfulness</td>
+<td>Managing Complexities</td>
+</tr>
+<tr>
+<td style="background-color: #b8cce4;">You will learn how to identify the
+complexities that might currently be threatening your organization and pose
+business challenges in the foreseeable future.</td>
+<td style="background-color: #d7e4bc;">Self-awareness is key to navigating
+your team or organization through ambiguity. Most mistakes in
+decision-making can be avoided by being aware of typical leadership
+pitfalls and gauging whether you yourself are falling into these traps. You
+will get involved in activities that better help you assess your own
+leadership behaviors and how these impact your organization.</td>
+<td style="background-color: #fcd5b4;">Being agile and swiftly responding
+to signals are integral to successful leadership. You will create a
+framework for effectively responding to internal and external ambiguities
+with increased certainty of positive outcomes.</td>
+</tr>
+</tbody>
+</table>
+<br /><br /> <b>Participant Profiles:- </b>Programme is relevant for the
+officials who hold significant leadership roles in their respective
+organizations. Programme is also relevant for the leaders of different
+function and also for those who have direct responsibility for profit/loss.
+<br /><br /> <b>Faculty:- Prof. Sudhanshu Palsule</b> is an award-winning
+educator, consultant, leadership coach and author. He is regarded as one of
+the leading thinkers in the fields of Transformative Leadership and Leading
+in Complexity. <br /><br /> <b>Programme dates:</b> Programme is scheduled
+from <b>19th &ndash; 21st November, 2018 at Hyderabad</b> campus. <br /><br
+/> Should you have any queries or require further information, please feel
+free to contact me on <b>022 &ndash; 6284 3549</b> or revert to <a
+style="text-decoration: blink; color: blue;"
+href="mailto:cee_isb@executiveeducation.asia?subject=21st%20Century%20Leadership%20In%20a%20VUCA%20World&amp;body=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ACompanyName:%0D%0AContactName:%0D%0AMobile%20No:%0D%0ADesignation:%0D%0ACity:%0D%0ATel:"><u><b>cee_isb@executiveeducation.asia</b></u></a>
+<br /><br /> Warm Regards,<br /> <b>Priya Sharma<br /> Executive Education
+Programmes<br /> Indian School of Business<br /> Tel: +91 22 62843549 |
+Mobile: +91 8355935419</b> <br /><br /><br /><a
+href="http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4171250&C=2b718e110a895d8f16b66f6f937ccac2&L=679&N=673">Unsubscribe
+me from this list</a></div>
+<img
+src="http://smtp5.executiveedu.net.in/executiveedu/open.php?M=4171250&L=679&N=673&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_89c00b4bbb1e0687076d04f970adb990--
+
+

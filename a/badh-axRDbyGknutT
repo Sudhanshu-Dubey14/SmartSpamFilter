@@ -1,0 +1,59 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <anurag_sharma@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <axRDbyGknutT>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id axRDbyGknutT for <anurag_sharma@globeauto.in>;
+	Tue, 18 Jun 2019 16:37:35 +0530 (IST)
+Received: from smtp2-outgoing.mail.rjil.net (smtp2-outgoing.mail.rjil.net [49.40.2.144])
+	by mx10.jcbl.com (Postfix) with SMTP id 6CFD3104AA3C
+	for <anurag_sharma@globeauto.in>; Tue, 18 Jun 2019 16:34:45 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp2-outgoing.mail.rjil.net (Postfix) with ESMTP id 29C4D281134
+	for <anurag_sharma@globeauto.in>; Tue, 18 Jun 2019 16:36:07 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id 281D667
+	for <anurag_sharma@globeauto.in>; Tue, 18 Jun 2019 16:36:07 +0530 (IST)
+From: Notification@Jio.com
+To: anurag_sharma@globeauto.in
+Message-ID: <1783037969.112514437.1560855967164.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Recharge successful for Jio Number 8395988806
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_112514436_205298792.1560855967162"
+Bounce_Header: 3461870944466875392
+format: flowed
+
+------=_Part_112514436_205298792.1560855967162
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  Dear Customer,
+  <br />
+  <br /> Thank you for choosing Jio.
+  <br />
+  <br /> Recharge of Rs. 399.00 is successful for your Jio Number 8395988806.
+  <br />
+  <br /> As part of the recharge, you are entitled to the following benefits: Benefits: Free Voice, Unlimited Data (1.5GB High Speed Data per day, thereafter unlimited at 64Kbps), 100SMS/day and Complimentary Subscription to Jio Apps. Validity: 84days Your Transaction ID is EB000000467X.
+  <br />
+  <br /> To view details of your current and upcoming plan, click http://tiny.jio.com/myplans2 
+  <br /> To register for JioAutoPay, click http://tiny.jio.com/JioAutoPay 
+  <br /> Dial 1991, to know your current balance, validity, plan details and for exciting recharge plans.
+  <br />
+  <br /> Thank you,
+  <br /> Team Jio 
+ </body>
+</html>
+------=_Part_112514436_205298792.1560855967162--

@@ -1,0 +1,85 @@
+Return-Path: <whistle@healthyslumber.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <manu_pasricha@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aItWcTV2QCLf>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aItWcTV2QCLf for <manu_pasricha@mslindia.net>;
+	Sun, 22 May 2016 02:40:58 +0530 (IST)
+Received: from mta7.healthyslumber.com (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with SMTP id 724BAEDA387
+	for <monika_pal@mslindia.net>; Sun, 22 May 2016 02:40:57 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=healthyslumber.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=xiqZn057Va/HPuI+89xpkireeqDRiJ+2UDWurXlX+Y1tnjVQuSv9KPeEqV2xDm+oEzwnUuSh9jfJbzmHnGgoJ0QHm04T6XKtWiV3+2R80Vd/1NuogtN4143i7ueJhWqq;
+Date: Sat, 21 May 2016 23:20:07 00100
+To: <monika_pal@mslindia.net>
+Message-ID: <uiri.njk@healthyslumber.com>
+From: "Pet Tracker" <whistle@healthyslumber.com>
+Subject: 1 in 3 Pets Get Lost In Their Lifetime. Don't Let Yours Be Next!
+Date: 21 May 2016 23:20:07 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://healthyslumber.com/37mz91544e1">
+<html>
+<head>
+<title>Whistle</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+a:link { color: #CCCCCC; padding:0; }
+a:hover { color: #6AC7FF; }
+</style>
+</head>
+<body bgcolor="#313335" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#313335" style="height:186px; width:600px;" align="center"><a href="http://healthyslumber.com/38mz91544p1"><img src="http://thegiddyupgroup.com/whistle/04-26-16/images/whistle02a.jpg" width="600" height="186" alt="1 In 3 Pets Will Get Lost In Their Lifetime! Stay Connected & Always Know Where Your Best Friend Is! | Whistle Helps Ensures Your Pet Will Always Make It Home Safely!" style="display: block;"></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#313335" style="height:363px; width:600px;" align="center">
+    <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+    	<tr>
+        	<td bgcolor="#313335" style="height:363px; width:41px;" align="center"><a href="http://healthyslumber.com/38mz91544p1"><img src="http://thegiddyupgroup.com/whistle/04-26-16/images/whistle02b.jpg" width="41" height="363" alt="Keep My Pet Safe" style="display: block;"></a></td>
+            <td bgcolor="#313335" style="height:363px; width:204px;" align="center"><a href="http://healthyslumber.com/38mz91544p1"><img src="http://thegiddyupgroup.com/whistle/04-26-16/images/whistle02c.gif" width="204" height="363" alt="Keep My Pet Safe" style="display: block;"></a></td>
+            <td bgcolor="#313335" style="height:363px; width:355px;" align="center"><a href="http://healthyslumber.com/38mz91544p1"><img src="http://thegiddyupgroup.com/whistle/04-26-16/images/whistle02d.jpg" width="355" height="363" alt="Keep My Pet Safe" style="display: block;"></a></td>
+        </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#313335" style="height:324px; width:600px;" align="center"><a href="http://healthyslumber.com/38mz91544p1"><img src="http://thegiddyupgroup.com/whistle/04-26-16/images/whistle02e.jpg" width="600" height="324" alt="“Whistle saved my dog’s life tonight! And our family from total heartache!” - Jessica M., Madison, WI | Featured On: USA Today, WIRED, BuzzFeed, The Wall Street Journal & More!" style="display: block;"></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" align="center" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; font-weight: normal; color: #FFFFFF; line-height: 33px; width:100%;"><p>You may contact us to opt out at:<br />Whistle - 1355 Market St. Suite 210 | San Francisco, CA 94103</p><p>To unsubscribe <a href="http://healthyslumber.com/39mz91544v1">click here</a></p></td>
+  </tr>
+  <tr>
+  	<td valign="top" bgcolor="#313335" align="center" style="height: 30px; font-family: Helvetica, Arial, sans-serif; font-size: 12px; font-weight: normal; color: #313335; letter-spacing: -1px; line-height: 9px;">
+      <p>1 In 3 Pets Will Get Lost In Their Lifetime! Stay Connected & Always Know Where Your Best Friend Is! | Whistle Helps Ensures Your Pet Will Always Make It Home Safely! [ Keep My Pet Safe ] “Whistle saved my dog’s life tonight! And our family from total heartache!” - Jessica M., Madison, WI | Featured On: USA Today, WIRED, BuzzFeed, The Wall Street Journal & More!</p></td>
+  </tr>
+</table>
+</body>
+</html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Unsubscribe with one click <a href="http://healthyslumber.com/?e=monika_pal@mslindia.net">here</a><br>
+
+MM Customer Support, 2220 Meridian Blvd, Suite #ER013, Minden, NV 89423
+
+</font>
+</div>
+
+

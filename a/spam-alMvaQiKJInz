@@ -1,0 +1,947 @@
+Return-Path: <priyanka.gaikwad@tbm.ooo>
+Delivered-To: spam-quarantine
+X-Envelope-To: <parveen_kumar@mslindia.net>
+X-Envelope-To-Blocked: <parveen_kumar@mslindia.net>
+X-Quarantine-ID: <alMvaQiKJInz>
+X-Spam-Flag: YES
+X-Spam-Score: 6.411
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.411 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, UNPARSEABLE_RELAY=0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id alMvaQiKJInz for <parveen_kumar@mslindia.net>;
+	Wed, 13 Feb 2019 11:16:05 +0530 (IST)
+Received: from mail-qt1-f194.google.com (mail-qt1-f194.google.com [209.85.160.194])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 8A082F45CC5
+	for <parveen_kumar@mslindia.net>; Wed, 13 Feb 2019 11:15:26 +0530 (IST)
+Received: by mail-qt1-f194.google.com with SMTP id v10so1293029qtp.8
+        for <parveen_kumar@mslindia.net>; Tue, 12 Feb 2019 21:49:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=tbm.ooo; s=google;
+        h=mime-version:from:reply-to:date:message-id:subject:to;
+        bh=bF8cYh2QM34oK0wyq51JMzaXiN0cMj36EGW7UdyGcRs=;
+        b=fLxZF1UInsKkJ50dwCemLiUhN/OUk6y1g0PK1Kh3ZhNcDscAFGSWa20obUySKZG7g4
+         FWHxY0T73HbBMzVFbpxivrGLlvVlteHs0s4G+FLCFOZZqyTSUaXESnZpN+iktfLr7p8C
+         4GqXWwYGo2rljnNHwxRTGTs6p9LgCFv5DKjUs=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:reply-to:date:message-id
+         :subject:to;
+        bh=bF8cYh2QM34oK0wyq51JMzaXiN0cMj36EGW7UdyGcRs=;
+        b=UZZi8pWGd/kG9uTt4cCq2xowhhp7jdAeVCWgRLZU6WSLrbAyrXVChTd4t7J2W8HocG
+         FcFbJ1CoFRWDag2TqdVygJNZhJQHxq3NrS4xRMK80kigkfteq2c0hnqrC0xmGGUbwzOM
+         cVl+Y+osljpgo8VugMVEaPWGLTYBxWxqTRW3Bqr9WP7XRqrdul5IsYvqn2a3P0HFU/mX
+         30Z1wijPnjtYfWxNLUlYtMopJgVqz2Q9cfhLieUGFYmH6O/ywbbr9XzhizMyQAj4k3d9
+         JmMkk7LMjHlPDDKDNkFLZBQQogCJzUg9ogTx930CvWFZZCze4D8zja13tyMoMl5XfIu+
+         /lQw==
+X-Gm-Message-State: AHQUAuZ0w6n5Uz95P1Sp29JTnDdoc3ZZKESY+BFIDAQHD1/n0MTDWi9F
+	UQC+Vnsk5mXBkdjOL8TEPR0x/xTIvqvhSxF/gaHurU1T
+X-Google-Smtp-Source: AHgI3Ibo/pTaS9r7pMBaFrunbUhxy/rl/W/063sAgSlla4M81jM2tWFpHHnVihw8kAJbJGPNEHEaXvrvwuL5xhbwdWU=
+X-Received: by 2002:ac8:23a6:: with SMTP id q35mr5789105qtq.322.1550036955474;
+ Tue, 12 Feb 2019 21:49:15 -0800 (PST)
+Received: from 223404411203 named unknown by gmailapi.google.com with
+ HTTPREST; Wed, 13 Feb 2019 00:49:15 -0500
+MIME-Version: 1.0
+From: priyanka.gaikwad@tbm.ooo
+Reply-To: reply@transformance.in
+Date: Wed, 13 Feb 2019 00:49:15 -0500
+Message-ID: <CANL0Ne+cJcmSMRUVFmTq7AHN-KqTQrjuxT4uv88h4CMAoxuJ4Q@mail.gmail.com>
+Subject: Are You Competitive? Really ? - Understand why you are not at the
+ Competitive Intelligence Summit 2019
+To: parveen_kumar@mslindia.net
+Content-Type: multipart/alternative; boundary="0000000000001eb0520581c01a9d"
+
+--0000000000001eb0520581c01a9d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Dear Parveen Kumar,*
+
+Unveil secrets to various aspects and tricks on *competitive**
+intelligence best
+practices*, emerging trends and the cutting edge tools that can help our
+organization to next level. Discover.
+
+1.       *Better Business Decisions*: A competitive intelligence
+organization aids your business in gaining information and monitoring
+competitors. This information can serve as a useful tool for planning your
+own business decisions going forward.
+
+2.       *Forecasting Your Competitors' Moves: *A competitive intelligence
+agency provides you with information that allows you to anticipate what
+your competitors are planning next.
+
+3.       *Make Better Business Decisions:* You are better able to stay
+competitive if you can anticipate what similar companies are planning. The
+competitive intelligence information may confirm that your current
+direction will keep you competitive.
+
+4.       *In pack or out of Pack:* In other cases, you may realize you need
+to take the company in a different direction based on what competitors are
+doing.
+
+5.       *Identify Gaps: *Competitive intelligence organization helps you
+identify gaps in the market based on what your competitors are doing. You
+are able to regularly see how the competitors are changing or growing and
+which areas of the market they are focusing on.
+
+6.       *Internal Information: *While competitive intelligence often
+focuses on gathering information about competitors, the organization also
+can capture information about your own business.. This is particularly
+useful if the company is large with various departments that need to be
+monitored.
+
+Nominate yourself and your team to attend *Competitive** Intelligence Summi=
+t
+2019*  that takes place on *Friday 22nd February 2019* at St. Regis,  Mumba=
+i
+
+*Learning outcomes:*
+
+The morning part of the conference has case study presentation on the
+following:
+
+1.               Competitive Intelligence 2.0 Integrating CI insights to
+foster business decision
+
+2.               Breakthrough CI with IP Intelligence
+
+3.               Mapping Key Intelligence Topics (KITs)
+to Competitive Market Strategy
+
+4.               Competitive Product Benchmarking
+
+5.               The Journey of digitization of CI
+
+6.               How to reorganize CI practice and adapt to the constant
+change?
+
+7.               Leveraging Public Information for Competitive Intelligence
+
+8.               Segmenting the Competitive Landscape to Improve CI
+Efficiency
+
+
+
+*Mini Masterclass*
+
+1.               Social media and CI- the benefits social media channels
+bring is understanding what your competitors are doing
+
+2.               How to get complex market intelligence analysis with
+limited number of processes?
+
+
+
+
+
+*Post Lunch Session Round Table sessions* is where you can have
+
+=C2=B7         One to one conversation with your peers to
+
+=C2=B7         Discuss and *find solutions to your current set of challenge=
+*
+
+=C2=B7         Give the time you need to refocus and re energize yourself w=
+ith a
+new set of ideas and plans
+
+
+
+*The Topics are:*
+
+=C2=B7         MI and partnerships as drivers for innovation
+
+=C2=B7         How to establish a centralized information sharing framework=
+ in a
+global company?
+
+=C2=B7         Social Listening for Competitive Advantage
+
+=C2=B7         How does the information overflow impact the way you organiz=
+e
+your data collection and analysis?
+
+=C2=B7         Innovation and change - How to steer your future development=
+s in
+the right way
+
+
+*Speakers at the conference*
+
+*1.          **Sambasivan G, *CFO,*Tata Sky Ltd*
+
+*2.          **Ankur Arora, *Director & Head Digital & Innovation,* Sodexo*
+
+*3.          **Bharat A Pandit, *Senior Vice President Strategy &
+Business* Intelligence,
+Tata Sky*
+
+*4.          **Rajat Ghosh, *Head Of Sales*, Bajaj Corp Ltd.*
+
+*5.          **Utkarsh Somaiyaa, Head- *Customer Analytics & Business
+Intelligence*, Aditya Birla Group*
+
+*6.          **Rajendra Sharma, *Head National members and Business
+Anakytics*, Bombay Stock Exchange Ltd*
+
+*7.          **Deepak Sapru, *Vice President- Housing,* Panasonic*
+
+*8.          **Sharad Mathur, *Head- Sales & Distribution,* SBI General
+Insurance*
+
+*9.          **Pramod Misra, *Product Manager- Mobile Analytics & Data
+Monetisation,* Vodafone Idea Limited*
+
+*10.      **ElsaMarie D'Silva, *Board Of Directors*, XPrize India*
+
+*11.      **Jitendra Mahapatra, *AVP and Head- Digital Payments and
+Analytics,* Axis Bank*
+
+*12.      **Vivek Zakarde, *Head Business Intelligence, Data-ware &
+Analytics, *Reliance General Insurance*
+
+
+
+*Connect To Have More
+Detail: http://competitiveintelligence.in/register.html
+<http://competitiveintelligence.in/register.html>*
+
+
+*Or Contact us on:*
+
+*Abidali Dossa: +91 9702849915*
+
+*abid@transformanceforums.com* <abid@transformanceforums.com>
+
+
+*Website:* *www.transformanceforums.com
+<http://www.transformanceforums.com/>*
+
+--0000000000001eb0520581c01a9d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+<p class=3D"MsoNormal" style=3D"margin:0px 0px 8pt;color:rgb(34,34,34);font=
+-family:Arial,Helvetica,sans-serif;font-size:small;font-style:normal;font-v=
+ariant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spa=
+cing:normal;text-align:start;text-indent:0px;text-transform:none;white-spac=
+e:normal;word-spacing:0px;text-decoration-style:initial;text-decoration-col=
+or:initial"><font color=3D"#000000"><span style=3D"font-family:Calibri,sans=
+-serif;font-size:14.6667px"><b>Dear Parveen Kumar,</b></span></font>=C2=A0<=
+font color=3D"#351c75"><br></font></p><p class=3D"MsoNormal" style=3D"margi=
+n:0px 0px 8pt;color:rgb(34,34,34);font-family:Arial,Helvetica,sans-serif;fo=
+nt-size:small;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-ind=
+ent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decora=
+tion-style:initial;text-decoration-color:initial"><font color=3D"#000000">U=
+nveil secrets to various aspects and tricks on=C2=A0<span class=3D"gmail-m_=
+-3641250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601967849=
+gmail-m_9106673929401063569m-954201001629966527gmail-m-2778770792737848779g=
+mail-il"><b><span lang=3D"EN-US">competitive</span></b></span><b><span lang=
+=3D"EN-US">=C2=A0<span class=3D"gmail-m_-3641250516601789030gmail-m_-614797=
+7096660490358gmail-m_-597347155601967849gmail-m_9106673929401063569m-954201=
+001629966527gmail-m-2778770792737848779gmail-il">intelligence</span>=C2=A0b=
+est practices</span></b><span lang=3D"EN-US">, emerging trends and the cutt=
+ing edge tools that can help our organization to next level</span>. Discove=
+r.<br></font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614797709=
+6660490358gmail-m_-597347155601967849gmail-m_9106673929401063569MsoListPara=
+graph" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligature=
+s:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;word-s=
+pacing:0px;text-decoration-style:initial;text-decoration-color:initial;marg=
+in:0cm 0cm 8pt 18pt;font-size:11pt;font-family:Calibri,sans-serif"><font co=
+lor=3D"#000000">1.<span style=3D"font-variant-numeric:normal;font-variant-e=
+ast-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;font-=
+family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0</span><b>Better Business Decisions</b>: A competitive intelligence orga=
+nization aids your business in gaining information and monitoring competito=
+rs. This information can serve as a useful tool for planning your own busin=
+ess decisions going forward.</font></p><p class=3D"gmail-m_-364125051660178=
+9030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_91066739=
+29401063569MsoListParagraph" style=3D"color:rgb(34,34,34);font-style:normal=
+;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;let=
+ter-spacing:normal;text-align:start;text-indent:0px;text-transform:none;whi=
+te-space:normal;word-spacing:0px;text-decoration-style:initial;text-decorat=
+ion-color:initial;margin:0cm 0cm 8pt 18pt;font-size:11pt;font-family:Calibr=
+i,sans-serif"><font color=3D"#000000">2.<span style=3D"font-variant-numeric=
+:normal;font-variant-east-asian:normal;font-stretch:normal;font-size:7pt;li=
+ne-height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><b>Forecasting Your Competitors&#39; Move=
+s:=C2=A0</b>A competitive intelligence agency provides you with information=
+ that allows you to anticipate what your competitors are planning next.</fo=
+nt></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490358=
+gmail-m_-597347155601967849gmail-m_9106673929401063569MsoListParagraph" sty=
+le=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;f=
+ont-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:st=
+art;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px=
+;text-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm=
+ 8pt 18pt;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#00=
+0000">3.<span style=3D"font-variant-numeric:normal;font-variant-east-asian:=
+normal;font-stretch:normal;font-size:7pt;line-height:normal;font-family:&qu=
+ot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>=
+<b>Make Better Business Decisions:</b>=C2=A0You are better able to stay com=
+petitive if you can anticipate what similar companies are planning. The com=
+petitive intelligence information may confirm that your current direction w=
+ill keep you competitive.</font></p><p class=3D"gmail-m_-364125051660178903=
+0gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_91066739294=
+01063569MsoListParagraph" style=3D"color:rgb(34,34,34);font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter=
+-spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;text-decoration-style:initial;text-decoration=
+-color:initial;margin:0cm 0cm 8pt 18pt;font-size:11pt;font-family:Calibri,s=
+ans-serif"><font color=3D"#000000">4.<span style=3D"font-variant-numeric:no=
+rmal;font-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-=
+height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0</span><b>In pack or out of Pack:</b>=C2=A0In other=
+ cases, you may realize you need to take the company in a different directi=
+on based on what competitors are doing.</font></p><p class=3D"gmail-m_-3641=
+250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail=
+-m_9106673929401063569MsoListParagraph" style=3D"color:rgb(34,34,34);font-s=
+tyle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-wei=
+ght:400;letter-spacing:normal;text-align:start;text-indent:0px;text-transfo=
+rm:none;white-space:normal;word-spacing:0px;text-decoration-style:initial;t=
+ext-decoration-color:initial;margin:0cm 0cm 8pt 18pt;font-size:11pt;font-fa=
+mily:Calibri,sans-serif"><font color=3D"#000000">5.<span style=3D"font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;font-=
+size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><b>Identify Gaps:=C2=A0</b>Compe=
+titive intelligence organization helps you identify gaps in the market base=
+d on what your competitors are doing. You are able to regularly see how the=
+ competitors are changing or growing and which areas of the market they are=
+ focusing on.</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-61=
+47977096660490358gmail-m_-597347155601967849gmail-m_9106673929401063569MsoL=
+istParagraph" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-l=
+igatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:nor=
+mal;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;word-spacing:0px;text-decoration-style:initial;text-decoration-color:initi=
+al;margin:0cm 0cm 8pt 18pt;font-size:11pt;font-family:Calibri,sans-serif"><=
+font color=3D"#000000">6.<span style=3D"font-variant-numeric:normal;font-va=
+riant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:norma=
+l;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0</span><b>Internal Information:=C2=A0</b>While competitive inte=
+lligence often focuses on gathering information about competitors, the orga=
+nization also can capture information about your own business.. This is par=
+ticularly useful if the company is large with various departments that need=
+ to be monitored.</font></p><p class=3D"MsoNormal" style=3D"margin:0px 0px =
+8pt;color:rgb(34,34,34);font-family:Arial,Helvetica,sans-serif;font-size:sm=
+all;font-style:normal;font-variant-ligatures:normal;font-variant-caps:norma=
+l;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;te=
+xt-transform:none;white-space:normal;word-spacing:0px;text-decoration-style=
+:initial;text-decoration-color:initial"><font color=3D"#000000">Nominate yo=
+urself and your team to attend=C2=A0<span class=3D"gmail-m_-364125051660178=
+9030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_91066739=
+29401063569m-954201001629966527gmail-m-2778770792737848779gmail-il"><b>Comp=
+etitive</b></span><b>=C2=A0<span class=3D"gmail-m_-3641250516601789030gmail=
+-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_91066739294010635=
+69m-954201001629966527gmail-m-2778770792737848779gmail-il">Intelligence</sp=
+an>=C2=A0Summit 2019</b>=C2=A0=C2=A0that takes place on=C2=A0<b>Friday 22<s=
+up>nd</sup>=C2=A0February 2019</b>=C2=A0at St. Regis, =C2=A0Mumbai</font></=
+p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;color:rgb(34,34,3=
+4);font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal=
+;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;text-decoration-style:=
+initial;text-decoration-color:initial;line-height:24pt;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repeat:=
+initial;background-origin:initial;background-clip:initial;font-size:11pt;fo=
+nt-family:Calibri,sans-serif"><b><font color=3D"#000000">Learning outcomes:=
+</font></b></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;colo=
+r:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-varian=
+t-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-i=
+ndent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-deco=
+ration-style:initial;text-decoration-color:initial;line-height:24pt;backgro=
+und-image:initial;background-position:initial;background-size:initial;backg=
+round-repeat:initial;background-origin:initial;background-clip:initial;font=
+-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000">The morn=
+ing part of the conference has case study presentation on the following:</f=
+ont></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614797709666049035=
+8gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParagra=
+phCxSpFirst" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-li=
+gatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:norm=
+al;text-align:start;text-indent:0px;text-transform:none;white-space:normal;=
+word-spacing:0px;text-decoration-style:initial;text-decoration-color:initia=
+l;margin:0cm 0cm 0.0001pt 61.5pt;line-height:normal;background-image:initia=
+l;background-position:initial;background-size:initial;background-repeat:ini=
+tial;background-origin:initial;background-clip:initial;font-size:11pt;font-=
+family:Calibri,sans-serif"><font color=3D"#000000">1.<span style=3D"font-va=
+riant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;fon=
+t-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0</span>Competitive=C2=A0Intelligence=C2=A02.0=C2=A0Integrating =
+CI insights to foster business decision=C2=A0</font></p><p class=3D"gmail-m=
+_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-59734715560196784=
+9gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=3D"colo=
+r:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-varian=
+t-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-i=
+ndent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-deco=
+ration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt =
+61.5pt;line-height:normal;background-image:initial;background-position:init=
+ial;background-size:initial;background-repeat:initial;background-origin:ini=
+tial;background-clip:initial;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000">2.<span style=3D"font-variant-numeric:normal;font-=
+variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:nor=
+mal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>Breakthr=
+ough CI with IP=C2=A0Intelligence=C2=A0</font></p><p class=3D"gmail-m_-3641=
+250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail=
+-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(=
+34,34,34);font-style:normal;font-variant-ligatures:normal;font-variant-caps=
+:normal;font-weight:400;letter-spacing:normal;text-align:start;text-indent:=
+0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration=
+-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 61.5pt=
+;line-height:normal;background-image:initial;background-position:initial;ba=
+ckground-size:initial;background-repeat:initial;background-origin:initial;b=
+ackground-clip:initial;font-size:11pt;font-family:Calibri,sans-serif"><font=
+ color=3D"#000000">3.<span style=3D"font-variant-numeric:normal;font-varian=
+t-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;fo=
+nt-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>Mapping Key=C2=
+=A0Intelligence=C2=A0Topics (KITs) to=C2=A0Competitive=C2=A0Market Strategy=
+=C2=A0</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614797709=
+6660490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoLi=
+stParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-=
+variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-sp=
+acing:normal;text-align:start;text-indent:0px;text-transform:none;white-spa=
+ce:normal;word-spacing:0px;text-decoration-style:initial;text-decoration-co=
+lor:initial;margin:0cm 0cm 0.0001pt 61.5pt;line-height:normal;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-size:=
+11pt;font-family:Calibri,sans-serif"><font color=3D"#000000">4.<span style=
+=3D"font-variant-numeric:normal;font-variant-east-asian:normal;font-stretch=
+:normal;font-size:7pt;line-height:normal;font-family:&quot;Times New Roman&=
+quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0</span>Competitive=C2=A0Product Benchmarking=C2=A0 =
+=C2=A0=C2=A0</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614=
+7977096660490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail=
+-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal=
+;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;let=
+ter-spacing:normal;text-align:start;text-indent:0px;text-transform:none;whi=
+te-space:normal;word-spacing:0px;text-decoration-style:initial;text-decorat=
+ion-color:initial;margin:0cm 0cm 0.0001pt 61.5pt;line-height:normal;backgro=
+und-image:initial;background-position:initial;background-size:initial;backg=
+round-repeat:initial;background-origin:initial;background-clip:initial;font=
+-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000">5.<span =
+style=3D"font-variant-numeric:normal;font-variant-east-asian:normal;font-st=
+retch:normal;font-size:7pt;line-height:normal;font-family:&quot;Times New R=
+oman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>The Journey of digitization of CI=C2=A0</=
+font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-61479770966604903=
+58gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParagr=
+aphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-=
+ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:no=
+rmal;text-align:start;text-indent:0px;text-transform:none;white-space:norma=
+l;word-spacing:0px;text-decoration-style:initial;text-decoration-color:init=
+ial;margin:0cm 0cm 0.0001pt 61.5pt;line-height:normal;background-image:init=
+ial;background-position:initial;background-size:initial;background-repeat:i=
+nitial;background-origin:initial;background-clip:initial;font-size:11pt;fon=
+t-family:Calibri,sans-serif"><font color=3D"#000000">6.<span style=3D"font-=
+variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;f=
+ont-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0</span>How to reorganize CI practice and adapt to the consta=
+nt change?=C2=A0</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_=
+-6147977096660490358gmail-m_-597347155601967849gmail-m_6485365890355384575g=
+mail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:no=
+rmal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400=
+;letter-spacing:normal;text-align:start;text-indent:0px;text-transform:none=
+;white-space:normal;word-spacing:0px;text-decoration-style:initial;text-dec=
+oration-color:initial;margin:0cm 0cm 0.0001pt 61.5pt;line-height:normal;bac=
+kground-image:initial;background-position:initial;background-size:initial;b=
+ackground-repeat:initial;background-origin:initial;background-clip:initial;=
+font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000">7.<s=
+pan style=3D"font-variant-numeric:normal;font-variant-east-asian:normal;fon=
+t-stretch:normal;font-size:7pt;line-height:normal;font-family:&quot;Times N=
+ew Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>Leveraging Public Information for=
+=C2=A0Competitive=C2=A0Intelligence=C2=A0</font></p><p class=3D"gmail-m_-36=
+41250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601967849gma=
+il-m_6485365890355384575gmail-MsoListParagraphCxSpLast" style=3D"color:rgb(=
+34,34,34);font-style:normal;font-variant-ligatures:normal;font-variant-caps=
+:normal;font-weight:400;letter-spacing:normal;text-align:start;text-indent:=
+0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration=
+-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 61.5pt=
+;line-height:normal;background-image:initial;background-position:initial;ba=
+ckground-size:initial;background-repeat:initial;background-origin:initial;b=
+ackground-clip:initial;font-size:11pt;font-family:Calibri,sans-serif"><font=
+ color=3D"#000000">8.<span style=3D"font-variant-numeric:normal;font-varian=
+t-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;fo=
+nt-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>Segmenting the=
+=C2=A0Competitive=C2=A0Landscape to Improve CI Efficiency=C2=A0=C2=A0=C2=A0=
+</font></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt 27pt;col=
+or:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-varia=
+nt-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-=
+indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-dec=
+oration-style:initial;text-decoration-color:initial;line-height:normal;back=
+ground-image:initial;background-position:initial;background-size:initial;ba=
+ckground-repeat:initial;background-origin:initial;background-clip:initial;f=
+ont-size:11pt;font-family:Calibri,sans-serif"><b><font color=3D"#000000">=
+=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</font></b></p><p class=3D"MsoNormal=
+" style=3D"margin:0cm 0cm 0.0001pt;color:rgb(34,34,34);font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter=
+-spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;text-decoration-style:initial;text-decoration=
+-color:initial;line-height:normal;background-image:initial;background-posit=
+ion:initial;background-size:initial;background-repeat:initial;background-or=
+igin:initial;background-clip:initial;font-size:11pt;font-family:Calibri,san=
+s-serif"><b><font color=3D"#000000">Mini Masterclass</font></b></p><p class=
+=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-597347=
+155601967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpFirst" sty=
+le=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;f=
+ont-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:st=
+art;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px=
+;text-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm=
+ 0.0001pt 61.5pt;line-height:normal;background-image:initial;background-pos=
+ition:initial;background-size:initial;background-repeat:initial;background-=
+origin:initial;background-clip:initial;font-size:11pt;font-family:Calibri,s=
+ans-serif"><font color=3D"#000000">1.<span style=3D"font-variant-numeric:no=
+rmal;font-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-=
+height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</s=
+pan>Social media and CI- the benefits social media channels bring is unders=
+tanding what your=C2=A0competitors=C2=A0are doing</font></p><p class=3D"gma=
+il-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-5973471556019=
+67849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpLast" style=3D"co=
+lor:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-vari=
+ant-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text=
+-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-de=
+coration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.0001p=
+t 61.5pt;line-height:normal;background-image:initial;background-position:in=
+itial;background-size:initial;background-repeat:initial;background-origin:i=
+nitial;background-clip:initial;font-size:11pt;font-family:Calibri,sans-seri=
+f"><font color=3D"#000000">2.<span style=3D"font-variant-numeric:normal;fon=
+t-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:n=
+ormal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span>How t=
+o get complex market=C2=A0intelligence=C2=A0analysis with limited number of=
+ processes?</font></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001=
+pt 27pt;color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:=
+start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0=
+px;text-decoration-style:initial;text-decoration-color:initial;line-height:=
+normal;background-image:initial;background-position:initial;background-size=
+:initial;background-repeat:initial;background-origin:initial;background-cli=
+p:initial;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#00=
+0000">=C2=A0</font></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.000=
+1pt 27pt;color:rgb(34,34,34);font-style:normal;font-variant-ligatures:norma=
+l;font-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align=
+:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:=
+0px;text-decoration-style:initial;text-decoration-color:initial;line-height=
+:normal;background-image:initial;background-position:initial;background-siz=
+e:initial;background-repeat:initial;background-origin:initial;background-cl=
+ip:initial;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#0=
+00000">=C2=A0</font></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.00=
+01pt;color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;fo=
+nt-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:sta=
+rt;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;=
+text-decoration-style:initial;text-decoration-color:initial;line-height:nor=
+mal;background-image:initial;background-position:initial;background-size:in=
+itial;background-repeat:initial;background-origin:initial;background-clip:i=
+nitial;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#00000=
+0"><b>Post Lunch Session Round Table sessions</b>=C2=A0is where you can hav=
+e</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-61479770966604=
+90358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListPar=
+agraphCxSpFirst" style=3D"color:rgb(34,34,34);font-style:normal;font-varian=
+t-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:=
+normal;text-align:start;text-indent:0px;text-transform:none;white-space:nor=
+mal;word-spacing:0px;text-decoration-style:initial;text-decoration-color:in=
+itial;margin:0cm 0cm 0.0001pt 36pt;line-height:normal;background-image:init=
+ial;background-position:initial;background-size:initial;background-repeat:i=
+nitial;background-origin:initial;background-clip:initial;font-size:11pt;fon=
+t-family:Calibri,sans-serif"><font color=3D"#000000"><span style=3D"font-fa=
+mily:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-variant-=
+east-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;font=
+-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0</span></span>One to one conversation with your peers to<=
+/font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490=
+358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParag=
+raphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-variant=
+-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:n=
+ormal;text-align:start;text-indent:0px;text-transform:none;white-space:norm=
+al;word-spacing:0px;text-decoration-style:initial;text-decoration-color:ini=
+tial;margin:0cm 0cm 0.0001pt 36pt;line-height:normal;background-image:initi=
+al;background-position:initial;background-size:initial;background-repeat:in=
+itial;background-origin:initial;background-clip:initial;font-size:11pt;font=
+-family:Calibri,sans-serif"><font color=3D"#000000"><span style=3D"font-fam=
+ily:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-variant-e=
+ast-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;font-=
+family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0</span></span>Discuss and=C2=A0<b>find solutions to your cur=
+rent set of challenge</b></font></p><p class=3D"gmail-m_-364125051660178903=
+0gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_64853658903=
+55384575gmail-MsoListParagraphCxSpLast" style=3D"color:rgb(34,34,34);font-s=
+tyle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-wei=
+ght:400;letter-spacing:normal;text-align:start;text-indent:0px;text-transfo=
+rm:none;white-space:normal;word-spacing:0px;text-decoration-style:initial;t=
+ext-decoration-color:initial;margin:0cm 0cm 0.0001pt 36pt;line-height:norma=
+l;background-image:initial;background-position:initial;background-size:init=
+ial;background-repeat:initial;background-origin:initial;background-clip:ini=
+tial;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000"=
+><span style=3D"font-family:Symbol">=C2=B7<span style=3D"font-variant-numer=
+ic:normal;font-variant-east-asian:normal;font-stretch:normal;font-size:7pt;=
+line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></span>Give the time you need=
+ to refocus and re energize yourself with a new set of ideas and plans</fon=
+t></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt 27pt;color:rg=
+b(34,34,34);font-style:normal;font-variant-ligatures:normal;font-variant-ca=
+ps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-inden=
+t:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decorati=
+on-style:initial;text-decoration-color:initial;line-height:normal;backgroun=
+d-image:initial;background-position:initial;background-size:initial;backgro=
+und-repeat:initial;background-origin:initial;background-clip:initial;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000">=C2=A0</fo=
+nt></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;color:rgb(34=
+,34,34);font-style:normal;font-variant-ligatures:normal;font-variant-caps:n=
+ormal;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0p=
+x;text-transform:none;white-space:normal;word-spacing:0px;text-decoration-s=
+tyle:initial;text-decoration-color:initial;line-height:normal;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-size:=
+11pt;font-family:Calibri,sans-serif"><b><font color=3D"#000000">The Topics =
+are:</font></b></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977=
+096660490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-Mso=
+ListParagraphCxSpFirst" style=3D"color:rgb(34,34,34);font-style:normal;font=
+-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-s=
+pacing:normal;text-align:start;text-indent:0px;text-transform:none;white-sp=
+ace:normal;word-spacing:0px;text-decoration-style:initial;text-decoration-c=
+olor:initial;margin:0cm 0cm 0.0001pt 36pt;line-height:normal;background-ima=
+ge:initial;background-position:initial;background-size:initial;background-r=
+epeat:initial;background-origin:initial;background-clip:initial;font-size:1=
+1pt;font-family:Calibri,sans-serif"><font color=3D"#000000"><span style=3D"=
+font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-v=
+ariant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:norm=
+al;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0</span></span>MI and partnerships as drivers for in=
+novation</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977=
+096660490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-Mso=
+ListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;fon=
+t-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-=
+spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-s=
+pace:normal;word-spacing:0px;text-decoration-style:initial;text-decoration-=
+color:initial;margin:0cm 0cm 0.0001pt 36pt;line-height:normal;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-size:=
+11pt;font-family:Calibri,sans-serif"><font color=3D"#000000"><span style=3D=
+"font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-=
+variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:nor=
+mal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0</span></span>How to establish a centralized inform=
+ation sharing framework in a global company?=C2=A0</font></p><p class=3D"gm=
+ail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601=
+967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=3D=
+"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-v=
+ariant-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;t=
+ext-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text=
+-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.00=
+01pt 36pt;line-height:normal;background-image:initial;background-position:i=
+nitial;background-size:initial;background-repeat:initial;background-origin:=
+initial;background-clip:initial;font-size:11pt;font-family:Calibri,sans-ser=
+if"><font color=3D"#000000"><span style=3D"font-family:Symbol">=C2=B7<span =
+style=3D"font-variant-numeric:normal;font-variant-east-asian:normal;font-st=
+retch:normal;font-size:7pt;line-height:normal;font-family:&quot;Times New R=
+oman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></=
+span>Social Listening for=C2=A0Competitive=C2=A0Advantage</font></p><p clas=
+s=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-59734=
+7155601967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" s=
+tyle=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:=
+start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0=
+px;text-decoration-style:initial;text-decoration-color:initial;margin:0cm 0=
+cm 0.0001pt 36pt;line-height:normal;background-image:initial;background-pos=
+ition:initial;background-size:initial;background-repeat:initial;background-=
+origin:initial;background-clip:initial;font-size:11pt;font-family:Calibri,s=
+ans-serif"><font color=3D"#000000"><span style=3D"font-family:Symbol">=C2=
+=B7<span style=3D"font-variant-numeric:normal;font-variant-east-asian:norma=
+l;font-stretch:normal;font-size:7pt;line-height:normal;font-family:&quot;Ti=
+mes New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+</span></span>How does the information overflow impact the way you organize=
+ your data collection and analysis?</font></p><p class=3D"gmail-m_-36412505=
+16601789030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_6=
+485365890355384575gmail-MsoListParagraphCxSpLast" style=3D"color:rgb(34,34,=
+34);font-style:normal;font-variant-ligatures:normal;font-variant-caps:norma=
+l;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;te=
+xt-transform:none;white-space:normal;word-spacing:0px;text-decoration-style=
+:initial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 36pt;line-he=
+ight:normal;background-image:initial;background-position:initial;background=
+-size:initial;background-repeat:initial;background-origin:initial;backgroun=
+d-clip:initial;font-size:11pt;font-family:Calibri,sans-serif"><font color=
+=3D"#000000"><span style=3D"font-family:Symbol">=C2=B7<span style=3D"font-v=
+ariant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;fo=
+nt-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></span>Innovation=
+ and change - How to steer your future developments in the right way=C2=A0<=
+/font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490=
+358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParag=
+raphCxSpLast" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-l=
+igatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:nor=
+mal;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;word-spacing:0px;text-decoration-style:initial;text-decoration-color:initi=
+al;margin:0cm 0cm 0.0001pt 36pt;line-height:normal;background-image:initial=
+;background-position:initial;background-size:initial;background-repeat:init=
+ial;background-origin:initial;background-clip:initial;font-size:11pt;font-f=
+amily:Calibri,sans-serif"><font color=3D"#000000"><br></font></p><p class=
+=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;color:rgb(34,34,34);font-st=
+yle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weig=
+ht:400;letter-spacing:normal;text-align:start;text-indent:0px;text-transfor=
+m:none;white-space:normal;word-spacing:0px;text-decoration-style:initial;te=
+xt-decoration-color:initial;line-height:normal;background-image:initial;bac=
+kground-position:initial;background-size:initial;background-repeat:initial;=
+background-origin:initial;background-clip:initial;font-size:11pt;font-famil=
+y:Calibri,sans-serif"><b><font color=3D"#000000">Speakers at the conference=
+</font></b></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-61479770966=
+60490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoList=
+ParagraphCxSpFirst" style=3D"color:rgb(34,34,34);font-style:normal;font-var=
+iant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spaci=
+ng:normal;text-align:start;text-indent:0px;text-transform:none;white-space:=
+normal;word-spacing:0px;text-decoration-style:initial;text-decoration-color=
+:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background-image=
+:initial;background-position:initial;background-size:initial;background-rep=
+eat:initial;background-origin:initial;background-clip:initial;vertical-alig=
+n:middle;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000=
+000"><b>1.<span style=3D"font-variant-numeric:normal;font-variant-east-asia=
+n:normal;font-weight:normal;font-stretch:normal;font-size:7pt;line-height:n=
+ormal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Sambasivan G,=C2=A0</b>CFO,<=
+b>Tata Sky Ltd</b></font></p><p class=3D"gmail-m_-3641250516601789030gmail-=
+m_-6147977096660490358gmail-m_-597347155601967849gmail-m_648536589035538457=
+5gmail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:=
+normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:4=
+00;letter-spacing:normal;text-align:start;text-indent:0px;text-transform:no=
+ne;white-space:normal;word-spacing:0px;text-decoration-style:initial;text-d=
+ecoration-color:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;b=
+ackground-image:initial;background-position:initial;background-size:initial=
+;background-repeat:initial;background-origin:initial;background-clip:initia=
+l;vertical-align:middle;font-size:11pt;font-family:Calibri,sans-serif"><fon=
+t color=3D"#000000"><b>2.<span style=3D"font-variant-numeric:normal;font-va=
+riant-east-asian:normal;font-weight:normal;font-stretch:normal;font-size:7p=
+t;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Ankur Arora,=
+=C2=A0</b>Director &amp; Head Digital &amp; Innovation,<b>=C2=A0Sodexo</b><=
+/font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490=
+358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParag=
+raphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-variant=
+-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:n=
+ormal;text-align:start;text-indent:0px;text-transform:none;white-space:norm=
+al;word-spacing:0px;text-decoration-style:initial;text-decoration-color:ini=
+tial;margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repeat:=
+initial;background-origin:initial;background-clip:initial;vertical-align:mi=
+ddle;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000"=
+><b>3.<span style=3D"font-variant-numeric:normal;font-variant-east-asian:no=
+rmal;font-weight:normal;font-stretch:normal;font-size:7pt;line-height:norma=
+l;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Bharat A Pandit,=C2=A0</b>Senio=
+r Vice President Strategy &amp; Business<b>=C2=A0Intelligence, Tata Sky</b>=
+</font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614797709666049=
+0358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListPara=
+graphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-varian=
+t-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:=
+normal;text-align:start;text-indent:0px;text-transform:none;white-space:nor=
+mal;word-spacing:0px;text-decoration-style:initial;text-decoration-color:in=
+itial;margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background-image:in=
+itial;background-position:initial;background-size:initial;background-repeat=
+:initial;background-origin:initial;background-clip:initial;vertical-align:m=
+iddle;font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000=
+"><b>4.<span style=3D"font-variant-numeric:normal;font-variant-east-asian:n=
+ormal;font-weight:normal;font-stretch:normal;font-size:7pt;line-height:norm=
+al;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Rajat Ghosh,=C2=A0</b>Head Of S=
+ales<b>, Bajaj Corp Ltd.</b></font></p><p class=3D"gmail-m_-364125051660178=
+9030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_64853658=
+90355384575gmail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);f=
+ont-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;fon=
+t-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;text-tr=
+ansform:none;white-space:normal;word-spacing:0px;text-decoration-style:init=
+ial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-heigh=
+t:normal;background-image:initial;background-position:initial;background-si=
+ze:initial;background-repeat:initial;background-origin:initial;background-c=
+lip:initial;vertical-align:middle;font-size:11pt;font-family:Calibri,sans-s=
+erif"><font color=3D"#000000"><b>5.<span style=3D"font-variant-numeric:norm=
+al;font-variant-east-asian:normal;font-weight:normal;font-stretch:normal;fo=
+nt-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Utka=
+rsh Somaiyaa, Head-=C2=A0</b>Customer Analytics &amp; Business Intelligence=
+<b>, Aditya Birla Group</b></font></p><p class=3D"gmail-m_-3641250516601789=
+030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_648536589=
+0355384575gmail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);fo=
+nt-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font=
+-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;text-tra=
+nsform:none;white-space:normal;word-spacing:0px;text-decoration-style:initi=
+al;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-height=
+:normal;background-image:initial;background-position:initial;background-siz=
+e:initial;background-repeat:initial;background-origin:initial;background-cl=
+ip:initial;vertical-align:middle;font-size:11pt;font-family:Calibri,sans-se=
+rif"><font color=3D"#000000"><b>6.<span style=3D"font-variant-numeric:norma=
+l;font-variant-east-asian:normal;font-weight:normal;font-stretch:normal;fon=
+t-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;">=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Raje=
+ndra Sharma,=C2=A0</b>Head National members and Business Anakytics<b>,=C2=
+=A0Bombay Stock Exchange Ltd</b></font></p><p class=3D"gmail-m_-36412505166=
+01789030gmail-m_-6147977096660490358gmail-m_-597347155601967849gmail-m_6485=
+365890355384575gmail-MsoListParagraphCxSpMiddle" style=3D"color:rgb(34,34,3=
+4);font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal=
+;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;text-decoration-style:=
+initial;text-decoration-color:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-h=
+eight:normal;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial;vertical-align:middle;font-size:11pt;font-family:Calibri,sa=
+ns-serif"><font color=3D"#000000"><b>7.<span style=3D"font-variant-numeric:=
+normal;font-variant-east-asian:normal;font-weight:normal;font-stretch:norma=
+l;font-size:7pt;line-height:normal;font-family:&quot;Times New Roman&quot;"=
+>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>=
+Deepak Sapru,=C2=A0</b>Vice President- Housing,<b>=C2=A0Panasonic</b></font=
+></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490358gm=
+ail-m_-597347155601967849gmail-m_6485365890355384575gmail-MsoListParagraphC=
+xSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-liga=
+tures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal=
+;text-align:start;text-indent:0px;text-transform:none;white-space:normal;wo=
+rd-spacing:0px;text-decoration-style:initial;text-decoration-color:initial;=
+margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background-image:initial;=
+background-position:initial;background-size:initial;background-repeat:initi=
+al;background-origin:initial;background-clip:initial;vertical-align:middle;=
+font-size:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000"><b>8=
+.<span style=3D"font-variant-numeric:normal;font-variant-east-asian:normal;=
+font-weight:normal;font-stretch:normal;font-size:7pt;line-height:normal;fon=
+t-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0</span></b><b>Sharad Mathur,=C2=A0</b>Head- Sales &=
+amp; Distribution,<b>=C2=A0SBI General Insurance</b></font></p><p class=3D"=
+gmail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-5973471556=
+01967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=
+=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;fon=
+t-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;t=
+ext-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0=
+.0001pt 58.5pt;line-height:normal;background-image:initial;background-posit=
+ion:initial;background-size:initial;background-repeat:initial;background-or=
+igin:initial;background-clip:initial;vertical-align:middle;font-size:11pt;f=
+ont-family:Calibri,sans-serif"><font color=3D"#000000"><b>9.<span style=3D"=
+font-variant-numeric:normal;font-variant-east-asian:normal;font-weight:norm=
+al;font-stretch:normal;font-size:7pt;line-height:normal;font-family:&quot;T=
+imes New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0</span></b><b>Pramod Misra,=C2=A0</b>Product Manager- Mobile Analy=
+tics &amp; Data Monetisation,<b>=C2=A0Vodafone Idea Limited</b></font></p><=
+p class=3D"gmail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_=
+-597347155601967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMid=
+dle" style=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:=
+normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;text-=
+align:start;text-indent:0px;text-transform:none;white-space:normal;word-spa=
+cing:0px;text-decoration-style:initial;text-decoration-color:initial;margin=
+:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background-image:initial;backgr=
+ound-position:initial;background-size:initial;background-repeat:initial;bac=
+kground-origin:initial;background-clip:initial;vertical-align:middle;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><font color=3D"#000000"><b>10.<spa=
+n style=3D"font-variant-numeric:normal;font-variant-east-asian:normal;font-=
+weight:normal;font-stretch:normal;font-size:7pt;line-height:normal;font-fam=
+ily:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span=
+></b><b>ElsaMarie D&#39;Silva,=C2=A0</b>Board Of Directors<b>,=C2=A0XPrize =
+India</b></font></p><p class=3D"gmail-m_-3641250516601789030gmail-m_-614797=
+7096660490358gmail-m_-597347155601967849gmail-m_6485365890355384575gmail-Ms=
+oListParagraphCxSpMiddle" style=3D"color:rgb(34,34,34);font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter=
+-spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;text-decoration-style:initial;text-decoration=
+-color:initial;margin:0cm 0cm 0.0001pt 58.5pt;line-height:normal;background=
+-image:initial;background-position:initial;background-size:initial;backgrou=
+nd-repeat:initial;background-origin:initial;background-clip:initial;vertica=
+l-align:middle;font-size:11pt;font-family:Calibri,sans-serif"><font color=
+=3D"#000000"><b>11.<span style=3D"font-variant-numeric:normal;font-variant-=
+east-asian:normal;font-weight:normal;font-stretch:normal;font-size:7pt;line=
+-height:normal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0</span></b><b>Jitendra Mahapatra,=C2=A0</b>AVP and Head- =
+Digital Payments and Analytics,<b>=C2=A0Axis Bank</b></font></p><p class=3D=
+"gmail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-597347155=
+601967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=
+=3D"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;fon=
+t-variant-caps:normal;font-weight:400;letter-spacing:normal;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;t=
+ext-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0=
+.0001pt 58.5pt;line-height:normal;vertical-align:middle;font-size:11pt;font=
+-family:Calibri,sans-serif"><font color=3D"#000000"><b style=3D"font-size:1=
+1pt">12.<span style=3D"font-variant-numeric:normal;font-variant-east-asian:=
+normal;font-weight:normal;font-stretch:normal;font-size:7pt;line-height:nor=
+mal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0</span></b><b style=3D"font-size:11pt">Vivek Zakarde,=C2=A0</b><span =
+style=3D"font-size:11pt">Head Business Intelligence, Data-ware &amp; Analyt=
+ics,=C2=A0<b>Reliance General Insurance</b></span></font></p><p class=3D"gm=
+ail-m_-3641250516601789030gmail-m_-6147977096660490358gmail-m_-597347155601=
+967849gmail-m_6485365890355384575gmail-MsoListParagraphCxSpMiddle" style=3D=
+"color:rgb(34,34,34);font-style:normal;font-variant-ligatures:normal;font-v=
+ariant-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;t=
+ext-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text=
+-decoration-style:initial;text-decoration-color:initial;margin:0cm 0cm 0.00=
+01pt 58.5pt;line-height:normal;vertical-align:middle;font-size:11pt;font-fa=
+mily:Calibri,sans-serif"><font color=3D"#351c75"><span style=3D"font-size:1=
+1pt"><b><br></b></span></font></p><p class=3D"MsoNormal" style=3D"margin:0p=
+x 0px 8pt;color:rgb(34,34,34);font-family:Arial,Helvetica,sans-serif;font-s=
+ize:small;font-style:normal;font-variant-ligatures:normal;font-variant-caps=
+:normal;font-weight:400;letter-spacing:normal;text-align:start;text-indent:=
+0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration=
+-style:initial;text-decoration-color:initial;line-height:11.75pt;background=
+-image:initial;background-position:initial;background-size:initial;backgrou=
+nd-repeat:initial;background-origin:initial;background-clip:initial"><b><fo=
+nt color=3D"#000000"><br></font></b></p><p class=3D"MsoNormal" style=3D"mar=
+gin:0px 0px 8pt;color:rgb(34,34,34);font-family:Arial,Helvetica,sans-serif;=
+font-size:small;font-style:normal;font-variant-ligatures:normal;font-varian=
+t-caps:normal;font-weight:400;letter-spacing:normal;text-align:start;text-i=
+ndent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-deco=
+ration-style:initial;text-decoration-color:initial;line-height:11.75pt;back=
+ground-image:initial;background-position:initial;background-size:initial;ba=
+ckground-repeat:initial;background-origin:initial;background-clip:initial">=
+<b><font color=3D"#000000">Connect To Have More Detail:</font><a href=3D"ht=
+tp://competitiveintelligence.in/register.html" target=3D"_blank" style=3D"c=
+olor:rgb(17,85,204)"><font color=3D"#000000">=C2=A0</font><font color=3D"#5=
+00050">http://</font><font color=3D"#500050">competitiveintelligence.in/</f=
+ont><font color=3D"#500050">register.html</font></a></b></p><p class=3D"Mso=
+Normal" style=3D"margin:0px 0px 8pt;color:rgb(34,34,34);font-family:Arial,H=
+elvetica,sans-serif;font-size:small;font-style:normal;font-variant-ligature=
+s:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;word-s=
+pacing:0px;text-decoration-style:initial;text-decoration-color:initial;line=
+-height:11.75pt"><font color=3D"#000000"><b><br></b></font></p><p class=3D"=
+MsoNormal" style=3D"margin:0px 0px 8pt;color:rgb(34,34,34);font-family:Aria=
+l,Helvetica,sans-serif;font-size:small;font-style:normal;font-variant-ligat=
+ures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;=
+text-align:start;text-indent:0px;text-transform:none;white-space:normal;wor=
+d-spacing:0px;text-decoration-style:initial;text-decoration-color:initial;l=
+ine-height:11.75pt"><font color=3D"#000000"><b>Or Contact us on:</b></font>=
+</p><p class=3D"MsoNormal" style=3D"margin:0px 0px 8pt;color:rgb(34,34,34);=
+font-family:Arial,Helvetica,sans-serif;font-size:small;font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter=
+-spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;text-decoration-style:initial;text-decoration=
+-color:initial;line-height:11.75pt"><b><font color=3D"#000000">Abidali Doss=
+a: +91 9702849915</font></b></p><p class=3D"MsoNormal" style=3D"margin:0px =
+0px 8pt;font-family:Arial,Helvetica,sans-serif;font-size:small;font-style:n=
+ormal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:40=
+0;letter-spacing:normal;text-align:start;text-indent:0px;text-transform:non=
+e;white-space:normal;word-spacing:0px;text-decoration-style:initial;text-de=
+coration-color:initial;color:rgb(80,0,80);line-height:11.75pt"><a href=3D"m=
+ailto:abid@transformanceforums.com" target=3D"_blank" style=3D"color:rgb(17=
+,85,204)"><b>abid@transformanceforums.com</b></a></p><p class=3D"MsoNormal"=
+ style=3D"margin:0px 0px 8pt;font-family:Arial,Helvetica,sans-serif;font-si=
+ze:small;font-style:normal;font-variant-ligatures:normal;font-variant-caps:=
+normal;font-weight:400;letter-spacing:normal;text-align:start;text-indent:0=
+px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration-=
+style:initial;text-decoration-color:initial;color:rgb(80,0,80);line-height:=
+11.75pt"><br></p><p class=3D"MsoNormal" style=3D"margin:0px 0px 8pt;font-fa=
+mily:Arial,Helvetica,sans-serif;font-size:small;font-style:normal;font-vari=
+ant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacin=
+g:normal;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;word-spacing:0px;text-decoration-style:initial;text-decoration-color:=
+initial;color:rgb(80,0,80);line-height:11.75pt"><b style=3D"color:rgb(34,34=
+,34)">Website:</b><span style=3D"color:rgb(34,34,34)">=C2=A0</span><font co=
+lor=3D"#3d85c6"><i><b><a href=3D"http://www.transformanceforums.com/" targe=
+t=3D"_blank" style=3D"color:rgb(17,85,204)">www.transformanceforums.com</a>=
+</b></i></font>=C2=A0=C2=A0</p>
+
+</div>
+
+--0000000000001eb0520581c01a9d--

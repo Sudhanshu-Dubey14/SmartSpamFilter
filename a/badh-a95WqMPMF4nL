@@ -1,0 +1,184 @@
+Return-Path: <dailynews@rediffnewsmailer.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a95WqMPMF4nL>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 4.311
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.311 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	MISSING_DATE=1.396, RDNS_NONE=1.274, SPF_PASS=-0.001,
+	TO_NO_BRKTS_NORDNS=0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a95WqMPMF4nL for <admin@mslindia.net>;
+	Thu, 14 Feb 2019 04:57:08 +0530 (IST)
+Received: from backnotify1.rediffnews.in (unknown [119.252.154.156])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 316D9F4BE0F
+	for <bharat_kumar@mslindia.net>; Thu, 14 Feb 2019 04:57:05 +0530 (IST)
+Received: from BackyardStandalone.rediff.com (unknown [10.50.250.70])
+	by backnotify1.rediffnews.in (Postfix) with ESMTP id 08CF11E6B97
+	for <bharat_kumar@mslindia.net>; Thu, 14 Feb 2019 05:01:00 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 backnotify1.rediffnews.in 08CF11E6B97
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=rediffnewsmailer.com; s=mail; t=1550100660;
+	bh=Aknm6yd+EXAP4frHG/ZBlkwsPtZG5AyGzOMIIgawZec=;
+	h=From:To:Subject:From;
+	b=j+fdV9dktdRsrvNjR4EvR3pBPPifw8FmDEQ+MrE+zVX7U2jj5JyR0NUj2EbsE4i6E
+	 WAd8HduFIiHjeUSHY5lhkNwlTF48WNZZonkxeG6nYqQK17++Gguhun3J4KGFmfqpFs
+	 bx1IKPLvTOVi2VeKmQzqL1N3BCQi22uLYAUTH3cA=
+From: Rediff News <dailynews@rediffnewsmailer.com>
+To: bharat_kumar@mslindia.net
+Message-ID: <1611797875.6214769.1550100660029.JavaMail.root@BackyardStandalone.rediff.com>
+Subject: For this martyr, the nation came first
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-REDIFF-MAILERS: c42bdd163ae57a8f6313ce3a4a83bafc
+
+<div style="padding: 5px; font-family: verdana, arial; font-size: 12px;">
+	
+	
+			
+	<div style="clear:both;height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style='border:solid 7px #f0f0f0; text-align:left; width:95%;'>
+	<div style='border:solid 1px #ccc;background-color:#fff;padding:15px 0 10px 15px;'>
+	<table cellspacing='0' cellpadding='0' border='0' style='font-family:georgia;font-size:13px;width:96%;'>
+	
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>1</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/special/for-him-the-nation-came-first-himself-last/20190213.htm?pos=1&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>For this martyr, the nation came first</p> For Squadron Leader Samir Abrol's brother, Sushant, life will never be the same again. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>2</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/do-our-army-navy-and-air-force-have-enough-money/20190213.htm?pos=2&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Do our armed forces have enough money?</p> What officers responsible for preparing budgets have to say. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>3</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/column/the-real-story-behind-indias-employment-data/20190213.htm?pos=3&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>The real story behind India's employment data</p> Are we witnessing jobless growth or is there actually no issue with employment? <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>4</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/special/guest-of-the-enemy-on-pakistans-side-of-the-loc/20190213.htm?pos=4&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Guest Of the Enemy: On Pakistan's side of the LoC</p> What happens when a Delhi professor is given the rare opportunity to travel with the Pakistan army along the LoC? <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>5</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/interview/whats-the-basis-for-10-reservations/20190213.htm?pos=5&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>'What's the basis for 10% reservations?'</p> 'We have no clue where this idea came from. And, most importantly, why is it 10% reservation and not 15% or 20%?' <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>6</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/most-glamorous-sonam-deepika-janhvi/20190213.htm?pos=6&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Most Glamorous! Sonam, Deepika, Janhvi...</p> Wow! <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>7</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/why-ajay-devgn-laughed-for-2-hours/20190213.htm?pos=7&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Why Ajay Devgn laughed for 2 hours</p> :)) <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>8</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/is-it-the-right-time-to-invest-in-gold/20190213.htm?pos=8&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Is it the right time to invest in gold?</p> Expert speak. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>9</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/column/citizenship-bill-morally-valid-long-overdue/20190213.htm?pos=9&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Citizenship Bill: Morally valid, long overdue</p> Vivek Gumaste explains why. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>10</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/column/-5-things-modi-got-right-on-the-economy/20190213.htm?pos=10&src=NL20190214&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>5 things Modi got right on the economy</p> 'Good economics isn't necessarily bad politics, or vice versa,' says Shekhar Gupta. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+		</table>
+	</div>
+	</div>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<p style="margin: 5px 0 0 0; font-size: 14px;" align="center">
+		<b><a href='http://www.rediff.com/newsletter/2019/feb/14newsletter.html' target="_blank"
+			style="white-space: nowrap">View in browser</a> &nbsp; &nbsp; 
+			<a href="http://www.rediff.com/" target="_blank"
+			style="white-space: nowrap">Explore rediff.com</a> &nbsp; &nbsp; 
+			<a href="http://rediff.com/newsapp" target="_blank"
+			style="white-space: nowrap">Get our News App!</a></b>
+	</p>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style="text-align: center">
+		<p style="margin: 5px 0;">
+			<span>You have received this mail from&nbsp;</span> <a
+				href="http://www.rediff.com" rel="external" target="_blank">
+				Rediff.com </a> <span>&nbsp;because you have subscribed to</span> <a
+				href="http://www.rediff.com">Rediff.com</a>'s newsletter. To ensure
+			delivery, add <a href="mailto:newsletter@rediffnews.in">dailynews@rediffnewsmailer.com</a>
+			to your address book
+		</p>
+		<div>
+			<span>This is an auto-generated mail. Click&nbsp;</span><a
+				href="http://www.rediff.com/newsletter/unsubscribe" rel="external"
+				target="_blank">Unsubscribe me from this list</a><span>&nbsp;if
+				you do not wish to receive any future newsletters from <a
+				href="http://www.rediff.com">Rediff.com</a>.
+			</span> <br />
+			<br /> <strong>&copy; 2019&nbsp;<a
+				href="http://www.rediff.com" rel="external" target="_blank">Rediff.com</a>.
+			</strong>
+		</div>
+	</div>
+
+</div>
+
+<img border="0" height="0" width="0" style="display: none;"
+	src="http://track.rediff.com/click?url=___http://im.rediff.com/uim/trans.gif___&cmp=signature&lnk=open-(NL20190214)&newservice=editnews&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0" />

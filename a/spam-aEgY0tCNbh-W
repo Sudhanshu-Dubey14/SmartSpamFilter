@@ -1,0 +1,65 @@
+Return-Path: <hearthealth@bosk.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aEgY0tCNbh-W>
+X-Spam-Flag: YES
+X-Spam-Score: 8.931
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.931 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.139, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aEgY0tCNbh-W for <jcbl@jcbl.com>;
+	Mon, 10 Dec 2018 08:15:43 +0530 (IST)
+Received: from supraliminally.bosk.info (supraliminally.bosk.info [162.244.13.119])
+	by mx10.jcbl.com (Postfix) with ESMTPS id E1BF5F4C334
+	for <jcbl@jcbl.com>; Mon, 10 Dec 2018 08:15:40 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bosk.info; s=dkim;
+	t=1544409952; bh=+e0UV8Isd0miVJvYWB6/bAkJe5cS7a62gP7F2iMZi2w=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=I29biVHmVmX39Jdy9eOQ/+MmPo9p0fbb+qVRVJOez/Bujlx7DBZRZ9vjE4WKxAIs4
+	 lIdoBdijRl77qOjQdFwlxMeX7qORDGainZiNEAamOQjZr1RGwC7FsGhQ7KgCSKTVq7
+	 EeuFCeC1tyVWR9YuNyTYDr2nN7L1LOjvW2O2EIJk=
+To: <jcbl@jcbl.com>
+From: "Heart Health" <hearthealth@bosk.info>
+Subject: THIS Kills Way More Women Than Breast Cancer
+Date: Sun, 09 Dec 2018 21:45:52 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812092145:1785d0c99294594b6157901_60d30d5c:wpoy^wpoy(pbz:19289
+List-Unsubscribe: <mailto:1785d0c99294594b6157901_60d30d5c@bosk.info>, <http://bosk.info/1785d0c99294594b6157901_60d30d5c/U/>
+Message-ID: <201812092145@bosk.info>
+X-campaignID: 19289
+Content-type: text/html
+
+<html>
+<body>
+These aren't subtle warning signs. <br>
+<br>
+No, far from it.<br>
+<br>
+In fact, they're downright terrifying.<br>
+<br>
+And if your heart is lucky enough to make it through these<br>
+4 traumatic events, well, there's still more bad news to come.<br>
+<br>
+If you're at all worried about dying of a heart attack, you MUST<br>
+<br>
+<a href="http://www.bosk.info/1c8c7f6fb764594b615790146703_60d30d5c-010101010001/C/">Know These 4 Signs Your Heart Is In Trouble!</a><br>
+<br>
+
+<a href="http://www.bosk.info/1c8c7f6fb764594b615790146703_60d30d5c-010101010001/C/"><img border="0" src="http://www.bosk.info/1c899d693f74594b61579014aa04_60d30d5c-010101010001/V/"></a>
+<br>
+<br>
+<font size="2">
+This is an advertisement. To stop receiving messages, please visit <a href="https://www.focusedreality.stream/1785d0c99294594b6157901_60d30d5c/U/">here</a>. <br />
+Or mail your request to: 218 E. Bearss Ave., Ste. 203, Tampa, FL 33613<br />
+</body>
+</html>
+

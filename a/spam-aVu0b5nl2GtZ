@@ -1,0 +1,79 @@
+Return-Path: <return-jcbl=jcbl.com@clickbizsearch.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aVu0b5nl2GtZ>
+X-Spam-Flag: YES
+X-Spam-Score: 14.089
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.089 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_12_24=0.804, DIGEST_MULTIPLE=0.001,
+	DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1, FREEMAIL_FROM=0.001,
+	HTML_IMAGE_ONLY_08=1.781, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724,
+	NML_ADSP_CUSTOM_MED=1.2, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, T_DKIM_INVALID=0.01, T_RCVD_IN_SEMBLACK=0.01,
+	T_TO_NO_BRKTS_FREEMAIL=0.01, T_URIBL_SEM=0.01, T_URIBL_SEM_RED=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aVu0b5nl2GtZ for <jcbl@jcbl.com>;
+	Thu,  3 Jan 2019 08:40:53 +0530 (IST)
+Received: from edc1.clickbizsearch.com (unknown [208.110.66.123])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 7A19AF45B76
+	for <jcbl@jcbl.com>; Thu,  3 Jan 2019 08:40:46 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=gmail.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=leepha.hayes@gmail.com;
+ bh=BaScy+5ReKTmRgAFdCYMSb8NUcI=;
+ b=TksOoZhoahkehBiAjPe0WYrdXF8Pyq/OD5I2K4JjDh4BSrBTgak0JHO91qSvrGUO/Zu5FF7tZT0G
+   NUtD6UY1nowS8wQ7ZOglDPlnZYicCfbMMF94quzLc5j3pL8g/DHgMimjbxJeweq3snUqnSeJOq/n
+   Pkoi6mnFXTotvLt2J+c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=gmail.com;
+ b=Ol7Yzh0HdFtHL4vEWLNdKYMVggLZBx7rqlaVTwsnVThMguYzUt1gaqRdv6KdiCuoogxY2/4/l4q4
+   a4HfH1r93X6O4X98XJisKPOjc5bB3PgBVfLQz90DkCAJzem4FMoBBZ0o42kakZinIP6Y/OsEfBNK
+   U91+GZ+4LPNQFdBqaXM=;
+Received: from clickbizsearch.com (127.0.0.1) by edc1.clickbizsearch.com id h5lukbi19tkj for <jcbl@jcbl.com>; Mon, 31 Dec 2018 14:36:21 -0200 (envelope-from <return-jcbl=jcbl.com@clickbizsearch.com>)
+To: jcbl@jcbl.com
+Subject: RE: TAX filing
+Message-ID: <010ad21a3f44f08b2a5f0063622b0f42@clickbizsearch.com>
+Date: Sun, 30 Dec 2018 08:33:37 -1100
+From: "Leepha hayes" <leepha.hayes@gmail.com>
+Reply-To: leepha.hayes@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 4,3,1
+List-Unsubscribe: <http://clickbizsearch.com/zmail/unsubscribe.php?M=137208&C=48f79bcfdfa7b229eacf890879506277&L=4&N=7>
+X-Mailer-RecptId: 137208
+X-Mailer-SID: 7
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_c6caacd5bd4238d1852938cd8b0665cb"
+Content-Transfer-Encoding: 8bit
+
+--b1_c6caacd5bd4238d1852938cd8b0665cb
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://clickbizsearch.com/zmail/display.php?M=137208&C=48f79bcfdfa7b229eacf890879506277&S=7&L=4&N=3
+
+
+To stop receiving these
+emails:http://clickbizsearch.com/zmail/unsubscribe.php?M=137208&C=48f79bcfdfa7b229eacf890879506277&L=4&N=7
+
+--b1_c6caacd5bd4238d1852938cd8b0665cb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body>Are you looking for bookkeeping and tax filing for
+the year? We are having an offer at this time. Let me know.<br /> <br />
+Thanks.<br /> <br /> Leepha hayes<br /> Business development<br /> <br
+/><br /><br /><br /><a
+href="http://clickbizsearch.com/zmail/unsubscribe.php?M=137208&C=48f79bcfdfa7b229eacf890879506277&L=4&N=7">Unsubscribe
+me from this list</a><img
+src="http://clickbizsearch.com/zmail/open.php?M=137208&L=4&N=7&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_c6caacd5bd4238d1852938cd8b0665cb--
+
+

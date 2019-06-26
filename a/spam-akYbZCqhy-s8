@@ -1,0 +1,268 @@
+Return-Path: <ashley-madison-bb=globe-trucking.com@little-glee.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <bb@globe-trucking.com>
+X-Envelope-To-Blocked: <bb@globe-trucking.com>
+X-Quarantine-ID: <akYbZCqhy-s8>
+X-Spam-Flag: YES
+X-Spam-Score: 10.183
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.183 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_FONT_FACE_BAD=0.289, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	T_URIBL_SEM=0.01, T_URIBL_SEM_RED=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id akYbZCqhy-s8 for <bb@globe-trucking.com>;
+	Sat, 27 Oct 2018 03:16:03 +0530 (IST)
+Received: from mail.little-glee.com (little-glee.com [204.10.162.117])
+	by mx10.jcbl.com (Postfix) with ESMTP id 6F225EECB94
+	for <bb@globe-trucking.com>; Sat, 27 Oct 2018 03:15:57 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=little-glee.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ashley-madison@little-glee.com;
+ bh=4EXBFeftw8Nk+79YUxWikxJiRzc=;
+ b=SGzF2JyyD3gNRCMMcxd3bdssOjNi2qwe5v3hU4viB2ub9PAUv79+OPRPyE8zj4xdewqDgEGJ+IBb
+   Lfwe8noPTa/KjMH5X0GjLFXZ4G6sEanU5J9fuEdzmhtVp16Fp+8Ejxto2eFPxBtZbW4SYAKmU7kl
+   xlr41286MmJX1dT/VSM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=little-glee.com;
+ b=UDT7vJAu5mre2PN+bbdY60mphAn3ZUy0I5GFVNYgIi8UnnkLXkwCOllJsBDe0+8srG/CuKOc6DIP
+   McqGUsRJyRgh4oosiQJUG4ichFavNedOH3ZcX2VrPMJMBIie7ugWAvH0TvfOAE4/ZHsk4vAL8enW
+   dx/9XxhlJ9FbPMNeqTg=;
+Received: by mail.little-glee.com id hqe5oc0001g5 for <bb@globe-trucking.com>; Fri, 26 Oct 2018 17:35:57 -0400 (envelope-from <ashley-madison-bb=globe-trucking.com@little-glee.com>)
+Date: Fri, 26 Oct 2018 17:35:57 -0400
+From: "Ashley Madison" <ashley-madison@little-glee.com>
+To:   <bb@globe-trucking.com>
+Subject: Check out these hot new members!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_865_1145025349.1540589722907"
+List-Unsubscribe: <http://www.little-glee.com/7194c2385nP8Y910Fl11UA811n22rFFfZhsFI-xv4GgbrZEGsi7NFu1v0V9j2J3iwx9J/recalculations-replete>
+Message-ID: <0.0.0.153.1D46D73E1CE16FA.3A11D6@mail.little-glee.com>
+
+------=_Part_865_1145025349.1540589722907
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" /> 
+  <title>Test</title> 
+  <style type="text/css">@import url(https://fonts.googleapis.com/css?family=Roboto:300); 
+
+ 
+ #outlook a { padding:0; }
+ body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; } 
+ .ReadMsgBody { width: 100%; }
+ .ExternalClass {width:100%; } 
+ .backgroundTable {margin:0 auto; padding:0; width:100%; !important; } 
+ table td {border-collapse: collapse; }
+ .ExternalClass * {line-height: 115%; } 
+ .appleapp {width: auto; height: 60px; }
+ .googleapp {width: auto; height: 60px; }
+ 
+ 
+ 
+ 
+ 
+ @media screen and (max-width: 630px){
+ 
+ 
+  
+ *[class="mobile-column"] {display: block; } 
+ 
+ 
+ *[class="mob-column"] {float: none !important; width: 100% !important; } 
+ 
+ 
+ *[class="hide"] {display:none !important; } 
+ 
+ 
+ *[class="100p"] {width:100% !important; height:auto !important; } 
+ 
+  
+ *[class="condensed"] {padding-bottom:40px !important; display: block; }
+ 
+ 
+ *[class="center"] {text-align:center !important; width:100% !important; height:auto !important; } 
+ 
+ 
+ *[class="100pad"] {width:100% !important; padding:20px; } 
+ 
+ 
+ *[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px; } 
+ 
+ 
+ *[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px; } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="appleapp"] {width: 100%; height: auto; }
+ } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="googleapp"] {width: 100%; height: auto}
+ }
+	</style> 
+  <style type="text/css">
+	</style> 
+ </head> 
+ <body bgcolor="#f2f2f2" style="padding:0; margin:0"> 
+  <div style="background:ffffff; ">
+   &nbsp; 
+  </div> 
+  <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" class="hide" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td background="https://dl.dropbox.com/s/em8uggz08zo0qgz/temp4.jpg?dl=0" bgcolor="#000000" class="100p" style="background-position: center" valign="top" width="640">
+          <v:rect fill="true" stroke="false" style="width:640px; " xmlns:v="urn:schemas-microsoft-com:vml"> 
+           <v:fill color="#3b464e" src="http://www.little-glee.com/9e95pm2385XG7ia12N31uebpA811M22OFFfZhsFI-xv4GgbrZEGsi5vn1X09O0i3wxA9O/despatched-untapped" type="tile"> 
+            <v:textbox inset="0,0,0,0" style="mso-fit-shape-to-text:true"> 
+             <div> 
+              <table border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+               <tbody> 
+                <tr> 
+                 <td valign="top"> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td align="left" width="50%"><a href="http://www.little-glee.com/8814v2385YWr8611Q31e8IV811x22MFFfZhsFI-xv4GgbrZEGsi6wN1h0j9mUJLiwx9A/louse-enabled"><img alt="Logo" src="http://www.little-glee.com/louse-enabled/e9a4n2385nR7ia10i31ecL811u22kFFfZhsFI-xv4GgbrZEGsi6Vt1A0N9Q@i@w@x9j" style="display: block; width: 90%; padding-top: 15px; padding-left: 15px; border-width: 0px; border-style: solid; " /></a></td> 
+                    </tr> 
+                   </tbody> 
+                  </table> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                    <tr> 
+                     <td align="left" style="color:#FFFFFF; font-size:24px; font-family:Raleway, Open Sans, sans-serif; padding-left: 15px; "><span style="font-size: 22px; color: #e73373; ">RULE #1 </span><br /> <span style="font-size:44px; line-height: 45px"><strong>choose married<br /> women</strong></span><br /> <span style="font-size:22px; "><i>They have reason to keep<br /> things secret, as do you.</i></span><br /> &nbsp; 
+                      <table border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir; "> 
+                       <tbody> 
+                        <tr> 
+                         <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.little-glee.com/8814v2385YWr8611Q31e8IV811x22MFFfZhsFI-xv4GgbrZEGsi6wN1h0j9mUJLiwx9A/louse-enabled" style="color:#FFFFFF; text-decoration:none; "><strong>SIGN UP FOR FREE</strong> </a> </font></td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+               </tbody> 
+              </table> 
+             </div> 
+             <!--[if gte mso 9]>
+ </v:textbox>
+ </v:rect>
+ <![endif]--> 
+            </v:textbox>
+           </v:fill>
+          </v:rect></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#b2d6db" border="0" cellpadding="0" cellspacing="0" class="100p" height="1" width="640"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#FFFFFF" width="20">&nbsp; </td> 
+         <td align="center" height="1" style="line-height:0px; font-size:1px; ">&nbsp; </td> 
+         <td bgcolor="#ffffff" width="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 30px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#848484; "><font face="'Roboto', Arial, sans-serif"><span style="color:#e73373; font-size:24px; ">JOIN TODAY</span><br /> <br /> <span style="font-size:16px; ">Every day thousands of people join Ashley Madison to find discreet relationships of all kinds. Single, attached, looking to explore, or just curious to discover what' s out there ? Ashley Madison is the most open-minded dating community in the world.</span></font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <table align="center" border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir, sans-serif; margin-bottom: 50px; "> 
+           <tbody> 
+            <tr> 
+             <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.little-glee.com/8814v2385YWr8611Q31e8IV811x22MFFfZhsFI-xv4GgbrZEGsi6wN1h0j9mUJLiwx9A/louse-enabled" style="color:#FFFFFF; text-decoration:none; "><strong>SEE MATCHES</strong> </a> </font></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="color: #848484; padding-top: 20px; ">*Not actual members of Ashley Madison</td> 
+        </tr> 
+        <tr> 
+         <td align="center"><a href="http://www.little-glee.com/8814v2385YWr8611Q31e8IV811x22MFFfZhsFI-xv4GgbrZEGsi6wN1h0j9mUJLiwx9A/louse-enabled"><img border="0" class="100p" src="http://www.little-glee.com/Lackawanna-wiretappers/a086h_238R5HT7Ta10v31edD811g22oFFfZhsFI-xv4GgbrZEGsi5IF1u09wlWP@iwx9" style="display:block; padding-top: 20px; " /></a></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#ffffff; display: block; margin: auto; "><font face="'Roboto', Arial, sans-serif"><span style="font-size:24px; ">Download The App</span> </font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="right" style="padding: 10 5 40 20; "><img border="0" class="appleapp" src="http://www.little-glee.com/A2f6w23m8I5k7aWv10l31een811U22jFFfZhsFI-xv4GgbrZEGsi5X10sr9zl3AiWwx9/Lackawanna-wiretappers" /></td> 
+         <td align="left" style="padding: 10 20 40 5"><img border="0" class="googleapp" src="http://www.little-glee.com/despatched-untapped/80a5b2i385V7IaM10t31efs811V22zFFfZhsFI-xv4GgbrZEGsi6S1Rw0G9d0NiALwx9" /></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 20px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:14px; color:#848484; "><font face="'Roboto', Arial, sans-serif">This message is sent to you by [insert affiliate name] on behalf of ruby Life Inc., the operator of <a href="http://www.little-glee.com/8814v2385YWr8611Q31e8IV811x22MFFfZhsFI-xv4GgbrZEGsi6wN1h0j9mUJLiwx9A/louse-enabled">ashleymadison.com</a>. ruby Life Inc. is located at 2300 Yonge Street, Suite 1400, Toronto, Ontario M4P 1E4 Canada. To unsubscribe from marketing and promotional email messages sent by or on behalf of ruby Life Inc., click <a href="http://www.little-glee.com/jeweled-nominated/3005m238F5c8zK612d3sv1e9p811h22zFFfZhsFI-xv4GgbrZEGsi7vvHT10G10M0@Bji@wx9">here</a>.</font><br /> &nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+         <td align="right" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="50">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <hr width="50%" /> 
+  <div style="text-align: center; ">
+   <font size="3">To be removed <a href="http://www.little-glee.com/tinkered-Sampson/e404g2385KQ89L12sO31eanm811o22jFFfZhsFI-xv4GgbrZEGsi7vOC1I0P9AzLLjiwx9">view here</a><br /> PO Box 660675 #34709 Dallas, TX 75266-0675</font>
+  </div>   
+ <img src="http://www.little-glee.com/Westphalia-Hebrews/2c44V2385du85s12c31kf_0z811L22gFFfZhsFI-xv4GgbrZEGsi5k1t0k10o0WOBiwMx9" alt=""/></body>
+</html>
+
+------=_Part_865_1145025349.1540589722907--
+

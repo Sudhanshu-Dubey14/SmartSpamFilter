@@ -1,0 +1,474 @@
+Return-Path: <american.dental.association@unipartsnetwork.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <aaahdVt7dpnf>
+X-Spam-Flag: YES
+X-Spam-Score: 7.372
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.372 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985,
+	RDNS_NONE=1.274, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	SUBJ_YOUR_FAMILY=2.999, T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aaahdVt7dpnf for <admin@mslindia.net>;
+	Wed, 10 Oct 2018 21:51:31 +0530 (IST)
+Received: from anthill.unipartsnetwork.com (unknown [92.114.32.68])
+	by mx10.jcbl.com (Postfix) with ESMTP id A1971EEBDED
+	for <kj_rao@mslindia.net>; Wed, 10 Oct 2018 21:51:17 +0530 (IST)
+From: American Dental Association <american.dental.association@unipartsnetwork.com>
+Reply-To: american.dental.association@unipartsnetwork.com
+MIME-Version: 1
+To: kj_rao@mslindia.net
+Subject: Dental plan options that fit your family's needs.
+Message-ID: <yCLiyGli.6cxeHh.EnGr-BU44gL0LLD3qgPtckNC0@anthill.unipartsnetwork.com>
+Content-Type: text/html; charset="UTF-8"
+Content-transfer-encoding: 8bit
+Date: Wed, 10 Oct 2018 12:21:39 -0400
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title></title>
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Copse);
+/* This should be the first item in your style tag */
+..lato {
+	font-family: 'Lato', Helvetica, Arial, sans-serif !important;
+} /* Class to make the Google font show up, make sure you state your web-safe default fonts */
+..copse {
+	font-family: 'Copse', Georgia, Times New Roman, Times, serif !important;
+} 
+
+* {
+	-webkit-text-size-adjust: none;
+} /* prevent iOS font upsizing */
+..ExternalClass * {
+	line-height: 100%;
+} /* force Outlook.com to honor line-height */
+/* prevent iOS auto-linking */
+..applefix a {
+	color: #666666;
+	text-decoration: none;
+} /* use on a span around the copy */
+
+/*** Responsive CSS ***/
+@media only screen and (max-width: 480px) {
+/*** Layout ***/
+body { /* force iOS5 to fill entire screen */
+	width: 100%;
+	min-width: 100%;
+}
+body[yahoo] .marginFix { /* to eliminate padding in iOS7 */
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+body[yahoo] .full-width-container { /* resizes entire email shell */
+	width: 320px !important;
+	min-width: 320px !important;
+}
+body[yahoo] .full-width { /* use to resize specific table or cell */
+	width: 100% !important;
+	min-width: 100% !important;
+}
+body[yahoo] .stack { /* use to turn 2-column into 1-column layout */
+	display: block !important;
+}
+body[yahoo] .stackCell { /* use to turn 1-column into 2-column layout */
+	display: table-cell !important;
+	vertical-align: top !important;
+	width: 50% !important;
+}
+body[yahoo] .stackTop { /* use to turn 2-column into 1-column layout */
+	display: table-header-group !important;
+}
+body[yahoo] .stackBottom { /* use to turn 2-column into 1-column layout */
+	display: table-footer-group !important;
+}
+body[yahoo] .hide { /* use to hide cells or images */
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .center {
+	text-align: center !important;
+}
+
+
+/*** Padding Styles ***/
+
+
+body[yahoo] .mobilePadding {
+	padding: 10px 10px 20px 10px !important
+}
+body[yahoo] .mobilePadding2 {
+	padding: 10px 10px 10px 10px !important
+}
+body[yahoo] .mobilePadding3 {
+	padding: 0 30px 25px 30px !important
+}
+body[yahoo] .mobilePadding4 {
+	padding: 30px 0 30px 0 !important
+}
+body[yahoo] .mobilePadding5 {
+	padding: 20px 30px 0 30px !important
+}
+body[yahoo] .mobilePadding6 {
+	padding: 20px 20px 20px 20px !important
+}
+body[yahoo] .mobilePadding7 {
+	padding: 10px 0 10px 0 !important
+}
+body[yahoo] .mobilePadding8 {
+	padding: 0 10px 25px 10px !important
+}
+body[yahoo] .mobilePaddingHeader {
+	padding: 15px 10px 20px 10px !important
+}
+body[yahoo] .padding0 { /* remove all padding */
+	padding: 0px 0px 0px 0px !important
+}
+body[yahoo] .topPadding0 { /* remove top padding */
+	padding-top: 0px !important
+}
+body[yahoo] .topPadding5 { /* remove top padding */
+	padding-top: 5px !important
+}
+body[yahoo] .topPadding10 { /* add 10px top padding */
+	padding-top: 10px !important
+}
+body[yahoo] .topPadding15 { /* add 15px top padding */
+	padding-top: 15px !important
+}
+body[yahoo] .rightPadding20 { /* add right padding */
+	padding-right: 20px !important
+}
+/*** Text/Divider/Image Styles ***/
+body[yahoo] .header {
+	padding-bottom: 20px !important;
+}
+body[yahoo] .mobileHeadline40 {
+	font-size: 40px !important;
+	line-height: 45px !important;
+	letter-spacing: -1px !important;
+}
+body[yahoo] .divider {
+	width: 94% !important;
+}
+body[yahoo] .dividerFull {
+	width: 100% !important;
+}
+body[yahoo] .dividerFullMobile {
+	width: 100% !important;
+	height: 10px !important;
+}
+body[yahoo] .dividerHeight {
+	height: 10px !important;
+}
+body[yahoo] .dividerRight {
+	border-right: none !important;
+}
+body[yahoo] .borderAppear {
+	background-color: #abb1b2 !important;
+}
+body[yahoo] .borderAppear10px {
+	border-top: 10px #f9f9f9 solid !important;
+}
+body[yahoo] .borderBottom {
+	border-bottom: 1px solid #b7b7b7 !important;
+}
+body[yahoo] .borderTop {
+	border-top: 1px solid #b7b7b7 !important;
+	width: 100% !important;
+}
+body[yahoo] .fullSizeImg { /* restores image height and width */
+	width: auto !important;
+	height: auto !important;
+}
+body[yahoo] .fullWidthImg { /* stretches image to entire cell width */
+	width: 100% !important;
+	height: auto !important;
+	min-width: 100% !important;
+}
+body[yahoo] .DownWidthImg { /* reduces image */
+	width: 90% !important;
+	height: auto !important;
+	min-width: 90% !important;
+}
+/*** #6 - 3-Across ***/
+body[yahoo] tr.inline {
+	display: inline !important;
+}
+body[yahoo] .threeAcrossResizeLeft {
+	float: left !important;
+	width: 43% !important;
+}
+body[yahoo] .threeAcrossResizeLeft img {
+	width: 120px !important;
+	height: auto !important;
+	float: left !important;
+}
+body[yahoo] .threeAcrossResizeRight {
+	float: left !important;
+	width: 57% !important;
+}
+body[yahoo] .leftFloat {
+	float: left !important;
+}
+
+/**Footer Mobile Only NAV**/
+body[yahoo] .mobilecontent {
+	display: block!important;
+	max-height: none !important;
+}
+body[yahoo] .mobilecontent td {
+	width: 100% !important;
+	min-width: 100% !important;
+}
+body[yahoo] #text1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	color: #444444;
+	text-align: center;
+	border-bottom: 1px #f9f9f9 solid;
+	padding: 15px 0 10px 0 !important;
+}
+body[yahoo] #text2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	color: #444444;
+	text-align: center;
+	border-bottom: 1px #f9f9f9 solid;
+	padding: 10px 0 10px 0 !important;
+}
+body[yahoo] #text3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	color: #444444;
+	text-align: center;
+	padding: 10px 0 10px 0 !important;
+}
+}
+/**Footer Mobile Only NAV**/
+</style>
+
+<!--[if gt mso 9]>
+<style type="text/css">
+    .lato {font-family: Helvetica, Arial, sans-serif !important;} /* prevents Outlook from defaulting to Times New Roman */
+    .copse {font-family: Georgia, Times New Roman, Times, serif !important;} /* prevents Outlook from defaulting to Times New Roman */
+</style>
+<![endif]-->
+</head>
+
+<body style="margin:0px; padding:0px;" yahoo="fix">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="marginFix" bgcolor="#f9f9f9">
+  <tbody><tr>
+    <td align="center"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="marginFix" bgcolor="#f9f9f9">
+        <tbody><tr>
+          <td align="center"><!--outer container -->
+
+            <!-- #1 - Header -->
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center" class="full-width-container">
+              <tbody><tr>
+                <td align="center" class="full-width-container"><table cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+                    <tbody><tr>
+                      <td width="640" align="center" style="min-width:640px;" class="full-width-container" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tbody><tr>
+                            <td style="padding:5px 10px 0px 0px;" class="mobilePadding8"><!-- #1 - Header - Preheader -->
+
+                           	  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tbody> <tr> </tr>
+                              </tbody></table>
+
+                              <!--end #1 - Header - Preheader --></td>
+                          </tr>
+                          <tr> </tr>
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+
+            <!-- #1 - Header - Status Bar -->
+
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#90c541" class="full-width-container">
+              <tbody><tr> </tr>
+            </tbody></table>
+
+            <!-- #1 - Header - Status Bar -->
+            <!--end #1 - Header -->
+
+            <table cellpadding="0" cellspacing="0" border="0" width="600px" class="full-width-container">
+              <tbody><tr>
+
+                <!--inner container -->
+                <td width="600" align="center" style="min-width:600px;" class="full-width-container" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="100%">
+                    <tbody><tr>
+                      <td align="center"><!-- include all email body content in below table -->
+
+
+                        <!-- 2 Col Heading -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tbody>
+                            <tr> </tr>
+                        </tbody></table>
+
+                        <!--end 2 Col Heading -->
+
+
+                        <!-- Divider -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="dividerFullMobile">
+                          <tbody><tr> </tr>
+                        </tbody></table>
+
+                        <!--end Divider -->
+
+
+                        <!-- Content Section 1 -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tbody><tr> </tr>
+                        </tbody></table>
+
+                        <!-- end Content Section 1 -->
+
+
+                        <!-- Divider -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="dividerFullMobile">
+                          <tbody><tr> </tr>
+                        </tbody></table>
+
+                        <!--end Divider -->
+
+
+                        <!-- Content Section 2 -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tbody><tr>
+                            <td align="left" style="padding:0px 30px 35px 30px;" class="mobilePadding6"><!-- copy -->
+
+                              <table cellpadding="0" cellspacing="0" border="0">
+                                <tbody>
+                                <tr>
+                                   <td class="copse" align="center" valign="top" style="font-family:Georgia, Times New Roman, Times, serif; color:#333333; font-size:22px; padding-top: 27px; line-height:34px; font-weight:normal; letter-spacing:0px;padding:0px 0px 20px 0px">Compare the most comprehensive and affordable plan for your family.<br></td>
+                                </tr>
+                                <tr></tr>
+<p align="center"><i> <strong><a href="http://www.unipartsnetwork.com/index.main.html" style="font-size: 26px">Dental Plan Options  &rarr;</a></strong></i></p><br><br>
+<tr><td align="center" valign="top" style="line-height:0px; font-size:0px; background-color: #323232; padding: 25px">
+	
+	
+	<a href="http://www.unipartsnetwork.com/index.main.html" target="_blank"><img style="display:block;" src=http://admin.unipartsnetwork.com/imagefilefolders.png/414389 title="nyc-marathon-bridge-1000.jpg" alt="NYC Marathon" width="450" border="0"><br><img src="http://user.unipartsnetwork.com/imagefilefolders.png/349280193" alt="Plan Options"></a></td></tr>
+<tr></div>
+                                  </tr>
+                              </tbody></table>
+
+                              <!-- end copy -->
+							</td>
+                          </tr>
+                        </tbody></table>
+
+                        <!--end Content Section 2 -->
+
+
+                        <!-- Divider -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="dividerFullMobile">
+                          <tbody><tr>
+                            <td class="dividerFullMobile" height="5" bgcolor="#f9f9f9" style="font-size:1px; line-height:1px;"></td>
+                          </tr>
+                        </tbody></table>
+
+                        <!--end Divider -->
+
+
+                        <!-- Divider -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="dividerFullMobile">
+                          <tbody><tr>
+                            <td class="dividerFullMobile" height="5" bgcolor="#f9f9f9" style="font-size:201px; line-height:201px;"></td>
+                          </tr>
+                        </tbody></table>
+
+                        <!--end Divider -->
+
+
+                        <!-- Content Section 4 -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tbody><tr> </tr>
+                        </tbody></table>
+
+                        <!--end Content Section 4 -->
+
+                        <!-- Divider -->
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="dividerFullMobile">
+                          <tbody><tr> </tr>
+                        </tbody></table>
+
+                        <!-- end divider -->
+                        <!-- end table for all email body content --></td>
+                    </tr>
+                  </tbody></table></td>
+                <!-- end inner container -->
+
+              </tr>
+            </tbody></table>
+
+            <!-- #13 - Footer -->
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center" class="full-width-container">
+              <tbody><tr>
+                <td align="center" class="borderAppear10px full-width-container"><table cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+                    <tbody><tr>
+                      <td width="640" align="center" style="min-width:640px;" class="full-width-container" bgcolor="#FFFFFF"><!-- #13 - Footer Social links-->
+
+                        <!--end #13 - Footer Social links -->
+                        <!-- #13 - Footer Bottom Nav-->
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tr> </tr>
+                        </table>
+
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                          <tr>
+                            <td align="center" style="padding:0 30px 30px 30px;" class="mobilePadding3"><table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tr>
+                                  <td align="left" valign="top" class="lato" style="font-family: Verdana, Arial, Helvetica, sans serif; font-size:10px; color: #333333; line-height:12px; text-align:center;">&nbsp;</td>
+                                </tr>
+								<tr><p style="padding-top: 190px"></p>C&#x61;&#x6C;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x61;&#x6E;&#x6E;&#x65;&#x20;&#x2D;&#x20;&#x42;&#x65;&#x6E;&#x69;&#x73;&#x20;&#x4E;&#x65;&#x74;&#x77;&#x6F;&#x72;&#x6B;&#x20;&#x53;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x73;s<br>&#x36;&#x30;&#x39;&#x20;&#x53;&#x20;&#x50;&#x61;&#x72;&#x6B;&#x20;&#x44;&#x72;&#x9;&#x48;&#x75;&#x6E;&#x74;&#x69;&#x6E;&#x67;&#x62;&#x75;&#x72;&#x67;&#x9;&#x49;&#x4E;&#x9;&#x34;&#x37;&#x35;&#x34;&#x32;	<br>see 																					<a href="http://ww3.unipartsnetwork.com/main_indexpage.html/72105827825514">&#x68;&#x65;&#x72;&#x65;</a> &#x74;&#x6F;&#x20;&#x65;&#x6E;&#x64;&#x2E;
+									
+								</tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                                </tr>
+                              </tbody></table></td>
+                          </tr>
+                        </tbody></table>
+
+                        <!--end #13 - Legal--></td>
+                    </tr>
+                  </tbody></table>
+
+            <!-- #13 - Footer -->
+            <!-- end outer container --></td>
+  </tr>
+</tbody></table><td style="font-size: 12px" align="center">to critiques of capitalism at all, to the point where socialism is understood by most people as the government doing things. in this context i don't really see the problem with having a smaller anti-capitalist "echo chamber." it's not like anyone in this sub hasn't been exposed to arguments against socialism. let?s agree to disagree, i don?t think that we live in one big echo chamber and i also can?t agree with small echo chamber communities, because i think they breed radicals. i agree with</td>
+
+</body></html>

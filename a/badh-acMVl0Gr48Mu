@@ -1,0 +1,90 @@
+Return-Path: <krishnasinha@schettini.com.br>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <sasi_kumar@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <acMVl0Gr48Mu>
+X-Amavis-Alert: BAD HEADER SECTION Improper folded header field made up
+	entirely of whitespace (char 09 hex): Content-Type:
+	...="----=_NextPart_000_4D91_00F07904.7670212E"\n\t
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id acMVl0Gr48Mu for <sasi_kumar@jcbl.com>;
+	Wed, 10 Feb 2016 16:00:09 +0530 (IST)
+Received: from admincontrolpanel.com (resellergws138.admincontrolpanel.com [189.126.113.138])
+	by mx10.jcbl.com (Postfix) with ESMTP id 5BA92EC8CF9
+	for <sasi_kumar@jcbl.com>; Wed, 10 Feb 2016 15:59:53 +0530 (IST)
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+x-locaweb-id: kQgHTk32NyEQ5njszlYi5Bkbc7M2ja_Xcpu0gUa7qhgnDMP9yxzFVkqU7L-I6Pvgb-ztx-AazlRbDAnybGzVcKzQCVxm2vYPZCh0yDX2FIxRvDSmdCXu-d78uc0pJ086sdIJ4UH54JySxSvn1DT-SBx_ZaDPX1583CPU1y9lpyb22kHF14prT0Vax2Jo3S7gNzWx4vIvxOyBedQNqpgjkg== NmI3MjY5NzM2ODZlNjE3MzY5NmU2ODYxNDA3MzYzNjg2NTc0NzQ2OTZlNjkyZTYzNmY2ZDJlNjI3Mg==
+Received: from pleskwin37.hospedagemdesites.ws (pleskwin37.hospedagemdesites.ws [201.76.50.49])
+	by admincontrolpanel.com (Postfix) with ESMTP id 19ED71112C;
+	Wed, 10 Feb 2016 08:32:48 -0200 (BRST)
+Received: from schettini.com.br ([118.172.44.178])
+        by pleskwin37.hospedagemdesites.ws (IceWarp 9.4.2) with ASMTP id YMQ09546;
+        Wed, 10 Feb 2016 08:32:46 -0200
+Date: Tue, 10 Feb 2016 11:32:31 +0000
+From: krishna sinha <krishnasinha@schettini.com.br>
+To: "Sarika" <sarika76gn@in.com>, "sasi kumar" <sasi_kumar@jcbl.com>, "saturnsinternational" <saturnsinternational@gmail.com>, "Saurabh" <saurabh.karwal@gmail.com>, "Saurabh Wadhwa" <saubi20231987@gmail.com>, "saurabh wadhwa04" <saurabh_wadhwa04@yahoo.co.in>, "savita epjobs" <savita.epjobs@gmail.com>, "scm11904" <scm11904@optonline.net>, "scmhmc" <scmhmc@yahoo.com>, "seceretay" <secretary@icwai.org>, "secy mca" <secy.mca@nic.in>, "sekhar" <ksekhar65@yahoo.com>, "sg 1973" <sg_1973@rediffmail.com>, "sga7cc" <sga7cc@gmail.com>, "sganguly" <sganguly@tmtl.co.in>, "SHAHNAWAZ" <snkhanco@gmail.com>, "shailsharma721" <shailsharma721@gmail.co>, "shalinijoshi14" <shalinijoshi14@yahoo.co.in>, "sharmasukhraj" <sharmasukhraj@yahoo.co.in>, "Shekhar kukreja" <shekhar.kukreja@e2s.co.in>
+Message-ID: <b0a30201f045$ba1cb4cd$327621fc$@schettini.com.br>
+Subject: Re:
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_000_4D91_00F07904.7670212E"
+	
+X-CMAE-Score: 0
+X-CMAE-Analysis: v=2.1 cv=A8DiPsmG c=1 sm=1 tr=0
+	a=6/YWSP68fAY3BjpLYzzNeg==:117 a=LjHbNV3obhmCBCPrl+FojA==:17
+	a=jFJIQSaiL_oA:10 a=51dAuY-UAAAA:8 a=RRKpdjUyVkS77FU9VCkA:9
+	a=QEXdDO2ut3YA:10 a=daojYia1S3MA:10 a=6Jx931qf0SYA:10 a=xyyquwmEAAAA:8
+	a=c9nWTlAe4ILiEiBTnn4A:9 a=frz4AuCg-hUA:10 a=jeFQClYAX1QA:10
+
+------=_NextPart_000_4D91_00F07904.7670212E
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+  blockquote, div.yahoo_quoted { margin-left: 0 !important; border-left:1px=
+ #715FFA solid !important;  padding-left:1ex !important; background-color:w=
+hite !important; }  http://datinginandhrapradesh.com/read.php=C2=A0 =C2=A0
+
+
+Krishna Sinha
+Sent from Yahoo Mail for iPhone
+ =C2=A0 =C2=A0
+------=_NextPart_000_4D91_00F07904.7670212E
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<div><br></div>
+                <style type="text/css" scoped="">
+                    blockquote, div.yahoo_quoted {
+                        margin-left: 0 !important;
+                        border-left:1px #715FFA solid !important;
+                        padding-left:1ex !important;
+                        background-color:white !important;
+                    }
+                </style>
+                <a href="http://datinginandhrapradesh.com/read.php"><a href="http://datinginandhrapradesh.com/read.php" target="_blank">http://datinginandhrapradesh.com/read.php</a></a>&nbsp; &nbsp;<br><br><br>Krishna Sinha<br><a href="https://yho.com/footer0">Sent from Yahoo Mail for iPhone</a><br>
+            <div>&nbsp; &nbsp;</div>
+------=_NextPart_000_4D91_00F07904.7670212E--

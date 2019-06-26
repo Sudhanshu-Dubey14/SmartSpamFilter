@@ -1,0 +1,385 @@
+Return-Path: <liberty-mutual-quote-monika_pal=mslindia.net@ws-wr.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <monika_pal@mslindia.net>
+X-Envelope-To-Blocked: <monika_pal@mslindia.net>
+X-Quarantine-ID: <asNmMqG_ldAX>
+X-Spam-Flag: YES
+X-Spam-Score: 9.549
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.549 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, MIME_QP_LONG_LINE=0.001,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RCVD_IN_CSS=1,
+	RDNS_DYNAMIC=0.363, SPF_PASS=-0.001, URIBL_BLACK=1.775] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id asNmMqG_ldAX for <monika_pal@mslindia.net>;
+	Mon, 17 Jun 2019 17:11:37 +0530 (IST)
+Received: from mail.ws-wr.com (vpsnode14.webstudio28.com [23.237.173.77])
+	by mx10.jcbl.com (Postfix) with ESMTP id 1F55910472F4
+	for <monika_pal@mslindia.net>; Mon, 17 Jun 2019 17:11:29 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ws-wr.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=liberty-mutual-quote@ws-wr.com;
+ bh=OjYYTGmlQZKBlovqu0mU6iOrpvo=;
+ b=qK5EhYQWYLQavI92dUpA5QB6ofj9dPJ0ssLOBfKDHd1NgxHS+LHpz9mSUUMClLoEbt/ceJ5ZFGjG
+   zXmir+qw5h9WHgj+cKHXRAeoXSq+dMF/rOy7+n4apJjvFSAPFjD5A/dPZETWr25QJjd4wrYHb1p4
+   9M5BmFQA8omnhkGBNQQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ws-wr.com;
+ b=UfPq4CCit/GiqVlzibY7Ln4Spk+02UEFrzpLjp/5xL7Ql+UuQNExJ7jeycvzapcESK1T1ovNzocj
+   j6yD9KMzIjQ2Go56lQezbxfzw96DIZfMi5cuW7zDf3KZGY9+vscHBWaDQD50fbfExTZqXavUrwSP
+   C5/cnRxmN+H9LqnC+9E=;
+Received: by mail.ws-wr.com id h0tubk0001gs for <monika_pal@mslindia.net>; Mon, 17 Jun 2019 07:05:56 -0400 (envelope-from <liberty-mutual-quote-monika_pal=mslindia.net@ws-wr.com>)
+Date: Mon, 17 Jun 2019 07:05:56 -0400
+From: "Liberty Mutual Quote" <liberty-mutual-quote@ws-wr.com>
+To:   <monika_pal@mslindia.net>
+Subject: Get your customized insurance quote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49_2009091254.1560769539872"
+List-Unsubscribe: <http://www.ws-wr.com/6fb5W23A95zB8j912q11rxWH4389H24bisrbgD_tDhfiwhbrHbDErIx8wRWnedQn6I10hOF5bXqih/bobbins-equators>
+Message-ID: <0.0.0.6.1D524FCA321AB1A.456570@mail.ws-wr.com>
+
+------=_Part_49_2009091254.1560769539872
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Get your customized insurance quote
+
+http://www.ws-wr.com/bobbins-equators/d145M239B5J8KD613c1f87W3q4389S24GisrbgD_tDhfiwhbrHbDErIx8yRWnedQn7z1K0SwR5CUihB
+
+
+
+Update Preferences- http://www.ws-wr.com/1794p2395RB86u17Bw1wMgf8Q75Q4389I24sisrbgD_tDhfiwhbrHbDErIx8ORWnedQn6RJs1t06QBMiyh/individualizes-Tahiti
+
+------=_Part_49_2009091254.1560769539872
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type" =
+/>=20
+  <title>Liberty Mutual</title>=20
+  <style type=3D"text/css">sup {
+vertical-align: baseline;=20
+position: relative;=20
+top: -0.9em;=20
+=09=09
+
+}
+=09.mobile-only{
+=09=09display: none;=20
+=09=09visibility: hidden;=20
+=09=09height: 0px;=20
+=09=09overflow: hidden;=20
+=09=09mso-hide:all;=20
+=09}
+=09
+=09@media only screen and (max-width: 480px) {
+=09=09.mobile1{
+=09=09=09font-size: 10px !important; }
+=09=09.mobile2{
+=09=09=09font-size: 21px !important;=20
+=09=09=09line-height: 27px !important;=20
+=09=09}
+=09=09
+=09=09.mobile-only{
+=09=09=09display: table-row!important;=20
+=09=09=09visibility: visible !important;=20
+=09=09=09height: inherit !important;=20
+=09=09=09
+=09=09}
+=09=09.desk-only{
+=09=09=09display: none !important;=20
+=09=09=09visibility: hidden !important;=20
+=09=09=09height: 0px !important;=20
+=09=09=09overflow: hidden !important;=20
+=09=09}
+=09=09.headline{
+=09=09=09text-align: left !important;=20
+=09=09}
+=09=09.bg_adjust{
+=09=09=09background-size: cover !important;=20
+=09=09}
+=09=09.hero{
+=09=09=09height:200px !important;=20
+=09=09}
+=09=09
+=09}
+=09
+=09@media screen yahoo{
+=09=09.yahoo-fix{
+=09=09=09min-height: 367px !important;=20
+=09=09}
+=09}
+=09</style>=20
+ </head>=20
+ <body style=3D"background-color:#e0e0e0; font-family:'Roboto', sans-serif;=
+ " width=3D"100%">=20
+  <center>=20
+   <h3><strong><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih">Get your customized insurance quote<=
+/a></strong></h3>=20
+  </center>=20
+  <!--[if mso]>
+=09<style type=3D"text/css">
+=09body, table, td, a, h1 {font-family: Arial, Helvetica, sans-serif !impor=
+tant; }
+=09</style>
+=09<![endif]-->=20
+  <table align=3D"center" bgcolor=3D"#e0e0e0" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td>
+      <!--[if mso]>
+=09=09=09=09 <center>
+=09=09=09=09 <table width=3D"600"><tr width=3D"600"><td width=3D"600">
+=09=09=09=09<![endif]-->=20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-=
+width:600px; margin:auto; " width=3D"100%">
+       <!-- Logo: BEGIN-->=20
+       <tbody>=20
+        <tr bgcolor=3D"#FFD000" height=3D"20">=20
+         <td bgcolor=3D"#FFD000">&nbsp; </td>=20
+        </tr>=20
+        <tr align=3D"center" bgcolor=3D"#FFD000" style=3D"background-color:=
+ #FFD000; " width=3D"100%">=20
+         <td><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih"><img alt=3D"Liberty Mutual Insurance" b=
+order=3D"0" src=3D"http://www.ws-wr.com/5b15J23z95zJ7Wa13W1Xf877n4389A24aisrbgD_tDhfiwhbrHbDErIx8LRWnedQn6yIN1i05H1Tih/telegraphs-Piedfort" style=3D"width: 100%; max-width: 160px; dis=
+play: block; border: 0px; max-height:41px; " width=3D"160" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#FFD000" height=3D"20">=20
+         <td bgcolor=3D"#FFD000">&nbsp; </td>=20
+        </tr>=20
+        <!-- Logo: END-->
+        <!-- Button ROW: BEGIN-->=20
+        <tr bgcolor=3D"#ffffff">=20
+         <td bgcolor=3D"#ffffff"><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih"><img alt=3D"Liberty=
+ Mutual Insurance" border=3D"0" height=3D"auto" src=3D"http://www.ws-wr.com/scampering-generosity/3d25X23V95kU7ak13D1fl878M4389x24misrbgD_tDhfiwhbrHbDErIx8hRWnedQn7m1Gou0C6SNihpM" style=
+=3D" display: block; border: 0px; max-height:318px; " width=3D"100%" /></a>=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:31px; line-height: 36px; color:#1a1446; font-weight:400; height: 34px; pad=
+ding:0 12%; ">We customize.<br /> You could <span style=3D"font-weight:700;=
+ ">save $509</span>.</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; height: 34px; pad=
+ding:0 14%; ">Let us customize your coverage so you only pay for what you n=
+eed -- and save. Plus, you can lock in your savings for the whole year with=
+ our 12-Month Rate Guarantee.</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0; ">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-weig=
+ht:bold; "><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih"><img alt=3D"Get a quote" border=3D"0" src=
+=3D"http://www.ws-wr.com/f2f6q23nn95is7Ka12b1f879Q4389B24qisrbgD_tDhfiwhbrHbDErIx8vRWnedQn5b1G0G6QlUiWh/telegraphs-Piedfort" style=3D"width: 100%; max-width: 260px; display: block; bo=
+rder: 0px; max-height:40px; " width=3D"260" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"25" style=3D"font-size:0px; line-=
+height: 0; ">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; color:#1a1446; font-weight:700; ">or call <a href=3D"http://www.ws-wr.com/Nazareth-sneers/bca6An239h5z86FU13m1f8q74W4389K24KisrbgD_tDhfiwhbrHbDErIx8YRWnedQn6e1Qg0R6RXzihj" sty=
+le=3D"text-decoration:none; color:inherit; ">1-</a>844-774-4668</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"5" style=3D"font-size: 0px; ">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; color:#1a1446; font-weight:700; ">Other benefits you'll love:</td>=
+=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30">=20
+         <td bgcolor=3D"#ffffff"><img alt=3D"" border=3D"0" height=3D"1" />=
+</td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" class=3D"desk-only" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; padding:0 12%; ">=
+=20
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" width=3D"100%">=20
+           <tbody>=20
+            <tr align=3D"center" width=3D"100%">=20
+             <td align=3D"center"><img alt=3D"" border=3D"0" src=3D"=
+http://www.ws-wr.com/cumulative-blouses/a624z2395b7aJN17o1Hfm8q7zavJ4389B24fisrbgD_tDhfiwhbrHbDErIx8uRWnedQn5Qo10_5U@Mih" style=3D"width: 100%; max-width: 75px; display: block; border: 0px; m=
+ax-height:75px; " width=3D"75" /></td>=20
+             <td><img alt=3D"" border=3D"0" src=3D"http://www.ws-wr.com/duplicable-Blinn/cf65P239m5KgX7a17y1f8MS7FbCRg4389q24JisrbgD_tDhfiwhbrHbDErIx8KRWnedQn6Pwqk105zOqih" style=3D"wi=
+dth: 100%; max-width: 75px; display: block; border: 0px; max-height:75px; "=
+ width=3D"75" /></td>=20
+            </tr>=20
+            <tr height=3D"25" width=3D"100%">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+            <tr align=3D"center" style=3D"color:#343741; " width=3D"100%">=
+=20
+             <td>Accident Forgiveness</td>=20
+             <td>New Car Replacement? </td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <!--[if gte mso 9]>
+=09=09=09=09=09<div style=3D"display:none; overflow:hidden; max-height:0px;=
+ mso-hide:all; ">
+=09=09=09=09  <![endif]-->=20
+        <tr bgcolor=3D"#ffffff" class=3D"mobile-only" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-size=
+:14px; line-height: 18px; color:#343741; font-weight:400; padding:0 12%; " =
+width=3D"100%">=20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"p=
+resentation" style=3D"mso-hide:all; " width=3D"100%">=20
+           <tbody>=20
+            <tr align=3D"center" width=3D"100%">=20
+             <td align=3D"center"><img alt=3D"" border=3D"0" src=3D"=
+http://www.ws-wr.com/4c15nX2395bCJ7a12j1f87cm4389N24XisrbgD_tDhfiwhbrHbDErIx8gRWnedQn5n1vt06aNXihj/scampering-generosity" style=3D"width: 100%; max-width: 75px; display: block; border: 0px; m=
+ax-height:75px; " width=3D"75" /></td>=20
+             <td>Accident Forgiveness</td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+            <tr align=3D"center" style=3D"color:#343741; " width=3D"100%">=
+=20
+             <td><img alt=3D"" border=3D"0" src=3D"http://www.ws-wr.com/8db5q239n5l7Dag17n1f87GdiqOJj4389h24uisrbgD_tDhfiwhbrHbDErIx8JRWnedQn5yo1n06k3@Tih/belay-Sylvania" style=3D"wi=
+dth: 100%; max-width: 75px; display: block; border: 0px; max-height:75px; "=
+ width=3D"75" /></td>=20
+             <td>New Car Replacement? </td>=20
+            </tr>=20
+            <tr height=3D"25">=20
+             <td colspan=3D"2">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <!--[if gte mso 9]>
+=09=09=09=09=09</div>
+=09=09=09=09  <![endif]-->=20
+        <tr bgcolor=3D"#ffffff" width=3D"100%">=20
+         <td align=3D"center" style=3D" mso-height-rule: exactly; font-weig=
+ht:bold; "><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih"><img alt=3D"Get a quote" border=3D"0" src=
+=3D"http://www.ws-wr.com/scampering-generosity/d6e5P23Y95K7Mra12L1f87eo4389_24wisrbgD_tDhfiwhbrHbDErIx8ORWnedQn6q_1_0z5sqXih" style=3D"width: 100%; max-width: 260px; display: block; bo=
+rder: 0px; max-height:40px; " width=3D"260" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size:0px; line-=
+height: 0px; ">=20
+         <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height: 0; ">=
+&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#ffd000" height=3D"5" style=3D"font-size: 0px; ">=20
+         <td bgcolor=3D"#ffd000">&nbsp; </td>=20
+        </tr>=20
+        <!-- Footer : Begin -->=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"20">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr align=3D"center" bgcolor=3D"#f5f5f5" style=3D"background-color:=
+ #f5f5f5; " width=3D"100%">=20
+         <td><a href=3D"http://www.ws-wr.com/telegraphs-Piedfort/e9a6Wl23J95L8w6N13K1Zf873x4389o24misrbgD_tDhfiwhbrHbDErIx8dRWnedQn7H1sK0tK5q32ih"><img alt=3D"Liberty Mutual Insurance" b=
+order=3D"0" src=3D"http://www.ws-wr.com/9cb6av239K5RG7ra17RB1f8Lt7fSuy4389z24zisrbgD_tDhfiwhbrHbDErIx8fRWnedQn7Y10DmTX5klihy/telegraphs-Piedfort" style=3D"width: 100%; max-width: 160px; dis=
+play: block; border: 0px; max-height:42px; " width=3D"160" /></a></td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"40">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" style=3D"background-color: #f5f5f5; " width=
+=3D"100%">=20
+         <td>=20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">=20
+           <tbody>=20
+            <tr width=3D"100%">=20
+             <td width=3D"9%">&nbsp; </td>=20
+             <td align=3D"left" style=3D"font-size:10px;   color:#808080; l=
+ine-height: 12px; mso-height-rule: exactly; " valign=3D"middle">$509 Auto s=
+avings figure: Average savings based on countrywide survey of new customers=
+ from 8/1/16 to 8/1/17 who reported savings from prior premiums when they s=
+witched to Liberty Mutual. Savings comparison does not apply in MA.<br /> <=
+br /> Accident Forgiveness: ACCIDENT FORGIVENESS NOT AVAILABLE IN CA. Terms=
+ and conditions apply<br /> <br /> New Car Replacement? and Better Car Repl=
+acement? : Optional coverage in some states. Availability varies by state. =
+Eligibility rules apply.<br /> <br /> Coverage provided and underwritten by=
+ Liberty Mutual Insurance and its affiliates, 175 Berkeley Street, Boston, =
+MA 02116 USA.<br /> <br /> This email was sent to you on behalf of Liberty =
+Mutual by a third-party marketing company. You are receiving email from thi=
+s third-party marketing company because you have previously expressed your =
+interest in receiving commercial email through a site or sites associated w=
+ith them.<br /> <br /> &copy; 2019 Liberty Mutual Insurance<br /> <br /> Th=
+is email message contains information regarding products and services offer=
+ed by Liberty Mutual Insurance Company.If you do not wish to receive email =
+messages from Liberty Mutual that are advertising or promotional in nature,=
+ please <a href=3D"http://www.ws-wr.com/cumulative-blouses/9545R23l95c8zr617i1NfmQ8GZ75r4389A24misrbgD_tDhfiwhbrHbDErIx8CRWnedQn7UroRP106yliz@h" style=3D"color:#808080; ">unsubscribe here.<=
+/a></td>=20
+             <td width=3D"9%">&nbsp; </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr bgcolor=3D"#f5f5f5" height=3D"40">=20
+         <td bgcolor=3D"#f5f5f5">&nbsp; </td>=20
+        </tr>=20
+        <!-- Footer : END -->=20
+       </tbody>=20
+      </table>=20
+      <!--[if mso]>
+=09=09=09=09 </td></tr></table>
+=09=09=09=09 </center>
+=09=09=09=09<![endif]--><br /> &nbsp; </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br /> &nbsp;=20
+  <center>
+   <br />=20
+   <a href=3D"http://www.ws-wr.com/duplicable-Blinn/9cc4L2395rKj8917O1golfG87O6n4389V24tisrbgD_tDhfiwhbrHbDErIx8URWnedQn5P1HH06vyziOh" target=3D"_blank"><img border=3D"0" src=
+=3D"http://www.ws-wr.com/5755Iq2395Rp7_a12p1f880m4389C24uisrbgD_tDhfiwhbrHbDErIx8ERWnedQn6yl10mC6c@ik3h/metric-subsidize" /></a>
+  </center> <img src=3D"http://www.ws-wr.com/b156o239Rj5Fr85H12L1f881A4389z24yisrbgD_tDhfiwhbrHbDErIx8HRWnedQn7FUGAT105u@Jih/Nazareth-sneers" alt=3D""/> =20
+ </body>
+</html>
+
+------=_Part_49_2009091254.1560769539872--
+

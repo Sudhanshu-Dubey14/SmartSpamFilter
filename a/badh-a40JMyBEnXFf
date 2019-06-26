@@ -1,0 +1,80 @@
+Return-Path: <ocs@icat.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <farooq_ahmad@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a40JMyBEnXFf>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a40JMyBEnXFf for <farooq_ahmad@mslindia.net>;
+	Wed,  6 Jan 2016 14:42:18 +0530 (IST)
+Received: from s12p02o144.mxlogic.net (s12p02o144.mxlogic.net [208.65.145.67])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C8816EC3BAB
+	for <farooq_ahmad@jcbl.com>; Wed,  6 Jan 2016 14:42:03 +0530 (IST)
+Received: from unknown [111.93.38.214] (EHLO mail.icat.in)
+	by s12p02o144.mxlogic.net(mxl_mta-8.5.0-4)
+	with ESMTP id f8adc865.0.3979.00-378.9867.s12p02o144.mxlogic.net (envelope-from <ocs@icat.in>);
+	Wed, 06 Jan 2016 02:13:05 -0700 (MST)
+X-MXL-Hash: 568cdaa1257b76e1-d72089e4c82605d9ec60d26469beb094687622ac
+Received: from Application ([172.168.0.33])
+	by mail.icat.in (mail.icat.in)
+	(MDaemon PRO v12.5.4)
+	with ESMTP id md50000433864.msg
+	for <farooq_ahmad@jcbl.com>; Wed, 06 Jan 2016 14:41:51 +0530
+X-Spam-Processed: mail.icat.in, Wed, 06 Jan 2016 14:41:51 +0530
+	(not processed: spam filter heuristic analysis disabled)
+X-MDRemoteIP: 172.168.0.33
+X-Return-Path: ocs@icat.in
+X-Envelope-From: ocs@icat.in
+X-MDaemon-Deliver-To: farooq_ahmad@jcbl.com
+From: ocs@icat.in
+To: farooq_ahmad@jcbl.com
+Message-ID: <13435085.561.1452070905786.JavaMail.root@Application>
+Subject: Property Submission
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-AnalysisOut: [v=2.1 cv=Oemee0nY c=1 sm=1 tr=0 a=WHeYMmTfOCK9R2Ck2FLjkQ==]
+X-AnalysisOut: [:117 a=WHeYMmTfOCK9R2Ck2FLjkQ==:17 a=YlVTAMxIAAAA:8 a=kj9z]
+X-AnalysisOut: [AlcOel0A:10 a=MKtGQD3n3ToA:10 a=ZZnuYtJkoWoA:10 a=gALyaK7l]
+X-AnalysisOut: [WIAA:10 a=7aQ_Q-yQQ-AA:10 a=D_DGkVccVewA:10 a=Ls6hAbikAAAA]
+X-AnalysisOut: [:8 a=Qd_qvA_1ZIQjpHvXvuAA:9 a=M-E5NtuNC0VJ94L4:21 a=3p09vt]
+X-AnalysisOut: [aydmficMpJ:21 a=wDSdOWXfm4uypO8d:21 a=CjuIK1q_8ugA:10 a=zd]
+X-AnalysisOut: [LjPD5MDysA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10]
+X-Spam: [F=0.5000000000; CM=0.500; MH=0.500(2016010603); S=0.235(2015072901)]
+X-MAIL-FROM: <ocs@icat.in>
+X-SOURCE-IP: [111.93.38.214]
+
+<body>
+<p>Dear mslindia,<br />
+  <br />
+  Docket Number : CCTNMSLILACML42751<br />
+  Name of Customer : M/s MOBILITY SOLUTIONS LTD<br />
+  Type of Case  : TYPE APPROVAL<br />
+  Category of Vehicle : NA<br />  
+  Remarks : `<br />  
+  
+  This mail is viding the information you have provided  concerning your test property submission at ICAT.<br />
+  <br />
+  
+  A receipt has been generated. Please take a copy of the  print during property submission at ICAT.<br />
+  <br />
+  <a href="http://iocs.icat.in/">Click here on the link</a><br />
+  <br />
+  You have to submit the test property at ICAT within 5  working days.<br />
+  <br />
+  Failing the case will be closed and the Processing fees will  be forfeited.<br />
+  <br />
+<br />
+  Regards,<br />
+ICAT</p>
+<p>
+<br /><br />
+	 This is a system generated e-mail. Please do not reply. In case of any concern, please e-mail the Customer Services Cell at team@icat.in with docket number reference.
+</p>
+</body>
+

@@ -1,0 +1,252 @@
+Return-Path: <bounce@rapidmailserver7.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <vivek_datta@globeauto.in>
+X-Envelope-To-Blocked: <vivek_datta@globeauto.in>
+X-Quarantine-ID: <a_qHg2ck1tOT>
+X-Spam-Flag: YES
+X-Spam-Score: 8.321
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.321 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_DKIM_INVALID=0.01, T_RP_MATCHES_RCVD=-0.01,
+	T_URIBL_SEM_FRESH_15=0.01, URIBL_DBL_SPAM=1.7, URIBL_PH_SURBL=0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a_qHg2ck1tOT for <vivek_datta@globeauto.in>;
+	Fri, 31 May 2019 14:17:08 +0530 (IST)
+Received: from server.rapidmailserver7.com (server.rapidmailserver7.com [162.241.41.201])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 23FF6F18B41
+	for <vivek_datta@jcbl.com>; Fri, 31 May 2019 14:17:00 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=rapidmailserver7.com; s=default; h=List-Id:List-Unsubscribe:Content-Type:
+	MIME-Version:To:Reply-To:From:Subject:Date:Message-ID:Sender:Cc:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:
+	Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:
+	References:List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=gG1+OXDC+LY6EF3e/Je9DXJFfkO65kpDGNsNWybW8bY=; b=gM+dg5c7usM/1mvTSop3h4e9H8
+	NGTh+TB6p6Z2lt+m1yGOUp+WKHn8ZBK3ACgxblTbgV7ZluvpKRYg4q+gBi2Kg4s43WpVzWjtWAq1Q
+	y9IWJ8E4NwgTOnrVw2xKXYFW7sIr15z4+fAGUAyR9LD8VhhmCvDfVx6b3vJUyhYmQwDe+jW3J3upU
+	0I/OCvPS6FSU8F6phhOrH4l5iYlQnPZxtKouBoYOHxotgtZYoxVtz8tGLcmEemy9WC82uouSkoi1W
+	l45gG/860QTYnlDdKGLVWDg+XbiLWX+d0bWqfXAaZFx4LF2ucROUAL0WABNKJVuxTomLcU2PW/TsQ
+	JuZfAriw==;
+Received: from [162.241.176.47] (port=59220 helo=webmailrapid.com)
+	by server.rapidmailserver7.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounce@rapidmailserver7.com>)
+	id 1hWdBr-0000WL-Sf
+	for vivek_datta@jcbl.com; Fri, 31 May 2019 02:47:07 -0600
+Message-ID: <0c7dcb1d25bd81db346c7475e0c4f2d0@rapidmailserver7.com>
+Date: Fri, 31 May 2019 08:47:08 +0000
+Subject: RE: April 2019 Export Import Data from daily list of Indian Port
+ Shipping
+From: Ananya / TGPL <ananya@rapidmailserver7.com>
+Reply-To: Ananya / TGPL <ananya@tradegeniusindia.com>
+To: "vivek_datta@jcbl.com" <vivek_datta@jcbl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1559292428_949a9379eb72f0fa997ebfba3f9e9075_=_"
+X-Sender: bounce@rapidmailserver7.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://webmailrapid.com/mail/index.php/campaigns/nk524alocr723/report-abuse/ey8138n21yb56/kr4642031v0e2
+X-Receiver: vivek_datta@jcbl.com
+X-Apfc-Tracking-Did: 0
+X-Apfc-Subscriber-Uid: kr4642031v0e2
+X-Apfc-Mailer: SwiftMailer - 5.4.x
+X-Apfc-EBS: http://webmailrapid.com/mail/index.php/lists/block-address
+X-Apfc-Delivery-Sid: 19
+X-Apfc-Customer-Uid: pq901qvsndf83
+X-Apfc-Customer-Gid: 0
+X-Apfc-Campaign-Uid: nk524alocr723
+Precedence: bulk
+List-Unsubscribe: <http://webmailrapid.com/mail/index.php/lists/ey8138n21yb56/unsubscribe/kr4642031v0e2/nk524alocr723/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:ananya@tradegeniusindia.com?subject=Campaign-Uid:nk524alocr723 /
+ Subscriber-Uid:kr4642031v0e2 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: ey8138n21yb56 <110094 to 410210-NA-G-Y_20 TGPL>
+Feedback-ID: nk524alocr723:kr4642031v0e2:ey8138n21yb56:pq901qvsndf83
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.rapidmailserver7.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - rapidmailserver7.com
+X-Get-Message-Sender-Via: server.rapidmailserver7.com: authenticated_id: ananya@rapidmailserver7.com
+X-Authenticated-Sender: server.rapidmailserver7.com: ananya@rapidmailserver7.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+--_=_swift_v4_1559292428_949a9379eb72f0fa997ebfba3f9e9075_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+India Import Export Data 2019
+Dear Vivek Datta,
+Greetings of the day!=
+
+Export and Import Shipment data with buyers and Suppliers details is
+n=
+ow available for more than 30+ Foreign Countries.
+Beat the competition an=
+d grow your business with our 100% accurate &
+economical database which i=
+s trusted by more than 5000+ companies
+across the globe as a choice of th=
+e business development tool.
+Make knowledge-driven decisions, instead of =
+relying on hunches, to
+clinch high-margin profit-growth. Please submit re=
+quest for sample
+data for more details.
+=C2=A0
+Sample Request
+Globa=
+l Export Import Database
+Click here
+http://webmailrapid.com/mail/index.=
+php/campaigns/nk524alocr723/track-url/kr4642031v0e2/b793d1b39a7810e77d47bba=
+f362a59ca3ea1ecc3
+Discovering new & high margin buyers and new suppliers,=
+ exploring new
+potential and high growth markets, anticipating threats in=
+ your
+business and locating the underlying patterns and opportunities
+w=
+orldwide have never been so easy. A sure shot way to a double-digit
+busin=
+ess growth!
+Ask for a free demo report on your HS code/ Product for the f=
+ollowing
+countries:
+China, USA, Russia, Vietnam, Indonesia, Sri Lanka, =
+Korea, All the
+Latin American countries, Ukraine, Pakistan and many more.=
+
+Drop a line of your requirement at below required details and we will
+=
+be glad to assist you. Your Name:
+Your Contact Number:
+Your Company Nam=
+e:
+Assuring you the best of our services.
+With Best Regards --
+Ms. An=
+anya (Senior BDE)
+Trade Genius India
+(New Delhi)
+Contact: +91-8130246=
+989
+Email: ananya@tradegeniusindia.com
+Web: www.tradegeniusindia.com
+=
+http://webmailrapid.com/mail/index.php/campaigns/nk524alocr723/track-url/kr=
+4642031v0e2/fb979b9d033fae9cf8bfd2462f3c13246d4537f3
+--------------------=
+-----
+UNSUBSCRIBE
+http://webmailrapid.com/mail/index.php/campaigns/nk52=
+4alocr723/track-url/kr4642031v0e2/dffee96db42cd4602206d342dcbf1cc05580726a,=
+
+Trade Genius, Central Delhi, New Delhi, 110023, India
+
+--_=_swift_v4_1559292428_949a9379eb72f0fa997ebfba3f9e9075_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title></title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">India Import Export Data 2019</span>
+<div style=3D"color: #1D2887; font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: 15px">Dear Vivek Datta,
+<p>Greetings of the day!</p>
+
+<p><strong>Export and Import Shipment data with buyers and Suppliers detail=
+s is now available for more than 30+ Foreign Countries.</strong></p>
+
+<p>Beat the competition and grow your business with our 100% accurate & eco=
+nomical database which is trusted by more than 5000+ companies across the g=
+lobe as a choice of the business development tool.</p>
+
+<p>Make knowledge-driven decisions, instead of relying on hunches, to clinc=
+h high-margin profit-growth.<strong> Please submit request for sample data =
+for more details.</strong></p>
+
+<table>
+=09<tbody>
+=09=09<tr style=3D"padding: 0px">
+=09=09=09<td style=3D"background-color: #e34f00; height: 50px; width: 2px">=
+=C2=A0</td>
+=09=09=09<td style=3D"height: 50px; padding: 0 0 0 7px"><u style=3D"color: =
+#091e3d; font-family: 'Calibri Light'; font-size: 25px; font-style: italic;=
+ text-decoration: underline">Sample Request</u><br />
+=09=09=09<span style=3D"font-family: 'Courier New',Courier,monospace; font-=
+size: 14px; font-weight: 600">Global Export Import Database</span></td>
+=09=09=09<td style=3D"height: 50px">
+=09=09=09<div style=3D"box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px=
+ 0 rgba(0,0,0,0.19); margin: 5px"><a href=3D"http://webmailrapid.com/mail/i=
+ndex.php/campaigns/nk524alocr723/track-url/kr4642031v0e2/b793d1b39a7810e77d=
+47bbaf362a59ca3ea1ecc3" rel=3D"noreferrer" target=3D"_blank" title=3D"Sampl=
+e Data Request Form"><span style=3D"background-color: #f8951d; border-radiu=
+s: 4px; border: none; color: white; display: inline-block; font-weight: 600=
+; margin: 0px -3px; padding: 15px 32px; text-align: center; text-decoration=
+: none; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2)">Click here</span></a></d=
+iv>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<p>Discovering new & high margin buyers and new suppliers, exploring new po=
+tential and high growth markets, anticipating threats in your business and =
+locating the underlying patterns and opportunities worldwide have never bee=
+n so easy. A sure shot way to a double-digit business growth!</p>
+
+<p><strong>Ask for a free demo report on your HS code/ Product for the foll=
+owing countries:</strong></p>
+
+<p>China, USA, Russia, Vietnam, Indonesia, Sri Lanka, Korea, All the Latin =
+American countries, Ukraine, Pakistan and many more.</p>
+
+<p>Drop a line of your requirement at below required details and we will be=
+ glad to assist you.</p>
+<span style=3D"font-weight: 600; line-height: 25px">Your Name:<br />
+Your Contact Number:<br />
+Your Company Name: </span>
+
+<p>Assuring you the best of our services.</p>
+
+<p>With Best Regards</p>
+<span style=3D"font-family: 'Calibri Light'; font-size: 15px; line-height: =
+20px">--<br />
+<strong>Ms. Ananya (Senior BDE)</strong><br />
+<span style=3D"font-family: 'Arial Black'; font-size: 15px">Trade Genius In=
+dia<br />
+(New Delhi)</span><br />
+<strong>Contact: +91-8130246989</strong><br />
+<strong>Email: <a href=3D"mailto:ananya@tradegeniusindia.com" onclick=3D"re=
+turn rcmail.command('compose','ananya@tradegeniusindia.com',this)" rel=3D"n=
+oreferrer">ananya@tradegeniusindia.com</a></strong><br />
+<strong>Web: <a href=3D"http://webmailrapid.com/mail/index.php/campaigns/nk=
+524alocr723/track-url/kr4642031v0e2/fb979b9d033fae9cf8bfd2462f3c13246d4537f=
+3" rel=3D"noreferrer" target=3D"_blank">www.tradegeniusindia.com</a></stron=
+g></span>
+
+<hr /><a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"http://webmailrapid.co=
+m/mail/index.php/campaigns/nk524alocr723/track-url/kr4642031v0e2/dffee96db4=
+2cd4602206d342dcbf1cc05580726a">UNSUBSCRIBE</a>, Trade Genius, Central Delh=
+i, New Delhi, 110023, India</div>
+<img width=3D"1" height=3D"1" src=3D"http://webmailrapid.com/mail/index.php=
+/campaigns/nk524alocr723/track-opening/kr4642031v0e2" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_v4_1559292428_949a9379eb72f0fa997ebfba3f9e9075_=_--
+

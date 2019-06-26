@@ -1,0 +1,57 @@
+Return-Path: <survey@likes.dazzlecam.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <mktho@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aQ6Qbdc1-QXz>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aQ6Qbdc1-QXz for <mktho@mslindia.net>;
+	Sat, 26 Mar 2016 03:27:54 +0530 (IST)
+Received: from mta4.likes.dazzlecam.com (likes.dazzlecam.com [69.30.252.21])
+	by mx10.jcbl.com (Postfix) with SMTP id 05A79ED00FD
+	for <mktho@mslindia.net>; Sat, 26 Mar 2016 03:27:51 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=likes.dazzlecam.com;
+  h=To:Date:Message-ID:Received:From:Subject:Date:MIME-Version:Content-type;
+  b=bCKeV1C4vN9k6phzC9/4kmz2VWyhz9lI9UNRKepZvWH0d5x6nkd/oPDiGUvMXpop82iWFRnUO/OIKRPBsKLHcdcO1S/otEtVnoLgO1vEKiQT7FKSjs5UwufpA7g+opb7;
+Date: Fri, 25 Mar 2016 17:03:31 -0600
+To: <mktho@mslindia.net>
+Message-ID: <bqfj.jfio@likes.dazzlecam.com>
+Received: (from root@localhost)
+     by likes.dazzlecam.com (8.14.4/8.14.2/Submit) id mz81610;
+     25 Mar 2016 17:03:31 -0500
+     (envelope-from root)
+From: "Surveys Today" <survey@likes.dazzlecam.com>
+Subject: Participate in a short 30-second survey about Walmart
+Date: 25 Mar 2016 17:03:31 -0500
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+
+<div>
+<p><span style="font-size:10pt">Take
+an easy 2 minute online
+store survey for your chance to win a $50.00 Walmart Gift Card.</span></p>
+<p><span style="font-size:10pt">Everyone
+loves giving their
+opinion.  Why not have a chance to be rewarded for yours!</span></p>
+
+<p><span style="font-size:10pt">Just
+<a style="font-weight:bold" href="http://likes.dazzlecam.com/27mz81610y1" target="_blank">CLICK HERE</a> now to begin.</span></p>
+</div></body></html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Change preferences by visiting <a href="http://likes.dazzlecam.com/?e=mktho@mslindia.net">here</a><br>
+
+729 Grantham Lane - 12521,Building 2 - Bay D, New Castle, DE 19720
+</font>
+</div>
+

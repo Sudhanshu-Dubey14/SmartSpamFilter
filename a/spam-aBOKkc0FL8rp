@@ -1,0 +1,1158 @@
+Return-Path:
+	<0100016753e22c33-92a67ee1-80b6-4eb3-9dca-14e16fbc6e19-000000@amazonses.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <shyam_lal@jcbl.com>
+X-Envelope-To-Blocked: <shyam_lal@jcbl.com>
+X-Quarantine-ID: <aBOKkc0FL8rp>
+X-Spam-Flag: YES
+X-Spam-Score: 6.819
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.819 tag=2 tag2=6.31 kill=6.31 tests=[AM.WBL=5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MPART_ALT_DIFF=0.724, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aBOKkc0FL8rp for <shyam_lal@jcbl.com>;
+	Tue, 27 Nov 2018 12:06:05 +0530 (IST)
+Received: from a10-53.smtp-out.amazonses.com (a10-53.smtp-out.amazonses.com [54.240.10.53])
+	by mx10.jcbl.com (Postfix) with ESMTPS id E2699F4B515
+	for <shyam_lal@jcbl.com>; Tue, 27 Nov 2018 12:05:20 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=lwccibcoezguwz6bzqxxq3ge3apkvesq; d=cxesnapdeal.in; t=1543300590;
+	i=@crm.cxesnapdeal.in;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=bHt3YuhBu9/6WM0Yd8Ak3N8RV0Y5YSjsNbrQAixLPks=;
+	b=PWyNACLrLLpVPT74jpbEGWHZ9Kr14VaEqirkBPvs8O1SlSyt53390l5zw7n+gqZl
+	525aUKB5TA4/c7m5DpwDq2DF4W8v5QIbgdfoUilw2laAQ++D7GXz8IU9o4I6Z4S2Fob
+	0TP7Iccpqc3R0gE2y96hGbrHfV0i0ebp2aqI7Oxg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1543300590;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=bHt3YuhBu9/6WM0Yd8Ak3N8RV0Y5YSjsNbrQAixLPks=;
+	b=EX0PT7+IHhpVyNJd9FFnq7E2I2NfPtLiqKwdww2ZWBz7aESsumsJfncA28NqY13M
+	HH78x4vhc3eorS9HATWLHLsYKHTf/BRekIMNtTsLqOTm6FLNHY3KW5jIsVCOPKQMdO1
+	pUuSxFAPpGs69H6QwBGBEjXzl+8+1u0IqKr5w0ek=
+From: Snapdeal <offers@crm.cxesnapdeal.in>
+Reply-To: offers@crm.cxesnapdeal.in
+To: shyam_lal@jcbl.com
+Message-ID: <0100016753e22c33-92a67ee1-80b6-4eb3-9dca-14e16fbc6e19-000000@email.amazonses.com>
+Subject: =?UTF-8?Q?Hi_SHYAM_LAL,_Get_upto_60%_off._=E2=A4=A4Top_Trending_Deals?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3711001_1383737475.1543300589824"
+Date: Tue, 27 Nov 2018 06:36:30 +0000
+X-SES-Outgoing: 2018.11.27-54.240.10.53
+Feedback-ID: 1.us-east-1.AzN9NGPtVjW6AwALkNWWUx+HDVs74iHqCK9FNf5d0ew=:AmazonSES
+
+------=_Part_3711001_1383737475.1543300589824
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3711002_1375328962.1543300589824"
+
+------=_Part_3711002_1375328962.1543300589824
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://snapdealmail03.in/op/1543300589824/?xc-trgId=3D0pGCk4fsM=
+_iLQWTSRXYgCw..&xc-email=3DFEGOdt9b-TTiVuhngqhtKLrZowiC9Bxy&xc-tstmp=3Dtfr5=
+SF9oSmrEpdv4RZrAG5bjtsTNByu8" width=3D"1" height=3D"1"/>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"https://www.w3.org/1999/xhtml">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+ </head>
+ <body>
+  <style type=3D"text/css">img { max-width: 100%;}u span {height:0px; line-=
+height:0px;}table td {border-collapse:collapse !important; mso-table-lspace=
+:0px !important; mso-table-rspace:0px !important;}p {margin:0px!important; =
+padding:0px !important;}.MsoNormal {margin:0px!important; padding:0px !impo=
+rtant;}</style>
+  <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" bgcolor=3D"#f=
+fffff" style=3D"max-width:640px; min-width:320px; border-bottom:1px solid #=
+e0e0e0">=20
+   <tbody>
+    <tr>=20
+     <td height=3D"20">
+      <table width=3D"60%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"left">=20
+       <tbody>
+        <tr>=20
+         <td style=3D"color:#999999; text-align:left; font-family:Arial,Hel=
+vetica,sans-serif; font-size:10px;">5% off using HDFC Bank debit cards.</td=
+>=20
+        </tr>=20
+       </tbody>
+      </table></td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" height=3D"65" bgcolor=3D"#ffffff" style=3D"border=
+-top:4px solid #ff2341;"><a href=3D"https://www.snapdeal.com/?aff_id=3D9237=
+3&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_to=
+ptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_381=
+9_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_=
+term=3Dtoptrendingdeals_entire_bulk_20181127_Logo" target=3D"_blank"><img s=
+rc=3D"https://i1.sdlcdn.com/static/img/marketing-mailers/mailer/2016/UserGr=
+owth/sdnewth/images/snapdeal-logo.png" alt=3D"Snapdeal" style=3D"border:0;"=
+ width=3D"145" height=3D"30" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"7" style=3D"border-top:1px solid #ebe9e9;"><img src=3D"h=
+ttps://i1.sdlcdn.com/img/marketing-mailers/mailer/2015/diwali_saree_16oct/i=
+mages/zero_694.gif" width=3D"1px" style=3D"width:1px;" /></td>=20
+    </tr>=20
+    <tr>=20
+     <td>
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Calibri,arial; font-size:13px !important; color:#606=
+060;">=20
+       <tbody>
+        <tr>=20
+         <td width=3D"100" align=3D"center" style=3D"font-family:Arial,Helv=
+etica,sans-serif; font-size:12px !important; color:#606060;"><a href=3D"htt=
+ps://www.snapdeal.com/offers/car_store?aff_id=3D92373&amp;utm_source=3DDail=
+yNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_b=
+ulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campa=
+ign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals=
+_entire_bulk_20181127_navi1" target=3D"_blank" style=3D"color:#606060; text=
+-decoration:none; display:block;">Car &amp; Bike Accessories</a></td>=20
+         <td width=3D"9" style=3D"border-right:1px solid #ebe9e9"></td>=20
+         <td width=3D"100" align=3D"center" style=3D"font-family:Arial,Helv=
+etica,sans-serif; font-size:12px !important; color:#606060;">
+          <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;=
+}--> <a href=3D"https://www.snapdeal.com/offers/deal-of-the-day?aff_id=3D92=
+373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_=
+toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3=
+819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;ut=
+m_term=3Dtoptrendingdeals_entire_bulk_20181127_navi2" target=3D"_blank" sty=
+le=3D"color:#606060; text-decoration:none; display:block;">Daily Deals</a><=
+/td>=20
+         <td width=3D"9" style=3D"border-left:1px solid #ebe9e9"></td>=20
+         <td width=3D"100" align=3D"center" style=3D"font-family:Arial,Helv=
+etica,sans-serif; font-size:12px !important; color:#606060;"><a href=3D"htt=
+ps://www.snapdeal.com/products/sports-hobbies-sports?q=3DOccasion_s%3ADiwal=
+i7%7ChpsaScore_tf1%3A1%7C&amp;showAds=3Dfalse&amp;sort=3Dplrty&amp;aff_id=
+=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_=
+sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18=
+626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&a=
+mp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_navi3" target=3D"_blank=
+" style=3D"color:#606060; text-decoration:none; display:block;">Stay warm, =
+Stay Fit </a></td>=20
+        </tr>=20
+       </tbody>
+      </table></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"7" style=3D"border-bottom:1px solid #ebe9e9;"><img src=
+=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/2015/01june2015/Mark=
+eting-design/zero_688.gif" width=3D"1px" style=3D"width:1px;" /></td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center"><a href=3D"https://www.snapdeal.com/offers/top_tr=
+ending_deals?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_ent=
+ire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_head=
+er" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-maile=
+rs/mailer/2016/Ashutosh/toptrending_20181127_21.jpg" alt=3D"Top Trending De=
+als" style=3D"height:auto;" width=3D"100%" border=3D"0" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"10"></td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" style=3D"border:1px solid #d1d1d1;"><a href=3D"ht=
+tps://www.snapdeal.com/offers/hdfc-friday?aff_id=3D92373&amp;utm_source=3DD=
+ailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entir=
+e_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_ca=
+mpaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingde=
+als_entire_bulk_20181127_header2" target=3D"_blank"><img src=3D"https://i.s=
+dlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/halfpricestore_2018110=
+7_23.jpg" alt=3D"Bank Offer" style=3D"height:auto;" width=3D"100%" border=
+=3D"0" /></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"10"></td>=20
+    </tr>=20
+    <tr>=20
+     <td>
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"line-height:0px;">=20
+       <tbody>
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/home-kitchen?q=3DOccasion_s%3AOffer3%7C&amp;sort=3Dplrty&amp;aff_id=3D9237=
+3&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_to=
+ptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_381=
+9_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_=
+term=3Dtoptrendingdeals_entire_bulk_20181127_offer1" target=3D"_blank"><img=
+ src=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/to=
+ptrending_20181127_01.jpg" alt=3D"Soup Bowls and More" width=3D"100%" borde=
+r=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/decorative-stickers?sort=3Ddhtl&amp;q=3DBrand%3AAdmire%5EAsian%20Paints%5E=
+StickersKart%5Ewall%20dreams%7CPrice%3A89%2C249%7ChpsaScore_tf1%3A1%7C&amp;=
+aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter=
+_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_=
+419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_2018=
+1127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Offer2" target=3D=
+"_blank"> <img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/20=
+16/Ashutosh/toptrending_20181127_02.jpg" alt=3D"Beautiful Wall Stickers" wi=
+dth=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/sports-hobbies-fitness-accessories?q=3DOccasion_s%3ADiwali1%7C&amp;sort=3D=
+plrty&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3D=
+newsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_cont=
+ent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire=
+_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Offer3"=
+ target=3D"_blank"> <img src=3D"https://i1.sdlcdn.com/img/marketing-mailers=
+/mailer/2016/Ashutosh/toptrending_20181127_03.jpg" alt=3D"Fitness Accessori=
+es" width=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/hand-tools?q=3DOccasion_s%3AHardware2%7C&amp;sort=3Dplrty&amp;ShowAds=3DFa=
+lse&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dne=
+wsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_conten=
+t=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_b=
+ulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Offer4" t=
+arget=3D"_blank"> <img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/m=
+ailer/2016/Ashutosh/toptrending_20181127_04.jpg" alt=3D"Multi-Utility Hand =
+Tools" width=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/home-utility-organising-storage?q=3DOccasion_s%3AOrganizers12345%7C&amp;so=
+rt=3Dplrty&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medi=
+um=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm=
+_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_e=
+ntire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_of=
+fer5" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mai=
+lers/mailer/2016/Ashutosh/toptrending_20181127_05.jpg" alt=3D"Multipurpose =
+Storage Baskets" width=3D"100%" border=3D"0" style=3D"height:auto;" /></a><=
+/td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/appliances-choppers-blenders/filters/Occasion_s~Blenderoffer?sort=3Dplrty&=
+amp;q=3DOccasion_s%3ABlenderoffer%7C&amp;aff_id=3D92373&amp;utm_source=3DDa=
+ilyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire=
+_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_cam=
+paign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdea=
+ls_entire_bulk_20181127_Offer6" target=3D"_blank"> <img src=3D"https://i1.s=
+dlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/toptrending_20181127_0=
+6.jpg" alt=3D"Bestselling Kitchen Appliances" width=3D"100%" border=3D"0" s=
+tyle=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/blankets?sort=3Dplth&amp;q=3DFabric_s%3APolar%20Fleece%7ChpsaScore_tf1%3A1=
+%7C&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dne=
+wsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_conten=
+t=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_b=
+ulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offer7" t=
+arget=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/ma=
+iler/2016/Ashutosh/toptrending_20181127_07.jpg" alt=3D"Fleece Blankets" wid=
+th=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/bags-hiking-rucksacks?sort=3Dplth&amp;q=3DBrand%3ABleu%5EImpulse%5Eindian%=
+20Riders%5EMount%20Track%7C&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsle=
+tter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_201=
+81127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dt=
+optrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire=
+_bulk_20181127_Offer8" target=3D"_blank"> <img src=3D"https://i1.sdlcdn.com=
+/img/marketing-mailers/mailer/2016/Ashutosh/toptrending_20181127_08.jpg" al=
+t=3D"Hiking Bag &amp; Rucksacks" width=3D"100%" border=3D"0" style=3D"heigh=
+t:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/automotive?q=3DOccasion_s%3AOccasion8%7C&amp;sort=3Dplrty&amp;aff_id=3D923=
+73&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_t=
+optrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_38=
+19_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm=
+_term=3Dtoptrendingdeals_entire_bulk_20181127_offer9" target=3D"_blank"><im=
+g src=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/t=
+optrending_20181127_09.jpg" alt=3D"Anti Pollution Masks" width=3D"100%" bor=
+der=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/furniture?q=3DOccasion_s%3AOffer55%7CPrice%3A149%2C4999%7C&amp;sort=3Dplrt=
+y&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnews=
+letter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=
+=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bu=
+lk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Offer10" t=
+arget=3D"_blank"> <img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/m=
+ailer/2016/Ashutosh/toptrending_20181127_10.jpg" alt=3D"Affordabale furnitu=
+re-for Utility &amp; Decor" width=3D"100%" border=3D"0" style=3D"height:aut=
+o;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/home-kitchen-cutting-cooking-tools?q=3DOccasion_s%3AOffer2%7C&amp;sort=3Dp=
+lrty&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dn=
+ewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_conte=
+nt=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_=
+bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offer11"=
+ target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/=
+mailer/2016/Ashutosh/toptrending_20181127_11.jpg" alt=3D"Kitchen Tools, Com=
+bos, and More" width=3D"100%" border=3D"0" style=3D"height:auto;" /></a></t=
+d>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/home-kitchen-home-decor?q=3DOccasion_s%3ABrass%20Item%7C&amp;sort=3Dplth&a=
+mp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewslet=
+ter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DC=
+EE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_2=
+0181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Offer12" targe=
+t=3D"_blank"> <img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/maile=
+r/2016/Ashutosh/toptrending_20181127_12.jpg" alt=3D"Brass Gifting Items" wi=
+dth=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/sports-hobbies-sports?q=3DOccasion_s%3ADiwali7%7C&amp;sort=3Dplrty&amp;sho=
+wAds=3Dfalse&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_me=
+dium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;u=
+tm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals=
+_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_=
+offer13" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-=
+mailers/mailer/2016/Ashutosh/toptrending_20181127_13.jpg" alt=3D"Active Wea=
+r &amp; Running Shoes" width=3D"100%" border=3D"0" style=3D"height:auto;" /=
+></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/electrical-extension-cords?q=3DOccasion_s%3AHardware2%7C&amp;sort=3Dplrty&=
+amp;ShowAds=3DFalse&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp=
+;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cx=
+e&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendi=
+ngdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20=
+181127_offer14" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/mar=
+keting-mailers/mailer/2016/Ashutosh/toptrending_20181127_14.jpg" alt=3D"Ext=
+ension Cords &amp; Plug Tops" width=3D"100%" border=3D"0" style=3D"height:a=
+uto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/home-kitchen-pet-supplies?sort=3Dplrty&amp;q=3DBrand%3APedigree%5EWhiskas%=
+5EDrools%5ERoyal%20Canin%7C&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsle=
+tter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_201=
+81127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dt=
+optrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire=
+_bulk_20181127_offer15" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com=
+/img/marketing-mailers/mailer/2016/Ashutosh/toptrending_20181127_15.jpg" al=
+t=3D"Pedigree, Drools &amp; Royal Canin and Whiskas" width=3D"100%" border=
+=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/appliances-kitchen?q=3DOccasion_s%3AApplianceOffer%7C&amp;sort=3Dplth&amp;=
+aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter=
+_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_=
+419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_2018=
+1127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offer16" target=
+=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/=
+2016/Ashutosh/toptrending_20181127_16.jpg" alt=3D"Egg boilers, kettles and =
+slow juicer" width=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=
+=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/appliance-covers?sort=3Dplrty&amp;q=3DhpsaScore_tf1%3A1%7CType_s%3AAC%20Co=
+vers%7C&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_ent=
+ire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offe=
+r17" target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mail=
+ers/mailer/2016/Ashutosh/toptrending_20181127_17.jpg" alt=3D"AC Covers" wid=
+th=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/bags?q=3DOccasion_s%3AOS23%7C&amp;sort=3Dplrty&amp;aff_id=3D92373&amp;utm_=
+source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingd=
+eals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&=
+amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtop=
+trendingdeals_entire_bulk_20181127_offer18" target=3D"_blank"><img src=3D"h=
+ttps://i1.sdlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/toptrending=
+_20181127_18.jpg" alt=3D"Branded Gym Bags" width=3D"100%" border=3D"0" styl=
+e=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/automotive-car-care?sort=3Dplrty&amp;q=3DBrand%3ADR3M%7C&amp;aff_id=3D9237=
+3&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_to=
+ptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_381=
+9_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_=
+term=3Dtoptrendingdeals_entire_bulk_20181127_offer19" target=3D"_blank"><im=
+g src=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/t=
+optrending_20181127_19.jpg" alt=3D"Dr3M car cleaning Solutions" width=3D"10=
+0%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+             <td width=3D"50%"><a href=3D"https://www.snapdeal.com/products=
+/musical-recorders-mixers-microphones?sort=3Dplrty&amp;q=3DPrice%3A189%2C79=
+9%7C&amp;aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dn=
+ewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_conte=
+nt=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_=
+bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offer20"=
+ target=3D"_blank"><img src=3D"https://i1.sdlcdn.com/img/marketing-mailers/=
+mailer/2016/Ashutosh/toptrending_20181127_20.jpg" alt=3D"Microphones" width=
+=3D"100%" border=3D"0" style=3D"height:auto;" /></a></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"2"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"15"><img src=3D"https://i1.sdlcdn.com/img/marketing-=
+mailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px"=
+ style=3D"width:1px;" /></td>=20
+        </tr>=20
+        <!--ReccCode-->=20
+        <tr>=20
+         <td>
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"text-align:center; font-family:Arial,Helvetica,sa=
+ns-serif; font-size:16px; font-weight:bold;color:#000000;">Recommended for =
+you!</td>=20
+             <!--<td style=3D"text-align:right; font-family:Arial,Helvetica=
+,sans-serif; font-size:14px; color:#868686;">See more ></td>-->=20
+            </tr>=20
+            <tr>=20
+             <td height=3D"30"></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td bgcolor=3D"#f1f1f1">
+          <table width=3D"97%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center">=20
+           <tbody>
+            <tr>=20
+             <td height=3D"10"></td>=20
+            </tr>=20
+            <tr>=20
+             <td align=3D"center">=20
+              <table width=3D"155" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"left">=20
+               <tbody>
+                <tr>=20
+                 <td>
+                  <table width=3D"130" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">=20
+                   <tbody>
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"https://m.snapdeal.com=
+/product/nike-1-pegasus-33-sky/640392927936?aff_id=3D92373&amp;utm_source=
+=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_e=
+ntire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL_tm_cr_=
+10709919417609719698078524489634653_1&amp;utm_campaign=3Dtoptrendingdeals_e=
+ntire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_of=
+fer" style=3D"text-decoration:none;"><img src=3D"http://n3.sdlcdn.com/imgs/=
+g/4/9/Nike-1-Pegasus-33-Sky-SDL842777133-1-7903b.jpg" width=3D"130" height=
+=3D"152" border=3D"0" alt=3D"" /></a></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"10"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"30" valign=3D"top" title=3D"Nike 1 Pegas=
+us 33 Sky Blue Gray Running Shoes" style=3D"font-family:Arial,Helvetica,san=
+s-serif; text-align:center; color:#585454; font-size:13px; line-height:20px=
+; overflow:hidden;">
+                      <div style=3D"max-height: 2.5em; min-height: 2.5em; l=
+ine-height: 1.25em; overflow: hidden;">
+                       Nike 1 Pegasus 33 Sky Blue Gray Running Shoes
+                      </div></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"7"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center">
+                      <table width=3D"99" border=3D"0" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0">=20
+                       <tbody>
+                        <tr>=20
+                         <td align=3D"center" valign=3D"middle" style=3D"pa=
+dding:6px 3px 3px 3px; font-family:Arial,Helvetica,sans-serif; height:25px;=
+ background:#c90132; color:#fff; font-weight:bold; text-transform:uppercase=
+; font-size:12.5px; text-align:center; border:1px solid #c90132; border-rad=
+ius:3px;"><a href=3D"https://m.snapdeal.com/product/nike-1-pegasus-33-sky/6=
+40392927936?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL_tm_cr_107099194176097196980785244896346=
+53_1&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=
+=3Dtoptrendingdeals_entire_bulk_20181127_offer" style=3D"text-decoration:no=
+ne; color:#ffffff; display:block;">Buy Now</a></td>=20
+                        </tr>=20
+                       </tbody>
+                      </table></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                   </tbody>
+                  </table></td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table width=3D"155" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"left">=20
+               <tbody>
+                <tr>=20
+                 <td>
+                  <table width=3D"130" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">=20
+                   <tbody>
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"https://m.snapdeal.com=
+/product/nike-1-pegasus-33-grey/629695138759?aff_id=3D92373&amp;utm_source=
+=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_e=
+ntire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL_tm_cr_=
+10709919417609719698078524489634653_2&amp;utm_campaign=3Dtoptrendingdeals_e=
+ntire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_of=
+fer" style=3D"text-decoration:none;"><img src=3D"http://n2.sdlcdn.com/imgs/=
+f/8/x/Nike-1-Pegasus-33-Running-SDL656647893-1-4ce0d.jpeg" width=3D"130" he=
+ight=3D"152" border=3D"0" alt=3D"" /></a></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"10"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"30" valign=3D"top" title=3D"Nike 1 Pegas=
+us 33 Running Shoes" style=3D"font-family:Arial,Helvetica,sans-serif; text-=
+align:center; color:#585454; font-size:13px; line-height:20px; overflow:hid=
+den;">
+                      <div style=3D"max-height: 2.5em; min-height: 2.5em; l=
+ine-height: 1.25em; overflow: hidden;">
+                       Nike 1 Pegasus 33 Running Shoes
+                      </div></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"7"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center">
+                      <table width=3D"99" border=3D"0" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0">=20
+                       <tbody>
+                        <tr>=20
+                         <td align=3D"center" valign=3D"middle" style=3D"pa=
+dding:6px 3px 3px 3px; font-family:Arial,Helvetica,sans-serif; height:25px;=
+ background:#c90132; color:#fff; font-weight:bold; text-transform:uppercase=
+; font-size:12.5px; text-align:center; border:1px solid #c90132; border-rad=
+ius:3px;"><a href=3D"https://m.snapdeal.com/product/nike-1-pegasus-33-grey/=
+629695138759?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL_tm_cr_107099194176097196980785244896346=
+53_2&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=
+=3Dtoptrendingdeals_entire_bulk_20181127_offer" style=3D"text-decoration:no=
+ne; color:#ffffff; display:block;">Buy Now</a></td>=20
+                        </tr>=20
+                       </tbody>
+                      </table></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                   </tbody>
+                  </table></td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table width=3D"155" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"left">=20
+               <tbody>
+                <tr>=20
+                 <td>
+                  <table width=3D"130" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">=20
+                   <tbody>
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"https://m.snapdeal.com=
+/product/lotto-micron-black-running-sports/620220945192?aff_id=3D92373&amp;=
+utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrend=
+ingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EM=
+AIL_tm_cr_10709919417609719698078524489634653_3&amp;utm_campaign=3Dtoptrend=
+ingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_2=
+0181127_offer" style=3D"text-decoration:none;"><img src=3D"http://n3.sdlcdn=
+.com/imgs/b/o/z/Lotto-Micron-Black-Running-Sports-SDL615517056-1-dded2.jpg"=
+ width=3D"130" height=3D"152" border=3D"0" alt=3D"" /></a></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"10"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"30" valign=3D"top" title=3D"Lotto Micron=
+ Black Running Sports Shoes" style=3D"font-family:Arial,Helvetica,sans-seri=
+f; text-align:center; color:#585454; font-size:13px; line-height:20px; over=
+flow:hidden;">
+                      <div style=3D"max-height: 2.5em; min-height: 2.5em; l=
+ine-height: 1.25em; overflow: hidden;">
+                       Lotto Micron Black Running Sports Shoes
+                      </div></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"7"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center">
+                      <table width=3D"99" border=3D"0" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0">=20
+                       <tbody>
+                        <tr>=20
+                         <td align=3D"center" valign=3D"middle" style=3D"pa=
+dding:6px 3px 3px 3px; font-family:Arial,Helvetica,sans-serif; height:25px;=
+ background:#c90132; color:#fff; font-weight:bold; text-transform:uppercase=
+; font-size:12.5px; text-align:center; border:1px solid #c90132; border-rad=
+ius:3px;"><a href=3D"https://m.snapdeal.com/product/lotto-micron-black-runn=
+ing-sports/620220945192?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp=
+;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cx=
+e&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL_tm_cr_1070991941760971969807=
+8524489634653_3&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&am=
+p;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_offer" style=3D"text-dec=
+oration:none; color:#ffffff; display:block;">Buy Now</a></td>=20
+                        </tr>=20
+                       </tbody>
+                      </table></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                   </tbody>
+                  </table></td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table width=3D"155" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"left">=20
+               <tbody>
+                <tr>=20
+                 <td>
+                  <table width=3D"130" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">=20
+                   <tbody>
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center"><a href=3D"https://m.snapdeal.com=
+/product/lotto-navy-running-shoes/638337685261?aff_id=3D92373&amp;utm_sourc=
+e=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_=
+entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL_tm_cr=
+_10709919417609719698078524489634653_4&amp;utm_campaign=3Dtoptrendingdeals_=
+entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_o=
+ffer" style=3D"text-decoration:none;"><img src=3D"http://n2.sdlcdn.com/imgs=
+/h/t/g/Lotto-Navy-Running-Shoes-SDL221804552-1-a8334.jpeg" width=3D"130" he=
+ight=3D"152" border=3D"0" alt=3D"" /></a></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"10"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"30" valign=3D"top" title=3D"Lotto Navy R=
+unning Shoes" style=3D"font-family:Arial,Helvetica,sans-serif; text-align:c=
+enter; color:#585454; font-size:13px; line-height:20px; overflow:hidden;">
+                      <div style=3D"max-height: 2.5em; min-height: 2.5em; l=
+ine-height: 1.25em; overflow: hidden;">
+                       Lotto Navy Running Shoes
+                      </div></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"7"></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td align=3D"center">
+                      <table width=3D"99" border=3D"0" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0">=20
+                       <tbody>
+                        <tr>=20
+                         <td align=3D"center" valign=3D"middle" style=3D"pa=
+dding:6px 3px 3px 3px; font-family:Arial,Helvetica,sans-serif; height:25px;=
+ background:#c90132; color:#fff; font-weight:bold; text-transform:uppercase=
+; font-size:12.5px; text-align:center; border:1px solid #c90132; border-rad=
+ius:3px;"><a href=3D"https://m.snapdeal.com/product/lotto-navy-running-shoe=
+s/638337685261?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medi=
+um=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm=
+_content=3DCEE_419_18626_3819_1_EMAIL_tm_cr_1070991941760971969807852448963=
+4653_4&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_ter=
+m=3Dtoptrendingdeals_entire_bulk_20181127_offer" style=3D"text-decoration:n=
+one; color:#ffffff; display:block;">Buy Now</a></td>=20
+                        </tr>=20
+                       </tbody>
+                      </table></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td height=3D"15"></td>=20
+                    </tr>=20
+                   </tbody>
+                  </table></td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+            <tr>=20
+             <td height=3D"10"></td>=20
+            </tr>=20
+           </tbody>
+          </table></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"20"></td>=20
+        </tr>=20
+        <!--ReccoCodeEnd-->=20
+        <tr>=20
+         <td height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center" style=3D"border:1px solid #f1f1f1;"><a href=
+=3D"https://www.snapdeal.com/offers/hardware-tools1?aff_id=3D92373&amp;utm_=
+source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingd=
+eals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&=
+amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtop=
+trendingdeals_entire_bulk_20181127_onemillion" target=3D"_blank"><img src=
+=3D"https://i1.sdlcdn.com/img/marketing-mailers/mailer/2016/Ashutosh/toptre=
+nding_20181127_22.jpg" alt=3D"Footer" style=3D"height:auto;" width=3D"100%"=
+ border=3D"0" /></a></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center" style=3D"border:1px solid #f1f1f1;"><a href=
+=3D"http://m.snapdeal.com/refernearn?viewinapp=3D1&amp;aff_id=3D92373&amp;u=
+tm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendi=
+ngdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMA=
+IL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181127&amp;utm_term=3D=
+toptrendingdeals_entire_bulk_20181127_onemillion" target=3D"_blank"><img sr=
+c=3D"https://i1.sdlcdn.com/static/img/marketing-mailers/mailer/2016/UserGro=
+wth/2018/10sept/NL_footer.jpg" alt=3D"Footer" style=3D"height:auto;" width=
+=3D"100%" border=3D"0" /></a></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td height=3D"5"><img src=3D"https://i1.sdlcdn.com/img/marketing-m=
+ailers/mailer/2015/01june2015/Marketing-design/zero_688.gif" width=3D"1px" =
+style=3D"width:1px;" /></td>=20
+        </tr>=20
+       </tbody>
+      </table></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"10"></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"font-family:Arial,Helvetica,sans-serif; text-align:left; =
+font-size:12px; color:#606060; padding:10px; line-height:16px;"><strong>Ple=
+ase note:</strong> Do not respond to any Phone call/Email/SMS claiming to o=
+ffer rewards/lucky draw prizes on behalf of Snapdeal. We NEVER request our =
+customers for unsolicited financial information or advance payments in exch=
+ange of rewards. All our offers are available ONLY on our website and app.<=
+/td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"10"></td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" style=3D"font-family:Arial,Helvetica,sans-serif; =
+font-size:12px; color:#606060; padding-top:5px; padding-left:5px;">Price an=
+d stock availability are subject to change.</td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"20"></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"font-family:arial, Calibri; font-size:12px; text-align:ce=
+nter; color:#606060;"><a href=3D"https://www.snapdeal.com/info/easyReturn?a=
+ff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnewsletter_=
+bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=3DCEE_4=
+19_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bulk_20181=
+127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Footer" style=3D"t=
+ext-decoration:none; color:#606060;">Easy Returns</a> &nbsp;| <a href=3D"ht=
+tps://www.snapdeal.com/help?aff_id=3D92373&amp;utm_source=3DDailyNewsletter=
+&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_2018112=
+7_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptr=
+endingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bul=
+k_20181127_Footer" style=3D"text-decoration:none; color:#606060;"> &nbsp; C=
+ustomer Care </a></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"20"></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"40" align=3D"center" style=3D" font-family:Arial,Helveti=
+ca,sans-serif; font-size:13px; color:#606060; font-weight:bold;">Explore mo=
+re categories</td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"20"></td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center">
+      <table width=3D"96%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D" font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#6=
+06060;" align=3D"center">=20
+       <tbody>
+        <tr>=20
+         <td width=3D"30%" align=3D"center"><a href=3D"https://www.snapdeal=
+.com/products/electronic?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&am=
+p;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_c=
+xe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrend=
+ingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_2=
+0181127_Footer" style=3D"text-decoration:none; color:#606060;">Home Enterta=
+inment</a></td>=20
+         <td width=3D"5%"></td>=20
+         <td width=3D"30%" align=3D"center"><a href=3D"https://www.snapdeal=
+.com/products/computers-laptops?aff_id=3D92373&amp;utm_source=3DDailyNewsle=
+tter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_201=
+81127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dt=
+optrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire=
+_bulk_20181127_Footer" style=3D"text-decoration:none; color:#606060;">Lapto=
+ps</a></td>=20
+         <td width=3D"5%"></td>=20
+         <td width=3D"30%" align=3D"center"><a href=3D"https://www.snapdeal=
+.com/offers/financial-services?aff_id=3D92373&amp;utm_source=3DDailyNewslet=
+ter&amp;utm_medium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_2018=
+1127_cxe&amp;utm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dto=
+ptrendingdeals_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_=
+bulk_20181127_Footer" style=3D"text-decoration:none; color:#606060;">Financ=
+ial Services</a></td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"5" height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+kids-clothing?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_mediu=
+m=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_=
+content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_en=
+tire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Foo=
+ter" style=3D"text-decoration:none; color:#606060;">Kids &amp; Toys</a></td=
+>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+appliances?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_ent=
+ire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Foot=
+er" style=3D"text-decoration:none; color:#606060;">Appliances</a></td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+beauty?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnew=
+sletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=
+=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bu=
+lk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Footer" st=
+yle=3D"text-decoration:none; color:#606060;">Beauty &amp; Personal Care</a>=
+</td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"5" height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+women-ethnicwear?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_me=
+dium=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;u=
+tm_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals=
+_entire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_=
+Footer" style=3D"text-decoration:none; color:#606060;">Women's Clothing</a>=
+</td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+home-kitchen?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_ent=
+ire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Foot=
+er" style=3D"text-decoration:none; color:#606060;">Home &amp; Kitchen</a></=
+td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+mens-footwear?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_mediu=
+m=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_=
+content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_en=
+tire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Foo=
+ter" style=3D"text-decoration:none; color:#606060;">Men's Footwear</a></td>=
+=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"5" height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+sports-hobbies?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medi=
+um=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm=
+_content=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_e=
+ntire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Fo=
+oter" style=3D"text-decoration:none; color:#606060;">Sports &amp; Fitness</=
+a></td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+automotive?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=
+=3Dnewsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_c=
+ontent=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_ent=
+ire_bulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Foot=
+er" style=3D"text-decoration:none; color:#606060;">Automotive </a></td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+mobiles?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dne=
+wsletter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_conten=
+t=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_b=
+ulk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Footer" s=
+tyle=3D"text-decoration:none; color:#606060;">Mobiles</a></td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"5" height=3D"10"></td>=20
+        </tr>=20
+        <tr>=20
+         <td></td>=20
+         <td></td>=20
+         <td align=3D"center"><a href=3D"https://www.snapdeal.com/products/=
+books?aff_id=3D92373&amp;utm_source=3DDailyNewsletter&amp;utm_medium=3Dnews=
+letter_bulk_sale_toptrendingdeals_entire_bulk_20181127_cxe&amp;utm_content=
+=3DCEE_419_18626_3819_1_EMAIL&amp;utm_campaign=3Dtoptrendingdeals_entire_bu=
+lk_20181127&amp;utm_term=3Dtoptrendingdeals_entire_bulk_20181127_Footer" st=
+yle=3D"text-decoration:none; color:#606060;">Books</a></td>=20
+         <td></td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"30" style=3D"border-bottom:1px solid #d1d1d1;">&nbsp;</t=
+d>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" bgcolor=3D"#ff2341" style=3D"line-height:0px;">
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" align=3D"center" style=3D"line-height:0px;">=20
+       <tbody>
+        <tr>=20
+         <td style=3D"height:15px;"></td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center" bgcolor=3D"#ff2341" style=3D"font-family:Aria=
+l,Helvetica,sans-serif; font-size:14px; font-weight:bold; color:#ffffff; pa=
+dding:15px 10px 5px 10px;">Connect with us</td>=20
+        </tr>=20
+        <tr>=20
+         <td align=3D"center" height=3D"60" bgcolor=3D"#ff2341"><a href=3D"=
+https://www.facebook.com/SnapDeal"><img src=3D"https://i1.sdlcdn.com/static=
+/img/marketing-mailers/mailer/2016/UserGrowth/sdnewth/images/facebookn.png"=
+ width=3D"49" height=3D"49" border=3D"0" hspace=3D"0" vspace=3D"0" /></a><a=
+ href=3D"https://www.twitter.com/snapdeal"><img src=3D"https://i1.sdlcdn.co=
+m/static/img/marketing-mailers/mailer/2016/UserGrowth/sdnewth/images/twitte=
+rn.png" width=3D"49" height=3D"49" border=3D"0" hspace=3D"0" vspace=3D"0" /=
+></a><a href=3D"https://plus.google.com/100573109232340925417?prsrc=3D3"><i=
+mg src=3D"https://i1.sdlcdn.com/static/img/marketing-mailers/mailer/2016/Us=
+erGrowth/sdnewth/images/googleplus.png" width=3D"49" height=3D"49" border=
+=3D"0" hspace=3D"0" vspace=3D"0" /></a> <a href=3D"https://pinterest.com/sn=
+apdeal/"><img src=3D"https://i1.sdlcdn.com/static/img/marketing-mailers/mai=
+ler/2016/UserGrowth/sdnewth/images/pineterst.png" width=3D"49" height=3D"49=
+" border=3D"0" hspace=3D"0" vspace=3D"0" /></a><a href=3D"https://instagram=
+.com/snapdeal"><img src=3D"https://i1.sdlcdn.com/static/img/marketing-maile=
+rs/mailer/2016/UserGrowth/sdnewth/images/instagram.png" width=3D"49" height=
+=3D"49" border=3D"0" hspace=3D"0" vspace=3D"0" /></a></td>=20
+        </tr>=20
+        <tr>=20
+         <td bgcolor=3D"#ff2341" height=3D"5"></td>=20
+        </tr>=20
+       </tbody>
+      </table></td>=20
+    </tr>
+   </tbody>
+  </table>
+  <table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 11px; color:#8=
+88888; text-align:left; max-width:680px;">=20
+   <tbody>
+    <tr>=20
+     <td height=3D"16"></td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"font-family:Segoe UI, Arial, sans-serif; font-size: 11px;=
+ color: rgb(136, 136, 136); padding: 5px 10px ;">Snapdeal has sent this e-m=
+ail to you because your subscription preferences indicate that you want to<=
+br /> receive alerts on this email address. Click here to <a href=3D"http:/=
+/www.snapdeal.com/unsubscribe-email?g=3D685cbcb1-60ff-4814-922a-968dd8f3751=
+f&amp;c=3DEMAIL&amp;triggerId=3D0&amp;journeyId=3D419&amp;ecaId=3D18626&amp=
+;testId=3D3819&amp;stateId=3D1" style=3D"color: rgb(92, 121, 150); text-dec=
+oration: underline;" target=3D"blank">unsubscribe</a> <br /></td>=20
+    </tr>
+   </tbody>
+  </table>
+  <img height=3D"1" src=3D"https://log.snapdeal.com//getEventData?event=3D{=
+&quot;orgId&quot;:&quot;1001_1&quot;,&quot;appType&quot;:&quot;CEE&quot;,&q=
+uot;eventTypes&quot;:[{&quot;eventType&quot;:&quot;render&quot;,&quot;times=
+tamp&quot;:&quot;2018-11-27 12:06:26.951&quot;,&quot;eventName&quot;:&quot;=
+notificationReceived&quot;,&quot;eventValues&quot;:[{&quot;keyName&quot;:&q=
+uot;ecaId&quot;,&quot;keyValue&quot;:18626},{&quot;keyName&quot;:&quot;jour=
+neyId&quot;,&quot;keyValue&quot;:419},{&quot;keyName&quot;:&quot;testId&quo=
+t;,&quot;keyValue&quot;:&quot;3819&quot;},{&quot;keyName&quot;:&quot;guid&q=
+uot;,&quot;keyValue&quot;:&quot;685cbcb1-60ff-4814-922a-968dd8f3751f&quot;}=
+,{&quot;keyName&quot;:&quot;stateId&quot;,&quot;keyValue&quot;:1},{&quot;ke=
+yName&quot;:&quot;communicationMode&quot;,&quot;keyValue&quot;:&quot;EMAIL&=
+quot;},{&quot;keyName&quot;:&quot;triggerId&quot;,&quot;keyValue&quot;:&quo=
+t;0&quot;}]}]}" width=3D"1" display=3D"none" />
+ </body>
+</html>
+------=_Part_3711002_1375328962.1543300589824--
+
+------=_Part_3711001_1383737475.1543300589824--

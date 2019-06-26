@@ -1,0 +1,1639 @@
+Return-Path:
+	<bounces+3447790-f425-sunil_jolly=mslindia.net@inbound.primetenders.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sunil_jolly@mslindia.net>
+X-Envelope-To-Blocked: <sunil_jolly@mslindia.net>
+X-Quarantine-ID: <aUNX4muuybhm>
+X-Spam-Flag: YES
+X-Spam-Score: 7.715
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.715 tag=2 tag2=6.31 kill=6.31
+	tests=[FH_HELO_EQ_D_D_D_D=1.117, FM_SEX_HELODDDD=1.085,
+	HELO_DYNAMIC_IPADDR=3.243, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RDNS_DYNAMIC=0.363, T_DKIM_INVALID=0.01, UPPERCASE_50_75=0.791]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aUNX4muuybhm for <sunil_jolly@mslindia.net>;
+	Sat, 20 Apr 2019 10:40:56 +0530 (IST)
+Received: from o168-245-0-245.outbound-mail.sendgrid.net (o168-245-0-245.outbound-mail.sendgrid.net [168.245.0.245])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 762FEF65A32
+	for <sunil_jolly@mslindia.net>; Sat, 20 Apr 2019 10:40:53 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=primetenders.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc;
+	s=s1; bh=xDvsAwO76h3RGXfQc6UKDxK5U58FQ4PSLWSSIYyIGec=;
+	b=bRmc15BZiy3fUzeBk70BPWrq57Yo8mnP0TzHyHZp/xCcSqd57+Y+WAS4j7KcuyqlkzfD
+	DaBiNoUZi39ptUUYz0+JGHFeGEGA5hDvJ2OQqni6LSbmAljQpK8R5KJdA50FcMkwQtYoWN
+	pd5ylVWowAcLiBPaW57spaEPWxX82N/Fc=
+Received: by filter0058p3iad2.sendgrid.net with SMTP id filter0058p3iad2-7130-5CBAA9E5-C
+        2019-04-20 05:11:01.508784896 +0000 UTC m=+385716.666865761
+Received: from MzQ0Nzc5MA (unknown [159.89.168.177])
+	by ismtpd0003p1hnd1.sendgrid.net (SG) with HTTP id QUnIGWVZTGCz0n9z6L0ZxA
+	Sat, 20 Apr 2019 05:11:01.353 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 20 Apr 2019 04:51:00 +0000 (UTC)
+From: Primetenders <support@primetenders.com>
+Mime-Version: 1.0
+Message-ID: <QUnIGWVZTGCz0n9z6L0ZxA@ismtpd0003p1hnd1.sendgrid.net>
+Subject: Your Govt. Tenders
+X-SG-EID: 
+ =?us-ascii?Q?=2FSYXZ6PamyD4cikG4PILu2yLAP9fmOFzc6SWJ3zHsYsuISyWq0=2F7QzXpu+okOT?=
+ =?us-ascii?Q?FA8KHNTfhitPhl68Kg403MlJ95R7a6U1vpCe03R?=
+ =?us-ascii?Q?Oz+1NADr1WkvAAXKSQBicClj=2FAoiMHNWn2NTSJl?=
+ =?us-ascii?Q?vpuGb4cywnbCuaI8=2FK28GXSdOlrSB1m20dX5v29?=
+ =?us-ascii?Q?YwTqeXEG6ipEGL3NvTSevBC8yfTPKEE9Vf4WMSr?=
+ =?us-ascii?Q?Rt1il07Ovun1MwvKQCaKtm=2FJuirtd=2FbU3xJdCU?=
+To: info@mslindia.net
+Cc: sunil_jolly@mslindia.net
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Primetenders</title>
+<!--
+
+An email present from your friends at Litmus (@litmusapp)
+
+Email is surprisingly hard. While this has been thoroughly tested, your mil=
+eage may vary.
+It's highly recommended that you test using a service like Litmus (http://l=
+itmus.com) and your own devices.
+
+Enjoy!
+
+-->
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<style type=3D"text/css">
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spacing =
+between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of resize=
+d image in Internet Explorer */
+
+/* RESET STYLES */
+img{border: 0; height: auto; line-height: 100%; outline: none; text-decorat=
+ion: none;}
+table{border-collapse: collapse !important;}
+body{height: 100% !important; margin: 0 !important; padding: 0 !important; =
+width: 100% !important;}
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width: 525px) {
+
+/* ALLOWS FOR FLUID TABLES */
+.wrapper {
+width: 100% !important;
+max-width: 100% !important;
+}
+
+/* ADJUSTS LAYOUT OF LOGO IMAGE */
+.logo img {
+margin: 0 auto !important;
+}
+
+/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+.mobile-hide {
+display: none !important;
+}
+
+.img-max {
+max-width: 100% !important;
+width: 100% !important;
+height: auto !important;
+}
+
+/* FULL-WIDTH TABLES */
+.responsive-table {
+width: 100% !important;
+}
+
+/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+.padding {
+padding: 10px 5% 15px 5% !important;
+}
+
+.padding-meta {
+padding: 30px 5% 0px 5% !important;
+text-align: center;
+}
+
+.padding-copy {
+padding: 10px 5% 10px 5% !important;
+text-align: center;
+}
+
+.no-padding {
+padding: 0 !important;
+}
+
+.section-padding {
+padding: 50px 15px 50px 15px !important;
+}
+
+/* ADJUST BUTTONS ON MOBILE */
+.mobile-button-container {
+margin: 0 auto;
+width: 100% !important;
+}
+
+.mobile-button {
+padding: 15px !important;
+border: 0 !important;
+font-size: 16px !important;
+display: block !important;
+}
+
+}
+
+/* ANDROID CENTER FIX */
+div[style*=3D"margin: 16px 0;"] { margin: 0 !important; }
+</style>
+</head>
+<body style=3D"margin: 0 !important; padding: 0 !important;">
+
+<!-- HIDDEN PREHEADER TEXT -->
+<div style=3D"display: none; font-size: 1px; color: #fefefe; line-height: 1=
+px; font-family: Helvetica, Arial, sans-serif; max-height: 0px; max-width: =
+0px; opacity: 0; overflow: hidden;">
+1 fresh and
+</div>
+
+<!-- HEADER -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<!-- AccountMessage -->
+
+<tr bgcolor=3D"#0070c9">
+<td align=3D"center" style=3D"padding: 15px; color: white; font-size: 14px;=
+ letter-spacing: 0.02em; font-family: Helvetica, Arial, sans-serif;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+Primetenders is now live in Middle-East. Click <a href=3D"https://u3447790.=
+ct.sendgrid.net/wf/click?upn=3DOPIx4gTupK264huyw7k2hHDPWAOMYlOY85zJG8DNMqDH=
+3BJgBsOf-2FdSBM0hQWxOz_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19=
+tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqdehlF7JaONze5G4RcP7WK6iexuWAGEyGrM=
+-2BaiZBqXamv6l-2FiwgW1A856Q4xtz4VAPxW4Tres5EfyEF4OMhvLgGDYQcNM-2BNZB-2By8qd=
+6jaLGSOFm66zbZa0jJ-2BANwJLFDXwqj96uOFZyYU2qaktqwHsE-3D" style=3D"color: whi=
+te; font-weight: 600"> HERE</a> for inquiry
+</td>
+</tr>
+
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"500">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"500">
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center" style=3D"padding: 15px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;" class=3D"responsive-table">
+<tr>
+<td>
+<!-- COPY -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" style=3D"font-size: 26px; font-family: Helvetica, Arial,=
+ sans-serif; color: #333333; padding-top: 30px; padding-bottom: 10px; borde=
+r-bottom: 5px solid #0084b4;">31 live tenders for you.
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"font-size: 14px; font-family: Helvetica, Arial,=
+ sans-serif; color: rgba(27, 182, 48, 0.75); padding-top: 10px; padding-bot=
+tom: 0px;">Your keywords - FRP panel,"BACK REST" etc.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center" style=3D"padding: 15px; padding-bo=
+ttom: 5px; padding-top: 0px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" class=
+=3D"responsive-table">
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"padding-top:0px;">
+<!-- NUMBER START--><tr><td align=3D"right" style=3D"font-size: 16px; font-=
+family: Helvetica, Arial, sans-serif; color: rgba(224, 11, 15, 0.75); paddi=
+ng-top: 10px; font-weight: bold" class=3D"padding-copy">Call 7349250104 to =
+Subscribe</td></tr><!-- NUMBER END-->
+<tr>
+<!-- COPY -->
+<td align=3D"left" style=3D"font-size: 17px; font-family: Helvetica, Arial,=
+ sans-serif; color: #777777; padding-top: 10px;" class=3D"padding-copy">FRE=
+SH TENDERS</td>
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+multi state
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaL18=
+tuD08GoXNp-2FygD6X4ZTUzLAWclSJfAaeoBkochew0MPJ-2BJ52heGYjpH1-2FFSqo_P1-2F02=
+ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE=
+3xqcHY0qPtqbjqmKddZAmwY50wDDnPhqNAybovUZl4Kllm8zIrr8eRac54qQSSEsbWjIUGW5K8I=
+4vwMBPHiqzFIHM8KjKKmO2DY3OY3l8djc-2FnLe7J11UphAlJf0p1OGllVizzb3ylwaGa62vayh=
+HBRK-2BvUz-2Bup2g-3D">
+1.=20
+Support for long back rest cum berth,=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+<tr>
+<td align=3D"center">
+<!-- BULLETPROOF BUTTON -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" style=3D"padding-top:10px; padding-bottom:20px;" class=
+=3D"padding">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"mobile-but=
+ton-container">
+<tr>
+<td align=3D"center" style=3D"border-radius: 3px;" bgcolor=3D"#256F9C">
+<a href=3D"https://u3447790.ct.sendgrid.net/wf/click?upn=3DOPIx4gTupK264huy=
+w7k2hAQ97E7sRLd8bm0mgxDsIVcsbSLflt0aGGL3YhWfWEjDsnVaukYKOi6gNNAvdBQlJg-3D-3=
+D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPm=
+v-2Fs9tiE3xqcHY0qPtqS9LHbh-2BpQD1RNwY1xbo4y4LOmtHMOVAcZKrDiar-2FAYRS8BUqsqy=
+7tIp4K0gJDfH31MPfTpRICQpkR2fLbVUyFsSt4YvVtzwZ1KIo8LQV9nnlmqTLwfSbd-2B-2BVuJ=
+Q7J09-2FLaLct1LpgBopg8eQvsVX-2Bw-3D" target=3D"_blank" style=3D"font-size: =
+17px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decor=
+ation: none; color: #ffffff; text-decoration: none; border-radius: 3px; pad=
+ding: 15px 25px; border: 1px solid #256F9C; display: inline-block;" class=
+=3D"mobile-button">
+Click to see all
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"font-size: 17px; font-family: Helvetica, Arial,=
+ sans-serif; color: #777777; padding-top: 20px;" class=3D"padding-copy">
+LIVE TENDERS
+</td>
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+uttar pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaEOI=
+riQ-2BLF-2BPZy-2B9-2FOlJD2WOAK8HWA6mSugy-2FgqbFyDl-2BcxWL4NNw19JijdnE1rqPaf=
+sUV3TdceRXG-2BNRpLXxGA-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZH=
+yNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqXK1VdtW3fImj5ze0L4aMatYqf-2B=
+Ff3YzQHdcOnD62sk8Eezz0JEFap1K4U92qjArPhURHoOtHP3ttff7cUi0zbYn3t07YeiolzGH4G=
+f3ChPyVsZPnFAc2dr3Z2UqEAX0V7C4k0MCLpIK3C041JKg9rM-3D">
+1.=20
+SET OF CUSHIONED SEAT AND BACK REST=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 10 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 17.15 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+west bengal
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaSzr=
+TaUemXu1hqC4mmvyHaGzusNRwaunNAuPO82uUb0IQui1B8ns4Gt7JmHNi0RNI_P1-2F02ROz2I7=
+U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY=
+0qPtqfoXq0I9yXQ4b2eNhj53jnK9u5lUairUQVNsrnUB1kBcv1S3cXOUiRsMVVXeSyfGMbq6ov-=
+2BeBL34qB1bRfFkovxsQIvl3SjdqwhX5FEPph9UrBziEu5dx-2FmXvPwB1x0vMwJYKoIVb6W4Qb=
+IiRmFiJu4-3D">
+2.=20
+PEDESTAL PT. A FOR PEDESTAL ASSLY.=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 18 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaNgJ=
+2lGmqK7Q3t2jrinkq2FS4Is9GhISq272FCc6BAB0s7L7Uf5vHrgQlBtraOWjp_P1-2F02ROz2I7=
+U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY=
+0qPtqQ-2Brpdmp14XMb1sQpWUFskeRSu8cKBJVn6XWSDnxyrSp-2F2CTs7iRyR7OPIiSug-2F1c=
+oFfkbLDis-2Bmqv4H1Hi69-2FiPPJuLwNjgxeRTO9MJ6w01FwCqADPjOQot78zfKs8yNAIhoMhN=
+q8-2FfGkfRejSQCUg-3D">
+3.=20
+Revolving chair cushioned seat=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellabSW=
+SfnrlRTqbghXzWq1p-2F2OSDgEpsI0H1WrKxZxRa6K5LKNeWW0KEXBzAAyUjosmoL5IIZkkJEak=
+JBI58a1hcA-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsS=
+vLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqRT5dk13FG8KZtBUVh2tahvdg1TImD4aYyxpp5gs4=
+xqM-2Bt0lfw8H53L2-2Fpm8d26WuRdNIlhFf9bvo-2BxxcUQbWT6zUCi2lgNCdOvZzDXrcNFQ8o=
+5sKZd-2F3cQ-2B6jn6W6YcBOWTnpIYRR-2FoIH-2BsedEehao-3D">
+4.=20
+Sofa of teak wood cushioned seat=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellamKP=
+FtzrgLE4LLS1BsdZd0n-2Fm-2B4bfBfyT6csqUmLy-2BMdbTc9EU2zFuxkkVuwahPQx_P1-2F02=
+ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE=
+3xqcHY0qPtqZou2JQnupysfTflo8Fr6m4WJQBEVvk1h9dFKVGmdalyXPlEcGiXS9IOQ-2Fsi2zw=
+VQ2klvA47FxEAoMhHpkkvlsk9bMNPf56pUGJYIWVHkswb-2BjCqzTjnTXZ7G8-2BOtlUGkch6TT=
+8eDuqp5zI-2Fpj-2BfbLM-3D">
+5.=20
+Steel office chair with cushion seat=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+maharashtra
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaO8m=
+Lu1uYx2D5dR7o-2FGQ933aHagC4NtcZN468C91GF790JkF3yYvWe4pbBoUWJZL1HRabzcBEGxVa=
+HBPwbsRRrQ-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsS=
+vLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqWeb1ldp88JM60OFyuhcoGKRgAGeSyKFjJrPaSLQs=
+SLbF0NOa-2FJO3GH20IBR3SEm0xI-2F4IBygTwLfGRxHOcSNOtXwhFQIo4mRWqbay-2F4YWjJaD=
+Gip2oRLO5HYYoxf8cUWLWZdkqH9waxAVZTi0oZKN0-3D">
+6.=20
+Driver Seat.=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 37 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+maharashtra
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaWCo=
+c71gooz60R1n6FZGCxTRWXpDvLNFvxDXuEnhPuxVZNftwnfKYQfhdIdJ4JY-2Bfnkq-2BxgRu0R=
+gccBslX64D3g-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8z=
+sSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqeh9Nki2EQkouVAvh4NF9b-2B4C-2FEqTE0HPWF=
+1tZIzmuTHwLOC9v0MiaqZgyEk4MtPmk2VmFN39xF3Ow126HO2NaGrAVQC17cjYHMP2MO-2BqYMS=
+LRnWYZcYa-2BAZ7HhcbF3ohJ05jA-2F0cq2i-2B9j8dZoPWtE-3D">
+7.=20
+DRIVER SEAT WITH PEDSTAL ASSEMBLY FOR CREW FRIENDLY CAB TO CLWa DRG NO 1209=
+- 08- 131- 010 ALT. 6 & CLW SPECN NO CLW/ MS/ 3/ 021 ALT. 5=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaAKj=
+YUbBUwlc0FpF-2BWdoXzTKscoUFPMKsELy0IZbCSBcpaMe2E4DXf4hKmauc3Mu-2BqnlfRQvR2G=
+DghZPBlqv2Zw-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8z=
+sSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqdqorVxmD9TfBXrpGtydxCAwf20aFbuWq1rJb4k=
+VL6tWf3xqyCtybvll5FoSqARC-2F7tT5GewTZ-2Br0EJQdo0RHc8B0M1El-2Bma424hnhjTsL1c=
+oJ0rsmtjAom5Uma8r1PPQaX6j9HbKC9bpXjnRZf1gzw-3D">
+8.=20
+BACK REST LOCK=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 3 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 2.16 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+maharashtra
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaE1u=
+VlWETRNVSVi5dMZ7FSRBf7uLnDrm6CVJhoV-2BxVxhZV01tHrtlu1I6tMAlG4kY_P1-2F02ROz2=
+I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqc=
+HY0qPtqfPSxAhN-2BNOkvoxMnFlgLt0teABzHr5kiluctWQGLs9IADoMmHJGQQ6KiMfZMmkf7Ka=
+UWdZLpcCN0JomEkzv4WFWnmgtfHwutNy0IwM7irLKo1J4799Uv2UDITOCzzsrSC-2FGhWzgqeP7=
+63CvtwKwOPw-3D">
+9.=20
+PEDESTAL PT. A FOR LOWER ARM AND BASE ASSLY=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 12 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 2.52 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaHx7=
+8kfXOSnoDa0uYBcPXkcr75jUHNWeEKynrbrXeaR2sbhfcB12YRvIn9N7WsOSs_P1-2F02ROz2I7=
+U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY=
+0qPtqfil9Tt0xN1WvRn-2FJuCTYdIu-2BX09w2J0cekEg89fZih8SPxT-2Bf0SBkwVBRH6sw9ub=
+gSQ4GqS-2F4P7Qs5-2BurxU9fIvN19E179hJdJZe-2FJZuU-2Bn-2BEKBySIivpBxJcDgujedTp=
+6TBHOyGyIOTMX1ViGio04-3D">
+10.=20
+ONE PAIR OF BACK REST=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 12 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 21.34 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellacZS=
+oNL-2Fhg4ffZmG2q7wsn2fnlby1pYW9UfU9P1uGTdPsgzu8jEHvE4MQBOI7wctyh4PMscSRndNn=
+Vr-2BJmsh7Xw-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8z=
+sSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqXw8aYEfRJOnOL0Eb-2F4rXzo6iFjGJDVWBUAem=
+bZgYKDOTwgOu5t5AO-2BaKSCUy1aL5Otaw7AOgUuSd41KgILoiCoB-2F832I8kT-2BQ1VI9-2Bl=
+3WYWpPaj4IkWFLZdxMlZuDFAP-2Fv6I7lMYYyo-2FQ77wQiU-2BNI-3D">
+11.=20
+SET OF FRP PANELLING=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 19 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 20.62 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaIMG=
+YYU-2BKBoKoUJUW0ccQzIZJLcwJc5Ix4zjqxeA1rgeA5DGBRFO5pq-2Bd8k1rL4MFf7x7PP5IkN=
+ZSDSjqacUZ6A-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8z=
+sSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqRYowRxpOOqiULsqnpqhT1pcqpfaBlXMEy4KhuK=
+zUQNAOfEzUeNtIyX3B-2B-2B-2BXBIkfW7sIR3X15XQFadFNOy3xr8K8boxJydv7V4AZ1q65KNL=
+RIHcbNMcCQzdQeiS-2FBpU21C7X-2Fx6jul06yN8qJ8cwKU-3D">
+12.=20
+SET OF FRP PANELLING=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 6 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 1.97 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+uttar pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWella0f7=
+LqzZkvRqe5N37vlE676lB-2FC0eD9kLDiRsmQadzH4mxxTkT5ytIsBjNT0nwaDOXjhP3hXW3qw7=
+gIx3ZuWYuA-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsS=
+vLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqfivJzQ6QjJ8VoCHFv0thG4tK3rgy-2FNSsizFXUc=
+gKYAhaBPomi1BrwqFQ0uRFbNT-2FD3swj5hWxswjAGuqaOXOLKrS2YcjtKWD5fGa9tBzkt0ID-2=
+FdcJ6ngX4KXOxTY4dTTGCEzwVtGoSmaEM21-2BSD9BY-3D">
+13.=20
+Driver seat assembly=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 8.18 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+madhya pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellabeq=
+VRcCRNklw0E-2F-2Bk2Knk5eRHqKRhJMAjkuvACERJs7cKtd2wDcnLtbxt0PjZeUr_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqUpEAtvMO91n0peDOn4aK3fZGDRspCWpxY2Abtj6xUpJUqY8GVtC1tMUHFxjvpL92ff=
+tvNJOcsZl2lY9mjXdLLwdkTSozGCmYVZZxgjxwzgx-2FAUNFuEyOv-2FhUQdtiD9PREhMWgJpWn=
+pRj-2B5tgT9Nb9g-3D">
+14.=20
+Driver seat and padestal=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 2 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 15.93 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+west bengal
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWella38Q=
+UJNwuxjmKAj-2Fb4YgEbY9ErZLXMdaWIDQlhu1gK66Qu4Sb5E7YVdqVDmyA1-2F8b_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqYeouI1h4lQ-2BCDgUb3tKNHt7QWVOIA1otud36gbljJ28nmiU6xX-2BhVBdyr4zBXC=
+qbFhi8XfV6PV3GOMmKGc1cgVEZUKCKOYk2tDSASXCDjiCkFASsPv9GIqi-2BWSvGEeRsV4jNWGP=
+2fhQwF49LZ4Xo30-3D">
+15.=20
+DRIVER ' S SEAT WITH PEDESTAL ASSLY. AS PER CLW SPEC. NO.- CLW/ MS/ 3/ 021 =
+( ALT.- 6 ) & CLW DRG. NO.- 1209- 08- 131- 010 ( ALT.- 6 ) FOR CREW FRIENDL=
+Y CAB.=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 69 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellajHr=
+igt3sN05czmWZbyiz1wmlK9D7GCdI0PmeVhhDXmyWnRCJTeQGvPvIdzQE6Ae1_P1-2F02ROz2I7=
+U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY=
+0qPtqQG8ngXvIQZDpwFj5f9M0jqiinL98fX7p5G-2FyP-2Fm6NsaFfRqdz-2BCz7q3t-2FM92mW=
+Tbb00KbA44w-2BfDcEKAumaDPoyF9-2Fj0ooJCBKeMmktkEOocD2cn5y3bDsyPdJAL2iI6V18hZ=
+bV9dcL5I0UpjY9y2g-3D">
+16.=20
+S & I OF FRP PANEL=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 12 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 9.8 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWella9pp=
+1ux1zi8Zy0mnuE5eKQR0eFeZPcVOEn5nTnFcU7dP2dy0UkPceEbCcuybY5lcPMMtTRC9jDktY6j=
+-2FMJWk4xw-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsS=
+vLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqcMpea138HKJSiSKkJt1YJZxzfI-2BjyB3tlP5EBl=
+iM57trslDN65L31a4wfuJNknJWX3Qovk23mS45JyoAXocwWGmlaAoX7DM2hjJIupwtnOxKdte0O=
+5Bg4lPPTLASQLlfy72YC4qMrrEiFRAbATbSMQ-3D">
+17.=20
+FRP SIDE WALL PANEL=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 5 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 1.31 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaqgQ=
+Fxdl-2Fjbow2tbwDBMaHwi4xRmiMFzKg0G0d5YYR1bE81PdGj5HTXZxbHIy-2B5KC_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqQOu3619wrvbXTNfTACxHlxUUhd8pNvBSY8hu2JfkA2Vw51nz7Uk3ugv-2FZTWt3hhU=
+CkU5-2FcpCOnHagsGgq6L8-2FG4823kebkAu-2BcY0Y3z9NbKrQyEx1zDV-2BZBwp0D6ArfWWi5=
+Zyih87g-2FsiG9K8tQBoQ-3D">
+18.=20
+FRP SIDE WALL PANEL=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 16 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 5.08 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+gujarat
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaKhs=
+E-2B84rrv6u7GQk0BBqVFp4F2OHq3LJGcN6nQp6nmyQGDz5q4rcrUtSeLQbigKBqy29YD08aPC0=
+57nd4-2BT-2FJg-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS=
+8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqYPHRO0rAsUTo5qoY4p8E69yvhK0w1ADfMZ-2=
+FIWaU9jDl1cDQQzW6Qe-2B1BgwYGJMUrtEUb2lT1UyZRAXMf5w0Se6UBzzU36WNmkpRzYOYGAHe=
+r81eoKM5rEpcws2Eia0FHiiJRH0FcPOyx11xGDMy6zs-3D">
+19.=20
+PROCUREMENT OF VALVE BLOCK ASSLY FOR TURBINE FRONT BEARING PEDESTAL STAGE I=
+I NTPC Mouda=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 3 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+andhra pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaHXc=
+lI9TGAJ3H3MiQ4AsoVaA-2FsKq1WltAgTim0R-2Bm3QrVKkmevws2pnoX1ECX62TMe3VGEZa9EG=
+B2-2FwzVEW4Mrw-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS=
+8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqWP3ae0leDq0nENsBOzWcI3R97t48J8kdtkji=
+9lOmOQKqNT55QSIXN5MF-2Bz6rC8ctNR0hwedKXS-2BDmb9ZsWw25fVhyMufAYxkVyVsbltd8GN=
+XCKPyxTQdyieUhRCVYtiTmjv48dd0xMV8-2FO-2B5DnhKag-3D">
+20.=20
+Back rest cum berth holding bracket=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 3 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+madhya pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaQYc=
+r6UDvgkQ-2B5dAR3kllcz3q53SKP4FNnCtUaL2NqOA7oNu-2F6Iforbs5GJ9lBu4F_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqQ1c-2BU2sv9q1kXzZr1aJHH90gjkMbd8XMOhCMhi-2FvUZgzVIN4d-2FnLsyRIwI10=
+zReArh-2B1RAq8xh2IIvE09t9RrJgQXO68OuzGkUZRr8zsi1l0t7Y-2BDmQey3Js5oV-2Frf67x=
+hAZZRg7wNctgOxllmVgT8-3D">
+21.=20
+Modified single seat back rest frame=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 11 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 5.0 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+andhra pradesh
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellag-2=
+F2J9gK6vcXp16GS1XU42JJO-2FFrgMH3HSsyMe6rp6Ae3Wn4NoJUcSOKjSjEwh4sG_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqTtfKFH1ufkBKHEjVGt1xOU2rH2vzpEQSwMB1PRfNWAfp9NYk04bzRCD7i3wqKGbVkq=
+3-2BWFzsA2fKfm58-2FBjCsP72CIVgtixiuQpXeJRIYjqaSMNm90RwdXoup-2B8JcQuemvmPipF=
+NZII3lTdQO8Vw7o-3D">
+22.=20
+Frame for Bed Cum Back Rest to ICF Drg. N=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 10 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+tamil nadu
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellamzl=
+Pjs8cOeTQHCUIchObmvLxJUIXWXTsv2V98VfwZ3tFJK2CrF04bGnz9ziyXbal_P1-2F02ROz2I7=
+U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY=
+0qPtqcmZ8D7p80NB1cBYMPQvVvlQ1xXRHl-2BSglQN3oSmZ3G04V1yYIA2eD6h11vYcyVpYKSyM=
+tVOGVkGwv9p5u-2ByvcywXARzc3flKBy3nLHdsiVqBTaH4UmvQHmpJsm2-2BfhJCri0lZpafx8a=
+PuTE1hxep6o-3D">
+23.=20
+S & I OF FRP INTERIOR PANEL AC 2T=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 16 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 2.91 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaJxj=
+fWrLBZx6XAa-2BY3dvdzUUiQuhVVW-2BB-2Blx8VNscnbgY097VJf1RDTItQuoqFaVe_P1-2F02=
+ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE=
+3xqcHY0qPtqZbyE6KUi-2BWL-2BSid824x7bM1V5D2YJymMQqJQDuG2DlyjcBjY4j0lgjG1bCBw=
+3u5Aq-2BgCb-2FmxvqymSFHmJ9l60-2BOTWP-2BLVqPRmqppbbHRgPUTrQZZlcF3jaJoNzJw9V1=
+sThLSonSv-2B1wkc7e727JWlI-3D">
+24.=20
+DRIVER SEAT ASSEMBLY WITH RECLINING, SLINDING AND HEIGHT ADJUSTMENT MECHANI=
+SM DRG. NO. DLW PART NO. 11811717 ALT- c PURCHASE SPECIFICATION NO. HHP/ VE=
+H/ 001 Dt. MARCH- 2013, REV- 03=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 11 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 88.5 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+karnataka
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellakSo=
+zm7-2B6hA1voHjvKpZnmx9qOzSnohY-2BqypTRdlzByZeuKDzY9xuXyZWpOSWDysF0F1BpOhq2v=
+xPyhX-2Ba4Fx1g-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS=
+8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqX0A2rj-2FatE9MEeiKrByWgCiyk5QR1zbDBD=
+y1docQkCP-2BbIRFEgeD2WKeOr4rEnB9eSfNOR0BaFcdV8Vj6esI2rbPCaIYSxc9qETgBsgZPIG=
+X-2FqgoUUtyog6bFjK9XxwWpuq77LaYhccy7ZXvyIet90-3D">
+25.=20
+Purchase of Back Shock Absorber Assembly for back rest tilting of CAB seat =
+in WDP4/ WDG4/ WDP4B Locomotives to DLW Part No. 17455121, item No. 11 of d=
+rawing no. 10648580.=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 4 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+west bengal
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaHkS=
+mNJvo3Ztt8xcAT-2F0zZQ1qijOqTb60c5cp07vTzq2ObRIObQRi-2B4v6q4hGPJM9_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqRYFEXNB2idpCCjtaufen09jCckiLhDSp-2BteKWsUTJ-2BjAIEVwhSvq0TipME7L0O=
+FPJun3N2PiqgjuPhEzs54avYJt89CENwTTMrGbn8rRNMSCgAWEzbgptBpTFkTSnE1m-2F8vrpDd=
+0GyrmY3wnovlUvs-3D">
+26.=20
+Operation and Maintenance of Industrial Relation Management System, Materia=
+l Tracking System and Issuance of Visitor Photo Gate Pass and Vehicle Pass =
+at Santaldih Thermal Power Station.=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 18 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 13.08 lacs  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaSh-=
+2B4jGMFKfRb-2Fmo2JHoQcI9Cf4IFX9T2UTAuuHNRNidpheSQkTV5MK93H9QB-2B-2FZBHBWM8h=
+yL8j6C2qIYu8Rbww-3D-3D_P1-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19=
+tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qPtqehiR7-2Ff22ie8Be8o-2BK2tqr6hK75ZSl=
+1epYLnNMCZks78BzOeq2SQ5zmS60FlnBWLfKyaEB9mMJJ-2FYzJbETk4UabNNHgQ-2Fk-2BfcaC=
+ypzMMbhFTPMvP8hQyK9YHXK-2BZM-2BMWFy3KIi6SBGDwWUq1dP8g6Q-3D">
+27.=20
+SUPPLY & FITMENT OF SEATS FOR SECOND AC CHAIR CAR LHB COACH ( 78 SEATER ) W=
+ITH FIRE RETARDANT UPHOLSTERY OF M/ s E- LEATHER OR EQUIVALENT, PU FOAM TO =
+RDSO SPEC. RDSO/ 2007/ CG- 04 AS CUSHIONING MATERIAL WITH TOXICITY MAX. 2. =
+5 WHEN TESTED AS NCD 1409. upholstery, design and pattern AS PER DESIGN L. =
+NO. 802- M/ 10/ Specification/ MC- II/ 2019/ Pt. II Dt 19. 03. 19, SPECIFIC=
+ATION:- RCF/ MDTS- 219 REV. 02=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 20 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 4.39 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+new delhi
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaG93=
+xVoaTEjr8qIe1SRoOKUs-2Fq3ojPFa8Jf0ygUaa3hnNiVbJDh-2FWaFC9iiWkrQK2_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqchfm4heRvD8cwlqfEpeYFfuzU8x4AbKFSMvZnBgeRnJdYdb6VanZ3xkIDIowfHFHqy=
+Zbj-2B-2Br-2BIOiaZySKo6gm-2B8KRKo0qD1wmCJcS07d04io9qNHQUzC67fA1KMiY5xN79DR7=
+nM5-2FHDA30bKCgTskA-3D">
+28.=20
+SUPPLY & FITMENT OF SEATS FOR EXECUTIVE AC CHAIR CAR LHB COACH ( 56 SEATER =
+) WITH FIRE RETARDANT UPHOLSTERY OF M/ s E- LEATHER OR EQUIVALENT, PU FOAM =
+TO RDSO SPEC. RDSO/ 2007/ CG- 04 AS CUSHIONING MATERIAL WITH TOXICITY MAX. =
+2. 5 WHEN TESTED AS NCD 1409. upholstery, design and pattern AS PER DESIGN =
+L. NO. 802- M/ 10/ Specification/ MC- II/ 2019/ Pt. II Dt 19. 03. 19, SPECI=
+FICATION:- RCF/ MDTS- 219 REV. 02=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 20 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Rs. 2.26 crores  &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+karnataka
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaMM-=
+2Byx2A5QWcjg7fqmkcQLBHmtRXuTl-2Fn5FCmD7eRh7KQ1qbHZxw4nbTnzxyM2O9L_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqc6EEpzh91LL-2BvFp-2BOdZpq9IVMOfqdKw6hDhtgoQD3IAghD1-2FAOFtYlpGTWwc=
+R5jF7yZNWXTyP7s7M0M20m9Q8fClAyfIXRcdzEU6aKNBd1OaV61grwmEJ1nezybDNwNe4wjqsqE=
+zSFccUmo1NOlWag-3D">
+29.=20
+FRONT HORN, BRAKE CABLE RH, BRAKE CABLE LH, HEAD LIGHT ASSY, REVERSE HORN, =
+DRIVER SEAT BELT, TAIL LAMP ASSY, REAR VIEW MIRROR. [ 8 ITEMS ]=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires in 4 days &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+
+<tr>
+<td align=3D"left" style=3D"padding-top:20px; padding-bottom:1px; text-tran=
+sform: uppercase; font-size: 11px; font-weight: 400; font-family: Helvetica=
+, Arial, sans-serif; color: #888;">
+maharashtra
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"padding-top: 5px">
+<a style=3D"padding: 10px 0 5px 0; font-size: 17px; line-height: 25px; font=
+-family: Helvetica, Arial, sans-serif; color: #0084b4; text-decoration: non=
+e;" class=3D"padding-copy" href=3D"https://u3447790.ct.sendgrid.net/wf/clic=
+k?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVcEH3GRUxWK0fCueCXWellaz75=
+EWClJMSEITkyHtdyyBOU-2BF9wieny5ZtWze8zhEq4dPFy-2BbftnYC9gx1GaCj6h_P1-2F02RO=
+z2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3x=
+qcHY0qPtqUTbSRGNd6SqBjSw0UljZKG1-2F8WVHZr21mgx0kXnSZy-2Fx2EBVLRPyDDkQXRfLER=
+VU3IylfoW-2BiMsMoeHCO-2Bx8cntk1mcl0kbumW61Q1Ck32owTdlYwjUh3n7G4yvIx-2F0FOZa=
+MDfG370SinICP-2BNnmp4-3D">
+30.=20
+A. MATERIAL MANAGEMENT & HANDLING WORK  THE WORK RECEIPT, UNLOADING, VERIFY=
+ING, SHIFTING, STACKING, PRESERVATION, HANDLING AND HANDING OVER OF COMPONE=
+NTS OF HRSG WITH AUXILIARIES; STEEL CHIMNEY, GAS TURBINE & AUXILIARIES; BY-=
+ PASS STACK, GENERATOR & AUXILIARIES; LEAN GAS COMPRESSOR & AUXILIARIES, CO=
+OLERS, GAS SKIDS, DEAERATOR & AUXILIARIES, SKIDS, PUMPS, ROTATING MACHINES,=
+ TANKS & VESSELS, PIPE & FITTINGS, COMPLETE ELECTRICAL, CONTROLS AND INSTRU=
+MENTATION EQUIPMENTS, PANELS, CABLES/ CABLE TRAYS, AND OTHER RELATED ITEMS =
+INCLUDING ITEMS OF BOPS PACKAGES; INSULATION MATERIAL; BHEL T & P & OTHER M=
+ATERIALS; COMPONENTS & EQUIPMENT OF VARIOUS OTHER SYSTEMS, STRUCTURAL & REI=
+NFORCEMENT STEEL AND PROVIDING SERVICES FOR MATERIALS MANAGEMENT For ONGC U=
+RAN GT- IV AND LGC PROJECT. AND B. CIVIL & STRUCTURAL WORK  CIVIL, & ARCHIT=
+ECTURAL WORKS AS PER SCHEDULE OF ITEMS COMPRISING OF DISMANTLING EXISTING F=
+OUNDATIONS/ PAVEMENTS, CONSTRUCTION OF FOUNDATIONS FOR GTG & AUXILIARIES, H=
+RSG, HRSG STEEL CHIMNEY, TRANSFORMER, SKID FOUNDATIONS, FRP COOLING TOWER B=
+ASIN, COMPRESSOR, DM TANK, PUMPS, COOLERS, OTHER MISCELLANEOUS EQUIPMENTS, =
+CONSTRUCTION OF BUILDINGS ( RCC/ STRUCTURAL )- GTG BUILDING, SWGR CUM CONTR=
+OL BUILDING, EXTENSION OF EXISTING CONTROL ROOM, SWAS ROOM, COMPRESSOR SHED=
+, VFD AND MCC ROOM BUILDINGS, BALANCE OF PLANT ( BOP ), ETC CONSTRUCTION OF=
+ FOUNDATION & SUPER STRUCTURE OF PIPE RACK CUM CABLE RACK, DEAERATOR STRUCT=
+URES, CONSTRUCTION OF SERVICES- STORM WATER DRAIN SYSTEM, MAIN ROAD, APPROA=
+CH ROADS, RCC PAVEMENTS, DYKE WALL AND FIRE WALLS, ACID ALKALI PROOF LINING=
+, SAFETY SHOWER AND EYE WASH SYSTEM, FIRE PROTECTION SYSTEM, CRANE MOVEMENT=
+ ROAD, DRAINS CULVERTS, ERC/ IRC, PROCESS WASTE COLLECTION SYSTEM, WWS- WAS=
+TE WATER SEWER, OILY WASTE SEWER ( OWS ), CONTAMINATED RAIN/ FIRE WATER SEW=
+ER ( CRWS ), WDK- POTABLE DRINKING WATER SYSTEM,, SANITARY AND PLUMBING SYS=
+TEM IN THE BUILDINGS, COOLING WATER SUPPLY & RETURN ( WCS/ WCR ), RCC ELECT=
+RICAL/ INSTRUMENTATION CABLE TRENCHES AND PIPE TRENCHES, ROAD CROSSINGS, CU=
+LVERTS, PIPE WAY BRIDGES, PIPE WAY SLEEPERS, CROSSINGS OF UNDERGROUND SERVI=
+CES BELOW APPROACH ROAD FOR ALL SERVICES IN THE CORRIDOR, ELECTRICAL EARTHI=
+NG STSTEM ( EARTH MAT AND EARTHING PIT & TEST PIT ), FIREPROOFING OF STRUCT=
+URES, BARRICADING, MICRO GRADING & DISPOSAL OF SURPLUS AND UNSERVICEABLE MA=
+TERIAL BEYOND ONGC URAN COMPLEXS COMPOUND WALL ETC FOR ONGC URAN GT- IV AND=
+ LGC PROJECT. AND C. MECHANICAL ERECTION & COMMISSIONING WORK COLLECTION/ L=
+OADING/ UNLOADING/ TRANSPORTATION OF MATERIALS FROM BHEL/ CLIENTS STORES/ S=
+TORAGE YARDS TO SITE OF WORK, ERECTION, TESTING, COMMISSIONING, APPLICATION=
+ OF THERMAL INSULATION, FINAL PAINTING AND HANDING OVER OF 1X60 TPH HEAT RE=
+COVERY STEAM GENERATOR WITH AUXILIARIES, STACK/ STEEL CHIMNEY WITH ASSOCIAT=
+ED AUX, 1X15 MW ( Fr5 ) GAS TURBINE- GENERATOR SET WITH THEIR AUXILIARIES, =
+DEAERATOR & AUXILIARIES, LEAN GAS COMPRESSOR & AUXILIARIES, COOLERS, SKIDS,=
+ PUMPS, ROTATING MACHINES, TANKS & VESSELS, PIPE & FITTINGS, BALANCE OF PLA=
+NT EQUIPMENTS/ SYSTEMS WITH RELATED AUXILIARIES, INTEGRAL PIPING, FIELD/ EX=
+TERNAL/ PIPING, DISMANTLING/ SHIFTING OF EXISTING SYSTEMS/ EQUIPMENTS ETC. =
+OF ONGC URAN GT- IV AND LGC PROJECT. AT ONGC URAN PROJECT MAHARASHTRA=20
+</a>
+</td>
+</tr>=20
+<tr style=3D"font-size: 12px; line-height: 20px; font-family: Helvetica, Ar=
+ial, sans-serif;">=20
+<td align=3D"left" style=3D"padding: 5px 5px 10px 0; color:#888; border-bot=
+tom: 1px solid #ccc;">=20
+<span style=3D"color:rgba(255, 165, 0, 0.7);">
+&#9733;
+</span>=20
+Expires today &nbsp;=20
+<span style=3D"color:rgba(200, 50, 30, 0.7);">
+&#9733;
+</span>=20
+Price unavailable &nbsp; =20
+</td>=20
+</tr>
+<!-- Tender -->
+<tr>
+<td align=3D"center">
+<!-- BULLETPROOF BUTTON -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" style=3D"padding-top: 25px;" class=3D"padding">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"mobile-but=
+ton-container">
+<tr>
+<td align=3D"center" style=3D"border-radius: 3px;" bgcolor=3D"#256F9C"><a h=
+ref=3D"https://u3447790.ct.sendgrid.net/wf/click?upn=3DOPIx4gTupK264huyw7k2=
+hAQ97E7sRLd8bm0mgxDsIVcsbSLflt0aGGL3YhWfWEjDsnVaukYKOi6gNNAvdBQlJg-3D-3D_P1=
+-2F02ROz2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2F=
+s9tiE3xqcHY0qPtqRwk0aSGX0o7D-2BIwlnmpLOA0USIM0eC3NnveWJCUsNuwfovnoG7TObcXUF=
+6HQuXn25MZF3ZtOE-2FWM9TZBZiB9JviQnPXOoC95O09rNx4HjnkVK-2BLFN2KTeJBt7pIfhpVH=
+5x-2BN8DuJgWHjdNLKfl5R9Q-3D" target=3D"_blank" style=3D"font-size: 16px; fo=
+nt-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: n=
+one; color: #ffffff; text-decoration: none; border-radius: 3px; padding: 15=
+px 25px; border: 1px solid #256F9C; display: inline-block;" class=3D"mobile=
+-button">Click to see all</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- NUMBER START BOTTOM--><tr><td align=3D"center" style=3D"font-size: 16p=
+x; font-family: Helvetica, Arial, sans-serif; color: #777777; text-decorati=
+on: none; border-radius: 3px;padding-top: 20px; padding-bottom: 10px;" clas=
+s=3D"padding" >Call <strong>7349250104</strong> to subscribe</td></tr><!-- =
+NUMBER END BOTTOM-->
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"center" style=3D"padding: 10px 0px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"500">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"500">
+<![endif]-->
+<!-- UNSUBSCRIBE COPY -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" style=3D"max-width: 500px;" class=3D"responsive-table">
+<tr>
+<td align=3D"center" style=3D"font-size: 12px; line-height: 18px; font-fami=
+ly: Helvetica, Arial, sans-serif; color:#666666;">
+Primetenders, &copy; 2016
+<br>
+<!-- UNSUBSRICBE START--><a href=3D"https://u3447790.ct.sendgrid.net/wf/cli=
+ck?upn=3DOPIx4gTupK264huyw7k2hAQ97E7sRLd8bm0mgxDsIVdsPbSbtMiIhkbn76yWT8XzKk=
+lLrt6Xx4ftc-2B14B2rgvjIzO1uwGLT8DrKdaIWsekcUmcCvFAuNGkPaQs2TpWwS_P1-2F02ROz=
+2I7U1bGGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xq=
+cHY0qPtqdc2IFhaWLcg3cnXVCx-2By6tQXzOZr9NK79fwtkydSzunx49SPQ-2BXRRY-2FJGda2x=
+CfW5RjLVmxagS6R4f1W92KEc8Fuus-2FkT3alf6lnXIsdEh3aMm9eYkYUIxbASukNANp7nyrV4X=
+u5WZqv6HOWRvj-2FMM-3D" target=3D"_blank" style=3D"color: #666666; text-deco=
+ration: none;">Unsubscribe</a><!-- UNSUBSRICBE END-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+
+<img src=3D"https://u3447790.ct.sendgrid.net/wf/open?upn=3DP1-2F02ROz2I7U1b=
+GGgZ-2BP3SipCMWmRzniCQEQhViuZHyNUi19tS8zsSvLnen-2F5TcclPmv-2Fs9tiE3xqcHY0qP=
+tqRHUbwOzJFiiGRb8PSdxKu8-2FNMfhufvJtzYba83y-2B1ASqXPpCCkDMYKhEUVuxfShrfyM9U=
+ZENLwW2pSYPWn6FON4cvjoXjct7ZDZLMzR8tl221CS8VDnhP9YbevkRrDPFD-2FiQjXHeVwX9ev=
+FQ4ZL7T0-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height=
+:1px !important;width:1px !important;border-width:0 !important;margin-top:0=
+ !important;margin-bottom:0 !important;margin-right:0 !important;margin-lef=
+t:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding=
+-right:0 !important;padding-left:0 !important;"/></body>
+</html>=

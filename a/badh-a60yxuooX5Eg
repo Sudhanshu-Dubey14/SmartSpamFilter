@@ -1,0 +1,180 @@
+Return-Path: <dailynews@rediffnewsmailer.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a60yxuooX5Eg>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a60yxuooX5Eg for <admin@mslindia.net>;
+	Wed, 14 Sep 2016 07:31:50 +0530 (IST)
+Received: from backnotify.rediffnews.in (unknown [202.137.238.174])
+	by mx10.jcbl.com (Postfix) with ESMTP id 1750B1021AB9
+	for <bharat_kumar@mslindia.net>; Wed, 14 Sep 2016 07:31:47 +0530 (IST)
+Received: from BackyardStandalone.rediff.com (unknown [10.50.250.70])
+	by backnotify.rediffnews.in (Postfix) with ESMTP id BC7612D992C
+	for <bharat_kumar@mslindia.net>; Wed, 14 Sep 2016 07:31:41 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 backnotify.rediffnews.in BC7612D992C
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=rediffnewsmailer.com;
+	s=mail; t=1473818501; bh=zZbl1NfegyYxQR+QWVyQkEvJ75g=;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=dkT1mlm+JE8Kyg+3mVdPqxGHJj9beHTTByGAPSDtokjOq1Btv82KRcJlZSCnDuxl7
+	 WcOF2mM219aI5pEexnqKCYvsdxDZfwE+ayMI17zxK0Ah5fXEQaX9f2o5koUikV9X9d
+	 F6mOEdtN6eaCe5Zmm5vaJVgBl+njFQuNPlsOBGl0=
+From: Rediff News <dailynews@rediffnewsmailer.com>
+To: bharat_kumar@mslindia.net
+Message-ID: <1908819213.424482906.1473818646915.JavaMail.root@BackyardStandalone.rediff.com>
+Subject: Mumbai's magnificent Ganesh pandals!
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-REDIFF-MAILERS: c42bdd163ae57a8f6313ce3a4a83bafc
+
+<div style="padding: 5px; font-family: verdana, arial; font-size: 12px;">
+	
+	
+			
+	<div style="clear:both;height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style='border:solid 7px #f0f0f0; text-align:left; width:95%;'>
+	<div style='border:solid 1px #ccc;background-color:#fff;padding:15px 0 10px 15px;'>
+	<table cellspacing='0' cellpadding='0' border='0' style='font-family:georgia;font-size:13px;width:96%;'>
+	
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>1</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/ganesh-2016-the-oldest-ganesh-pandals-in-mumbai/20160913.htm?pos=1&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Mumbai's magnificent Ganesh pandals!</p> They are the oldest in the city as well. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>2</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/kolkatas-mocambo-refuses-woman-driver-entry-she-calls-them-racist-in-viral-post/20160913.htm?pos=2&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>A popular restaurant refused her driver entry</p> They didn't realise Dilashi Hemnani wouldn't tolerate discrimination. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>3</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/pix-celebrating-eid-under-curfew/20160913.htm?pos=3&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Photos: An Eid like no other</p> While the world marks Eid-al-Adha, the Kashmir Valley remains silent. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>4</div></td>
+		<td>
+			<a href='http://www.rediff.com/news/report/mentally-challenged-kids-ignored-by-delhis-schools/20160913.htm?pos=4&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>When schools ignore mentally-challenged kids...</p> This mother approached the education department. The chief minister. The prime minister.  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>5</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/wot-a-4-kg-gaming-notebook/20160913.htm?pos=5&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Whaaat! A 4-kg gaming notebook</p> Why the Asus G752VY isn't meant for everybody. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>6</div></td>
+		<td>
+			<a href='http://www.rediff.com/getahead/report/glamour-vote-whos-the-hottest-september-cover-girl/20160913.htm?pos=6&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Sizzling hot! September's cover girls</p> Take a look. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>7</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/farhan-akhtars-cousin-wins-an-emmy/20160913.htm?pos=7&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>The only Akhtar to win an Emmy!</p> Is it Javed? Farhan? Zoya?  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>8</div></td>
+		<td>
+			<a href='http://www.rediff.com/cricket/report/what-sandeep-patils-tenure-did-for-indian-cricket/20160913.htm?pos=8&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>What Sandeep Patil's tenures did for cricket</p> As player. As selector.  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>9</div></td>
+		<td>
+			<a href='http://www.rediff.com/business/report/auto-india-to-get-its-first-electric-motorcycle-by-2017/20160913.htm?pos=9&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>Will this be India's first electric motorcycle?</p> Here's why it could be a bike Indians will love to own. <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+	
+		<tr valign='top'>
+		<td width='50'><div style='width:40px;text-align:center;background-color:#f0f0f0;color:#a7a7a7;padding:4px 0;font:bold 25px verdana;'>10</div></td>
+		<td>
+			<a href='http://www.rediff.com/movies/report/when-abhishek-got-upset-with-his-father/20160913.htm?pos=10&src=NL20160914&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0' style='color:#000;text-decoration:none;' target='_blank'><div style='line-height:1.5em;'><p style='font:bold 20px georgia;margin:0 0 5px 0;color:#2c2c2c;'>When Abhishek got upset with his father</p> 'All four of us are huge sulk masters. Ma and I sulk for an hour or two but Pa's and Shwetdi's sulks can last for a month.'  <span style='color:#31aae3;font-weight:bold;'>Read on</span></div></a>
+		</td>
+		</tr>
+
+		<tr><td colspan='2'><div style='border-bottom:1px dotted #a7a7a7;margin:0 0 15px 0;'>&nbsp;</div></td></tr>
+		</table>
+	</div>
+	</div>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<p style="margin: 5px 0 0 0; font-size: 14px;" align="center">
+		<b><a href='http://www.rediff.com/newsletter/2016/sep/14newsletter.html' target="_blank"
+			style="white-space: nowrap">View in browser</a> &nbsp; &nbsp; 
+			<a href="http://www.rediff.com/" target="_blank"
+			style="white-space: nowrap">Explore rediff.com</a> &nbsp; &nbsp; 
+			<a href="http://rediff.com/newsapp" target="_blank"
+			style="white-space: nowrap">Get our News App!</a></b>
+	</p>
+
+	<div style="height: 15px; line-height: 15px; font-size: 1px;"></div>
+
+	<div style="text-align: center">
+		<p style="margin: 5px 0;">
+			<span>You have received this mail from&nbsp;</span> <a
+				href="http://www.rediff.com" rel="external" target="_blank">
+				Rediff.com </a> <span>&nbsp;because you have subscribed to</span> <a
+				href="http://www.rediff.com">Rediff.com</a>'s newsletter. To ensure
+			delivery, add <a href="mailto:newsletter@rediffnews.in">dailynews@rediffnewsmailer.com</a>
+			to your address book
+		</p>
+		<div>
+			<span>This is an auto-generated mail. Click&nbsp;</span><a
+				href="http://www.rediff.com/newsletter/unsubscribe" rel="external"
+				target="_blank">Unsubscribe me from this list</a><span>&nbsp;if
+				you do not wish to receive any future newsletters from <a
+				href="http://www.rediff.com">Rediff.com</a>.
+			</span> <br />
+			<br /> <strong>&copy; 2016&nbsp;<a
+				href="http://www.rediff.com" rel="external" target="_blank">Rediff.com</a>.
+			</strong>
+		</div>
+	</div>
+
+</div>
+
+<img border="0" height="0" width="0" style="display: none;"
+	src="http://track.rediff.com/click?url=___http://im.rediff.com/uim/trans.gif___&cmp=signature&lnk=open-(NL20160914)&newservice=editnews&trackid=acKp+d11bVjPPg9LGzVyaXeb+TVCNGx1MeJFHg1usd4=&isnlp=0&isnlsp=0" />

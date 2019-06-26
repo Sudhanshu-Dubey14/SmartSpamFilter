@@ -1,0 +1,27 @@
+Return-Path: <merchandise@grandtrunk-harley.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <merchandise@grandtrunk-harley.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aNrkKBVaGbGL>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aNrkKBVaGbGL for <merchandise@grandtrunk-harley.in>;
+	Mon, 30 Apr 2018 15:11:14 +0530 (IST)
+Received: from gtharley (unknown [202.164.59.189])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 5C16A10263CF
+	for <merchandise@grandtrunk-harley.in>; Mon, 30 Apr 2018 15:11:14 +0530 (IST)
+From: Microsoft Office Outlook <merchandise@grandtrunk-harley.in>
+To: =?utf-8?B?bWVyY2hhbmRpc2U=?= <merchandise@grandtrunk-harley.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE9mZmljZSBPdXRsb29rIFRlc3QgTWVzc2FnZQ==?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Office Outlook while testing the settings for your account.
+

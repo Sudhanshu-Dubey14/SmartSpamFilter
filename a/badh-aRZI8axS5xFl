@@ -1,0 +1,27 @@
+Return-Path: <media@knockonwood.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <media@knockonwood.co.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aRZI8axS5xFl>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aRZI8axS5xFl for <media@knockonwood.co.in>;
+	Fri, 22 Jul 2016 15:16:43 +0530 (IST)
+Received: from epistlePC (unknown [182.68.249.254])
+	by mx10.jcbl.com (Postfix) with ESMTPA id A4707F24FE6
+	for <media@knockonwood.co.in>; Fri, 22 Jul 2016 15:16:42 +0530 (IST)
+From: Microsoft Office Outlook <media@knockonwood.co.in>
+To: =?utf-8?B?S25vY2sgb24gd29vZA==?= <media@knockonwood.co.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE9mZmljZSBPdXRsb29rIFRlc3QgTWVzc2FnZQ==?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Office Outlook while testing the settings for your account.
+

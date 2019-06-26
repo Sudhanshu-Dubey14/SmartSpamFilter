@@ -1,0 +1,693 @@
+Return-Path: <donotreply@smartdraw.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <arun_verma@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a4gVDD3YUssz>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a4gVDD3YUssz for <arun_verma@jcbl.com>;
+	Fri,  5 Aug 2016 05:37:10 +0530 (IST)
+Received: from bizmail.smartdraw.com (bizmail.smartdraw.com [136.179.8.138])
+	by mx10.jcbl.com (Postfix) with ESMTP id 5FD7CF43A57
+	for <arun_verma@jcbl.com>; Fri,  5 Aug 2016 05:37:06 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkey1; d=smartdraw.com;
+ h=From:To:Reply-to:Subject:MIME-Version:Content-Type; i=donotreply@smartdraw.com;
+ bh=KuD9ct1lBy3PIJhDbYX5qP1IRsU=;
+ b=UGed/l/z3z9vbePZDqAfDLP4pKBZt2/30cfB85AeE+IJoQ5h3V8ccJ3rxDMDEtDojcH5EO/NbaZJ
+   QVnxbOuRE3Nh2YkSHRQkEq/oSperyZvf0Z4QgRGUljQC5ci1PPqy9j53EtNF+51mA81aMb5oMRwG
+   YnS+DKwrtVky3PUZIUo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkey1; d=smartdraw.com;
+ b=K7hd3WGvgOveecYXgscGDhjcLtmcKXDx7Iqt8ofYAh1ZGNXXIw7MkpUIIIb95kXRsEsQ0UdV72Hp
+   uiNeVk1cNiKDM7dM6DC4gq5Qk+lLENoAy6zDHcFUR1TzOwq3Rwq95qkEMoA+7uHadGKJJkaQH2rR
+   R/BPyAF7CitCmRxlM+k=;
+Received: by bizmail.smartdraw.com id hkfcgq1b8eoo for <arun_verma@jcbl.com>; Thu, 4 Aug 2016 11:10:26 -0700 (envelope-from <donotreply@smartdraw.com>)
+From: SmartDraw Software <donotreply@smartdraw.com>
+To:   <arun_verma@jcbl.com>
+Reply-to: messagereply@smartdraw.com
+Subject: 5 challenges facing small business
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f"
+
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/plain; charset=Windows-1252
+
+***********************************************************
+How to Manage 5 Big Problems Facing Small Businesses
+***********************************************************
+There's nothing quite like the excitement of owning your own
+business. But it also involves plenty of challenges you need
+to understand and be prepared to face. Here are five of the
+major ones and suggestions for how to handle them.
+
+***********************************************************
+1. Capital/Cash Flow
+***********************************************************
+By far the biggest hurdle faced by start-ups and other small
+enterprises is money. Too many times, entrepreneurs don't
+start out with enough capital. Start-up costs often exceed
+budget. Get multiple bids for large-ticket items and always
+set up a contingency reserve for possible cost overruns.
+
+The other factor is cash flow. It's easy to be overly
+optimistic when projecting a break-even point. Be careful
+about forecasting unrealistic sales figures, or cutting your
+operating budget too thin. Many experts suggest having enough
+cash on hand to sustain the business for two years, at a
+minimum.
+
+***********************************************************
+2. Failure to Plan
+***********************************************************
+All too often entrepreneurs "fly by the seat of their
+pants." Unfortunately, many of these businesses become
+casualties before they get very far off the ground.
+
+If you want to succeed, you're going to have to treat your
+small business in much the same way that larger, successful
+companies treat theirs. Have a strategic plan with your vision,
+goals, and some market analysis. Develop a business plan with
+a detailed budget, cash flow and break-even analyses. These
+don't have to be long, narrative documents. In fact, you can
+create most of what you need with a few flowcharts, mind maps,
+project charts, and other business strategy diagrams.
+
+But don't cut corners in your research and analysis. It's
+easy to get anxious about your new venture and overlook the
+difficulties you will face. Take your time and create well
+thought-out plans. Dealing with and planning for tough issues
+in advance will be a huge step toward your ultimate success.
+
+***********************************************************
+3. Not Getting Expert Advice
+***********************************************************
+You will pay a little more for a lawyer and a CPA to get your
+business established than if you do it yourself. But this
+isn't replanting the flower bed in the front yard. Mistakes
+can be extremely costly. Good professionals will more than
+pay for themselves over time and you'll sleep better knowing
+that you have things set up properly.
+
+***********************************************************
+4. Time Management
+***********************************************************
+A plan is only good if you stick to it. That requires managing
+time well. Now, managing time well doesn't mean packing so
+much into your calendar that you can't possibly get it done.
+Pick and choose what's important, focus on the critical stuff,
+and get it done. Little things will fall through the cracks.
+Let them. If they're really important, they'll come back up.
+
+Use tools to help you, such as Gantt charts or Kanban boards.
+The visual displays make it easy to quickly decide on important
+tasks and follow them through to completion.
+
+***********************************************************
+5. Resistance to Change
+***********************************************************
+Whether your company is a start-up or has been around for
+100 years, innovation can be a frightening thing. But change
+is real. Don't get stuck in archaic ways of doing things.
+Embrace a culture of forward thinking. Be open with your
+staff about changes taking place in your organization, as well.
+
+***********************************************************
+Get started now.
+***********************************************************
+There's no risk when you buy SmartDraw. You get an amazingly
+powerful yet easy-to-use product, along with free support and
+our unconditional, 30-day money-back guarantee.
+
+**********************************************************
+Learn more
+**********************************************************
+Now that you're part of the SmartDraw community we invite
+you to keep in touch with us on your favorite social networks.
+
+- Connect with SmartDraw Software on Twitter
+  https://www.twitter.com/smartdraw
+
+- Connect with SmartDraw Software on Facebook
+  https://www.facebook.com/smartdraw
+
+- Connect with SmartDraw Software on LinkedIn
+  https://www.linkedin.com/company/38151
+
+- SmartDraw on YouTube
+  https://www.youtube.com/user/smartdraw
+
+- SmartDraw on Google Plus:
+  https://plus.google.com/+Smartdrawsoftware/posts
+
+
+You control the e-mail you get from SmartDraw Software. Unlist.
+https://www.smartdraw.com/support/emailpreferences.aspx?email=arun_verma@jcbl.com&TypeID=1
+
+SmartDraw Software, LLC
+9909 Mira Mesa Blvd., San Diego, CA 92131 USA
+Phone: 800-817-4238 (toll-free) | Phone: 858-225-3370
+(c)1994 - 2016 SmartDraw, LLC
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/html; charset=Windows-1252
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>How to Manage 5 Big Problems Facing Small Businesses</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+    /* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+    table{border-collapse:collapse !important;}
+    body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+    /* iOS BLUE LINKS */
+    .appleBody a {color:#68440a; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+
+    /* MOBILE STYLES */
+    @media screen and (max-width: 525px) {
+
+      /* ALLOWS FOR FLUID TABLES */
+      table[class="wrapper"]{
+        width:100% !important;
+      }
+
+      /* ADJUSTS LAYOUT OF LOGO IMAGE */
+      td[class="logo"]{
+        text-align: left;
+        padding: 20px 0 20px 0 !important;
+      }
+
+      td[class="logo"] img{
+        margin:0 auto!important;
+      }
+
+      /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+      td[class="mobile-hide"]{
+        display:none;}
+
+        img[class="mobile-hide"]{
+          display: none !important;
+        }
+
+        img[class="img-max"]{
+          max-width: 100% !important;
+          height:auto !important;
+        }
+
+        /* FULL-WIDTH TABLES */
+        table[class="responsive-table"]{
+          width:100%!important;
+        }
+
+        .responsive-block {
+          display: block !important;
+          margin: auto !important;
+        }
+
+        .responsive-block img {
+          width: auto !important;
+        }
+
+        .responsive-CTA {
+          width: 80% !important;
+          display: block !important;
+          margin: auto !important;
+        }
+
+        .iphone-fix {
+          padding: 10px 30px 10px 30px !important;
+          text-align: left !important;
+        }
+
+        .iphone-text {
+          font-size: 26px !important;
+        }
+
+        .iphone-h1 {
+          font-size: 40px !important;
+        }
+
+        .iphone-header {
+          font-size: 34px !important;
+          padding-top: 20px !important
+        }
+
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        td[class="padding"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        td[class="padding-copy"]{
+          padding: 10px 5% 10px 5% !important;
+          text-align: left !important;
+        }
+
+        td[class="padding-meta"]{
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+
+        td[class="no-pad"]{
+          padding: 0 0 20px 0 !important;
+        }
+
+        td[class="no-padding"]{
+          padding: 0 !important;
+        }
+
+        .no-padding {
+          padding: 0 !important;
+        }
+
+        td[class="section-padding"]{
+          padding: 10px 15px 10px 15px !important;
+        }
+
+        td[class="section-padding-bottom-image"]{
+          padding: 50px 15px 0 15px !important;
+        }
+
+        /* ADJUST BUTTONS ON MOBILE */
+        td[class="mobile-wrapper"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        table[class="mobile-button-container"]{
+          margin:0 auto;
+          width:100% !important;
+        }
+
+        a[class="mobile-button"]{
+          width:80% !important;
+          padding: 15px !important;
+          border: 0 !important;
+          font-size: 16px !important;
+        }
+
+      }
+    </style>
+  </head>
+  <body style="margin: 0; padding: 0;">
+
+    <!-- HEADER -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td bgcolor="#666666">
+
+          <div align="center" style="padding: 0px 15px 0px 15px;">
+            <table border="0" cellpadding="0" cellspacing="0" width="600" class="wrapper">
+              <!-- LOGO/PREHEADER TEXT -->
+              <tr>
+                <td style="padding: 20px 0px 30px 0px;">
+
+                </td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+
+
+
+    <!-- ONE COLUMN SECTION -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td align="center" style="padding: 40px 15px 0 15px;" class="section-padding">
+          <table border="0" cellpadding="0" cellspacing="0" width="600">
+            <tr>
+              <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <!-- HERO IMAGE -->
+                    <td class="padding-copy">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td>
+                            <a href="#" target="_blank"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/logo.png" border="0" alt="SmartDraw Logo" style="display: block; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max"></a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <!-- COPY -->
+<!--
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+
+                          <td align="left" style="font-size:36px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666; font-family: 'Open Sans', Verdana, sans-serif;" class="padding-copy"><font face="'Open Sans', Verdana, sans-serif">Keep Your Team on Track with SmartDraw CI's New Kanban Boards</font></td>
+
+                        </tr>
+                      </table> -->
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+
+
+    <!-- COMPACT ARTICLE SECTION -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td align="center" style="padding: 0 15px 0 15px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" style="padding:0 0 20px 0;">
+                    <tr>
+                      <td valign="top" style="padding: 20px 25px 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="responsive-block iphone-fix iphone-h1"><font face="'Open Sans', Verdana, sans-serif" style="font-size:36px; font-weight:400;margin-top:10px;line-height:110%; color: #666;">How to Manage 5 Big Problems Facing Small Businesses</font>
+                      </td>
+                    </tr>
+                </table>
+          <table border="0" cellpadding="0" cellspacing="0" width="600" style="padding:0 0 20px 0;">
+            <tr>
+
+              <td valign="top" style="padding: 20px 25px 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="responsive-block iphone-fix">
+                <font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">There's nothing quite like the excitement of owning your own business. But it also involves plenty of challenges you need to understand and be prepared to face. Here are five of the major ones and suggestions for how to handle them.</font>
+                <br /><br />
+                <font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size: 20px;">1. Capital/Cash Flow</font>
+                <br /><font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">By far the biggest hurdle faced by start-ups and other small enterprises is money. Too many times, entrepreneurs don't start out with enough capital. Start-up costs often exceed budget. Get multiple bids for large-ticket items and always set up a contingency reserve for possible cost overruns.</font>
+                 </td>
+
+              <td valign="top" style="padding: 20px 0 0 25px;" class="no-padding responsive-block">
+                <!-- ARTICLE -->
+                <table style="margin:auto;">
+                  <tr>
+                    <td class="responsive-block" valign="top" style="padding: 0"><img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/TCB-24709.png" alt="Small business problems" border="0" width="300" style="display: block; margin: auto; font-family: Arial; color: #666666; font-size: 14px; width:300px; height:auto;">
+                    </td>
+                  </tr>
+                </table>
+                <br /><br />
+                <table width="100%" cellpadding="20" cellspacing="0" bgcolor="#eeeeee" style="background-color: #eeeeee;" class="responsive-CTA">
+                  <tbody class="responsive-block">
+                    <tr class="responsive-block">
+                      <td class="responsive-block" bgcolor="#eeeeee" style="padding-top:30px;">
+
+                        <div style="width: 260px; display: inline-block; vertical-align: top;" class="responsive-block">
+                          <table width="100%" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                              <td style="font-size: 16px;color:#666666;">
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:3px; background-color:#074F06; margin:auto;">
+                                  <tbody><tr>
+                                    <td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+                                      <font face="'Open Sans', Verdana, sans-serif"><a class="iphone-text" href="https://www.smartdraw.com/buy/?slscid=7604_10943806_C9AC0341-919E-4D96-8358-EA3085AD3551" target="_blank" style="color:#FFFFFF; font-size:20px; font-weight:bold; text-decoration:none; text-align:center;">Buy Today</a></font>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <font face="'Open Sans', Verdana, sans-serif">
+                                <p style="text-align:center; margin-top: 15px; margin-bottom: 15px;"><a class="iphone-text" href="https://www.smartdraw.com/buy/?slscid=7604_10943806_C9AC0341-919E-4D96-8358-EA3085AD3551" style="color: #336699;" target="_blank">Buy SmartDraw Now and Save $100 or More</a></p>
+                              </font>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<br />
+
+<!-- ONE COLUMN SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 0 15px 0px 15px;" class="section-padding">
+      <table border="0" cellpadding="0" cellspacing="0" width="600">
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+			 <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"> <font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">The other factor is cash flow. It's easy to be overly optimistic when projecting a break-even point. Be careful about forecasting unrealistic sales figures, or cutting your operating budget too thin. Many experts suggest having enough cash on hand to sustain the business for two years, at a minimum.</font></td>
+                    </tr>
+
+                  </table>
+                </td>
+              </tr>
+
+            <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix">
+					  <font face="'Open Sans', Verdana, sans-serif">2. Failure to Plan</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">All too often entrepreneurs "fly by the seat of their pants." Unfortunately, many of these businesses become casualties before they get very far off the ground.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">If you want to succeed, you're going to have to treat your small business in much the same way that larger, successful companies treat theirs. Have a strategic plan with your vision, goals, and some market analysis. Develop a business plan with a detailed budget, cash flow and break-even analyses. These don't have to be long, narrative documents. In fact, you can create most of what you need with a few flowcharts, mind maps, project charts, and other business strategy diagrams.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td class="padding-copy">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="padding-top:20px; text-align: center;">
+                        <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/legacy-SMB-01-1.png" width="auto" height="auto" border="0" alt="Tasks and sub-tasks" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top: 20px;font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">But don't cut corners in your research and analysis. It's easy to get anxious about your new venture and overlook the difficulties you will face. Take your time and create well thought-out plans. Dealing with and planning for tough issues in advance will be a huge step toward your ultimate success.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">3. Not Getting Expert Advice</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">You will pay a little more for a lawyer and a CPA to get your business established than if you do it yourself. But this isn't replanting the flower bed in the front yard. Mistakes can be extremely costly. Good professionals will more than pay for themselves over time and you'll sleep better knowing that you have things set up properly.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">4. Time Management</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">A plan is only good if you stick to it. That requires managing time well. Now, managing time well doesn't mean packing so much into your calendar that you can't possibly get it done. Pick and choose what's important, focus on the critical stuff, and get it done. Little things will fall through the cracks. Let them. If they're really important, they'll come back up.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top: 20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Use tools to help you, such as Gantt charts or Kanban boards. The visual displays make it easy to quickly decide on important tasks and follow them through to completion.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td class="padding-copy">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="padding-top:20px; text-align: center;">
+                        <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/legacy-SMB-01-2.png" width="auto" height="auto" border="0" alt="Tasks and sub-tasks" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">5. Resistance to Change</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Whether your company is a start-up or has been around for 100 years, innovation can be a frightening thing. But change is real. Don't get stuck in archaic ways of doing things. Embrace a culture of forward thinking. Be open with your staff about changes taking place in your organization, as well.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-size:20px; font-weight:400;padding-top: 20px; margin-top:10px;margin-bottom:7px;line-height:110%; color: #666; font-family: 'Open Sans', Verdana, sans-serif;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Get Started Now</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">There's no risk when you buy SmartDraw. You get an amazingly powerful yet easy-to-use product, along with free support and our unconditional, 30-day money-back guarantee.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+
+
+<tr>
+    <!-- HERO IMAGE -->
+    <td class="padding-copy iphone-text" style="padding-top:20px;">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+          <tbody>
+             <tr>
+                <td align="center" style="font-size:16px; color:#666666;border:1px solid #bbbbbb; text-align:center;padding-bottom:20px; padding-left:20px; padding-right:20px;">
+                   <h2 style="font-size: 30px; margin-top:20px; margin-bottom:10px;text-align:center;"><a href="https://www.smartdraw.com/buy/?slscid=7604_10943806_C9AC0341-919E-4D96-8358-EA3085AD3551" style="text-decoration: none;color:#336699;"><font face="'Open Sans', Verdana, sans-serif">Save $100 or More Today</font></a></h2>
+
+                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonCTA" style="border-radius:3px; background-color:#074F06; text-align:center; margin: auto;">
+                      <tbody>
+                         <tr style="text-align:center; margin:auto;">
+                            <td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px; text-align:center; margin: auto;">
+                               <font face="'Open Sans', Verdana, sans-serif"> <a href="https://www.smartdraw.com/buy/?slscid=7604_10943806_C9AC0341-919E-4D96-8358-EA3085AD3551" target="_blank" style="color:#FFFFFF; width:220px; text-align:center; font-size:20px; margin: auto; font-weight:bold; text-decoration:none;">Buy Today</a>
+                               </font>
+                           </td>
+                       </tr>
+                   </tbody>
+               </table>
+           </td>
+       </tr>
+   </tbody>
+</table>
+</td>
+</tr>
+
+
+
+
+
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- FOOTER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td bgcolor="#ffffff" align="center" style="padding: 20px 0px;">
+      <!-- UNSUBSCRIBE COPY -->
+      <table bgcolor="#666666" width="600">
+        <tr>
+          <td style="padding-top: 20px; padding-bottom: 20px">
+            <table bgcolor="#666666" width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="margin: auto;">
+              <tr>
+                <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#ffffff;">
+                  <span class="appleFooter" style="color:#ffffff;">You control the e-mail you get from SmartDraw Software: <a href="https://www.smartdraw.com/support/emailpreferences.aspx?email=arun_verma@jcbl.com&TypeID=1" style="color: #ffffff; text-decoration: underline;" target="_blank">Unlist</a></span><br><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">SmartDraw Software, LLC | 9909 Mira Mesa Blvd. | San Diego, CA 92131 | USA</span><br /><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">&copy;1994-2016 SmartDraw, LLC</span>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <table bgcolor="#666666" width="300" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:auto;">
+              <tr>
+                <td bgcolor="#666666"><a href="https://twitter.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-twitter.png" alt="SmartDraw's Twitter" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.facebook.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-facebook.png" alt="SmartDraw's Facebook " border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.linkedin.com/company/38151"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-linkedin.png" alt="SmartDraw's LinkedIn" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://plus.google.com/+Smartdrawsoftware/posts"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-googleplus.png" alt="SmartDraw's Goople Plus" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.pinterest.com/smartdraw/"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-pinterest.png" alt="SmartDraw's Pinterest" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.youtube.com/user/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-youtube.png" alt="SmartDraw's YouTube" border="0" style="display:block"></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<img src="https://www.smartdraw.com/images/7604_10943806_C9AC0341-919E-4D96-8358-EA3085AD3551.aspx" width="1" height="1" border="0">
+</body>
+</html>
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f--

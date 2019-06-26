@@ -1,0 +1,136 @@
+Return-Path: <warranty.dept@siteslibrary.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Envelope-To-Blocked: <mukesh_kumar@jcbl.com>, <sandeep_kumar@jcbl.com>
+X-Quarantine-ID: <aCX8w-aNRpgn>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: couldn't parse head;
+	error near:; <head>
+X-Spam-Flag: YES
+X-Spam-Score: 9.397
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.397 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_16=1.048, HTML_MESSAGE=0.001,
+	MISSING_MIME_HB_SEP=0.001, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aCX8w-aNRpgn; Sat,  8 Dec 2018 03:12:25 +0530 (IST)
+Received: from corella.siteslibrary.com (corella.siteslibrary.com [162.244.13.45])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 65A50F4D948
+	for <mukesh_kumar@jcbl.com>; Fri,  7 Dec 2018 23:03:37 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=siteslibrary.com;
+	s=dkim; t=1544204126;
+	bh=N+i4jnny2a+IW+OcrJn62lg6qYJIolt+QDynO84WtLw=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=ONFkDMCdSjDTrZhqSpRyObpkhXV3JFK/dpuhA4YMMvWtgCvOuNmeetj8SJfwCUreF
+	 IP4c1OKLnIoE5q6yVnCxlpQKMivSCPkOCd342K2+NpZ2bnChtr//tAlhe22y6F0FCN
+	 98c7CYv5zN7Jfm89r5dDW2RnVQTkNfGcHCNObM1g=
+To: <mukesh_kumar@jcbl.com>
+From: "Warranty Status" <warranty.dept@siteslibrary.com>
+Reply-To: Warranty Status <Warranty Status@siteslibrary.com>
+Subject: Ranked 2018's Best Extended Auto Warranty
+Date: Fri, 07 Dec 2018 12:35:26 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812071235:17880fc384a41a4b6138a07_5eaf0a5c:zhxrfu_xhzne^wpoy(pbz:19226
+List-Unsubscribe: <mailto:17880fc384a41a4b6138a07_5eaf0a5c@siteslibrary.com>, <http://siteslibrary.com/17880fc384a41a4b6138a07_5eaf0a5c/U/>
+Message-ID: <201812071235@siteslibrary.com>
+X-campaignID: 19226
+Content-type: multipart/alternative; boundary="----=_NeCtPart_524_93U0_11G1ST10.N108DA2";
+
+------=_NeCtPart_524_93U0_11G1ST10.N108DA2
+Content-type: text/plain
+
+Greetings ,
+
+We've been trying to reach you to deliver your extended auto warranty quote.
+
+If you fail to renew your auto warranty, free repairs will not be available when it expires!
+
+Your free quote is ready =>  http://www.coof.info/1c83d464f5541a4b6138a0741b03_5eaf0a5c-010306040001/C/
+
+Click above link to confirm your information!
+
+Valid as of Dec 7, 2018
+
+Sincerely,
+
+Warranty Dept.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
+To unsubscribe from further mailings click here: http://coof.info/{T 41/U/
+Auto Warranties - 1000 Green Valley Parkway Suite 440-488, Las Vegas, Nevada - 89074 United States
+
+------=_NeCtPart_524_93U0_11G1ST10.N108DA2
+Content-Type: text/html
+<html>
+<head>
+</head>
+<body>
+
+<p>Hello ,</p>
+
+<p>We've been trying to reach you to deliver your extended auto warranty quote.</p>
+
+<p> If you fail to renew your auto warranty, free repairs will not be available when it expires! </p>
+
+<p>You must visit the link below to receive your estimate.</p>
+
+<p>Your quote is ready for your review:</p>
+
+<p><a href="http://www.coof.info/1c83d464f5541a4b6138a0741b03_5eaf0a5c-010306040001/C/" target="_blank"><strong><span style="font-size: 24px;">Visit Here to Receive Your
+Quote</span></strong></a></p>
+
+<p>Valid as of Dec 7, 2018</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p><span style="color: rgb(40, 50, 78);"><br></span></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Impact,Charcoal,sans-serif;"><span style="color: rgb(40, 50,
+78);">*See site for details. To stop receiving messages, please <a href="http://www.coof.info/1a84ec82b0d41a4b6138a07229_5eaf0a5c/U/">visit here</a></span></span></span>
+</p>
+
+<p style="text-align: center;"> or send a written request to: </span></span></span><span style="color: rgb(40, 50, 78); font-family: Impact, Charcoal,
+sans-serif; font-size: 12px;">Auto Warranties - 1000 Green Valley Parkway Suite 440-488 Las Vegas, NV 89074</span></p>
+<img src="http://www.coof.info/1c81600e10c41a4b6138a0746e04_5eaf0a5c-010306040001/V/" width="1" height="1">
+</body>
+</html>
+------=_NeCtPart_524_93U0_11G1ST10.N108DA2--
+

@@ -1,0 +1,328 @@
+Return-Path: <techg@bounce.indiatimes.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ms_grewal@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ayZcGMaxFUG9>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ayZcGMaxFUG9 for <ms_grewal@jcbl.com>;
+	Sun, 24 Jan 2016 09:33:02 +0530 (IST)
+Received: from osmtp5.etretail.com (osmtp5.etretail.com [223.165.29.81])
+	by mx10.jcbl.com (Postfix) with ESMTP id 0BDC9EC65FA
+	for <ms_grewal@jcbl.com>; Sun, 24 Jan 2016 09:32:51 +0530 (IST)
+Received: from localhost (192.169.23.10.static.etheric.net [192.169.23.10])
+	by osmtp5.etretail.com (Postfix) with ESMTP id 85301AC87B
+	for <ms_grewal@jcbl.com>; Sun, 24 Jan 2016 09:34:11 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp5.etretail.com 85301AC87B
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etauto.com;
+	s=default; t=1453608251;
+	bh=p1iTJrmWW8oneCjGs1EC7Y7WyQddhiSuJlsqv8qvBj4=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To;
+	b=oaNPnJDTq7mjl4mdIsarewxY333pkeZtpU/u9euNjXezhsce4ayCtHijN4CjDYvaE
+	 BgM15nLs1lHwUo+gLDJ+1FjAh2ehuXG0TqEz4xzGVYZ94U3cBChKcUPTBZrbjSKrgN
+	 0RPFLsLNIDHuKYfeRuTNbEBRelm8QkBEfyI9HRbY=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETAuto Latest News<newsletter@etauto.com>
+To: ms_grewal@jcbl.com
+Subject: Sunday Morning Roundup: Most Read Stories of Last Week (in case you missed)
+Reply-To: no-reply@etauto.com
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://b2bstatic.iimg.in/Themes/Release/images/Auto-favicon.ico" type="image/x-icon" />
+<title>ETAuto Latest news</title>
+
+<style type="text/css">
+
+
+
+</style>
+</head>
+<body style=" font-family:Arial, Helvetica, sans-serif; background:#eeeeee; padding:0; margin:0;"><!-- HEAD2 -->
+
+<table width="100%" bgcolor="#eeeeee" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+<tr>
+<td align='center'>
+<!--[if gte mso 9]>
+
+<table align="center" width="600" cellpadding="0" cellspacing="0" style="width:600px; margin:auto;">
+<tr>
+<td>
+
+<![endif]-->
+
+<!--[if lte mso 9]>
+
+<table align="center" width="600px" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+<table class="nletter-wrap" style="max-width:600px;" align="center" cellpadding="0" cellspacing="0">
+<tr>
+    <td >
+		<!-- Header -->
+        		
+ <table width="100%" align="left" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="15"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" align="left" cellpadding="0" cellspacing="0">
+								<tr>
+					<td align="right" valign="top" width="100%" style="padding-bottom:1px;">
+						<span style="display:block; font-size:11px; color:#000;
+font-family:Arial, sans-serif; text-align:right;">Sun, Jan 24, 2016   </span>
+					</td>
+				</tr>
+								<tr>
+					<td  align="left" width="100%">
+						<img border="0" width="199" style="font-family:arial; font-size:36px; color:#02465b; border:0; display:block; vertical-align:top;" title="ETAuto.com" alt="ETAuto.com" src="http://b2bstatic.iimg.in/Themes/Release/images/responsive/auto_logo_newsletter.png"  />
+					</td>
+				</tr>
+								<tr>
+					<td align="left" style="padding-top:5px;">
+						<span style="display:block; font-size:14px; line-height:16px; color:#ed1c24;
+font-family:georgia, serif; text-align:left;">
+							Daily Newsletter
+						</span>
+					</td>
+				</tr>
+							</table>
+		</td>
+	</tr>
+	<tr>
+		<td height="15"></td>
+	</tr>
+</table>         <!--/Header -->
+		<!-- Navigation -->
+		<table width="100%" cellpadding="0" cellspacing="0"><tr>
+    <td align="center" valign="middle" style="padding:5px 0; background:#287489; color:#fff; font-size:11px;"><a 
+			href="http://auto.economictimes.indiatimes.com/news/industry" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Industry
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/policy" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Policy
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/passenger-vehicle" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Passenger Vehicle
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/two-wheelers" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Two Wheelers
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/commercial-vehicle" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Commercial Vehicle
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/aftermarket" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Aftermarket
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/auto-components" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Auto Components
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#5390a1; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/tyres" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Tyres
+			</a></td></tr></table>		<!-- /Navigation -->
+		
+		<!-- {$$!!PROMOTOPBLOCK!!$$} -->
+		<!-- {$$!!NEWSLETTERMESSAGEBOX!!$$} -->
+		
+        <!--Content -->
+        <table width="100%"  cellpadding="0" cellspacing="0">
+        	<tr><td style="background:#ffffff; padding:20px 6% 0;" align="left">
+            	<table width="100%" cellpadding="0" cellspacing="0" >
+                	<tr><td style="font-family:georgia, serif; font-size:16px; color:#000000; padding-bottom:11px;" align="left; ">
+					Most Read News of the Week					</td></tr>				
+                </table>
+				            	<table  width="100%"  cellpadding="0" cellspacing="0" >
+									
+				</table><table width="100%"  cellpadding="0" cellspacing="0">
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fmaruti-baleno-beats-hyundai-elite-i20-as-no-1-premium-compact%2F50633493&mailer_id=0&item_id=749104&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Maruti Baleno beats Hyundai Elite i20 as no 1 premium compact
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Ftop-10-cars-suvs-in-december-bolero-continues-to-lose-grip%2F50634540&mailer_id=0&item_id=749288&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									10 Highest selling Cars, SUVs in December; Bolero continues to lose grip
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fsupreme-court-refuses-to-advance-bs-vi-norms-deadline-to-april-2020%2F50678025&mailer_id=0&item_id=754785&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Supreme Court refuses to advance BS VI norms deadline to April 2020
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fuv%2Fmaruti-suzuki-slashes-price-of-s-cross-by-over-rs-2-lakh%2F50627075&mailer_id=0&item_id=747960&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Maruti Suzuki slashes price of S Cross by over Rs 2 lakh
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Ftwo-wheelers%2Fmotorcycles%2Ftop-10-selling-two-wheelers-in-dec-honda-activa-sales-decline-for-second-consecutive-month%2F50633900&mailer_id=4168&item_id=749195&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Top 10 selling two wheelers in Dec: Honda Activa sales decline for second consecutive month | ET Auto
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr></table></td></tr></table>
+								<!-- {$$!!PROMOMIDBLOCK!!$$} -->
+								<table width="100%" cellpadding="0" cellspacing="0">
+								<tr><td style="background:#ffffff; padding:0px 6% 35px;">
+								<table width="100%"  cellpadding="0" cellspacing="0">
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Ftata-motors-may-showcase-over-25-products-at-the-auto-expo-2016%2F50678283&mailer_id=0&item_id=754806&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Tata Motors may showcase over 25 products at the Auto Expo 2016
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Ftata-motors-appoints-guenter-butschek-as-ceo-md%2F50626206&mailer_id=0&item_id=747909&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Tata Motors appoints Guenter Butschek as CEO & MD
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fvolkswagen-india-names-its-compact-sedan-as-ameo%2F50655725&mailer_id=4187&item_id=751617&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Volkswagen India names its compact sedan 'Ameo'
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; border-bottom:1px dashed #dddddd;">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fbs-vi-compliant-car-to-cost-rs-36k-for-manufacturer-but-82-less-polluting%2F50663174&mailer_id=0&item_id=752872&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									BS-VI compliant car to cost Rs 36k for manufacturer; but 82% less polluting
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="padding:10px 0; ">
+									<a href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fuv%2Flocally-developed-maruti-suzuki-vitara-brezza-to-be-sold-abroad%2F50692282&mailer_id=0&item_id=756549&dt=2016-01-24&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-01-24&email=ms_grewal@jcbl.com&activity_name=etautodailynews_2016-01-24" style="display:block; font-size:18px; line-height:22px; color:#0065ab; font-family:Arial, sans-serif; text-decoration:none;" target="_blank">
+									Locally developed Maruti Suzuki Vitara Brezza to be sold abroad
+									<span style="color:#999; font-famkily:Arial, sans-serif; font-size:11px;">ETAuto.com</span>
+									</a>
+								</td>
+							</tr></table><div style="display:none;width:0;height:0;">
+						<img 
+						src="http://auto.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=VVVNOGFtYUFKSmQ1djBlMDZob0R0dzZhL0FobzkvdUNwNE5YZGJuS0cwST0=&activity_name=etautodailynews_2016-01-24&euid=WEVzYi9paGhHbU4vTC9DT1BqcHBSZz09&current_date=2016-01-24"
+						style="display:none;width:0;height:0;" height="0" width="0" />
+					</div>				
+            </td></tr>
+        </table>
+        <!--Content -->
+		<!-- {$$!!OTHERPARTYBLOCK!!$$} -->
+		<!-- {$$!!PROMOBOTTOMBLOCK!!$$} -->
+							
+		
+        <!-- Footer -->
+		<table width="100%"  cellpadding="0" cellspacing="0" >
+        	<tr>
+            	<td align="left" style="background:#e5e5e5; padding:30px 6%; font-family:Arial, sans-serif; color:#888888;  font-size:11px; line-height:18px;">
+					
+					
+						<table  cellpadding="0" cellspacing="0" style="padding-bottom:10px;">
+								<tr>
+									<td align="left" valign="middle" width="70"> 
+												<span style="font-family:Arial, sans-serif; font-weight:bold; display:block; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">
+												Follow Us :
+												</span>
+											</td>
+									<td width="115"><table width="100%"  cellpadding="0" cellspacing="0"><tr><td align="left"><a href="http://twitter.com/ETAuto"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/twitter.png" alt="" />
+									</a></td><td align="left"><a href="http://facebook.com/EconomicTimesAuto"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/fb.png" alt="" />
+									</a></td><td align="left"><a href="http://linkedin.com/groups/ETAuto-6589520"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/linkedin.png" alt="" />
+									</a></td></tr></table></td></tr></table>                	<table  cellpadding="0" cellspacing="0" ><tr><td align="left" valign="middle" style="padding-bottom:10px;">
+						<div style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px; font-style:italic;">
+						Copyright &#169; 2015 ETAuto, All rights reserved.
+						</div>
+						<div style="font-family:Arial, sans-serif; color:#888888; display:block;  font-size:11px; line-height:18px; ">
+					You are receiving this email because you signed up at <a href="http://etauto.com" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">http://etauto.com</a>
+					</div>
+					</td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:10px;">
+					<div style="font-family:Arial, sans-serif; color:#888888;  font-size:11px; display:block;"><span style="font-family:Arial, sans-serif; font-weight:bold; padding-bottom:10px;  color:#888888;  font-size:11px; font-weight:bold;"> Our mailing address is:</span><br />
+					ETAuto.com (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301 Uttar Pradesh, 
+					India
+					</div>
+					</td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:10px;">
+					<div style=" line-height:14px; display:block; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">					
+					Add <a href="#" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">newsletter@etauto.com</a> to your address book &nbsp; | &nbsp; 
+					Our archives are at  <a href="http://auto.economictimes.indiatimes.com/etnewsletter.php" target="_blank" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">ETAuto</a>
+					<!--a href="#" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">Update subscription preferences </a-->  
+					</div></td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:15px;">
+					<div style="line-height:14px; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">
+				    <a href="http://auto.economictimes.indiatimes.com/unsubscribe.php?zx=JmVtYWlsPW1zX2dyZXdhbEBqY2JsLmNvbSZhY3Rpdml0eV9uYW1lPWV0YXV0b2RhaWx5bmV3cw%3D%3D" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">Unsubscribe from this list </a>  
+					</div></td></tr></table>
+					<a href="http://auto.economictimes.indiatimes.com"  target="_blank" >
+								<img style="display:block; border:0; width:150px;" width="150" src="http://b2bstatic.iimg.in/Themes/Release/images/responsive/auto_logo_newsletter.png" alt="" /> 
+							</a>									</td>
+            </tr>
+			<!-- {$$!!PROMORIGHTBLOCK!!$$} -->
+        </table>
+        
+        <!-- /Footer -->
+		<table width="100%"  cellpadding="0" cellspacing="0" ><tr><td style="padding-top:30px;"></td></tr></table>
+	</td>
+</tr>
+</table>
+
+<!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+<!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+</td>
+</tr>
+</table>
+</body>
+</html><!-- /HEAD2 -->

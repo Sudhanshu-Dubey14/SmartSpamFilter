@@ -1,0 +1,109 @@
+Return-Path: <alerts@gingerlender.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <is_gujral@jcbl.com>
+X-Envelope-To-Blocked: <is_gujral@jcbl.com>
+X-Quarantine-ID: <aQZ3A56c-v29>
+X-Spam-Flag: YES
+X-Spam-Score: 10.265
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.265 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_16=1.048,
+	HTML_IMAGE_RATIO_04=0.61, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.259, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aQZ3A56c-v29 for <is_gujral@jcbl.com>;
+	Tue,  4 Dec 2018 14:20:39 +0530 (IST)
+Received: from sizing.gingerlender.com (sizing.gingerlender.com [162.244.13.42])
+	by mx10.jcbl.com (Postfix) with ESMTPS id D855FF446FC
+	for <is_gujral@jcbl.com>; Tue,  4 Dec 2018 14:20:24 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gingerlender.com;
+	s=dkim; t=1543913522;
+	bh=eRhgcW6CfpSD8pDPsuEmUuzWTwKUDpr8pI9YSRBbWXo=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=OEmmfqJ69EaDQMVkGXHTB/2KFANg7Vil/I1nzHAQS0TPkrj3i+S0nKRPNVz0ccV0j
+	 g2jbM5F4iq5WJSAwQgqzQevAfLmbk2I3Xx9vDwFRyhPENyUeMbO/rQNn956oAYcyhn
+	 FL9xLkaA8Q8kGXuwCWEeRAvdrb7PNflDYgvtv4lk=
+To: <is_gujral@jcbl.com>
+From: "Explore your Score" <alerts@gingerlender.com>
+Reply-To: Explore your Score <Explore your Score@gingerlender.com>
+Subject: Don't be a bore, know your score. 
+Date: Tue, 04 Dec 2018 03:52:02 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812040352:1561f20ab4344a635ed0f_3240065c:vf_thweny^wpoy(pbz:18996
+List-Unsubscribe: <mailto:1561f20ab4344a635ed0f_3240065c@gingerlender.com>, <http://gingerlender.com/1561f20ab4344a635ed0f_3240065c/U/>
+Message-ID: <201812040352@gingerlender.com>
+X-campaignID: 18996
+Content-type: multipart/alternative; boundary="----=_NePtPart_766_68J0_27H8VE29.K381DG8";
+
+------=_NePtPart_766_68J0_27H8VE29.K381DG8
+Content-type: text/plain
+
+*** YOUR CREDIT SCORE HAS CHANGED ***
+
+What changed?  Find Out Now! 
+
+Get 3 FREE Credit Scores From All 3 Bureaus 
+
+CLICK BELOW TO GET STARTED
+
+=> http://www.gingerlender.com/1c84a1a7e124344a635ed0f43703_3240065c-01011d4f0002/C/<=
+
+
+Regards,
+
+FreeScore360
+
+
+
+
+
+
+---------------------------
+
+If you no longer want to get communications from our enterprise, 
+click here to unsubscribe: http://cays.info/1561f20ab4344a635ed0f_3240065c/U/
+or write to 6119 Greenville Ave PMB 354 | Dallas, Texas 75206
+
+
+------=_NePtPart_766_68J0_27H8VE29.K381DG8
+Content-Type: text/html
+
+<html>
+<head>
+<title>FreeScore360</title>
+</head>
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" bgcolor="#e6e6e6" alink="#228be9" vlink="#228be9"
+link="#228be9">
+	<table align="center" width="650px" cellpadding="0" cellspacing="0" border="0" bgcolor="#e6e6e6">
+    	<tr>
+        	<td colspan="3"><a href="http://www.cays.info/1c82f7dc2aa4344a635ed0f43603_3240065c-01011d4f0002/C/"><img src="http://www.cays.info/1c8a5c347034344a635ed0f47304_3240065c-01011d4f0002/V/" height="589px" width="800px" border="0"
+alt="Your Credit Score Has Changed. Learn What Moved - Get 3 FREE Credit Scores From All 3 Bureaus Now!" style="display:block;"  /></a></td>
+      </tr>
+        <tr>
+        	<td width="78"></td>
+        	<td>
+            	<p style="font:normal 10px/15px Verdana, Arial, Helvetica, sans-serif; color:#000000;">
+                <br/>
+                <br>
+                FreeScore360<br/>
+6119 Greenville Ave PMB 354<br/>
+Dallas, Texas 75206<br/>
+                <br/>
+                This email is an advertisement. To unsubscribe, <a href="http://www.cays.info/1561f20ab4344a635ed0f_3240065c/U/">click here.</a></p>
+            </td>
+            <td width="25"></td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+------=_NePtPart_766_68J0_27H8VE29.K381DG8--
+

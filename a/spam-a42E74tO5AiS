@@ -1,0 +1,107 @@
+Return-Path:
+	<11821-7931-303369-3222-vikram+5Fverma=jcbl.com@mail.battelevi.icu>
+Delivered-To: spam-quarantine
+X-Envelope-To: <vikram_verma@jcblmail.com>
+X-Envelope-To-Blocked: <vikram_verma@jcblmail.com>
+X-Quarantine-ID: <a42E74tO5AiS>
+X-Spam-Flag: YES
+X-Spam-Score: 12.782
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.782 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BL_SPAMCOP_NET=1.246,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_PSBL=2.7, RCVD_IN_RP_RNBL=1.284,
+	RDNS_NONE=1.274, SPF_PASS=-0.001, T_DKIM_INVALID=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a42E74tO5AiS for <vikram_verma@jcblmail.com>;
+	Sun, 16 Dec 2018 15:02:14 +0530 (IST)
+Received: from oscar.battelevi.icu (unknown [193.31.116.241])
+	by mx10.jcbl.com (Postfix) with ESMTP id 52C23F44485
+	for <vikram_verma@jcbl.com>; Sun, 16 Dec 2018 15:02:11 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=battelevi.icu;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=correspondence@battelevi.icu;
+ bh=ehCfvlYvdReop7PeCyzxWPzGr1Q=;
+ b=by4Eij4VGBqC06wsEI7cwgOMoT6fQIpE1b8hY1nj+ykya1su2aXL/gxqsV2H8gmooveG6BJYxDNQ
+   6JI/M4RS6jnoJbfkw9glg0GBFN4x/KqTmBXhdNPKvRdES0fPx5RjKA8IMDbVI7qubDIGfT0ADCtX
+   aGI/Dl5iuxIDWL4Y3N4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=battelevi.icu;
+ b=ewpAl9KQWyActAODP7z6O59mXH5rZkwrPCHF0QyvqnGXbizhYkbBT3JcaRUZ9SkmAFB45MtJw+iA
+   +wRFT5PrLpSykuZcYULBiuQOSnRH9k44NlwCncGWN/+FGxp+EhJ+1BpcVK8TIEfY6zpJjsxAuAey
+   aO9I3FgIo7Zl00Bg+K0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c4f6f602912470a11ea855e3f7430be8_1efb_4a109"
+Date: Sun, 16 Dec 2018 10:20:13 +0100
+From: "Night View Glasses" <correspondence@battelevi.icu>
+Reply-To: "Night View" <assist@battelevi.icu>
+Subject: Help your nighttime driving
+To: <vikram_verma@jcbl.com>
+Message-ID: <cnv2sxh8xiyz2avi-8o3p7dnc3e15k340-1efb-4a109@battelevi.icu>
+
+--c4f6f602912470a11ea855e3f7430be8_1efb_4a109
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Help your nighttime driving
+
+http://battelevi.icu/Y9LVY2D4LccABpwLWRim8TAwxEgwMEzwuXEOAA_303369_1efb_192386cf_0300
+
+http://battelevi.icu/E9HVY2D4LccABpwLWRim8TAwxEgwMHgs-1INAA_303369_1efb_3ed3b6f3_0300
+
+Traffic congestion is a negative externality caused by various factors. A 2005 American study stated that there are seven root causes of congestion, and gives the following summary of their contributions: bottlenecks 40%, traffic incidents 25%, bad weather 15%, work zones 10%, poor signal timing 5%, and special events/other 5%. Within the transport economics community, congestion pricing is considered to be an appropriate mechanism to deal with this problem (i.e. to internalise the externality) by allocating scarce roadway capacity to users. Capacity expansion is also a potential mechanism to deal with traffic congestion, but is often undesirable (particularly in urban areas) and sometimes has questionable benefits (see induced demand). William Vickrey,  of the 1996 Nobel  for his work on "moral hazard", is considered one of the fathers of congestion pricing, as he first proposed it for the New York City Subway in 1952. In the road transportation arena these theories were extended by
+  Maurice Allais, a fellow Nobel prize  "for his pioneering contributions to the theory of markets and efficient utilization of resources", Gabriel Roth who was instrumental in the first designs and upon whose World Bank recommendation the first system was put in place in Singapore. Reuben Smeed, the deputy director of the Transport and Road Research Laboratory was also a pioneer in this field, and his ideas were presented to the British government in what is known as the Smeed Report.
+
+Congestion is not limited to road networks; the negative externality imposed by congestion is also important in busy public transport networks as well as crowded pedestrian areas, e.g. on the London Underground on a weekday or any urban train station, at peak times. There is the classical excess in demand compared to supply. This is because at peak times there is a large demand for trains, since people want to go home (i.e., a derived demand). However, space on the platforms and on the trains is limited and small compared to the demand for it. As a result, there are crowds of people outside the train doors and in the train station corridors. This increases delays for commuters, which can often cause a rise in stress or other problems.
+
+--c4f6f602912470a11ea855e3f7430be8_1efb_4a109
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://battelevi.icu/Y9DVY2D4LccABpwLWRim8TAwxEgwMEzZ8fMJAA_303369_1efb_40c9ad23_0300"><img src="http://battelevi.icu/4e9e36e437fc3e77c7.jpg" /><img height="1" src="http://www.battelevi.icu/49PVY2D4LccABpwLWRim8TAwxEgwMMwUKPkLAA_303369_1efb_3c91835e_0300" width="1" /></a><br />
+<br />
+&nbsp;
+<center>&nbsp;
+<div style="width:550px;">
+<hr />&nbsp;
+<div style="font-size:20px;text-align:left; padding:5px;"><b>As Seen On TV Night View Glare Reduction Glasses - Turn Fuzzy and Dull Into Clear and Bright... Especially at Night.</b>
+
+<p style="font-size:16px;">Specially Coated Yellow Lenses Block Nighttime Glare. Wherever There&#39;s Glare, You&#39;ll See Clearer.</p>
+<a href="http://battelevi.icu/Y9LVY2D4LccABpwLWRim8TAwxEgwMEzwuXEOAA_303369_1efb_192386cf_0300" style="color:#BD020D; font-size:16px;">Learn More</a></div>
+&nbsp;
+
+<center><a href="http://battelevi.icu/Y9LVY2D4LccABpwLWRim8TAwxEgwMEzwuXEOAA_303369_1efb_192386cf_0300"><img src="http://battelevi.icu/267fd82ab2cc74558a.jpg" style="border:8px groove #03374f;box-shadow:0px 2px 4px #000000;" /></a></center>
+
+<hr /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://battelevi.icu/49HVY2D4LccABpwLWRim8TAwxEgwMDz8UHYMAA_303369_1efb_8170f794_0300"><img src="http://battelevi.icu/33e6e26e6da99eca25.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://battelevi.icu/E9HVY2D4LccABpwLWRim8TAwxEgwMHgs-1INAA_303369_1efb_3ed3b6f3_0300"><img alt=" " src="http://battelevi.icu/e24eebb4b1c7bceee2.jpg" /></a></center>
+
+<p style="color:#ffffff;font-size:5px;">Traffic congestion is a negative externality caused by various factors. A 2005 American study stated that there are seven root causes of congestion, and gives the following summary of their contributions: bottlenecks 40%, traffic incidents 25%, bad weather 15%, work zones 10%, poor signal timing 5%, and special events/other 5%. Within the transport economics community, congestion pricing is considered to be an appropriate mechanism to deal with this problem (i.e. to internalise the externality) by allocating scarce roadway capacity to users. Capacity expansion is also a potential mechanism to deal with traffic congestion, but is often undesirable (particularly in urban areas) and sometimes has questionable benefits (see induced demand). William Vickrey, of the 1996 Nobel Prize for his work on &quot;moral hazard&quot;, is considered one of the fathers of congestion pricing, as he first proposed it for the New York City Subway in 1952. In the roa
+ d transportation arena these theories were extended by Maurice Allais, a fellow Nobel prize &quot;for his pioneering contributions to the theory of markets and efficient utilization of resources&quot;, Gabriel Roth who was instrumental in the first designs and upon whose World Bank recommendation the first system was put in place in Singapore. Reuben Smeed, the deputy director of the Transport and Road Research Laboratory was also a pioneer in this field, and his ideas were presented to the British government in what is known as the Smeed Report. Congestion is not limited to road networks; the negative externality imposed by congestion is also important in busy public transport networks as well as crowded pedestrian areas, e.g. on the London Underground on a weekday or any urban train station, at peak times. There is the classical excess in demand compared to supply. This is because at peak times there is a large demand for trains, since people want to go home (i.e., a derived deman
+ d). However, space on the platforms and on the trains is limited and small compared to the demand for it. As a result, there are crowds of people outside the train doors and in the train station corridors. This increases delays for commuters, which can often cause a rise in stress or other problems. <a href="http://battelevi.icu/Y9DVY2D4LccABpwLWRim8TAwxEgwMEzZ8fMJAA_303369_1efb_40c9ad23_0300"><img src="http://battelevi.icu/4e9e36e437fc3e77c7.jpg" /><img height="1" src="http://www.battelevi.icu/49PVY2D4LccABpwLWRim8TAwxEgwMMwUKPkLAA_303369_1efb_3c91835e_0300" width="1" /></a></p>
+</body>
+</html>
+
+--c4f6f602912470a11ea855e3f7430be8_1efb_4a109--

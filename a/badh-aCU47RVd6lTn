@@ -1,0 +1,77 @@
+Return-Path: <BankAlerts@kotak.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ghanshyam_pandey@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aCU47RVd6lTn>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 1.159
+X-Spam-Level: *
+X-Spam-Status: No, score=1.159 tag=x tag2=x kill=x tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_16=1.048,
+	HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_2=0.259, INVALID_DATE=0.432,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aCU47RVd6lTn for <ghanshyam_pandey@jcbl.com>;
+	Tue, 25 Jun 2019 10:44:14 +0530 (IST)
+Received: from alerts13.kotak.com (alerts13.kotak.com [115.112.212.217])
+	by mx10.jcbl.com (Postfix) with ESMTP id 498DC104B034
+	for <GHANSHYAM_PANDEY@jcbl.com>; Tue, 25 Jun 2019 10:37:21 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=kotak.com; i=@kotak.com; q=dns/txt; s=outgoing;
+  t=1561439354; x=1592975354;
+  h=date:from:to:subject:mime-version:message-id;
+  bh=ox1vZQeOOCbDFzSb9SHPyTbzA40i3UPM9GeQ8097l54=;
+  b=QTo09wW9kbsjFCxHh8HtEovzoKEpzsbZUduqxKcODoimd6+3ttUsR2Qj
+   uB0f+uSqCGx3yxOa/jNgaVhGuS5QuaT8EClgZv8/QOW1DIkcg0iRJ1+Oi
+   YYvk0x42OA6TyQzr6GU0cagliWsSln1ZVz1eYn1Aq3ZrYGxnWy1rrg4bK
+   k=;
+Message-Id: <dabe1f$1si9ps8@alerts10.kotak.com>
+Date: Tue , 25 Jun 2019 08:47:45 +0530
+From:BankAlerts@kotak.com
+To:GHANSHYAM_PANDEY@JCBL.COM
+Subject:Dynamic Access Code - 130794
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=*#abc1234321cba#*="
+
+------=*#abc1234321cba#*=
+Content-Type: text/html; charset="iso-8859-1"
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Email</title>
+</head>
+<body>
+    <!--<div>
+        <img style="height: 100px; width: 100%;" src="https://www.kotak.com/content/dam/Kotak/email-campaigns/email-test-kotak-logo.jpg">
+    </div>
+    <p>Subject: Alert-Deactivation of Net Banking / Payment Gateway due to non-usage</p>-->
+    <p>Dear Customer,</p>
+    <p>
+        The Dynamic Access Code for CRN XXXX419  is : 130794
+        </p>
+    <p>Please Note:
+
+    </p> 
+    <p>
+        Dynamic Access Code has also been sent to your preferred mobile number registered with us.
+    </p> 
+    <p>Kotak Mahindra Bank will never send you an email asking for your Login Credentials. Please do not respond to any email requesting such information.</p>
+    <p>
+        Warm Regards,<br>Kotak Mahindra Bank Ltd
+    </p>
+    <p>Please do not reply to this message. To reach us, <a target="_blank" href="https://www.kotak.com/en/reach-us.html">click here</a>.</p>
+    <p><a target="_blank" href="https://www.kotak.com/en/disclaimer.html">Disclaimer</a></p>
+    <p>
+        <!--<img src="everyday_special.jpg">-->
+        <a target="_blank" href="https://www.kotak.com/en/offers.html?source=email&campaign=NBDAC"><img src="https://www.kotak.com/content/dam/Kotak/email-campaigns/email-test.jpg"></a>
+    </p>
+</body>
+</html>

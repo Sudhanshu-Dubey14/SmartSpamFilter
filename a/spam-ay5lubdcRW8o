@@ -1,0 +1,91 @@
+Return-Path: <sales59@hi-machine.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@acmeformulation.com>, <viralshah@acmeformulation.com>,
+	<praveen_ajauria@jcbl.com>
+X-Envelope-To-Blocked: <info@acmeformulation.com>,
+	<viralshah@acmeformulation.com>, <praveen_ajauria@jcbl.com>
+X-Quarantine-ID: <ay5lubdcRW8o>
+X-Spam-Flag: YES
+X-Spam-Score: 10.561
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.561 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_24_48=0.485, DEAR_SOMETHING=1.731,
+	DKIM_SIGNED=0.1, FORGED_MUA_OUTLOOK=2.785, FORGED_OUTLOOK_HTML=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_MID=0.14,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, TO_NO_BRKTS_NORDNS=0.001,
+	TO_NO_BRKTS_NORDNS_HTML=0.001, T_DKIM_INVALID=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ay5lubdcRW8o; Thu, 11 Apr 2019 11:38:39 +0530 (IST)
+Received: from server1.ossemail.xyz (unknown [150.109.65.34])
+	by mx10.jcbl.com (Postfix) with ESMTP id 420D4EF9C0C
+	for <acme@jcbl.com>; Thu, 11 Apr 2019 11:38:36 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=liusheng; d=hi-machine.com;
+ h=MIME-Version:Date:Content-Type:Content-Transfer-Encoding:From:Subject:To:Sender:Reply-To; i=sales59@hi-machine.com;
+ bh=9jUY0yMKyZaivxpohSSwNnDC+pA=;
+ b=H04jT7EovkK3Trwxq4iKqBtKJSFWmoBPtKPO5MSsICvzJflojI7/jD5Ucdy0jfMNgcfpZbqgY4wI
+   psxiwZvNFMkSriqNZ3vmW5BziYTIxBOTc0cWr4at3BklLkDd+qw9XzIYthC4JoMD9cEyQgiMCJpi
+   Nrq/ZZVlldMEs2AR/3c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=liusheng; d=hi-machine.com;
+ b=joeZPeJEKckQL4BNDJS4sF8Y8R/Q6L0BlC9iX35TQXIR+SqM6rNiWGMMNhTy5s5tJadq0RhMYvyM
+   B5iEXX+6b9FXXmI3TFW0+YD9lI4BFGrbAuQT8meiNNvuM1YmVZ6iU6l2Ilxt7WehkQpiZrcowzlj
+   W70g9coJWtliltmTww4=;
+Received: from DESKTOP-PM2OH18 (60.12.221.79) by server1.ossemail.xyz id hlrd060e97co for <acme@jcbl.com>; Thu, 11 Apr 2019 14:09:03 +0800 (envelope-from <sales59@hi-machine.com>)
+MIME-Version: 1.0
+Date: Tue, 9 Apr 2019 15:28:48 +0800
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+From: "sales59@hi-machine.com" <sales59@hi-machine.com>
+Subject: Nutraceuticals & Food Ingredients (Ningbo Hi-Tech Biochemicals Co.,
+ Ltd)
+To: acme@jcbl.com
+Sender: sales59@hi-machine.com
+Reply-To: info@hi-techbiochem.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.4657
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ""><HTML><HEAD>    
+ 
+<META http-equiv="content-type" content="text/html; charset=UTF-8">   
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY>
+<P>Dear Sirs</P>
+<P>Good morning. We are writing you to seek business opportunity in the field of 
+ nutraceuticals &amp; veterinary pharmacueticals.Ningbo Hi-Tech   
+BiochemicalsCo.,Ltd established in 2006 and We are in the position to supply   
+below products with most competitive price and good quality. Currently we can   
+supply Folic acid @US$34/Kg &amp; vitamin C @US$3.2/Kg. If you are  interesting  
+in theseproducts please feel free to send us inquiry. Hope to have  your reply 
+&amp; thank you</P>
+<P>Nutraceuticals &amp; food ingredients</P>
+<P>Vitamin B5<BR>Vitamin B9<BR>Vitamin B12<BR>Vitamin   
+C<BR>D-Panthenol<BR>D-Biotin<BR>Inositol<BR>Hydroxypropyl-β-Cyclodextrin(HPBC)</P>
+<P>Beta-Carotene<BR>Coenzyme Q10<BR>D-(+)-Chiro Inositol<BR>D-Mannose<BR>Ethyl   
+Ascorbic Acid<BR>Gamma Oryzanol<BR>Hyaluronic   
+Acid<BR>L-Carnosine<BR>L-Glutathione<BR>Phosphatidylserine (PS   
+20%～70%)<BR>S-Adenosyl-L-Methionine Disulfate Tosylate (SAMe)     
+<BR>Stevia<BR>Sucralose<BR>Xanthan gum</P>
+<P>Astragalus Extract 15%～20% Polysacchrides<BR>Cranberry Extract 5%～50%   
+Proanthocyanidin<BR>Ginseng Extract 10%～80%Ginsenosides<BR>Green Coffee Bean   
+Extract 45% Chlorogenic acid 2%Caffeine<BR>Red Yeast Rice 1%～5% Monacolin&nbsp;  
+ K<BR>Rutin NF11<BR>Silymarin70%～80%<BR>Soybean Extract 40% Isoflavone</P>
+<P>L-Arginine Base<BR>L-Carnosine<BR>L-Cysteine Hcl   
+Mono<BR>L-Cystine<BR>L-Norvaline<BR>N-Acetyl-L-Cysteine<BR>S-Carboxymethyl-L-Cysteine</P>
+<P>Best regards<BR>Sales   
+Team<BR>--------------------------------------------------------------------------------<BR>NINGBOHI-TECHBIOCHEMICALS 
+ CO.,LTD<BR>Tel:+86-574-27711846 Fax:+86-574-27863851<BR>Email: <A href="mailto:info@hi-techbiochem.com">info@hi-techbiochem.com</A><BR><A 
+href="http://www.hi-techbiochem.com">www.hi-techbiochem.com</A></P>
+<P>CPHI Thailand(March 12-March 14,2019) Booth Number.:J15<BR>Vietnam MEDI-PHARM 
+ Hanoi(May 8-May 11, 2019)Booth Number.:D52<BR>CPHI Shanghai(June 18-June   
+20,2019)Booth Number.:E6B70</P>
+<P></P>
+<P><BR></P>
+<P><BR></P>
+<P><BR></P></BODY></HTML>
+
+

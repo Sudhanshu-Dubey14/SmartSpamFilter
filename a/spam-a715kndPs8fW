@@ -1,0 +1,189 @@
+Return-Path: <>
+Delivered-To: spam-quarantine
+X-Envelope-To: <postmaster@globe-trucking.com>
+X-Envelope-To-Blocked: <postmaster@globe-trucking.com>
+X-Quarantine-ID: <a715kndPs8fW>
+X-Spam-Flag: YES
+X-Spam-Score: 7.296
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.296 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, HTML_MESSAGE=0.001, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, URIBL_OB_SURBL=0.785] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a715kndPs8fW for <postmaster@globe-trucking.com>;
+	Thu, 24 Jan 2019 14:05:42 +0530 (IST)
+Received: from umail.jcbl.com (umail.jcbl.com [107.182.173.5])
+	by mx10.jcbl.com (Postfix) with ESMTP id 8703DF4BBB6
+	for <postmaster@globe-trucking.com>; Thu, 24 Jan 2019 13:23:17 +0530 (IST)
+Received: by umail.jcbl.com (Postfix)
+	id 007641DA008; Thu, 24 Jan 2019 13:25:51 +0530 (IST)
+Date: Thu, 24 Jan 2019 13:25:51 +0530 (IST)
+From: MAILER-DAEMON@jcbl.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: warranty.ptk@globe-trucking.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="BB1E21DA097.1548316551/umail.jcbl.com"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20190124075551.007641DA008@umail.jcbl.com>
+
+This is a MIME-encapsulated message.
+
+--BB1E21DA097.1548316551/umail.jcbl.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host umail.jcbl.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<friedrich-petri@t-online.de>: host mx02.t-online.de[194.25.134.9] said:
+    550-5.7.0 Message considered as spam or virus, rejected 550-5.7.0 Your IP:
+    107.182.173.5 550-5.7.0 Mailhost: mailin79.aul.t-online.de 550-5.7.0
+    Timestamp: 2019-01-24T07:55:51Z 550-5.7.0 Expurgate-ID:
+    149288::1548316551-000010F4-5204F48B/10/28465250229 550-5.7.0
+    Authenticator:
+    2DBC8AD210EC66B61E0F3C6B0649E4D3175AEE7E5453E98036897B14A38D1DC79C7AD062
+    550-5.7.0  550-5.7.0 Your message has been rejected due to spam or virus
+    classification. 550-5.7.0 If you feel this is inapplicable, please report
+    the above error codes 550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix
+    possible misclassification. 550-5.7.0 We apologize for any inconvenience
+    and thank you for your assistance! 550-5.7.0  550-5.7.0 Die Annahme Ihrer
+    Nachricht wurde abgelehnt, da sie als Spam oder 550-5.7.0 Virus eingestuft
+    wurde. Sollten Sie dies als unzutreffend ansehen, 550-5.7.0 senden Sie
+    bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wir 550-5.7.0 die
+    Klassifizierung untersuchen koennen. Wir entschuldigen uns fuer 550 5.7.0
+    etwaige Unannehmlichkeiten und bedanken uns fuer Ihre Unterstuetzung! (in
+    reply to end of DATA command)
+
+--BB1E21DA097.1548316551/umail.jcbl.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; umail.jcbl.com
+X-Postfix-Queue-ID: BB1E21DA097
+X-Postfix-Sender: rfc822; warranty.ptk@globe-trucking.com
+Arrival-Date: Thu, 24 Jan 2019 13:25:49 +0530 (IST)
+
+Final-Recipient: rfc822; friedrich-petri@t-online.de
+Original-Recipient: rfc822;friedrich-petri@t-online.de
+Action: failed
+Status: 5.7.0
+Remote-MTA: dns; mx02.t-online.de
+Diagnostic-Code: smtp; 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 107.182.173.5 550-5.7.0 Mailhost:
+    mailin79.aul.t-online.de 550-5.7.0 Timestamp: 2019-01-24T07:55:51Z
+    550-5.7.0 Expurgate-ID: 149288::1548316551-000010F4-5204F48B/10/28465250229
+    550-5.7.0 Authenticator:
+    2DBC8AD210EC66B61E0F3C6B0649E4D3175AEE7E5453E98036897B14A38D1DC79C7AD062
+    550-5.7.0  550-5.7.0 Your message has been rejected due to spam or virus
+    classification. 550-5.7.0 If you feel this is inapplicable, please report
+    the above error codes 550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix
+    possible misclassification. 550-5.7.0 We apologize for any inconvenience
+    and thank you for your assistance! 550-5.7.0  550-5.7.0 Die Annahme Ihrer
+    Nachricht wurde abgelehnt, da sie als Spam oder 550-5.7.0 Virus eingestuft
+    wurde. Sollten Sie dies als unzutreffend ansehen, 550-5.7.0 senden Sie
+    bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wir 550-5.7.0 die
+    Klassifizierung untersuchen koennen. Wir entschuldigen uns fuer 550 5.7.0
+    etwaige Unannehmlichkeiten und bedanken uns fuer Ihre Unterstuetzung!
+
+--BB1E21DA097.1548316551/umail.jcbl.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Return-Path: <warranty.ptk@globe-trucking.com>
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id BB1E21DA097
+	for <friedrich-petri@t-online.de>; Thu, 24 Jan 2019 13:25:49 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7qiPGmRUFpZB for <friedrich-petri@t-online.de>;
+	Thu, 24 Jan 2019 13:25:49 +0530 (IST)
+Received: from mx11.jcbl.com (unknown [220.227.45.53])
+	by umail.jcbl.com (Postfix) with ESMTPA id 6ADFE1DA008
+	for <friedrich-petri@t-online.de>; Thu, 24 Jan 2019 13:25:49 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id 44D77F2A1DB; Thu, 24 Jan 2019 07:53:12 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id 2F7C5F2A1B2
+	for <friedrich-petri@t-online.de>; Thu, 24 Jan 2019 13:23:12 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 27837F4BBB1
+	for <friedrich-petri@t-online.de>; Thu, 24 Jan 2019 13:23:12 +0530 (IST)
+X-Virus-Scanned: Debian amavisd-new at mx9.jcbl.com
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vLY-OShpmbOj for <friedrich-petri@t-online.de>;
+	Thu, 24 Jan 2019 13:23:06 +0530 (IST)
+Received: from 10.15.18.21 (unknown [182.73.30.82])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id 35FF5F4B65A
+	for <friedrich-petri@t-online.de>; Thu, 24 Jan 2019 13:06:55 +0530 (IST)
+Date: Thu, 24 Jan 2019 13:08:38 +0530
+From: Ortsverein Bissendorf <awo-bissendorf@osnanet.de> <warranty.ptk@globe-trucking.com>
+To: friedrich-petri@t-online.de
+Message-ID: <34016490036313117406.54F827A354EC5062@t-online.de>
+Subject: Ortsverein Bissendorf RG vom 24/01/2019
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_29660_1534208454.18354643403600524340"
+
+------=_Part_29660_1534208454.18354643403600524340
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p><font color=3D"navy" face=3D"Segoe UI">
+Sehr geehrter,
+</font></p>
+<br>
+<p><font color=3D"navy" face=3D"Segoe UI">
+=0DZu der anderen Frage =E2=80=93 dieser Softwarepflegevertrag beinhaltet f=
+=C3=BCr die Laufzeit die Softwarepflege und den kostenlosen <br>=0DSupport =
+=C3=BCber unseren Supportassistenten f=C3=BCr diesen Kunden. Falls sich dan=
+n die Support- Probleme nur =C3=BCber eine Remote<br> =0DSitzung kl=C3=A4re=
+n lassen, dann fallen diese Kosten an.
+</font></p>
+<p><font color=3D"navy" face=3D"Segoe UI">
+=0DFreue mich von Ihnen zu h=C3=B6ren auf gute Zusammenarbeit.
+<br>
+<br>
+<a href=3D"http://bachhoatrangia.com/Amazon/DE/Bestellung-details/2019-01">=
+Sie k=C3=B6nnen die Rechnung =C3=BCber diesen Link herunterladen.</a>
+<br>
+<br>
+<br>
+Freundliche Gr=C3=BC=C3=9Fe
+<br>
+</font></p>
+<p><font color=3D"black" face=3D"Segoe UI">=20
+Ortsverein Bissendorf</font></p>
+<p><font color=3D"green" face=3D"Segoe UI"><small>
+=0DTel.: +49 41 56420 840<br>=0DFax: +49 41 56420 670<br>
+=0DeMail:awo-bissendorf@osnanet.de
+</small></font></p>
+<p><font color=3D"grey" face=3D"Segoe UI"><small>
+=0DDiese eMail kann vertrauliche und/oder rechtlich gesch=C3=BCtzte Informa=
+tionen enthalten. Wenn Sie nicht <br>=0Dder richtige Adressat sind oder die=
+se E-Mail irrt=C3=BCmlich erhalten haben, informieren Sie bitte sofort den =
+<br>=0DAbsender und vernichten Sie diese eMail. <br>=0DDas unerlaubte Kopie=
+ren sowie die unbefugte Weitergabe dieser E-Mail ist nicht gestattet.
+<br>
+</small></font></p>
+</body>
+</html> 
+------=_Part_29660_1534208454.18354643403600524340--
+
+--BB1E21DA097.1548316551/umail.jcbl.com--

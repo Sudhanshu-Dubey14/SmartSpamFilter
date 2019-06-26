@@ -1,0 +1,78 @@
+Return-Path: <wahl_vacuum_trimmer-acme=jcbl.com@bossmarriage.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@acmeformulation.com>, <viralshah@acmeformulation.com>,
+	<praveen_ajauria@jcbl.com>
+X-Envelope-To-Blocked: <info@acmeformulation.com>,
+	<viralshah@acmeformulation.com>, <praveen_ajauria@jcbl.com>
+X-Quarantine-ID: <aFXz19mp5NGR>
+X-Spam-Flag: YES
+X-Spam-Score: 15.866
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.866 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FROM_12LTRDOM=2, HTML_IMAGE_ONLY_24=1.282,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_CSS=1, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01, T_RP_MATCHES_RCVD=-0.01, URIBL_DBL_SPAM=1.7]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aFXz19mp5NGR; Mon, 29 Oct 2018 15:54:05 +0530 (IST)
+Received: from mail.bossmarriage.com (bossmarriage.com [162.251.123.130])
+	by mx10.jcbl.com (Postfix) with ESMTP id 76B3CEECD1A
+	for <acme@jcbl.com>; Mon, 29 Oct 2018 15:53:48 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bossmarriage.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=wahl_vacuum_trimmer@bossmarriage.com;
+ bh=LcuwS9X7JmkrFXVi+1aTtQJjjfs=;
+ b=WcRqg5z59csgA/7AP8aamEPcgAd89MzHVIry/JAuGejk2PrnqPnvYUIBtOIGDMt2eUs1otMx2BMd
+   Q6CSGsqnchUvAtezB8dSIjl0l/qTfFlxlOmU6OaH5d7+U/2XuGztoBfUfIHHdU1u8Rq4pZKbhkSc
+   FpqmSxXe7uU2eKUUCbo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bossmarriage.com;
+ b=rSPor7If41wMddHdYeAvT9Gv6YkOd0yFHeaeH7/Al76TBbRn3T5cZ4E92bmta7sgwjhkDo1vuHkJ
+   GDovWdQSeLVyg1IbW+zbYD4aRnzKwXvrEePNI8VERJgIKe7FNP90j3RpLNC/8O1tdHG0V9RyHrXF
+   IXx/JWadgYzFMUh/IVY=;
+Received: by mail.bossmarriage.com id hqrg2q0001g9 for <acme@jcbl.com>; Mon, 29 Oct 2018 06:11:46 -0400 (envelope-from <wahl_vacuum_trimmer-acme=jcbl.com@bossmarriage.com>)
+Date: Mon, 29 Oct 2018 06:11:46 -0400
+From: "Wahl Vacuum Trimmer" <wahl_vacuum_trimmer@bossmarriage.com>
+To:   <acme@jcbl.com>
+Subject: Manscaping Etiquette: Don't Leave Behind a Mess
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1735_530291042.1540807819619"
+List-Unsubscribe: <http://www.bossmarriage.com/4c16C2W38V5kU89K12v11rqoJX82di14tDGiIfcGFhEGsi6vC1P0u10e@Bqqkiwx9/foulness-tensely>
+Message-ID: <0.0.0.26F.1D46F6FCCAB362E.8F0CB@mail.bossmarriage.com>
+
+------=_Part_1735_530291042.1540807819619
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head> 
+  <title>Wahl&reg; 2-in-1 Vacuum Trimmer - Look Your Best Without The Mess</title> 
+  <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" /> 
+ </head> 
+ <body bgcolor="#FFFFFF" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"> 
+  <table border="0" cellpadding="5" cellspacing="0" width="450"> 
+   <tbody> 
+    <tr> 
+     <td style="font:12px Arial, Helvetica, sans-serif;"> <p>Wahl&nbsp;2-in-1 Vacuum Trimmer - Groomed Beard VS Clean Bathroom</p> <p>Dreading Manscaping? With Wahl's 2-in-1 Vacuum Trimmer, there are no more sacrifices between grooming and convenience. Achieve a great look while keeping a clean bathroom &amp; saving time. Everyone's a winner with Wahl's Vacuum Trimmer.</p> <p><a href="http://www.bossmarriage.com/rephrased-Ramona/2884u2385c8XP610p329bt82dV14SDGiIfcGFhEGsi7vsou10D10zJXpXLiwx9">Learn More</a></p> </td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.bossmarriage.com/rephrased-Ramona/2884u2385c8XP610p329bt82dV14SDGiIfcGFhEGsi7vsou10D10zJXpXLiwx9"><img alt="Wahl&reg; 2-in-1 Vacuum Trimmer - Look Your Best Without The Mess" border="0" src="http://www.bossmarriage.com/a7f5f2s385zHA7a10e329eQ82dg14SDGiIfcGFhEGsi5vsT1010QMUpTiwkx9/hyphenate-claw" width="450" /></a></td> 
+    </tr> 
+    <tr> 
+     <td align="center" style="font: 11px Arial, Helvetica, sans-serif">If you would like to remove yourself from the Wahl&reg; 2-in-1 Vacuum Trimmer list, <a href="http://www.bossmarriage.com/c7d6s2h3i85S8pX610U329cx82dR14IDGiIfcGFhEGsi6W1XXz09hlLAiw3x9/rephrased-Ramona">click here</a>.<br /> *This is an advertisement<br /> <span id="OLK_SRC_BODY_SECTION2">PO Box 4077 Broadlands, VA 20148</span></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <div style="text-align: left; ">
+   <font size="3">To be removed <a href="http://www.bossmarriage.com/foulness-tensely/13e5a2C385JTw8911Hg329dT82dM14QDGiIfcGFhEGsi5j1Xw09pkOAiwx9N">view here</a><br /> PO Box 660675 #34709 Dallas, TX 75266-0675</font>
+  </div>   
+ <img src="http://www.bossmarriage.com/5935l23M85mj85o11Yu329fO82dY14WDGiIfcGFhEGsi6m1B0PD9M0yi@Xwx9/foulness-tensely" alt=""/></body>
+</html>
+
+------=_Part_1735_530291042.1540807819619--
+

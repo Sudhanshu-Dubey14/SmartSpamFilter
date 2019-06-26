@@ -1,0 +1,286 @@
+Return-Path: <bounces+3308302-6e58-amit_chugh=jcbl.com@sendgrid.net>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <amit_chugh@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a9zM0aTd881o>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E2 hex):
+	Subject: ...firmed for Mr Amit Chugh \303\242\302\200\302\223 2017
+	Retail [...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a9zM0aTd881o for <amit_chugh@jcbl.com>;
+	Mon, 28 Nov 2016 16:06:23 +0530 (IST)
+Received: from o1678986x59.outbound-mail.sendgrid.net (o1678986x59.outbound-mail.sendgrid.net [167.89.86.59])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 385ECF44129
+	for <amit_chugh@jcbl.com>; Mon, 28 Nov 2016 16:06:19 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.net; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=smtpapi; bh=D2ShXk78ArAlfdN+gsMXUMyKBVE=; b=L2H1pbVhPNNq5sWEZ4
+	k7Lrz1NnNkiqrobIAviMyBJzmDXfNulaPYnupSATUY15iXgSaYVjjdcwb13SSg3/
+	GmfgYQlBOx7AKL03tS3XnIGcW/PT+UTtWDbQeWBZ+86KvDh2sUPB4NKzAjYo/tNQ
+	Hii8F3PNptBFZXvpCmTODARXs=
+Received: by filter0325p1las1.sendgrid.net with SMTP id filter0325p1las1-6191-583C08DA-38
+        2016-11-28 10:37:14.636091342 +0000 UTC
+Received: from MzMwODMwMg (unknown [13.91.61.23])
+	by ismtpd0003p1sjc2.sendgrid.net (SG) with HTTP id IegxexcYRRiDegCZMag-Kw
+	Mon, 28 Nov 2016 10:37:14.777 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 28 Nov 2016 10:37:14 +0000
+From: "Harley-Davidson Motor Company" <aprre@harley-davidson.com>
+Mime-Version: 1.0
+To: Mr Amit Chugh <amit_chugh@jcbl.com>
+Message-ID: <IegxexcYRRiDegCZMag-Kw@ismtpd0003p1sjc2.sendgrid.net>
+Subject: Registration Confirmed for Mr Amit Chugh – 2017 Retail Readiness Event
+X-SG-EID: OA0oI+kDj+R5iZDGDDh0vEFz/u75XQVAeeMKGnHyvAc8wq9V2/6JYkbx2pj52Bv+f/oRwffWhuzPqf
+ fIUjbx1aOjuXipnILxuT7FYKtk7j0xGE8Stca/r1IxHlfTlurOAmRrmWO4fP+gpAGg0DrVBdR2bCLP
+ Ba80ChotpV4TbIj4VUvWo9Q172D339KNXZofCh/1WzwrrkAbeVvba84ifczEh3TlkmPd/GORNto5HG
+ l+uZSb0DoQMoDr4AlYVL24
+X-SG-ID: iUNOK2JO16uP/H2Elk1COLDn5Pkon6DtWkRSX9HAoS92LnVN/iBqZrh3CQGKtRFTKWBlC7ZAgifLXl
+ UU3Nlpgynx0Ma7XwBP31mnrzXhTD8=
+
+<html><head id=3D"head" /><body style=3D"width: 670px;margin: 0px auto;"><t=
+able style=3D"width: 670px;margin: 0px auto 0px auto;border-collapse: colla=
+pse;" align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><co=
+lgroup><col style=3D"width: 50px;" /><col style=3D"width: 565px;" /><col st=
+yle=3D"width: 55px;" /></colgroup><tr style=3D"height: 104px;"><td colspan=
+=3D"3" style=3D"width: 670px;vertical-align: top;"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"width: 670px;height: 104px;padding=
+-left: 0px;padding-right: 0px;border-collapse: collapse;"><tr><td style=3D"=
+color: #000000;font-family: Verdana;font-size: 12px;-webkit-text-size-adjus=
+t: none;"><img style=3D"display: block;border: 0;" src=3D"https://digital.l=
+enos.com/harley-davidson/2017RREAP/Images/email_header_RREAP_V2.JPG" width=
+=3D"670" height=3D"104" /></td></tr></table></td></tr><tr style=3D"height: =
+21px;"><td style=3D"vertical-align: bottom;"><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"width: 50px;height: 21px;border-collapse=
+: collapse;"><caption /></table></td><td style=3D"vertical-align: bottom;">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 565=
+px;height: 21px;border-collapse: collapse;"><caption /></table></td><td sty=
+le=3D"vertical-align: bottom;"><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"width: 55px;height: 21px;border-collapse: collapse;"><=
+caption /></table></td></tr><tr style=3D"height: 1339px;"><td style=3D"vert=
+ical-align: bottom;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"width: 50px;height: 1339px;border-collapse: collapse;"><caption =
+/></table></td><td style=3D"width: 565px;vertical-align: top;"><table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 565px;height: 1=
+339px;padding-left: 0px;padding-right: 0px;border-collapse: collapse;"><tr>=
+<td style=3D"color: #000000;font-family: Verdana;font-size: 12px;-webkit-te=
+xt-size-adjust: none;vertical-align: top;"><section style=3D""><div style=
+=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14px;">De=
+ar </span><span style=3D"color: #494949;font-family: Arial;font-size: 14px;=
+font-style: normal;font-weight: bold;">Mr Amit</span><span style=3D"font-we=
+ight: bold;"> </span><span style=3D"color: #494949;font-family: Arial;font-=
+size: 14px;font-style: normal;font-weight: bold;">Chugh</span><span style=
+=3D"font-weight: bold;">,</span></div><div style=3D""><span style=3D"backgr=
+ound-color: transparent;color: #494949;font-family: Arial;font-size: 14px;"=
+>&nbsp;</span></div><div style=3D""><span style=3D"color: #494949;font-fami=
+ly: Arial;font-size: 14px;">Congratulations! You have successfully register=
+ed for the </span><span style=3D"color: #494949;font-family: Arial;font-siz=
+e: 14px;font-weight: bold;">Harley-Davidson 2017 Retail Readiness Event</sp=
+an><span style=3D"color: #494949;font-family: Arial;font-size: 14px;">. Bel=
+ow is your registration summary. If you wish to edit this information, plea=
+se </span><a style=3D"color: #0000FF;" href=3D"https://u3308302.ct.sendgrid=
+.net/wf/click?upn=3Djd2pAG-2B4f8itQZQgRHBzYjK-2BZvcwXL-2BQ3OUH-2F7V5cRYh29i=
+OKS8Hr-2BFEbXgohbSDt710VkEZOzwbnOEyvCjLSuKb-2BwqoXJUCw8Mj9yQ4rjexOa4tqifgWK=
+wRZOyVAEZk_KmHzd9mYZx4N-2FRzNyIOpMi5cpUY6eniXOB60b721KT-2FrrwVK777HqYmyvA0o=
+6HAzJSu81VJiT-2BsFMsM4dt-2FeKZ-2B95ZSmS5l7gaF0yeGQ2BlIfiEjLTK5ClzaWvEYpz-2B=
+dfY65r9j9KW-2BhbU-2BNHtfCqeQ1QPXG3NLl3-2FsbX1cuVZ51NPzR64hAv4FnucU3JPeEjTDF=
+KhpgwSNOu0UsgG4R420ZYXR48x7D-2FgnQLEbsNB-2F5eAPoxCYBJO4yH7KOPxu-2BpAss716mp=
+pYI2pheI8PCB-2BdaN70kb2CVveIchzCTL-2FvV-2FuO705gMTWvDc2FuyQCm"><span style=
+=3D"color: #FF6600;font-family: Arial;font-size: 14px;font-weight: bold;">c=
+lick here</span></a><span style=3D"color: #494949;font-family: Arial;font-s=
+ize: 14px;"> and enter your event confirmation number (</span><span style=
+=3D"color: #494949;font-family: Arial;font-size: 14px;font-style: normal;fo=
+nt-weight: bold;">7EF37F77</span><span style=3D"color: #494949;font-family:=
+ Arial;font-size: 14px;">).</span></div><div style=3D""><span style=3D"back=
+ground-color: transparent;color: #FF6600;font-family: Arial;font-size: 14px=
+;">&nbsp;</span></div><div style=3D""><span style=3D"color: #FF6600;font-fa=
+mily: Arial;font-size: 14px;">EVENT DETAILS</span></div><div style=3D""><sp=
+an style=3D"background-color: transparent;color: #494949;font-family: Arial=
+;font-size: 14px;">&nbsp;</span></div><div style=3D""><span style=3D"color:=
+ #494949;font-family: Arial;font-size: 14px;">Name: </span><span style=3D"c=
+olor: #494949;font-family: Arial;font-size: 14px;font-weight: bold;">2017 R=
+etail Readiness Event</span></div><div style=3D""><span style=3D"color: #49=
+4949;font-family: Arial;font-size: 14px;">Date: </span><span style=3D"color=
+: #494949;font-family: Arial;font-size: 14px;font-weight: bold;">January 16=
+-17, 2017</span></div><div style=3D""><span style=3D"color: #494949;font-fa=
+mily: Arial;font-size: 14px;">Location: </span><span style=3D"color: #49494=
+9;font-family: Arial;font-size: 14px;font-weight: bold;">Resorts World Sent=
+osa =E2=80=93 Convention Centre</span></div><div style=3D""><span style=3D"=
+color: #494949;font-family: Arial;font-size: 14px;">Address: </span><span s=
+tyle=3D"color: #494949;font-family: Arial;font-size: 14px;font-weight: bold=
+;">8 Resorts Gateway, Singapore 098269</span></div><div style=3D""><span st=
+yle=3D"color: #494949;font-family: Arial;font-size: 14px;">Directions to th=
+e resort can be found </span><a style=3D"color: #0000FF;" href=3D"https://u=
+3308302.ct.sendgrid.net/wf/click?upn=3DMzC5szvjrJ1j-2BSVwPUmHXOAFtZFZxfLsWm=
+XtSf0Ed5D7AG04GNDvuWPCOplU56qpUZi1x4yJoF4tPbIiRxoMuw-3D-3D_KmHzd9mYZx4N-2FR=
+zNyIOpMi5cpUY6eniXOB60b721KT-2FrrwVK777HqYmyvA0o6HAzJSu81VJiT-2BsFMsM4dt-2F=
+eKZ-2B95ZSmS5l7gaF0yeGQ2BlIfiEjLTK5ClzaWvEYpz-2BdfY65r9j9KW-2BhbU-2BNHtfCqe=
+Q1QPXG3NLl3-2FsbX1cuVZ6CZwOmx0YulI15iIpg-2BFvwc9LbaCN3bNnPculTFrtbTgHuhPg7k=
+DYqxa-2FHT784ZAhi6UgfxTWBHVqBFeFYKK4o82CcrndHkEJKsvfcqkghU1EtSpPLRnVdytKT1-=
+2B4WSH7FGthjYwyQ5i-2BYb7uq5adD"><span style=3D"color: #494949;font-family: =
+Arial;font-size: 14px;">here</span></a><span style=3D"color: #494949;font-f=
+amily: Arial;font-size: 14px;">.</span></div><div style=3D""><span style=3D=
+"background-color: transparent;color: #494949;font-family: Arial;font-size:=
+ 14px;">&nbsp;</span></div><div style=3D""><span style=3D"color: #494949;fo=
+nt-family: Arial;font-size: 14px;">Event Confirmation Number: </span><span =
+style=3D"color: #494949;font-family: Arial;font-size: 14px;font-style: norm=
+al;font-weight: bold;">7EF37F77</span> </div><div style=3D""><span style=3D=
+"color: #494949;font-family: Arial;font-size: 14px;">Hotel Confirmation Num=
+ber: </span><span style=3D"color: #494949;font-family: Arial;font-size: 14p=
+x;font-weight: bold;">Will be emailed to you directly from the hotel two we=
+eks prior to your check-in date</span></div><div style=3D""><span style=3D"=
+background-color: transparent;color: #494949;font-family: Arial;font-size: =
+14px;">&nbsp;</span></div><div style=3D""><span style=3D"color: #FF6600;fon=
+t-family: Arial;font-size: 14px;">REGISTRATION DETAILS</span></div><div sty=
+le=3D""><span style=3D"background-color: transparent;color: #494949;font-fa=
+mily: Arial;font-size: 14px;">&nbsp;</span></div><div style=3D""><span styl=
+e=3D"color: #494949;font-family: Arial;font-size: 14px;">Dealer ID: </span>=
+<span style=3D"color: #494949;font-family: Arial;font-size: 14px;font-style=
+: normal;font-weight: bold;">2759</span> </div><div style=3D""><span style=
+=3D"color: #494949;font-family: Arial;font-size: 14px;">Dealership Name: </=
+span><span style=3D"color: #494949;font-family: Arial;font-size: 14px;font-=
+style: normal;font-weight: bold;">Capital Harley-Davidson</span> </div><div=
+ style=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14p=
+x;">Dealership Address: </span><span style=3D"color: #494949;font-family: A=
+rial;font-size: 14px;font-style: normal;font-weight: bold;">Plot No. 26, Se=
+ctor 34,</span><span style=3D"color: #494949;font-family: Arial;font-size: =
+14px;font-weight: bold;"> </span><span style=3D"color: #494949;font-family:=
+ Arial;font-size: 14px;font-style: normal;font-weight: bold;">Opp Hero Fact=
+ory</span><span style=3D"color: #494949;font-family: Arial;font-size: 14px;=
+font-weight: bold;"> </span><span style=3D"color: #494949;font-family: Aria=
+l;font-size: 14px;font-style: normal;font-weight: bold;">Gurgaon</span><spa=
+n style=3D"color: #494949;font-family: Arial;font-size: 14px;font-weight: b=
+old;"> </span><span style=3D"color: #494949;font-family: Arial;font-size: 1=
+4px;font-style: normal;font-weight: bold;"></span><span style=3D"color: #49=
+4949;font-family: Arial;font-size: 14px;font-style: normal;font-weight: bol=
+d;"></span><span style=3D"color: #494949;font-family: Arial;font-size: 14px=
+;font-weight: bold;"> </span><span style=3D"color: #494949;font-family: Ari=
+al;font-size: 14px;font-style: normal;font-weight: bold;">122001</span><spa=
+n style=3D"font-weight: bold;"> </span><span style=3D"color: #494949;font-f=
+amily: Arial;font-size: 14px;font-style: normal;font-weight: bold;">India</=
+span><span style=3D"color: #494949;font-family: Arial;font-size: 14px;font-=
+weight: bold;"> </span></div><div style=3D""><span style=3D"color: #494949;=
+font-family: Arial;font-size: 14px;">Dealership Phone: </span><span style=
+=3D"color: #494949;font-family: Arial;font-size: 14px;font-style: normal;fo=
+nt-weight: bold;">+919779972233</span><span style=3D"font-weight: bold;"> <=
+/span></div><div style=3D""><span style=3D"background-color: transparent;co=
+lor: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div><div s=
+tyle=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14px;=
+">First Name: </span><span style=3D"color: #494949;font-family: Arial;font-=
+size: 14px;font-style: normal;font-weight: bold;">Mr Amit</span><span style=
+=3D"font-weight: bold;"> </span><span style=3D"color: #494949;font-family: =
+Arial;font-size: 14px;"> </span></div><div style=3D""><span style=3D"color:=
+ #494949;font-family: Arial;font-size: 14px;">Last Name: </span><span style=
+=3D"color: #494949;font-family: Arial;font-size: 14px;font-style: normal;fo=
+nt-weight: bold;">Chugh</span></div><div style=3D""><span style=3D"color: #=
+494949;font-family: Arial;font-size: 14px;">First Name for Name Badge: </sp=
+an><span style=3D"color: #494949;font-family: Arial;font-size: 14px;font-st=
+yle: normal;font-weight: bold;">Amit Chugh</span></div><div style=3D""><spa=
+n style=3D"background-color: transparent;color: #494949;font-family: Arial;=
+font-size: 14px;">&nbsp;</span></div><div style=3D""><span style=3D"color: =
+#FF6600;font-family: Arial;font-size: 14px;">REQUESTED HOTEL RESERVATION DE=
+TAILS</span></div><div style=3D""><span style=3D"background-color: transpar=
+ent;color: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div>=
+<div style=3D""><span style=3D"color: #494949;font-family: Arial;font-size:=
+ 14px;font-weight: bold;">Hard Rock Hotel Singapore at Resorts World Sentos=
+a</span></div><div style=3D""><span style=3D"color: #494949;font-family: Ar=
+ial;font-size: 14px;">8 Resorts Gateway</span></div><div style=3D""><span s=
+tyle=3D"color: #494949;font-family: Arial;font-size: 14px;">Singapore 09826=
+9</span></div><div style=3D""><span style=3D"background-color: transparent;=
+color: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div><div=
+ style=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14p=
+x;">Hotel Required? </span><span style=3D"color: #494949;font-family: Arial=
+;font-size: 14px;font-style: normal;font-weight: bold;">No</span> </div><di=
+v style=3D""><span style=3D"background-color: transparent;color: #494949;fo=
+nt-family: Arial;font-size: 14px;">&nbsp;</span></div><div style=3D""><span=
+ style=3D"color: #494949;font-family: Arial;font-size: 14px;">Reservation N=
+ame: </span><span style=3D"color: #494949;font-family: Arial;font-size: 14p=
+x;font-style: normal;font-weight: bold;">Mr Amit</span><span style=3D"color=
+: #494949;font-family: Arial;font-size: 14px;font-weight: bold;"> </span><s=
+pan style=3D"color: #494949;font-family: Arial;font-size: 14px;font-style: =
+normal;font-weight: bold;">Chugh</span><span style=3D"font-weight: bold;"> =
+</span></div><div style=3D""><span style=3D"background-color: transparent;c=
+olor: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div><div =
+style=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14px=
+;font-weight: bold;">Requested Housing Dates</span></div><div style=3D""><s=
+pan style=3D"color: #494949;font-family: Arial;font-size: 14px;">Check-In D=
+ate: </span><span style=3D"color: #494949;font-family: Arial;font-size: 14p=
+x;font-style: normal;font-weight: bold;"></span><span style=3D"font-weight:=
+ bold;"> </span> <span style=3D"color: #494949;font-family: Arial;font-size=
+: 14px;"> </span></div><div style=3D""><span style=3D"color: #494949;font-f=
+amily: Arial;font-size: 14px;">Check-Out Date: </span><span style=3D"color:=
+ #494949;font-family: Arial;font-size: 14px;font-style: normal;font-weight:=
+ bold;"></span>  </div><br /><div style=3D""><span style=3D"color: #494949;=
+font-family: Arial;font-size: 14px;font-weight: bold;">Confirmed Housing Da=
+tes</span></div><div style=3D""><span style=3D"color: #494949;font-family: =
+Arial;font-size: 14px;">Check-In Date: </span><span style=3D"color: #494949=
+;font-family: Arial;font-size: 14px;font-style: normal;font-weight: bold;">=
+</span> <span style=3D"color: #494949;font-family: Arial;font-size: 14px;">=
+ </span></div><div style=3D""><span style=3D"color: #494949;font-family: Ar=
+ial;font-size: 14px;">Check-Out Date: </span><span style=3D"color: #494949;=
+font-family: Arial;font-size: 14px;font-style: normal;font-weight: bold;"><=
+/span> </div><br /><div style=3D""><span style=3D"color: #494949;font-famil=
+y: Arial;font-size: 14px;">Bed Type Preference: </span><span style=3D"color=
+: #494949;font-family: Arial;font-size: 14px;font-style: normal;font-weight=
+: bold;"></span> </div><div style=3D""><span style=3D"background-color: tra=
+nsparent;color: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span><=
+/div><div style=3D""><span style=3D"color: #494949;font-family: Arial;font-=
+size: 14px;">ADA Accessible: </span><span style=3D"color: #494949;font-fami=
+ly: Arial;font-size: 14px;font-style: normal;font-weight: bold;">No</span> =
+<span style=3D"color: #494949;font-family: Arial;font-size: 14px;"> </span>=
+</div><div style=3D""><span style=3D"color: #494949;font-family: Arial;font=
+-size: 14px;">Special Hotel Request: </span><span style=3D"color: #494949;f=
+ont-family: Arial;font-size: 14px;font-style: normal;font-weight: bold;"></=
+span> <span style=3D"color: #494949;font-family: Arial;font-size: 14px;"> <=
+/span></div><div style=3D""><span style=3D"background-color: transparent;co=
+lor: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div><div s=
+tyle=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14px;=
+">Will you be sharing your room? </span><span style=3D"color: #494949;font-=
+family: Arial;font-size: 14px;font-style: normal;font-weight: bold;"></span=
+> </div><div style=3D""><span style=3D"color: #494949;font-family: Arial;fo=
+nt-size: 14px;">If you are sharing your room, your roommate(s) will display=
+ below.</span></div><div style=3D""><span style=3D"color: #494949;font-fami=
+ly: Arial;font-size: 14px;font-style: normal;font-weight: bold;"></span></d=
+iv><div style=3D""><span style=3D"color: #494949;font-family: Arial;font-si=
+ze: 14px;font-style: normal;font-weight: bold;"></span></div><div style=3D"=
+"><span style=3D"color: #494949;font-family: Arial;font-size: 14px;font-sty=
+le: normal;font-weight: bold;"></span></div><div style=3D""><span style=3D"=
+background-color: transparent;color: #494949;font-family: Arial;font-size: =
+14px;">&nbsp;</span></div><div style=3D""><span style=3D"color: #494949;fon=
+t-family: Arial;font-size: 14px;">If you have any questions regarding regis=
+tration or hotel reservations, please email </span><a style=3D"color: #0000=
+FF;" target=3D"90c1f760-e137-464d-b93f-ae8ca9345771" href=3D"mailto:APRRE@h=
+arley-davidson.com"><span style=3D"color: #FF6600;font-family: Arial;font-s=
+ize: 14px;font-style: italic;">APRRE@harley-davidson.com</span></a><span st=
+yle=3D"color: #494949;font-family: Arial;font-size: 14px;">. We will respon=
+d within two business days.</span></div><div style=3D""><span style=3D"back=
+ground-color: transparent;color: #494949;font-family: Arial;font-size: 14px=
+;">&nbsp;</span></div><div style=3D""><span style=3D"color: #494949;font-fa=
+mily: Arial;font-size: 14px;">We look forward to seeing you in Singapore!</=
+span></div><div style=3D""><span style=3D"background-color: transparent;col=
+or: #494949;font-family: Arial;font-size: 14px;">&nbsp;</span></div><div st=
+yle=3D""><span style=3D"color: #494949;font-family: Arial;font-size: 14px;"=
+>Best regards,</span></div><div style=3D""><span style=3D"background-color:=
+ transparent;color: #494949;font-family: Arial;font-size: 14px;">&nbsp;</sp=
+an></div><div style=3D""><span style=3D"color: #494949;font-family: Arial;f=
+ont-size: 14px;font-style: italic;">Harley-Davidson Motor Company</span></d=
+iv></section></td></tr></table></td><td style=3D"vertical-align: bottom;"><=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 55px=
+;height: 1339px;border-collapse: collapse;"><caption /></table></td></tr><t=
+r><td align=3D"center" style=3D"width: 670px;" /></tr></table><!-- --><br />
+<img src=3D"https://u3308302.ct.sendgrid.net/wf/open?upn=3DKmHzd9mYZx4N-2FR=
+zNyIOpMi5cpUY6eniXOB60b721KT-2FrrwVK777HqYmyvA0o6HAzJSu81VJiT-2BsFMsM4dt-2F=
+eKZ-2B95ZSmS5l7gaF0yeGQ2BlIfiEjLTK5ClzaWvEYpz-2BdfY65r9j9KW-2BhbU-2BNHtfCqe=
+Q1QPXG3NLl3-2FsbX1cuVZ6S-2BWvF-2BQJrlkFzjo-2BKsCoXMY1ui8TbCzvGAAT7xz-2FxfbD=
+RV99albic-2FwXdj9f5JOCxqCMhgQep8q3gUC2QXKL-2B-2BkfiJyJQT7Nc1QdC2Ynu8jE9-2FL=
+RbNmxvknQqGT3IzNQiziAeS75EUkIDYi42BF5A" alt=3D"" width=3D"1" height=3D"1" b=
+order=3D"0" style=3D"height:1px !important;width:1px !important;border-widt=
+h:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-ri=
+ght:0 !important;margin-left:0 !important;padding-top:0 !important;padding-=
+bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>

@@ -1,0 +1,84 @@
+Return-Path: <4510-1569-168964-1251-hrm=jcbl.com@mail.funweakend.icu>
+Delivered-To: spam-quarantine
+X-Envelope-To: <hrm@jcbl.com>
+X-Envelope-To-Blocked: <hrm@jcbl.com>
+X-Quarantine-ID: <awN3I1N9Qzsd>
+X-Spam-Flag: YES
+X-Spam-Score: 10.429
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.429 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_16=1.048, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.259, MPART_ALT_DIFF=0.724,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_PSBL=2.7, RDNS_NONE=1.274,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id awN3I1N9Qzsd for <hrm@jcbl.com>;
+	Fri, 21 Dec 2018 15:17:03 +0530 (IST)
+Received: from skoll.funweakend.icu (unknown [185.148.243.183])
+	by mx10.jcbl.com (Postfix) with ESMTP id 05C6FF44641
+	for <hrm@jcbl.com>; Fri, 21 Dec 2018 15:16:55 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=funweakend.icu;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=contact@funweakend.icu;
+ bh=NC01oL0VHCFWcn52ZRRHd9VraGY=;
+ b=JuV06dPUlRlq4jb4QcMLlCiOmqETXFyifU2PXHnB+n9ZycNTfRvTbbdIQbSfZSH7PmNbcKM7i4Gu
+   LMxx67gjiqOLHUyUDLKkiOGJN1ojkMddmp15BvjcOKdcVPZj5uFGf77MqFr7/CWLa3B5GJWmXuF/
+   I1XQpQzxz9Ab1BYuKaA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=funweakend.icu;
+ b=YGmWhx6yR/AKs4i5wSF7Qz9g3aiaNoc2yxfYp1W3/06DLxTtgEfY8ryjdY/wkK8nga0iyr5FP2rc
+   wUaiCTr8EDHjSFOtzpK6lFhEr1TFCUagugmKIvoF7sPapTkYFTbOJtmc1Qa56jL7btmY6f/ZoRJu
+   7uDyxCnx+j9BF7nYW0Q=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c18580569d7a79ffc6a78924416dec0a"
+Date: Fri, 21 Dec 2018 04:46:49 -0500
+From: "AHS Warranty" <contact@funweakend.icu>
+Reply-To: "AHS Warranty" <contact@funweakend.icu>
+Subject: Skip the worry. Not the Warranty.
+To: <hrm@jcbl.com>
+Message-ID: <mrm2zz0bhu8ch0wn-ra2sbip0nqbocggr-29404@funweakend.icu>
+
+--c18580569d7a79ffc6a78924416dec0a
+Content-Type: text/plain;
+
+Content-Transfer-Encoding: 8bit
+
+--c18580569d7a79ffc6a78924416dec0a
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Untitled Document</title>
+</head>
+<body><a href="http://funweakend.icu/iMl60mlQ56rrNCik2y0yXgLh4NqVH6AoxlpJFFv00TJiBozp"><img border="0" src="http://funweakend.icu/tG7-6q4R6c9v0yXUPP_hevrsxWUwaqcOsMcZFg9DIbR0Lvii" /> </a>
+<center><a href="http://funweakend.icu/4STGJazlGQPb_c8upY_6AcuCXw3JTmPuFa5KgNs1zFoQsDOD" target="_blank"><img src="http://funweakend.icu/73aa2055ae807d3162.png" /></a><br />
+&nbsp;
+<p style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#666666;">American Home Shield 150 Peabody Pl., Memphis, TN 38103<br />
+<a href="http://funweakend.icu/DkZXMu2MgSbgX2ghPNKEvayXmV--f1qjKwC7NiUlBwuSU2Jh" style="color:#0000FF" target="_blank">Unsubscribe</a> | <a href="" style="color:#0000FF" target="_blank">Privacy Policy</a><br />
+&copy; 2018 American Home Shield Corporation. All rights reserved.</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://funweakend.icu/tYyqGXaPTSEFH7rAgBPkkD-ouHG0oa_QNo70x3piiogOrmXc" target="_blank"><img src="http://funweakend.icu/11dd8f587b24f37c6f.jpg" /></a><br />
+&nbsp;</center>
+</body>
+</html>
+
+--c18580569d7a79ffc6a78924416dec0a--
+

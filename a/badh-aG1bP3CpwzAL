@@ -1,0 +1,303 @@
+Return-Path: <TCDLH-330245-dinesh_dua@tcmailer11.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <dinesh_dua@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aG1bP3CpwzAL>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char C3 hex):
+	List-Unsubscribe:
+	...pYS5uZXQ=unsub>,<http://t\303\203\302\234vrheinlandindi[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aG1bP3CpwzAL for <dinesh_dua@mslindia.net>;
+	Wed,  3 Feb 2016 16:49:17 +0530 (IST)
+Received: from m52.tcmail8.in (m52.tcmail8.in [199.166.35.52])
+	by mx10.jcbl.com (Postfix) with ESMTP id 7293DEC7AF6
+	for <dinesh_dua@mslindia.net>; Wed,  3 Feb 2016 16:49:16 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=oct; d=tuvrheinland.net;
+ h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:MIME-Version:Content-Transfer-Encoding:Content-Type; i=academy@tuvrheinland.net;
+ bh=j9079jUbUH5s3rqTZwfXx05SOzQ=;
+ b=lGqFZnumYL/ZigM6NlcEsY8wKpPuvcKFDkteaYEoZoSwfB/tH/IKSJpWali4KMaHihfdtdx3Cxkm
+   xydSbISN86M4lpePuFgqRikPbgvBnHtnAW7X+c085TrbF3RHS4KXH59z2FZX3iOh/H1wzSrZm7MY
+   56XNKKqMPGDryRvigaE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=oct; d=tuvrheinland.net;
+ b=caSbAMem7kCCn1sYL7WvODuqnpuIL8pXqsGWqOZ/l/fVZajmdOdEKhvsG7X1/eWR0/ZcPFaKqRHr
+   eZyFv8UZR/hfPS2qBLuDVJ/gYRSN+hvy1PuC8oP0AmLF3SIxditO1hF0WtGa0TLjVis+fMPrJhr2
+   SXEwE8VhJQMk1fkQ/os=;
+Date: Wed, 3 Feb 2016 11:05:01 +0000
+To: dinesh_dua@mslindia.net
+From: TUV Rheinland Academy <academy@tuvrheinland.net>
+Reply-to: amit.kaushal@ind.tuv.com
+Subject: New Product Development (NPD) Process Trg. on 25 & 26 Feb'16
+X-Mailer: tcmailer11.in
+X-Complaints-To: abuse@tcmailer11.in
+List-Unsubscribe: <mailto:unsubscribe@tcmailer11.in?subject=TCDLH-330245-58774-2-ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ=unsub>,<http://tÜvrheinlandindiapvtltd.tcmailer11.in/tr/ud/2/330245/58774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D>
+Message-ID: <TCDLH-330245-58774-2-ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ=unsub@tcmailer11.in>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<title>NPDP</title>
+<style type=3D"text/css">
+
+</style>
+<body>
+<table style=3D"width: 650px;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-=
+size: 11px; color: #333;" align=3D"center" height=3D"30" width=3D"650"><a h=
+ref=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/v/2/330245/5877=
+4/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D' ><span style=3D"color: #333; text-dec=
+oration: underline;">View this message in your browser</a></span> &nbsp;|&n=
+bsp; <a href=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/f/2/33=
+0245/58774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D' ><span style=3D"color: #333;=
+ text-decoration: underline;">Forward to your friends</a></span></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"border: 1px solid #cccccc; width: 736px;" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td height=3D"10" width=3D"734"></td>
+</tr>
+<tr>
+<td>
+<table style=3D"width: 725px;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td align=3D"right" width=3D"725"><a href=3D"http://t=C3=9Cvrheinlandindiap=
+vtltd.tcmailer11.in/tr/r/2/330245/58774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D/=
+0/W10%3D"  target=3D"_blank"><img src=3D"http://image.trackcampaigns.com/ci=
+/2047/3124/330245/images/image1.jpg"  style=3D"padding: 0; margin: 0; displ=
+ay: inline block;" alt=3D"TUV Rheinland" title=3D"TUV Rheinland" align=3D"t=
+op" height=3D"67" border=3D"0" width=3D"242" /></a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #000; font-family: Arial, Helvetica, sans-se=
+rif; color: #fff; font-size: 20px;" align=3D"center" height=3D"80" bgcolor=
+=3D"#99CCFF">
+<p class=3D"style21" align=3D"center"><span style=3D"color: #000080;"><stro=
+ng>Training on New Product Development Process</strong></span></p>
+<p class=3D"style21" align=3D"center"><strong><span style=3D"color: #000080=
+;">25 & 26 Feb 2016: Delhi/NCR</span> </strong></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; color: #010101; fon=
+t-size: 14px; line-height: 18px;" align=3D"left">
+<p style=3D"text-align: justify;" class=3D"style19" align=3D"justify">The s=
+uccess or failure of a product in the market is determined much before its =
+actual launch and is enabled by an effective New Product Development (NPD) =
+Process. Dovetailing the market strategy and the product and technology roa=
+d-maps with the overall business strategy is critical for the firm to be co=
+mpetitive.&nbsp;&nbsp; Market research and tools like VPH help in listening=
+ to the voice of the customer and gaining insights into what is perceived a=
+s value for money.&nbsp; Structured requirements development techniques hel=
+p capture and translate the right product requirements into technical speci=
+fications. NPD involves an interdisciplinary approach and effective cross-f=
+unctional teaming. Robust portfolio management is a must for evaluating and=
+ selecting the appropriate NPD projects addressing the product requirements=
+. It also mandates a structured approach to planning, development gates dur=
+ing execution including Go/No Go decision points and pro-active risk manage=
+ment. Technical activities are enabled by tools like DFMEA and Dfx. Last bu=
+t not least, activities during product testing and post market introduction=
+ like field monitoring help address teething problems, including customer p=
+erception management.</p>
+<p style=3D"text-align: justify;" class=3D"style19" align=3D"justify"><span=
+ style=3D"color: #0000ff;" class=3D"style29">Keeping this in view, <strong>=
+T&Uuml;V Rheinland Academy and Life Care </strong> is organising a <strong>=
+2 days training program on New Product Development Process on 25th & 26th F=
+eb&#39;16 at Delhi/NCR.</strong></span></p>
+<p style=3D"text-align: justify;" class=3D"style19"><span class=3D"style30"=
+><strong>Benefits</strong>: <br /> Aligning the NPD process to fit into the=
+ larger context of the organizational strategy and business needs is a key =
+take away.&nbsp; Seamlessly anticipating and addressing execution issues wi=
+th the involved stakeholders, in line with the product road-map is another =
+learning. Key points to ensure harnessing the support from Senior Executive=
+ Team and effectively liaisoning with the functional teams would be discuss=
+ed.</span></p>
+<p class=3D"style19"><span style=3D"color: #800000;"><em><strong>Key focus =
+areas of the workshop:</strong></em></span></p>
+<ul class=3D"style19">
+<li><span style=3D"color: #800000;"><em>Strategic Perspective and cross fun=
+ctional interfaces for NPD</em></span></li>
+<li><span style=3D"color: #800000;"><em>Portfolio Management of NPD project=
+s</em></span></li>
+<li><span style=3D"color: #800000;"><em>Measures of NPD success</em></span>=
+</li>
+<li><span style=3D"color: #800000;"><em>Key Phases in Product Realization</=
+em></span></li>
+<li><span style=3D"color: #800000;"><em>Proactive Risk Management (Project =
+and Product)</em></span></li>
+<li><span style=3D"color: #800000;"><em>Overview of Key Tools that enable N=
+PD</em></span>
+<blockquote>
+<p><span style=3D"color: #800000;"><em>- Market Research </em></span><br />=
+<span style=3D"color: #800000;"><em> - VOC/VPH</em></span><br /><span style=
+=3D"color: #800000;"><em> - DfX </em></span><br /><span style=3D"color: #80=
+0000;"><em> - DFMEA</em></span><br /><span style=3D"color: #800000;"><em> -=
+ Product Launch Evaluation & Field Monitoring</em></span></p>
+</blockquote>
+</li>
+</ul>
+<p class=3D"style19"><strong>Methodology of the training programme</strong>=
+:</p>
+<ul class=3D"style19">
+<li>Case studies</li>
+<li>Examples</li>
+<li>Scenarios</li>
+<li>And other accelerated learning activities are included to ensure a &ldq=
+uo;hands on&rdquo; training session</li>
+</ul>
+<p style=3D"text-align: justify;" class=3D"style19" align=3D"justify"><stro=
+ng>Recommended Participants for effectiveness:</strong> <br /> Business Lea=
+ders, Business Managers, Program Managers, Product Managers, Project Manage=
+rs, Marketing Managers, Quality and R&D professionals who desire to enable =
+their organizational journey towards successful NPD and robust product real=
+ization practices in order to ensure a competitive edge enabling their busi=
+ness growth.</p>
+<p style=3D"text-align: justify;" class=3D"style19" align=3D"justify"><stro=
+ng>Faculty: </strong>Highly experienced faculty from <strong>TUV Rheinland =
+Academy and Life Care </strong>will conduct this training. it will provide =
+participants an opportunity to discuss specific problems with the expert fa=
+culty.</p>
+<p style=3D"text-align: justify;"><span class=3D"style19"><span class=3D"st=
+yle31"><strong>Registration Fee:</strong> Rs.10,000/- per participant (14% =
+of service tax extra) which includes Cost of certificate, Course material, =
+Lunch & Coffee/Tea etc. </span></span></p>
+<p style=3D"text-align: justify;" class=3D"style32"><strong>Early bird offe=
+r:</strong> 10% discount on delegate fee, if registered with payment on or =
+before 17th Feb 2016.</p>
+<p style=3D"text-align: justify;" class=3D"style32"><strong><span style=3D"=
+text-decoration: underline;">Group Discount</span>: 10% discount on 3 or mo=
+re people from single organization</strong>.</p>
+<p class=3D"style33">This is a non-residential course and delegates are req=
+uested to make their own arrangements for accommodation.</p>
+<p class=3D"style19" align=3D"justify"><strong>This includes comprehensive =
+course material, lunch & Coffee/Tea. Registrations will be accepted on &#39=
+;First come First Served&#39; basis. Companies interested in participation =
+are requested to return the attached &#39;Registration form&#39;, along wit=
+h a Demand Draft/at par payable Cheque, in favour of &ldquo;TUV Rheinland&n=
+bsp;&nbsp;&nbsp; (India ) Pvt. Ltd&rdquo;, payable at Bangalore to the addr=
+ess as mentioned in the reply form. Delegate fee is non-refundable. However=
+, change of nominations accepted. </strong></p>
+<p class=3D"style26" align=3D"center"><strong><em>A certificate of particip=
+ation will be issued to participants by TUV Rheinland ( India ) Pvt. Ltd.</=
+em></strong></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p class=3D"style28"><span style=3D"text-decoration: underline; font-family=
+: arial,helvetica,sans-serif; font-size: small; color: #800000;">To avail E=
+arly Bird / Group Discount and Registration / more details, please contact:=
+</span></p>
+<div align=3D"center">
+<table style=3D"width: 720px;" border=3D"1">
+<tbody>
+<tr><th class=3D"style27" scope=3D"col" width=3D"352">
+<p><span style=3D"font-family: arial,helvetica,sans-serif; font-size: small=
+; color: #800000;">Amit Kaushal</span><br /><span style=3D"font-family: ari=
+al,helvetica,sans-serif; font-size: small; color: #800000;"> Direct No: 91 =
+124 4422154</span><br /><span style=3D"font-family: arial,helvetica,sans-se=
+rif; font-size: small; color: #800000;"> Mobile no. +91 9811983831, +91 999=
+9860726 </span><br /><span style=3D"font-family: arial,helvetica,sans-serif=
+; font-size: small; color: #800000;"> Email: <a href=3D"mailto:amit.kaushal=
+@ind.tuv.com"  target=3D"_blank"><span style=3D"color: #800000;">amit.kaush=
+al@ind.tuv.com</span></a></span></p>
+</th><th class=3D"style27" scope=3D"col" width=3D"352">
+<p><span style=3D"font-family: arial,helvetica,sans-serif; font-size: small=
+; color: #800000;">Amit Khanna</span><br /><span style=3D"font-family: aria=
+l,helvetica,sans-serif; font-size: small; color: #800000;"> Direct No: 91 0=
+120 491 9214</span><br /><span style=3D"font-family: arial,helvetica,sans-s=
+erif; font-size: small; color: #800000;"> Mobile no: +91 9711016000, +91 99=
+99062444</span><br /><span style=3D"font-family: arial,helvetica,sans-serif=
+; font-size: small; color: #800000;"> E-mail ID: <a href=3D"mailto:amit.kha=
+nna@ind.tuv.com" ><span style=3D"color: #800000;">amit.khanna@ind.tuv.com</=
+span></a></span></p>
+</th></tr>
+</tbody>
+</table>
+<span style=3D"font-family: arial,helvetica,sans-serif; font-size: small; c=
+olor: #800000;" class=3D"style27"><strong>T&Uuml;V Rheinland (India) Pvt. L=
+td., </strong><br /> Plot&nbsp;# 328, Phase 4, Udyog Vihar, Gurgaon - 12201=
+5, Haryana, India. <br /> Internet: <a href=3D"http://t=C3=9Cvrheinlandindi=
+apvtltd.tcmailer11.in/tr/r/2/330245/58774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3=
+D/3/W10%3D" ><span style=3D"color: #800000;">http://www.ind.tuv.com</span><=
+/a></span></div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-bottom: 1px dashed #010101;" bgcolor=3D"#003399">&nbsp;=
+</td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; color: #0000ff; fon=
+t-size: 14px; line-height: 20px;" align=3D"left">
+<p style=3D"text-align: justify;" align=3D"justify"><span class=3D"style19"=
+><em>About us:&nbsp;T&Uuml;V Rheinland (India) is a member of T&Uuml;V Rhei=
+nland Group. The T&Uuml;V Rheinland Group is a leading provider of technica=
+l services worldwide. Established in 1872 with headquarters in Cologne, the=
+ Group employs more than 18,000 people in 500 locations in 65 countries. T&=
+Uuml;V Rheinland India, a subsidiary of T&Uuml;V Rheinland Group, Germany, =
+commenced its operations in India in the year 1996 with local headquarters =
+at Bangalore. We have a nationwide presence with 32 locations spread over 3=
+0 cities in India, employing over 600 highly skilled professionals. T&Uuml;=
+V Rheinland (Academy & Life Care) Division which is one of our six business=
+ fields was started with the goal to impart hands on training on the basis =
+of &ldquo;Teach Fishing rather than giving a Fish&rdquo;</em><em>.<br /> <e=
+m>The Academy & Life Care division offers services and support to industry =
+and educational institutions in professional, vocational & industry - relev=
+ant training. Our training courses are specially designed to suit the clien=
+t&rsquo;s needs and customized for bridging the knowledge gap. We are deepl=
+y committed to introduce various concepts in educational sectors and indust=
+ry in order to promote the Quality practices, enhance efficiency and improv=
+e productivity. We have been associated with more than 85 educational insti=
+tutions and 350 companies across India for providing services on Technical,=
+ Nontechnical and Management Oriented training and undertaking strategic co=
+nsultancy and turn key projects.</em></em></span></p>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#003399">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 670px;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; color: #010101; fon=
+t-size: 12px;" align=3D"right" height=3D"35" width=3D"670">To unsubscribe <=
+a href=3D http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/u/2/330245/5=
+8774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D><span style=3D"color: #4d4d4d; text=
+-decoration: underline;">click here</a></span></td>
+</tr>
+</tbody>
+</table>
+<img src=3D'http://t=C3=9Cvrheinlandindiapvtltd.tcmailer11.in/tr/w/2/330245=
+/58774/ZGluZXNoX2R1YUBtc2xpbmRpYS5uZXQ%3D/oct.gif' width=3D'1' height=3D'1'=
+ /></body>
+</html>
+

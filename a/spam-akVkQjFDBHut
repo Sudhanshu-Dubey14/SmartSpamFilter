@@ -1,0 +1,227 @@
+Return-Path: <kolorprint06@gmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <marketing.support@himalayan-harley.in>,
+	<rajesh.sharma@himalayan-harley.in>
+X-Envelope-To-Blocked: <marketing.support@himalayan-harley.in>,
+	<rajesh.sharma@himalayan-harley.in>
+X-Quarantine-ID: <akVkQjFDBHut>
+X-Spam-Flag: YES
+X-Spam-Score: 6.661
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.661 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_12_24=0.804, DEAR_SOMETHING=1.731,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.1, FREEMAIL_FROM=0.001,
+	FREEMAIL_REPLY=2.499, HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, SUBJ_ALL_CAPS=1.625]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id akVkQjFDBHut; Sat,  6 Oct 2018 13:38:46 +0530 (IST)
+Received: from mail-vs1-f66.google.com (mail-vs1-f66.google.com [209.85.217.66])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 82932EE7521
+	for <marketing.support@himalayan-harley.in>; Sat,  6 Oct 2018 13:38:43 +0530 (IST)
+Received: by mail-vs1-f66.google.com with SMTP id i10so8779183vsm.13
+        for <marketing.support@himalayan-harley.in>; Sat, 06 Oct 2018 01:08:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=xJV+V47cFSEpbHF2QVeguyaFYDR1vrynJpIp1EXV+3M=;
+        b=TBX0+ZmfNArf8Pcbbp532TIB9k8YqPjMRpIlfeOcnbSciuRCkzSIy4/kslGmgQdnaI
+         5TOoewJmlp9wH9m0Dbt9m7FN4trB32S/GawvUnFoStH5vi8w9NK2Z2r1za7GyR3fxSyt
+         MB1Go78SYrLoVEBUi4qvNfGpPumEUgUNMIzEMC+nNFFsLVBYmKqF2eYCoRIF96os3Xhf
+         RpCci3S+6+4x282Lbfn1+JndXmlh5GiqOJKby+TTWGRZwmnWBRtV5x02OzMpm14pzAcL
+         eUBY7vBpMwWZYFez0Wqj0iwpuDHQWRzs9kbuwBaoUU4ZsS1Sw3y60shhLmPS294Zp7fY
+         TN1g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=xJV+V47cFSEpbHF2QVeguyaFYDR1vrynJpIp1EXV+3M=;
+        b=PQWbwB8oMd9YhJQNCT+SM/KgCuiHjaOW/DbiHt5q4GjiEIhvtq2Qf6hmPObqIt3Htb
+         BMCqIxeVu2m3RNd5gYfJnXsj4mNZPCuO6RM49EPRO2/6WpZs/CaJxvsUmtxZieK7SU70
+         ZCfjak7c+A3obEn7gg/48imJlID7zV+RBh2vBxMyOahKuQxXmusMemfEPutnZOagwsHG
+         WzV+XugjhDwDYVivJorMgpeZjDMCFtqCUpif8umOm/6o4kbgb8ToyvZpPGv9iOhr8bfQ
+         Qa3E2Ez/LhU4w0Ea5paTl6WdWoFkpQmUPKedJ/p8iYIpPmzomKleNnXf1JviDnbYI4vO
+         6h/g==
+X-Gm-Message-State: ABuFfoizvrf4ZE0aimtC7xT+/3T5220B0Teb5z8cZPlpstdqqpPS5UEN
+	UVRVadryeKpf1UXkTOY6WsbjJOv42XxMcy4ZQzzpDg==
+X-Google-Smtp-Source: ACcGV61CtJeAKl5i5uoWlJhEFXICPFDRLg79yQasOdLksljw+RGmH2LPk8gB+c8IaWmPTHBS4F+7o6DbmMQxEz42Yz4=
+X-Received: by 2002:a67:dc15:: with SMTP id x21mr3879814vsj.111.1538738473868;
+ Fri, 05 Oct 2018 04:21:13 -0700 (PDT)
+MIME-Version: 1.0
+From: KEWAL KRISHAN <kolorprint06@gmail.com>
+Date: Fri, 5 Oct 2018 16:50:55 +0530
+Message-ID: <CAH+equ+kQH=A0hkrgfQjjEEayQchy9O3yJuV2owWdkipretFnw@mail.gmail.com>
+Subject: QUOTATION FOR PRINTING OF CD & RIDER BROCHURE
+To: mahesh rana <ranamahesh0007@gmail.com>, 
+	Rajesh Sharma <rajesh.sharma@himalayan-harley.in>, rajesh sharma <emailrajeshat@gmail.com>, 
+	Rajesh <marketing.support@himalayan-harley.in>
+Content-Type: multipart/alternative; boundary="0000000000002320ed0577797821"
+
+--0000000000002320ed0577797821
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+DEAR SIR
+
+RIDER BOOKLET 60.00 EACH
+CD COVER WITH DVD AND DVD WRITING AND
+CD STICKER @ 55.00
+
+BALBIR S PANWAR
+
+
+--=20
+Thanking you
+.................................................................
+*LABELS UNLIMITED*
+
+*Plot no. 83 , Industrial Business Park , Phase -2 , Chandigarh - 160002*
+
+*E-mail : *kolorprint06@gmail.com
+
+*Hand Phone : *  98144 12133  l  81980 12133  l  98722 27722   l   87289
+12133
+
+*Desk Phone :* 0172-4603811
+
+
+*1st Digital Printing Machine KONICA MINOLTA C6085*
+*in TRYCITY*
+*With various Advance Features*
+*Big Paper Banner upto 50=E2=80=9D*
+*13=E2=80=9D x 30=E2=80=9D Auto Duplex Printing*
+*Paper 52 gsm to 400 gsm*
+*Digital Photo Printing*
+
+
+ *NOTE:    *Company is Not Responsible for  any Editorial or written
+mistake after
+final approval
+
+                                ***************************************
+
+                                ********* So kindly check thoroughly
+**********
+
+--0000000000002320ed0577797821
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:verdana,=
+sans-serif;font-size:large">DEAR SIR</div><div class=3D"gmail_default" styl=
+e=3D"font-family:verdana,sans-serif;font-size:large"><br></div><div class=
+=3D"gmail_default" style=3D"font-family:verdana,sans-serif;font-size:large"=
+>RIDER BOOKLET 60.00 EACH</div><div class=3D"gmail_default" style=3D"font-f=
+amily:verdana,sans-serif;font-size:large">CD COVER WITH DVD AND DVD WRITING=
+ AND</div><div class=3D"gmail_default" style=3D"font-family:verdana,sans-se=
+rif;font-size:large">CD STICKER=C2=A0@ 55.00</div><div class=3D"gmail_defau=
+lt" style=3D"font-family:verdana,sans-serif;font-size:large"><br></div><div=
+ class=3D"gmail_default" style=3D"font-family:verdana,sans-serif;font-size:=
+large">BALBIR S PANWAR</div><div class=3D"gmail_default" style=3D"font-fami=
+ly:verdana,sans-serif;font-size:large"><br></div><div><br></div>-- <br><div=
+ dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><=
+div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div style=3D"font-siz=
+e:12.8px"></div><div style=3D"font-size:12.8px"></div><div><div><span style=
+=3D"font-family:georgia,serif;font-size:16px">Thanking you</span></div><div=
+><span style=3D"font-family:georgia,serif;font-size:16px">.................=
+................................................</span></div><div><b><font =
+size=3D"4" color=3D"#ff0000">L</font><font size=3D"4" color=3D"#0000ff">ABE=
+LS</font><font size=3D"4" color=3D"#ff0000"> U</font><font size=3D"4" color=
+=3D"#0000ff">NLIMITED</font></b></div></div><div>
+
+<p style=3D"font-size:12.8px;margin-bottom:0.0001pt;background-image:initia=
+l;background-position:initial;background-repeat:initial"><b><span style=3D"=
+font-family:Tahoma,sans-serif">Plot no. 83 , Industrial Business Park , Pha=
+se -2 ,</span><span style=3D"font-family:Tahoma,sans-serif"> Chandigarh - 1=
+60002</span></b></p>
+
+<p style=3D"font-size:12.8px;margin-bottom:0.0001pt;background-image:initia=
+l;background-position:initial;background-repeat:initial"><span style=3D"fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><b>E-mail :=C2=A0</b><a=
+ href=3D"mailto:kolorprint06@gmail.com" target=3D"_blank"><span style=3D"co=
+lor:windowtext">kolorprint06@gmail.com</span></a></span></p>
+
+<p style=3D"font-size:12.8px;margin-bottom:0.0001pt;background-image:initia=
+l;background-position:initial;background-repeat:initial"><span style=3D"fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><b>Hand Phone : </b>=C2=
+=A0 98144 12133 =C2=A0l =C2=A081980
+12133 =C2=A0l=C2=A0 98722
+27722=C2=A0=C2=A0</span><span style=3D"font-family:Tahoma,sans-serif;font-s=
+ize:12.8px">=C2=A0l=C2=A0</span><span style=3D"font-family:&quot;Tahoma&quo=
+t;,&quot;sans-serif&quot;">=C2=A0 87289 12133</span></p>
+
+<p style=3D"font-size:12.8px;margin-bottom:0.0001pt;background-image:initia=
+l;background-position:initial;background-repeat:initial"><span style=3D"fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><b>Desk Phone :</b>=C2=
+=A00172-4603811</span></p><p style=3D"font-size:12.8px;margin-bottom:0.0001=
+pt;background-image:initial;background-position:initial;background-repeat:i=
+nitial"><span style=3D"font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot=
+;"><br></span></p><div style=3D"font-size:12.8px"><b style=3D"font-size:12.=
+8px"><font size=3D"4" color=3D"#0000ff">1<sup>st</sup>=C2=A0Digital Printin=
+g Machine KONICA MINOLTA C6085</font></b><br></div><div style=3D"font-size:=
+12.8px"><b style=3D"font-size:12.8px"><font size=3D"4" color=3D"#0000ff">in=
+ TRYCITY</font></b></div><div style=3D"font-size:12.8px"><b style=3D"font-s=
+ize:12.8px">With various Advance Features</b></div><div style=3D"font-size:=
+12.8px"><b style=3D"font-size:12.8px">Big Paper Banner upto 50=E2=80=9D</b>=
+</div><div style=3D"font-size:12.8px"><b style=3D"font-size:12.8px">13=E2=
+=80=9D x 30=E2=80=9D Auto Duplex Printing</b></div><div style=3D"font-size:=
+12.8px"><b style=3D"font-size:12.8px">Paper 52 gsm to 400 gsm</b></div><div=
+ style=3D"font-size:12.8px"><b style=3D"font-size:12.8px">Digital Photo Pri=
+nting</b></div><p style=3D"font-size:12.8px;margin-bottom:0.0001pt;backgrou=
+nd-image:initial;background-position:initial;background-repeat:initial"><im=
+g src=3D"https://zoominfotech.org/labels-unlimited.jpg" width=3D"420" heigh=
+t=3D"243"><br></p><p style=3D"font-size:12.8px;margin-bottom:0.0001pt;backg=
+round-image:initial;background-position:initial;background-repeat:initial">=
+<font face=3D"Tahoma, sans-serif" style=3D"font-size:12.8px">=C2=A0<span st=
+yle=3D"background-color:rgb(255,0,0)"><b>NOTE: =C2=A0 =C2=A0</b></span>Comp=
+any is Not Responsible for=C2=A0</font><span style=3D"font-size:12.8px;colo=
+r:rgb(153,153,153)">=C2=A0any Editorial or=C2=A0written=C2=A0mistake</span>=
+<font face=3D"Tahoma, sans-serif" style=3D"font-size:12.8px">=C2=A0after fi=
+nal approval=C2=A0</font></p><p style=3D"font-size:12.8px;margin-bottom:0.0=
+001pt;background-image:initial;background-position:initial;background-repea=
+t:initial"><span style=3D"font-family:Tahoma,sans-serif;font-size:12.8px">=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span style=3D"font-family:Ta=
+homa,sans-serif;font-size:12.8px">*********</span><span style=3D"font-famil=
+y:Tahoma,sans-serif;font-size:12.8px">**********</span><span style=3D"font-=
+family:Tahoma,sans-serif;font-size:12.8px">**********</span><span style=3D"=
+font-family:Tahoma,sans-serif;font-size:12.8px">**********</span><span styl=
+e=3D"font-family:Tahoma,sans-serif;font-size:12.8px">=C2=A0</span></p><p st=
+yle=3D"font-size:12.8px;margin-bottom:0.0001pt;background-image:initial;bac=
+kground-position:initial;background-repeat:initial"><span style=3D"font-fam=
+ily:Tahoma,sans-serif;font-size:12.8px">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 ********* So kindly check=C2=A0thoroughly **********=C2=A0</span></p></=
+div></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div></div></div></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div><div dir=3D"ltr"><br></div></div></div=
+></div></div></div></div></div></div></div></div></div></div></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div></div></div></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div>
+
+--0000000000002320ed0577797821--

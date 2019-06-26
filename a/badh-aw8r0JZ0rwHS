@@ -1,0 +1,35 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <d_singh@jcblmail.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aw8r0JZ0rwHS>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aw8r0JZ0rwHS for <d_singh@jcblmail.com>;
+	Sun, 22 May 2016 12:20:15 +0530 (IST)
+Received: from 92.17.32.164 (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with SMTP id 896AAEDA457
+	for <d_singh@jcbl.com>; Sun, 22 May 2016 12:20:14 +0530 (IST)
+Received: from unknown (HELO localhost) (yaserco@muteremgaleria.hu@132.155.120.155)
+	by 92.17.33.2 with ESMTPA; Sun, 22 May 2016 08:04:11 -0000
+X-Originating-IP: 132.155.120.155
+From: yaserco@muteremgaleria.hu
+To: d_singh@jcbl.com
+Subject: This Stock is on High Alert
+
+News out this morning. Our Technical Report!
+
+Short Term Target Price: 0.35
+Name: Green Hygienics Holdings Inc
+Date: Monday May 23th
+At this time: .1
+Sym: GRYN
+
+This Company is back up on strong VOLUME! Nothing But Gains Over Here, 
+MUST READ, New play tomorrow!
+

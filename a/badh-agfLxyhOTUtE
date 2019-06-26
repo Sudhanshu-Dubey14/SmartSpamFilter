@@ -1,0 +1,387 @@
+Return-Path: <bo-b5qwmkzbf7mwmtaugmqp6byqz8ts83@b.alerts.hs18.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <suraj_kumar@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <agfLxyhOTUtE>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E0 hex):
+	Subject:
+	\303\240\302\244\302\256\303\240\302\244\302\271\303\240\302\244\302\202\303\240\302\244\302\227\303\240\302\244\302\276\303\240[...]
+X-Spam-Flag: NO
+X-Spam-Score: 1.91
+X-Spam-Level: *
+X-Spam-Status: No, score=1.91 tag=x tag2=x kill=x tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_02=0.805,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001,
+	SUBJECT_NEEDS_ENCODING=0.1, SUBJ_ILLEGAL_CHARS=1.105] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id agfLxyhOTUtE for <suraj_kumar@mslindia.net>;
+	Tue, 26 Mar 2019 21:45:05 +0530 (IST)
+Received: from mta963.chtah.net (mta963.chtah.net [8.30.201.21])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 440D0F27C62
+	for <suraj_kumar@mslindia.net>; Tue, 26 Mar 2019 21:45:02 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=alerts.hs18.in;
+	s=20170109144436; t=1553617029; x=1569514629;
+	bh=aUAC5sc8fMbqulT5u9sW+mz/8fElhrxX8hNMpSXg9Ns=; h=From:Reply-To;
+	b=C+z/1T5gpuCD8li+Icyex8UPgHadzWd7+ln92El/aFjOKikqJgvswiTVP9jzjRk95
+	 9eQcEjAV73Pal/Ud2bW3Tj9zw/w9G6dL2Wid3Xwn/sCa8IcwEzQ+NzSrO/sEnKBFON
+	 WbsOpj3NPaVZpnlUh7rBiFw8HIeqhm4XL8UhwISHnZDPi0YtbDqsJXN1mvKEaVgotH
+	 oMySWBqeKh8yXff0ZVN3pzqshLsB7gjsPy2UjMyUr0qKlGJzkg0r6Xyr5SK/3SqUVH
+	 pgPsrZWiBQyyZYmTZIU3T3Va0IO5M+sR2zLq8NB86G3IrAIadXpc5sZo/ZPckvqZtD
+	 H5yO9Uk1ISTBA==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=alerts.hs18.in;
+  b=K5j4jmDKByJRXiTqrW6hl4uPR/D4Iu9E09YuL0mtF1IcSY8tpfBr2xmHy7hvMiogdy+pNX5d9juvMgCmvyYMiwQjvfdWnksCJBXkUriTFINSBokUp3cAPEUZ6zGV88s7MUiNrcLOXrs3GFDZFyIjBzbP8jUHFjFZWb1/GfORO8E=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:X-Mailer:X-mid:X-aid:Content-Type;
+Date: Tue, 26 Mar 2019 16:17:09 -0000
+Message-ID: <b5qwmkzbf7mwmtaugmqp6byqz8ts83.3106609.130@mta963.alerts.hs18.in>
+List-Unsubscribe: <mailto:rm-0b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in>
+From: "HomeShop18" <info@alerts.hs18.in>
+To: suraj_kumar@mslindia.net
+Subject: महंगाई से आज़ादी - सिर्फ 27 & 28 मार्च को HomeShop18 पर!
+MIME-Version: 1.0
+Reply-To: "no-reply@alerts.hs18.in" <support-b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in>
+X-Mailer: CheetahMailer
+X-mid: 2110228126
+X-aid: 2101995086
+Content-Type: multipart/alternative; boundary="=b5qwmkzbf7mwmtaugmqp6byqz8ts83"
+
+
+--=b5qwmkzbf7mwmtaugmqp6byqz8ts83
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Best deals for you!
+
+View in browser : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link1?t_sparams=E07SQFr8mkucMD0gHbHWRRr-la-0d1XAUXtKFmNeiumPownN1xCOa6tmDfVrZyBvq2eC5FSfoBcRlNk9puK4j1ZE9PGdB0cljYzfIOiqokGWZWaGvpVP  |Unsubscribe : mailto:rm-2b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list. 
+
+HomeShop18.com http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link8 
+
+http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link13 
+
+Digital : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link7 
+
+ Clothing : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link4 
+
+ Footwear : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link5 
+
+ Jewellery : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link2 
+
+ Health & Beauty : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link3 
+
+ Home & Kitchen : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link6 
+
+ Live TV : http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link14 
+
+http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link9 
+
+http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link9 
+
+Connect with us
+
+Facebook http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link12 
+
+Instagram http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link15 
+
+Twitter http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link11 
+
+YouTube http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link16 
+
+Download our App
+
+Android App http://alerts.hs18.in/a/tBcmj$hB9SeZOB9x4aeAAL2cxHF/link10 
+
+Track your order on SMS
+
+Free Shipping*
+
+24X7 Customer Supoort
+
+Cash on Delivery
+
+You are receiving this exclusive email from Homeshop18 as you are a subscriber. Should you wish to unsubscribe, please click here : mailto:rm-2b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list. 
+
+--=b5qwmkzbf7mwmtaugmqp6byqz8ts83
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Best deals for you!</title>
+</head>
+
+<body><img src=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/space=
+r.gif" width=3D"1" height=3D"1" style=3D"display:none !important; max-heigh=
+t:1px !important; max-width:1px !important; border:0 !important; background=
+-color:transparent !important; padding:0 !important; outline:0 !important; =
+min-height:1px !important; min-width:1px !important; height:1px !important;=
+ width:1px !important;" alt=3D"">
+
+<table align=3D"center" width=3D"600" cellspacing=3D"0" cellpadding=3D"0">
+  <tbody>
+    <tr>
+      <td width=3D"300" align=3D"left" style=3D"font:normal 12px Arial, Rob=
+oto, sans-serif; color:#999999; text-align:left;">&nbsp;  </td>
+      <td width=3D"300" align=3D"right" style=3D"font:normal 12px Arial, Ro=
+boto, sans-serif; color:#999999; text-align:right;"><a href=3D"http://alert=
+s.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link1?t_sparams=3DE07SQFr8mkucMD0gH=
+bHWRRr-la-0d1XAUXtKFmNeiumPownN1xCOa6tmDfVrZyBvq2eC5FSfoBcRlNk9puK4j1ZE9PGd=
+B0cljYzfIOiqokGWZWaGvpVP">View in browser</a> &nbsp;|&nbsp;<a href=3D"mailt=
+o:rm-2b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in?subject=3DUnsubscribe&a=
+mp;body=3DYou%20will%20be%20unsubscribed%20from%20mailing%20list.">Unsubscr=
+ibe</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" style=3D"font-family:'Lucida Sans Unicode', sans-serif;">
+  	<tr>
+    	<td>
+			<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"padding-bottom:6px;">
+			  	<tr>
+					<td width=3D"400" align=3D"left" style=3D"padding:2px;"><a href=3D"htt=
+p://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link8" target=3D"_blank"><=
+img src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03_2019a_HS18.jpg" al=
+t=3D"HomeShop18.com" title=3D"HomeShop18.com" style=3D"border:0; display:bl=
+ock;" /></a></td>
+					<td width=3D"200" align=3D"right" style=3D"padding:10px 0 0 0;"><a hre=
+f=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link13"><img src=
+=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03_2019a_lp-mailer-header.jp=
+g" width=3D"265" height=3D"70" alt=3D""/></a></td>
+			  	</tr>
+			</table>		</td>
+  	</tr>
+=09
+  	<tr>
+    	<td>
+			<table bgcolor=3D"#eeeeee" width=3D"600" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:'Lucida Sans Unicode', sans-serif; f=
+ont-size:13px; color:#000000;">
+			  	<tr>
+					<td width=3D"55" align=3D"center" valign=3D"middle" style=3D"padding:3=
+px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link7=
+" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Digital<=
+/a></td>
+=09=09=09=09=09
+					<td width=3D"55" align=3D"center" valign=3D"middle" style=3D"padding:3=
+px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link4=
+" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Clothing=
+</a></td>
+=09=09=09=09=09
+					<td width=3D"65" align=3D"center" valign=3D"middle" style=3D"padding:3=
+px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link5=
+" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Footwear=
+</a></td>
+=09=09=09=09=09
+					<td width=3D"60" align=3D"center" valign=3D"middle" style=3D"padding:3=
+px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link2=
+" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Jeweller=
+y</a></td>
+=09=09=09=09=09
+					<td width=3D"95" align=3D"center" valign=3D"middle" style=3D"padding:3=
+px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link3=
+" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Health &=
+#38; Beauty</a></td>
+=09=09=09=09=09
+					<td width=3D"100" align=3D"center" valign=3D"middle" style=3D"padding:=
+3px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link=
+6" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">Home &#=
+38; Kitchen</a></td>
+=09=09=09=09=09
+					<td bgcolor=3D"#fd0f1c" width=3D"60" align=3D"center" valign=3D"middle=
+" style=3D"padding:3px 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZO=
+B9x4aeAAL2cxHF/link14" target=3D"_blank" style=3D"text-decoration:none; col=
+or:#FFF;"><strong>Live TV</strong></a></td>
+			  	</tr>
+			</table>		</td>
+  	</tr>
+=09
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_01.jpg" alt=3D"" width=3D"600" height=3D"264" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_02.jpg" alt=3D"" width=3D"600" height=3D"276" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_03.jpg" alt=3D"" width=3D"600" height=3D"240" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_04.jpg" alt=3D"" width=3D"600" height=3D"351" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/=
+link9"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a_supe=
+r-savings-sale_05.jpg" alt=3D"" width=3D"600" height=3D"101" border=3D"0" s=
+tyle=3D"border:0; display:block;" title=3D"" /></a></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/=
+link9"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a_supe=
+r-savings-sale_06.jpg" alt=3D"" width=3D"600" height=3D"610" border=3D"0" s=
+tyle=3D"border:0; display:block;" title=3D"" /></a></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_07.jpg" alt=3D"" width=3D"600" height=3D"129" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_08.jpg" alt=3D"" width=3D"600" height=3D"244" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_09.jpg" alt=3D"" width=3D"600" height=3D"371" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20
+	<tr>
+    	<td align=3D"center" valign=3D"middle" width=3D"600" style=3D"padding:=
+0px 0 0 0;"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/26_03_2019a=
+_super-savings-sale_10.jpg" alt=3D"" width=3D"600" height=3D"359" border=3D=
+"0" style=3D"border:0; display:block;" title=3D"" /></td>
+  	</tr>=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=09
+
+	<tr>
+    	<td>
+			<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#f7f6f6">
+			  	<tr>
+					<td>
+						<table width=3D"290" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"left" bgcolor=3D"#f7f6f6" style=3D"margin:5px 0 0 0;">
+                  			<tr>
+                        		<td colspan=3D"6" width=3D"125" height=3D"30" val=
+ign=3D"middle" align=3D"center" style=3D"font-family:'Lucida Sans Unicode',=
+ sans-serif; font-size:15px; color:#444444; padding:5px 5px 10px 5px; font-=
+weight:normal;">Connect with us</td>
+								<td width=3D"30" valign=3D"middle" align=3D"center"><a href=3D"http=
+://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link12" target=3D"_blank"><=
+img src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03_2019a_facebook.png=
+" alt=3D"Facebook" title=3D"Facebook" style=3D"border:0; display:block;" />=
+</a></td>
+                         		<td width=3D"30" valign=3D"middle" align=3D"cent=
+er"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link15" =
+target=3D"_blank"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03=
+_2019a_instagram.png" alt=3D"Instagram" title=3D"Instagram" style=3D"border=
+:0; display:block;" /></a></td>
+                           		<td width=3D"30" valign=3D"middle" align=3D"ce=
+nter"><a href=3D"http://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link11=
+" target=3D"_blank"><img src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_=
+03_2019a_twitter.png" alt=3D"Twitter" title=3D"Twitter" style=3D"border:0; =
+display:block;" /></a></td>
+								<td width=3D"60" valign=3D"middle" align=3D"left"><a href=3D"http:/=
+/alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link16" target=3D"_blank"><im=
+g src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03_2019a_youtube.png" a=
+lt=3D"YouTube" title=3D"YouTube" style=3D"border:0; display:block;" /></a><=
+/td>
+                      		</tr>
+          				</table>					</td>
+=09=09=09=09=09
+=09=09=09=09=09
+					<td>
+						<table width=3D"290" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"left" bgcolor=3D"#f7f6f6" style=3D"margin:5px 0 0 0;">
+                  			<tr>
+                        		<td colspan=3D"6" height=3D"30" valign=3D"middle"=
+ style=3D"font-family:'Lucida Sans Unicode', sans-serif; font-size:15px; co=
+lor:#444444; padding:5px 0 5px 90px; font-weight:normal;">&nbsp;&nbsp;Downl=
+oad our App</td>
+								<td width=3D"49" valign=3D"middle" align=3D"center"><a href=3D"http=
+://alerts.hs18.in/a/hBcmj$hB9SeZOB9x4aeAAL2cxHF/link10" target=3D"_blank"><=
+img src=3D"http://f.alerts.hs18.in/i/34/2101995086/22_03_2019a_andoid_icon.=
+png" alt=3D"Android App" title=3D"Android App" style=3D"border:0; display:b=
+lock;" /></a></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                      		</tr>
+          				</table>					</td>
+			  	</tr>
+			</table>		</td>
+  	</tr>
+=09=09
+=09
+	<tr>
+    	<td bgcolor=3D"#f7f6f6" style=3D"padding:10px 0;">
+			<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"font-family:'Lucida Sans Unicode', sans-serif;">
+			  	<tr>
+					<td width=3D"35" align=3D"center" valign=3D"middle"><img src=3D"http:/=
+/f.alerts.hs18.in/i/34/2101995086/22_03_2019a_smsicon.png" style=3D"border:=
+0; display:block;" /></td>
+					<td width=3D"135" align=3D"left" valign=3D"middle" style=3D"font-size:=
+11px; color:#555555;">Track your order on SMS</td>
+=09=09=09=09=09
+					<td width=3D"40" align=3D"center" valign=3D"middle"><img src=3D"http:/=
+/f.alerts.hs18.in/i/34/2101995086/22_03_2019a_freeshippingicon.png" style=
+=3D"border:0; display:block;" /></td>
+					<td width=3D"90" align=3D"left" valign=3D"middle" style=3D"font-size:1=
+1px; color:#555555;">Free Shipping*</td>
+=09=09=09=09=09
+					<td width=3D"35" align=3D"center" valign=3D"middle"><img src=3D"http:/=
+/f.alerts.hs18.in/i/34/2101995086/22_03_2019a_customersupporticon.png" styl=
+e=3D"border:0; display:block;" /></td>
+					<td width=3D"135" align=3D"left" valign=3D"middle" style=3D"font-size:=
+11px; color:#555555;">24X7 Customer Supoort</td>
+=09=09=09=09=09
+					<td width=3D"38" align=3D"center" valign=3D"middle"><img src=3D"http:/=
+/f.alerts.hs18.in/i/34/2101995086/22_03_2019a_codicon.png" style=3D"border:=
+0; display:block;" /></td>
+					<td width=3D"92" align=3D"left" valign=3D"middle" style=3D"font-size:1=
+1px; color:#555555;">Cash on Delivery</td>
+			  	</tr>
+			</table>		</td>
+  	</tr>
+=09
+	<tr>
+		<td align=3D"center" bgcolor=3D"#ffffff" style=3D"font-family:'Lucida San=
+s Unicode', sans-serif; font-size:13px; color:#888888; padding:5px 0;" widt=
+h=3D"600">You are receiving this exclusive email from Homeshop18 as you are=
+ a subscriber. Should you wish to unsubscribe, please <a href=3D"mailto:rm-=
+2b5qwmkzbf7mwmtaugmqp6byqz8ts83@alerts.hs18.in?subject=3DUnsubscribe&amp;bo=
+dy=3DYou%20will%20be%20unsubscribed%20from%20mailing%20list.">click here</a=
+></td>
+	</tr>
+</table>
+
+</body>
+</html>=
+
+
+--=b5qwmkzbf7mwmtaugmqp6byqz8ts83--
+

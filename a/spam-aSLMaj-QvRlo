@@ -1,0 +1,292 @@
+Return-Path: <info@noosacouncil.org>
+Delivered-To: spam-quarantine
+X-Envelope-To: <rg_arora@jcblgroup.com>
+X-Envelope-To-Blocked: <rg_arora@jcblgroup.com>
+X-Quarantine-ID: <aSLMaj-QvRlo>
+X-Spam-Flag: YES
+X-Spam-Score: 8.168
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.168 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, DEAR_SOMETHING=1.731,
+	DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, NML_ADSP_CUSTOM_MED=1.2,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, T_TO_NO_BRKTS_FREEMAIL=0.01, URIBL_DBL_SPAM=1.7]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aSLMaj-QvRlo for <rg_arora@jcblgroup.com>;
+	Tue, 30 Apr 2019 01:14:23 +0530 (IST)
+Received: from noosacouncil.org (nebero.nebtree [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 97D12EFAA0E
+	for <rg_arora@jcbl.com>; Tue, 30 Apr 2019 01:14:22 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=noosacouncil.org; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=MhnUsJBcHzSmMTBmihYA5XA99znrjb+blqK76SIB1qA=; b=SZRtfiEhHcUl6XjAffkWgQcAIL
+	UqIpeZds/2DUbfWIdGRfiSPqDKPeSGcMIH4HX04900pB4ecvjR7kTgxKQ8Zkj3KLqs6nJ0oYT4ORs
+	XmDj/XcYRhmGiWbcplFPup3Yxkf4oC7vbMVvdn8AdSvDw35XMetlmwXvZrnK6IaXNOOjTlFZAIKf2
+	1yJzXD87uetwpKFE7YYKmNm6nMNHej8op6d21iN4jKtt48TN3NylGLl/JuqgCOSrTpVcvUA+p8a/C
+	b5VLXIwgDLG6q04D3xJ0cgGKt9jxzhaVBBpOPf5QKIMk4wIhDigrg6/rbUaBtij+tg2Z/SjXAEp96
+	XrQ773Zw==;
+Received: from noosacouncil by host.infomix.org with local (Exim 4.91)
+	(envelope-from <info@noosacouncil.org>)
+	id 1hL1RZ-0007pN-S9
+	for rg_arora@jcbl.com; Mon, 29 Apr 2019 12:15:22 +0400
+To: rg_arora@jcbl.com
+Subject: Proposal for Email Marketing Services
+X-PHP-Originating-Script: 501:email.php
+Message-ID: <b50771bdb2367a6f8b1c1d9e00b93c48@noosacouncil.org>
+Date: Mon, 29 Apr 2019 08:08:06 +0000
+From: "Richa" <sales.asinfo@gmail.com>
+Reply-To: sales.asinfo@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 9,7,10,4
+List-Unsubscribe: <http://noosacouncil.org/unsubscribe.php?M=45402&C=7370375ff91361bb147da862d43ed055&L=4&N=28>
+X-Mailer-RecptId: 45402
+X-Mailer-SID: 28
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_0b4dc684e015914236886299a87b9279"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.infomix.org
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 498] / [47 12]
+X-AntiAbuse: Sender Address Domain - noosacouncil.org
+X-Get-Message-Sender-Via: host.infomix.org: authenticated_id: noosacouncil/sender_address_domain
+X-Authenticated-Sender: host.infomix.org: info@noosacouncil.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--b1_0b4dc684e015914236886299a87b9279
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+Dear Sir.
+
+We are leading online marketing company in Gurgaon- India; we are working
+with Education Companies, Financial Consultants, Manufacturing Industry,
+Media Groups, Real Estates and Consultancy Company in India.
+
+
+We create an attractive Flyer/Emailer for your products and services; we
+assured for Good ROI and targeted Email Campaigns.
+
+We have huge collection of database, so we will choose your prospects and
+customers for email campaigns.
+
+
+Features of Email Marketing Services / Application:
+
+    It is a Email Marketing web application
+    Send from your email id, reply will come on your emails without using
+your domain details
+    No need of your Domain Name, No SMTP Server and No Your DNS Server
+    Data Management, Segments, remove duplicates, Bounce Emails Management
+    Build HTML Templates, Custom emails formats/ Text Format
+    Email Scheduler, you have to just start email campaigns and off the PC
+    Track report of open, bounce and send emails
+
+Plans
+
+1 Lac Email Marketing Panel/Application @3 Paisa Rs.3000/-
+	
+1 Lac Email Marketing Services on Targeted Database @7 Paisa	
+
+Rs.7000/-
+
+
+Terms and Conditions
+• Mails will directly send from our servers, No Need of DNS Server/IP
+• You have to manage your campaigns
+• Mailers Templates, Create Data list
+• Track Campaign reports
+• 100% Online Support and training
+
+For any Query call us on +91 98 6874 9731
+
+Regards
+Dev Vashistha
+09868749731
+www.asinfovision.com
+Click this link to unsubscribe:
+http://noosacouncil.org/unsubscribe.php?M=45402&C=7370375ff91361bb147da862d43ed055&L=4&N=28
+
+--b1_0b4dc684e015914236886299a87b9279
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: medium;"><b>Dear Sir.</b></span><br /> <br
+/><span style="font-size: medium;"> We are leading online marketing company
+in Gurgaon- India; we are working with Education Companies, Financial
+Consultants, Manufacturing Industry, Media Groups, Real Estates and
+Consultancy Company in India.</span></p>
+<p><span style="font-size: medium;"></span><br /><span style="font-size:
+medium;"> We create an attractive Flyer/Emailer for your products and
+services; we assured for Good ROI and targeted Email Campaigns.</span><br
+/> <br /><span style="font-size: medium;"> We have huge collection of
+database, so we will choose your prospects and customers for email
+campaigns.</span></p>
+<p><span style="font-size: medium;"></span><br /><span style="font-size:
+medium;"> <b>Features of Email Marketing Services /
+Application:</b></span></p>
+<ul>
+<li><span style="font-size: medium;">It is a Email Marketing web
+application</span></li>
+<li><span style="font-size: medium;">Send from your email id, reply will
+come on your emails without using your domain details</span></li>
+<li><span style="font-size: medium;">No need of your Domain Name, No SMTP
+Server and No Your DNS Server</span></li>
+<li><span style="font-size: medium;">Data Management, Segments, remove
+duplicates, Bounce Emails Management</span></li>
+<li><span style="font-size: medium;">Build HTML Templates, Custom emails
+formats/ Text Format</span></li>
+<li><span style="font-size: medium;">Email Scheduler, you have to just
+start email campaigns and off the PC</span></li>
+<li><span style="font-size: medium;">Track report of open, bounce and send
+emails</span></li>
+</ul>
+<h3><span style="font-size: medium;">Mailers Designed for Existing
+Customers:</span></h3>
+<ul>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=11&F=H"
+title="Simlayoungs Footbal Club-Delhi Email Campaigns" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/simlayoungs/mailer.html&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNEdnAi86ucO9EmePQhI_oFRH8dFiw">Simla
+Youngs Football Club- Delhi</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=17&F=H"
+title="BONSDAG INDUSTRIES PVT. LTD." target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/b-Cranes/mailer.html&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNEKbU2mcSANnU611I6WrvBw75-qrQ">BONSDAG
+INDUSTRIES PVT. LTD.</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=16&F=H" title="SBI
+Agents" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/bimaking/Mailer.php&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNETJxSwoG5KFm6gBCR7yIk9yJgO6A">Bimaking</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=14&F=H" title="3d
+Card Software SolidWorks Reseller in Gurgaon" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/msd/mailer.html&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNEayiY-vp0AI0iX34qpB9EgMF_1NA">MSD
+Facilitators</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=13&F=H"
+title="PIONEER INSTRUMENTATION Fridabad" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/pioneer/mailer.html&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNFT5BOiQ8qZfioiZ48aT4VJf9BSxA">PIONEER
+INSTRUMENTATION</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=9&F=H" title="intech
+Air Control Engineers &amp; Controls" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/vintech/Vintech.html&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNF1cUNvZa1ODGG96qrQPqARMoQX-g">Vintech
+Air Control Engineers &amp; Controls</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=15&F=H"
+title="Experion Plots" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/experion/ExperionPlots.php&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNHmFPvLNWoLoFew0aumHZVpPFA8-g">ExperionPlots</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=10&F=H"
+title="Supertech in Gurgaon" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/supertech/Supertech-Mailer.php&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNFKB2BNddAwPBxpA9pCr6t79kJR8Q">Supertech
+in Gurgaon</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=12&F=H" title="Sare
+Home" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/sare_club/Sare-Mailer.php&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNHi0iZ3Te-6mauskVTHLnElImwvBg">Sare
+Home</a></span></li>
+<li><span style="font-size: medium;"><a
+href="http://noosacouncil.org/link.php?M=45402&N=28&L=18&F=H"
+title="Galleria2" target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.AsInfovision.com/Mailer_Designing/Galleria2/Galleria-2_Mailer.php&amp;source=gmail&amp;ust=1556611134718000&amp;usg=AFQjCNGksLpLsR-53iwaGUz7VWiDVkUaRg">Galleria2</a></span></li>
+</ul>
+<table class="m_-7740364970361115505gmail-MsoNormalTable" style="width:
+378px;" cellspacing="1" cellpadding="0" border="1" align="left">
+<tbody>
+<tr>
+<td>
+<p><span style="font-size: medium;"><b>S.N.</b></span></p>
+</td>
+<td>
+<p><span style="font-size: medium;"><b>No. Of Emails</b></span></p>
+</td>
+<td><span style="font-size: medium;"><strong>Unit
+Price</strong></span></td>
+<td>
+<p><span style="font-size: medium;"><b>Charges</b></span></p>
+</td>
+<td>
+<p><span style="font-size: medium;"><b>Validity</b></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: medium;">1.</span></p>
+</td>
+<td>
+<p><span style="font-size: medium;">1 Lac Email Marketing
+Panel/Application<br /></span></p>
+</td>
+<td><span style="font-size: medium;">@3 Paisa</span></td>
+<td>
+<p><span style="font-size: medium;">Rs.5000/-</span></p>
+</td>
+<td>
+<p><span style="font-size: medium;">One Month</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: medium;">2.</span></p>
+</td>
+<td>
+<p><span style="font-size: medium;">1 Lac Email Marketing Services on
+Targeted Database<br /></span></p>
+</td>
+<td><span style="font-size: medium;">@7 Paisa</span></td>
+<td>
+<p><span style="font-size: medium;">Rs.7000/-</span></p>
+</td>
+<td>
+<p><span style="font-size: medium;"><span style="font-size: medium;">One
+Month</span><br /></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /> <br /> <br /> <br /> <br /> <br /><span style="font-size:
+medium;"> <b><br /></b></span></p>
+<p><span style="font-size: medium;"></span><br /> <br /><span
+style="font-size: medium;"> <b><br /></b></span></p>
+<p><span style="font-size: medium;"><b><br /></b></span></p>
+<p><span style="font-size: medium;"><b><br /></b></span></p>
+<p><span style="font-size: medium;"><b>Terms and Conditions</b></span><br
+/><span style="font-size: medium;"> &bull; Mails will directly send from
+our servers, No Need of DNS Server/IP</span><br /><span style="font-size:
+medium;"> &bull; You have to manage your campaigns</span><br /><span
+style="font-size: medium;"> &bull; Mailers Templates, Create Data
+list</span><br /><span style="font-size: medium;"> &bull; Track Campaign
+reports</span><br /><span style="font-size: medium;"> &bull; 100% Online
+Support and training</span><br /> <br /><span style="font-size: medium;">
+For any Query call us on +91 98 6874 9731</span><br /> <br /><span
+style="font-size: medium;"> Regards</span><br /><span style="font-size:
+medium;">Dev Vashistha<br /></span></p>
+<div><span style="font-size: medium;"> 09868749731</span></div>
+<div><span style="font-size: medium;">www.asinfovision.com<br
+/></span></div>
+<img src="http://noosacouncil.org/open.php?M=45402&L=4&N=28&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://noosacouncil.org/unsubscribe.php?M=45402&C=7370375ff91361bb147da862d43ed055&L=4&N=28">Click
+here to unsubscribe</a></body>
+</html>
+
+--b1_0b4dc684e015914236886299a87b9279--
+

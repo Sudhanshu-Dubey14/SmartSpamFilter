@@ -1,0 +1,105 @@
+Return-Path: <devnull@yahoo.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <insurance@himalayan-harley.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aUXewr6ihZix>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aUXewr6ihZix for <insurance@himalayan-harley.in>;
+	Wed, 22 Nov 2017 17:26:25 +0530 (IST)
+Received: from sonic328-18.consmr.mail.bf2.yahoo.com (sonic328-18.consmr.mail.bf2.yahoo.com [74.6.128.144])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 5BC1DFEA971
+	for <insurance@himalayan-harley.in>; Wed, 22 Nov 2017 17:26:22 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1511351803; bh=vyOVDkNaD6+hViSHmV07jOQTuSUxwFWfYjJao33D4AY=; h=From:To:Subject:From:Subject; b=BQ7gsEg9ZRM6mSgab6yOfmtzab/U06sGazGULPdwnNgpweK2cMMkTv4JCz7ibt8meMpB2cX52v6Q0DMHEfFASPLPJRaOWHOL1n6E5/yS9H9PROtP9fiE1EYXlRaNkLlIr6cLqLCVKnQf6plDELogiXmC8dWeOWZbW+o1zWPbZywSgr49Jy+dUgHkGg1Q1xgRkw5Py4LLvnAc6EPsNtdMOHSpiN5EXO4tpzYj/pEbLKewdlTCbZFkmVfMJysQykmTYHM2f7Tp9xMAqd8vCEOigJvMr9GJUje+MqjwYBruNyqu2+KEvgZJeeYD4atZMnlghaM0FHxJlAQVgoWy8z4wwA==
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic328.consmr.mail.bf2.yahoo.com with HTTP; Wed, 22 Nov 2017 11:56:43 +0000
+From: MAILER-DAEMON@yahoo.com
+To: insurance@himalayan-harley.in
+X-Loop: MAILER-DAEMON@yahoo.com
+Subject: Delivery failure
+
+Message from yahoo.com.
+Unable to deliver message to the following address(es).
+
+<prem.chawla@yahoo.com>:
+This user doesn't have a yahoo.com account (prem.chawla@yahoo.com) [-5]
+
+<sippy_dhindra@yahoo.com>:
+This user doesn't have a yahoo.com account (sippy_dhindra@yahoo.com) [0]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <insurance@himalayan-harley.in>
+Received-SPF: none (domain of himalayan-harley.in does not designate permitted sender hosts)
+X-YMailISG: t4U.3vkWLDv5ulZuZTD0vifhaMs1PEsrtUbVUcTiDOiNo6YJ
+ kF.ozHErwvPIgH8HTsYuTXxuLdQT82XOvq0GakyDbfwBelPSrCa28e70ys9k
+ ilwK9Mdb0jZH3urcJ5_VPuMdKfBx1gRWCZ8b8h1XvGCR5WC_1NMTXxJRK7xo
+ 1Fp3p1vxvguHdmijy4P_mfEl0J70sEHMiG1k0MswgxC5H5bOpNy2WIJaGnL0
+ Sa8J1kbuNR0dqCwUX.9pL0YcVGzXEET6Fxgkm2F344nN6VvP19Iga2tevAQ7
+ e9y58xR.eyGpsmfUj2yWhQmmcLZwv3PL_Bz.m7nCNbX1OjFB55RGl.ms2OoJ
+ JaAyzdUDLk66D39oSQc0pTuWK968TVSTQMsjFftXvbt73CUFUE3Eh82Hctyg
+ psNf8bz.3IgtEsICZ7y7fAu13mzUikloD7J1zRQVbZzzoC8Jl_R1ey6XIK17
+ yxKpZMCZEXAVIFf_xZ9Mi5WLtweKNtPU7xIq0PScCXL4azn5fBnQhuAxSZEv
+ E3TGg1GEtltByOhvSWEAhnX3QNBLL0Vq.DlKTDDmWB14esYpmoEsnXc2A2dY
+ rmMq8OEb5VJ8Vo49LooiWkNidrKOOMxgmToqB3Md86qeBU6zS9gcYa0Lj1kY
+ Qaql8axNGwl77Rm5KW6BJfuAVZv2sY8_Q3giswP2puhb8IjHXy1lL7KBPbwH
+ XEHz6.b_fJADE7lxcoLvtXbpyAYd5qTMeTq_EAMO5Y_hylpC5.nQLMk0HxZT
+ 2naFWnU8txFgMJW5qUdysyl6snoygKa5f_SRkboEt8KADl8Itw4VizuBSg9o
+ bavpQmZMHxRP674MfWoQ.J2nlbKMIuIL_wwS.MC2KPc70w4PLMHJFJ1U9pW2
+ JeQbYgOGhgwn2FvWpw_NKSaqdZvb4qAhalq4IYjutdMyZbgkUxKtTPT0axwX
+ A0.4TOBIqFsu6_Ftk1ikn64ivsj1KHhKITaCsT2tS49NATJGVnntLy5qp3Hq
+ R1QdNAndhbYLs68lIZlUWJPvIkbFL4H_gllTFPLLdtPNnVg6eY4QUq3FDpks
+ 13f_LcvIcx4rxaHZeS47ZMb0V3dxIrFJpenx.9qN9LdTUXqJTUXyP54F95vj
+ NsV7dB3xTOZyPZvlxsfbd3OgL2sE0PsTiM2.FSld3iKN5SOZ4yr8IG455v.W
+ Fkfphi8u2DFiDmtGq.O8YL7XtMF9p9BxGwYI.Ci7xwwKKoV01Kmjb5.9TaH4
+ UqJSfpU7eXCvlkiGCVrD9Q.M.QTgF4xpufa5VCn1bDfsxJMfcFw-
+X-Originating-IP: [107.182.173.5]
+Authentication-Results: mta4414.mail.bf1.yahoo.com  from=himalayan-harley.in; domainkeys=neutral (no sig);  from=himalayan-harley.in; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO umail.jcbl.com) (107.182.173.5)
+  by mta4414.mail.bf1.yahoo.com with SMTP; Wed, 22 Nov 2017 11:56:37 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id 11A821DA11F;
+	Wed, 22 Nov 2017 17:26:42 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xYI8dWDh0TlD; Wed, 22 Nov 2017 17:26:42 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id 956BBF290A7; Wed, 22 Nov 2017 11:56:10 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id 5A4DDF28D0B;
+	Wed, 22 Nov 2017 17:26:10 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 4FE56FEAAD4;
+	Wed, 22 Nov 2017 17:26:10 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOPnP3yemjZR; Wed, 22 Nov 2017 17:26:10 +0530 (IST)
+Received: from adminPC (unknown [192.168.1.68])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 9EB18FEA971;
+	Wed, 22 Nov 2017 17:25:59 +0530 (IST)
+From: "Geetu Singh" <insurance@himalayan-harley.in>
+To: "'naveen kachru'" <naveenkachru@gmail.com>
+Cc: <geetkannu2912@gmail.com>,
+	<jitender2198@gmail.com>,
+	<vipul.dagan@gmail.com>,
+	<ravi76arora@gmail.com>,
+	<sippy_dhindra@yahoo.com>,
+	<manny.fernandes@metso.com>,
+	<sunil.khatri652@yahoo.com>,
+	<shardendu.charturvedi@bnco.in>,
+	<prem.chawla@yahoo.com>,
+	<akshaychopra284@gmail.com>,
+	<captshekharsirohi@gmail.com>,
+	<sidd17.02@gmail.com>
+References
+*** MESSAGE TRUNCATED ***
+
+
+.

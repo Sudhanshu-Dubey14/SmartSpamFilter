@@ -1,0 +1,70 @@
+Return-Path: <ocs@icat.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <vishal_kalyan@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ammMkWtJTWpM>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ammMkWtJTWpM for <vishal_kalyan@jcbl.com>;
+	Thu, 29 Jun 2017 16:18:30 +0530 (IST)
+Received: from scanner.cloudmailstore.com (unknown [103.11.84.128])
+	by mx10.jcbl.com (Postfix) with ESMTPS id A3B1DFA7B96
+	for <vishal_kalyan@jcbl.com>; Thu, 29 Jun 2017 16:18:28 +0530 (IST)
+Received: from Internal Mail-Server by mx3.cloudmailstore.com (envelope-from
+	ocs@icat.in) with SMTP; 29 Jun 2017 16:07:22 +0530
+Received: from Application ([172.168.0.33]) by mail.icat.in
+	([111.93.38.214]) (MDaemon PRO v16.5.2)  with ESMTP id md50000352496.msg for
+	<vishal_kalyan@jcbl.com>; Thu, 29 Jun 2017 16:18:17 +0530
+X-Spam-Processed: mail.icat.in, Thu, 29 Jun 2017 16:18:17 +0530 (not
+	processed: message from trusted or authenticated source)
+X-MDRemoteIP: 172.168.0.33
+X-MDHelo: Application
+X-MDArrival-Date: Thu, 29 Jun 2017 16:18:17 +0530
+X-Return-Path: ocs@icat.in
+X-Envelope-From: ocs@icat.in
+X-MDaemon-Deliver-To: vishal_kalyan@jcbl.com
+From: ocs@icat.in
+To: vishal_kalyan@jcbl.com
+Message-ID: <2027387095.41.1498733254234.JavaMail.root@Application>
+Subject: [No Reply] Property Submission
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+VadeRetro-Refid: LEGIT, OK,
+	(49)(0000)gggruggvucftvghtrhhoucdtuddrfeelkedrtdeggdeftdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfrkffpgfetrffrnecuuegrihhlohhuthemuceftddtnecupfhoucgurghtvgcufhhivghlugculdegledmnecujfgurhephffvkffugggtgfeshhejtgdttddtvdenucfhrhhomhepohgtshesihgtrghtrdhinhenucffohhmrghinhepihgtrghtrdhinh
+Spam-Score: -0.10
+
+<body>
+<p>Dear jcblltD,<br />
+  <br />
+  Docket Number : CVTBJCBLMGCAE52232<br />
+  Name of Customer : M/s JCBL Limited<br />
+  Type of Case  : TYPE APPROVAL<br />
+  Category of Vehicle : 4 WHEELER<br />  
+  Remarks : ok<br />  
+  
+  This mail is viding the information you have provided  concerning your test property submission at ICAT.<br />
+  <br />
+  
+  A receipt has been generated. Please take a copy of the  print during property submission at ICAT.<br />
+  <br />
+  <a href="http://iocs.icat.in/">Click here on the link</a><br />
+  <br />
+  You have to submit the test property at ICAT within 5  working days.<br />
+  <br />
+  Failing the case will be closed and the Processing fees will  be forfeited.<br />
+  <br />
+<br />
+  Regards,<br />
+ICAT</p>
+<p>
+<br /><br />
+	 This is a system generated e-mail. Please do not reply. In case of any concern, please e-mail the Customer Services Cell at team@icat.in with docket number reference.
+</p>
+</body>
+

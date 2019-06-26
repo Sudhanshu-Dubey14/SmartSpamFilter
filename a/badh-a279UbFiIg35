@@ -1,0 +1,280 @@
+Return-Path: <techg@bounce.indiatimes.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ps_sodhi@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a279UbFiIg35>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a279UbFiIg35 for <ps_sodhi@jcbl.com>;
+	Fri, 12 Aug 2016 20:39:43 +0530 (IST)
+Received: from osmtp5.etretail.com (osmtp5.etretail.com [223.165.29.81])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 42978F84302
+	for <ps_sodhi@jcbl.com>; Fri, 12 Aug 2016 20:39:42 +0530 (IST)
+Received: from localhost (192.169.23.10.static.etheric.net [192.169.23.10])
+	by osmtp5.etretail.com (Postfix) with ESMTP id CD143A24C1
+	for <ps_sodhi@jcbl.com>; Fri, 12 Aug 2016 20:41:40 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp5.etretail.com CD143A24C1
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etauto.com;
+	s=default; t=1471014700;
+	bh=P70laDBa01jtNiJLtWv///RIcItjCWA0BMKdzGYR+dg=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To;
+	b=KknESkqf8cfQShN/Ff/gblbEZjQcLkgftP+yz0OU5bNS/NQVdFhKRhvMcGXNcIPHE
+	 63P64DzJcw2RJNCY3AOrWrCbN7GnhaGp+1nG4gVVSFvvJTo0IDCvPgvM1dzI+p+mbJ
+	 AMuWxXrBG0SmSEEoIZK7BFv5jW/jSpwi+cGkqXCI=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETAuto Events<newsletter@etauto.com>
+To: ps_sodhi@jcbl.com
+Subject: Can You Miss The Biggest Workshop and Conference for Automobile Dealers ? #AutoRetailForum
+Reply-To: no-reply@etauto.com
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ETAuto Retail Forum 2016</title>
+
+
+<table width="100%" bgcolor="#eeeeee" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+  <tbody><tr>
+    <td><!--[if gte mso 9]>
+
+<table align="center" width="740" cellpadding="0" bgcolor="#ffffff" cellspacing="0" style="width:700px; margin:auto;">
+<tr>
+<td>
+
+<![endif]--> 
+      
+      <!--[if lte mso 9]>
+
+<table align="center" width="740px" bgcolor="#ffffff" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+      
+      <table width="740" style="max-width:740px; " align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td style="background:#ffffff;"><table width="100%" cellpadding="0" cellspacing="0">
+              <!-- banner -->
+              <tbody><tr>
+                <td align="left" style="padding:20px 0;">
+ <a href='http://auto.economictimes.indiatimes.com/pl.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fautoretailforum&activity_name=auto-conference_12-08-2016&emid=ZGtWVzlZVmFvcFpQakIvek52Q0Zka2ZOMncvNEFKcStpZStkVzhEOGZDRT0=&email=ps_sodhi@jcbl.com&uid=51891' target="_blank" style="border:0;">
+ <img src="http://b2bimages.iimg.in/files/nicUploads/89144391320889.jpg" style="display:block; border:0; width:100%; vertical-align:top;"></a></td>
+              </tr>
+              <tr>
+                <td align="center" style="background:#555555; border-bottom:1px solid #fff; font-size:22px; color:#ffffff; line-height:24px; padding:20px 0; text-transform:uppercase; font-weight:bold; font-family:Arial, sans-serif;">
+                An Exclusive Workshop and <br>
+Conference for Automobile Dealers
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+               
+ <a href='http://auto.economictimes.indiatimes.com/pl.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fautoretailforum&activity_name=auto-conference_12-08-2016&emid=ZGtWVzlZVmFvcFpQakIvek52Q0Zka2ZOMncvNEFKcStpZStkVzhEOGZDRT0=&email=ps_sodhi@jcbl.com&uid=51891' target="_blank" style="border:0;">
+ <img src="http://b2bimages.iimg.in/files/nicUploads/346917771452209.jpg" style="display:block; border:0; width:100%; vertical-align:top;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="background:#555555; font-size:20px; color:#ffffff; line-height:24px; font-family:Arial, sans-serif; padding:15px 0;">
+                <span style="font-weight:bold; color:#ffcf35; font-family:Arial, sans-serif;">21st Sep 2016 @ 8 AM,</span> Hotel Le Meridien, New Delhi
+                </td>
+              </tr>
+              <!-- /banner -->
+              <tr>
+              	<td align="center" valign="middle" style="background-color:#e1e1e4; background-image:url(img3.jpg); background-repeat:no-repeat; background-position:0 0;">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                	<tbody><tr>
+                    	<td align="center" style="font-size:33px; color:#e00e0e;  padding:32px 0 20px; text-transform:uppercase; font-weight:bold; font-family:Arial, sans-serif;">
+                        Are you attending?
+                        </td>
+                    </tr>
+                    <tr>
+                    	<td align="center" style="padding-bottom:25px;">
+                       	
+ <a href='http://auto.economictimes.indiatimes.com/pl.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fautoretailforum&activity_name=auto-conference_12-08-2016&emid=ZGtWVzlZVmFvcFpQakIvek52Q0Zka2ZOMncvNEFKcStpZStkVzhEOGZDRT0=&email=ps_sodhi@jcbl.com&uid=51891' target="_blank" style="border:0;">
+ <img src="http://b2bimages.iimg.in/files/nicUploads/672803740814499.png" style="display:block; border:0; width:295px; vertical-align:top;" width="295"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                    	<td align="center" style="font-size:21px; line-height:24px; color:#000;  padding:0 10px 37px; font-family:Arial, sans-serif; ">
+                        Avail the early bird discount and save up to <span style="font-weight:bold; font-family:Arial, sans-serif;">Rs 3,000</span>
+                        </td>
+                    </tr>
+                    
+                </tbody></table>
+                	
+                </td>
+              </tr>
+              
+              <tr>
+              	<td style="background:#ffffff; padding:38px;">
+                	<table width="100%" cellpadding="0" cellspacing="0">
+                    	<tbody><tr>
+                        	<td align="center" style="font-size:24px; color:#000000;  padding:0 0 28px; text-transform:uppercase; font-weight:bold; font-family:Arial, sans-serif;">
+                        KEY THEMES
+                        	</td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            	<table width="100%" cellpadding="0" cellspacing="0">
+                                	<tbody><tr>
+                                    	<td width="318" height="143" style="background:#e1e1e2; ">
+                                        	<table width="100%" cellpadding="0" cellspacing="0">
+                                            	<tbody><tr>
+                                                	<td valign="top" width="97">
+                                                    	
+ <img src="http://b2bimages.iimg.in/files/nicUploads/645802853646476.jpg" style="display:block; width:97px;">
+                                                    </td>
+                                                    <td valign="middle" align="left">
+                                                    	<table width="100%" cellpadding="0" cellspacing="0">
+                                                        	<tbody><tr>
+                                                                <td align="left" style="font-size:17px; color:#555555; padding-bottom:15px; font-weight:bold; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           SESSION - 1
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="left" style="font-size:16px; color:#555555; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           Unraveling the OEM-Dealer Relationship for Mutual Growth
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                        <td width="20"></td>
+                                        
+                                        <td width="318" height="143" style="background:#e1e1e2; ">
+                                        	<table width="100%" cellpadding="0" cellspacing="0">
+                                            	<tbody><tr>
+                                                	<td valign="top" width="97">
+                                                    	
+ <img src="http://b2bimages.iimg.in/files/nicUploads/315960240136898.jpg" style="display:block; width:97px;">
+                                                    </td>
+                                                    <td valign="middle" align="left">
+                                                    	<table width="100%" cellpadding="0" cellspacing="0">
+                                                        	<tbody><tr>
+                                                                <td align="left" style="font-size:17px; color:#555555; padding-bottom:15px; font-weight:bold; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           SESSION - 2
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="left" style="font-size:16px; color:#555555; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           Customer  Acquisition and  Retention -  Cracking the  Right Path
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                        
+                                    </tr> 
+                                    <tr>
+                                    	<td height="20"></td>
+                                    </tr>  
+                                    <tr>
+                                    	<td width="318" height="143" style="background:#e1e1e2; ">
+                                        	<table width="100%" cellpadding="0" cellspacing="0">
+                                            	<tbody><tr>
+                                                	<td valign="top" width="97">
+                                                    	
+ <img src="http://b2bimages.iimg.in/files/nicUploads/865070494846116.jpg" style="display:block; width:97px;">
+                                                    </td>
+                                                    <td valign="middle" align="left">
+                                                    	<table width="100%" cellpadding="0" cellspacing="0">
+                                                        	<tbody><tr>
+                                                                <td align="left" style="font-size:17px; color:#555555; padding-bottom:15px; font-weight:bold; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           SESSION - 3
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="left" style="font-size:16px; color:#555555; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           Creating Opportunity in Digital Disruption 
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                        <td width="20"></td>
+                                        
+                                        <td width="318" height="143" style="background:#e1e1e2; ">
+                                        	<table width="100%" cellpadding="0" cellspacing="0">
+                                            	<tbody><tr>
+                                                	<td valign="top" width="97">
+                                                    	
+ <img src="http://b2bimages.iimg.in/files/nicUploads/744140236121303.jpg" style="display:block; width:97px;">
+                                                    </td>
+                                                    <td valign="middle" align="left">
+                                                    	<table width="100%" cellpadding="0" cellspacing="0">
+                                                        	<tbody><tr>
+                                                                <td align="left" style="font-size:17px; color:#555555; padding-bottom:15px; font-weight:bold; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           SESSION - 4
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="left" style="font-size:16px; color:#555555; padding-right:20px; font-family:Arial, sans-serif;">
+                                                           Tapping the Growing 
+Opportunity in Rural 
+Markets
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                        
+                                    </tr>                             	
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+              </tr>  
+              
+              <tr>
+              	<td align="center" style="font-size:16px; color:#888888; line-height:24px; font-family:Arial, sans-serif; padding-bottom:30px;">
+                	Marketing Alliance &amp; Delegation:<br>
+<span style="font-family:Arial, sans-serif; font-weight:bold; color:#000000;">Shahbaz Khan</span> | 
+ <a href='mailto:shahbaz.khan@timesinternet.in' style="text-decoration:none; color:#e00e0e; font-family:Arial, sans-serif; font-weight:bold;">shahbaz.khan@timesinternet.in</a> | <span style="font-family:Arial, sans-serif; font-weight:bold;color:#000000;">+91 999 031 7220</span> 
+                </td>
+              </tr>  
+               
+        
+        <!-- footer -->
+      </tbody></table>
+      <table width="100%" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td align="center" style="padding:20px 10px 20px; font-size:12px; color:#666; border-top:1px solid #e1e1e2; text-align:center; font-family:Helvetica, Arial, sans-serif;">If you do not want to receive this mailer, you can 
+ <a href='http://auto.economictimes.indiatimes.com/pl.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Funsubscribe.php%3Fzx%3DJmVtYWlsPXBzX3NvZGhpQGpjYmwuY29tJnR5cGU9cHJvbW8%253D&activity_name=auto-conference_12-08-2016&emid=ZGtWVzlZVmFvcFpQakIvek52Q0Zka2ZOMncvNEFKcStpZStkVzhEOGZDRT0=&email=ps_sodhi@jcbl.com&uid=51891' style="color: #0072bc; font-family:Helvetica, Arial, sans-serif;">Unsubscribe</a> from our mailing list.<br>
+            ETAuto.com(Times Center), FC - 6, Film City, Sector 16A, Noida - 201301, Uttar Pradesh, India</td>
+        </tr>
+      </tbody></table>
+      
+      <!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]--> 
+      
+      <!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]--></td>
+  </tr>
+</tbody></table>
+
+</td></tr></tbody></table><div style="display:none;width:0;height:0;">
+ <img src="http://auto.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=ZGtWVzlZVmFvcFpQakIvek52Q0Zka2ZOMncvNEFKcStpZStkVzhEOGZDRT0=&activity_name=auto-conference_12-08-2016&current_date=2016-08-12&euid=WWJMdGFSRzh1azg2UFlkc1lod3Rqdz09" style="display:none;width:0;height:0;" height="0" width="0" /></div>

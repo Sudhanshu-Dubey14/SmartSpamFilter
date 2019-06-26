@@ -1,0 +1,58 @@
+Return-Path: <ticketadmin@irctc.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ashish_kumar@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a51r2cJYbVbT>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a51r2cJYbVbT for <ashish_kumar@jcbl.com>;
+	Mon, 27 Nov 2017 01:38:08 +0530 (IST)
+Received: from smtp.irctc.co.in (smtp13.irctc.co.in [202.93.154.125])
+	by mx10.jcbl.com (Postfix) with ESMTP id 5987DFEA8DC
+	for <ashish_kumar@jcbl.com>; Mon, 27 Nov 2017 01:38:05 +0530 (IST)
+Received: from 10.34.29.11 (unknown [10.34.20.52])
+	by smtp.irctc.co.in (Postfix) with SMTP id 5717554069D
+	for <ashish_kumar@jcbl.com>; Mon, 27 Nov 2017 01:38:43 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 smtp.irctc.co.in 5717554069D
+MIME-Version: 1.0
+Content-TYPE: text/html
+FROM:ticketadmin@irctc.co.in
+Subject: "Book Upto 12 tickets in a month by linking Aadhaar"
+TO: ashish_kumar@jcbl.com
+
+
+<HR/>
+<p><strong>This is a system generated mail. Please do not reply to this email ID. If you have a query or need any clarification you may: <br /> (1) Call our 24-hour Customer
+Care or<br /> (2) Email Us </strong><a href="mailto:care@irctc.co.in"><strong>care@irctc.co.in</strong></a></p>
+<HR/>
+<p>Dear User,</p>
+<p>Now users are allowed to book upto 12 tickets in a month, if users get themselves verified through their Aadhaar number along with at least one passenger also being
+verified through Aadhaar.</p>
+<ul>
+<li><strong>No Aadhaar Verification required for booking up to 6 tickets in a month, as earlier.</strong></li>
+<li><strong>Existing facility of booking upto 6 tickets (without Aadhaar) in a month continues.</strong></li>
+</ul>
+<p>Steps to avail the facility of booking more than 6 tickets and up to 12 tickets in a month:</p>
+<ul>
+<li>IRCTC Registered User is required to get himself Aadhaar verified using Aadhar KYC option in My Profile.</li>
+<li>User&rsquo;s Aadhaar will be verified by sending an OTP on his mobile number linked with his Aadhaar number. On successful submission of OTP, user will become Aadhaar
+verified.</li>
+<li>At least One (1) passenger on the ticket being booked, beyond 6 tickets in a month, should also be Aadhaar verified.</li>
+<li>Users are required to verify the probable passengers through their respective Aadhaar number and store the verified passengers in passenger master list. This should be
+done before starting the ticket booking process, beyond 6 tickets in a month.</li>
+</ul>
+<p>For detailed process of booking beyond 6 tickets, please refer IRCTC website <a href="http://www.irctc.co.in">www.irctc.co.in</a>.</p>
+<p>For any further assistance, please contact us at 24*7 Hrs.<br /> Customer Support at <strong>011-39340000</strong> or mail us at <a
+href="mailto:care@irctc.co.in">care@irctc.co.in</a>.</p>
+<p><strong>Warm Regards,<br /> Customer Care<br /> Internet Ticketing<br /> IRCTC</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</table>
+</body>
+</html>
+

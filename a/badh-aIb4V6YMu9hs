@@ -1,0 +1,634 @@
+Return-Path: <donotreply@smartdraw.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <it@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aIb4V6YMu9hs>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aIb4V6YMu9hs for <it@jcbl.com>;
+	Thu, 21 Jul 2016 11:11:18 +0530 (IST)
+Received: from bizmail.smartdraw.com (bizmail.smartdraw.com [136.179.8.138])
+	by mx10.jcbl.com (Postfix) with ESMTP id 97DB0F62B9F
+	for <it@jcbl.com>; Thu, 21 Jul 2016 11:11:17 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkey1; d=smartdraw.com;
+ h=From:To:Reply-to:Subject:MIME-Version:Content-Type; i=donotreply@smartdraw.com;
+ bh=xshirjpHR29Lnm2N3P/3HWz+JsI=;
+ b=RcE9uKfPTv2NwlTvosjmloR+ayLC4Sy8Hty1iC+h3niYfnMp9O+VZnYg75TWQcFYmgwzO24rqoaJ
+   dfjXIn+jIxiQ7YTps89zEh2IzcfVOv5WZzGgyh/ptOVK5PfXvXZ/KAMCG+aymG4V0+hkX5S0FXC3
+   hMozN73gjA0DYvhaQhs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkey1; d=smartdraw.com;
+ b=EFE13leWqUStQNhAzb7K7rlxQHJ7pU6VlS6WN8oeW+itHu52KsmOQlVPRD1aFdRGUUpHhbWc7AXt
+   KEC1OXZodkd3ABUnfc5SU+g3i0OLnxra4m+IbqpC62437p5R8m9udSoVEXh7Z7zKiRGtUEvPkCjE
+   PECt4vmMosCrymMczxw=;
+Received: by bizmail.smartdraw.com id hi1gac1b8eo0 for <it@jcbl.com>; Wed, 20 Jul 2016 11:39:47 -0700 (envelope-from <donotreply@smartdraw.com>)
+From: SmartDraw Software <donotreply@smartdraw.com>
+To:   <it@jcbl.com>
+Reply-to: messagereply@smartdraw.com
+Subject: Stop losing sleep over deadlines.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f"
+
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/plain; charset=Windows-1252
+
+***********************************************************
+Take the Stress Out of Deadlines
+***********************************************************
+Even the word is foreboding. Deadline. Break it down: Dead.
+Line. It conjures up all sorts of bad imagery--as though we're
+queuing up for our own demise. Is it any wonder we stress over
+deadlines?
+
+***********************************************************
+How to get deadlines under control
+***********************************************************
+Let's look first at the cause of deadline stress. It's being
+late. No one wants a project to run behind and risk missing
+the deadline. It means cramming more effort into less and
+less remaining time. It means people get upset. It causes
+people to lose sleep. It's just no fun.
+
+The key is to a follow a simple three-step formula. It may
+take a little time to get used to, but stick with it. Develop
+it as part of your daily practice and you'll take a lot of
+stress out of your life.
+
+***********************************************************
+Three simple steps to getting any project done on time
+***********************************************************
+Here are the three steps the world's most successful people
+use to complete a project of any size on time.
+
+1. Identify the biggest, most important tasks first.�Begin
+   by breaking each of them into smaller tasks. Do this until
+   each task can be accomplished in no more than two days.
+   Break up big, vague tasks like "update the website" into a
+   larger number of more specific tasks. This will enable you
+   to estimate, with much greater accuracy, the time you need
+   to complete the entire project.
+
+2. Assign tasks and chart the schedule.�Make a Gantt
+   Chart--a table showing each task, the person who will do it, the
+   start date and how long it will take. Be realistic about the
+   work load of each person. Spread the tasks out so that a new
+   one doesn't begin until the previous one is complete. If the
+   work of one person has to be complete before a task performed
+   by someone else can start, build this in, too. Be sure to take
+   holidays and weekends into account.
+
+3. Estimate the completion date and monitor progress. The end
+   date of your last task tells you when your project will be
+   complete. Update your chart with the actual dates of completion
+   for each task as the project progresses. This will tell you,
+   at a glance, whether your project is on schedule. If it's not,
+   you will know precisely how far it is behind so you can make
+   better management decisions.
+
+***********************************************************
+SmartDraw reduces the stress of planning and managing
+projects.
+***********************************************************
+SmartDraw simplifies the process of managing any project.
+Creating a visual project plan is faster and far more effective
+than using a spreadsheet, text editor, or pen and paper.
+And it doesn't require the steep learning curve of many
+project management software programs. It's easy to edit and
+share, too.
+
+SmartDraw will automatically convert your task outline into
+a Gantt chart with one click. It even allows you and your
+team members to view a "to-do" list, with icons showing the
+task status.
+
+***********************************************************
+Why wait? Get started now.
+***********************************************************
+There's no risk when you buy SmartDraw. You get an amazingly
+powerful yet easy-to-use product, along with free support and
+our unconditional, 30-day money-back guarantee.
+
+**********************************************************
+Learn more
+**********************************************************
+Now that you're part of the SmartDraw community we invite
+you to keep in touch with us on your favorite social networks.
+
+- Connect with SmartDraw Software on Twitter
+  https://www.twitter.com/smartdraw
+
+- Connect with SmartDraw Software on Facebook
+  https://www.facebook.com/smartdraw
+
+- Connect with SmartDraw Software on LinkedIn
+  https://www.linkedin.com/company/38151
+
+- SmartDraw on YouTube
+  https://www.youtube.com/user/smartdraw
+
+- SmartDraw on Google Plus:
+  https://plus.google.com/+Smartdrawsoftware/posts
+
+
+You control the e-mail you get from SmartDraw Software. Unlist.
+https://www.smartdraw.com/support/emailpreferences.aspx?email=it@jcbl.com&TypeID=1
+
+SmartDraw Software, LLC
+9909 Mira Mesa Blvd., San Diego, CA 92131 USA
+Phone: 800-817-4238 (toll-free) | Phone: 858-225-3370
+(c)1994 - 2016 SmartDraw, LLC
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/html; charset=Windows-1252
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Take the Stress Out of Deadlines</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+    /* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+    table{border-collapse:collapse !important;}
+    body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+    /* iOS BLUE LINKS */
+    .appleBody a {color:#68440a; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+
+    /* MOBILE STYLES */
+    @media screen and (max-width: 525px) {
+
+      /* ALLOWS FOR FLUID TABLES */
+      table[class="wrapper"]{
+        width:100% !important;
+      }
+
+      /* ADJUSTS LAYOUT OF LOGO IMAGE */
+      td[class="logo"]{
+        text-align: left;
+        padding: 20px 0 20px 0 !important;
+      }
+
+      td[class="logo"] img{
+        margin:0 auto!important;
+      }
+
+      /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+      td[class="mobile-hide"]{
+        display:none;}
+
+        img[class="mobile-hide"]{
+          display: none !important;
+        }
+
+        img[class="img-max"]{
+          max-width: 100% !important;
+          height:auto !important;
+        }
+
+        /* FULL-WIDTH TABLES */
+        table[class="responsive-table"]{
+          width:100%!important;
+        }
+
+        .responsive-block {
+          display: block !important;
+          margin: auto !important;
+        }
+
+        .responsive-block img {
+          width: auto !important;
+        }
+
+        .responsive-CTA {
+          width: 80% !important;
+          display: block !important;
+          margin: auto !important;
+        }
+
+        .iphone-fix {
+          padding: 10px 30px 10px 30px !important;
+          text-align: left !important;
+        }
+
+        .iphone-text {
+          font-size: 26px !important;
+        }
+
+        .iphone-h1 {
+          font-size: 40px !important;
+        }
+
+        .iphone-header {
+          font-size: 34px !important;
+          padding-top: 20px !important
+        }
+
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        td[class="padding"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        td[class="padding-copy"]{
+          padding: 10px 5% 10px 5% !important;
+          text-align: left !important;
+        }
+
+        td[class="padding-meta"]{
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+
+        td[class="no-pad"]{
+          padding: 0 0 20px 0 !important;
+        }
+
+        td[class="no-padding"]{
+          padding: 0 !important;
+        }
+
+        .no-padding {
+          padding: 0 !important;
+        }
+
+        td[class="section-padding"]{
+          padding: 10px 15px 10px 15px !important;
+        }
+
+        td[class="section-padding-bottom-image"]{
+          padding: 50px 15px 0 15px !important;
+        }
+
+        /* ADJUST BUTTONS ON MOBILE */
+        td[class="mobile-wrapper"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        table[class="mobile-button-container"]{
+          margin:0 auto;
+          width:100% !important;
+        }
+
+        a[class="mobile-button"]{
+          width:80% !important;
+          padding: 15px !important;
+          border: 0 !important;
+          font-size: 16px !important;
+        }
+
+      }
+    </style>
+  </head>
+  <body style="margin: 0; padding: 0;">
+
+    <!-- HEADER -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td bgcolor="#666666">
+
+          <div align="center" style="padding: 0px 15px 0px 15px;">
+            <table border="0" cellpadding="0" cellspacing="0" width="600" class="wrapper">
+              <!-- LOGO/PREHEADER TEXT -->
+              <tr>
+                <td style="padding: 20px 0px 30px 0px;">
+
+                </td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+
+
+
+    <!-- ONE COLUMN SECTION -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td align="center" style="padding: 40px 15px 0 15px;" class="section-padding">
+          <table border="0" cellpadding="0" cellspacing="0" width="600">
+            <tr>
+              <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <!-- HERO IMAGE -->
+                    <td class="padding-copy">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td>
+                            <a href="#" target="_blank"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/logo.png" border="0" alt="SmartDraw Logo" style="display: block; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max"></a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <!-- COPY -->
+<!--
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+
+                          <td align="left" style="font-size:36px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666; font-family: 'Open Sans', Verdana, sans-serif;" class="padding-copy"><font face="'Open Sans', Verdana, sans-serif">Keep Your Team on Track with SmartDraw CI's New Kanban Boards</font></td>
+
+                        </tr>
+                      </table> -->
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+
+
+    <!-- COMPACT ARTICLE SECTION -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td align="center" style="padding: 0 15px 0 15px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" style="padding:0 0 20px 0;">
+                    <tr>
+                      <td valign="top" style="padding: 20px 25px 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="responsive-block iphone-fix iphone-h1"><font face="'Open Sans', Verdana, sans-serif" style="font-size:36px; font-weight:400;margin-top:10px;line-height:110%; color: #666;">Take the Stress Out of Deadlines</font>
+                      </td>
+                    </tr>
+                </table>
+          <table border="0" cellpadding="0" cellspacing="0" width="600" style="padding:0 0 20px 0;">
+            <tr>
+
+              <td valign="top" style="padding: 20px 25px 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="responsive-block iphone-fix">
+                <font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">Even the word is foreboding. Deadline. Break it down: Dead. Line. It conjures up all sorts of bad imagery&mdash;as though we're queuing up for our own demise. Is it any wonder we stress over deadlines?</font>
+                <br /><br />
+                <font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size: 20px;">How to get deadlines under control</font>
+                <br /><br />
+                <font class="iphone-text" face="'Open Sans', Verdana, sans-serif" style="font-size: 16px;">Let's look first at the cause of deadline stress. It's being late. No one wants a project to run behind and risk missing the deadline. It means cramming more effort into less and less remaining time. It means people get upset. It causes people to lose sleep. It's just no fun.</font>
+              </td>
+
+              <td valign="top" style="padding: 20px 0 0 25px;" class="no-padding responsive-block">
+                <!-- ARTICLE -->
+                <table style="margin:auto;">
+                  <tr>
+                    <td class="responsive-block" valign="top" style="padding: 0"><img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/TCB-120214.png" alt="Deadline" border="0" width="300" style="display: block; margin: auto; font-family: Arial; color: #666666; font-size: 14px; width:300px; height:auto;">
+                    </td>
+                  </tr>
+                </table>
+                <br /><br />
+                <table width="100%" cellpadding="20" cellspacing="0" bgcolor="#eeeeee" style="background-color: #eeeeee;" class="responsive-CTA">
+                  <tbody class="responsive-block">
+                    <tr class="responsive-block">
+                      <td class="responsive-block" bgcolor="#eeeeee" style="padding-top:30px;">
+
+                        <div style="width: 260px; display: inline-block; vertical-align: top;" class="responsive-block">
+                          <table width="100%" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                              <td style="font-size: 16px;color:#666666;">
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:3px; background-color:#074F06; margin:auto;">
+                                  <tbody><tr>
+                                    <td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+                                      <font face="'Open Sans', Verdana, sans-serif"><a class="iphone-text" href="https://www.smartdraw.com/buy/?slscid=7604_12630145_64F23B9F-925A-4CA5-96CB-8A382A209250" target="_blank" style="color:#FFFFFF; font-size:20px; font-weight:bold; text-decoration:none; text-align:center;">Buy Today</a></font>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <font face="'Open Sans', Verdana, sans-serif">
+                                <p style="text-align:center; margin-top: 15px; margin-bottom: 15px;"><a class="iphone-text" href="https://www.smartdraw.com/buy/?slscid=7604_12630145_64F23B9F-925A-4CA5-96CB-8A382A209250" style="color: #336699;" target="_blank">Buy SmartDraw Now and Save $100 or More</a></p>
+                              </font>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<br />
+
+<!-- ONE COLUMN SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 0 15px 0px 15px;" class="section-padding">
+      <table border="0" cellpadding="0" cellspacing="0" width="600">
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">The key is to a follow a simple three-step formula. It may take a little time to get used to, but stick with it. Develop it as part of your daily practice and you'll take a lot of stress out of your life.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Three simple steps to getting any project done on time</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Here are the three steps the world's most successful people use to complete a project of any size on time.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top: 20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">
+                        <ol>
+                          <li>Identify the biggest, most important tasks first.�Begin by breaking each of them into smaller tasks. Do this until each task can be accomplished in no more than two days. Break up big, vague tasks like "update the website" into a larger number of more specific tasks. This will enable you to estimate, with much greater accuracy, the time you need to complete the entire project.
+
+                            <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/legacy-projects-01-1.png" width="auto" height="auto" border="0" alt="Product launch mind map" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                            <br /><br class="iphone-hide" />
+                          </li>
+                          <li>Assign tasks and chart the schedule.�Make a Gantt chart&mdash;a table showing each task, the person who will do it, the start date and how long it will take. Be realistic about the work load of each person. Spread the tasks out so that a new one doesn't begin until the previous one is complete. If the work of one person has to be complete before a task performed by someone else can start, build this in, too. Be sure to take holidays and weekends into account.
+
+                            <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/legacy-projects-01-2.png" width="auto" height="auto" border="0" alt="Product launch project chart" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                            <br /><br class="iphone-hide" />
+                          </li>
+                          <li>Estimate the completion date and monitor progress. The end date of your last task tells you when your project will be complete. Update your chart with the actual dates of completion for each task as the project progresses. This will tell you, at a glance, whether your project is on schedule. If it's not, you will know precisely how far it is behind so you can make better management decisions.</li>
+                        </ol>
+                      </font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+               <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 20px;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">SmartDraw reduces the stress of planning and managing projects.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">SmartDraw simplifies the process of managing any project. Creating a visual project plan is faster and far more effective than using a spreadsheet, text editor, or pen and paper. And it doesn't require the steep learning curve of many project management software programs. It's easy to edit and share, too.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-top:20px; font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">SmartDraw will automatically convert your task outline into a Gantt chart with one click. It even allows you and your team members to view a "to-do" list, with icons showing the task status.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td class="padding-copy">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="padding-top:20px; text-align: center;">
+                        <img src="http://wc1.smartdraw.com/specials/mailings/images/legacycontent/legacy-projects-01-3.png" width="auto" height="auto" border="0" alt="Project charts" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" style="font-size:20px; font-weight:400;padding-top: 20px; margin-top:10px;margin-bottom:7px;line-height:110%; color: #666; font-family: 'Open Sans', Verdana, sans-serif;" class="padding-copy iphone-header iphone-fix"><font face="'Open Sans', Verdana, sans-serif">Why Wait? Get Started Now.</font></td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; font-size: 16px;" class="padding-copy iphone-text iphone-fix"><font face="'Open Sans', Verdana, sans-serif">There's no risk when you buy SmartDraw. You get an amazingly powerful yet easy-to-use product, along with free support and our unconditional, 30-day money-back guarantee.</font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+
+
+<tr>
+    <!-- HERO IMAGE -->
+    <td class="padding-copy iphone-text" style="padding-top:20px;">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+          <tbody>
+             <tr>
+                <td align="center" style="font-size:16px; color:#666666;border:1px solid #bbbbbb; text-align:center;padding-bottom:20px; padding-left:20px; padding-right:20px;">
+                   <h2 style="font-size: 30px; margin-top:20px; margin-bottom:10px;text-align:center;"><a href="https://www.smartdraw.com/buy/?slscid=7604_12630145_64F23B9F-925A-4CA5-96CB-8A382A209250" style="text-decoration: none;color:#336699;"><font face="'Open Sans', Verdana, sans-serif">Save $100 or More Today</font></a></h2>
+
+                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonCTA" style="border-radius:3px; background-color:#074F06; text-align:center; margin: auto;">
+                      <tbody>
+                         <tr style="text-align:center; margin:auto;">
+                            <td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px; text-align:center; margin: auto;">
+                               <font face="'Open Sans', Verdana, sans-serif"> <a href="https://www.smartdraw.com/buy/?slscid=7604_12630145_64F23B9F-925A-4CA5-96CB-8A382A209250" target="_blank" style="color:#FFFFFF; width:220px; text-align:center; font-size:20px; margin: auto; font-weight:bold; text-decoration:none;">Buy Today</a>
+                               </font>
+                           </td>
+                       </tr>
+                   </tbody>
+               </table>
+           </td>
+       </tr>
+   </tbody>
+</table>
+</td>
+</tr>
+
+
+
+
+
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- FOOTER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td bgcolor="#ffffff" align="center" style="padding: 20px 0px;">
+      <!-- UNSUBSCRIBE COPY -->
+      <table bgcolor="#666666" width="600">
+        <tr>
+          <td style="padding-top: 20px; padding-bottom: 20px">
+            <table bgcolor="#666666" width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="margin: auto;">
+              <tr>
+                <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#ffffff;">
+                  <span class="appleFooter" style="color:#ffffff;">You control the e-mail you get from SmartDraw Software: <a href="https://www.smartdraw.com/support/emailpreferences.aspx?email=it@jcbl.com&TypeID=1" style="color: #ffffff; text-decoration: underline;" target="_blank">Unlist</a></span><br><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">SmartDraw Software, LLC | 9909 Mira Mesa Blvd. | San Diego, CA 92131 | USA</span><br /><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">&copy;1994-2016 SmartDraw, LLC</span>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <table bgcolor="#666666" width="300" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:auto;">
+              <tr>
+                <td bgcolor="#666666"><a href="https://twitter.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-twitter.png" alt="SmartDraw's Twitter" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.facebook.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-facebook.png" alt="SmartDraw's Facebook " border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.linkedin.com/company/38151"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-linkedin.png" alt="SmartDraw's LinkedIn" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://plus.google.com/+Smartdrawsoftware/posts"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-googleplus.png" alt="SmartDraw's Goople Plus" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.pinterest.com/smartdraw/"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-pinterest.png" alt="SmartDraw's Pinterest" border="0" style="display:block"></a></td>
+                <td bgcolor="#666666"><a href="https://www.youtube.com/user/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-youtube.png" alt="SmartDraw's YouTube" border="0" style="display:block"></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<img src="https://www.smartdraw.com/images/7604_12630145_64F23B9F-925A-4CA5-96CB-8A382A209250.aspx" width="1" height="1" border="0">
+</body>
+</html>
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f--

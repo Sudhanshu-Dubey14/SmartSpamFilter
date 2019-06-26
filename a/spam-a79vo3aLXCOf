@@ -1,0 +1,95 @@
+Return-Path: <noreply@citraalti.com.my>
+Delivered-To: spam-quarantine
+X-Envelope-To: <farooq_ahmad@mslindia.net>
+X-Envelope-To-Blocked: <farooq_ahmad@mslindia.net>
+X-Quarantine-ID: <a79vo3aLXCOf>
+X-Spam-Flag: YES
+X-Spam-Score: 14.207
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.207 tag=2 tag2=6.31 kill=6.31
+	tests=[ADVANCE_FEE_2_NEW_MONEY=0.596, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FORGED_MUA_OUTLOOK=2.785, FROM_MISSP_DKIM=0.001,
+	FROM_MISSP_MSFT=0.482, FROM_MISSP_NO_TO=2.316,
+	FSL_CTYPE_WIN1251=0.607, FSL_UA=0.001, FSL_XM_419=0.328,
+	LOTS_OF_MONEY=0.001, MISSING_HEADERS=1.207, MISSING_MID=0.14,
+	RDNS_NONE=1.274, REPLYTO_WITHOUT_TO_CC=1.946, US_DOLLARS_3=2.523]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a79vo3aLXCOf for <farooq_ahmad@mslindia.net>;
+	Thu, 24 Jan 2019 19:57:39 +0530 (IST)
+Received: from vpscl.dibyhost.info (unknown [108.167.151.133])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 6887DF431CD
+	for <farooq_ahmad@jcbl.com>; Thu, 24 Jan 2019 19:57:37 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=mundoarriendo.cl; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Date:Subject:From:Reply-To:Sender:Message-ID:To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=OATZK+HABRfVyQhzN0s6KFbnNA9GT3nr1D2vguS0yOE=; b=cjoyoDmj3ZRSLCG7pQZeqJYRnR
+	zvjrtqYzyQXudj8XST5eyPGDe2lckdDWqoAGZ+aTGZoeqIiOX7qyneurpohNT0cQ/Kzo+eqGgSRiD
+	QerR7R4TELDf0Ba/MPun6O6J7HZV+lRO+OQXmG6XxN3AEto4wTRw4GwV9fiZ0JWX/UY0=;
+Received: from [197.242.101.132] (port=54366 helo=User)
+	by vpscl.dibyhost.info with esmtpa (Exim 4.91)
+	(envelope-from <noreply@citraalti.com.my>)
+	id 1gmg14-0004Y6-0H; Thu, 24 Jan 2019 11:30:02 -0300
+Reply-To: <carmodyshawnloans161@financier.com>
+From: "Carmody Shawn"<noreply@citraalti.com.my>
+Subject: Financial Lender
+Date: Thu, 24 Jan 2019 06:30:05 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: Avast (VPS 190124-0, 01/23/2019), Outbound message
+X-Antivirus-Status: Clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vpscl.dibyhost.info
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - citraalti.com.my
+X-Get-Message-Sender-Via: vpscl.dibyhost.info: authenticated_id: contacto@mundoarriendo.cl
+X-Authenticated-Sender: vpscl.dibyhost.info: contacto@mundoarriendo.cl
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+Hello Investor,
+
+
+Greetings,
+
+
+My name is Mr. Carmody Shawn, I'm a Financial Lender and i offer personal L=
+oans, Real Estate, Business Loans, Bridge Loans,Commercial loans to individ=
+uals/companies who can utilize it well and make good returns within the max=
+imum time duration of 10 years and amortized over 30 years at 5% interest r=
+ate...
+
+
+Minimum Financing: $20,000.00
+Maximum Financing:$100,000,000
+
+
+Contact me via email or call me directly on my cell (202) 871-5062. If you =
+are interested in my service...
+
+Reply to: carmodyshawnloans161@financier.com
+
+Yours Sincerely,
+Carmody Shawn
+Reply to: carmodyshawnloans161@financier.com
+(202) 871-5062
+
+(call or text Mon =96 Fri 8am =96 7pm)
+Thank you.
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+

@@ -1,0 +1,109 @@
+Return-Path: <digmarsolution@gmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aZ8mVIZy6DFj>
+X-Spam-Flag: YES
+X-Spam-Score: 15.513
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.513 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_ADSP_CUSTOM_MED=0.001,
+	DKIM_SIGNED=0.1, FREEMAIL_FROM=0.001, HTML_IMAGE_ONLY_28=0.726,
+	HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724, NML_ADSP_CUSTOM_MED=1.2,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RCVD_IN_PSBL=2.7,
+	RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274, SPF_SOFTFAIL=0.972,
+	T_DKIM_INVALID=0.01, T_TO_NO_BRKTS_FREEMAIL=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aZ8mVIZy6DFj for <jcbl@jcbl.com>;
+	Fri, 16 Nov 2018 19:10:51 +0530 (IST)
+Received: from edc2.indnelcom.club (unknown [216.117.169.39])
+	by mx10.jcbl.com (Postfix) with ESMTP id 08DA4F44233
+	for <jcbl@jcbl.com>; Fri, 16 Nov 2018 19:10:49 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=gmail.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=natalie.leadbranch@gmail.com;
+ bh=nP/rzyAgYgvg59B+J+4gP06rsX8=;
+ b=qGsIxpA/ZBvXsdPvLECJVN3PyAsVhqeM1lqYum1GSCkCLOpWQB1fcq8nAUw3y4AhrqOIJfJ5KS2s
+   ulM0zCnAJWI3cXK22TKY8FKcL8+BuQ4oYL8HXSHLSzSB+lYqnN+xysAYZwLuCjyEP4bLcYLXQWoX
+   1nmkfm0WQlpsrKnNIdQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=gmail.com;
+ b=NafLFVgSrzWemEvtT3gK92huhpiQTZ7gauWDZkkhrhSqUwcahs1hpUgWpH8yyFQyorX04H3TInBG
+   XgtxjeSdxPly9o8NkChzIc90sj/tB6Z3kmSqhJaZbk6J70EmjxG2Qzxca14/4YqtBe3RLtORJ7fd
+   EbtG25mPn9ua+IoSFkM=;
+To: jcbl@jcbl.com
+Subject: RE: Report attached
+Message-ID: <e9d3c35f51c37f1114545faeea4d0fe8@informdigin.online>
+Date: Tue, 13 Nov 2018 06:52:38 -1100
+From: "Natalie Johnson" <natalie.leadbranch@gmail.com>
+Reply-To: natalie.leadbranch@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 4
+List-Unsubscribe: <http://informdigin.online/zmail/unsubscribe.php?M=2564236&C=iuosf7pkolxlxl6xvxq75egl53a6gv12&L=4&N=41>
+X-Mailer-RecptId: 2564236
+X-Mailer-SID: 41
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_ae812c018868da6bbd738792c5a7252b"
+Content-Transfer-Encoding: 8bit
+
+--b1_ae812c018868da6bbd738792c5a7252b
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://informdigin.online/zmail/display.php?M=2564236&C=iuosf7pkolxlxl6xvxq75egl53a6gv12&S=41&L=4&N=3
+
+
+To stop receiving these
+emails:http://informdigin.online/zmail/unsubscribe.php?M=2564236&C=iuosf7pkolxlxl6xvxq75egl53a6gv12&L=4&N=41
+
+--b1_ae812c018868da6bbd738792c5a7252b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><p><span style="font-size: small; font-family:
+arial, helvetica, sans-serif;">Are you looking for email marketing to your
+target audience from our database? It includes email list rental + opens +
+clicks email lists with links</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">At $199 we will send 100,000 Emails/at $499 we will send
+500,000 emails to your target audience in your behalf and generate leads or
+set appointments or surveys or send invites</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">You can mention your target audience details to us: indistry
+:&nbsp; &nbsp; &nbsp; &nbsp; titles:&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;geography:</span><br /><br /><span style="font-size: small;
+font-family: arial, helvetica, sans-serif;">Example Industries
+:&nbsp;Healthcare, Chemical, Pharmaceutical, Biotechnology,
+Finance/Banking, Telecom, Retail, Consulting, K-12, Information Technology,
+Electronics, Food and Beverage, Construction, Engineering, Computer
+Software/Hardware, Transportation, SMB/SME, Business Services, Oil and Gas,
+Energy and Utilities, Media, Manufacturing, Automotive,
+Marketing/Advertising etc.&nbsp;</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;"><u></u></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">Example Titles:-&nbsp;Engineers, MDs,CEOs, CFOs, CTOs, COOs,
+CIOs, VP's, Presidents, Chairman's, GMs, IT Directors , IT Managers, Data
+analyst and Data administrators, HR Managers, Mid-level Managers, Sales and
+Marketing Managers, HR Managers,&nbsp; Sales &amp; Marketing Executives,
+Facility Manager, Publishers etc</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">Thanks and let me know if you wish to know more.</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">Natalie Johnson</span><br /><span style="font-size: small;
+font-family: arial, helvetica, sans-serif;">Email Campaign
+Manager</span><br /><span style="font-size: small; font-family: arial,
+helvetica, sans-serif;">+1-678-500-8387</span></p>
+<p>&nbsp;</p>
+<br /><br /><br /><a
+href="http://informdigin.online/zmail/unsubscribe.php?M=2564236&C=iuosf7pkolxlxl6xvxq75egl53a6gv12&L=4&N=41">Unsubscribe
+me from this list</a><img
+src="http://informdigin.online/zmail/open.php?M=2564236&L=4&N=41&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_ae812c018868da6bbd738792c5a7252b--
+
+

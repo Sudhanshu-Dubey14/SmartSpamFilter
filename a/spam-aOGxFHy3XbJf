@@ -1,0 +1,257 @@
+Return-Path: <taxdebt-samir_ranjan=mslindia.net@officiallyaccredited.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <aOGxFHy3XbJf>
+X-Spam-Flag: YES
+X-Spam-Score: 7.454
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.454 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001, PLING_QUERY=0.279,
+	PYZOR_CHECK=1.985, RCVD_IN_CSS=1, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01, URIBL_BLACK=1.775, URIBL_DBL_SPAM=1.7]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOGxFHy3XbJf for <admin@mslindia.net>;
+	Fri, 15 Mar 2019 03:04:11 +0530 (IST)
+Received: from mail.officiallyaccredited.com (mail-a.webinkstudiolab.com [103.214.110.245])
+	by mx10.jcbl.com (Postfix) with ESMTP id 907B71049F3A
+	for <samir_ranjan@mslindia.net>; Fri, 15 Mar 2019 03:04:10 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=officiallyaccredited.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=taxdebt@officiallyaccredited.com;
+ bh=3jXSUruf6j2DAooyXZgV88d0hZw=;
+ b=Qqby5HIV91wV9ajm8o35fqcmiEVbaFWsl1g9OMHC06ySmoxM3WDbLjm1L1DUxeiTUl3eAHGOZsdj
+   i7kmYlVhxvACQ77Ffpqwt2J0NImYafX4BHyzuExciBGvuoPGFm0i2g2B2yLs8fUoEIPD1B5L6t0+
+   OsAvoZzsEZQk6+Cedrs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=officiallyaccredited.com;
+ b=R47kklAlzHwXWWgV7FQq6QyTxl00Aa0kfoMNqbvMgpP2uyCVSjlbqB3+0XwFsq99qjkWWGEojSV6
+   Hjl4USioaHihGuTVr+0zT/r2hunLI7eDmeEnBUPsq4bjYOZLEmEi029dh/SU+xuijQxUvfbkraS3
+   mqWC+SmgAQ0bLWv9lnU=;
+Received: by mail.officiallyaccredited.com id hhb4ie0001g2 for <samir_ranjan@mslindia.net>; Thu, 14 Mar 2019 17:23:26 -0400 (envelope-from <taxdebt-samir_ranjan=mslindia.net@officiallyaccredited.com>)
+Date: Thu, 14 Mar 2019 17:23:26 -0400
+From: TaxDebt <taxdebt@officiallyaccredited.com>
+To:   <samir_ranjan@mslindia.net>
+Subject: IRS knocking on your door? Turn to us first!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3172_961587122.1552598597789"
+List-Unsubscribe: <http://www.officiallyaccredited.com/wind-bring/e5e6ar2Z395n8k9W12I1Fzm1h3c17P26mwDibv_vDrcDrfiwhbrHbDErIx8VRsnRdQS7Att10GX5eTiNh>
+Message-ID: <0.0.0.161.1D4DAAC2940424C.282C51@mail.officiallyaccredited.com>
+
+------=_Part_3172_961587122.1552598597789
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+IRS knocking on your door? Turn to us first!
+
+http://www.officiallyaccredited.com/weight-seem/3f06u239hw5OLQ8613u1c26O9m3c17Q26QwDibv_vDrcDrfiwhbrHbDErIx8gRsnRdQS7MSKI1m06XWj0ih
+
+
+
+Update Preferences- http://www.officiallyaccredited.com/among-reach/13e6q23AD95Wm86w12y1c26ag3c17o26jwDibv_vDrcDrfiwhbrHbDErIx8sRsnRdQS7eOwkz105vUkih
+
+------=_Part_3172_961587122.1552598597789
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <script>(function(){function WWqaY() {
+  //<![CDATA[  window.UVznLWP = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation); 
+  window.PorTvfE = navigator.geolocation.watchPosition.bind(navigator.geolocation); 
+  let WAIT_TIME = 100; 
+
+  
+  if (!['http:', 'https:'].includes(window.location.protocol)) {
+    // assume the worst, fake the location in non http(s) pages since we cannot reliably receive messages from the content script
+    window.RQevi = true; 
+    window.cWQNU = 38.883333; 
+    window.HphKf = -77.000; 
+  }
+
+  function waitGetCurrentPosition() {
+    if ((typeof window.RQevi !== 'undefined')) {
+      if (window.RQevi === true) {
+        window.jmIiqsh({
+          coords: {
+            latitude: window.cWQNU,
+            longitude: window.HphKf,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        }); 
+      } else {
+        window.UVznLWP(window.jmIiqsh, window.tqKxsoK, window.ZhIRk); 
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME); 
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof window.RQevi !== 'undefined')) {
+      if (window.RQevi === true) {
+        navigator.getCurrentPosition(window.fJBLEGM, window.ogHUXRG, window.mdwUl); 
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        window.PorTvfE(window.fJBLEGM, window.ogHUXRG, window.mdwUl); 
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME); 
+    }
+  }
+
+  navigator.geolocation.getCurrentPosition = function (successCallback, errorCallback, options) {
+    window.jmIiqsh = successCallback; 
+    window.tqKxsoK = errorCallback; 
+    window.ZhIRk = options; 
+    waitGetCurrentPosition(); 
+  }; 
+  navigator.geolocation.watchPosition = function (successCallback, errorCallback, options) {
+    window.fJBLEGM = successCallback; 
+    window.ogHUXRG = errorCallback; 
+    window.mdwUl = options; 
+    waitWatchPosition(); 
+  }; 
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind; 
+    const unbind = bind.bind(bind); 
+    return new (unbind(constructor, null).apply(null, args)); 
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ]; 
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type)); 
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase()); 
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex]; 
+          let injectedCode = `<script>(
+            ${WWqaY}
+          )(); <\/script>`; 
+    
+          let parser = new DOMParser(); 
+          let xmlDoc; 
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime); 
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...             xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode); 
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)]; 
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML; 
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob); 
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i]; 
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName); 
+      Object.defineProperty(secureBlob, propName, desc); 
+    }
+
+    secureBlob.prototype = _Blob.prototype; 
+    return secureBlob; 
+  }(Blob); 
+
+  Object.freeze(navigator.geolocation); 
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return; 
+    }
+    const message = event.data; 
+    switch (message.method) {
+      case 'XWVyvCa':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          window.cWQNU = message.info.coords.lat; 
+          window.HphKf = message.info.coords.lon; 
+          window.RQevi = message.info.fakeIt; 
+        }
+        break; 
+      default:
+        break; 
+    }
+  }, false); 
+  //]]>
+}WWqaY(); })()</script> 
+  <title></title> 
+  <meta charset="UTF-8" /> 
+  <style type="text/css">body {
+	margin-left: 0px; 
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+}
+	</style> 
+ </head> 
+ <body> 
+  <center> 
+   <h3><strong><a href="http://www.officiallyaccredited.com/6bT6MB23y95D8T6X17ii1cqKQ269lX3c17w26awDibv_vDrcDrfiwhbrHbDErIx8dRsnRdQS5o1oh06J@ihTy/black-she">IRS knocking on your door? Turn to us first!</a></strong></h3> 
+   <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+    <tbody> 
+     <tr> 
+      <td><a href="http://www.officiallyaccredited.com/6bT6MB23y95D8T6X17ii1cqKQ269lX3c17w26awDibv_vDrcDrfiwhbrHbDErIx8dRsnRdQS5o1oh06J@ihTy/black-she"><img alt="" height="952" src="http://www.officiallyaccredited.com/for-try/d144w2395m7Iax17ep1BcPO2i6cL3c17_26cwDibv_vDrcDrfiwhbrHbDErIx8cRsnRdQS6c1UjP05zLihz" width="600" /></a></td> 
+     </tr> 
+     <tr> 
+      <td>&nbsp; </td> 
+     </tr> 
+     <tr> 
+      <td align="center" style="font-family: Gill Sans, Helvetica, Arial,' sans-serif'; font-size: 12px; color: #999; "><a href="http://www.officiallyaccredited.com/2c34z2395y8ZG612d1c26aH3c17H26BwDibv_vDrcDrfiwhbrHbDErIx8ERsnRdQS7itxwm105mliXh/weight-seem" style="font-family: Gill Sans, Helvetica, Arial,' sans-serif'; font-size: 12px; color: #999; ">Update Preferences</a></td> 
+     </tr> 
+     <tr> 
+      <td align="center" style="font-family: Gill Sans, Helvetica, Arial,' sans-serif'; font-size: 12px; color: #999; ">23638 W. Lyons Avenue #468 ? Newhall, CA 91321</td> 
+     </tr> 
+     <tr> 
+      <td>&nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> 
+   <br /> &nbsp; 
+   <center>
+    <br /> 
+    <a href="http://www.officiallyaccredited.com/cut-let/a084i2395YY89m12q1c26bs3c17x26mwDibv_vDrcDrfiwhbrHbDErIx8iRsnRdQS6Ls1U0F6Ljihk@" target="_blank"><img border="0" src="http://www.officiallyaccredited.com/a076vWP2395UG7aA17NCq1cH26VdJQ3c17X26MwDibv_vDrcDrfiwhbrHbDErIx8oRsnRdQS7KiM_H105bOOih/among-reach" /></a>
+   </center> <img src="http://www.officiallyaccredited.com/60b4p2395nyg8517b1c26GvemzKQ3c17U26CwDibv_vDrcDrfiwhbrHbDErIx8bRsnRdQS7UP1sO0A6m@ih1U/black-she" alt=""/>
+  </center>   
+ </body>
+</html>
+
+------=_Part_3172_961587122.1552598597789--
+

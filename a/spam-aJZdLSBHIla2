@@ -1,0 +1,733 @@
+Return-Path: <airtechdelhi@yahoo.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <vipin_sharma@mslindia.net>
+X-Envelope-To-Blocked: <vipin_sharma@mslindia.net>
+X-Quarantine-ID: <aJZdLSBHIla2>
+X-Spam-Flag: YES
+X-Spam-Score: 6.817
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.817 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FORGED_MUA_MOZILLA=1.596, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	REPTO_QUOTE_YAHOO=0.49, SPF_PASS=-0.001, T_FILL_THIS_FORM_SHORT=0.01,
+	T_RP_MATCHES_RCVD=-0.01, URI_OBFU_WWW=3.099] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aJZdLSBHIla2 for <vipin_sharma@mslindia.net>;
+	Sat, 18 May 2019 15:52:48 +0530 (IST)
+Received: from sonic312-19.consmr.mail.sg3.yahoo.com (sonic312-19.consmr.mail.sg3.yahoo.com [106.10.244.209])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 7B1AFEFBFBA
+	for <vipin_sharma@mslindia.net>; Sat, 18 May 2019 15:52:36 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1558174991; bh=BTvMlhEd1XpJ/EaiA2gakjolgwL0HSGk5Zp7l+t1tzY=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject; b=C1L5EeuO35gabLIsi6CzLQyIARuZ8jDApYntsrXn4Z18KwormuzqCmpiIHyNGMR60wEMzBiHYPrCXLYKFVaBr6zWR+mzkmP33G2LAO78YqIPKCQ0QoydY7BaLKK5vIhHQTqd0iMZ/+5bIco3p6UoKmT10gXcn7VX0Zy5x4MdJtrGNT3DkB7aeiGedQsxb7jwSXHqn7ES2OE8I2fCUNkxWYVgkKuXs2SSBqFotf5J80fcYN/XKFZO+3XzohjQsjQJbh99KtFoGlH5v5DJJkugrBsg8POL7KbjwE9bJJHwjARxx5WoIZROyLhJWgKxx1W2sOBgDhMUj3q/Z3ksVNeLYQ==
+X-YMail-OSG: VePXMB0VM1nHbp5MKR9IULl8v7j0.CVQUKdRVHlF11x5x3ppbLKm8X49y8UEWzl
+ iCV.Alt.huWRBKwG5P.3qtsYTkWncx9Ywvzqa5O_otJgoZQsbuLo4nKIdw2AfWMGKO6UAKTToaTD
+ JJY7phMEvIl3AUTeryhcO9rot6XkogqC0JVmYq.fK_OS2aQ0cbmDftG2utamgSicyetP2AToJACN
+ psV6aoyXUjT7B05u1Pt2dT5ROUnioikfBF1xslMp.zAfUSLBXGovKny4a3iNmuvqJ7c3sJk78go_
+ uCS3twWN4ZCGGOgCrmLDzymJ3Kh.loF6nvThnE_yr9u7sxslj6HjkYFuyHLXSKPUJwPtLgFyU4x2
+ JUQhyN1_Xy0ufS84d1JLsI3TjvKan.BIdv9AapJoOctM3LgsxRPH6_y5Lpa7_ZRZ_0qkhLsyu9CJ
+ gEwNIOeyTmpGQTcWLmjXZFL_E3SHXn1_SZ4vg6if86gpi1w2r6l1yPwtDhk2uENS7hjgjCtD6OMA
+ oDE8kxeENBmdV_N6WXkZz0RyHdykYNW4UH.8iHmkol.dmr1SW7tqLou5ZdnhQ.ySULnvJyHmRdBW
+ uFns3.rPdIVj1st5OYz2TRKGOhx9lR5veIuyquxbTUVJamGughGxeO2oJAOUJgdJcGgLnU8YUgc1
+ MQd73zlZAE6P_wkphWVzaFJVe6fMSGk4lpmR0JE0MLCN56PrPjrDdhaJ4PQGsSt5pTkFcPTSEfPW
+ BCtxFh.YrubgXt1pCuIlnoJwFcGRFhXMyAhx_tbn_3RBWKPkx847kIoefYL0NJtoLWo7l_YLma5A
+ Ogz_MebPPmGZWyTAxJKorOD92P3htQYwN0N35Lrk5BVvxhdpyCoNISCj34UgQqrD8JNtsuaCJTB4
+ FBjNmWI7XrjlHmFLJGkjP1Rp476sB014msJO7RV9bxz.S8RthmZuFlRgL6fXysq7yGo3gOrghX5S
+ jcHvy6QscuzVUBRS1KDnXIwCBIIc1_d7tg8LC4pqWWMhfTa59HP0LbTAv_HbzONlt5GU99z_LGYG
+ Ztbx7whdfUuFXChtrhQ4YEzeQEyivsqOBXTlm.jTH6ajXLXfuPj0yxL8Iysh1aj6LIGcCW.DimVN
+ yuPoxcHEHwM0ot7jWzc2Uh4klGxHaawjf_RYJ9C5FbJTUfI7ud3rCeC1ZrRk93QHvm4gvL0KIMHS
+ KRK7P1PlzD.7Lm6nQZHm7t_y7m9zalPU3IMlsMrceOa66NLIR2ndwHf5a5PcbGCJsuN849Papwg.
+ NTliXquPruJVJgk05cOoJp0SQesctsIK98zU-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic312.consmr.mail.sg3.yahoo.com with HTTP; Sat, 18 May 2019 10:23:11 +0000
+Date: Sat, 18 May 2019 10:23:05 +0000 (UTC)
+From: "Airtech Cooling Process Pvt. Ltd" <airtechdelhi@yahoo.com>
+Reply-To: "Airtech Cooling Process Pvt. Ltd" <airtechdelhi@yahoo.com>
+To: Vipin Kumar <vipin_sharma@mslindia.net>, 
+	"aman@airtechcool.com" <aman@airtechcool.com>, 
+	"sumit@airtechcool.com" <sumit@airtechcool.com>, 
+	"info@airtechengineers.com" <info@airtechengineers.com>
+Cc: Manish Kumar <manish_kumar@mslindia.net>, 
+	"manu_pasricha@mslindia.net" <manu_pasricha@mslindia.net>, 
+	"S.K Kathuria" <sk@airtechcool.com>, 
+	Ashish Sharma <ashish@airtechcool.com>
+Message-ID: <1727918125.2253453.1558174985049@mail.yahoo.com>
+In-Reply-To: <a7b234b7-cb2e-5175-b88b-4d5a9800425f@mslindia.net>
+References: <a0b6b513-1d10-ebc2-9173-6fb2e00f56ff@mslindia.net> <45f715d8-a3d7-6e29-782a-37051d44b960@mslindia.net> <a7b234b7-cb2e-5175-b88b-4d5a9800425f@mslindia.net>
+Subject: Re: Fwd: Fwd: Fwd: FW: REVISED QUOTATION FOR CHILLER
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2253452_1811403624.1558174985042"
+X-Mailer: WebService/1.1.13634 YahooMailNeo Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+
+------=_Part_2253452_1811403624.1558174985042
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear sir,
+Please refer your mail. We would like to inform you that we will come on=C2=
+=A0 for meeting 22.05.2019.
+This is for your=C2=A0 information please
+=C2=A0Thanks & Regards.
+For=C2=A0Airtech Cooling Process Pvt. Ltd.
+Aman Nasa
+=C2=A0************************************************
+Corp.Office:-=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=20
+AIRTECH COOLING PROCESS PVT LTD=C2=A0=C2=A0=20
+145- Type A, H.S.I.D.C, Sector-31, =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=20
+Faridabad-121003=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=20
+Haryana. INDIA =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=20
+Phone. : 0129-4177211, 4177212, 4177213 =C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0=C2=A0
+Tele Fax. : 0129-4177213 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=20
+Email. : info@airtechcool.com
+Web. : www.airtechcool.com=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=20
+Customer care's=C2=A0E-mail:=C2=A0customercare@airtechcool.com, contact no.=
+ +91-9811856876Please consider the environment before printing this email.=
+=C2=A0=20
+
+    On Saturday, 18 May 2019 2:30 PM, Vipin Kumar <vipin_sharma@mslindia.ne=
+t> wrote:
+=20
+
+  REMINDER Dear Mr. Aman, Please update at the earliest.
+  Regards
+ Vipin Sharma
+ +91-8725068355
+ MAINTENANCE DEPARTMENT=20
+  MOBILITY SOLUTIONS LIMITED=20
+ On 5/17/2019 11:06 AM, Vipin Kumar wrote:
+ =20
+=20
+Dear Mr. Aman, As discussed with you,please update about our plant visit & =
+system as per our requirement. Regards
+ Vipin Sharma
+ +91-8725068355
+ MAINTENANCE DEPARTMENT=20
+  MOBILITY SOLUTIONS LIMITED
+  -------- Forwarded Message --------=20
+| Subject:  | Fwd: Fwd: FW: REVISED QUOTATION FOR CHILLER |
+| Date:  | Thu, 9 May 2019 11:35:22 +0530 |
+| From:  | Manish Kumar <manish_kumar@mslindia.net> |
+| To:  | Vipin Kumar <vipin_sharma@mslindia.net> |
+
+=20
+=20
+ Discuss
+ =20
+ =20
+  ---------- Forwarded message ---------
+ From:Aman Nasa <aman@airtechcool.com>
+ Date: Thu, 9 May, 2019, 11:29
+ Subject: FW: REVISED QUOTATION FOR CHILLER
+ To: <manish_kumar@mslindia.net>, <gmanishgin@gmail.com>
+ Cc: <sumit@airtechcool.com>
+ =20
+=20
+  =C2=A0  =C2=A0   Dear Sir, =C2=A0 =C2=A0We thank you very much to the cou=
+rtesy extended with the under-signed discussion in connection with the abov=
+e mentioned subject job. =C2=A0 During the discussion, we come to=C2=A0know=
+ that your requirement is=C2=A0=E2=80=9CAIR COOLED WATER CHILLER"=C2=A0 of =
+capacity 15TR OR 20TR FOR 15TR:- =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 BASIC PR=
+ICE=3D6,90,000.00 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 SPECIAL DISCOUNT=3D1,03,500.00 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0PRICE AFTER DISCOUNT=3D5,86,500.00 FOR 20TR:- =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0BASIC PRICE=3D7,90,000.00 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0SPECIAL DISCOUNT=
+=3D1,18,500.00 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0PRICE AFTER DISC=
+OUNT=3D6,71,500.00 Please find the enclosed herewith our revised quotation =
+for chiller. =C2=A0 We hope the same you will find suitable as per your req=
+uirement =C2=A0 =C2=A0 Thanking you and assuring you of our best and prompt=
+ services at all the times. =C2=A0 =C2=A0 Thanks & Regards. SALES ENGINEER =
+AMAN NASA 9899670630=C2=A0 =C2=A0=C2=A0 For=C2=A0Airtech Cooling Process Pv=
+t. Ltd. =C2=A0 =C2=A0
+ Corp. Office:-=C2=A0=C2=A0 AIRTECH COOLING PROCESS PVT LTD=C2=A0=C2=A0=C2=
+=A0=C2=A0145- Type A, H.S.I.D.C, Sector-31,=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0
+ Faridabad-121003,=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0
+ Haryana. INDIA=C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0
+ Phone. : 0129-4177211, 4177212, 4177213 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+ Tele Fax. : 0129-4177213 =C2=A0=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+ Email. :=C2=A0info@airtechengineers.com=C2=A0/=C2=A0airtechdelhi@yahoo.com
+ Web. :=C2=A0www.airtechcool.com=C2=A0/ www. airtechengineers.com=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+ Customer care's=C2=A0E-mail:=C2=A0customercare@airtechcool.com, contact no=
+. +91-9350290876, Please consider the environment before printing this=C2=
+=A0email.http://www.airtechcool.com  =C2=A0 =20
+=20
+  =C2=A0 =20
+=20
+  =C2=A0  =20
+=20
+
+  =20
+------=_Part_2253452_1811403624.1558174985042
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font=
+-size:13px"><div id=3D"yui_3_16_0_ym19_1_1558172507202_27721"><span>Dear si=
+r,</span></div><div id=3D"yui_3_16_0_ym19_1_1558172507202_27721"><span><br>=
+</span></div><div id=3D"yui_3_16_0_ym19_1_1558172507202_27721"><span id=3D"=
+yui_3_16_0_ym19_1_1558172507202_27858">Please refer your mail. We would lik=
+e to inform you that we will come on&nbsp; for meeting 22.05.2019.</span></=
+div><div id=3D"yui_3_16_0_ym19_1_1558172507202_27721"><br></div><div id=3D"=
+yui_3_16_0_ym19_1_1558172507202_27721">This is for your&nbsp; information p=
+lease</div><div id=3D"yui_3_16_0_ym19_1_1558172507202_27721"><br></div><div=
+></div><div id=3D"yui_3_16_0_ym19_1_1558172507202_27722">&nbsp;</div><div c=
+lass=3D"signature" id=3D"yui_3_16_0_ym19_1_1558172507202_27751"><font size=
+=3D"3" id=3D"yui_3_16_0_ym19_1_1558172507202_27825"><b id=3D"yui_3_16_0_ym1=
+9_1_1558172507202_27824"><font face=3D"garamond, new york, times, serif" id=
+=3D"yui_3_16_0_ym19_1_1558172507202_27823"><i id=3D"yui_3_16_0_ym19_1_15581=
+72507202_27822">Thanks &amp; Regards.<br>For&nbsp;Airtech Cooling Process P=
+vt. Ltd.</i></font></b></font></div><div class=3D"signature" id=3D"yui_3_16=
+_0_ym19_1_1558172507202_27751"><font face=3D"garamond, new york, times, ser=
+if" size=3D"3"><b><i><br></i></b></font></div><div class=3D"signature" id=
+=3D"yui_3_16_0_ym19_1_1558172507202_27751"><font face=3D"garamond, new york=
+, times, serif" size=3D"3"><b><i>Aman Nasa<br></i></b></font>&nbsp;********=
+****************************************<br><font id=3D"yiv6606887817yui_3_=
+16_0_ym19_1_1507805060943_76583" color=3D"#007f40"><u id=3D"yiv6606887817yu=
+i_3_16_0_ym19_1_1507805060943_76582"><i id=3D"yiv6606887817yui_3_16_0_ym19_=
+1_1507805060943_76581"><b id=3D"yiv6606887817yui_3_16_0_ym19_1_150780506094=
+3_76580">Corp.Office:-&nbsp;&nbsp;</b></i></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font id=3D"yiv6606887817yu=
+i_3_16_0_ym19_1_1507805060943_76586" size=3D"3" face=3D"garamond, new york,=
+ times, serif"><b id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76585"=
+><font id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76584" size=3D"2"=
+ color=3D"#0000ff"><br>AIRTECH COOLING PROCESS PVT LTD&nbsp;&nbsp;</font><f=
+ont id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76636" size=3D"2"> <=
+br clear=3D"none"><font id=3D"yui_3_16_0_ym19_1_1507805060943_96590" color=
+=3D"#0000ff">145- Type A, H.S.I.D.C, Sector-31, </font>&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; <br clear=3D"none"><font color=3D"#0000ff" id=3D"yui_3_16_0_ym19_1_1558=
+172507202_27821">Faridabad-121003&nbsp;</font>&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; <br clear=3D"none"><font color=3D"#0000ff">Har=
+yana. IN<font color=3D"#800000">DI</font><font color=3D"#ff7f00">A </font>&=
+nbsp;</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br clear=3D"no=
+ne"><font id=3D"yui_3_16_0_ym19_1_1507805060943_96591" color=3D"#0000ff">Ph=
+one. : 0129-4177211, 4177212, 4177213 &nbsp;</font>&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp;&nbsp;<br clear=3D"none"><font color=3D"#0000ff">Te=
+le Fax. : 0129-4177213 &nbsp;</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br clear=3D"none"><fo=
+nt id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76635" color=3D"#0080=
+ff">Email. : info@airtechcool.com</font><br clear=3D"none"><font color=3D"#=
+0000ff" id=3D"yui_3_16_0_ym19_1_1558172507202_27813">Web. : www.airtechcool=
+.com&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br clear=3D"none"><font id=3D=
+"yui_3_16_0_ym19_1_1507805060943_96592" color=3D"#ff0000">Customer care's&n=
+bsp;E-mail:&nbsp;customercare@airtechcool.com, contact no. +91-</font></fon=
+t></b></font><font id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76586=
+" size=3D"3" face=3D"garamond, new york, times, serif"><b id=3D"yiv66068878=
+17yui_3_16_0_ym19_1_1507805060943_76585"><font id=3D"yiv6606887817yui_3_16_=
+0_ym19_1_1507805060943_76636" size=3D"2"><font id=3D"yui_3_16_0_ym19_1_1507=
+805060943_96592" color=3D"#ff0000">9811856876</font></font></b></font><div =
+class=3D"yiv6606887817MsoNormal" id=3D"yiv6606887817yui_3_16_0_ym19_1_15078=
+05060943_76638"><span id=3D"yiv6606887817yui_3_16_0_ym19_1_1507805060943_76=
+637" style=3D"font-size:9.0pt;color:green;" lang=3D"EN-GB">Please consider =
+the environment before printing this</span><span style=3D"font-size:9.0pt;c=
+olor:green;" lang=3D"EN-GB"> email.</span></div>&nbsp;</div> <div class=3D"=
+qtdSeparateBR"><br><br></div><div class=3D"yahoo_quoted" style=3D"display: =
+block;"> <div style=3D"font-family: Helvetica Neue, Helvetica, Arial, Lucid=
+a Grande, sans-serif; font-size: 13px;"> <div style=3D"font-family: Helveti=
+caNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font-s=
+ize: 16px;"> <div dir=3D"ltr"><font size=3D"2" face=3D"Arial"> On Saturday,=
+ 18 May 2019 2:30 PM, Vipin Kumar &lt;vipin_sharma@mslindia.net&gt; wrote:<=
+br></font></div>  <br><br> <div class=3D"y_msg_container"><div id=3D"yiv588=
+8815356"><div>
+    <div><b><font color=3D"#ff0000" size=3D"+1">REMINDER</font></b></div>
+    <div>Dear Mr. Aman,</div>
+    <div>Please update at the earliest.<br clear=3D"none">
+    </div>
+    <div>Regards<br clear=3D"none">
+      Vipin Sharma<br clear=3D"none">
+      +91-8725068355<br clear=3D"none">
+      MAINTENANCE DEPARTMENT <br clear=3D"none">
+    </div>
+    <div><font size=3D"+1"><b>MOBILITY SOLUTIONS LIMITED</b></font></div>
+    <br clear=3D"none">
+    <div class=3D"yiv5888815356yqt2748938934" id=3D"yiv5888815356yqt47521">=
+<div class=3D"yiv5888815356moz-cite-prefix">On 5/17/2019 11:06 AM, Vipin Ku=
+mar
+      wrote:<br clear=3D"none">
+    </div>
+    <blockquote type=3D"cite">
+      </blockquote></div></div><div class=3D"yiv5888815356yqt2748938934" id=
+=3D"yiv5888815356yqt33002"><div><div>Dear Mr. Aman,</div>
+      <div>As discussed with you,please update about our plant visit &amp;
+        system as per our requirement.</div>
+      <div>Regards<br clear=3D"none">
+        Vipin Sharma<br clear=3D"none">
+        +91-8725068355<br clear=3D"none">
+        MAINTENANCE DEPARTMENT <br clear=3D"none">
+      </div>
+      <div><font size=3D"+1"><b>MOBILITY SOLUTIONS LIMITED</b></font><br cl=
+ear=3D"none">
+      </div>
+      <div class=3D"yiv5888815356moz-forward-container">-------- Forwarded =
+Message
+        --------
+        <table class=3D"yiv5888815356moz-email-headers-table" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><th align=3D"RIGHT" colspan=
+=3D"1" nowrap=3D"" rowspan=3D"1" valign=3D"BASELINE">Subject:
+              </th><td colspan=3D"1" rowspan=3D"1">Fwd: Fwd: FW: REVISED QU=
+OTATION FOR CHILLER</td></tr><tr><th align=3D"RIGHT" colspan=3D"1" nowrap=
+=3D"" rowspan=3D"1" valign=3D"BASELINE">Date:
+              </th><td colspan=3D"1" rowspan=3D"1">Thu, 9 May 2019 11:35:22=
+ +0530</td></tr><tr><th align=3D"RIGHT" colspan=3D"1" nowrap=3D"" rowspan=
+=3D"1" valign=3D"BASELINE">From:
+              </th><td colspan=3D"1" rowspan=3D"1">Manish Kumar <a rel=3D"n=
+ofollow" shape=3D"rect" class=3D"yiv5888815356moz-txt-link-rfc2396E" ymailt=
+o=3D"mailto:manish_kumar@mslindia.net" target=3D"_blank" href=3D"mailto:man=
+ish_kumar@mslindia.net">&lt;manish_kumar@mslindia.net&gt;</a></td></tr><tr>=
+<th align=3D"RIGHT" colspan=3D"1" nowrap=3D"" rowspan=3D"1" valign=3D"BASEL=
+INE">To: </th><td colspan=3D"1" rowspan=3D"1">Vipin Kumar <a rel=3D"nofollo=
+w" shape=3D"rect" class=3D"yiv5888815356moz-txt-link-rfc2396E" ymailto=3D"m=
+ailto:vipin_sharma@mslindia.net" target=3D"_blank" href=3D"mailto:vipin_sha=
+rma@mslindia.net">&lt;vipin_sharma@mslindia.net&gt;</a></td></tr></tbody></=
+table>
+        <br clear=3D"none">
+        <br clear=3D"none">
+        </div></div></div><div><div class=3D"yiv5888815356yqt2748938934" id=
+=3D"yiv5888815356yqt88822"><div>Discuss<br clear=3D"none">
+        </div></div>
+        <br clear=3D"none">
+        <div class=3D"yiv5888815356moz-forward-container"> <br clear=3D"non=
+e">
+          <div class=3D"yiv5888815356gmail_quote">
+            <div class=3D"yiv5888815356yqt2748938934" id=3D"yiv5888815356yq=
+t97144"><div class=3D"yiv5888815356gmail_attr" dir=3D"ltr">---------- Forwa=
+rded
+              message ---------<br clear=3D"none">
+              From:<strong class=3D"yiv5888815356gmail_sendername">Aman Nas=
+a</strong>
+              <span dir=3D"ltr">&lt;<a rel=3D"nofollow" shape=3D"rect" ymai=
+lto=3D"mailto:aman@airtechcool.com" target=3D"_blank" href=3D"mailto:aman@a=
+irtechcool.com">aman@airtechcool.com</a>&gt;</span><br clear=3D"none">
+              Date: Thu, 9 May, 2019, 11:29<br clear=3D"none">
+              Subject: FW: REVISED QUOTATION FOR CHILLER<br clear=3D"none">
+              To: &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:=
+manish_kumar@mslindia.net" target=3D"_blank" href=3D"mailto:manish_kumar@ms=
+lindia.net">manish_kumar@mslindia.net</a>&gt;,
+              &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:gman=
+ishgin@gmail.com" target=3D"_blank" href=3D"mailto:gmanishgin@gmail.com">gm=
+anishgin@gmail.com</a>&gt;<br clear=3D"none">
+              Cc: &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:=
+sumit@airtechcool.com" target=3D"_blank" href=3D"mailto:sumit@airtechcool.c=
+om">sumit@airtechcool.com</a>&gt;<br clear=3D"none">
+            </div>
+            <br clear=3D"none">
+            <br clear=3D"none">
+            <font face=3D"arial" size=3D"2">
+              </font><div style=3D"margin:0;padding:0;font-family:arial;fon=
+t-size:10pt;">&nbsp;</div></div>
+              <div id=3D"yiv5888815356m_-5709320070260925989SafeStyles15573=
+81248">
+                <div class=3D"yiv5888815356yqt2748938934" id=3D"yiv58888153=
+56yqt45023"><div style=3D"margin:0;padding:0;margin:0;padding:0;font-family=
+:arial;font-size:10pt;">&nbsp;</div></div>
+                <div id=3D"yiv5888815356m_-5709320070260925989SafeStyles155=
+6626394">
+                  <div class=3D"yiv5888815356yqt2748938934" id=3D"yiv588881=
+5356yqt43695"><div id=3D"yiv5888815356m_-5709320070260925989SafeStyles15553=
+29393" style=3D"margin:0px;padding:0px;color:#000000;font-family:arial;font=
+-size:small;font-style:normal;font-weight:400;letter-spacing:normal;text-in=
+dent:0px;text-transform:none;white-space:normal;word-spacing:0px;background=
+-color:#ffffff;text-decoration-color:initial;">
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">Dear
+                          Sir,</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;">&nbsp;</div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;=
+</span></span><span><span style=3D"font-size:11pt;font-family:Vrinda, serif=
+;color:#1f497d;">We thank
+                          you very much to the courtesy extended with
+                          the under-signed discussion in connection with
+                          the above mentioned subject job.</span></span></d=
+iv>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;=
+</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><span style=
+=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">During
+                          the discussion, we come to</span></span><span><sp=
+an style=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&n=
+bsp;</span></span><span><span style=3D"font-size:11pt;font-family:Vrinda, s=
+erif;color:#1f497d;">know that
+                          your requirement is</span></span><span><span styl=
+e=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;</s=
+pan></span><span><strong><span style=3D"font-size:11pt;font-family:Vrinda, =
+serif;color:#1f497d;">=E2=80=9CAIR
+                            COOLED WATER CHILLER"&nbsp; of capacity 15TR OR
+                            20TR</span></strong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">FOR
+                            15TR:-</span></strong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; BASIC PRICE=3D6,90,000.00<=
+/span></strong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;
+                            SPECIAL DISCOUNT=3D1,03,500.00</span></strong><=
+/span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PRIC=
+E AFTER
+                            DISCOUNT=3D5,86,500.00</span></strong></span></=
+div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">FOR
+                            20TR:-</span></strong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp;BASIC PRICE=3D7,90,000.00</=
+span></strong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp;
+                            &nbsp;SPECIAL DISCOUNT=3D1,18,500.00</span></st=
+rong></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 12pt;pa=
+dding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacing:no=
+rmal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0p=
+x;text-decoration-color:initial;background-color:#ffffff;font-size:12pt;fon=
+t-family:'Times                       New Roman', serif;"><span><strong><sp=
+an style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PRICE AFTER
+                            DISCOUNT=3D6,71,500.00</span></strong></span></=
+div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><strong=
+><span style=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">Pl=
+ease
+                            find the enclosed herewith our revised
+                            quotation for chiller.</span></strong></span></=
+div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">&nbsp;</span><=
+/div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">We
+                          hope the same you will find suitable as per
+                          your requirement</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;=
+</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;=
+</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Vrinda, serif;color:#1f497d;">Thanking
+                          you and assuring you of our best and prompt
+                          services at all the times.</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;=
+</span></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;</sp=
+an></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><strong><em><=
+span style=3D"font-family:Vrinda, serif;color:#4f81bd;">Thanks
+                            &amp; Regards.</span></em></strong></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><strong><em><=
+span style=3D"font-family:Vrinda, serif;color:#4f81bd;">SALES
+                            ENGINEER</span></em></strong></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><strong><em><=
+span style=3D"font-family:Vrinda, serif;color:#4f81bd;">AMAN
+                            NASA</span></em></strong></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span><span s=
+tyle=3D"font-family:Arial, sans-serif;color:#4472c4;">9899670630&nbsp;</spa=
+n></span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:11pt;font-family:Arial, sans-serif;color:#1f497d;">&nbsp;</sp=
+an><span style=3D"font-size:10pt;font-family:Arial, sans-serif;color:#4f81b=
+d;">&nbsp;</span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><strong><em><=
+span style=3D"font-family:Vrinda, serif;color:#4f81bd;">For</span></em></st=
+rong><strong><em><span style=3D"font-family:Arial, sans-serif;color:#4f81bd=
+;">&nbsp;</span></em></strong><strong><em><span style=3D"font-family:Vrinda=
+, serif;color:#4f81bd;">Airtech Cooling Process
+                            Pvt. Ltd.</span></em></strong></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:11pt;font-family:Calibri, sans-serif;color:#44546a;">&nbsp;</=
+span></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:10pt;font-family:Helvetica, sans-serif;">&nbsp;<br clear=3D"n=
+one">
+                        <strong><em><span style=3D"color:#007f40;">Corp.
+                              Office:-&nbsp;&nbsp;</span></em></strong></sp=
+an></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><strong><span=
+ style=3D"font-size:10pt;font-family:Garamond, serif;color:blue;">AIRTECH
+                          COOLING PROCESS PVT LTD&nbsp;&nbsp;</span></stron=
+g><span><strong><span style=3D"font-size:10pt;font-family:Garamond, serif;"=
+>&nbsp;</span></strong></span><strong><span style=3D"font-size:10pt;font-fa=
+mily:Garamond, serif;"><span>&nbsp;</span><span style=3D"color:blue;">145- =
+Type A, H.S.I.D.C,
+                            Sector-31,<span>&nbsp;</span></span>&nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+<span>&nbsp;</span><span>&nbsp;</span><br clear=3D"none">
+                          <span style=3D"color:blue;">Faridabad-121003,<spa=
+n>&nbsp;</span></span>&nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;<span>&nbsp;</span><span>&nbsp;</span><br clear=3D"none">
+                          <span style=3D"color:blue;">Haryana. IN</span><sp=
+an style=3D"color:maroon;">DI</span><span style=3D"color:#ff7f00;">A<span>&=
+nbsp;</span></span><span style=3D"color:blue;">&nbsp;</span><span>&nbsp;</s=
+pan>&nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&=
+nbsp;</span><span>&nbsp;</span><br clear=3D"none">
+                          <span style=3D"color:blue;">Phone. :
+                            0129-4177211, 4177212, 4177213 &nbsp;</span><sp=
+an>&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span><span>&nbsp;</span><br clear=3D"none"=
+>
+                          <span style=3D"color:blue;">Tele Fax. :
+                            0129-4177213 &nbsp;</span><span>&nbsp;</span>&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;<span>&nbsp;</span><span>&nbsp;</span><br clear=3D"none">
+                          <span style=3D"color:#0080ff;">Email. :<span>&nbs=
+p;</span><a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:info@airteche=
+ngineers.com" target=3D"_blank" href=3D"mailto:info@airtechengineers.com">i=
+nfo@airtechengineers.com</a><span>&nbsp;</span>/<span>&nbsp;</span><a rel=
+=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:airtechdelhi@yahoo.com" targ=
+et=3D"_blank" href=3D"mailto:airtechdelhi@yahoo.com">airtechdelhi@yahoo.com=
+</a></span><br clear=3D"none">
+                          <span style=3D"color:blue;">Web. :<span>&nbsp;</s=
+pan><a rel=3D"nofollow" shape=3D"rect" style=3D"color:#954f72;text-decorati=
+on:underline;outline:none;" title=3D"This external link will open in a     =
+                          new window" target=3D"_blank" href=3D"http://www.=
+airtechcool.com/">www.airtechcool.com</a><span>&nbsp;</span>/
+                            www. <a rel=3D"nofollow" shape=3D"rect" target=
+=3D"_blank" href=3D"http://airtechengineers.com/">airtechengineers.com</a>&=
+nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+<br clear=3D"none">
+                          <span style=3D"color:red;">Customer
+                            care's&nbsp;E-mail:&nbsp;<a rel=3D"nofollow" sh=
+ape=3D"rect" ymailto=3D"mailto:customercare@airtechcool.com" target=3D"_bla=
+nk" href=3D"mailto:customercare@airtechcool.com">customercare@airtechcool.c=
+om</a>,
+                            contact no. +91-9350290876,</span></span></stro=
+ng></div>
+                    <div style=3D"margin:0;padding:0;margin:0cm 0cm 0.0001p=
+t;padding:0px;color:#000000;font-style:normal;font-weight:400;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;text-decoration-color:initial;background-color:#ffffff;font-size:12pt=
+;font-family:'Times                       New Roman', serif;"><span style=
+=3D"font-size:9pt;font-family:Helvetica, sans-serif;color:green;">Please
+                        consider the environment before printing this<span>=
+&nbsp;</span>email.<a rel=3D"nofollow" shape=3D"rect" style=3D"color:#954f7=
+2;text-decoration:underline;outline:none;" title=3D"This external link will=
+ open in a new                           window" target=3D"_blank" href=3D"=
+http://www.airtechcool.com/"><span style=3D"color:#196ad4;">http</span></a>=
+</span><span style=3D"color:#0563c1;text-decoration:underline;"><span style=
+=3D"font-size:9pt;font-family:Helvetica, sans-serif;color:#196ad4;">://<a r=
+el=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"http://www.airtech=
+cool.com/">www.airtechcool.com</a></span></span></div>
+                  </div></div>
+                  <div style=3D"margin:0;padding:0;margin:0px;padding:0px;c=
+olor:#000000;font-family:arial;font-style:normal;font-weight:400;letter-spa=
+cing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spa=
+cing:0px;background-color:#ffffff;text-decoration-color:initial;font-size:1=
+0pt;">&nbsp;</div>
+                </div>
+                <div style=3D"margin:0;padding:0;margin:0;padding:0;font-fa=
+mily:arial;font-size:10pt;"><br clear=3D"none">
+                  <br clear=3D"none">
+                </div>
+                <div style=3D"margin:0;padding:0;margin:0;padding:0;font-fa=
+mily:arial;font-size:10pt;">&nbsp;</div>
+              </div>
+              <div style=3D"margin:0;padding:0;font-family:arial;font-size:=
+10pt;"><br clear=3D"none">
+                <br clear=3D"none">
+              </div>
+              <div style=3D"margin:0;padding:0;font-family:arial;font-size:=
+10pt;">&nbsp;</div>
+            </div>
+        </div>
+     =20
+   =20
+    <br clear=3D"none">
+  </div></div><br><br></div>  </div> </div>  </div></div></body></html>
+------=_Part_2253452_1811403624.1558174985042--

@@ -1,0 +1,77 @@
+Return-Path: <ms.christinarame@gmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <salestax@jcbl.com>
+X-Envelope-To-Blocked: <salestax@jcbl.com>
+X-Quarantine-ID: <aciTRChgwW-W>
+X-Spam-Flag: YES
+X-Spam-Score: 18.257
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.257 tag=2 tag2=6.31 kill=6.31
+	tests=[ADVANCE_FEE_3_NEW_MONEY=1, ADVANCE_FEE_4_NEW=1,
+	ADVANCE_FEE_4_NEW_MONEY=0.001, ADVANCE_FEE_5_NEW=1.5,
+	ADVANCE_FEE_5_NEW_MONEY=0.001, DEAR_SOMETHING=1.731,
+	DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FORGED_MUA_MOZILLA=1.596, FREEMAIL_FROM=0.001, LOTS_OF_MONEY=0.001,
+	MILLION_USD=2.477, MISSING_HEADERS=1.207, MONEY_FRAUD_3=1.172,
+	MONEY_FRAUD_5=0.5, MONEY_FRAUD_8=1, NML_ADSP_CUSTOM_MED=1.2,
+	RCVD_IN_DNSWL_NONE=-0.0001, REPLYTO_WITHOUT_TO_CC=1.946,
+	SPF_SOFTFAIL=0.972, T_TO_NO_BRKTS_FREEMAIL=0.01, URG_BIZ=0.941]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aciTRChgwW-W for <salestax@jcbl.com>;
+	Sat, 16 Mar 2019 03:29:15 +0530 (IST)
+Received: from sonic304-23.consmr.mail.ir2.yahoo.com (sonic304-23.consmr.mail.ir2.yahoo.com [77.238.179.148])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 86ABC104A084
+	for <SALESTAX@JCBL.COM>; Sat, 16 Mar 2019 03:29:14 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1552687240; bh=pioIhiK9YPstFtweuAZ8xYT5OrQg6HqQTfB6agMGGD0=; h=Date:From:Reply-To:Subject:References:From:Subject; b=b5V8tyI3NEIgDTtG9vmwiV5v6ZLIOhgkVSu4HVQOOemW3q3XRSQPkDEp3ibaXAQdDbAMQlayxXvjFm3w9nlelUd6DanmQiZ5Y89ZnnkuBidEULdZ0FxnQoVt7Cams4kSDlJw72FojyQ8PyOIN6kWerjsFvgZivwOxFeHbcjIIzjH6EXPWUAtY04OwHnXURxAH6k7kd4w7PghDD6iSSSQe9bcr83VfOtUENXpCr0HqTrsU5aSEx8plfAMXBsew/guZ8lsoTyUSONZmcIPXgGaedu/8EK8n1WB1bP7HgQor5feE4Z7J4LWaFHR7rMXE//7Em4vWPW+WjXB2eCIbwC7Kg==
+X-YMail-OSG: 6MZdc0sVM1kPeXch4s4XWh6mIFLzvhOc3EqXCxh3CQfw0tBsSxm1ncPn9esxHpa
+ MgMukQerhcbbFJrRLnDOWgsDd1dpwdawplRaJvCl_staesdDHijynNG0AkrYRs6O5NlPTlJEBzHB
+ MqQobarn.L.hrDBxf04G2tYWB9.CVgI6_EMABoG.HUkKZIfJud_ZoPWBkN_j0BukjbiyxYYJwidD
+ 3jpHv45hcXBXLebwWbhvbUZuCPdRONRDfEEVOiTSq93mT8pzjs90tY8V0aAT6fR9O8leBv8DHfyB
+ PyJ8S_CbydrW43SeU4kexpjuF3C_jjAET8xXk9dBq0pING_dxdDHAI7Qtn0IznAdhyj5W1Nx_BWw
+ dticY6tU5Z51ZVeVzToGqTfUsT_SdI6whgFSXtxRH7QrmaP6G.cZ0ANq9aaiZ3sOyRmEP1ADoXVC
+ WE.Toxldq1M0lDo79EnCTRkzf9xK0xs7D84Sourex4mVmJ6BKYuax5lhZmwsZwB3oxKFax2G.yki
+ vsQgdJk.J.wqSih7mnJ30jLOYyUEaennub50_U5Ess7Q70o6GQtA9K0poIxp13ulqlVRqjOt1S9Y
+ HdMTQUsv8nvjZQuUrpQg71Pbi12GM1TnCKeCM4.nWnlu2npxVCA4Hwsh7gmX0gFV28bsHL5wd5Fg
+ jldAHL..aOs1pU5KZ2EX96OhJqKSC8joJvXZxdjQpslRR5jeQvmqP9F.zMKFCgO_xvx0UdNOXTI1
+ KPauXM.blhHW38O.SUE5uoqacG5syfvJyhxDiZSrf0rMbSFzMpPpqNTMdDH6IGAkVKW8GA3opBEZ
+ dFK6R7LO3LIYL3ZOgnSuY_NeLNn9o83c6OMw1KmlAtqtqV2qK6ucX1Ien3gfqEF6eKCN2ISUuNfT
+ Na5TEKNPC65sWhAfCkqI5VeVyKtOhToSG_WApHqi0BJyXKcKTFFmv5WYUHz1DtCxfvEOmz51AjbM
+ usEg0Ao1uBgoytSZjmCV5a45K2i.GlxP8PcNdDydHCuMnsxZ0EVgq1qXI5VvEH2wtWQAsEUx500G
+ mhY0j.zLCExDPhxbHr7OOhOKpvE1w7x5dPcaqUKTjcKAbz.mMwarUepCXaxsbbnDI72_C
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic304.consmr.mail.ir2.yahoo.com with HTTP; Fri, 15 Mar 2019 22:00:40 +0000
+Date: Fri, 15 Mar 2019 22:00:39 +0000 (UTC)
+From: "ms.christinarame@gmail.com" <ms.christinarame@gmail.com>
+Reply-To: "ms.christinarame@gmail.com" <ms.christinarame@gmail.com>
+Message-ID: <1221735527.9509289.1552687239467@mail.yahoo.com>
+Subject: Dear Sir or Madam,
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+References: <1221735527.9509289.1552687239467.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.13212 YahooMailBasic Mozilla/5.0 (Windows NT 6.1; rv:65.0) Gecko/20100101 Firefox/65.0
+
+Dear Sir or Madam,
+
+I came across your e-mail contact prior a private search while I am in need of your assistance. My name is Mrs. Christina Ramelow, from German by
+Nationality a Wife of Late Mr. AbdulMagid Breish who was the Former Chairman & CEO - Libyan Investment Authority, before he was killed by NATO during the Libyan civil war.
+
+DUE TO THE ON GOING CRISIS IN LIBYA, I find it necessary to diversify my investments outside oversean to safe guard against the future of my only daughter. 
+
+https://www.ndtv.com/world-news/un-unveils-proposals-to-end-libya-crisis-749348
+
+I'm contacting you for your help and assistant for the investment project worth Fifteen Million United States Dollars ($15, 000, 000, 00) under your management in your country. I am willing to negotiate the investment/business profit sharing ratio with you base on the future investment earning profits.
+
+ I HAVE THE FOLLOWING INVESTMENT PLAN FOR YOUR CONSIDERATION:
+
+A) Real Estate Management
+B) Hotel Management
+C) Hospital Management
+D) Food Production
+
+Please if you have another profitable business plan which I may be interested to invest in your country, kindly reply urgently for more information on how the  investment fund  will be transferred under your custody for onward investment purpose.
+
+Your urgent reply will be appreciated.
+Best regards,
+Ms. Christina Ramelow,

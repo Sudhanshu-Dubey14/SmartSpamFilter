@@ -1,0 +1,65 @@
+Return-Path: <hairbrush@firstholidaytour.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <gagandeep_rattan@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a35lO1yp_6vy>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a35lO1yp_6vy for <gagandeep_rattan@jcbl.com>;
+	Sun, 17 Apr 2016 21:19:33 +0530 (IST)
+Received: from mta2.firstholidaytour.com (firstholidaytour.com [207.244.96.187])
+	by mx10.jcbl.com (Postfix) with SMTP id 27A49ED4F78
+	for <gagandeep_rattan@mslindia.net>; Sun, 17 Apr 2016 21:19:31 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=firstholidaytour.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=FMfKZg0TWMHq2SNPlNNIY1/dHacOS2TDu8D9dVxdM4RR8g9+xkAyxmaSWbOuCX/7N/r/gqSjYrf0iT23qULv2KbmPO3F6JhtdFZ/D5895mDytOwPsqYMkOapTU8HN3pi;
+Date: Sun, 17 Apr 2016 17:56:34 00100
+To: <gagandeep_rattan@mslindia.net>
+Message-ID: <tpdo.fgwm@firstholidaytour.com>
+From: "Simply Straight Hair Brush" <hairbrush@firstholidaytour.com>
+Subject: Ceramic Coated Straightening Brush Ships Free 
+Date: 17 Apr 2016 17:56:34 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://firstholidaytour.com/238gz1601m2">
+<html>
+<head>
+<title>Simply Straight™ — The Brush That Straightens Hair</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="320" border="0" cellpadding="5" cellspacing="0">
+<tr>
+	<td style="font:12px Arial, Helvetica, sans-serif;">
+	<p>Simply Straight™ — The Brush That Straightens Hair</p>
+	<p>Simply Straight is a ceramic hair styling brush that straightens hair in just minutes. The brush is made of a top quality ceramic coating that won't damage your hair or burn your scalp. Simply Straight works on all kinds of hair and tames unruly curls and frizz, so you can have long-lasting salon quality hair everyday. </p>
+    <p><a href="http://firstholidaytour.com/237gz1601p2">Learn More</a></p></td>
+</tr>
+  <tr>
+    <td><a href="http://firstholidaytour.com/237gz1601p2"><img src="http://firstholidaytour.com/img/v1d.jpg" alt="Simply Straight™ — The Brush That Straightens Hair" width="450" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" style="font: 11px Arial, Helvetica, sans-serif">If you would like to remove yourself from the Simply Straight™ list, <a href="http://firstholidaytour.com/236gz1601n2">click here</a>.<br />
+*This is an advertisement<br />
+<span id="OLK_SRC_BODY_SECTION2">1200 Ring Road Suite #2110 Calumet City, IL 60409</span></td>
+  </tr>
+</table>
+</body>
+</html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Change your preferences <a href="http://firstholidaytour.com/?e=gagandeep_rattan@mslindia.net">here</a>.<br>
+
+12759 NE Whitaker Way, # H718-A1 <br>
+Portland, OR 97230
+
+</font>
+</div>
+

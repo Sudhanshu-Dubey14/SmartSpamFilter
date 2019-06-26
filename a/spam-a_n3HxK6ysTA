@@ -1,0 +1,317 @@
+Return-Path: <attempt@mailzone.biz>
+Delivered-To: spam-quarantine
+X-Envelope-To: <globetoyota@globeauto.in>
+X-Envelope-To-Blocked: <globetoyota@globeauto.in>
+X-Quarantine-ID: <a_n3HxK6ysTA>
+X-Spam-Flag: YES
+X-Spam-Score: 7.453
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.453 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_FONT_LOW_CONTRAST=0.001,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284, SPF_PASS=-0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a_n3HxK6ysTA for <globetoyota@globeauto.in>;
+	Fri, 19 Oct 2018 21:26:12 +0530 (IST)
+Received: from ns1.mwscris.net (ns1.mwscris.net [79.124.76.204])
+	by mx10.jcbl.com (Postfix) with ESMTPS id BD667EEB476
+	for <globetoyota@jcbl.com>; Fri, 19 Oct 2018 21:26:10 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=mailzone.biz; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=P/w1diRZxJiBSFdlvXJXAigEK9Jsko4LR9f4yP7NBuI=; b=BxmrkiYKPPtYN2Z3a56075vBpq
+	hP85B/Uxoe34LuBx+rAQuK037Y0tT2bFezyb+LS9AH//fdHxIcboz7xL6W9MiX4zhfjEqCMinruFG
+	f4FWaWcJqVDOUAv/pS6dA8aevsF9cnRDvk/P7zPoHWGNgJpjzn/GUN1U3bPhXkQJaPRFb/hIjcvoX
+	UDmYU82umLU9PlB5mX1QS70oXyVXl5M0WIarDjtMW9dbKaCKQSkfr6LdRa8gwIhcQALXaK7lFMg2i
+	GsYNNDsR4MFCeEGwUQyhNcKBAuynDnYBEGbxXw0yiyzcAieyI+dDgfm8ZTEuG8Gu4vudKCu2leTlI
+	YB0cpriQ==;
+Received: from [217.174.149.248] (port=59050 helo=way2mail.in)
+	by ns1.mwscris.net with esmtpa (Exim 4.89)
+	(envelope-from <attempt@mailzone.biz>)
+	id 1gDVyF-0006Am-Hh
+	for globetoyota@jcbl.com; Fri, 19 Oct 2018 20:11:47 +0530
+To: globetoyota@jcbl.com
+Subject: 6 Days away from international show on Smart & Safe mobility
+Message-ID: <f1d28f7c18427bc2ea6dd654b7f53745@way2mail.in>
+Date: Fri, 19 Oct 2018 14:37:06 +0000
+From: "TrafficInfraTech Expo & Parking InfraTech Expo 2018" <mailer@virtualinfoonline.com>
+Reply-To: mailer@virtualinfoonline.com
+MIME-Version: 1.0
+X-Mailer-LID: 17791
+List-Unsubscribe: <http://way2mail.in/unsubscribe.php?M=30051779&C=bf6a5270aa284add3d53d8cba7e4ca5a&L=17791&N=17984>
+X-Mailer-RecptId: 30051779
+X-Mailer-SID: 17984
+X-Mailer-Sent-By: 182
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_3a667269378e94923a2ad54cef6b52ab"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns1.mwscris.net
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - mailzone.biz
+X-Get-Message-Sender-Via: ns1.mwscris.net: authenticated_id: info@mailzone.biz
+X-Authenticated-Sender: ns1.mwscris.net: info@mailzone.biz
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--b1_3a667269378e94923a2ad54cef6b52ab
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://way2mail.in/display.php?M=30051779&C=bf6a5270aa284add3d53d8cba7e4ca5a&S=17984&L=17791&N=5095
+
+
+To stop receiving these
+emails:http://way2mail.in/unsubscribe.php?M=30051779&C=bf6a5270aa284add3d53d8cba7e4ca5a&L=17791&N=17984
+
+--b1_3a667269378e94923a2ad54cef6b52ab
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-/W3C/DTD XHTML 1.0 Transitional/EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"
+/>
+        <title>Trafficinfratechexpo</title>
+    </head>
+
+    <body style="margin:0; background-color:#CCCCCC;">
+<div style="text-align: center;"><span style="font-size: small;
+font-family: andale mono, times;">If you are having difficulty viewing this
+email <a href="http://way2mail.in/link.php?M=30051779&N=17984&L=1405&F=H"
+target="_blank">View in Your Browser</a></span></div>
+<div></div>
+<table style="background-color: #04233f; width: 650px;" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><img
+src="http://trafficinfratechexpo.com/Mailer/2018/october/visitor/6days/images/header.jpg"
+usemap="#header" style="display: block; margin-left: auto; margin-right:
+auto; padding-bottom: 10px;" width="650" /> <map id="header" name="header">
+
+<area shape="rect" alt="" title="" coords="35,35,51,58"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1330&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="62,36,78,54"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1328&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="88,33,106,57"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1331&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="116,32,136,53"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1320&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="417,109,503,145"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1346&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="331,158,588,263"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1407&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="335,276,574,377"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1409&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="232,485,425,543"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1392&F=H"
+target="_blank" />
+ </map> <span style="font-family: Helvetica; color: #f2f2f2; font-size:
+17px; line-height: 140%; letter-spacing: 1px; text-align: center;"> To know
+more about <br /> Prashant More - M: +91 9029306123 | E: <a style="color:
+#ffffff; text-decoration: none;" href="mailto:%20prashant@virtualinfo.in"
+target="_blank"> prashant@virtualinfo.in</a> <br />Nirmal Shaha - M: +91
+8422923116 | E: <a style="color: #ffffff; text-decoration: none;"
+href="mailto:nirmal@visgroup.in"
+target="_blank">nirmal@visgroup.in</a></span><br /><br /></td>
+</tr>
+<tr>
+<td valign="top"><img
+src="http://trafficinfratechexpo.com/newsletter/2018/03oct/images/footer.jpg"
+usemap="#footer" /> <map name="footer" id="footer">
+<area shape="rect" alt="Morth" title="" coords="151,11,371,114"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1327&F=H"
+target="_blank" />
+
+<area shape="rect" alt="NITI" title="" coords="392,23,499,114"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1340&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Apsa" title="" coords="24,162,69,203"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1344&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Crridom" title="" coords="77,164,144,205"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1341&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Traffic Police Mumbai" title=""
+coords="152,154,190,205"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1333&F=H"
+target="_blank" />
+
+<area shape="rect" alt="NHBF" title="" coords="196,172,284,203"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1326&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="290,161,324,203"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1406&F=H" target=""
+/>
+
+<area shape="rect" alt="Transport Maharashtra" title=""
+coords="332,164,370,204"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1332&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Best" title="" coords="377,161,410,204"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1342&F=H"
+target="_blank" />
+
+<area shape="rect" alt="SMEV" title="" coords="418,167,487,204"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1323&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Bai Online" title="" coords="493,154,532,203"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1343&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Wiaa" title="" coords="537,159,570,204"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1337&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Rod Safety" title="" coords="576,154,621,205"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1324&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Austrade" title="" coords="18,248,288,314"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1390&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Ador" title="" coords="320,255,407,306"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1391&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Kent" title="" coords="422,255,507,307"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1399&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Rajdeep" title="" coords="536,227,633,315"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1410&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Dahua" title="" coords="24,356,91,384"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1401&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Seimens" title="" coords="98,358,154,382"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1385&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Genetec" title="" coords="161,359,224,383"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1387&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Vtrac" title="" coords="36,388,81,425"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1393&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Dennison" title="" coords="95,391,157,423"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1402&F=H"
+target="_blank" />
+
+<area shape="rect" alt="ARAPL" title="" coords="174,388,217,424"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1403&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Hikvision" title="" coords="245,338,337,423"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1400&F=H"
+target="_blank" />
+
+<area shape="rect" alt="UNV" title="" coords="355,338,424,420"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1404&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Datacorp" title="" coords="441,338,520,417"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1388&F=H"
+target="_blank" />
+
+<area shape="rect" alt="OLA" title="" coords="540,338,619,418"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1386&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Valmont" title="" coords="18,451,100,530"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1394&F=H"
+target="_blank" />
+
+<area shape="rect" alt="TomTom" title="" coords="114,454,202,530"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1322&F=H"
+target="_blank" />
+
+<area shape="rect" alt="PWC" title="" coords="214,473,257,525"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1325&F=H"
+target="_blank" />
+
+<area shape="rect" alt="TrafficInfraTech" title="" coords="265,484,337,515"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1321&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Tender Tiger" title="" coords="349,484,387,525"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1396&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Tender 247" title="" coords="394,485,447,505"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1397&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Trade4India" title="" coords="399,510,443,528"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1395&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Buildotech" title="" coords="469,468,535,484"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1389&F=H"
+target="_blank" />
+
+<area shape="rect" alt="" title="" coords="471,488,534,504"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1406&F=H" target=""
+/>
+
+<area shape="rect" alt="Safe Secure" title="" coords="472,506,534,519"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1398&F=H"
+target="_blank" />
+
+<area shape="rect" alt="Security" title="" coords="472,523,536,545"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1408&F=H"
+target="_blank" />
+
+<area shape="rect" alt="VIS" title="" coords="560,472,630,525"
+href="http://way2mail.in/link.php?M=30051779&N=17984&L=1338&F=H"
+target="_blank" />
+ </map></td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://way2mail.in/open.php?M=30051779&L=17791&N=17984&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://way2mail.in/unsubscribe.php?M=30051779&C=bf6a5270aa284add3d53d8cba7e4ca5a&L=17791&N=17984">Click
+here to unsubscribe</a></body></html>
+
+--b1_3a667269378e94923a2ad54cef6b52ab--
+
+

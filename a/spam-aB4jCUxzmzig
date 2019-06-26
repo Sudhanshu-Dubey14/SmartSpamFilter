@@ -1,0 +1,135 @@
+Return-Path: <newsletter@horayoro.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <contact@jcbl.com>
+X-Envelope-To-Blocked: <contact@jcbl.com>
+X-Quarantine-ID: <aB4jCUxzmzig>
+X-Spam-Flag: YES
+X-Spam-Score: 15.604
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.604 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, FREEMAIL_FORGED_REPLYTO=2.503,
+	FREEMAIL_REPLYTO_END_DIGIT=0.98, HTML_FONT_FACE_BAD=0.289,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, T_DKIM_INVALID=0.01, URIBL_BLACK=1.775,
+	URIBL_DBL_SPAM=1.7] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aB4jCUxzmzig for <contact@jcbl.com>;
+	Sat, 16 Mar 2019 20:02:43 +0530 (IST)
+Received: from server.horayoro.info (unknown [199.231.185.81])
+	by mx10.jcbl.com (Postfix) with ESMTPS id C42E91048618
+	for <contact@jcbl.com>; Sat, 16 Mar 2019 20:02:41 +0530 (IST)
+Received: by server.horayoro.info (Postfix, from userid 0)
+	id 0ABDDC8B80; Sat, 16 Mar 2019 20:03:13 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=horayoro.info;
+	s=default; t=1552746793;
+	bh=JTrMsOwWk9sUdK1YQLAwQDhHoR7a/itZxJBwUuTkKbY=;
+	h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:
+	 List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+	b=q2pNoERewgBiw9HR/hF24Qq8pR1QmBiHvh8KPM6SPGiQAmO49M7HnyG2ij/UWKhUk
+	 z3WN8dKadXbRbFXkWNKNbsAmON07wPEbqe/z8Etxnsfx6ojryLhy4GBORJAGbgDv6f
+	 VL3T+9OSSw+wrn0U3Z7zCwPznw5Imv/O6qQSmP3ZwkrQa0vAOAcuPxBOjWCHXhZWgk
+	 CClMVsz1oUSR4wYKaz+7lXllYXfIPte7C0R6sfiHSNrA/8yVXhdZU1GFLLQjf98pi5
+	 cGWIEdNVW3OU5ipqK211gVEn8fe10f5poQvdgCXxag7Z9SohPMDOki6ZLTz+tJt75X
+	 L0ULSW3zojElA==
+To: contact@jcbl.com
+Subject: Planner Diary / Travel Bag / Metal Keychain / Mug..(M1403)
+X-PHP-Originating-Script: 500:email.php
+Message-ID: <2e6c57dedd0d173e95771e8110090a7e@horayoro.info>
+Date: Sat, 16 Mar 2019 19:42:03 +0530
+From: "Poonam Corporation" <newsletter@horayoro.info>
+Reply-To: poonamcorporation1991@yahoo.co.in 
+MIME-Version: 1.0
+X-Mailer-LID: 77,6
+List-Unsubscribe: <http://horayoro.info/emm/unsubscribe.php?M=231630&C=d7bedff884f2b584c3b23a4a03193233&L=77&N=199>
+X-Mailer-RecptId: 231630
+X-Mailer-SID: 199
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_9ae692526adbd9193241fd889e8830e1"
+Content-Transfer-Encoding: 8bit
+
+--b1_9ae692526adbd9193241fd889e8830e1
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://horayoro.info/emm/display.php?M=231630&C=d7bedff884f2b584c3b23a4a03193233&S=199&L=77&N=10
+
+
+To stop receiving these
+emails:http://horayoro.info/emm/unsubscribe.php?M=231630&C=d7bedff884f2b584c3b23a4a03193233&L=77&N=199
+To unsubscribe please mail to newsletter@horayoro.info
+
+--b1_9ae692526adbd9193241fd889e8830e1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div dir="ltr" style="color: #222222; font-size:
+small; font-family: Arial, Helvetica, sans-serif; background-color:
+#ffffff;"><font size="4"><i>Hello,<br />Have great Day !!<br /><br
+/></i></font></div>
+<div dir="ltr" style="color: #222222; font-size: small; font-family: Arial,
+Helvetica, sans-serif; background-color: #ffffff;">
+<div dir="ltr">
+<div dir="ltr">
+<div dir="ltr">
+<div
+id="m_6934539344341000170m_6906781905378652004m_-7558258076199984649m_3527697589754209488m_108793915766097926m_-2380763191444547250m_-5340396065994303483m_-1940482042606777038m_-8950822371314289271m_-1565866130285698857m_-2829056204991351791m_4979236164799975149m_9197760500415765226m_5915222300707094963m_-6123659386747394996m_-7880484874180306945m_-4559724609913624479m_-6340822090942454347m_478650512725654507m_3683917297640612957m_4573706262068559182m_1090916364822604335m_4623380640028725137m_7594244105077791862m_-76945566139012781m_-8231090687096902980m_-6593175879672243020m_2825020399817963295m_-359938700089479888m_-5092674056163969840m_-4750988342497517263m_-8679635000025661713ydpbeeb3e66yahoo_quoted_0549359096">
+<div
+id="m_6934539344341000170m_6906781905378652004m_-7558258076199984649m_3527697589754209488m_108793915766097926m_-2380763191444547250m_-5340396065994303483m_-1940482042606777038m_-8950822371314289271m_-1565866130285698857m_-2829056204991351791m_4979236164799975149m_9197760500415765226m_5915222300707094963m_-6123659386747394996m_-7880484874180306945m_-4559724609913624479m_-6340822090942454347m_478650512725654507m_3683917297640612957m_4573706262068559182m_1090916364822604335m_4623380640028725137m_7594244105077791862m_-76945566139012781m_-8231090687096902980m_-6593175879672243020m_2825020399817963295m_-359938700089479888m_-5092674056163969840m_-4750988342497517263m_-8679635000025661713ydpbeeb3e66yiv9525020800">
+<div dir="ltr"><font size="4">Have a Look at
+our&nbsp;Product&nbsp;<strong>Planner Diary / Travel Bag / Metal Keychain /
+Mug</strong><strong>.&nbsp;</strong>The images &amp; Features are shown in
+below for your reference. We hope you will get them interest.<br
+/></font><font size="4">Reply us:&nbsp;<a
+href="mailto:poonamcorporation2014@gmail.com" target="_blank" style="color:
+#1155cc;">poonamcorporation2014@gmai<wbr></wbr>l.com</a></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a href="http://horayoro.info/emm/link.php?M=231630&N=199&L=2&F=H"><img
+title="travelling bag.jpg" alt="travelling bag.jpg" height="1169"
+width="789"
+src="http://horayoro.info/emm/admin/temp/newsletters/10/travelling%20bag.jpg"
+/><br /></a><br /><font size="4" style="color: #222222; font-family: Arial,
+Helvetica, sans-serif; font-size: large; background-color:
+#ffffff;"><i><font size="4">If you have any requirement for
+above&nbsp;product&nbsp;please feel free contact to us.</font></i>&nbsp;<a
+href="mailto:poonamcorporation2014@gmail.com" target="_blank" style="color:
+#1155cc;"><br /><br /></a></font><font size="4" style="color: #222222;
+font-family: Arial, Helvetica, sans-serif; font-size: large;
+background-color: #ffffff;"><i>
+<div><i>-Customize logo Printing Possible.</i></div>
+-Promote your Band by using your own logo on this&nbsp;product.<br />-Good
+Quality.<br />-Fully Customize&nbsp;product.&nbsp;<br />-Attractive Color
+Options.</i><br /><br /><strong><i><font color="#ff0000">M/s.Poonam
+Corporation</font></i></strong><br />Kalachowki- Mumbai-400033.<br
+/>Contact us : 022-23727590 / 9892220058<br />Email ID:<a rel="nofollow"
+href="mailto:ID%3Apoonamcorporation2014@gmail.com" target="_blank"
+style="color: #1155cc;">poonamcorporation2014@ gmail.com</a>&nbsp;/&nbsp;<a
+rel="nofollow" href="mailto:poonamcorporation1991@yahoo.co.in"
+target="_blank" style="color: #1155cc;">poonamcorporation1
+991@yahoo.co.in</a>&nbsp;<br />For New&nbsp;Product&nbsp;E-catalog
+:&nbsp;<font face="Bookman&#10;OldStyle, serif"><a rel="nofollow"
+href="http://horayoro.info/emm/link.php?M=104227&amp;N=36&amp;L=1&amp;F=H"
+target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://horayoro.info/emm/link.php?M%3D104227%26N%3D36%26L%3D1%26F%3DH&amp;source=gmail&amp;ust=1552635647419000&amp;usg=AFQjCNGdylBSQbPA9Qpn_SWqNzh_KkDRzA"
+style="color: #1155cc;">http://horagifts.in/pdf/new_
+product_cat.pdf</a></font>&nbsp;&nbsp;</font><font style="color: #222222;
+font-family: Arial, Helvetica, sans-serif; font-size: large;
+background-color: #ffffff;"><font size="4">&nbsp;<br /><br /><br /><a
+href="http://horayoro.info/emm/unsubscribe.php?M=231630&C=d7bedff884f2b584c3b23a4a03193233&L=77&N=199">Unsubscribe
+me from this list</a></font></font><br/><br>
+
+<img
+src="http://horayoro.info/emm/open.php?M=231630&L=77&N=199&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_9ae692526adbd9193241fd889e8830e1--
+

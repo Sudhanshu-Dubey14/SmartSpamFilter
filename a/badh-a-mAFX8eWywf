@@ -1,0 +1,126 @@
+Return-Path: <railtravelinsurance@irctc.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <rajinder_singh@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a-mAFX8eWywf>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a-mAFX8eWywf for <rajinder_singh@jcbl.com>;
+	Sun, 16 Sep 2018 00:04:33 +0530 (IST)
+Received: from smtp.irctc.co.in (mail39.irctc.co.in [103.116.160.49])
+	by mx10.jcbl.com (Postfix) with ESMTP id 79E3EF2A21C
+	for <rajinder_singh@jcbl.com>; Sun, 16 Sep 2018 00:04:31 +0530 (IST)
+Received: from 10.34.29.53 (unknown [10.34.20.101])
+	by smtp.irctc.co.in (Postfix) with SMTP id 7DF80C09E878
+	for <rajinder_singh@jcbl.com>; Sun, 16 Sep 2018 00:04:32 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 smtp.irctc.co.in 7DF80C09E878
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=irctc.co.in;
+	s=default; t=1537036472;
+	bh=QRi7Jvkp7pnJMxt8uWm8y/2+SwU0hhd/0qTtNyT0AL4=;
+	h=FROM:Subject:TO:From;
+	b=IWqr4S+SBrtOUEPouKf7WZraJVah4p9i+K8PLdnbL1XeEo+U9OnPDtRCsu+/YiARB
+	 ZxUWhmmWquTiPZx4M2WP5l5BEUm9SAVFc6ij/kC3X9EZFGlYrrm1yXtEvBEUyKnH/6
+	 sO1FGvDtMDDwSWfnEIdPWkgC3/xrj6qJfRD2JhkA=
+MIME-Version: 1.0
+Content-TYPE: text/html
+FROM:railtravelinsurance@irctc.co.in
+Subject: Travel Insurance for e-ticket passengers will be OPTIONAL and PAID from 01-SEP-2018 onwards.
+TO: rajinder_singh@jcbl.com
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <br>
+
+
+________________________________________
+<br><br></br>
+This is a system generated mail. Please do not reply to this email. If you
+have a query or need any clarification you may:<br></br>
+(1) Call our 24-hour Customer Care or<br></br>
+(2) Email Us care@irctc.co.in<br>
+________________________________________
+<br>
+
+<br>
+Dear User,
+ </td>
+<br><br>
+</br>
+This is to inform all IRCTC users that <b>Travel Insurance for e-ticket passengers will be optional and premium to be paid by the customer while booking their e-tickets for
+Railway Reserved tickets from 01 Sep 2018 onwards</b>.
+<br><br>
+</br>
+Users who would like to Opt for Passenger Travel Insurance will need to click a 'Yes' option provided for Travel Insurance in Passenger Reservation Form. All passengers with
+age of 5 years and above will be eligible for Travel Insurance.
+<br><br>
+</br>
+Please note:<br><br>
+<li>	Travel Insurance scheme is applicable only for Indian citizens. Citizen of foreign countries are not eligible for this scheme.</li></br><br>
+<li>	Travel Insurance amount paid at the time of booking is not refundable in any case, whatever may be the reason.</li></br><br>
+</br>
+Warm Regards<br>
+IRCTC
+<br /><br>
+
+                                                            -------------------------
+
+                                                                       DISCLAIMER
+
+                                                          -------------------------
+												</br><br>
+
+The information contained in this electronic message (including any
+accompanying documents) is solely intended for the information of the
+addressee(s) and is proprietary, confidential or privileged information.
+This information should not be reproduced or redistributed or passed on
+directly or indirectly in any form to any other person. If you are not the
+named addressee, you are hereby notified that any disclosure, copying,
+distribution or taking any action in reliance on the contents of this e-mail
+or any accompanying document is strictly prohibited and is unlawful. Kindly
+notify the sender or email to admin@irctc.co.in <mailto:admin@irctc.co.in>
+immediately and destroy all copies of this e-mail and any attachments there
+to. Any views or opinions expressed in this email are solely those of the
+sender and may be modified or altered and may not necessarily reflect the
+views or policies of IRCTC Ltd. as an organization. IRCTC or its
+directors/employees shall not be liable for any damage whether
+direct/indirect, special or consequential, including loss of revenue or
+profit that may rise from or in connection with use of the information based
+on this mail.</br><br>
+
+                                                -------------------------
+
+                                                      WARNING
+
+                                                -------------------------
+
+</br><br>This e-mail does not tantamount to spamming. IRCTC accepts no liability for
+any damage caused by any malware transmitted by this email. The recipient
+should check this email and any attachments for the presence of viruses and
+other malwares. Sender is not responsible for any damage caused by any virus
+or alteration of this email by a third-party or otherwise.
+
+
+
+</TABLE>
+
+
+</BODY>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

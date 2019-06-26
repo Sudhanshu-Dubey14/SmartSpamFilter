@@ -1,0 +1,123 @@
+Return-Path: <bounce.8261.25470136.25381538@tr31.pigeontrp.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <anir_ban@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aiw_AOfFaYKX>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.099
+X-Spam-Level: **
+X-Spam-Status: No, score=2.099 tag=2 tag2=6.31 kill=6.31
+	tests=[DOS_RCVD_IP_TWICE_B=0.001, FORGED_RELAY_MUA_TO_MX=0.001,
+	HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001, MISSING_DATE=1.396,
+	T_DKIM_INVALID=0.01, T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aiw_AOfFaYKX for <anir_ban@mslindia.net>;
+	Thu, 28 Feb 2019 11:07:18 +0530 (IST)
+Received: from tr31.pigeontrp.com (tr31.pigeontrp.com [43.241.69.80])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 2AD1510490A6
+	for <anir_ban@mslindia.net>; Thu, 28 Feb 2019 11:06:17 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1551332083;
+	s=pgmins2018; d=news.pgtkdom.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=3633; bh=udyLC9QdLnMmXnn/v6oc7tmeVCVKBt9pUAJg+cKrxvA=;
+	b=5laNy0+z0Nq9eAVRQFIZfLePNPBEDrwB/u7+Zti63NK2jTgF7BVQyiMq+X//vtKa
+	HnZE5+LUCXStUFDn/EBkNj16fmi/IMKJYDfVDlqptHmUUXWtjU4vc+kpxFurfXMtYhd
+	JkIgswsl2LdoAU7oJCWN9FGtZzZ/v2Xw06FHvvSUzmkvoFc3/fVPIlCndgenKp1V7/Q
+	EM7U73guvQ3P2QZE5b1WC1BcTrh/zC35QoetWv7cP5oPpfQfcxzvlqP1/GJAz5EXtEQ
+	9pI2KoQWJtR0uS/HVqLkuEwp4EJgPl6PPRAjycrDQHND+N06WVstm0RmxsXQMmSYusp
+	9A0DwapCIg==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1551332083;
+	s=pgmins2018; d=pigeontrp.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=3633; bh=udyLC9QdLnMmXnn/v6oc7tmeVCVKBt9pUAJg+cKrxvA=;
+	b=NSs48X+4ykV9pG2NI9andXC35ZMUBu5XIm6s7KvnA4/147z4oYYsqnSbdH14J4v+
+	S6f3mtarTiAtx8h+zUxsrn5Y2nVhiEtHYC6DDI0+Wbz65YSgTUTz3zpxrVXD5imyHkm
+	zW651MjH/WGtUVFzwhhgt5XpIa/I5X9P7FvDKQthUoEtgtnQ3XELwZu1rqyt3+FxkBu
+	z+BGNWTbv1uPFYPAk9YUhN2eml1nK/TT5fnUOXEwbcEbjrni5tsLenrSYwV+1Fu+Smz
+	fjEYOGm1P2vx6C8xPPC9YpLyAIWPSUguEa3ZdcFWg4ofB4n1gKqfOfKxAer0O8Yk2pR
+	Vh8bEDuq3w==
+From: Newsletter <info@news.pgtkdom.com>
+Reply-To: info@news.pgtkdom.com
+To: anir_ban@mslindia.net
+Message-ID: <25503576.190228110443243@tr31.pigeontrp.com>
+Subject: Atomic Energy Department building check dam in TN
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_92644_512851175.1551332083691"
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://jiufb.pigeontk.in/email/email/unsubscribe/25503576>
+Feedback-ID: 8261:2689:inspfx
+X-Originating-IP: 43.241.69.80
+
+------=_Part_92644_512851175.1551332083691
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Atomic Energy Department building check dam in TN The Department of Atomic =
+Energy (DAE) on Monday said the Rs.32.5 crore, 1.19 km long check dam it is=
+ building across the Palar river in Tamil Nadu's Kancheepuram district will=
+ be ready by March 2020. In a statement issued here, the DAE said the 'Bhoo=
+mi Pooja' or the ground-breaking ceremony was performed on Monday for the p=
+roject that provides an additional storage capacity of 1,500 million cubic =
+metres with two fillings. About 330 hectares of agricultural land would ben=
+efit through this scheme, it said. The check dam will have above-surface st=
+ructure of 1.5 metre height to store more water and also recharge the water=
+ table, while the sub-surface dyke/wall will be built to a depth of eight m=
+etres to prevent sea water intrusion and enhance the groundwater recharge i=
+n the aquifer. This innovative design was necessary as the conventional che=
+ck dam design would not serve the purpose due to its proximity to the sea a=
+nd backwaters, the DAE said. On completion of this check dam by March 2020,=
+ the water stored and recharged would be used for domestic and agricultural=
+ purposes in the surrounding areas. Tamil Nadu Ministers C. Ve. Shanmugam a=
+nd P.Benjamin and officials of Indira Gandhi Centre for Atomic Research and=
+ Madras Atomic Power Station were present at the ground-breaking ceremony.
+
+
+------=_Part_92644_512851175.1551332083691
+Content-Type: text/html; charset=UTF-8 
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p><strong>Atomic Energy Department building check dam in TN</strong></p>
+
+<p>The Department of Atomic Energy (DAE) on Monday said the Rs.32.5 crore, =
+1.19 km long check dam it is building across the Palar river in Tamil Nadu&=
+#39;s Kancheepuram district will be ready by March 2020.</p>
+
+<p>In a statement issued here, the DAE said the &#39;Bhoomi Pooja&#39; or t=
+he ground-breaking ceremony was performed on Monday for the project that pr=
+ovides an additional storage capacity of 1,500 million cubic metres with tw=
+o fillings.</p>
+
+<p>About 330 hectares of agricultural land would benefit through this schem=
+e, it said.</p>
+
+<p>The check dam will have above-surface structure of 1.5 metre height to s=
+tore more water and also recharge the water table, while the sub-surface dy=
+ke/wall will be built to a depth of eight metres to prevent sea water intru=
+sion and enhance the groundwater recharge in the aquifer.</p>
+
+<p>This innovative design was necessary as the conventional check dam desig=
+n would not serve the purpose due to its proximity to the sea and backwater=
+s, the DAE said.</p>
+
+<p>On completion of this check dam by March 2020, the water stored and rech=
+arged would be used for domestic and agricultural purposes in the surroundi=
+ng areas.</p>
+
+<p>Tamil Nadu Ministers C. Ve. Shanmugam and P.Benjamin and officials of In=
+dira Gandhi Centre for Atomic Research and Madras Atomic Power Station were=
+ present at the ground-breaking ceremony.</p>
+
+</body>
+</html>
+<div style=3D'width:100%;float:left;text-align: center;'><p style=3D'font-s=
+ize: 11px;' >To stop receiving these emails please <a href=3D'http://jiufb.=
+pigeontk.in/email/email/unsubscribe/25503576' >Unsubscribe</a> here.</p></d=
+iv><img alt=3D'insign' src=3D'http://jiufb.pigeontk.in/email/email/openEmai=
+l/8261/25503576' width=3D'1' height=3D'1' style=3D'display:none'/>
+------=_Part_92644_512851175.1551332083691--
+

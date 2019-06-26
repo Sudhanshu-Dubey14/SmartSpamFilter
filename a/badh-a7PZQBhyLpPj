@@ -1,0 +1,76 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <hr_amb@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a7PZQBhyLpPj>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a7PZQBhyLpPj for <hr_amb@globeauto.in>;
+	Tue, 14 May 2019 12:45:44 +0530 (IST)
+Received: from smtp5-outgoing.mail.rjil.net (smtp4-outgoing.mail.rjil.net [49.40.14.57])
+	by mx10.jcbl.com (Postfix) with SMTP id 7ABA4EFB9EE
+	for <HR_AMB@GLOBEAUTO.IN>; Tue, 14 May 2019 12:45:44 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp5-outgoing.mail.rjil.net (Postfix) with ESMTP id 76DCE66004D
+	for <HR_AMB@GLOBEAUTO.IN>; Tue, 14 May 2019 12:46:03 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id 7531E70
+	for <HR_AMB@GLOBEAUTO.IN>; Tue, 14 May 2019 12:46:03 +0530 (IST)
+From: Jio Notifications <Notification@Jio.com>
+To: HR_AMB@GLOBEAUTO.IN
+Message-ID: <1192479569.40009123.1557818163481.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Jio Recharge Initiation
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_40009120_1960650054.1557818163472"
+Bounce_Header: 144148844983353344
+format: flowed
+
+------=_Part_40009120_1960650054.1557818163472
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Dear Customer,</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">We have received recharge request for your Jio connection.</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Transaction ID :&nbsp;</font>EB0000003KQI
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Please keep this transaction ID&nbsp;</font>
+   <font face="tahoma, arial, verdana, sans-serif">for future reference. Once the recharge is successful, you will receive a confirmation message.&nbsp;</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">To check recharge status, click https://www.jio.com/recharge_history or dial 1991 from your Jio number.</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Thank You,</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Team Jio</font>
+  </div>
+ </body>
+</html>
+------=_Part_40009120_1960650054.1557818163472--

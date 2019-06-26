@@ -1,0 +1,166 @@
+Return-Path: <admin@hrsolution.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <a-pAQ3AmT0iV>
+X-Spam-Flag: YES
+X-Spam-Score: 8.51
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.51 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_12_24=0.804, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a-pAQ3AmT0iV for <admin@mslindia.net>;
+	Fri, 18 Jan 2019 09:04:45 +0530 (IST)
+Received: from cloud20221.hrmsinfo.in (unknown [69.10.58.84])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 87948F43538
+	for <g_santhanam@mslindia.net>; Fri, 18 Jan 2019 09:04:43 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=hrsolution.in; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=FFLF56CNpu3eR6fptGV116eeV+djGkYTe5BUTlLeU8c=; b=s9+1EJifRqavV2AL9iSVI9PIAV
+	P7i/WN9W5XLE3/bD/PtCiXE9VzCCDvbwIcS3cb7suKpfrmwBuCiTJpoHGlvTzEyCE2f2Vz7gIQkOc
+	27H6p8UEq3ES2xaI8y8teKjTYNVACnPKrQLptBL+5GNHe3bZTNI3PkBKI8OdGuRzKslG5svlSgfnM
+	pTLiXsoA1txmPzlhRxjYIeMkW56j6CSxPskmzI0t///Kg4nUj5odUYlijNsfyd8itVsf2LzD3j6pM
+	nZ5utftlDZL1B7BnvwW0YOK8rziSy+w5lGgZknGL/iwkgn0g6MLg+zkqrC3RRWnCJ7GG4ggaAS15V
+	QNRTB2Tw==;
+Received: from hrsolution by cloud20221.hrmsinfo.in with local (Exim 4.91)
+	(envelope-from <admin@hrsolution.in>)
+	id 1gkKxf-0001t2-9R
+	for g_santhanam@mslindia.net; Thu, 17 Jan 2019 22:36:51 -0500
+To: g_santhanam@mslindia.net
+Subject: =?UTF-8?B?U25ha2UgQXdheSBSZXBlbGxlbnQgU2VydmljZXMg4oCTIEZpcnN0IFRpbWUgaW4gSW5kaWEsIHVzZWZ1bCBmb3IgRkFDVE9SSUVT?=
+X-PHP-Originating-Script: 1001:email.php
+Message-ID: <36416516776342f9ad13b06b06a56fa0@hrsolution.in>
+Date: Thu, 17 Jan 2019 05:40:25 +0000
+From: "Snake Away for Factory" <admin@hrsolution.in>
+Reply-To: alwynfm@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 9,10,12,13,14,16,17
+List-Unsubscribe: <http://hrsolution.in/unsubscribe.php?M=683101&C=28bda873f38aba4b7bfa76fa99bf3056&L=16&N=18>
+X-Mailer-RecptId: 683101
+X-Mailer-SID: 18
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_2812341d59aba9f0678dcc36d318e3d9"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cloud20221.hrmsinfo.in
+X-AntiAbuse: Original Domain - mslindia.net
+X-AntiAbuse: Originator/Caller UID/GID - [1001 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - hrsolution.in
+X-Get-Message-Sender-Via: cloud20221.hrmsinfo.in: authenticated_id: hrsolution/from_h
+X-Authenticated-Sender: cloud20221.hrmsinfo.in: admin@hrsolution.in
+X-Source: 
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php -f /home/hrsolution/public_html/admin/cron/cron.php 
+X-Source-Dir: /home/hrsolution
+
+--b1_2812341d59aba9f0678dcc36d318e3d9
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://hrsolution.in/display.php?M=683101&C=28bda873f38aba4b7bfa76fa99bf3056&S=18&L=16&N=18
+
+
+To stop receiving these
+emails:http://hrsolution.in/unsubscribe.php?M=683101&C=28bda873f38aba4b7bfa76fa99bf3056&L=16&N=18
+
+--b1_2812341d59aba9f0678dcc36d318e3d9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<p align="center"><span style="font-family: verdana, geneva; font-size:
+small;"><b><a
+href="http://hrsolution.in/link.php?M=683101&N=18&L=3&F=H">SNAKE-AWAY
+REPELLANT SERVICES</a> </b></span></p>
+<p align="center"><span style="font-family: verdana, geneva; font-size:
+small;"><b><br /> (FIRST TIME IN INDIA)</b></span></p>
+<p><span style="font-family: verdana, geneva; font-size: small;">Respected
+Sir / Madam, </span><br /> <br /><span style="font-family: verdana, geneva;
+font-size: small;"> We wish to introduce ourselves as service providers for
+"SNAKE-AWAY REPELLANT SERVICES" for factories, Construction sites, Housing
+societies, Farm houses etc. We are having our corporate office at Mira road
+(Mumbai).&nbsp;</span></p>
+<p>&nbsp;</p>
+<p align="center"><span style="font-family: verdana, geneva; font-size:
+small;"><b>THE PROVEN SOLUTION TO REPEL SNAKES</b></span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva; font-size:
+small;"><b>SNAKE-AWAY (SNAKE REPELLENT)</b> is the only product available
+on the market that has been shown to effectively repel snakes.
+<b>SNAKE-AWAY</b> is sold and used worldwide.&nbsp; It was even used by
+soldiers in the Desert Storm to repel the sand vipers and other snakes
+which were a problem in Saudi Arabia. The product has been used for more
+than seven years by Parks, Schools, Homes, Playgrounds, Complexes and
+hundreds of other areas to repel snakes.&nbsp; It is a tried and proven
+product.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p align="center"><span style="font-family: verdana, geneva; font-size:
+small;"><b>HOW IT WORKS</b></span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva; font-size: small;">We make 6
+inches broad track line at the compound, which does not allow the snakes to
+come in your premises. The Jacobson's organ in snakes senses its
+environment.&nbsp; The snake flicks out its tongue and picks up the scent
+of vapor molecules.&nbsp; When the snake pulls, the vapor molecules are
+transferred to the odor-sensitive Jacobson's organ. This makes snakes to
+repel. <b>It does not harm the snakes</b><b> </b><b>or any animals</b><b>
+</b><b>and pest</b>.</span></p>
+<p>&nbsp;</p>
+<ul>
+<li><span style="font-family: verdana, geneva; font-size: small;">It
+contains dry granular mixture that is easily applied.</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">Last up
+to 4 to 6 months.</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">Can be
+used to clear all types snakes from areas.</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">Safe to
+humans, pets and the environment</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">Proven
+effective against rattlesnakes and other reptiles. (Imported
+Product).</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">We give
+services anywhere in India</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">For
+inquiry call on 9967979787 or reply this email.&nbsp;</span></li>
+<li><span style="font-family: verdana, geneva; font-size: small;">Kindly
+forward this email to your friends and relatives.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva; font-size: small;">Thanking
+you</span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva; font-size: small;">Yours
+truly</span></p>
+<p><span style="font-family: verdana, geneva; font-size: small;">For
+<b>COBWEBS</b></span></p>
+<p>&nbsp;</p>
+<p><br /><span style="font-family: verdana, geneva; font-size: small;">
+ALWYN MONTEIRO</span><br /> <br /><span style="font-family: verdana,
+geneva; font-size: small;"> <b><u>CONTACT DETAILS</u></b></span><br /> <br
+/><span style="font-family: verdana, geneva; font-size: small;">
+<b>COBWEBS</b><b> </b></span></p>
+<p><span style="font-family: verdana, geneva; font-size: small;">131, 1ST
+FLOOR, RASSAZ MALL, MIRA ROAD EAST, THANE - 401107</span></p>
+<p><span style="font-family: verdana, geneva; font-size: small;">LANDLINE
+&ndash; 9167979787. EMAIL &ndash; <a
+href="mailto:alwynfm@gmail.com">alwynfm@gmail.com</a></span></p>
+<p>&nbsp;</p>
+<img src="http://hrsolution.in/open.php?M=683101&L=16&N=18&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_2812341d59aba9f0678dcc36d318e3d9--
+

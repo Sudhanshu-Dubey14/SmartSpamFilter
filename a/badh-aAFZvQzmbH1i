@@ -1,0 +1,49 @@
+Return-Path: <timeshare@competitivehorse.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <manu_pasricha@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aAFZvQzmbH1i>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aAFZvQzmbH1i for <manu_pasricha@mslindia.net>;
+	Fri, 11 Mar 2016 04:19:45 +0530 (IST)
+Received: from mta1.competitivehorse.com (unknown [207.244.96.199])
+	by mx10.jcbl.com (Postfix) with SMTP id 1C28EECE2E0
+	for <monika_pal@mslindia.net>; Fri, 11 Mar 2016 04:19:43 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=competitivehorse.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=V1FdVTj0lWx5AImFwK0juV/oxtu1yB14MJQJDXzxcqOkZGlnqUlh8//5M6Dz+0yccGSTtRxBFOk6+kvlvRMe2obJJbUtjsfWBPmrCQ2sxZt7YBas785/AdwdA03Jti6V;
+Date: Thu, 10 Mar 2016 23:54:29 00100
+To: <monika_pal@mslindia.net>
+Message-ID: <qaul.rvmby@competitivehorse.com>
+From: "The Timeshare Professionals" <timeshare@competitivehorse.com>
+Subject: Want to sell your timeshare fast?
+Date: 10 Mar 2016 23:54:29 +0100
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<h1>The Timeshare Professionals</h1>
+<br>
+<p>Trusted Services to Sell or Rent your Timeshare</p>
+<br>
+<a href="http://competitivehorse.com/97mz91535u2">Learn More</a><br>
+<br>
+<a href="http://competitivehorse.com/97mz91535u2"><img src="http://competitivehorse.com/img/ts1.jpg" width="650" height="450" border="0" alt="Gift Card Center"></a><br>
+<a href="http://competitivehorse.com/98mz91535g2"><img src="http://competitivehorse.com/img/ts2.GIF" width="527" height="96" border="0"></a><br>
+<p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+Change your subscription <br>
+<a href="http://competitivehorse.com/?e=monika_pal@mslindia.net">here</a>.<br>
+
+12759 NE Whitaker Way, # H718, Portland, OR 97230
+
+</font>
+</div>
+

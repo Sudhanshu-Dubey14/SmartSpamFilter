@@ -1,0 +1,281 @@
+Return-Path: <mail-noreply@aidwix.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sandip_c@jcbl.com>
+X-Envelope-To-Blocked: <sandip_c@jcbl.com>
+X-Quarantine-ID: <aw6CO8pE4D2W>
+X-Spam-Flag: YES
+X-Spam-Score: 11.434
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.434 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FORGED_REPLYTO=2.503, HTML_IMAGE_RATIO_08=0.001,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274, SPF_PASS=-0.001,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aw6CO8pE4D2W for <sandip_c@jcbl.com>;
+	Wed,  9 Jan 2019 20:18:39 +0530 (IST)
+Received: from nori.promoinboxkro.com (unknown [162.144.207.37])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 57766F4418C
+	for <sandip_c@jcbl.com>; Wed,  9 Jan 2019 20:18:37 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=aidwix.com;
+	 s=default; h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:
+	MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=20cNIUncJjnIe9mft1C987nVmYhV9T2QyHOKMU3mEhg=; b=mhVc4SJIpWHKA/tgP82VDJZelR
+	eCAPcns5NJ1JOXb7eeHyJFjhuf2hgV8u4q2VM/B2bEO6+pnslIbBXT+4qLkmK9bK4OYngqTQyh85d
+	5jHahTq/nJ7hvedXpBj9vGR3sog/BBnk28gAKEJr+/wNJps70dnRCJT0bWE1vmXGwgbczIBkV2KbH
+	mxe0HBOEfPoY/guw+sIZo2O7r+ZLrj+dTRIyonKjDXyX0i+56dq9yQhkiPDiT1RoDbbnPAAbBNE+v
+	GXj3JufWQ6lh2zRJZdiwwT2IJm0uQcjuI+wS4gAfHUuvo3a2IsX+FYqYZmbGrIYkJJhYUu61crwYH
+	xShnL1UA==;
+Received: from aidwix by nori.promoinboxkro.com with local (Exim 4.91)
+	(envelope-from <mail-noreply@aidwix.com>)
+	id 1ghFBJ-0003zr-GS
+	for sandip_c@jcbl.com; Wed, 09 Jan 2019 14:50:09 +0000
+To: sandip_c@jcbl.com
+Subject: PROMOTE Your Small Businesses With Email Marketing Made Easy
+X-PHP-Originating-Script: 502:email.php
+Message-ID: <c0ee0cdfb85bf16ada0048184b3b4641@app.aidwix.com>
+Date: Wed, 09 Jan 2019 13:50:28 +0000
+From: "AidWix Business Pvt Ltd" <info@aidwix.com>
+Reply-To: mail2radha@yandex.com
+MIME-Version: 1.0
+X-Mailer-LID: 66,80,77,78,79
+List-Unsubscribe: <http://app.aidwix.com/unsubscribe.php?M=1724703&C=91d8a1e45a279df9a69c8dcb7aa38a95&L=66&N=407>
+X-Mailer-SID: 407
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_5c49dd7073eb41a7b004d3ca672e607b"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - nori.promoinboxkro.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [502 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - aidwix.com
+X-Get-Message-Sender-Via: nori.promoinboxkro.com: authenticated_id: aidwix/from_h
+X-Authenticated-Sender: nori.promoinboxkro.com: info@aidwix.com
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi -f /home/aidwix/public_html/app/admin/cron/cron.php 
+X-Source-Dir: aidwix.com:/public_html/app/admin/cron
+
+--b1_5c49dd7073eb41a7b004d3ca672e607b
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://app.aidwix.com/display.php?M=1724703&C=91d8a1e45a279df9a69c8dcb7aa38a95&S=407&L=66&N=2
+
+
+To stop receiving these
+emails:http://app.aidwix.com/unsubscribe.php?M=1724703&C=91d8a1e45a279df9a69c8dcb7aa38a95&L=66&N=407
+
+--b1_5c49dd7073eb41a7b004d3ca672e607b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>AidWix</title>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0"
+cellspacing="0" style="padding: 0px; color: #999999; font-size: 10px;
+line-height: 1.5em; border: 1px solid #ffffff; width: 480px;">
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0"
+cellspacing="0" style="padding: 0px; color: #999999; font-size: 10px;
+line-height: 1.5em; border: 1px solid #ffffff; width: 480px;">
+</table>
+<title></title>
+<table align="center" cellpadding="0" cellspacing="0" style="width:
+598px;">
+<tbody>
+<tr>
+<td align="center" valign="top" style="border-left:solid 1px #a5a5a5;
+border-right:solid 1px #a5a5a5;border-top:solid 1px #a5a5a5;">
+<p>For More Details <a target="_blank"
+href="http://app.aidwix.com/link.php?M=1724703&N=407&L=2&F=H">CLICK
+HERE</a> or Call : +91 98218 08293 | <a
+href="http://app.aidwix.com/unsubscribe.php?M=1724703&C=91d8a1e45a279df9a69c8dcb7aa38a95&L=66&N=407">Unsubscribe</a></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+style="width: 598px;">
+<tbody>
+<tr>
+<td align="left" valign="top" style="line-height:0px;"><br /><a
+target="_blank"
+href="http://app.aidwix.com/link.php?M=1724703&N=407&L=2&F=H"><img
+height="221" width="598" title="banner.jpg" alt="banner.jpg"
+src="http://app.aidwix.com/admin/temp/newsletters/2/banner.jpg"
+/></a></td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding:18px 0px 8px 35px;"><font
+style="font-family:Arial;font-size:20px;font-weight:bold;color:#005c84;">PROMOTE
+Your Business With Powerful Email Marketing</font></td>
+</tr>
+<tr>
+<td align="justify" valign="top" style="padding: 5px 18px 0px 35px; margin:
+0px !important; width: 509px; line-height: 18px;"><font
+style="font-family:Arial;font-size:13px;color:#005c84;"> Want to create
+professional email newsletters that deliver real results? Send
+Great-Looking Emails - Connect with more Customers. Connecting with
+customers starts with the industry's best email editor. Create and share
+professional-looking emails in minutes.</font></td>
+</tr>
+<tr>
+<td align="justify" valign="top" style="padding: 15px 18px 0px 35px;
+margin: 0px !important; width: 509px; line-height: 18px;"><font
+style="font-family:Arial;font-size:13px;color:#005c84;">See how MAILS EYE
+makes it easy to create, share, and track emails�and better engage your
+customers. Track your success with real-time reporting and analytics - who
+is opening, reading, sharing, and clicking your email�when, where, and on
+which device.</font></td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding:18px 0px 18px 35px;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#005c84;">Explore
+What Makes Best Email Packages &amp; Pricing For You!:*</font></td>
+</tr>
+<tr>
+<td align="left" style="padding-left:34px;">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+style="width: 501px;">
+<tbody>
+<tr>
+<td align="center" bgcolor="#33ab52" height="45" valign="top" width="104"
+style="border:1px solid #33ab52;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#FFFFFF;line-height:20px;">Email
+<br /> <span style="font-size:22px;">S</span>TARTER</font></td>
+<td align="center" height="18" valign="middle" width="397"
+style="border:1px solid #33ab52;padding-left:10px;"><font
+style="font-family:'Comic Sans MS',
+cursive;font-size:19px;font-weight:normal;color:#005c84;"> 5 Lac Email
+Subscribers @ Rs.2,499</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="left" style="padding-left:34px;">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+style="width: 501px;">
+<tbody>
+<tr>
+<td align="center" bgcolor="#005c84" height="45" valign="middle"
+width="104" style="border:1px solid #005c84;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#FFFFFF;line-height:20px;">Email<br
+/> BUSINESS</font></td>
+<td align="center" height="18" valign="middle" width="397"
+style="border:1px solid #33ab52;padding-left:10px;"><font
+style="font-family:'Comic Sans MS',
+cursive;font-size:19px;font-weight:normal;color:#33ab52;"> 10 Lac Email
+Subscribers @ Rs.3,999</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="left" style="padding-left:34px;">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+style="width: 501px;">
+<tbody>
+<tr>
+<td align="center" bgcolor="#33ab52" height="45" valign="top" width="104"
+style="border:1px solid #33ab52;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#FFFFFF;line-height:20px;"><span
+style="font-size:22px;"></span>Email <br />ENTERPRISE</font></td>
+<td align="center" height="18" valign="middle" width="397"
+style="border:1px solid #33ab52;padding-left:10px;"><font
+style="font-family:'Comic Sans MS',
+cursive;font-size:19px;font-weight:normal;color:#005c84;"> 15 Lac Email
+Subscribers @ Rs.5,500</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="left" style="padding-left:34px;">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+style="width: 501px;">
+<tbody>
+<tr>
+<td align="center" bgcolor="#005c84" height="45" valign="middle"
+width="104" style="border:1px solid #005c84;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#FFFFFF;line-height:20px;">Email<br
+/> <span style="font-size:22px;"></span> UNLIMITED </font></td>
+<td align="center" height="18" valign="middle" width="397"
+style="border:1px solid #33ab52;padding-left:10px;"><font
+style="font-family:'Comic Sans MS',
+cursive;font-size:19px;font-weight:normal;color:#906;"> Send Unlimited
+Mails  @ Rs.6,500</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="left" style="padding-left:34px;">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+style="width: 501px;">
+<tbody>
+<tr>
+<td align="center" bgcolor="#33ab52" height="45" valign="middle"
+width="104" style="border:1px solid #33ab52;"><font
+style="font-family:Arial;font-size:15px;font-weight:bold;color:#FFFFFF;line-height:20px;">Contact<br
+/> <span style="font-size:22px;"></span>DETAILS</font></td>
+<td align="left" height="18" valign="middle" width="397" style="border:1px
+solid #33ab52;padding-left:10px;"><font style="font-family:'Chaparral
+Pro';font-size:17px;font-weight:normal;color:#000;">For Details <a
+target="_blank"
+href="http://app.aidwix.com/link.php?M=1724703&N=407&L=2&F=H">CLICK
+HERE</a> or Call :     <b>+91 98218 08293</b> </font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><img
+src="http://app.aidwix.com/open.php?M=1724703&L=66&N=407&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_5c49dd7073eb41a7b004d3ca672e607b--
+

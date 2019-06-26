@@ -1,0 +1,371 @@
+Return-Path: <mail-noreply@mailsbear.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aIdytFEXIE_R>
+X-Spam-Flag: YES
+X-Spam-Score: 9.775
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.775 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284, RDNS_DYNAMIC=0.363,
+	SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01, URIBL_JP_SURBL=1.948,
+	URIBL_PH_SURBL=0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aIdytFEXIE_R for <jcbl@jcbl.com>;
+	Sat,  6 Oct 2018 11:33:31 +0530 (IST)
+Received: from elve.mailsbear.com (142-4-14-169.unifiedlayer.com [142.4.14.169])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 90632EE73F3
+	for <jcbl@jcbl.com>; Sat,  6 Oct 2018 11:33:28 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=mailsbear.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=CjZzUuyXHzEzpFzAOSdBKcm/KBSfNdVreZOgWajZMMs=; b=U/gh8wjHDBS8+M+jhjeFdZBiD4
+	fQyhBD1yTVdUZrAZJHdrJnauMdkYvhrWZXlHjqgD71KOtZyIgPE9JscnU6EV0Iht/GiMxiG49RI3o
+	AreXJ0odJ7XFMZGxQYlbNhgzTvpVpPGTchUS0zCx4InnJZu1H0ee5runfzMCPSbHizNS3diRtmYLw
+	rcVvfwxqGJ4m0N0IFKboi5oxEg/fbSdUS7gbal0GvIUS1Qx9wQ/yZeeRVzUhBjl5A7h1f6IH6STdF
+	NAWCddNoDslcTPKylGVP2Gjh5d5jVglYCDAeySciGuKuRzA+YvLpXoQKgt6b4wvwTfxHVAmZui4EL
+	2On3cZeg==;
+Received: from mailsbear by elve.mailsbear.com with local (Exim 4.91)
+	(envelope-from <mail-noreply@mailsbear.com>)
+	id 1g8fgV-0004wm-TI
+	for jcbl@jcbl.com; Sat, 06 Oct 2018 06:03:27 +0000
+To: jcbl@jcbl.com
+Subject: Send 1 Lac Promotional Mails Daily for 1 Month @ Just Rs.8,999
+X-PHP-Originating-Script: 500:email.php
+Message-ID: <508825c65f9143d1672941d6104d1718@app.mailsbear.com>
+Date: Sat, 06 Oct 2018 05:55:03 +0000
+From: "Ganesh Dubey" <ganesh.dubey@yandex.com>
+Reply-To: ganesh.dubey@yandex.com
+MIME-Version: 1.0
+X-Mailer-LID: 1
+List-Unsubscribe: <http://app.mailsbear.com/unsubscribe.php?M=7022&C=bf4dae370ff4dc5edc8051f8a429ea3d&L=1&N=64>
+X-Mailer-SID: 64
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_913d559757bb09552d3cf5491c306979"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - elve.mailsbear.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [500 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - mailsbear.com
+X-Get-Message-Sender-Via: elve.mailsbear.com: authenticated_id: mailsbear/sender_address_domain
+X-Authenticated-Sender: elve.mailsbear.com: mail-noreply@mailsbear.com
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi -f /home/mailsbear/public_html/app/admin/cron/cron.php 
+X-Source-Dir: mailsbear.com:/public_html/app/admin/cron
+
+--b1_913d559757bb09552d3cf5491c306979
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://app.mailsbear.com/display.php?M=7022&C=bf4dae370ff4dc5edc8051f8a429ea3d&S=64&L=1&N=1
+
+
+To stop receiving these
+emails:http://app.mailsbear.com/unsubscribe.php?M=7022&C=bf4dae370ff4dc5edc8051f8a429ea3d&L=1&N=64
+
+--b1_913d559757bb09552d3cf5491c306979
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Create &amp; Send Newsletters upto 1 Lac Mail Daily @ Rs.
+8,999/-</title>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+style="width: 600px;">
+<tbody>
+<tr>
+<td align="center" valign="middle" width="400" style="margin:0;
+font-size:12px; color:#5d5e69;  padding-bottom:5px; padding-top:5px;
+font-family:verdana;  text-align:center;"></td>
+</tr>
+</tbody>
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0"
+style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0"
+cellspacing="0" style="border:1px solid #333;max-width:612px">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding:0 14px">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0;
+padding: 0; width: 100%; border-bottom: 2px solid  #333; padding-bottom:
+10px;">
+<tbody>
+<tr>
+<td style="color:#003;font-weight:bold;padding:10px 0 10px 
+20px;font-size:20px;font-family:Rockwell">Send 50,000 Newsletters Daily for
+1 Month at Rs. 6,499 /- <br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="font-family:Rockwell;color:#333333;padding:0 20px 0  20px">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:
+collapse; width: 100%;">
+<tbody>
+<tr>
+<td valign="middle" colspan="2"
+style="font-family:Rockwell;color:#333333;text-align:justify;font-size:15px"><b>
+</b></td>
+</tr>
+<tr>
+<td height="5"></td>
+</tr>
+<tr>
+<td valign="top"
+style="font-family:Rockwell;font-size:14px;text-align:justify">
+<table border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td valign="middle"
+style="font-family:Rockwell;color:#333333;text-align:justify"></td>
+<td valign="top"
+style="font-family:Rockwell;color:#333333;text-align:justify;font-size:15px"><b>We
+are the easiest Email Marketing Solution for Small Businesses:-</b>&nbsp;We
+make it simple for everyone to create, send and share beautiful
+newsletters, invitations, sale promotions and product updates that look
+great across all devices. With designer-made templates, an intuitive editor
+and must-have email marketing tools, we empower businesses worldwide to
+communicate and engage with customers.</td>
+</tr>
+<tr>
+<td height="5"></td>
+</tr>
+<tr>
+<td valign="middle"
+style="font-family:Rockwell;color:#333333;text-align:justify"></td>
+<td valign="top"
+style="font-family:Rockwell;color:#333333;text-align:left;font-size:15px">Want
+to become Reseller ? It's now Or never! Join India's Best Company to become
+a Bulk Email Reseller &amp; Best Startup Support. Call: +91 9818 00
+9996</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 14px">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0;
+padding: 0; width: 100%; border-bottom: 2px solid  #333; padding-bottom:
+10px;">
+<tbody>
+<tr>
+<td style="color:#00755a;font-weight:bold;padding:20px 10px 0 20px;
+font-size:20px;font-family:Rockwell">10 Lac Newsletters at 5,499/- with
+Qualified Database.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="5"></td>
+</tr>
+<tr>
+<td style="padding:0 14px">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0;
+padding: 0; width: 100%;">
+<tbody>
+<tr>
+<th width="26%" style="border:1px solid #ccc;border-left:none;padding:5px 
+15px;line-height:2em;background-color:#e6e6e6;font-family:Rockwell;font-size:14px;text-align:left;color:#333">Sales
+&amp; Enquiry : </th>
+<td width="74%" style="border:1px solid #ccc;border-left:none;padding:5px 
+10px 5px 
+15px;font-family:Rockwell;font-size:16px;text-align:left;color:#333">+91
+9818 00 9996 &nbsp;&nbsp; &nbsp; |&nbsp; &nbsp; +91 9654 10 8822</td>
+</tr>
+<tr>
+<th style="border:1px solid #ccc;border-left:none;padding:5px 
+15px;line-height:2em;background-color:#e6e6e6;font-family:Rockwell;font-size:14px;text-align:left;color:#333">
+Email ID :</th>
+<td style="border:1px solid #ccc;border-left:none;padding:5px  10px 5px 
+15px;font-family:Rockwell;font-size:16px;text-align:left;color:#333"><a
+target="_blank"
+href="mailto:ganesh.dubey@yandex.com">ganesh.dubey@yandex.com</a></td>
+</tr>
+<tr>
+<th style="border:1px solid #ccc;border-left:none;padding:5px 
+15px;line-height:2em;background-color:#e6e6e6;font-family:Rockwell;font-size:14px;text-align:left;color:#333">Website
+: </th>
+<td style="border:1px solid #ccc;border-left:none;padding:5px  10px 5px 
+15px;font-family:Rockwell;font-size:16px;text-align:left;color:#333">India's
+No.1 Email  Platform : <a
+href="http://app.mailsbear.com/link.php?M=7022&N=64&L=1&F=H"
+target="_blank">APP - MailsBear <br /></a></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding:0 14px">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0;
+padding: 0; width: 100%; border-bottom: 2px solid  #333; padding-bottom:
+10px;">
+<tbody>
+<tr>
+<td style="color:#00755a;font-weight:bold;padding:0 0 0 
+20px;font-size:20px;font-family:Rockwell">Commercial Email Proposal</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding:0 14px">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 5px  0 0
+0; padding: 0; width: 100%;">
+<thead> 
+<tr>
+<th width="41%" style="border:1px solid 
+#ccc;background-color:#e6e6e6;color:#322e30;padding:5px 0 5px 
+15px;font-size:15px;vertical-align:middle;font-family:Rockwell;text-align:left">Volume
+of Mail</th> <th width="31%" style="border:1px solid 
+#ccc;background-color:#e6e6e6;color:#322e30;padding:5px 0 5px 
+15px;font-size:15px;vertical-align:middle;font-family:Rockwell;text-align:left">Validity</th>
+<th width="28%" style="border:1px solid 
+#ccc;background-color:#e6e6e6;color:#322e30;padding:5px 0 5px 
+15px;font-size:15px;vertical-align:middle;font-family:Rockwell;text-align:left">Total
+(In INR)</th>
+</tr>
+</thead> 
+<tbody>
+<tr>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">1 Lac Promotional Mail</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">1 Month</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">1,499 /-</td>
+</tr>
+<tr>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">5 Lac Promotional Mail</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">2 Months</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">3,899 /-</td>
+</tr>
+<tr>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">10 Lac Promotional Mail</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">3 Months</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">5,899 /-</td>
+</tr>
+<tr>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">25 Lac Promotional Mail</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">5 Months</td>
+<td
+style="padding-left:25px;font-family:Rockwell;font-size:16px;color:#333;line-height:30px;border:1px
+ solid #ccc">9,499 /-</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding:0 20px 0 20px"></td>
+</tr>
+<tr>
+<td
+style="font-family:Rockwell;color:#633;text-align:center;font-size:14px;padding:10px;
+ 20px 0 20px"><b>Send 1 Lac Marketing Newsletters Daily for 1 Month @ Just
+Rs.9,999 | <a
+href="http://app.mailsbear.com/unsubscribe.php?M=7022&C=bf4dae370ff4dc5edc8051f8a429ea3d&L=1&N=64">Unsubscribe</a><br
+/></b></td>
+</tr>
+<tr>
+<td style="padding:0 10px 10px 10px">
+<table border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="font-family:Rockwell;font-size:15px;padding:0px 0 0 
+0;text-align:center"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><img
+src="http://app.mailsbear.com/open.php?M=7022&L=1&N=64&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_913d559757bb09552d3cf5491c306979--
+

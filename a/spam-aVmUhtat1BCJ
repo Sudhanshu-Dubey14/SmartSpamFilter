@@ -1,0 +1,106 @@
+Return-Path: <admin@myfitmealplan.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <aVmUhtat1BCJ>
+X-Spam-Flag: YES
+X-Spam-Score: 12.118
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.118 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_06_12=1.103, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, MPART_ALT_DIFF=0.724,
+	MPART_ALT_DIFF_COUNT=1.483, PYZOR_CHECK=1.985,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_PSBL=2.7, URIBL_JP_SURBL=1.948]
+	autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aVmUhtat1BCJ for <admin@mslindia.net>;
+	Sat, 10 Nov 2018 14:13:48 +0530 (IST)
+Received: from v250.tekplanetstore.com (v250.tekplanetstore.com [103.112.0.249])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 61D64F4BA81
+	for <kj_rao@mslindia.net>; Sat, 10 Nov 2018 14:13:45 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mask; d=myfitmealplan.com;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=admin@myfitmealplan.com;
+ bh=l/mTZEJlQKskf9NDzHZjDOh+Knc=;
+ b=siuiK5kSMlJQoUN85TarL22UAe3aTmCobK/ylnKZflC6qHAVGbO12ZRbYV5ppX4WuIxkGhO0BaNz
+   3w72bIwgqOHrbkAS6bM/ICLj2vCXvCQ4yvmnm2/x3AXuKiPWYaiMoA/ANeeeIPwYKxY5vt8QqHUY
+   JVt2bdScSgwlivoWjRo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mask; d=myfitmealplan.com;
+ b=YqD/gxjoEaBi7nLaaJwRGOkILerO0B1dyW7FcGec19y/gQ/8A45RXES/fmU5/b4hdJuD4aljVBdy
+   nORIBbida4TGkkDdFloeSc0L9CDN4UtXvNcPdzJxQA9lth5FjabAcvzpJ0ccNsjwchhtiRvQzSNE
+   cjqz6KTxiqcCjo7A350=;
+Date: Fri, 9 Nov 2018 21:37:49 -0500
+To: kj_rao@mslindia.net
+From: AHSWarranty <admin@myfitmealplan.com>
+Subject: Are your-repair-bills making you see stars?
+Message-ID: <MTU0MTgxNDgwMC41YmU2M2ExMDliNTdmLk1UQXpMakV4TWk0d0xqSTBPUT09Lm11bV9hc2hjb0dJXzAuYWRtaW5AbXlmaXRtZWFscGxhbi5jb20=@adbsjhfd.sparkpost.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_RBZl2eTO8PaNegC3txbVuMY8LISGTlsmklQwE1Sqts4"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+--b1_RBZl2eTO8PaNegC3txbVuMY8LISGTlsmklQwE1Sqts4
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A leaf is an organ of a vascular plant and is the principal lateral appenda=
+ge of the stem.The leaves and stem together form the shoot. Leaves are coll=
+ectively referred to as foliage, as in "autumn foliage".=0A=0A=0ADiagram of=
+ a simple leaf.=0AApexMidvein (Primary vein)Secondary vein.Lamina.Leaf marg=
+inPetioleBudStem=0A=0ATop and Right: Staghorn Sumac, Rhus typhina (Compound=
+ Leaf) =0ABottom: Skunk Cabbage, Symplocarpus foetidus (Simple Leaf)=0A1. A=
+pex =0A2. Primary Vein=0A3. Secondary Vein=0A4. Lamina=0A5. Leaf Margin=0A6=
+. Petiole=0AA leaf is a thin, dorsiventrally flattened organ, usually borne=
+ above ground and specialized for photosynthesis. In most leaves, the prima=
+ry photosynthetic tissue, the palisade mesophyll, is located on the upper s=
+ide of the blade or lamina of the leaf[1] but in some species, including th=
+e mature foliage of Eucalyptus, palisade mesophyll is present on both sides=
+ and the leaves are said to be isobilateral. Most leaves have distinct uppe=
+r surface (adaxial) and lower surface (abaxial) that differ in colour, hair=
+iness, the number of stomata (pores that intake and output gases), the amou=
+nt and structure of epicuticular wax and other features.=0A=0ALeaves can ha=
+ve many different shapes, sizes and textures. The broad, flat leaves with c=
+omplex venation of flowering plants are known as megaphylls and the species=
+ that bear them, the majority, as broad-leaved or megaphyllous plants. In t=
+he clubmosses, with different evolutionary origins, the leaves are simple (=
+with only a single vein) and are known as microphylls. Some leaves, such as=
+ bulb scales, are not above ground. In many aquatic species the leaves are =
+submerged in water. Succulent plants often have thick juicy leaves, but som=
+e leaves are without major photosynthetic function and may be dead at matur=
+ity, as in some cataphylls and spines. Furthermore, several kinds of leaf-l=
+ike structures found in vascular plants are not totally homologous with the=
+m. Examples include flattened plant stems called phylloclades and cladodes,=
+ and flattened leaf stems called phyllodes which differ from leaves both in=
+ their structure and origin.Many structures of non-vascular plants, such as=
+ the phyllids of mosses and liverworts and even of some foliose lichens, wh=
+ich are not plants at all (in the sense of being members of the kingdom Pla=
+ntae), look and function much like leaves.
+--b1_RBZl2eTO8PaNegC3txbVuMY8LISGTlsmklQwE1Sqts4
+Content-Type: text/html; charset=us-ascii
+
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p style="text-align: center;">
+			<a href="https://myfitmealplan.com/dafgwsfdvzsfrestyhdrgfdsc/cdfgdthfjgfvdsfdthgnbv/cdsfgthjmhngbfds"><img alt="Click To Show Image" src="https://d3k81ch9hvuctc.cloudfront.net/company/Nms5pq/images/28a88800-30ff-4419-a3c0-bc013f07b913.png" style="width: 440px;" /></a></p>
+		<p style="text-align: center;">
+			<a href="https://myfitmealplan.com/dafgwsfdvzsfrestyhdrgfdsc/cdfgdthfjgfvdsfdthgnbv/cdsfgthjmhngbfds"><img alt="Click to Display Image" src="https://d3k81ch9hvuctc.cloudfront.net/company/Nms5pq/images/fa20df30-0876-407b-bd6f-cd52fa9b01d3.png" style="width: 440px;" /></a></p>
+		<p style="text-align: center;">
+			<a href="https://myfitmealplan.com/dafgwsfdvzsfrestyhdrgfdsc/cdfgdthfjgfvdsfdthgnbv/cdsfgthjmhngbfds"><img alt="Click to Image Source" src="https://d3k81ch9hvuctc.cloudfront.net/company/Nms5pq/images/d0c5bbbd-eb47-4e23-87d4-00ea1c466579.png" style="width: 440px;" /></a></p>
+		<div style="text-align: center;">
+			<span style="font-size:12px;">American Home Shield 150 Peabody Pl., Memphis, TN 38103&nbsp;</span></div>
+		<div style="text-align: center;">
+			<span style="font-size:12px;"><a href="https://myfitmealplan.com/dafgwsfdvzsfrestyhdrgfdsc/cdfgdthfjgfvdsfdthgnbv/cdsfgthjmhngbfdsjbdsf">Unsubscribe</a> | <a href="https://myfitmealplan.com/nvdudygfdjbvfgrut8eruhfbdj/fgfbhewyr7834ruewhfbdsdfdf">Privacy Policy</a>&nbsp;</span></div>
+		<div style="text-align: center;">
+			<span style="font-size:12px;">&copy; 2018 American Home Shield Corporation. All rights reserved.</span></div>
+	</body>
+</html>
+<img src="https://myfitmealplan.com/wfwdfwef/OO/PT1BZGw1bUxobEdadWxHYnoxR1F2Rm1jZnAyYTh4SE1mbDBSdk5HYXpGMlh0Vlhi" alt="" width="1" height="1" border="0">
+
+
+--b1_RBZl2eTO8PaNegC3txbVuMY8LISGTlsmklQwE1Sqts4--
+

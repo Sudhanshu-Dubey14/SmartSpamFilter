@@ -1,0 +1,526 @@
+Return-Path: <newsletter@brae.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <rajender.kaushal@acmeformulation.com>
+X-Envelope-To-Blocked: <rajender.kaushal@acmeformulation.com>
+X-Quarantine-ID: <aN1x7rr9ZwtG>
+X-Spam-Flag: YES
+X-Spam-Score: 12.152
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.152 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FH_FROM_GET_NAME=2.699, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, URIBL_JP_SURBL=1.948] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aN1x7rr9ZwtG for <rajender.kaushal@acmeformulation.com>;
+	Thu, 27 Dec 2018 08:27:45 +0530 (IST)
+Received: from glycodeoxycholates.brae.info (glycodeoxycholates.brae.info [162.244.13.121])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 18120F44D64
+	for <rajender_kaushal@jcbl.com>; Thu, 27 Dec 2018 08:27:41 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=brae.info; s=dkim;
+	t=1545879540; bh=Ut2XtCaa/noVIYdlkKixOaS6hY8hw2m6cIoAiWAJMlg=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=dLyzHf/7wwmdLMrnORSMECbLQKP1mzHyC3NLWdCnRkiMHFaaFKulX1/FUiKOidIY+
+	 Tsl8xQ8mD2LyXrA6ik4tTzWolWVxbBDFS2Pu7xCr4Ixj76yrcKXa2nMA305eDm9cyp
+	 Yg+cQQ8RQp908tO+nAt2YRDurzYi1vxv8FODQ4T0=
+To: <rajender_kaushal@jcbl.com>
+From: "Get Doc Socks" <newsletter@brae.info>
+Subject: Want Immediate Relief Today?
+Date: Wed, 26 Dec 2018 21:59:00 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812262159:17830e2175446e4e6c35e0f_f43f245c:enwraqre_xnhfuny^wpoy(pbz:20078
+List-Unsubscribe: <mailto:17830e2175446e4e6c35e0f_f43f245c@brae.info>, <http://brae.info/17830e2175446e4e6c35e0f_f43f245c/U/>
+Message-ID: <201812262159@brae.info>
+X-campaignID: 20078
+Content-type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.brae.info/1c8d074b08d46e4e6c35e0f47b03_f43f245c-010101010004/C/">
+<html xmlns="http://www.brae.info/1c8694c671046e4e6c35e0f47c03_f43f245c-010101010004/C/">
+<p style="font-size:0px"></p>
+<head>
+<link href="http://www.brae.info/1c8e3036f6d46e4e6c35e0f47503_f43f245c-010101010004/C/" rel="stylesheet" type="text/css"/>
+<link href="http://www.brae.info/1c80dacda7f46e4e6c35e0f47603_f43f245c-010101010004/C/" rel="stylesheet">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+    <title></title>
+	<link href="http://www.brae.info/1c820f5b48446e4e6c35e0f48f03_f43f245c-010101010004/C/" rel="stylesheet" type="text/css">
+	<link href="http://www.brae.info/1c8e9b2ce8c46e4e6c35e0f49003_f43f245c-010101010004/C/" rel="stylesheet" type="text/css">    
+    <style type="text/css" id="media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a {
+  color: inherit !important;
+  text-decoration: none !important; }
+
+ .img-container div,  .img-container button {
+  display: block !important; }
+
+ .fullwidth button {
+  width: 100% !important; }
+
+ .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+ie-browser .num12, .ie-browser .block-grid,  .num12,  .block-grid {
+  width: 640px !important; }
+
+ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+ie-browser .mixed-two-up .num4,  .mixed-two-up .num4 {
+  width: 212px !important; }
+
+ie-browser .mixed-two-up .num8,  .mixed-two-up .num8 {
+  width: 424px !important; }
+
+ie-browser .block-grid.two-up .col,  .block-grid.two-up .col {
+  width: 320px !important; }
+
+ie-browser .block-grid.three-up .col,  .block-grid.three-up .col {
+  width: 213px !important; }
+
+ie-browser .block-grid.four-up .col,  .block-grid.four-up .col {
+  width: 160px !important; }
+
+ie-browser .block-grid.five-up .col,  .block-grid.five-up .col {
+  width: 128px !important; }
+
+ie-browser .block-grid.six-up .col,  .block-grid.six-up .col {
+  width: 106px !important; }
+
+ie-browser .block-grid.seven-up .col,  .block-grid.seven-up .col {
+  width: 91px !important; }
+
+ie-browser .block-grid.eight-up .col,  .block-grid.eight-up .col {
+  width: 80px !important; }
+
+ie-browser .block-grid.nine-up .col,  .block-grid.nine-up .col {
+  width: 71px !important; }
+
+ie-browser .block-grid.ten-up .col,  .block-grid.ten-up .col {
+  width: 64px !important; }
+
+ie-browser .block-grid.eleven-up .col,  .block-grid.eleven-up .col {
+  width: 58px !important; }
+
+ie-browser .block-grid.twelve-up .col,  .block-grid.twelve-up .col {
+  width: 53px !important; }
+
+@media only screen and (min-width: 660px) {
+  .block-grid {
+    width: 640px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 640px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 212px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 424px !important; }
+  .block-grid.two-up .col {
+    width: 320px !important; }
+  .block-grid.three-up .col {
+    width: 213px !important; }
+  .block-grid.four-up .col {
+    width: 160px !important; }
+  .block-grid.five-up .col {
+    width: 128px !important; }
+  .block-grid.six-up .col {
+    width: 106px !important; }
+  .block-grid.seven-up .col {
+    width: 91px !important; }
+  .block-grid.eight-up .col {
+    width: 80px !important; }
+  .block-grid.nine-up .col {
+    width: 71px !important; }
+  .block-grid.ten-up .col {
+    width: 64px !important; }
+  .block-grid.eleven-up .col {
+    width: 58px !important; }
+  .block-grid.twelve-up .col {
+    width: 53px !important; } }
+
+@media (max-width: 660px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth, img.fullwidthOnMobile {
+    max-width: 100% !important; }
+  .no-stack .col {
+    min-width: 0 !important;
+    display: table-cell !important; }
+  .no-stack.two-up .col {
+    width: 50% !important; }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66% !important; }
+  .no-stack.three-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.four-up .col.num3 {
+    width: 25% !important; }
+  .mobile_hide {
+    min-height: 0px;
+    max-height: 0px;
+    max-width: 0px;
+    display: none;
+    overflow: hidden;
+    font-size: 0px; } }
+     @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+			img.fullwidthOnMobile {
+        max-width: 100%!important;
+      }
+      .no-stack .col {
+				min-width: 0!important;
+				display: table-cell!important;
+			}
+			.no-stack.two-up .col {
+				width: 50%!important;
+			}
+			.no-stack.mixed-two-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.mixed-two-up .col.num8 {
+				width: 66%!important;
+			}
+			.no-stack.three-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.four-up .col.num3 {
+				width: 25%!important;
+			}
+      .mobile_hide {
+        min-height: 0px!important;
+        max-height: 0px!important;
+        max-width: 0px!important;
+        display: none!important;
+        overflow: hidden!important;
+        font-size: 0px!important;
+      }
+    }
+
+    </style>
+</head>
+<body class="clean-body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ffffff">
+<table style="width: 100%; max-width: 500px; border: 0; padding: 0; margin-left: auto; margin-right: auto; background-color: #ffffff;">
+		<tr>
+			<td style="margin-left: auto; margin-right: auto; text-align: center; max-width: 500px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;
+color: #999999;">
+				<br>If you are unable to see the images or links, mark this message as <a style="text-decoration: none; color: #8080ff;">"Not Spam"</a> and add
+<a style="text-decoration: none; color: #8080ff;"> newsletter@brae.info</a> to your Contacts List.
+				<br><br>
+			</td>
+		</tr>
+	</table>
+  <table class="nl-container" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace:
+0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ffffff;width: 100%" cellpadding="0" cellspacing="0">
+	<tbody>
+	<tr style="vertical-align: top">
+		<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: #000000;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-image: linear-gradient(to right, #19455E , #19455E)">
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 10px solid #ffffff; border-bottom: 0px solid
+transparent; border-right: 10px solid #ffffff; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<!-->
+
+                  
+                    <div class="">
+
+	<div style="color:#19455E;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:120%; padding-right: 0px; padding-left: 20px;
+padding-top: 0px; padding-bottom: 0px;">	
+		<div style="font-size:12px;line-height:14px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;color:#19455E;text-align:left;"><p style="margin:
+0;font-size: 14px;line-height: 17px;text-align: right"><span style="font-size: 36px; line-height: 43px; background-color: #48DD99;"> DOC
+SOCKS <strong></strong></span></p></div>	
+	</div>
+</div>
+                  </div>
+              </div>
+            </div>
+       
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: #7F0CBF;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-image: linear-gradient(to right, #19455E , #19455E);">
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+          <div style="border-top: 0px solid transparent; border-left: 10px solid #ffffff; border-bottom: 0px solid transparent; border-right: 10px
+solid #ffffff; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
+                  
+                    <div class=""><a href="http://www.brae.info/1c88cd5723446e4e6c35e0f49103_f43f245c-010101010004/C/" target="_blank"
+style="text-decoration:none;">
+	<div style="color:#FFFFFF;font-family:'Ubuntu', Tahoma, Verdana, Segoe, sans-serif;line-height:120%; padding-right: 20px; padding-left: 20px;
+padding-top: 15px; padding-bottom: 5px;">	
+    <div style="font-size:12px;line-height:14px;font-family:Ubuntu, Tahoma, Verdana, Segoe, sans-serif;color:#48DD99;text-align:left;"><p
+style="margin: 0;font-size: 14px;line-height: 17px;text-align: center"><span style="font-size: 34px; line-height: 33px;">REDUCES SWELLING, EASES HEEL
+PAIN, SOUTHES ACHY FEET, AND BOOSTS CIRCULATION<span style="color:#ccc;"> </span> <br> <span style="color:#fff; font-size: 22px; line-height:
+33px;">Are You Ready To Soothe Your Tired Achy Feet?</span></span></p></div>	
+	</div></a>
+</div>
+                  
+                  
+                    <div align="center" class="img-container center  autowidth  " style="padding-right: 0px;  padding-left: 0px;">
+  <img class="center  autowidth " align="center" border="0"
+src="http://www.brae.info/1c8493c697f46e4e6c35e0f4e704_f43f245c-010101010004/V/" alt="" title="Image" style="outline:
+none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width:
+100%;max-width: 600px" width="600">
+</div>
+
+                  
+            </div>
+              </div>
+            </div>
+        
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: transparent;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <div style="border-top: 0px solid #ffffff; border-left: 10px solid #ffffff; border-bottom: 2px solid #ffffff; border-right: 10px solid
+#ffffff; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<!-->
+
+                  
+                    <div align="center" class="img-container center  autowidth  " style="padding-right: 0px;  padding-left: 0px;">
+                    <a href="http://www.brae.info/1c88cd5723446e4e6c35e0f49103_f43f245c-010101010004/C/" target="_blank"><img border="0"
+src="http://www.brae.info/1c81f2c0a2746e4e6c35e0f4e804_f43f245c-010101010004/V/" width="" alt="" style="outline:
+none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width:
+100%;max-width: 600px;font-size:36px;line-height: 30px;color:#fff;background-color:#17506E;" width="600"/></a>
+ 
+</div>
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<!-->
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 620px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: transparent;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-image: linear-gradient(to right, #19455E , #19455E); width: auto !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid
+transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<!-->
+
+                  
+                    <div align="center" class="img-container center  autowidth  " style="padding-right: 0px;  padding-left: 0px;">
+  <img class="center  autowidth " align="center" border="0"
+src="http://www.brae.info/1c8493c697f46e4e6c35e0f4e704_f43f245c-010101010004/V/" alt="" title="Image" style="outline:
+none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width:
+100%;max-width: 600px" width="600">
+<!--[if mso]></td></tr></table><!-->
+</div>
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<!-->
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: #19455E;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-image: linear-gradient(to right, #19455E , #19455E);">
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 10px solid #ffffff; border-bottom: 0px solid
+transparent; border-right: 10px solid #ffffff; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<!-->
+
+                  
+                    
+<div align="center" class="button-container center " style="padding-right: 15px; padding-left: 15px; padding-top:15px; padding-bottom:15px;">
+    <a href="http://www.brae.info/1c88cd5723446e4e6c35e0f49103_f43f245c-010101010004/C/" target="_blank" style="display: block;text-decoration:
+none;-webkit-text-size-adjust: none;text-align: center;color: #fff; background-color: #48DD99; border-radius: 15px 0 15px 0; -webkit-border-radius:
+15px 0 15px 0; -moz-border-radius: 15px 0 15px 0;border-bottom:5px solid;border-color:linear-gradient(to right, #D23009,#FF7E22); max-width: 308px;
+width: 298px;width: auto; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; font-family:Ubuntu, Tahoma, Verdana, Segoe,
+sans-serif;mso-border-alt: none">
+      <span style="font-family:Ubuntu, Tahoma, Verdana, Segoe, sans-serif;font-size:22px;line-height:32px;"><strong><span style="font-size: 22px;
+line-height: 52px;">YES! I WANT 50% OFF  ➤</span></strong></span>
+    </a>
+</div>
+
+                  
+           </div>
+              </div>
+            </div>
+         
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: transparent;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+ 
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+            <div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px
+solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
+                  
+                    
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider " style="border-collapse: collapse;table-layout: fixed;border-spacing:
+0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+    <tbody>
+        <tr style="vertical-align: top">
+            <td class="divider_inner" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;padding-right:
+10px;padding-left: 10px;padding-top: 15px;padding-bottom: 0px;min-width: 100%;mso-line-height-rule: exactly;-ms-text-size-adjust:
+100%;-webkit-text-size-adjust: 100%">
+                <table class="divider_content" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:
+collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px dashed
+#cccccc;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style="vertical-align: top">
+                            <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;mso-line-height-rule:
+exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                  </div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 640px;overflow-wrap: break-word;word-wrap: break-word;word-break:
+break-word;background-color: transparent;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+
+            <div class="col num12" style="min-width: 320px;max-width: 640px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right:
+0px solid transparent; padding-top:5px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
+                  
+                    <div class="">
+	<div style="color:#555555;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:120%; padding-right: 10px; padding-left: 10px;
+padding-top: 10px; padding-bottom: 10px;">	
+		<div style="font-size:12px;line-height:14px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;color:#555555;text-align:left;">
+     <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background: rgba(254, 254, 254, 0); text-align: left;">
+                 </table>
+
+<br><br><br><br>
+        </div>	
+	</div>
+
+</div>
+                  
+                  
+                    
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider " style="border-collapse: collapse;table-layout: fixed;border-spacing:
+0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+    <tbody>
+        <tr style="vertical-align: top">
+            <td class="divider_inner" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;padding-right:
+20px;padding-left: 20px;padding-top: 20px;padding-bottom: 20px;min-width: 100%;mso-line-height-rule: exactly;-ms-text-size-adjust:
+100%;-webkit-text-size-adjust: 100%">
+                <table class="divider_content" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:
+collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid
+transparent;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style="vertical-align: top">
+                            <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;mso-line-height-rule:
+exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                  
+             </div>
+              </div>
+            </div>
+         
+        </div>
+      </div>
+    </div>
+		</td>
+  </tr>
+  </tbody>
+  </table>
+ <br>
+
+  <br><br><br><br>
+<center><div style="color:#555555;line-height:120%;font-family:Georgia, Times, 'Times New Roman', serif; padding-right: 0px; padding-left: 0px;
+padding-top: 45px; padding-bottom: 15px;">
+				<div style="font-size:12px;line-height:14px;font-family:Georgia, Times, 'Times New Roman', serif;color:#555555;text-align:left;">
+					<p style="margin: 0;font-size: 14px;line-height: 17px;text-align: center">
+						<a href="http://www.hoga.info/17830e2175446e4e6c35e0f_f43f245c/U/" style="text-decoration:none; cursor: pointer;">
+<span style="color: rgb(0, 0, 0); font-size: 15px; line-height: 18px;">if you would like to unsubscribe from our mailing list, please 
+<span style="font-size: 17px; line-height: 20px;">
+<strong>
+<span style="text-decoration: underline; line-height: 20px; font-size: 17px;">
+<span style="color: rgb(0, 0, 255); text-decoration: underline; line-height: 20px; font-size: 17px;">click here</span>
+</span></strong></span>  or write to :</span>
+<br>
+<span style="color: rgb(0, 0, 0); font-size: 15px; line-height: 18px;">5205 Broadway,,# 510,Pearland,TX,77581</span>
+</a></p></div></div></center>
+</body></html>
+

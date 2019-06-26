@@ -1,0 +1,57 @@
+Return-Path: <shadowhawk@toughguysinc.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <baljit_sidhu@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aXVsvoJh8p3X>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aXVsvoJh8p3X for <baljit_sidhu@mslindia.net>;
+	Tue, 12 Apr 2016 23:54:39 +0530 (IST)
+Received: from mta8.toughguysinc.com (toughguysinc.com [207.244.96.188])
+	by mx10.jcbl.com (Postfix) with SMTP id 4AA83ED0ADB
+	for <baljit_sidhu@mslindia.net>; Tue, 12 Apr 2016 23:54:36 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=toughguysinc.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=tLPUnsAMrWwK6OSeIlWk/Vdjh996uE2b1KcI0Fm9mGFUj6Kgj2XuOvOtmrboEsMXEXioHeYAyCObE7Zy5IgFbqHixRoMqYmMd9Qf6FXklJvmuAShSo4Do+l/41yt0saq;
+Date: Tue, 12 Apr 2016 20:31:21 00100
+To: <baljit_sidhu@mslindia.net>
+Message-ID: <wtqe.qyveh@toughguysinc.com>
+From: "ShadowHawk x800" <shadowhawk@toughguysinc.com>
+Subject: Incredible Military Grade Flashlight Available NOW
+Date: 12 Apr 2016 20:31:21 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>
+ ShadowHawk X800 LED Flashlight
+ </title></head><body>
+ <center>
+ <p>
+ <strong><a href="http://toughguysinc.com/138bz4216v2"><img border="0" height="650" src="http://toughguysinc.com/img/fl1.jpg" width="600" class="auto-style2" alt="" style="border-width: 0px;"></a></strong>
+ </p>
+ <p>
+ <strong><strong><a href="http://toughguysinc.com/138bz4216v2">Get 75% OFF with this Coupon!  Military Tech for Less - X800 Flashlight!</a></strong></strong>
+ </p>
+ <p>
+ <span class="auto-style1" style="font-size: 9pt;">To be removed from future mailings, please</span> <a href="http://toughguysinc.com/137bz4216i2">visit here</a><span class="auto-style1" style="font-size: 9pt;">.</span><br class="auto-style1" style="font-size: 9pt;"><span class="auto-style1" style="font-size: 9pt;">Or write: 7582 Las Vegas Blvd. S #115-405 - Las Vegas, NV 89123</span>
+ </p>
+ </center>
+ </body></html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+<br>
+<a href="http://toughguysinc.com/?e=baljit_sidhu@mslindia.net">Subscription Options</a>.<br>
+
+2637 E Atlantic Blvd #754 <br>
+Pompano Beach, FL 33062
+
+</font>
+</div>
+

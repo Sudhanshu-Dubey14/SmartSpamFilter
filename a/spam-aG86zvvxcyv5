@@ -1,0 +1,866 @@
+Return-Path: <email@info.cadcontent.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <lovey_sharma@jcbl.com>
+X-Envelope-To-Blocked: <lovey_sharma@jcbl.com>
+X-Quarantine-ID: <aG86zvvxcyv5>
+X-Spam-Flag: YES
+X-Spam-Score: 6.788
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.788 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FB_THIS_ADVERT=3.6, HTML_MESSAGE=0.001, PYZOR_CHECK=1.985,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URI_HEX=1.313] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aG86zvvxcyv5 for <lovey_sharma@jcbl.com>;
+	Wed,  5 Dec 2018 06:08:45 +0530 (IST)
+Received: from smtpa.info.cadcontent.com (smtpa.info.cadcontent.com [130.117.60.178])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 392F9F4C326
+	for <lovey_sharma@jcbl.com>; Wed,  5 Dec 2018 06:08:41 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=do-29279; d=info.cadcontent.com;
+ h=Message-Id:Reply-To:Mime-Version:Content-Type:List-Unsubscribe:From:To:
+ Subject:Date; i=email@info.cadcontent.com;
+ bh=YnUaHqPuSkxPSZsqAMvwSBcvLpU4hK4UAvUPCU9hbzs=;
+ b=DNgXvtFDfAz6bWq5iCUDfzFNx0KM5gJWiEJ7EnvwfwF4aw+i9vLZe5kDgJf/3fYhnYvJ5PhUzEKa
+   +lyA0GU/Hp9hEr5sI0IUFi6i4ZEyYRFi9B1enAI4/RtPjGjtHFKq/GfTjNeVHH66fQCMvPyqoAUD
+   ANKlx9GICHlsdeRM7qA=
+Message-Id: <5730-800059661-2748056-1543970400-4864-bG92ZXlfc2hhcm1hQGpjYmwuY29t@DNET-S8989>
+Feedback-ID: 5730-800059661-4864:DLNET
+X-SignalSpam-CID: 5730-800059661-4864:DLNET
+Reply-To: "=?utf-8?Q?TraceParts_about_Siemens_PLM_Software?=" <reply@cadcontent.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_DNET_Part_1.5730-800059661-2748056-1543862275-4864"
+List-Unsubscribe: <mailto:abuse@info.cadcontent.com?subject=DNET-UNSUBSCRIBE-5730-800059661-2748056-1543915824-4864-7b2db037>
+X-Mailer: DNET 5.1.0.2748056
+From: "=?utf-8?Q?TraceParts_about_Siemens_PLM_Software?=" <email@info.cadcontent.com>
+To:  <lovey_sharma@jcbl.com>
+Subject: =?utf-8?Q?Reminder_Webinar=3A_Frontloading_controls_validation_using_virt?=
+	=?utf-8?Q?ual_calibration=2E?=
+Date: Wed, 5 Dec 2018 01:40:22 +0100
+
+
+------=_DNET_Part_1.5730-800059661-2748056-1543862275-4864
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+If this message is not correctly displayed=2C=0D=0Ahttp=3A=2F=2Finfo=2Eca=
+dcontent=2Ecom=2Ftrk=2F268003=2F5730=2F800059661=2F2748056=2F4864=2F7b2db=
+037=2F=0D=0Aclick here=2E=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=
+http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268004=2F5730=2F800059661=2F=
+2748056=2F4864=2F7b2db037=2F=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2E=
+com=2Ftrk=2F268006=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=0D=
+=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0AFrontloading controls validation u=
+sing virtual calibration=0D=0ALive Webinar=3A=C2=A0 December 6=0D=0A=0D=
+=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268010=2F5730=2F800=
+059661=2F2748056=2F4864=2F7b2db037=2F=0D=0ARegister now=0D=0A=0D=0A=0D=0A=
+=0D=0AEnable virtual calibration with model=2Dbased engineering=0D=0A=0D=
+=0ASoftware code sizes have considerably expended over the past decade=2C=
+ and the rise of electrification and autonomous vehicles is=0D=0Adrastica=
+lly amplifying this phenomena=2E Managing the conflicting calibration req=
+uirements and attributes through physical=0D=0Avalidation and testing is =
+not sustainable anymore=2C from a costs and time perspective=2E A new app=
+roach is essential=2C and=0D=0Amodel=2Dbased development including virtua=
+l calibration is becoming a key success factor=2E=0D=0AIn this=0D=0Ahttp=
+=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268012=2F5730=2F800059661=2F2748=
+056=2F4864=2F7b2db037=2F=0D=0Alive webinar=2C web =19re introducing appli=
+cation cases where system simulation is applied to accelerate controls ca=
+libration=2E Our=0D=0Aexperts will explain how calibration achievement ca=
+n be frontloaded at different stage of the control development process to=
+=0D=0Areduce risks at later development stages though concrete applicatio=
+n cases=2E=0D=0A=0D=0A=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=2F=
+trk=2F268013=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=0D=0ARegis=
+ter now=0D=0A=0D=0A=0D=0A=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=
+=2Ftrk=2F268014=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=0D=0A=
+=0D=0ATwo=0D=0Asessions offered=0D=0A=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadc=
+ontent=2Ecom=2Ftrk=2F268016=2F5730=2F800059661=2F2748056=2F4864=2F7b2db03=
+7=2F=0D=0ASee available times=C2=A0=3E=0D=0A=0D=0AFollow Siemens PLM Soft=
+ware=0D=0A=0D=0A=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F=
+268017=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=0D=0A=0D=0Ahttp=
+=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268019=2F5730=2F800059661=2F2748=
+056=2F4864=2F7b2db037=2F=0D=0A=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=
+=2Ftrk=2F268021=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=0D=0A=
+=0D=0Ahttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268023=2F5730=2F800059=
+661=2F2748056=2F4864=2F7b2db037=2F=0D=0A=0D=0A=0D=0A=0D=0A=C2=A9 2018 Sie=
+mens Product Lifecycle Management Software Inc=2E All rights reserved=2E=
+=0D=0ASiemens and the Siemens logo are registered trademarks of Siemens A=
+G=2E All other logos=2C trademarks=2C=0D=0Aregistered trademarks or servi=
+ce marks used herein are the property of their respective holders=2E=0D=
+=0A=0D=0A=0D=0AThis is a commercial email to promote the products or serv=
+ices of Dunhill=2C brought to you by TraceParts=2E=0D=0A=0D=0AIf you wish=
+ to unsubscribe from this advertiser=27s mailing list=2C=0D=0Ahttp=3A=2F=
+=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268025=2F5730=2F800059661=2F2748056=2F=
+4864=2F7b2db037=2F=3FEmail=3Dlovey=5Fsharma=40jcbl=2Ecom=26BL=3DDunhill=
+=0D=0Aclick here=2E=0D=0A=0D=0AIf you wish to unsubscribe from all advert=
+isements sent on behalf of TraceParts=27 partners=2C=0D=0Ahttp=3A=2F=2Fin=
+fo=2Ecadcontent=2Ecom=2Ftrk=2F268026=2F5730=2F800059661=2F2748056=2F4864=
+=2F7b2db037=2F=3Fs=3D1662=2D1300=2D2faff10d=2D29ee98=2D7b2db037=2D2=2D0=
+=0D=0Aclick here=2E=0D=0A
+------=_DNET_Part_1.5730-800059661-2748056-1543862275-4864
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html=3E=3Chtml xmlns=3D=22http=3A=2F=2Fwww=2Ew3=2Eorg=2F199=
+9=2Fxhtml=22 xmlns=3Av=3D=22urn=3Aschemas=2Dmicrosoft=2Dcom=3Avml=22 xmln=
+s=3Ao=3D=22urn=3Aschemas=2Dmicrosoft=2Dcom=3Aoffice=3Aoffice=22=3E=3Chead=
+=3E=0D=0A=3Cmeta http=2Dequiv=3D=22Content=2DType=22 content=3D=22text=2F=
+html=3B charset=3Dutf=2D8=22=3E=0D=0A=3Cmeta name=3D=22viewport=22 conten=
+t=3D=22width=3Ddevice=2Dwidth=22=3E=0D=0A=3Cmeta http=2Dequiv=3D=22X=2DUA=
+=2DCompatible=22 content=3D=22IE=3Dedge=22=3E=0D=0A=3Cmeta name=3D=22form=
+at=2Ddetection=22 content=3D=22telephone=3Dno=22=3E=0D=0A=0D=0A=3C=21=2D=
+=2D=5Bif gte mso 9=5D=3E=3Cxml=3E=0D=0A=3Co=3AOfficeDocumentSettings=3E=
+=0D=0A=3Co=3AAllowPNG=2F=3E=0D=0A=0D=0A=3Co=3AAllowJPG=2F=3E=0D=0A=3Co=3A=
+PixelsPerInch=3E96=3C=2Fo=3APixelsPerInch=3E=0D=0A=3C=2Fo=3AOfficeDocumen=
+tSettings=3E=0D=0A=3C=2Fxml=3E=3C=21=5Bendif=5D=2D=2D=3E=0D=0A=0D=0A=3Cst=
+yle type=3D=22text=2Fcss=22=3E=0D=0Aa=3Ahover=0D=0A=7B=0D=0Acolor=3A =232=
+795b6 =21important=3B=0D=0A=7D=0D=0Aa=3Aactive =7B=0D=0Acolor=3A =232795b=
+6 =21important=3B=0D=0A=7D=0D=0Aa=3Avisited =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah1 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah2 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah3 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah4 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah5 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah6 a=3Aactive =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah1 a=3Avisited =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah2 a=3Avisited =7B=0D=0Acolor=3A =232ba6cb =
+=21important=3B=0D=0A=7D=0D=0Ah3 a=3Avisited=0D=0A=7B=0D=0Acolor=3A =232b=
+a6cb =21important=3B=0D=0A=7D=0D=0Ah4 a=3Avisited =7B=0D=0Acolor=3A =232b=
+a6cb =21important=3B=0D=0A=7D=0D=0Ah5 a=3Avisited =7B=0D=0Acolor=3A =232b=
+a6cb =21important=3B=0D=0A=7D=0D=0Ah6 a=3Avisited =7B=0D=0Acolor=3A =232b=
+a6cb =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Ahover td =7B=0D=0Abac=
+kground=3A =232795b6 =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Avisit=
+ed td =7B=0D=0Abackground=3A =232795b6 =21important=3B=0D=0A=7D=0D=0Atabl=
+e=2Ebutton=3Aactive td =7B=0D=0Abackground=3A =232795b6 =21important=3B=
+=0D=0A=7D=0D=0Atable=2Ebutton=3Ahover td a =7B=0D=0Acolor=3A =23fff =21im=
+portant=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Avisited td a =7B=0D=0Acolor=3A =
+=23fff =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Aactive td a =7B=0D=
+=0Acolor=3A=0D=0A=23fff =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Aho=
+ver td =7B=0D=0Abackground=3A =232795b6 =21important=3B=0D=0A=7D=0D=0Atab=
+le=2Etiny=2Dbutton=3Ahover td =7B=0D=0Abackground=3A =232795b6 =21importa=
+nt=3B=0D=0A=7D=0D=0Atable=2Esmall=2Dbutton=3Ahover td =7B=0D=0Abackground=
+=3A =232795b6 =21important=3B=0D=0A=7D=0D=0Atable=2Emedium=2Dbutton=3Ahov=
+er td =7B=0D=0Abackground=3A =232795b6 =21important=3B=0D=0A=7D=0D=0Atabl=
+e=2Elarge=2Dbutton=3Ahover td =7B=0D=0Abackground=3A =232795b6 =21importa=
+nt=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Ahover td a =7B=0D=0Acolor=3A =23ffff=
+ff =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton=3Aactive td a =7B=0D=0Aco=
+lor=3A =23ffffff =21important=3B=0D=0A=7D=0D=0Atable=2Ebutton td a=3Avisi=
+ted =7B=0D=0Acolor=3A=0D=0A=23ffffff =21important=3B=0D=0A=7D=0D=0Atable=
+=2Etiny=2Dbutton=3Ahover td a =7B=0D=0Acolor=3A =23ffffff =21important=3B=
+=0D=0A=7D=0D=0Atable=2Etiny=2Dbutton=3Aactive td a =7B=0D=0Acolor=3A =23f=
+fffff =21important=3B=0D=0A=7D=0D=0Atable=2Etiny=2Dbutton td a=3Avisited =
+=7B=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=7D=0D=0Atable=2Esmall=
+=2Dbutton=3Ahover td a =7B=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=
+=7D=0D=0Atable=2Esmall=2Dbutton=3Aactive td a =7B=0D=0Acolor=3A =23ffffff=
+ =21important=3B=0D=0A=7D=0D=0Atable=2Esmall=2Dbutton td a=3Avisited =7B=
+=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=7D=0D=0Atable=2Emedium=2Db=
+utton=3Ahover td a =7B=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=7D=
+=0D=0Atable=2Emedium=2Dbutton=3Aactive td a=0D=0A=7B=0D=0Acolor=3A =23fff=
+fff =21important=3B=0D=0A=7D=0D=0Atable=2Emedium=2Dbutton td a=3Avisited =
+=7B=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=7D=0D=0Atable=2Elarge=
+=2Dbutton=3Ahover td a =7B=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=
+=7D=0D=0Atable=2Elarge=2Dbutton=3Aactive td a =7B=0D=0Acolor=3A =23ffffff=
+ =21important=3B=0D=0A=7D=0D=0Atable=2Elarge=2Dbutton td a=3Avisited =7B=
+=0D=0Acolor=3A =23ffffff =21important=3B=0D=0A=7D=0D=0Atable=2Esecondary=
+=3Ahover td =7B=0D=0Abackground=3A =23d0d0d0 =21important=3B color=3A =23=
+555=3B=0D=0A=7D=0D=0Atable=2Esecondary=3Ahover td a =7B=0D=0Acolor=3A =23=
+555 =21important=3B=0D=0A=7D=0D=0Atable=2Esecondary td a=3Avisited =7B=0D=
+=0Acolor=3A =23555=0D=0A=21important=3B=0D=0A=7D=0D=0Atable=2Esecondary=
+=3Aactive td a =7B=0D=0Acolor=3A =23555 =21important=3B=0D=0A=7D=0D=0Atab=
+le=2Esuccess=3Ahover td =7B=0D=0Abackground=3A =23457a1a =21important=3B=
+=0D=0A=7D=0D=0Atable=2Ealert=3Ahover td =7B=0D=0Abackground=3A =23970b0e =
+=21important=3B=0D=0A=7D=0D=0A=2Emobile=2Dshow=7B display=3A none =21impo=
+rtant=3B =7D=0D=0A=40media only screen and =28max=2Dwidth=3A 600px=29 =7B=
+=0D=0Atable=5Bclass=3D=22body=22=5D img =7B=0D=0Awidth=3A auto =21importa=
+nt=3B height=3A auto =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22bod=
+y=22=5D center =7B=0D=0Amin=2Dwidth=3A 0 =21important=3B=0D=0A=7D=0D=0Ata=
+ble=5Bclass=3D=22body=22=5D =2Econtainer =7B=0D=0Awidth=3A 95=25 =21impor=
+tant=3B=0D=0A=7D=0D=0A=0D=0Atable=5Bclass=3D=22body=22=5D =2Erow =7B=0D=
+=0Awidth=3A 100=25 =21important=3B display=3A block =21important=3B=0D=0A=
+=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ewrapper =7B=0D=0Adisplay=3A blo=
+ck =21important=3B padding=2Dright=3A 0 =21important=3B=0D=0A=7D=0D=0Atab=
+le=5Bclass=3D=22body=22=5D =2Ecolumns =7B=0D=0Atable=2Dlayout=3A fixed =
+=21important=3B float=3A none =21important=3B width=3A 100=25 =21importan=
+t=3B padding=2Dright=3A 0px =21important=3B padding=2Dleft=3A 0px =21impo=
+rtant=3B display=3A block =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=
+=22body=22=5D =2Ecolumn =7B=0D=0Atable=2Dlayout=3A fixed =21important=3B =
+float=3A none =21important=3B width=3A 100=25=0D=0A=21important=3B paddin=
+g=2Dright=3A 0px =21important=3B padding=2Dleft=3A 0px =21important=3B di=
+splay=3A block =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=
+=5D =2Ewrapper=2Efirst =2Ecolumns =7B=0D=0Adisplay=3A table =21important=
+=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ewrapper=2Efirst =2Ecol=
+umn =7B=0D=0Adisplay=3A table =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=
+=3D=22body=22=5D table=2Ecolumns td =7B=0D=0Awidth=3A 100=25 =21important=
+=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D table=2Ecolumn td =7B=0D=
+=0Awidth=3A 100=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=
+=22=5D =2Ecolumns td=2Eone =7B=0D=0Awidth=3A 25px=0D=0A=21important=3B=0D=
+=0Apadding=2Dright=3A 5px =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=
+=22body=22=5D =2Ecolumn td=2Eone =7B=0D=0Awidth=3A 25px =21important=3B=
+=0D=0Apadding=2Dright=3A 5px =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=
+=3D=22body=22=5D =2Ecolumns td=2Etwo =7B=0D=0Awidth=3A 16=2E666666=25 =21=
+important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumn td=2Et=
+wo =7B=0D=0Awidth=3A 16=2E666666=25 =21important=3B=0D=0A=7D=0D=0Atable=
+=5Bclass=3D=22body=22=5D =2Ecolumns td=2Ethree =7B=0D=0Awidth=3A 25=25 =
+=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumn td=
+=2Ethree =7B=0D=0Awidth=3A 25=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bcl=
+ass=3D=22body=22=5D =2Ecolumns td=2Efour=0D=0A=7B=0D=0Awidth=3A 33=2E3333=
+33=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolu=
+mn td=2Efour =7B=0D=0Awidth=3A 33=2E333333=25 =21important=3B=0D=0A=7D=0D=
+=0Atable=5Bclass=3D=22body=22=5D =2Ecolumns td=2Efive =7B=0D=0Awidth=3A 4=
+1=2E666666=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D=
+ =2Ecolumn td=2Efive =7B=0D=0Awidth=3A 41=2E666666=25 =21important=3B=0D=
+=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumns td=2Esix =7B=0D=0Awi=
+dth=3A 50=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =
+=2Ecolumn td=2Esix =7B=0D=0Awidth=3A 50=25 =21important=3B=0D=0A=7D=0D=0A=
+table=5Bclass=3D=22body=22=5D =2Ecolumns td=2Eseven =7B=0D=0Awidth=3A 58=
+=2E333333=25=0D=0A=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=
+=22=5D =2Ecolumn td=2Eseven =7B=0D=0Awidth=3A 58=2E333333=25 =21important=
+=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumns td=2Eeight =7B=
+=0D=0Awidth=3A 66=2E666666=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=
+=3D=22body=22=5D =2Ecolumn td=2Eeight =7B=0D=0Awidth=3A 66=2E666666=25 =
+=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumns td=
+=2Enine =7B=0D=0Awidth=3A 75=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bcla=
+ss=3D=22body=22=5D =2Ecolumn td=2Enine =7B=0D=0Awidth=3A 75=25 =21importa=
+nt=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumns td=2Eten =7B=
+=0D=0Awidth=3A 83=2E333333=25 =21important=3B=0D=0A=7D=0D=0A=0D=0Atable=
+=5Bclass=3D=22body=22=5D =2Ecolumn td=2Eten =7B=0D=0Awidth=3A 83=2E333333=
+=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumn=
+s td=2Eeleven =7B=0D=0Awidth=3A 91=2E666666=25 =21important=3B=0D=0A=7D=
+=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumn td=2Eeleven =7B=0D=0Awidth=
+=3A 91=2E666666=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=
+=22=5D =2Ecolumns td=2Etwelve =7B=0D=0Awidth=3A 100=25 =21important=3B=0D=
+=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ecolumn td=2Etwelve =7B=0D=0A=
+width=3A 100=25 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=
+=5D td=2Eoffset=2Dby=2Done =7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=
+=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D=0D=0Atd=2Eoffset=2Dby=2Dtwo =
+=7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=
+=3D=22body=22=5D td=2Eoffset=2Dby=2Dthree =7B=0D=0Apadding=2Dleft=3A 0 =
+=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D td=2Eoffset=
+=2Dby=2Dfour =7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=0D=0A=7D=0D=0At=
+able=5Bclass=3D=22body=22=5D td=2Eoffset=2Dby=2Dfive =7B=0D=0Apadding=2Dl=
+eft=3A 0 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D td=
+=2Eoffset=2Dby=2Dsix =7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=0D=0A=
+=7D=0D=0Atable=5Bclass=3D=22body=22=5D td=2Eoffset=2Dby=2Dseven =7B=0D=0A=
+padding=2Dleft=3A 0 =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=
+=22=5D td=2Eoffset=2Dby=2Deight =7B=0D=0A=0D=0Apadding=2Dleft=3A 0 =21imp=
+ortant=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D td=2Eoffset=2Dby=2D=
+nine =7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=0D=0A=7D=0D=0Atable=5Bc=
+lass=3D=22body=22=5D td=2Eoffset=2Dby=2Dten =7B=0D=0Apadding=2Dleft=3A 0 =
+=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D td=2Eoffset=
+=2Dby=2Deleven =7B=0D=0Apadding=2Dleft=3A 0 =21important=3B=0D=0A=7D=0D=
+=0Atable=5Bclass=3D=22body=22=5D table=2Ecolumns td=2Eexpander =7B=0D=0Aw=
+idth=3A 1px =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =
+=2Eright=2Dtext=2Dpad =7B=0D=0Apadding=2Dleft=3A 30px =21important=3B=0D=
+=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Etext=2Dpad=2Dright =7B=0D=0A=
+padding=2Dleft=3A 30px=0D=0A=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=
+=3D=22body=22=5D =2Eleft=2Dtext=2Dpad =7B=0D=0Apadding=2Dright=3A 30px =
+=21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Etext=2Dpad=
+=2Dleft =7B=0D=0Apadding=2Dright=3A 30px =21important=3B=0D=0A=7D=0D=0Ata=
+ble=5Bclass=3D=22body=22=5D =2Ehide=2Dfor=2Dsmall =7B=0D=0Adisplay=3A non=
+e =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Eshow=2Df=
+or=2Ddesktop =7B=0D=0Adisplay=3A none =21important=3B=0D=0A=7D=0D=0Atable=
+=5Bclass=3D=22body=22=5D =2Eshow=2Dfor=2Dsmall =7B=0D=0Adisplay=3A inheri=
+t =21important=3B=0D=0A=7D=0D=0Atable=5Bclass=3D=22body=22=5D =2Ehide=2Df=
+or=2Ddesktop =7B=0D=0Adisplay=3A inherit =21important=3B=0D=0A=7D=0D=0A=
+=0D=0A=2Eforce=2Drow =7B=0D=0Awidth=3A 100=25 =21important=3B max=2Dwidth=
+=3A 100=25 =21important=3B=0D=0A=7D=0D=0A=2Eforce=2Drow td =7B=0D=0Aborde=
+r=3A none =21important=3B=0D=0A=7D=0D=0A=2Efooter=2Dicons =7B=0D=0Awidth=
+=3A 28px =21important=3B=0D=0A=7D=0D=0A=2Emobile=2Dimages=7B padding=3A 1=
+5px 15px 15px 15px =21important=3B =7D=0D=0A=2Emobile=2Dpaddings=2Dheader=
+=7B padding=3A 15px 15px 15px 20px =21important=3B =7D=0D=0A=0D=0A=2Emobi=
+le=2Dheading=7B font=2Dsize=3A 36px =21important=3B line=2Dheight=3A 42px=
+ =21important=3B =7D=0D=0A=2Emobile=2Dsub=2Dheading=7B font=2Dsize=3A 24p=
+x =21important=3B line=2Dheight=3A 30px =21important=3B =7D=0D=0Ah5=7B fo=
+nt=2Dsize=3A 22px=0D=0A=21important=3B line=2Dheight=3A 28px =21important=
+=3B font=2Dweight=3A bold =21important=3B =7D=0D=0Ah6=7B font=2Dsize=3A 2=
+4px =21important=3B line=2Dheight=3A 32px =21important=3B font=2Dweight=
+=3A normal =21important=3B =7D=0D=0A=2Econtent=2Dcopy=2Dmobile=7B font=2D=
+size=3A 18px =21important=3B line=2Dheight=3A 24px =21important=3B =7D=0D=
+=0A=2Efooter=2Dcopy=2Dmobile=2C =2Epre=2Dheader=2Dcopy=2Dmobile=7B font=
+=2Dsize=3A 12px =21important=3B line=2Dheight=3A 18px =21important=3B =7D=
+=0D=0A=2Ebutton=2Dcopy=2Dmobile=7B font=2Dsize=3A 18px =21important=3B li=
+ne=2Dheight=3A 22px =21important=3B =7D=0D=0A=0D=0Atd=5Bclass=3D=22sideba=
+r=2Dfor=2Dmobile=22=5D =7B=0D=0Apadding=2Dleft=3A=0D=0A0px =21important=
+=3B padding=2Dright=3A 0px =21important=3B padding=2Dtop=3A 10px =21impor=
+tant=3B padding=2Dbottom=3A 25px =21important=3B=0D=0A=7D=0D=0Atd=5Bclass=
+=3D=22sidebar=2Dcontent=2Dimage=22=5D =7B=0D=0Apadding=2Dleft=3A 20px =21=
+important=3B padding=2Dtop=3A 22px =21important=3B=0D=0A=7D=0D=0A=2Esideb=
+ar=2Dtext=7B padding=2Dleft=3A 20px =21important=3B =7D=0D=0A=0D=0A=2Ebut=
+ton=2Dmobile=7B width=3A 100=25 =21important=3B =7D=0D=0A=0D=0A=2Etop=2Dm=
+odules=2Dmobile=7B height=3A 220px =21important=3B =7D=0D=0A=2Emobile=2Dp=
+addings=7B padding=3A 15px 15px 15px 20px =21important=3B =7D=0D=0A=2Emob=
+ile=2Dpaddings=2Dintro=7B padding=3A 0px 15px 15px 20px=0D=0A=21important=
+=3B =7D=0D=0A=2Emobile=2Dpaddings=2Danrede=7B padding=3A 30px 15px 15px 2=
+0px =21important=3B =7D=0D=0A=2Emobile=2Dpaddings=2Dmain=2Dcontent=7B pad=
+ding=3A 5px 15px 0px 20px =21important=3B =7D=0D=0A=2Emobile=2Dpaddings=
+=2Dmain=2Dcontent=2Dgrey=7B padding=3A 5px 10px 5px 0px =21important=3B =
+=7D=0D=0A=2Ebutton=2Dpaddings=7B width=3A 15px =21important=3B =7D=0D=0A=
+=2Emobile=2Dhide=7B display=3A none =21important=3B =7D=0D=0A=2Emobile=2D=
+show=7B display=3A block =21important=3B =7D=0D=0A=2Elogo=2Dmobile=2Dpad=
+=7B padding=2Dleft=3A 15px =21important=3B =7D=0D=0A=2Emobile=2Dbutton=2D=
+left=2Dpad=7B width=3A 0px =21important=3B=0D=0A=7D=0D=0A=2Ebuttom=2Dmobi=
+le=2Dpaddings=7B padding=3A 20px 20px 35px 20px =21important=3B=7D=0D=0A=
+=2Emobile=2Dpaddings=2Dbottom=2Dsalutation=7B padding=3A 25px 25px 25px 2=
+0px =21important=3B =7D=0D=0A=0D=0Aspan=5Bid=3Dswitcher=5D =7B=0D=0Adispl=
+ay=3Ablock=3B=0D=0Abackground=2Dimage=3A url=28=27http=3A=2F=2Finfo=2Ecad=
+content=2Ecom=2Fimg=2F268002=2F5730=2F800059661=2F2748056=2F4864=2F7b2db0=
+37=2F=27=29=3B=0D=0Abackground=2Drepeat=3A no=2Drepeat =21important=3B=0D=
+=0Abackground=2Dposition=3A center =21important=3B=0D=0Awidth=3A 122px =
+=21important=3B=0D=0Aheight=3A 31px=0D=0A=21important=3B=0D=0A=7D=0D=0Aim=
+g=5Bclass=3Dhoudini=5D =7Bdisplay=3A none =21important=3B=7D=0D=0A=2Ewhit=
+e=2Dbackground=2Dmobile=7B background=2Dcolor=3A =23ffffff =21important=
+=3B =7D=0D=0A=2EappleLinksFooter a =7Bcolor=3A=23ffffff=3B text=2Ddecorat=
+ion=3A none=3B=7D=0D=0A=2EappleLinksCopy a =7B color=3A =23000000=3B text=
+=2Ddecoration=3A none=3B=7D=0D=0A=2EappleLinksWhite a =7Bcolor=3A=23fffff=
+f=3B=7D=0D=0Aspan=5Bid=3Dmobile=2Dgradient=5D=7B=0D=0Adisplay=3Ablock=3B=
+=0D=0Abackground=2Dcolor=3A =23009999=3B=0D=0Abackground=2Drepeat=3A no=
+=2Drepeat =21important=3B=0D=0Abackground=2Dposition=3A center =21importa=
+nt=3B=0D=0Awidth=3A auto =21important=3B=0D=0Aheight=3A 45px =21important=
+=3B=0D=0A=7D=0D=0A=2Emobile=2Dno=2Dbg=2Dimage=7B background=2Dimage=3A no=
+ne =21important=3B =7D=0D=0A=7D=0D=0Aimg=5Bclass=3Dgradient=2Dstripe=5D=
+=7Bdisplay=3A none=3B width=3A0=3B height=3A0=3B overflow=3Ahidden=3B flo=
+at=3Anone=3B visibility=3Ahidden=3B=0D=0Aborder=3Anone=3Bfont=2Dsize=3A0=
+=3B max=2Dheight=3A0=3B mso=2Dhide=3A all=7D=0D=0A=0D=0A=3C=2Fstyle=3E=0D=
+=0A=3C=2Fhead=3E=0D=0A=3Cbody class=3D=22white=2Dbackground=2Dmobile=22 s=
+tyle=3D=22width=3A 100=25 =21important=3B min=2Dwidth=3A 100=25=3B =2Dweb=
+kit=2Dtext=2Dsize=2Dadjust=3A 100=25=3B =2Dms=2Dtext=2Dsize=2Dadjust=3A 1=
+00=25=3B color=3A =23222222=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B =
+font=2Dweight=3A normal=3B text=2Dalign=3A left=3B line=2Dheight=3A 20px=
+=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0=3B background=2Dco=
+lor=3A =23879baa=3B=22=3E=0D=0A=0D=0A=3Ctable align=3D=22center=22=3E=3Ct=
+r=3E=0D=0A=3Ctd style=3D=22color=3A =23ffffff=3B font=2Dfamily=3A Arial=
+=2C sans=2Dserif=3B font=2Dsize=3A 11px=3B line=2Dheight=3A 15px=3B paddi=
+ng=2Dbottom=3A 5px=3B=22=3E=0D=0A=3Ccenter=3EIf this message is not corre=
+ctly displayed=2C =3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ft=
+rk=2F268003=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 style=3D=
+=22color=3A=23ffffff=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2D=
+size=3A 11px=3B font=2Dweight=3A bold=3B text=2Ddecoration=3A none=3B=22=
+=3Eclick here=3C=2Fa=3E=2E=3Cbr=3E=0D=0A=3Cbr=3E=0D=0A=3C=2Fcenter=3E=3C=
+=2Ftd=3E=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftable=3E=0D=0A=0D=0A=3Ctable class=
+=3D=22body=22 style=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A co=
+llapse=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B height=3A 10=
+0=25=3B width=3A 100=25=3B color=3A =23222222=3B font=2Dfamily=3A Arial=
+=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B f=
+ont=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0=3B background=2Dcolor=
+=3A =23879baa=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dalign=3A top=
+=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=0D=
+=0A=3Ctd class=3D=22center white=2Dbackground=2Dmobile=22 align=3D=22cent=
+er=22 valign=3D=22top=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwe=
+bkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B =
+border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A top=3B =
+text=2Dalign=3A center=3B color=3A =23222222=3B font=2Dfamily=3A Arial=2C=
+ sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=
+=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0=3B background=2Dcolor=3A =
+=23879baa=3B=22=3E=0D=0A=3Ccenter style=3D=22width=3A 100=25=3B min=2Dwid=
+th=3A 600px=3B=22 class=3D=22=22=3E=0D=0A=0D=0A=0D=0A=3Ctable class=3D=22=
+container=22 style=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A col=
+lapse=3B vertical=2Dalign=3A top=3B text=2Dalign=3A inherit=3B width=3A 6=
+00px=3B margin=3A 0 auto=3B padding=3A 0=3B=22=3E=3Ctbody=3E=3Ctr style=
+=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=
+=22 align=3D=22left=22=3E=0D=0A=3Ctd style=3D=22word=2Dbreak=3A break=2Dw=
+ord=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=
+=3A auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalig=
+n=3A top=3B text=2Dalign=3A left=3B color=3A =23222222=3B font=2Dfamily=
+=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A =
+20px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0=3B background=
+=2Dcolor=3A =23ffffff=3B=22 align=3D=22left=22 valign=3D=22top=22=3E=0D=
+=0A=0D=0A=0D=0A=3Ctable class=3D=22row=22 style=3D=22border=2Dspacing=3A =
+0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2Da=
+lign=3A left=3B width=3A 100=25=3B position=3A relative=3B display=3A blo=
+ck=3B padding=3A 0px=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dalign=
+=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=
+=3E=0D=0A=3Ctd class=3D=22wrapper last=22 style=3D=22word=2Dbreak=3A brea=
+k=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hy=
+phens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B position=3A relative=3B color=
+=3A =23222222=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=
+=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=3B margin=3A 0=
+=3B padding=3A 6px 0 15px=3B=22 align=3D=22left=22 valign=3D=22top=22=3E=
+=0D=0A=0D=0A=0D=0A=3Ctable style=3D=22border=2Dspacing=3A 0=3B border=2Dc=
+ollapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B=
+ width=3A 600px=3B margin=3A 0 auto=3B padding=3A 0=3B=22=3E=0D=0A=3Ctbod=
+y=3E=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A center=3B=
+=22 align=3D=22center=22=3E=0D=0A=3Ctd style=3D=22padding=3A 0px 0px 0px =
+33px=22 width=3D=22100=25=22=3E=0D=0A=3C=21=2D=2D Re=2Dengage Dynamic Con=
+tent =2D=2D=3E=0D=0A=0D=0A=3Chr color=3D=22=23FFFFFF=22=3E=0D=0A=3C=21=2D=
+=2D End Re=2Dengage Dynamic Content =2D=2D=3E=0D=0A=3C=2Ftd=3E=0D=0A=3C=
+=2Ftr=3E=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A=
+ left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=3Ctd class=3D=22six sub=
+=2Dcolumns logo=2Dmobile=2Dpad=22 style=3D=22word=2Dbreak=3A break=2Dword=
+=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A=
+ auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=
+=3A top=3B text=2Dalign=3A left=3B min=2Dwidth=3A 0px=3B width=3A 50=25=
+=3B color=3A =23222222=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=
+=2Dweight=3A normal=3B line=2Dheight=3A 19px=3B font=2Dsize=3A 14px=3B ma=
+rgin=3A 0=3B padding=3A 0px 0px 0px 30px=3B=22 align=3D=22left=22 valign=
+=3D=22top=22=3E=0D=0A=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=
+=2Ftrk=2F268004=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 targ=
+et=3D=22=5Fblank=22=3E=3Cimg alt=3D=22image=22 class=3D=22mobile=2Dhide=
+=22 src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268005=2F5730=
+=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 style=3D=22width=3A 131px=
+=3B max=2Dwidth=3A 131px=3B height=3A 55px=3B outline=3A none=3B text=2Dd=
+ecoration=3A none=3B =2Dms=2Dinterpolation=2Dmode=3A bicubic=3B float=3A =
+left=3B clear=3A both=3B display=3A block=3B border=3A none=3B=22 width=
+=3D=22131=22 height=3D=2255=22 align=3D=22left=22=3E=3C=2Fa=3E=0D=0A=3Ca =
+href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268006=2F5730=2F80=
+0059661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=5Fblank=22=3E=3Csp=
+an id=3D=22switcher=22=3E=0D=0A=3Cimg id=3D=22houdini=22 src=3D=22http=3A=
+=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268007=2F5730=2F800059661=2F2748056=
+=2F4864=2F7b2db037=2F=22 alt=3D=22=22 style=3D=22display=3Anone=3B=22=3E=
+=0D=0A=3C=2Fspan=3E=3C=2Fa=3E=3C=2Ftd=3E=0D=0A=3Ctd class=3D=22six sub=2D=
+columns last pre=2Dheader=2Dcopy=2Dmobile=22 align=3D=22right=22 style=3D=
+=22text=2Dalign=3A right=3B vertical=2Dalign=3A middle=3B word=2Dbreak=3A=
+ break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=
+=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B min=
+=2Dwidth=3A 0px=3B width=3A 48=25=3B color=3A =23222222=3B font=2Dfamily=
+=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A =
+19px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0px 10px 0px 0px=
+=3B=22 valign=3D=22middle=22=3E=26nbsp=3B=0D=0A=0D=0A=3C=2Ftd=3E=0D=0A=0D=
+=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=3C=2Ftd=3E=3C=2Ftr=3E=0D=
+=0A=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=0D=0A=3C=21=2D=2D Module Gradient C=
+ontent =2D=2D=3E=0D=0A=3Ctable class=3D=22row=22 style=3D=22border=2Dspac=
+ing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B t=
+ext=2Dalign=3A left=3B width=3A 100=25=3B position=3A relative=3B display=
+=3A block=3B padding=3A 0px=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22=
+left=22=3E=0D=0A=3Ctd class=3D=22wrapper last=22 style=3D=22word=2Dbreak=
+=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A au=
+to=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B ve=
+rtical=2Dalign=3A top=3B text=2Dalign=3A left=3B position=3A relative=3B =
+color=3A =23222222=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dwe=
+ight=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=3B margin=
+=3A 0=3B padding=3A 0px=3B=22 align=3D=22left=22 valign=3D=22top=22=3E=0D=
+=0A=0D=0A=3Ctable cellpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22=
+left=22 border=3D=220=22 width=3D=22100=25=22=3E=0D=0A=3Ctbody=3E=0D=0A=
+=3Ctr=3E=0D=0A=0D=0A=3C=21=2D=2D Masthead text=2Flogo =2D=2D=3E=0D=0A=3Ct=
+d class=3D=22top=2Dmodules=2Dmobile mobile=2Dno=2Dbg=2Dimage=22 backgroun=
+d=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268008=2F5730=2F80005=
+9661=2F2748056=2F4864=2F7b2db037=2F=22 bgcolor=3D=22=23009999=22 width=3D=
+=22600=22 valign=3D=22top=22 style=3D=22padding=3A 0px=3B mso=2Dline=2Dhe=
+ight=2Drule=3Aexactly=3B=22=3E=0D=0A=3C=21=2D=2D=5Bif gte mso 9=5D=3E=0D=
+=0A=3Cv=3Arect xmlns=3Av=3D=22urn=3Aschemas=2Dmicrosoft=2Dcom=3Avml=22 fi=
+ll=3D=22true=22 stroke=3D=22false=22 style=3D=22width=3A 600px=3Bmso=2Dli=
+ne=2Dheight=2Drule=3Aexactly=3B=22=3E=0D=0A=0D=0A=3Cv=3Afill type=3D=22ti=
+le=22 src=3D=22http=3A=2F=2Fimg04=2Een25=2Ecom=2FEloquaImages=2Fclients=
+=2FSiemensPL=2F=257Ba3f812dd=2D6d63=2D4e73=2D8095=2D4d77bbe4c51a=257D=5Fg=
+radient=5Fbackground=5Fimage=2Ejpg=22 color=3D=22=2331537a=22 =2F=3E=0D=
+=0A=3Cv=3Atextbox style=3D=22mso=2Dfit=2Dshape=2Dto=2Dtext=3Atrue=22 inse=
+t=3D=220=2C0=2C0=2C0=22=3E=0D=0A=3C=21=5Bendif=5D=2D=2D=3E=0D=0A=3Cdiv=3E=
+=0D=0A=3Ctable cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=
+=22 width=3D=22100=25=22=3E=0D=0A=3Ctbody=3E=3Ctr=3E=0D=0A=3Ctd valign=3D=
+=22top=22=3E=0D=0A=3Ctable cellpadding=3D=220=22 cellspacing=3D=220=22 bo=
+rder=3D=220=22 width=3D=22100=25=22=3E=0D=0A=3Ctbody=3E=3Ctr=3E=0D=0A=0D=
+=0A=3Ctd class=3D=22mobile=2Dpaddings=2Dheader=22 style=3D=22padding=3A 3=
+3px 33px 25px 33px=3B=22=3E=0D=0A=0D=0A=3Ch1 class=3D=22mobile=2Dheading=
+=22 style=3D=22font=2Dsize=3A 36px=3B font=2Dfamily=3A Arial=2C sans=2Dse=
+rif=3B color=3A rgb=28255=2C 255=2C 255=29=3B line=2Dheight=3A 42px=3B fo=
+nt=2Dweight=3A normal=3B padding=3A 0px=3B margin=3A 0px=3B border=2Dstyl=
+e=3A none=3B=22=3EFrontloading controls validation using virtual calibrat=
+ion =3C=2Fh1=3E=0D=0A=3Cbr style=3D=22line=2Dheight=3A 6px=3B font=2Dsize=
+=3A 6px=3B=22=3E=0D=0A=0D=0A=3Ch3 class=3D=22mobile=2Dsub=2Dheading=22 st=
+yle=3D=22font=2Dsize=3A 24px=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B=
+ color=3A rgb=28255=2C 255=2C 255=29=3B line=2Dheight=3A 30px=3B font=2Dw=
+eight=3A normal=3B padding=3A 0px=3B margin=3A 0px=3B border=2Dstyle=3A n=
+one=3B=22=3ELive Webinar=3A=26nbsp=3B December 6=3C=2Fh3=3E=0D=0A=3C=2Ftd=
+=3E=0D=0A=3C=2Ftr=3E=0D=0A=3Ctr=3E=0D=0A=3Ctd class=3D=22buttom=2Dmobile=
+=2Dpaddings=22 style=3D=22padding=3A 0px 33px 5px 0px=3B=22=3E=0D=0A=0D=
+=0A=3Ctable class=3D=22button=2Dmobile=22 style=3D=22border=2Dspacing=3A =
+0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2Da=
+lign=3A left=3B width=3A 200px=3B overflow=3A hidden=3B padding=3A 0=3B=
+=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=
+=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=0D=0A=3Ctd class=3D=
+=22show=2Dfor=2Ddesktop=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =2D=
+webkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=
+=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A top=
+=3B text=2Dalign=3A left=3B color=3A =23ffffff=3B font=2Dfamily=3A Arial=
+=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B f=
+ont=2Dsize=3A 18px=3B=22=3E=0D=0A=3Cimg alt=3D=22Siemens PLM Software=22 =
+src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268009=2F5730=2F800=
+059661=2F2748056=2F4864=2F7b2db037=2F=22 width=3D=2225=22 style=3D=22widt=
+h=3A 25px=3B max=2Dwidth=3A 25px=3B=22=3E=0D=0A=0D=0A=3C=2Ftd=3E=0D=0A=3C=
+td style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=
+=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A c=
+ollapse =21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=
+=3B color=3A =23ffffff=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=
+=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 18px=3B di=
+splay=3A block=3B width=3A auto =21important=3B background=3A =23faa50a=
+=3B margin=3A 0=3B padding=3A 11px 14px=3B mso=2Dline=2Dheight=2Drule=3Ae=
+xactly=3B=22 align=3D=22left=22 bgcolor=3D=22=23faa50a=22 valign=3D=22top=
+=22 class=3D=22=22=3E=0D=0A=0D=0A=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadco=
+ntent=2Ecom=2Ftrk=2F268010=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=
+=2F=22 target=3D=22=5Fnew=22 class=3D=22button=2Dcopy=2Dmobile=22 style=
+=3D=22color=3A =23ffffff=3B text=2Ddecoration=3A none=3B font=2Dweight=3A=
+ normal=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dsize=3A 14px=
+=3B line=2Dheight=3A 20px=3B=22=3E=3Cstrong class=3D=22button=2Dcopy=2Dmo=
+bile=22 style=3D=22color=3A =23ffffff=3B text=2Ddecoration=3A none=3B fon=
+t=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dsize=3A 14px=3B line=2Dheig=
+ht=3A 20px=3B=22=3ERegister now=3C=2Fstrong=3E=3C=2Fa=3E=0D=0A=3C=2Ftd=3E=
+=0D=0A=3C=2Ftr=3E=0D=0A=3Ctr=3E=0D=0A=0D=0A=3Ctd class=3D=22show=2Dfor=2D=
+desktop=22 colspan=3D=222=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =
+=2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A aut=
+o=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A to=
+p=3B text=2Dalign=3A left=3B color=3A =23ffffff=3B font=2Dfamily=3A Arial=
+=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B f=
+ont=2Dsize=3A 18px=3B=22=3E=0D=0A=0D=0A=3Cimg alt=3D=22Siemens PLM Softwa=
+re=22 src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268011=2F5730=
+=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 height=3D=2223=22 style=3D=
+=22height=3A 23px =21important=3B=22 class=3D=22=22=3E=0D=0A=3C=2Ftd=3E=
+=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=3C=2Ftd=3E=0D=
+=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=3C=2Ftd=3E=0D=0A=
+=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=0D=0A=3C=2Fdiv=3E=0D=
+=0A=3C=21=2D=2D=5Bif gte mso 9=5D=3E=0D=0A=3C=2Fv=3Atextbox=3E=0D=0A=3C=
+=2Fv=3Arect=3E=0D=0A=3C=21=5Bendif=5D=2D=2D=3E=0D=0A=0D=0A=3C=2Ftd=3E=0D=
+=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=0D=0A=3C=2Ftable=3E=0D=0A=0D=0A=3C=2Ft=
+d=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=3C=21=2D=2D End M=
+odule Gradient Content =2D=2D=3E=0D=0A=0D=0A=3C=21=2D=2D Module Text on w=
+hite background =2D=2D=3E=0D=0A=3Ctable class=3D=22row=22 style=3D=22bord=
+er=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A=
+ top=3B text=2Dalign=3A left=3B width=3A 100=25=3B position=3A relative=
+=3B display=3A block=3B padding=3A 0px=3B=22=3E=3Ctbody=3E=3Ctr style=3D=
+=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 =
+align=3D=22left=22=3E=0D=0A=3Cth class=3D=22wrapper last=22 style=3D=22wo=
+rd=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyp=
+hens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =21impor=
+tant=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B position=3A re=
+lative=3B color=3A =23222222=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B=
+ font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=
+=3B margin=3A 0=3B padding=3A 0px=3B=22 align=3D=22left=22 valign=3D=22to=
+p=22=3E=0D=0A=0D=0A=0D=0A=3Ctable class=3D=22eight columns=22 style=3D=22=
+border=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalig=
+n=3A top=3B text=2Dalign=3A left=3B width=3A 395px=3B margin=3A 0 auto=3B=
+ padding=3A 0=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dalign=3A top=
+=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=0D=
+=0A=3Ctd class=3D=22mobile=2Dpaddings=2Danrede=22 style=3D=22word=2Dbreak=
+=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A au=
+to=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B ve=
+rtical=2Dalign=3A top=3B text=2Dalign=3A left=3B color=3A =23000000=3B fo=
+nt=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=
+=2Dheight=3A 20px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 25p=
+x 30px 15px=3B=22 align=3D=22left=22 valign=3D=22top=22=3E=0D=0A=0D=0A=0D=
+=0A=3Ch3 style=3D=22font=2Dfamily=3A Arial=2C sans=2Dserif=3B color=3A =
+=23000000=3B font=2Dweight=3A normal=3B text=2Dalign=3A left=3B line=2Dhe=
+ight=3A 30px=3B word=2Dbreak=3A normal=3B font=2Dsize=3A 24px=3B margin=
+=3A 0=3B padding=3A 0=3B=22 align=3D=22left=22=3E=3C=2Fh3=3E=0D=0A=3C=2Ft=
+d=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=0D=0A=3Ctable cla=
+ss=3D=22eight columns=22 style=3D=22border=2Dspacing=3A 0=3B border=2Dcol=
+lapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B w=
+idth=3A 395px=3B margin=3A 0 auto=3B padding=3A 0=3B=22=3E=3Ctbody=3E=0D=
+=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B pa=
+dding=3A 0=3B=22 align=3D=22left=22=3E=3Ctd class=3D=22mobile=2Dpaddings=
+=2Dintro=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphen=
+s=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcoll=
+apse=3A collapse =21important=3B vertical=2Dalign=3A top=3B text=2Dalign=
+=3A left=3B color=3A =23000000=3B font=2Dfamily=3A Arial=2C sans=2Dserif=
+=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14=
+px=3B margin=3A 0=3B padding=3A 0px 30px 15px=3B=22 align=3D=22left=22 va=
+lign=3D=22top=22=3E=0D=0A=0D=0A=0D=0A=3Ch3 style=3D=22font=2Dfamily=3A Ar=
+ial=2C sans=2Dserif=3B color=3A =237d7d7d=3B font=2Dweight=3A normal=3B t=
+ext=2Dalign=3A left=3B line=2Dheight=3A 30px=3B word=2Dbreak=3A normal=3B=
+ font=2Dsize=3A 24px=3B margin=3A 0=3B padding=3A 0=3B=22 align=3D=22left=
+=22 class=3D=22=22=3EEnable virtual calibration with model=2Dbased engine=
+ering=3C=2Fh3=3E=0D=0A=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=
+=2Ftable=3E=0D=0A=0D=0A=0D=0A=3Ctable class=3D=22eight columns=22 style=
+=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B width=3A 395px=3B margin=3A 0 =
+auto=3B padding=3A 0=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dalign=
+=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=
+=3E=0D=0A=3Ctd class=3D=22mobile=2Dpaddings=2Dmain=2Dcontent=22 style=3D=
+=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=
+=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =
+=21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B color=
+=3A =23000000=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=
+=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=3B margin=3A 0=
+=3B padding=3A 0px 30px 5px=3B=22 bgcolor=3D=22=23ffffff=22 align=3D=22le=
+ft=22 valign=3D=22top=22=3E=0D=0A=0D=0A=3Cspan class=3D=22content=2Dcopy=
+=2Dmobile=22 style=3D=22font=2Dfamily=3A Arial=2C sans=2Dserif=3B=22=3E=
+=0D=0A=3Cp=3ESoftware code sizes have considerably expended over the past=
+ decade=2C and the rise of electrification and autonomous vehicles is dra=
+stically amplifying this phenomena=2E Managing the conflicting calibratio=
+n requirements and attributes through physical validation and testing is =
+not sustainable anymore=2C from a costs and time perspective=2E A new app=
+roach is essential=2C and model=2Dbased development including virtual cal=
+ibration is becoming a key success factor=2E=3C=2Fp=3E=0D=0A=3Cp=3EIn thi=
+s =3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268012=2F57=
+30=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=5Fnew=22 ti=
+tle=3D=22link title=22=3E=3Cstrong=3Elive webinar=3C=2Fstrong=3E=3C=2Fa=
+=3E=2C web =19re introducing application cases where system simulation is=
+ applied to accelerate controls calibration=2E Our experts will explain h=
+ow calibration achievement can be frontloaded at different stage of the c=
+ontrol development process to reduce risks at later development stages th=
+ough concrete application cases=2E=0D=0A=3C=2Fp=3E=09=09=09=09=09=09=09=
+=3C=2Fspan=3E=0D=0A=0D=0A=0D=0A=3Ctable style=3D=22border=2Dspacing=3A 0=
+=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2Dal=
+ign=3A left=3B width=3A 100=25=3B overflow=3A hidden=3B padding=3A 0=3B=
+=22=3E=3Ctbody=3E=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=
+=2Dalign=3A left=3B padding=3A 0=3B margin=3A 0=3B=22 align=3D=22left=22=
+=3E=0D=0A=3Ctd style=3D=22padding=3A 25px 0 25px=3B=22 valign=3D=22top=22=
+ class=3D=22=22=3E=0D=0A=0D=0A=3Ctable class=3D=22button=2Dmobile=22 styl=
+e=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B width=3A 170px=3B overflow=3A =
+hidden=3B padding=3A 0=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=2Dali=
+gn=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B margin=3A 0=3B=22 al=
+ign=3D=22left=22=3E=0D=0A=0D=0A=3Ctd style=3D=22word=2Dbreak=3A break=2Dw=
+ord=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=
+=3A auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalig=
+n=3A top=3B text=2Dalign=3A left=3B color=3A =23ffffff=3B font=2Dfamily=
+=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A =
+20px=3B font=2Dsize=3A 18px=3B display=3A block=3B width=3A auto =21impor=
+tant=3B background=3A =23faa50a=3B margin=3A 0=3B padding=3A 11px 14px=3B=
+ mso=2Dline=2Dheight=2Drule=3Aexactly=3B=22 align=3D=22left=22 bgcolor=3D=
+=22=23faa50a=22 valign=3D=22top=22 class=3D=22=22=3E=0D=0A=0D=0A=3Ca href=
+=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268013=2F5730=2F800059=
+661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=5Fnew=22 class=3D=22bu=
+tton=2Dcopy=2Dmobile=22 style=3D=22color=3A =23ffffff=3B text=2Ddecoratio=
+n=3A none=3B font=2Dweight=3A normal=3B font=2Dfamily=3A Arial=2C sans=2D=
+serif=3B font=2Dsize=3A 14px=3B line=2Dheight=3A 20px=3B=22=3E=3Cstrong c=
+lass=3D=22button=2Dcopy=2Dmobile=22 style=3D=22color=3A =23ffffff=3B text=
+=2Ddecoration=3A none=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=
+=2Dsize=3A 14px=3B line=2Dheight=3A 20px=3B=22=3ERegister now=3C=2Fstrong=
+=3E=3C=2Fa=3E=0D=0A=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=0D=0A=3C=2F=
+table=3E=0D=0A=0D=0A=3C=2Ftd=3E=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=
+=3E=0D=0A=0D=0A=3C=2Ftd=3E=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=3E=
+=0D=0A=0D=0A=3C=2Fth=3E=0D=0A=0D=0A=3Cth class=3D=22wrapper last=22 style=
+=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dm=
+oz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =
+=21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B positi=
+on=3A relative=3B color=3A =23222222=3B font=2Dfamily=3A =27Arial=27=2C s=
+ans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=
+=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0px=3B=22 align=3D=22left=22=
+ valign=3D=22top=22=3E=0D=0A=0D=0A=0D=0A=3Ctable class=3D=22four columns=
+=22 style=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B =
+vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B width=3A 205px=3B marg=
+in=3A 0 auto=3B padding=3A 0=3B=22=3E=3Ctbody=3E=3Ctr style=3D=22vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22=
+left=22=3E=0D=0A=3Ctd style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebki=
+t=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B bor=
+der=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A top=3B tex=
+t=2Dalign=3A left=3B color=3A =23222222=3B font=2Dfamily=3A =27Arial=27=
+=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B f=
+ont=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 0px=3B=22 align=3D=22left=
+=22 valign=3D=22top=22=3E=0D=0A=0D=0A=3Ctable width=3D=22100=25=22 style=
+=3D=22border=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=
+=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22=3E=3Ctbody=
+=3E=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=
+=3B padding=3A 0=3B=22 align=3D=22left=22=3E=3Ctd class=3D=22sidebar=2Dfo=
+r=2Dmobile=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyph=
+ens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dco=
+llapse=3A collapse =21important=3B vertical=2Dalign=3A top=3B text=2Dalig=
+n=3A left=3B font=2Dfamily=3A =27Arial=27=2C sans=2Dserif=3B font=2Dweigh=
+t=3A normal=3B line=2Dheight=3A 18px=3B color=3A =23000000=3B font=2Dsize=
+=3A 14px=3B margin=3A 0=3B padding=3A 0px 0px 20px 13px=3B=22 align=3D=22=
+left=22 valign=3D=22top=22=3E=0D=0A=0D=0A=3Ctable cellspacing=3D=220=22 c=
+ellpadding=3D=220=22 border=3D=220=22 style=3D=22font=2Dfamily=3A Arial=
+=2C sans=2Dserif=3B font=2Dweight=3A bold=3B line=2Dheight=3A 20px=3B fon=
+t=2Dsize=3A 11px=3B border=2Dcollapse=3A collapse=3B mso=2Dtable=2Dlspace=
+=3A 0pt=3B mso=2Dtable=2Drspace=3A 0pt=3B border=2Dspacing=3A 0=3B vertic=
+al=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22=3E=3Ctbod=
+y=3E=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B p=
+adding=3A 0=3B=22 align=3D=22left=22=3E=0D=0A=3Ctd valign=3D=22middle=22 =
+bgcolor=3D=22=23eef0f3=22 align=3D=22left=22 style=3D=22width=3A 100=25=
+=3B word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=
+=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =
+=21important=3B vertical=2Dalign=3A middle=3B text=2Dalign=3A left=3B col=
+or=3A =23000=3B font=2Dfamily=3A Arial=2Csans serif=3B font=2Dweight=3A n=
+ormal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B p=
+adding=3A 0=3B=22=3E=0D=0A=3Ctable width=3D=22100=25=22 style=3D=22border=
+=2Dspacing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A t=
+op=3B text=2Dalign=3A left=3B padding=3A 0=3B=22=3E=3Ctbody=3E=0D=0A=3Ctr=
+ style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A=
+ 0=3B=22 align=3D=22left=22=3E=3Ctd class=3D=22sidebar=2Dcontent=2Dimage=
+=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A aut=
+o=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A =
+collapse =21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=
+=3B color=3A =23222222=3B font=2Dfamily=3A =27Arial=27=2C sans=2Dserif=3B=
+ font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=2Dsize=3A 14px=
+=3B margin=3A 0=3B padding=3A 0px=3B=22 align=3D=22left=22 valign=3D=22to=
+p=22=3E=0D=0A=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F=
+268014=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=
+=5Fnew=22=3E=0D=0A=3Cimg alt=3D=22Siemens PLM Software=22 width=3D=22192=
+=22 src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268015=2F5730=
+=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 style=3D=22width=3A 192px=
+=3B outline=3A none=3B text=2Ddecoration=3A none=3B =2Dms=2Dinterpolation=
+=2Dmode=3A bicubic=3B max=2Dwidth=3A 100=25=3B display=3A block=3B border=
+=3A none=3B=22 class=3D=22=22=3E=3C=2Fa=3E=0D=0A=0D=0A=3C=2Ftd=3E=0D=0A=
+=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=3C=2Ftd=3E=0D=0A=0D=0A=0D=0A=3C=
+=2Ftr=3E=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A=
+ left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=3Ctd class=3D=22sidebar=
+=2Dtext=22 valign=3D=22middle=22 bgcolor=3D=22=23eef0f3=22 align=3D=22lef=
+t=22 style=3D=22width=3A 100=25=3B word=2Dbreak=3A break=2Dword=3B =2Dweb=
+kit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B b=
+order=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A middle=
+=3B text=2Dalign=3A left=3B color=3A =23000=3B font=2Dfamily=3A Arial=2Cs=
+ans serif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 20px=3B font=2Ds=
+ize=3A 14px=3B margin=3A 0=3B padding=3A 20px 10px 20px 15px=3B=22=3E=3Cd=
+iv class=3D=22=22=3E=3Cstrong=3ETwo=0D=0Asessions offered=3Cbr=3E=0D=0A=
+=3Cbr=3E=0D=0A=3C=2Fstrong=3E=3Cstrong class=3D=22button=2Dcopy=2Dmobile=
+=22 style=3D=22color=3A rgb=2840=2C 130=2C 160=29=3B text=2Ddecoration=3A=
+ none=3B font=2Dweight=3A normal=3B font=2Dfamily=3A Arial=2C sans=2Dseri=
+f=3B font=2Dsize=3A 14px=3B=22=3E=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadco=
+ntent=2Ecom=2Ftrk=2F268016=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=
+=2F=22 target=3D=22=5Fnew=22 class=3D=22button=2Dcopy=2Dmobile=22 style=
+=3D=22color=3A =232882a0=3B text=2Ddecoration=3A none=3B font=2Dweight=3A=
+ normal=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dsize=3A 14px=
+=3B=22=3E =3Cspan style=3D=22font=2Dweight=3A bold=3B=22=3ESee available=
+=0D=0Atimes=26nbsp=3B=26gt=3B=3C=2Fspan=3E=3C=2Fa=3E=3C=2Fstrong=3E=3C=2F=
+div=3E=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=3C=2Ftd=3E=
+=0D=0A=0D=0A=3Ctd class=3D=22expander=22 style=3D=22word=2Dbreak=3A break=
+=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyp=
+hens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=2D=
+align=3A top=3B text=2Dalign=3A left=3B visibility=3A hidden=3B width=3A =
+0px=3B font=2Dfamily=3A =27Arial=27=2C sans=2Dserif=3B font=2Dweight=3A n=
+ormal=3B line=2Dheight=3A 18px=3B color=3A =23000000=3B font=2Dsize=3A 14=
+px=3B margin=3A 0=3B padding=3A 0=3B=22 align=3D=22left=22 valign=3D=22to=
+p=22=3E=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=3C=2Ftd=
+=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=3C=2Fth=3E=0D=0A=3C=2Ftr=
+=3E=0D=0A=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=0D=0A=0D=0A=0D=0A=3C=21=2D=2D=
+ End Module Text on white background =2D=2D=3E=0D=0A=0D=0A=3C=21=2D=2D Fo=
+oter =2D=2D=3E=0D=0A=3Ctable class=3D=22row=22 style=3D=22background=2Dco=
+lor=3A =233c464b=3B border=2Dspacing=3A 0=3B border=2Dcollapse=3A collaps=
+e=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B width=3A 100=25=
+=3B position=3A relative=3B display=3A block=3B padding=3A 0px=3B=22 back=
+ground=3D=22=233c464b=22=3E=0D=0A=3Ctbody=3E=0D=0A=3Ctr style=3D=22vertic=
+al=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=
+=22left=22=3E=0D=0A=3Ctd class=3D=22wrapper last=22 style=3D=22background=
+=2Dcolor=3A =233c464b=3B word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyph=
+ens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dco=
+llapse=3A collapse =21important=3B vertical=2Dalign=3A top=3B text=2Dalig=
+n=3A left=3B position=3A relative=3B color=3A =23ffffff=3B font=2Dfamily=
+=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A =
+19px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 4px 0px 0px=3B=
+=22 valign=3D=22top=22 background=3D=22=233c464b=22 align=3D=22left=22=3E=
+=0D=0A=0D=0A=3Ctable class=3D=22twelve columns=22 style=3D=22border=2Dspa=
+cing=3A 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B =
+text=2Dalign=3A left=3B width=3A 600px=3B margin=3A 0 auto=3B padding=3A =
+0=3B=22=3E=0D=0A=3Ctbody=3E=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=
+=3B text=2Dalign=3A left=3B padding=3A 0=3B=22 align=3D=22left=22=3E=0D=
+=0A=3Ctd class=3D=22mobile=2Dpaddings=22 style=3D=22word=2Dbreak=3A break=
+=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyp=
+hens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B vertical=2D=
+align=3A top=3B text=2Dalign=3A left=3B color=3A =23ffffff=3B font=2Dfami=
+ly=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=
+=3A 19px=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=3A 30px 30px 25=
+px=3B=22 valign=3D=22top=22 align=3D=22left=22=3E=0D=0A=3Cspan style=3D=
+=22font=2Dfamily=3A Arial=2C sans=2Dserif=3B color=3A =23ffffff=3B font=
+=2Dweight=3A normal=3B text=2Dalign=3A left=3B line=2Dheight=3A 1=2E3=3B =
+word=2Dbreak=3A normal=3B font=2Dsize=3A 14px=3B margin=3A 0=3B padding=
+=3A 0=3B=22 align=3D=22left=22=3E=3Cstrong class=3D=22footer=2Dcopy=2Dmob=
+ile=22 style=3D=22font=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=
+=3Anormal=3B color=3A =23ffffff=3B  text=2Ddecoration=3A none=3B=22=3EFol=
+low Siemens PLM Software=3C=2Fstrong=3E=3C=2Fspan=3E=0D=0A=0D=0A=3Cbr=3E=
+=0D=0A=0D=0A=3Ctable style=3D=22border=2Dspacing=3A 0=3B border=2Dcollaps=
+e=3A collapse=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B paddi=
+ng=3A 0=3B width=3A 100=25=3B=22 align=3D=22left=22=3E=0D=0A=3Ctbody=3E=
+=0D=0A=3Ctr style=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B=
+ padding=3A 0=3B=22 align=3D=22left=22=3E=0D=0A=3Ctd style=3D=22word=2Dbr=
+eak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A=
+ auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =21important=3B=
+ vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B font=2Dfamily=3A Aria=
+l=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dheight=3A 18px=3B =
+color=3A =23000000=3B font=2Dsize=3A 12px=3B margin=3A 0=3B padding=3A 0p=
+x=3B padding=2Dtop=3A 10px=3B padding=2Dbottom=3A 30px=3B=22 valign=3D=22=
+top=22 align=3D=22left=22=3E=0D=0A=3Ctable style=3D=22border=2Dspacing=3A=
+ 0=3B border=2Dcollapse=3A collapse=3B vertical=2Dalign=3A top=3B text=2D=
+align=3A left=3B padding=3A 0=3B=22=3E=0D=0A=3Ctbody=3E=0D=0A=3Ctr style=
+=3D=22vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B padding=3A 0=3B=
+=22 align=3D=22left=22=3E=0D=0A=3Ctd class=3D=22footer=2Dicons=22 style=
+=3D=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dm=
+oz=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =
+=21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B font=
+=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dh=
+eight=3A 18px=3B color=3A =23000000=3B font=2Dsize=3A 12px=3B margin=3A 0=
+=3B padding=3A 0px 5px 0px 0px=3B width=3A 30px =21important=3B=22 valign=
+=3D=22top=22 align=3D=22left=22=3E=0D=0A=3Ca href=3D=22http=3A=2F=2Finfo=
+=2Ecadcontent=2Ecom=2Ftrk=2F268017=2F5730=2F800059661=2F2748056=2F4864=2F=
+7b2db037=2F=22 target=3D=22=5Fblank=22 style=3D=22color=3A =23ffffff=3B t=
+ext=2Ddecoration=3A none=3B font=2Dsize=3A 10px =21important=3B=22=3E=0D=
+=0A=3Cimg src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268018=2F=
+5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 alt=3D=22Twitter Icon=
+=22 style=3D=22outline=3A none=3B text=2Ddecoration=3A none=3B =2Dms=2Din=
+terpolation=2Dmode=3A bicubic=3B width=3A 30px =21important=3B max=2Dwidt=
+h=3A 100=25=3B clear=3A both=3B display=3A block=3B height=3A auto =21imp=
+ortant=3B border=3A none=3B=22=3E=3C=2Fa=3E=0D=0A=3C=2Ftd=3E=0D=0A=3Ctd c=
+lass=3D=22footer=2Dicons=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =
+=2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A aut=
+o=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A to=
+p=3B text=2Dalign=3A left=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B fo=
+nt=2Dweight=3A normal=3B line=2Dheight=3A 18px=3B color=3A =23000000=3B f=
+ont=2Dsize=3A 12px=3B margin=3A 0=3B padding=3A 0px 5px 0px 0px=3B width=
+=3A 30px =21important=3B=22 valign=3D=22top=22 align=3D=22left=22=3E=0D=
+=0A=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268019=2F5=
+730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=5Fblank=22=
+ style=3D=22color=3A =23ffffff=3B text=2Ddecoration=3A none=3B font=2Dsiz=
+e=3A 10px =21important=3B=22=3E=0D=0A=3Cimg src=3D=22http=3A=2F=2Finfo=2E=
+cadcontent=2Ecom=2Fimg=2F268020=2F5730=2F800059661=2F2748056=2F4864=2F7b2=
+db037=2F=22 alt=3D=22Twitter Icon=22 style=3D=22outline=3A none=3B text=
+=2Ddecoration=3A none=3B =2Dms=2Dinterpolation=2Dmode=3A bicubic=3B width=
+=3A 30px =21important=3B max=2Dwidth=3A 100=25=3B clear=3A both=3B displa=
+y=3A block=3B height=3A auto =21important=3B border=3A none=3B=22=3E=3C=
+=2Fa=3E=0D=0A=3C=2Ftd=3E=0D=0A=3Ctd class=3D=22footer=2Dicons=22 style=3D=
+=22word=2Dbreak=3A break=2Dword=3B =2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=
+=2Dhyphens=3A auto=3B hyphens=3A auto=3B border=2Dcollapse=3A collapse =
+=21important=3B vertical=2Dalign=3A top=3B text=2Dalign=3A left=3B font=
+=2Dfamily=3A Arial=2C sans=2Dserif=3B font=2Dweight=3A normal=3B line=2Dh=
+eight=3A 18px=3B color=3A =23000000=3B font=2Dsize=3A 12px=3B margin=3A 0=
+=3B padding=3A 0px 5px 0px 0px=3B width=3A 30px =21important=3B=22 valign=
+=3D=22top=22 align=3D=22left=22=3E=0D=0A=3Ca href=3D=22http=3A=2F=2Finfo=
+=2Ecadcontent=2Ecom=2Ftrk=2F268021=2F5730=2F800059661=2F2748056=2F4864=2F=
+7b2db037=2F=22 target=3D=22=5Fblank=22 style=3D=22color=3A =23ffffff=3B t=
+ext=2Ddecoration=3A none=3B font=2Dsize=3A 10px =21important=3B=22=3E=0D=
+=0A=3Cimg src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268022=2F=
+5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 alt=3D=22LinkedIn Icon=
+=22 style=3D=22outline=3A none=3B text=2Ddecoration=3A none=3B =2Dms=2Din=
+terpolation=2Dmode=3A bicubic=3B width=3A 30px =21important=3B max=2Dwidt=
+h=3A 100=25=3B clear=3A both=3B display=3A block=3B height=3A auto =21imp=
+ortant=3B border=3A none=3B=22=3E=3C=2Fa=3E=0D=0A=3C=2Ftd=3E=0D=0A=3Ctd c=
+lass=3D=22footer=2Dicons=22 style=3D=22word=2Dbreak=3A break=2Dword=3B =
+=2Dwebkit=2Dhyphens=3A auto=3B =2Dmoz=2Dhyphens=3A auto=3B hyphens=3A aut=
+o=3B border=2Dcollapse=3A collapse =21important=3B vertical=2Dalign=3A to=
+p=3B text=2Dalign=3A left=3B font=2Dfamily=3A Arial=2C sans=2Dserif=3B fo=
+nt=2Dweight=3A normal=3B line=2Dheight=3A 18px=3B color=3A =23000000=3B f=
+ont=2Dsize=3A 12px=3B margin=3A 0=3B padding=3A 0px 5px 0px 0px=3B width=
+=3A 30px =21important=3B=22 valign=3D=22top=22 align=3D=22left=22=3E=0D=
+=0A=3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F268023=2F5=
+730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 target=3D=22=5Fblank=22=
+ style=3D=22color=3A =23ffffff=3B text=2Ddecoration=3A none=3B font=2Dsiz=
+e=3A 10px =21important=3B=22=3E=0D=0A=3Cimg src=3D=22http=3A=2F=2Finfo=2E=
+cadcontent=2Ecom=2Fimg=2F268024=2F5730=2F800059661=2F2748056=2F4864=2F7b2=
+db037=2F=22 alt=3D=22Twitter Icon=22 style=3D=22outline=3A none=3B text=
+=2Ddecoration=3A none=3B =2Dms=2Dinterpolation=2Dmode=3A bicubic=3B width=
+=3A 30px =21important=3B max=2Dwidth=3A 100=25=3B clear=3A both=3B displa=
+y=3A block=3B height=3A auto =21important=3B border=3A none=3B=22=3E=3C=
+=2Fa=3E=0D=0A=3C=2Ftd=3E=0D=0A=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=0D=0A=
+=3C=2Ftable=3E=0D=0A=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=0D=
+=0A=3C=2Ftable=3E=0D=0A=3Cspan class=3D=22footer=2Dcopy=2Dmobile=22 style=
+=3D=22color=3A rgb=28255=2C 255=2C 255=29=3B font=2Dfamily=3A Arial=2C sa=
+ns=2Dserif=3B font=2Dsize=3A 12px=3B=22=3E=0D=0A=3Cbr=3E=0D=0A=0D=0A=26co=
+py=3B 2018 Siemens Product Lifecycle Management Software Inc=2E All right=
+s reserved=2E=0D=0ASiemens and the Siemens logo are registered trademarks=
+ of Siemens AG=2E All other logos=2C trademarks=2C=0D=0Aregistered tradem=
+arks or service marks used herein are the property of their respective ho=
+lders=2E   =3Cbr=3E=3Cbr=3E=3Cbr=3E=09This is a commercial email to promo=
+te the products or services of Dunhill=2C brought to you by TraceParts=2E=
+=3Cbr=3E=0D=0AIf you wish to unsubscribe from this advertiser=27s mailing=
+ list=2C =3Ca href=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Ftrk=2F2680=
+25=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=3FEmail=3Dlovey=5Fsh=
+arma=40jcbl=2Ecom=26BL=3DDunhill=22 style=3D=22font=2Dfamily=3A Arial=2C =
+Helvetica=2C sans=2Dserif=3B color=3A =23ffffff=22=3Eclick here=3C=2Fa=3E=
+=2E=3Cbr=3E=0D=0AIf you wish to unsubscribe from all advertisements sent =
+on behalf of TraceParts=27 partners=2C =3Ca href=3D=22http=3A=2F=2Finfo=
+=2Ecadcontent=2Ecom=2Ftrk=2F268026=2F5730=2F800059661=2F2748056=2F4864=2F=
+7b2db037=2F=3Fs=3D1662=2D1300=2D2faff10d=2D29ee98=2D7b2db037=2D2=2D0=22 s=
+tyle=3D=22font=2Dfamily=3A Arial=2C Helvetica=2C sans=2Dserif=3B color=3A=
+ =23ffffff=22=3Eclick here=3C=2Fa=3E=2E=0D=0A=3C=2Fspan=3E=0D=0A=3C=2Ftd=
+=3E=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=0D=0A=3C=2Ftable=3E=0D=0A=3C=2Ft=
+d=3E=0D=0A=3C=2Ftr=3E=0D=0A=3C=2Ftbody=3E=0D=0A=3C=2Ftable=3E=0D=0A=0D=0A=
+=0D=0A=0D=0A=0D=0A=3C=21=2D=2D End Footer =2D=2D=3E=0D=0A=0D=0A=0D=0A=3C=
+=2Ftd=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=3C=2Fcenter=3E=0D=
+=0A=3C=2Ftd=3E=0D=0A=3C=2Ftr=3E=3C=2Ftbody=3E=3C=2Ftable=3E=0D=0A=0D=0A=
+=0D=0A=3Cimg src=3D=22http=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fimg=2F268027=
+=2F5730=2F800059661=2F2748056=2F4864=2F7b2db037=2F=22 alt=3D=22=22 border=
+=3D=220=22 width=3D=221px=22 height=3D=221px=22=3E=0D=0A=3Cimg src=3D=22h=
+ttp=3A=2F=2Finfo=2Ecadcontent=2Ecom=2Fop=2F5730=2F800059661=2F2748056=2F1=
+543865872=2F4864=2Fb=2F7b2db037=2Egif=22 width=3D=221=22 height=3D=221=22=
+ border=3D=220=22 alt=3D=22=22 =2F=3E=0D=0A=3C=2Fbody=3E=3C=2Fhtml=3E=0D=
+=0A
+------=_DNET_Part_1.5730-800059661-2748056-1543862275-4864--
+
+

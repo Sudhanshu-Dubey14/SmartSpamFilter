@@ -1,0 +1,100 @@
+Return-Path: <devnull@yahoo.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <cre@grandtrunk-harley.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aLTdJbm9brJU>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aLTdJbm9brJU for <cre@grandtrunk-harley.in>;
+	Tue, 20 Feb 2018 10:54:20 +0530 (IST)
+Received: from sonic317-18.consmr.mail.sg3.yahoo.com (sonic317-18.consmr.mail.sg3.yahoo.com [106.10.243.81])
+	by mx10.jcbl.com (Postfix) with ESMTPS id DEACB100A2BE
+	for <cre@grandtrunk-harley.in>; Tue, 20 Feb 2018 10:54:17 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.in; s=s2048; t=1519104338; bh=hHZ4VqYae1NQKEC8M4FzcZ1nfgaYgvoZz4px0DH1uEc=; h=From:To:Subject:From:Subject; b=pQV0DWo4++Xo7STN3IsYNjsnnkx15Vt7MTikFitynzHW2dvY/zTsCNeaBc84o6JxqdlXXj0hAGYiGx5LSifvOADgDMJIQAgdgWJd4ZqL/nPJxiKCzWoe+sWrIRCFvodyOro/KqeWb0ziiPkmpLEUdVGKzY5Pjj9UeyvR7FFgdVjPqemSx8pLlHEXwFw0U5rXFmKjeGZALN+9G+PPkFeozyUhZtJt6GiobRkxsYiphgG3MS2KdalX6zJhr9FzuIrluAJGa1aqnQQTAGFLFRJv02DQY2/a3NkTkpkjXwmgoinN3e/eOtqlTHO8Oyjau1OynjCjHL1RrB/DQhgxoN8DFQ==
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic317.consmr.mail.sg3.yahoo.com with HTTP; Tue, 20 Feb 2018 05:25:38 +0000
+From: MAILER-DAEMON@yahoo.in
+To: cre@grandtrunk-harley.in
+X-Loop: MAILER-DAEMON@yahoo.in
+Subject: Delivery failure
+
+Message from yahoo.in.
+Unable to deliver message to the following address(es).
+
+<jaskaran_@yahoo.in>:
+This user doesn't have a yahoo.in account (jaskaran_@yahoo.in) [0]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <cre@grandtrunk-harley.in>
+Received-SPF: none (domain of grandtrunk-harley.in does not designate permitted sender hosts)
+X-YMailISG: 3HUvi6MWLDueUskpIpJHwNi3Qb6uIrYov9VYKifcBEnHz.79
+ G3F6JV44gFaQTMwt.47S0UcND4nArANJpqiuTgGMjGaOcQ8ucU96dObYVpwk
+ UcSurrXXxC7Sil8JX4t0AtD05Cm362GPXC7YhIkb5Kd2Iv7sr8C1Oimd5_x5
+ yCxFWDOZqCxryBBrvZB7uCwXc_f_ImjdYxhkFqSbT_m9srCy9naXzZPO1Kw4
+ LZTIRhvcI1Zm7sRyE5EWvWzMPp_QirNc.74DHlpDXqVkxLS6TNsALWEdJ42K
+ 0X6h232VkIYrTEpxqYTfEj1q6vuyYMLemh6xS7_K0I0EOK9l1cZ8Jy.tC_4p
+ OJ_yeAUNNX3Dzp6TuivmdBruqZtlKGgcDLG5u_dAsZ3S5VTGNK4BEuLz7So8
+ t4P8TT6fjjEfyQczJ3yds4viW11_B25Y39KuaQHr1N3iNBcX85jZ.JEWGuAH
+ NXZGRvUCzOhSniTXIUK9Cvvjj1N9lFsgLtdYuFwjAZsnmxous3aEE4q7Osm3
+ w2fFIPAcfAWUslE7Dnp71ODQxjltQd_d1UyJQLB0tzscPVX.uNfX4d1wxfse
+ 4PJSF4zGNW7ibG099ADdu0G5mgcWxFy9F2lHOBliksdstXB11RlVa7l9xxmh
+ BKG7VdQWkp_qB_yyBpbebdVOtcFfvJZbcv.0.9Kxb6dtJDV1Ob64FDiC8hh6
+ CM7DwMb0EX8qiOpCWRL739BkRxdikowHLpJ5Q3NX_fj65ojCACR_NWOsYeqP
+ US5eA_wEKach7IF2Xsb7oxvHR3rGmAIdcbhS1V4noruKk9ue1M6PvQUa4tUQ
+ VC2LWCgL_rzg6bHu0fL4W9NjgHrvIx841psZNaEd18.Hq_vsxibMOmpoNuCN
+ cYRixU8iTm5I7HJ5TpbgmcqO2YtCuGgZHP2EuZwIVrl_4Gqotn6ewUD7DWII
+ _J065Sm2VaLanwNb24Fm139flyF_64_7CESuCmgnzuJJpRrenPtfaCLmUsFK
+ NrbWrEqZ7uKZFjphi3VJMVJEONYSHoMmI.S651auHS6rmcbiQusbUNLUAGcM
+ N8vKR6j1pnCCkeixwxnccFI8Xk9w6.QvoSwFHXUPpjT87BrlWOM3o9xPSjeS
+ 4qdGoGFdK5x3mvdGYL20BroyS81JgdSvr9OH
+X-Originating-IP: [107.182.173.5]
+Authentication-Results: mta1047.mail.sg3.yahoo.com  from=grandtrunk-harley.in; domainkeys=neutral (no sig);  from=grandtrunk-harley.in; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO umail.jcbl.com) (107.182.173.5)
+  by mta1047.mail.sg3.yahoo.com with SMTP; Tue, 20 Feb 2018 05:25:31 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id 72A4E1DA0F8;
+	Tue, 20 Feb 2018 10:55:34 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mJuQ1eBbNuIN; Tue, 20 Feb 2018 10:55:34 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id A3C51F297F0; Tue, 20 Feb 2018 05:17:09 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id D27AFF297FA;
+	Tue, 20 Feb 2018 10:47:08 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id BB986100A2B4;
+	Tue, 20 Feb 2018 10:47:08 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ee9ttp_tUeUw; Tue, 20 Feb 2018 10:47:08 +0530 (IST)
+Received: from adminPC (unknown [202.164.59.189])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 59A33100A2AB;
+	Tue, 20 Feb 2018 10:46:28 +0530 (IST)
+From: "jasdeep bassi" <cre@grandtrunk-harley.in>
+To: "jasdeep bassi" <cre@grandtrunk-harley.in>
+Subject:  BIKER'S NIGHT
+Date: Tue, 20 Feb 2018 10:47:49 +0530
+Message-ID: <002b01d3aa0a$3cdfa140$b69ee3c0$@in>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_002C_01D3AA38.5697DD40"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdLlAqszb6iB69rtQrC73gqxICIYNzFBcxUQAABjT/A=
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+-
+*** MESSAGE TRUNCATED ***
+
+
+.

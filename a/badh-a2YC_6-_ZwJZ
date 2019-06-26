@@ -1,0 +1,55 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <hr_amb@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a2YC_6-_ZwJZ>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a2YC_6-_ZwJZ for <hr_amb@globeauto.in>;
+	Thu, 11 Apr 2019 16:52:43 +0530 (IST)
+Received: from smtp3-outgoing.mail.rjil.net (smtp3-outgoing.mail.rjil.net [49.40.2.145])
+	by mx10.jcbl.com (Postfix) with SMTP id DB515EF9D6C
+	for <HR_AMB@GLOBEAUTO.IN>; Thu, 11 Apr 2019 16:52:40 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp3-outgoing.mail.rjil.net (Postfix) with ESMTP id EF28B28054F
+	for <HR_AMB@GLOBEAUTO.IN>; Thu, 11 Apr 2019 16:52:36 +0530 (IST)
+Received: from NVMBD2BKT10D00 (prdin10sneapp12.bss.jio.com [10.143.71.24])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id ECC8168
+	for <HR_AMB@GLOBEAUTO.IN>; Thu, 11 Apr 2019 16:52:36 +0530 (IST)
+From: Notification@Jio.com
+To: HR_AMB@GLOBEAUTO.IN
+Message-ID: <1930455803.2284815.1554981756970.JavaMail.mwapp@NVMBD2BKT10D00>
+Subject: Daily free SMS limit exhausted for Jio Number 9729549140
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_2284814_1275107616.1554981756968"
+Bounce_Header: 376527000352620544
+format: flowed
+
+------=_Part_2284814_1275107616.1554981756968
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  Dear Customer,&nbsp;
+  <br />
+  <br />As per government regulation, you are allowed to send only 100 free SMS's per day and you have already exhausted that limit on Jio Number 9729549140. You will be able to send your next SMS after 00:00 hrs tonight in case you do not have any account balance.&nbsp;&nbsp;
+  <br />
+  <br />To Top-up, click https://www.jio.com/Jio/portal/recharge&nbsp;
+  <br />
+  <br />Dial 1991, to know your current balance, validity, plan details and for exciting recharge plans.&nbsp;
+  <br />
+  <br />Thank you,
+  <br />&nbsp;Team Jio
+ </body>
+</html>
+------=_Part_2284814_1275107616.1554981756968--

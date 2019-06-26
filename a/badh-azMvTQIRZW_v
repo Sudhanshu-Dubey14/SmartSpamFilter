@@ -1,0 +1,191 @@
+Return-Path: <aramedya-contact=jcbl.com@msg34.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <contact@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <azMvTQIRZW_v>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id azMvTQIRZW_v for <contact@jcbl.com>;
+	Mon, 29 Jan 2018 14:37:48 +0530 (IST)
+Received: from mail252.msg34.com (mail252.msg34.com [185.15.42.252])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 4148E10081DD
+	for <contact@jcbl.com>; Mon, 29 Jan 2018 14:37:43 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s1024; d=msg34.com;
+ h=Date:From:To:Subject:Reply-To:List-Unsubscribe:MIME-Version:Content-Type:Message-ID; i=aramedya@msg34.com;
+ bh=6pPlm7wbSgNxduPNqTzO8IGVHII=;
+ b=Q7bohQD3oy7B0yq6P1odJ0NJJ3pke91tsFiGtTAfnOuSc6BrFby1aJps6dqT/ZdTVXPnOBs+P61s
+   P7stGut8eEkft0HrwU0miIawPKHvW9z3THknPauTnHbn+i7ucJQTrUTyPmqrJtWtSK/81yaOjqUp
+   st0nV3ruoJkkroqU7V8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=s1024; d=msg34.com;
+ b=nUEWBltpHPRlJoUBvbxyrnsq5BjUjo4iG+5NA4RSrX5ZbghhCK7CU7CSD63+7iKkMjZnidCrzVdI
+   pAbSueKzithQG9b5adVryuLqn4JtEqk4/Sk8N+aE6wGLN19snrZVSVAYQTEY33+TvQy8RvLpQmvt
+   iHTBRYyBM0iajI7Cpzc=;
+Received: from srv2 (127.0.0.1) by msg34.com id hdri6u1ujv4q for <contact@jcbl.com>; Mon, 29 Jan 2018 12:07:14 +0300 (envelope-from <aramedya-contact=jcbl.com@msg34.com>)
+Date: Mon, 29 Jan 2018 12:07:13 +0300
+From: =?UTF-8?B?Q29tbWVyY2lhbCBWZWhpY2xlcyBXb3JsZCBNYWdhemluZQ==?=<aramedya@msg34.com>
+To: <contact@jcbl.com>
+Subject: =?UTF-8?B?Vm9sdm8gQnVzZXMgaW50cm9kdWNlcyBuZXcgRXVybyBWSSBkb3VibGUtZGVja2Vy?=
+Reply-To: info@aramedya.com
+List-Unsubscribe: <http://unsubscribe.message34.com/abuse/list_unsubscribe.aspx?qwe=109654&ewq=contact@jcbl.com>,<mailto:unsubscribe@message34.com?subject=unsubscribe-qwe=109654-ewq=contact@jcbl.com=109654_ewq=contact@jcbl.com>
+X-Mailer: Message34 Mailer
+X-Cid: 109654
+X-Report-Abuse: Please report abuse for this campaign here: https://www.message34.com/abuse/abuse.aspx?qwe=109654&ewq=contact@jcbl.com 
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="NextPart_001_2421.63437990"
+Message-ID: <0.0.0.8.1D398E08DA29405.86C0F@msg34.com>
+
+--NextPart_001_2421.63437990
+Content-Type:text/plain; charset= UTF - 8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ <table width="100 % " border="0" cellspacing="0" cellpadding="0" style="border - bottom: 1px solid #eeeeee;"><tbody>< tr >< td align = "left" style = "font-family: arial, helvetica, sans-serif; font-size: 11px; height: 50px; background-color: #ffffff;" >< a style = "text-decoration: none;" href = "&lt;#WebVersion#&gt;" >< span style = "color: #666666;" > B & uuml; ltenin web halini g&ouml; rmek i&ccedil;in tıklayınız.</ span ></ a ></ td >< td align = "right" style = "font-family: arial, helvetica, sans-serif; font-size: 11px; height: 50px; background-color: #ffffff;" >< a style = "text-decoration: none;" href = "&lt;#OptOut#&gt;" >< span style = "color: #666666;" > &Uuml; yelik sonlandırmak i & ccedil;in tıklayınız.</ span ></ a ></ td ></ tr ></ tbody ></ table > 
+
+--NextPart_001_2421.63437990
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"=0D=0A"http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A<html xmlns=3D"http:/=
+/www.w3.org/1999/xhtml"><head>=0D=0A<title>Volvo Buses introduces new Euro V=
+I double-decker</title>=0D=0A<meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3Dutf-8">=0D=0A</head>=0D=0A<body bgcolor=3D"#ffffff"><span style=3D"disp=
+lay: none;"> </span><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">=0D=0A    <tbody>=0D=0A        <tr>=0D=0A            <td align=3D"center" s=
+tyle=3D"font-family: tahoma, helvetica, sans-serif; font-size: 12px; heigh=
+t: 50px;"><a href=3D"http://sys.message34.com/BulletinWebVersion.aspx?qwe=3D=
+90a5c0c0-dfee-4a7e-ad04-22bc8c3cccff&asd=3D828b34b8-49f5-4101-8609-d1d9cb0e6542"><span style=3D"color: #00=
+0000;">B=C3=BCltenin web halini g&ouml;rmek i=C3=A7in t=C4=B1klay=C4=B1n=C4=B1z.</span></a><=
+/td>=0D=0A        </tr>=0D=0A    </tbody>=0D=0A</table>=0D=0A<table width=3D"700" border=3D"=
+0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">=0D=0A  <tbody><tr>=0D=0A   <t=
+d><a href=3D"http://sys.message34.com/UserRelations/Click_Back.aspx?linkid=
+=3Dae45c924-a04b-4713-b1a2-178b4759bb25&wqty=3D17040" target=3D"_blank"><im=
+g style=3D"display:block" border=3D"0" name=3D"n29012018_aramedyaEN_r1_c1" src=
+=3D"http://sys.message34.com/bultenimages/Ara_Medya/images/29012018_aramed=
+yaEN_r1_c1.jpg" width=3D"700" height=3D"302" id=3D"n29012018_aramedyaEN_r1_c1"=
+ alt=3D"Volvo Buses introduces new Euro VI double-decker"></a></td>=0D=0A  </t=
+r>=0D=0A  <tr>=0D=0A   <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"700">=0D=0A	  <tbody><tr>=0D=0A	   <td><a href=3D"http://sys.message34.com/Use=
+rRelations/Click_Back.aspx?linkid=3D9993bdcf-9a7a-4ad5-b3f7-d2b1f8842ef1&w=
+qty=3D17040" target=3D"new"><img style=3D"display:block" border=3D"0" name=3D"n=
+29012018_aramedyaEN_r2_c1" src=3D"http://sys.message34.com/bultenimages/Ar=
+a_Medya/images/29012018_aramedyaEN_r2_c1.jpg" width=3D"392" height=3D"372" i=
+d=3D"n29012018_aramedyaEN_r2_c1" alt=3D"Volvo Buses introduces new Euro VI d=
+ouble-decker"></a></td>=0D=0A	   <td><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"308">=0D=0A		  <tbody><tr>=0D=0A		   <td><a href=3D"http://sys.m=
+essage34.com/UserRelations/Click_Back.aspx?linkid=3D8c14aa24-28d0-4f34-bac=
+4-7cb6e0f8c9a1&wqty=3D17040" target=3D"_blank"><img style=3D"display:block"=
+ border=3D"0" name=3D"n29012018_aramedyaEN_r2_c2" src=3D"http://sys.message34.=
+com/bultenimages/Ara_Medya/images/29012018_aramedyaEN_r2_c2.jpg" width=3D"=
+308" height=3D"50" id=3D"n29012018_aramedyaEN_r2_c2" alt=3D"Volvo Buses introd=
+uces new Euro VI double-decker"></a></td>=0D=0A		  </tr>=0D=0A		  <tr>=0D=0A		   <td=
+><a href=3D"http://sys.message34.com/UserRelations/Click_Back.aspx?linkid=3D=
+fb1a3205-f309-4e1f-a669-f86817dc0119&wqty=3D17040" target=3D"_blank"><img=
+ style=3D"display:block" border=3D"0" name=3D"n29012018_aramedyaEN_r3_c2" src=3D=
+"http://sys.message34.com/bultenimages/Ara_Medya/images/29012018_aramedy=
+aEN_r3_c2.jpg" width=3D"308" height=3D"76" id=3D"n29012018_aramedyaEN_r3_c2" a=
+lt=3D"Volvo Buses introduces new Euro VI double-decker"></a></td>=0D=0A		  </t=
+r>=0D=0A		  <tr>=0D=0A		   <td><a href=3D"http://sys.message34.com/UserRelations/C=
+lick_Back.aspx?linkid=3Ddaea2d3f-62a4-4248-8492-1d38b618a7ec&wqty=3D17040=
+" target=3D"_blank"><img style=3D"display:block" border=3D"0" name=3D"n29012018_=
+aramedyaEN_r4_c2" src=3D"http://sys.message34.com/bultenimages/Ara_Medya/i=
+mages/29012018_aramedyaEN_r4_c2.jpg" width=3D"308" height=3D"72" id=3D"n290120=
+18_aramedyaEN_r4_c2" alt=3D"Volvo Buses introduces new Euro VI double-deck=
+er"></a></td>=0D=0A		  </tr>=0D=0A		  <tr>=0D=0A		   <td><img style=3D"display:block" =
+border=3D"0" name=3D"n29012018_aramedyaEN_r5_c2" src=3D"http://sys.message34.c=
+om/bultenimages/Ara_Medya/images/29012018_aramedyaEN_r5_c2.jpg" width=3D"3=
+08" height=3D"72" id=3D"n29012018_aramedyaEN_r5_c2" alt=3D"Volvo Buses introdu=
+ces new Euro VI double-decker"></td>=0D=0A		  </tr>=0D=0A		  <tr>=0D=0A		   <td><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"308">=0D=0A			  <tbody>=
+<tr>=0D=0A			   <td><a href=3D"http://sys.message34.com/UserRelations/Click_Ba=
+ck.aspx?linkid=3D59fed132-3355-4845-a924-a3d31f64d31d&wqty=3D17040" targe=
+t=3D"_blank"><img style=3D"display:block" border=3D"0" name=3D"n29012018_aramedy=
+aEN_r6_c2" src=3D"http://sys.message34.com/bultenimages/Ara_Medya/images/2=
+9012018_aramedyaEN_r6_c2.jpg" width=3D"88" height=3D"102" id=3D"n29012018_aram=
+edyaEN_r6_c2" alt=3D"Volvo Buses introduces new Euro VI double-decker"></a=
+></td>=0D=0A			   <td><a href=3D"http://sys.message34.com/UserRelations/Click_=
+Back.aspx?linkid=3D12b8a41c-ccb8-45ba-964b-9eb4f8dbd6e3&wqty=3D17040" tar=
+get=3D"_blank"><img style=3D"display:block" border=3D"0" name=3D"n29012018_arame=
+dyaEN_r6_c3" src=3D"http://sys.message34.com/bultenimages/Ara_Medya/images=
+/29012018_aramedyaEN_r6_c3.jpg" width=3D"83" height=3D"102" id=3D"n29012018_ar=
+amedyaEN_r6_c3" alt=3D"Volvo Buses introduces new Euro VI double-decker"><=
+/a></td>=0D=0A			   <td><a href=3D"http://sys.message34.com/UserRelations/Clic=
+k_Back.aspx?linkid=3D4353a02e-9ef4-45cd-97dd-6d45edfc4bbc&wqty=3D17040" t=
+arget=3D"_blank"><img style=3D"display:block" border=3D"0" name=3D"n29012018_ara=
+medyaEN_r6_c4" src=3D"http://sys.message34.com/bultenimages/Ara_Medya/imag=
+es/29012018_aramedyaEN_r6_c4.jpg" width=3D"137" height=3D"102" id=3D"n29012018=
+_aramedyaEN_r6_c4" alt=3D"Volvo Buses introduces new Euro VI double-decker=
+"></a></td>=0D=0A			  </tr>=0D=0A			</tbody></table></td>=0D=0A		  </tr>=0D=0A		</tbody>=
+</table></td>=0D=0A	  </tr>=0D=0A	</tbody></table></td>=0D=0A  </tr>=0D=0A  <tr>=0D=0A   <td=
+><a href=3D"http://sys.message34.com/UserRelations/Click_Back.aspx?linkid=3D=
+28bb0d0b-9b3e-4082-b950-0dbe236601c1&wqty=3D17040" target=3D"_blank"><img=
+ style=3D"display:block" border=3D"0" name=3D"n29012018_aramedyaEN_r7_c1" src=3D=
+"http://sys.message34.com/bultenimages/Ara_Medya/images/29012018_aramedy=
+aEN_r7_c1.jpg" width=3D"700" height=3D"790" id=3D"n29012018_aramedyaEN_r7_c1" =
+alt=3D"Volvo Buses introduces new Euro VI double-decker"></a></td>=0D=0A  </tr=
+>=0D=0A  <tr>=0D=0A   <td><a href=3D"http://sys.message34.com/UserRelations/Click_=
+Back.aspx?linkid=3D3979dbfa-0f3e-4829-a9f8-0a6e0a968471&wqty=3D17040" tar=
+get=3D"_blank"><img style=3D"display:block" border=3D"0" name=3D"n29012018_arame=
+dyaEN_r8_c1" src=3D"http://sys.message34.com/bultenimages/Ara_Medya/images=
+/29012018_aramedyaEN_r8_c1.jpg" width=3D"700" height=3D"688" id=3D"n29012018_a=
+ramedyaEN_r8_c1" alt=3D"Volvo Buses introduces new Euro VI double-decker">=
+</a></td>=0D=0A  </tr>=0D=0A  <tr>=0D=0A   <td><a href=3D"http://sys.message34.com/Use=
+rRelations/Click_Back.aspx?linkid=3D172cf37a-645b-4ef7-90eb-17722e1e539e&w=
+qty=3D17040" target=3D"_blank"><img style=3D"display:block" border=3D"0" name=
+=3D"n29012018_aramedyaEN_r9_c1" src=3D"http://sys.message34.com/bultenimages=
+/Ara_Medya/images/29012018_aramedyaEN_r9_c1.jpg" width=3D"700" height=3D"881=
+" id=3D"n29012018_aramedyaEN_r9_c1" alt=3D"Volvo Buses introduces new Euro V=
+I double-decker"></a></td>=0D=0A  </tr>=0D=0A</tbody></table>=0D=0A=0D=0A=0D=0A<table width=3D=
+"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0D=0A    <tbody>=0D=0A       =
+ <tr>=0D=0A            <td style=3D"height: 15px;"></td>=0D=0A        </tr>=0D=0A    <=
+/tbody>=0D=0A</table>=0D=0A<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"border-top-color: #eeeeee; border-top-width: 1px; borde=
+r-top-style: solid;">=0D=0A    <tbody>=0D=0A        <tr>=0D=0A            <td align=3D=
+"center" style=3D"font-family: verdana, helvetica, sans-serif; font-size: =
+11px; color: #606060;">&nbsp;</td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A       =
+     <td align=3D"center" style=3D"font-family: verdana, helvetica, sans-ser=
+if; font-size: 11px; color: #606060;">Bu email <span style=3D"color: #0000=
+00;">contact@jcbl.com</span> adresine g&ouml;nderilmi=C5=9Ftir.</td>=0D=0A        </tr>=0D=0A=
+        <tr>=0D=0A            <td align=3D"center" valign=3D"middle" style=3D"font=
+-family: verdana, helvetica, sans-serif; font-size: 11px; height: 50px; =
+line-height: 30px; background-color: #ffffff;"><a style=3D"text-decoration=
+: none;" href=3D"http://sys.message34.com/web/Okuyucu_Iliskileri/OptOut_Re=
+ason.aspx?bid=3Db822dd48-5e9c-43b8-ba91-76d5d9ed03c1&uid=3D828b34b8-49f5-4101-8609-d1d9cb0e6542&cid=3D109654=
+" target=3D"blank"><span style=3D"color: #333333;">=C3=9Cyelik Sonland=C4=B1r |  Uns=
+ubscribe from this list. </span></a></td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A=
+            <td align=3D"center" valign=3D"bottom" style=3D"font-family: verda=
+na, helvetica, sans-serif; font-size: 11px; color: #606060; line-height:=
+ 30px;">ARAMEDYA Uluslararas=C4=B1 Yay=C4=B1nc=C4=B1l=C4=B1k Reklam ve Tan=C4=B1t=C4=B1m Hizmetl=
+eri Tic. Ltd. =C5=9Eti=0D=0A            <br />=0D=0A            Adres: Seyit &Ouml;m=
+er Mah. Alt=C4=B1 Mermer Cad. No:10/1 Ulusoy Apt. Kocamustafapa=C5=9Fa &ndash; F=
+atih/=C4=B0stanbul<br />=0D=0A            Email: info@aramedya.com <br />=0D=0A     =
+       <span style=3D"font-size: 11px; text-align: -webkit-center; font-fa=
+mily: verdana, helvetica, sans-serif; color: #606060;">MERS=C4=B0S NO:007103=
+8010600017</span>=0D=0A            <br />=0D=0A            Tel: 0212 632 51 51  =
+Fax: 0212 586 76 56</td>=0D=0A        </tr>=0D=0A    </tbody>=0D=0A</table>=0D=0A<table =
+width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-to=
+p-color: #eeeeee; border-top-width: 1px; border-top-style: solid;">=0D=0A   =
+ <tbody>=0D=0A        <tr>=0D=0A            <td style=3D"height: 8px;"></td>=0D=0A    =
+    </tr>=0D=0A        <tr>=0D=0A            <td align=3D"center" style=3D"font-fami=
+ly: verdana, helvetica, sans-serif; font-size: 11px; color: #606060; lin=
+e-height: 25px;">Bu ileti size <a style=3D"text-decoration: none;" href=3D"h=
+ttp://www.message34.com/?utm_source=3Dmsg34&amp;utm_medium=3DBrandLogo"><spa=
+n style=3D"color: #000000;">Message34 Email Marketing Sistemi</span></a> k=
+ullan=C4=B1larak iletilmi=C5=9Ftir.</td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A         =
+   <td align=3D"center" style=3D"font-family: verdana, helvetica, sans-serif=
+; font-size: 11px;"><a href=3D"http://www.message34.com/?utm_source=3Dmsg34&=
+amp;utm_medium=3DAraMedya" target=3D"blank" re_target=3D"blank"><img src=3D"http=
+://sys.message34.com/bultenimages/message34/message34com_emailmarketings=
+istemi.png" width=3D"150" height=3D"68" alt=3D"message34.com" style=3D"border-wi=
+dth: 0px; border-style: solid;" /></a></td>=0D=0A        </tr>=0D=0A    </tbody>=
+=0D=0A</table></body><img  src=3D"http://sys.message34.com/UserRelations/Open_=
+Mail.aspx?imageuri=3Dhttp://sys.message34.com/or.gif&cid=3D109654&uid=3D=
+17040" alt=3D"OpGif" height=3D"1px" width=3D"1px" /></html>

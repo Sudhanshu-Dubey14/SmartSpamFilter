@@ -1,0 +1,151 @@
+Return-Path: <mailer-girish+5Fwadhwa=jcbl.com@sss3.couponfinders.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <girish_wadhwa@jcbl.com>
+X-Envelope-To-Blocked: <girish_wadhwa@jcbl.com>
+X-Quarantine-ID: <apekhvumRCVh>
+X-Spam-Flag: YES
+X-Spam-Score: 9.994
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.994 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_MISSP_DKIM=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_CSS=1, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_BLACK=1.775,
+	URIBL_DBL_SPAM=1.7] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id apekhvumRCVh for <girish_wadhwa@jcbl.com>;
+	Thu, 11 Oct 2018 10:29:24 +0530 (IST)
+Received: from sss3.couponfinders.in (sss3.couponfinders.in [142.44.214.28])
+	by mx10.jcbl.com (Postfix) with ESMTPS id A027BEEC576
+	for <girish_wadhwa@jcbl.com>; Thu, 11 Oct 2018 10:29:06 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key5; d=sss3.couponfinders.in;
+ h=Date:From:To:Reply-to:List-Unsubscribe:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID; t=1539233971; i=mailer@sss3.couponfinders.in;
+ bh=fqDjKn2SPPQ9FhVquU4nKzBqyoE=;
+ b=NYqZAaQOImpxepJIq1w/vO0BdQ2GaOCPA+5s8FFxZeNeIvfO8DD3vzvIOKaGdqlwJvKrr0EKiaot
+   kO6XXbd3+GJjbeW3wgGPGMyO7DHVqOn484FQvwOlWNv160KJh+95ae4IvquWt6K8uqyzxvDiwxkE
+   JE+w90ngdJ+vo5r7pImFJso30S2OggPWGsBwYPLPKesfo+fYqps0TZLqza+v+d968EXGIZejzqyI
+   0ayiF1xkQ+DQ26UkVaYi4ZXrcKqLgObmQxGuYt1JDhRgD37Vc4/TARY4dZjMCe2yZv3xhXr+s+fl
+   gS/9s3pX+a5nOWy9D8G3Nzli3ek3sr3gyr8L9w==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key5; d=sss3.couponfinders.in;
+ b=Gots0fccVcnkuJbOt+nHZl6zhd8y3R+Luj8S3o1pxyWxJrvTWXkrN0Oydv9w/lN8MUEekVDqZhEe
+   faRcEP+U2y3AZ4kRU/dWwmm/baZA7/B4qWVt91AdDDSp5xyFrgszc8Va06VK9sm4GE9Qg4TK0bsC
+   icz9nlf7LOjAptAn1ceTQPRy+EGcCF7mlwOjSIma88y8wFHt/jldnuoS4BSbw70g5VnlN5PPlfgq
+   pvf3XtL3NPBSg4KCok+Q/mYWwtL+hiNjveumAgCCWC0CI1pEt+1BpBwh/sfcIx9lDWP6D20N3uaB
+   PdYfP8ZEd4yqbVYJdpKk41BdxXviXGWhZ1DZ1w==;
+Date: Thu, 11 Oct 2018 00:59:01 -0400
+From: Great Indian Sale<mailer@sss3.couponfinders.in> 
+To: girish_wadhwa@jcbl.com
+Reply-to: mailer@sss3.couponfinders.in
+List-Unsubscribe: <mailto:unsub@sss3.couponfinders.in>
+Feedback-ID: 121:1636208:couponfinders:fbl@sss3.couponfinders.in
+Subject:Save Big with Amazon's Great Indian Sale!
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Message-ID: <0.0.2.5F3.1D4611F23A5A7E8.9AE8@sss3.couponfinders.in>
+
+<font size='2'><center>To ensure delivery to your inbox, please add <a href='mailto:mailer@sss3.couponfinders.in'>mailer@sss3.couponfinders.in</a> to your address book<br>To view this email online, <a href='http://sss3.couponfinders.in/preview.jsp?cmpID=121&uid=1636208'>view in browser</a>, Click to <a href='http://sss3.couponfinders.in/forwardTofriend.jsp?cmpID=121&userID=1636208'>Forward to Friend</a></center></font><br><br><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+</head>
+<body></body>
+</html>
+<title></title>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="m_4836495994640546064table-main-content" style="border-collapse: collapse; color: #222222; font-family: arial, sans-serif; font-size: 16px; width: 100%; max-width: 800px;">
+	<tbody>
+		<tr>
+			<td align="center" style="margin: 0px; border-collapse: collapse;" valign="top">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+				<tbody>
+					<tr>
+						<td align="left" style="margin: 0px; border-collapse: collapse; padding-left: 10px;" valign="top"><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1274&cmpID=121"   style="color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; line-height: 10px; text-decoration: none;" target="_blank">Popular Stores</a>|<a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1274&cmpID=121"   style="color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; line-height: 10px; text-decoration: none;" target="_blank">Current Deals</a></td>
+						<td align="right" style="margin: 0px; border-collapse: collapse; color: #101010;" valign="middle"><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1274&cmpID=121"   style="color: #1a76b9; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; text-decoration: none;" target="_blank">Today's Deals</a></td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+				<tbody>
+					<tr>
+						<td align="center" style="margin: 0px; border-collapse: collapse;" valign="top">
+						<table bgcolor="#ff9900" border="0" cellpadding="0" cellspacing="0" id="m_4836495994640546064table-header-orange-bar" style="border-collapse: collapse; height: 6px; background-color: #ff9900; width: 100%;">
+							<tbody>
+								<tr>
+									<td height="6" style="margin: 0px; border-collapse: collapse; height: 6px; width: 800px;" width="100%"></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;"><!-------------Start of First Product----------------->
+				<tbody>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<!-------------Ending of First Product----------------->
+				</tbody>
+				<tbody>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1277&cmpID=121"   style="color: #e47911; text-decoration: none; font-size: 15px; line-height: 17px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>Great Indian Sale : Live Now! Biggest Savings Ever</b></a><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1277&cmpID=121"   style="color: #1a76b9; text-decoration: none; font-size: 11px; line-height: 16px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>See more</b></a></td>
+					</tr>
+					<tr>
+						<td align="center" style="margin: 0px; border-collapse: collapse;" valign="middle"><a align="center"  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1277&cmpID=121"   style="color: #1155cc;" target="_blank"><img align="top" alt="Grocery Store: Get Cashback" border="0" class="m_4836495994640546064imageFix CToWUd" hspace="0" src="https://s3.us-east-2.amazonaws.com/amppixel/AMZ/great-indian-sale.jpg" style="border: none; outline: none; text-decoration: none; display: block; max-width: 800px; max-height: 400px; width: 800px;" vspace="0" width="100%" /> </a></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<!-------------Ending of First Product----------------->
+				</tbody>
+				<tbody>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1280&cmpID=121"   style="color: #e47911; text-decoration: none; font-size: 15px; line-height: 17px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>Great Indian Sale : TVs and appliances Lowest price ever!!</b></a><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1280&cmpID=121"   style="color: #1a76b9; text-decoration: none; font-size: 11px; line-height: 16px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>See more</b></a></td>
+					</tr>
+					<tr>
+						<td align="center" style="margin: 0px; border-collapse: collapse;" valign="middle"><a align="center"  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1280&cmpID=121"   style="color: #1155cc;" target="_blank"><img align="top" alt="Grocery Store: Get Cashback" border="0" class="m_4836495994640546064imageFix CToWUd" hspace="0" src="https://s3.us-east-2.amazonaws.com/amppixel/AMZ/tv.jpg" style="border: none; outline: none; text-decoration: none; display: block; max-width: 800px; max-height: 400px; width: 800px;" vspace="0" width="100%" /> </a></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<!-------------Ending of First Product----------------->
+				</tbody>
+				
+				<tbody>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1283&cmpID=121"   style="color: #e47911; text-decoration: none; font-size: 15px; line-height: 17px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>Great Indian Sale : Block buster Deals on Electronics!!</b></a><a  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1283&cmpID=121"   style="color: #1a76b9; text-decoration: none; font-size: 11px; line-height: 16px; font-family: Arial, Helvetica, sans-serif;" target="_blank"><b>See more</b></a></td>
+					</tr>
+					<tr>
+						<td align="center" style="margin: 0px; border-collapse: collapse;" valign="middle"><a align="center"  href="http://sss3.couponfinders.in/ofc?act=linkHandler&clid=84&u=1636208&linkID=1283&cmpID=121"   style="color: #1155cc;" target="_blank"><img align="top" alt="Grocery Store: Get Cashback" border="0" class="m_4836495994640546064imageFix CToWUd" hspace="0" src="https://s3.us-east-2.amazonaws.com/amppixel/AMZ/electronics.jpg" style="border: none; outline: none; text-decoration: none; display: block; max-width: 800px; max-height: 400px; width: 800px;" vspace="0" width="100%" /> </a></td>
+					</tr>
+					<tr>
+						<td height="15" style="margin: 0px; border-collapse: collapse; height: 15px;"></td>
+					</tr>
+					<!-------------Ending of First Product----------------->
+				</tbody>
+			</table>
+
+			<table bgcolor="#ff9900" border="0" cellpadding="0" cellspacing="0" id="m_4836495994640546064table-header-orange-bar" style="border-collapse: collapse; height: 6px; background-color: #ff9900; width: 100%;">
+				<tbody>
+					<tr>
+						<td height="6" style="margin: 0px; border-collapse: collapse; height: 6px; width: 800px;" width="100%"></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<img src='http://sss3.couponfinders.in/urc?act=openHandler&clid=84&u=1636208&cmpID=121' alt=' ' width='1' height='1' style='display: none;'><center><font size='2'><br><br><br><a href='http://sss3.couponfinders.in/unsub.jsp?e=girish_wadhwa@jcbl.com&clid=84&u=1636208&cmpID=121'> Unsubscribe </a> here.</font></center>

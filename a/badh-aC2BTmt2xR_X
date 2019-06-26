@@ -1,0 +1,49 @@
+Return-Path: <emailsecurity@hes.trendmicro.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aC2BTmt2xR_X>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aC2BTmt2xR_X for <admin@mslindia.net>;
+	Mon, 18 Dec 2017 10:22:33 +0530 (IST)
+Received: from iout6.hes.trendmicro.com (iout6.hes.trendmicro.com [54.219.191.116])
+	by mx10.jcbl.com (Postfix) with ESMTPS id AB3E710043C9
+	for <mktho@mslindia.net>; Mon, 18 Dec 2017 10:22:29 +0530 (IST)
+Received: from 0.0.0.0_hes.trendmicro.com (unknown [10.64.0.25])
+	by iout6.hes.trendmicro.com (Postfix) with SMTP id 14F01A0E044
+	for <mktho@mslindia.net>; Mon, 18 Dec 2017 04:52:29 +0000 (UTC)
+From: <emailsecurity@hes.trendmicro.com>
+To: <mktho@mslindia.net>
+Subject: =?UTF-8?B?VW5kZWxpdmVyZWQgTWFpbCBSZXR1cm5lZCB0byBTZW5k?=
+	=?UTF-8?B?ZXI=?=
+Message-ID: <406A1EB8-9E8B-01DF-AD05-1703A3953461@hes.trendmicro.com>
+X-TM-Deliver-Signature: F81569074F4981102A4F233E42DD24CE
+Content-Type: multipart/mixed;
+	boundary="TMMSG_30D9EAB7_6059_66DD_A476_8DA83640340A"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_30D9EAB7_6059_66DD_A476_8DA83640340A
+Content-Type: Text/Plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyB0byBpbmZvcm0geW91IHRoYXQgeW91ciBlbWFpbCBtZXNzYWdlIGNvdWxkIG5vdCBi
+ZSBkZWxpdmVyZWQgdG8gdGhlIGludGVuZGVkIHJlY2lwaWVudHMuCgpEbyBub3QgcmVwbHkgdG8g
+dGhpcyBnZW5lcmF0ZWQgZW1haWwgbWVzc2FnZS4KRm9yIGZ1cnRoZXIgYXNzaXN0YW5jZSwgY29u
+dGFjdCB5b3VyIGVtYWlsIGFkbWluaXN0cmF0b3IuCgpUaGUgcHJvYmxlbSByZXBvcnQgaXMgcHJv
+dmlkZWQgYmVsb3cgZm9yIHlvdXIgcmVmZXJlbmNlLgoKICAgICAgICAgICAgICAgICAgIFRoZSBt
+YWlsIHN5c3RlbQoKCkZyb206IG1rdGhvQG1zbGluZGlhLm5ldApUbzogClN1YmplY3Q6IFJlOiBT
+ZWFzb24ncyBHcmVldGluZ3MgRnJvbSBFZHdhcmQgCkRhdGU6IE1vbiBEZWMgMTggMDQ6NTI6Mjgg
+MjAxNwpNZXNzYWdlIElEOiBiN2QyYzk2ZC0zOGJlLTRlN2ItYmEwNS1iYWI1NzE4MWVmM2YK
+
+--TMMSG_30D9EAB7_6059_66DD_A476_8DA83640340A--
+

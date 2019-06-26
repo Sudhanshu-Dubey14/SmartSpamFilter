@@ -1,0 +1,850 @@
+Return-Path: <bounce@support.ulprospector.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <sourcing1@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aAedbdpfvE4K>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E8 hex):
+	Subject:
+	\303\250\302\266\302\213\303\245\302\212\302\277\303\245\302\205\302\263\303\246\302\263\302\250\303\257\302\274\302\232\303\245[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aAedbdpfvE4K for <sourcing1@jcbl.com>;
+	Wed, 19 Apr 2017 08:34:39 +0530 (IST)
+Received: from mail1.ulprospector.com (unknown [108.168.255.101])
+	by mx10.jcbl.com (Postfix) with ESMTP id EB9F2F85991
+	for <sourcing1@jcbl.com>; Wed, 19 Apr 2017 08:34:35 +0530 (IST)
+Received: from sm1.innovadex.com ([10.120.34.225])
+	by mail1.ulprospector.com (-); Tue, 18 Apr 2017 22:04:43 -0500
+X-VirtualServer: Mail1, mail1.ulprospector.com, 108.168.255.101
+X-VirtualServerGroup: Mail1
+X-MailingID: 16807332::126522::60404::105405::1327562::7115_1306925_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: sourcing1@jcbl.com
+X-SMFBL: c291cmNpbmcxQGpjYmwuY29t
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=sm;
+ d=ulprospector.com;
+ q=dns;
+ b=GUi1YaZOCOy3LcdnnsbbgCfCbLu6bcesHPC8GAgaGW5XbFcHKXJf2DHnuoMA4VTJl4mYPGlV5yh1dKHIfnP4v/10ZksgYD7XrSagzkWxquQCpwNa1y8CdRHFGoik6NkUsNoadphDfTjwSnhlg1VhcNEp24gSGXP1Akax4/VU6Tw=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=ulprospector.com;
+	s=sm; t=1492571083; i=@ulprospector.com; h=Content-Transfer-Encoding:
+	Content-Type:Reply-To:MIME-Version:Message-ID:X-ReportingKey:
+	Subject:Date:To:From; bh=s3T5aviGeAPu1gnlV3R2qC/1o3c=; b=ZoXLHMz
+	ALt2z1M48e8GsdwHdtFHot31I9dla8ltOmrYE0T7ISBc+k1ZKZRQj3+nUvqSoYSV
+	nbzUkNLYwv48kL5qHgSbgnZ5Avpg4f7bvLLthYvhK1Y/Rrj22o0FJXoJyRQURC4H
+	egWccay2sZ1NeUWX74vc7qZcMTP6LtsH1Dac=
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_A0E_6466_4E78A42A.7E57856D"
+Reply-To: eNewsletter@ulprospector.com
+MIME-Version: 1.0
+Message-ID: <16807332.7115@ulprospector.com>
+X-ReportingKey: LJI89KF6IV8F6MKK478KJJ10DSJA0A5T::sourcing1@jcbl.com::1327562
+Subject: 趋势关注：克服塑料着色的挑战
+Date: Tue, 18 Apr 2017 22:04:28 -0500
+To: sourcing1@jcbl.com
+From: "UL Prospector" <eNewsletter@ulprospector.com>
+
+
+------=_NextPart_A0E_6466_4E78A42A.7E57856D
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+Prospector
+----------
+
+
+在ULProspector.com查看最新消息
+
+ 
+
+塑料材料 搜索引擎最新信息
+
+亲爱的Moon
+
+在本周的电子周刊中，我们向您隆重介绍新供应商TechnoCompound和Barlog。另外，请关注专家中心关于克服塑料着色的挑战的文章。
+
+TechnoCompound
+--------------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3000&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1187&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+Barlog
+------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3001&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1723&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+赛百库团队
+
+专家见解
+
+潮流趋势
+
+趋势关注：克服塑料着色的挑战 ›
+
+趋势关注：克服塑料着色的挑战 ›
+----------------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3002&&&https://cn-knowledge.ulprospector.com/2483/pe-plastics-coloring-trends/?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+作者：Robert Grace
+
+Prospector Announcements
+
+新供应商！ BARLOG plastics GmbH
+
+BARLOG plastics GmbH
+--------------------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3003&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1723&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+The BARLOG GROUP is a full-service supplier for plastic technology. With high- performance plastics and comprehensive technical service, we offer the best plastics technology and development in market segments such as electrical / electronics, automotive and sanitary engineering.
+
+新供应商！ TechnoCompound GmbH
+
+TechnoCompound GmbH
+-------------------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3004&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1187&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+TechnoCompound GmbH, a member of the Polymer-Group based in Bad Sobernheim, is a leading provider of tailor-made plastic compounds in Europe. With state-of-the-art production lines the company compounds, refines and modifies polymers for customer-specific applications. The wide product portfolio of functionally modified plastics ranges from standard compounds to engineered plastics and thermoplastic elastomers.
+
+ 
+
+Prospector 中国上海市南京西路388号 仙乐斯广场38楼 邮编: 200003 电话: +86-21-61376408 传真: +86-21-52929886 ext. 66408
+
+该邮件发送给sourcing1@jcbl.com。 为了确保您可以收到来自我们的邮件, 请将 eNewsletter@ulprospector.com 添加为您的联系人。
+
+sourcing1@jcbl.com
+---------
+mailto:sourcing1@jcbl.com
+
+eNewsletter@ulprospector.com
+----------------------------
+mailto:eNewsletter@ulprospector.com
+
+关于我们  |  联系我们  |  取消订阅  |  查看往期电子周刊
+
+关于我们
+----
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3005&&&https://www.ulprospector.com/zh-cn/About?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+联系我们
+----
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3006&&&https://www.ulprospector.com/zh-cn/contact/new?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+取消订阅
+----
+http://smail.ulprospector.com:80/track?type=unsubscribe&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&https://www.ulprospector.com/unsubscribe/1327562/1326988?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+查看往期电子周刊
+--------
+http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&3008&&&https://www.ulprospector.com/zh-cn/asia/PersonalCare/Newsletters?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter
+
+版权© 2017 UL. 版权所有
+
+                                                           
+
+
+------=_NextPart_A0E_6466_4E78A42A.7E57856D
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>  
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--[if !mso><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif-->
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" name="viewport">
+<meta name="viewport" content="width=device-width">
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="https://fonts.googleapis.com/css?family=Open-Sans" rel="stylesheet">
+<title>Prospector</title>
+<!--Leave Spaces 1019 characters for iOS Buffering-->
+
+
+
+
+
+
+
+
+
+
+
+<!--Leave Spaces 1019 characters for iOS Buffering-->
+<style type="text/css">
+.ExternalClass { width:100%; }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+table td { border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+h1, h2, h3, h4, h5, h6 { font-size: inherit; padding: 0; margin: 0; color: black; line-height: 100%; }
+
+.applelinks a { text-decoration: none; color: inherit !important; }
+a { color: inherit; text-decoration: none; }
+a, a:link, a:visited { color: inherit; text-decoration: none; }
+
+.gmailfix { display: none !important; }
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	padding: 0;
+	}
+
+
+@media only screen and (max-width: 480px) {
+.w100m, .column50, .column33 { width: 100% !important; }
+.w90m { width: 90% !important;}
+.resizem { width: 100% !important; height: auto !important; }
+.hidem { display: none !important; }
+.h1m { font-size: 18px !important;}
+.h2m { font-size: 16px !important;}
+.h3m { font-size: 13px !important;}
+.h4m { font-size: 12px !important;}
+.tcenterm { text-align: center !important; }
+.height0m { height: 0 !important; }
+.logo { width: 100px !important; height: auto !important; }
+.borderlr0m { border-left: 0px !important; border-right: 0px !important; }
+.bordertm { border-top: 1px solid #cfcece; }
+.showm { display: block !important; max-height: 1000px !important; width: 100% !important; overflow: visible !important; align: center !important; }
+.padt0m { padding-top: 0px !important; }
+.padt5m { padding-top: 5px !important; }
+.padt10m { padding-top: 10px !important; }
+.padt20m { padding-top: 20px !important; }
+.padb5m { padding-bottom: 5px !important;}
+.padb10m { padding-bottom: 10px !important;}
+}
+
+
+@media only screen and (max-width: 711px) {
+.w100 { width: 100% !important;}
+.minwidth { min-width: 100% !important;}
+.resize { width: 100% !important; height: auto !important; }
+.resize img { width: 100% !important; height: auto !important; }
+.resize a { width: auto !important; height: auto !important; }
+.column33 { width: 33.33%; }
+.column50 { width: 50%; }
+}
+
+</style>
+
+<!--[if mso>
+<style type="text/css">
+body {
+	margin: 0 !important;
+    padding: 0 !important;
+    font-family: Arial, sans-serif !important;
+    }
+
+table, td, div, p {
+	font-family: Arial, sans-serif !important;
+    line-height: normal;
+    }
+</style>
+<![endif-->
+
+
+
+</head>
+
+<body class="tli" style="-webkit-text-size-adjust: none;-ms-text-size-adjust: none; margin: 0; padding: 0; width: 100%; background-color: white;"><IMG SRC="http://smail.ulprospector.com:80/track?enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZ0eXBlPW9wZW4mc2VyaWFsPTE2ODA3MzMyJmVtYWlsaWQ9c291cmNpbmcxQGpjYmwuY29tJnVzZXJpZD0xMzI3NTYyJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm" WIDTH="1" HEIGHT="1" STYLE="border-width:0; border-style:hidden;" ALT=""/>
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="minwidth" align="center" style="min-width: 711px; background-color: white;">
+      	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+
+
+<!-- ||| PREAHEADER START ||| -->
+<table class="hidem" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background-color: #e9e9e9; padding-top: 10px; padding-bottom: 10px;">
+      	<table class="w100" align="center" width="711" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+      	<table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    	<!-- *** COPY START *** -->
+      <td style="color: #343434; text-align: left; font-size: 12px; font-family: 'Open Sans', Arial, sans-serif;">在ULProspector.com查看最新消息</td>
+      	<!-- *** COPY END *** -->
+                <!-- *** COPY START *** -->
+      <td style="text-align: right; font-family: 'Open Sans',Arial, sans-serif; font-size: 12px; color: #d3154b;">&nbsp; <a href="http://smail.ulprospector.com:80/track?t=v&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtaWQ9MTI2NTIyJm1zZ2lkPTEwNTQwNSZkaWQ9NjA0MDQmZWRpZD02MDQwNCZzbj0xNjgwNzMzMiZlaWQ9c291cmNpbmcxQGpjYmwuY29tJmVlaWQ9c291cmNpbmcxQGpjYmwuY29tJnVpZD0xMzI3NTYyJnJpZD03MTE1JmVyaWQ9NzExNSZmbD0mbXZpZD0mdGdpZD0mZXh0cmE9&&&2060&eu=1&&&#" style="color: #d3154b; text-decoration: underline;" target="_blank">在线阅览本电子周刊</a></td>
+      	<!-- *** COPY END *** -->
+
+  </tr>
+</table>
+      </td>
+  </tr>
+</table>
+      </td>
+  </tr>
+</table>
+<!-- ||| PREAHEADER END ||| -->
+
+
+<!-- ||| LEADERBOARD START ||| -->
+<!-- ||| LEADERBOARD END ||| -->
+
+
+<!-- ||| HEADER START ||| -->
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- * SOLID BACKGROUND START * -->
+      <td align="center" style="background-color: #d3154b;">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- * GRADIENT BACKGROUND START * -->
+      <td style="background: -moz-linear-gradient(left,  #d3154c 0%, #d3154b 100%); /* FF3.6-15 */
+
+background: -webkit-linear-gradient(left,  #d3154c 0%,#d3154b 100%); /* Chrome10-25,Safari5.1-6 */
+
+background: linear-gradient(to right,  #d3154c 0%,#d3154b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d3154c', endColorstr='#d3154b',GradientType=1 ); /* IE6-9 */
+
+">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="padt10m padb10m" align="center" style="padding-top: 20px; padding-bottom: 20px;">
+      	<table class="w100" align="center" width="711" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+      	<table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- *** LOGO 180x23 START *** -->
+      <td width="40%" align="left"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2000&&&https://www.ulprospector.com?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank"><img src="https://images.ulprospector.com/Search/SupplierLogos/TLI-UL-logo_prospector.png" width="180" alt="PROSPECTOR" style="display: block; border: 0; max-width: 100%; font-size: 20px; font-weight: bold; font-family: sans-serif; color: white;"/></a></td>
+      <!-- *** LOGO 180x23 END *** -->
+
+      <td align="right" style="padding-left: 30px;">
+      	<table class="w100" width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td class="h3m" style="text-align: right; font-size: 18px; color: white; font-family: 'Open Sans', Arial, sans-serif;"><strong>塑料材料  </strong>搜索引擎最新信息</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+<!-- ||| HEADER END ||| -->
+
+
+
+
+<!-- ||| BODY START ||| -->
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding-bottom: 25px;">
+      	 <table class="w100" align="center" width="711" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+      	<table class="w100m" align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
+
+<!-- BUILD EMAIL WITH TABLE ROWS START -->
+
+
+
+    <!-- /// INTRO COPY START /// -->
+    <tr>
+    	<td align="center" style="padding-top: 20px;">
+        	<table class="w90m" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td class="h3m" style="color: #343434; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.3em;">亲爱的Moon</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+    <tr>
+    	<!-- *** COPY START *** -->
+      <td class="h3m" style="color: #343434; padding-top:10px; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.3em;"> 在本周的电子周刊中，我们向您隆重介绍新供应商<a style="color: #d3154b;" href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2001&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1187&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank">TechnoCompound</a>和<a style="color: #d3154b;" href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGF
+ yZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2002&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1723&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank">Barlog</a>。另外，请关注专家中心关于克服塑料着色的挑战的文章。</td>
+      	<!-- *** COPY END *** -->
+    </tr>
+    <!-- / CTA LINK START / -->    <!-- / CTA LINK END / -->
+
+    <!-- / SIGNOFF START / -->
+    <tr>
+      <td class="h3m" style="padding-top: 10px; color: #343434; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.3em;">赛百库团队</td>
+    </tr>
+    <!-- / SIGNOFF END / -->
+</table>
+        </td>
+    </tr>
+    <!-- /// INTRO COPY  END /// -->
+
+
+
+<!-- /// SPOTLIGHT VERTICAL START /// -->
+   
+    <!-- /// SPOTLIGHT AD VERTICAL END /// -->
+
+ 
+ <!-- /// SPOTLIGHT HORIZONTAL START /// -->
+  
+    <!-- /// SPOTLIGHT HORIZONTAL END /// -->
+    
+       <!-- /// IMAGE SPOTLIGHT START /// -->
+  
+    <!-- /// IMAGE END /// -->
+
+<!-- / 3 COLUMN STACKED BUTTON ROW START / -->
+   
+    <!-- / 3 COLUMN STACKED BUTTON ROW END / -->
+    
+    <!-- /// IMAGE SPOTLIGHT END /// -->
+
+
+    <!-- /// INDUSTRY INSIGHTS START /// -->
+    <tr>
+    	<td>
+        	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="padding-top: 30px;">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 1px solid #cfcece;"></td>
+    </tr>
+</table>
+      </td>
+
+      <!-- *** TITLE START *** ADJUST WIDTH FOR HEADLINE -->
+      <td width="210" style="padding-left: 5px; padding-right: 5px; color: #343434; text-align: center; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.1em;" class="h1m"><span style="padding-left: 5px; padding-right: 5px; color: #343434; text-align: center; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.1em;" class="h1m">专家见解</span></td>
+      	<!-- *** TITLE END *** -->
+
+      <td>
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 1px solid #cfcece;"></td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+    <!-- / 2 ARTICLE START / -->
+    <tr>
+    	<td align="center">
+        
+        
+        
+        
+        	<table class="w90m" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+
+        <table class="column50" width="319" border="0" align="left" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding-top: 20px;">
+      	<table class="w100m" width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+    	<td align="center" style="border: 1px solid #cfcece; -webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px; overflow: hidden;">
+        	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- *** IMAGE 300x144 START *** -->
+      <td align="center"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2003&&&https://cn-knowledge.ulprospector.com/2483/pe-plastics-coloring-trends/?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank"><img src="https://cn-knowledge.ulprospector.com/media/2017/04/YInMn_Blue_-_cropped-300144.jpg" width="300" style="display: block; border: 0; background-color: #d3154b;" class="resize"/></a></td>
+      	<!-- *** IMAGE 300x144 START *** -->
+
+    </tr>
+    <tr>
+    	<td align="center" style="padding-top: 15px; padding-bottom: 15px;">
+        	<table class="w90m" width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+   <tr>
+
+    	<!-- *** TAG START *** -->
+      <td style="color: #8a8a8a; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; text-transform:uppercase;">潮流趋势</td>
+      	<!-- *** TAG END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** LINK START *** -->
+      <td class="h2m" style="color: #d3154b; text-align: left; font-size: 16px; font-family: 'Open Sans', Arial, sans-serif; font-weight: bold;"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2004&&&https://cn-knowledge.ulprospector.com/2483/pe-plastics-coloring-trends/?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank" style="color: #d3154b; text-decoration: none;"><u>趋势关注：克服塑料着色的挑战</u>&nbsp;&rsaquo;</a></td>
+      	<!-- *** LINK END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** AUTHOR START *** -->
+      <td style="padding-top: 10px; color: #8a8a8a; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; font-style: italic;">作者：Robert Grace </td>
+      	<!-- *** AUTHOR END *** -->
+
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+
+<!--[if mso]></td><td valign="top"><![endif]-->
+
+		<table class="column50" width="319" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding-top: 20px;">
+      	<table class="w100m" width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- *** RIGHT AD 300x250 START *** -->
+      <td class="resize" align="center"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2005&&&https://materials.ulprospector.com/ODMViewer.aspx?NONTDS&DOCID=216370&ul_ce=2065&st=34&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank"><img src="https://images.ulprospector.com/Search/SpotlightImages/Glass_Filled_Resins.jpg" width="300"  style="display: block; border: 0; background-color: #d3154b;"/></a></td>
+      	<!-- *** RIGHT AD 300x250 START *** -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+
+      </td>
+    </tr>
+</table>
+    <tr>
+    	<td align="center"><!-- /// PROSPECTOR ANNOUNCEMENTS START /// -->
+    <tr>
+    	<td align="center" style="padding-top: 30px;">
+        	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="w90m">
+    <tr>
+      <td style="border: 1px solid #cfcece; -webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px; overflow: hidden;">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+    <!-- / TITLE WITH BACKGROUND START / -->
+    <tr>
+      <td class="padt10m padb10m" align="center" style="background-color: #d3154b; padding-top: 14px; padding-bottom: 14px;">
+      	<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+
+      <!-- *** HEADLINE START *** -->
+      <td class="h1m" width="210" style="padding-left: 5px; padding-right: 5px; color: white; text-align: center; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.1em;">Prospector Announcements</td>
+      	<!-- *** HEADLINE END *** -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+    <!-- / TITLE WITH BACKGROUND END / -->
+
+
+    <tr>
+      <td align="center" style="padding-bottom: 20px;">
+      	<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+
+   <!-- / ANNOUNCEMENT ROW START / -->
+  <tr>
+      <td align="center" style="padding-top: 20px;">
+      	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="65" valign="top" style="padding-right: 20px;">
+      	<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- *** ICON 100x100 START *** -->
+      <td><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2006&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1723&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank"><img src="https://images.ulprospector.com/Search/SpotlightImages/Barlog_Logo_Plastics_Logo_rgb.jpg" width="100" style="display: block; border: 0;" class="resizem"/></a></td>
+      	<!-- *** ICON 100x100 END *** -->
+
+    </tr>
+</table>
+      </td>
+      <td valign="top">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- *** HEADLINE LINK START *** -->
+      <td class="h2m" style="color: #d3154b; text-align: left; font-size: 18px; font-family: 'Open Sans', Arial, sans-serif; font-weight: bold;"><span style="color: #419a3b;">新供应商！</span>&nbsp;<a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2007&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1723&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank" style="color: #d3154b; text-decoration: underline;">BARLOG plastics GmbH</a></td>
+      	<!-- *** HEADLINE LINK END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td class="h2m hidem" style="padding-top: 5px; color: #343434; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.3em; text-decoration: none;">The BARLOG GROUP is a full-service supplier for plastic technology. With high- performance plastics and comprehensive technical service, we offer the best plastics technology and development in market segments such as electrical / electronics, automotive and sanitary engineering.</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+  <!-- / ANNOUNCEMENT ROW END / -->
+
+
+  <!-- / NSA ROW START / -->
+  <tr>
+      <td align="center" style="padding-top: 20px;">
+      	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="65" valign="top" style="padding-right: 20px;">
+      	<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- *** ICON 100x100 START *** -->
+      <td><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2008&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1187&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank"><img src="https://images.ulprospector.com/Search/SpotlightImages/technocompound_logo.png" width="100" style="display: block; border: 0;" class="resizem"/></a></td>
+      	<!-- *** ICON 100x100 END *** -->
+
+    </tr>
+</table>
+      </td>
+      <td valign="top">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+
+    	<!-- *** HEADLINE LINK START *** -->
+      <td class="h2m" style="color: #d3154b; text-align: left; font-size: 18px; font-family: 'Open Sans', Arial, sans-serif; font-weight: bold;"><span style="color: #419a3b;">新供应商！</span>&nbsp;<a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2009&&&https://materials.ulprospector.com/querymod.aspx?QM=100:1187&utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" target="_blank" style="color: #d3154b; text-decoration: underline;">TechnoCompound GmbH</a></td>
+      	<!-- *** HEADLINE LINK END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td class="h2m hidem" style="padding-top: 5px; color: #343434; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; line-height: 1.3em; text-decoration: none;">TechnoCompound GmbH, a member of the Polymer-Group based in Bad Sobernheim, is a leading provider of tailor-made plastic compounds in Europe. With state-of-the-art production lines the company compounds, refines and modifies polymers for customer-specific applications. The wide product portfolio of functionally modified plastics ranges from standard compounds to engineered plastics and thermoplastic elastomers.</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+  <!-- / NSA ROW END / -->
+
+
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+    <!-- /// PROSPECTOR ANNOUNCEMENTS END /// -->
+
+
+
+
+
+
+    <!-- /// INDUSTRY INSIGHTS END /// -->
+  
+   <!-- /// BOX AD-L/IMG AD-R START /// -->
+   
+    <!-- /// BOX AD-L/IMG AD-R  END /// -->
+  
+    
+    
+  
+  
+  
+  <!-- /// BOX AD-L/IMG AD-R START /// -->
+  
+    <!-- /// BOX AD-L/IMG AD-R  END /// -->
+
+<!-- /// SECTOINAL TITLE START /// -->
+ 
+    <!-- /// SECTOINAL TITLE END /// -->
+
+
+
+
+
+    <!-- /// EPA MODULE START /// -->
+    
+    <!-- /// EPA MODULE END /// -->
+
+    
+
+
+    <!-- /// INGREDIENTS AND FORMULATIONS START /// -->    <!-- /// INGREDIENTS AND FORMULATIONS END /// -->
+
+
+
+
+    <!-- /// PROSPECTOR ANNOUNCEMENTS START /// -->    <!-- /// PROSPECTOR ANNOUNCEMENTS END /// -->
+
+
+
+
+    <!-- /// NEWS AND EDUCATION START /// -->
+
+    <!-- /// NEWS AND EDUCATION END /// -->
+
+    
+    
+    
+
+
+
+<!-- BUILD EMAIL WITH TABLE ROWS  END -->
+</table>
+      </td>
+  </tr>
+</table>
+      </td>
+  </tr>
+    <tr>
+      <td align="center" style="padding-bottom: 25px;">&nbsp;</td>
+    </tr>
+</table>
+<!-- ||| BODY END ||| -->
+
+
+
+
+<!-- ||| FOOTER START ||| -->
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background-color: #333333; padding-top: 30px; padding-bottom: 30px;">
+      	<table class="w100" align="center" width="711" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+      	<table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
+
+
+
+    <tr>
+      <td align="center">
+      	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="bottom" style="padding-right: 20px;">
+      	<table class="w100" width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td style="color: white; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif;">Prospector<br />
+        中国上海市南京西路388号<br />
+        仙乐斯广场38楼<br />
+        邮编: 200003<br />
+        电话: +86-21-61376408<br />
+        传真: +86-21-52929886<br />
+        ext. 66408</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+</table>
+      </td>
+
+
+      <!-- *** IMAGE 70x70 START *** -->
+      <td width="1" align="center"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2010&&&https://www.ulprospector.com?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter"><img src="https://images.ulprospector.com/Search/SpotlightImages/ul-white-70.png" width="70" alt="UL" style="display: block; border: 0; font-size: 30px; font-weight: bold; font-family: sans-serif; color: white;" target="_blank"/></a></td>
+      <!-- *** IMAGE 70x70 END *** -->
+
+    </tr>
+</table>
+      </td>
+  </tr>
+
+
+  <tr>
+
+    	<!-- *** COPY START *** -->
+      <td style="padding-top: 14px; color: white; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif;">该邮件发送给<a href="mailto:sourcing1@jcbl.com"><span style="color: white; text-decoration: none;">sourcing1@jcbl.com</span></a>。 为了确保您可以收到来自我们的邮件, 请将 <a href="mailto:eNewsletter@ulprospector.com"><span style="color: white; text-decoration: underline;"> eNewsletter@ulprospector.com</span></a> 添加为您的联系人。</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td style="padding-top: 14px; color: white; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; text-decoration:none;"><a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2012&&&https://www.ulprospector.com/zh-cn/About?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" style="color: white; text-decoration: underline;" target="_blank">关于我们</a> 
+      &nbsp;|&nbsp; <a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2013&&&https://www.ulprospector.com/zh-cn/contact/new?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" style="color: white; text-decoration: underline;" target="_blank">联系我们</a>
+      &nbsp;|&nbsp; <a href="http://smail.ulprospector.com:80/track?type=unsubscribe&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&https://www.ulprospector.com/unsubscribe/1327562/1326988?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" style="color: white; text-decoration: underline;" target="_blank">取消订阅</a> 
+      &nbsp;|&nbsp; <a href="http://smail.ulprospector.com:80/track?type=click&enid=ZWFzPTEmbXNpZD0xJmF1aWQ9MTMwNjkyNSZtYWlsaW5naWQ9MTI2NTIyJm1lc3NhZ2VpZD0xMDU0MDUmZGF0YWJhc2VpZD02MDQwNCZzZXJpYWw9MTY4MDczMzImZW1haWxpZD1zb3VyY2luZzFAamNibC5jb20mdXNlcmlkPTEzMjc1NjImdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=&&&2015&&&https://www.ulprospector.com/zh-cn/asia/PersonalCare/Newsletters?utm_source=strongmail&utm_medium=email&utm_campaign=NewTrendTuesdayeNewsletter" style="color: white; text-decoration: underline;" target="_blank">查看往期电子周刊</a></td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+    <tr>
+
+    	<!-- *** COPY START *** -->
+      <td style="padding-top: 14px; color: white; text-align: left; font-size: 13px; font-family: 'Open Sans', Arial, sans-serif; text-decoration:none;">版权&#169; 2017 UL.<br />
+        版权所有</td>
+      	<!-- *** COPY END *** -->
+
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+      </td>
+  </tr>
+</table>
+<!-- ||| FOOTER END ||| -->
+
+
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+
+
+
+
+<div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+
+</body>
+</html>
+
+
+------=_NextPart_A0E_6466_4E78A42A.7E57856D--
+

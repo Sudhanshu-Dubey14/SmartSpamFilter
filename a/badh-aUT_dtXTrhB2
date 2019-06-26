@@ -1,0 +1,373 @@
+Return-Path: <indianrailways@irctc.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <lalit_verma@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aUT_dtXTrhB2>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aUT_dtXTrhB2 for <lalit_verma@jcbl.com>;
+	Fri, 15 Jun 2018 23:08:36 +0530 (IST)
+Received: from smtp.irctc.co.in (smtp22.irctc.co.in [202.93.154.134])
+	by mx10.jcbl.com (Postfix) with ESMTP id 96D32102B6C3
+	for <lalit_verma@jcbl.com>; Fri, 15 Jun 2018 23:08:35 +0530 (IST)
+Received: from 10.34.29.47 (unknown [10.34.20.52])
+	by smtp.irctc.co.in (Postfix) with SMTP id 0AE0C2410C7
+	for <lalit_verma@jcbl.com>; Fri, 15 Jun 2018 23:09:38 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 smtp.irctc.co.in 0AE0C2410C7
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=irctc.co.in;
+	s=default; t=1529084378;
+	bh=JZ+tgx5Eb7F2jOyqXjzuYBDUVAf70+2VE6CRwE1DSVI=;
+	h=FROM:Subject:TO:From;
+	b=gV4Qqs++F03UulOCeuuBE8FpOELLujL+REV5XHyJ1+8Rv7p0tiHo6FgUO40V6GYKm
+	 gD59HdTMp5phEpE7pTbvn/vXJ9u1igixB9O5WMVX2ZwdrsGFrQlz/B7lZVvzP+Cr/F
+	 uGK74FzSIgfZJldtS5UVZKdW5rYH5eKZi2cvPg60=
+MIME-Version: 1.0
+Content-TYPE: text/html
+FROM:(Ministry of Railways, Government of India)indianrailways@irctc.co.in
+Subject:Four Year Achievements of Ministries of Railways & Coal
+TO: lalit_verma@jcbl.com
+
+<html>
+<head>
+
+ <meta charset="utf-8">
+    <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width">
+    <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting">
+    <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    <title>Rail&amp;Coal</title>
+    <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
+    <!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+    <!--[if mso]>
+        <style>
+            * {
+                font-family: sans-serif !important;
+            }
+        </style>
+    <![endif]-->
+    <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here:
+http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <!-- CSS Reset : BEGIN -->
+    <style>
+    /* What it does: Remove spaces around the email design added by some email clients. */
+    /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+
+    html,
+    body {
+        margin: 0 auto !important;
+        padding: 0 !important;
+        height: 100% !important;
+        width: 100% !important;
+    }
+    /* What it does: Stops email clients resizing small text. */
+
+    * {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+    }
+    /* What it does: Centers email on Android 4.4 */
+
+    div[style*="margin: 16px 0"] {
+        margin: 0 !important;
+    }
+    /* What it does: Stops Outlook from adding extra spacing to tables. */
+
+    table,
+    td {
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+    }
+    /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+
+    table {
+        border-spacing: 0 !important;
+        border-collapse: collapse !important;
+        table-layout: fixed !important;
+        margin: 0 auto !important;
+    }
+
+    table table table {
+        table-layout: auto;
+    }
+    /* What it does: Uses a better rendering method when resizing images in IE. */
+
+    img {
+        -ms-interpolation-mode: bicubic;
+    }
+    /* What it does: A work-around for email clients meddling in triggered links. */
+
+    *[x-apple-data-detectors],
+    /* iOS */
+
+    .x-gmail-data-detectors,
+    /* Gmail */
+
+    .x-gmail-data-detectors *,
+    .aBn {
+        border-bottom: 0 !important;
+        cursor: default !important;
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+    }
+    /* What it does: Prevents Gmail from displaying an download button on large, non-linked images. */
+
+    .a6S {
+        display: none !important;
+        opacity: 0.01 !important;
+    }
+    /* If the above doesn't work, add a .g-img class to any image in question. */
+
+    img.g-img+div {
+        display: none !important;
+    }
+    /* What it does: Prevents underlining the button text in Windows 10 */
+
+    .button-link {
+        text-decoration: none !important;
+    }
+    /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
+    /* Create one of these media queries for each additional viewport size you'd like to fix */
+    /* iPhone 4, 4S, 5, 5S, 5C, and 5SE */
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+        .email-container {
+            min-width: 320px !important;
+        }
+    }
+    /* iPhone 6, 6S, 7, 8, and X */
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+        .email-container {
+            min-width: 375px !important;
+        }
+    }
+    /* iPhone 6+, 7+, and 8+ */
+
+    @media only screen and (min-device-width: 414px) {
+        .email-container {
+            min-width: 414px !important;
+        }
+    }
+    </style>
+    <!-- CSS Reset : END -->
+    <!-- Progressive Enhancements : BEGIN -->
+    <style>
+    /* What it does: Hover styles for buttons */
+
+    .button-td,
+    .button-a {
+        transition: all 100ms ease-in;
+    }
+
+    .button-td:hover,
+    .button-a:hover {
+        background: #555555 !important;
+        border-color: #555555 !important;
+    }
+    /* Media Queries */
+
+    @media screen and (max-width: 480px) {
+
+        /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+        .fluid {
+            width: 100% !important;
+            max-width: 100% !important;
+            height: auto !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+        }
+
+        /* What it does: Forces table cells into full-width rows. */
+        .stack-column,
+        .stack-column-center {
+            display: block !important;
+            width: 100% !important;
+            max-width: 100% !important;
+            direction: ltr !important;
+        }
+        /* And center justify these ones. */
+        .stack-column-center {
+            text-align: center !important;
+        }
+
+        /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+        .center-on-narrow {
+            text-align: center !important;
+            display: block !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+            float: none !important;
+        }
+        table.center-on-narrow {
+            display: inline-block !important;
+        }
+
+        /* What it does: Adjust typography on small screens to improve readability */
+        .email-container p {
+            font-size: 17px !important;
+        }
+    }
+    </style>
+    <!-- Progressive Enhancements : END -->
+    <!-- What it does: Makes background images in 72ppi Outlook render at correct size. -->
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- ImageReady Slices (Karnataka_Passenger_Focus.png) -->
+
+<div style="max-width: 600px; margin: auto;" class="email-container">
+
+<table  border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="email-container">
+<tr>
+<td colspan="5" style="padding:10px; text-align:center; font:13px arial;">Having trouble reading this email? <a
+href="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/index.html">View in your Mobile/Web browser</a></td>
+</tr>
+
+<tr>
+		<td colspan="5" bgcolor="#FABC2D" valign="top"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/Top.jpg"
+alt=""  border="0" class="fluid g-img"></td>
+  </tr>
+  <td colspan="5" valign="top" bgcolor="#FABC2D">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+  <tr>
+    <td width="38%" valign="top" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/WatchL.jpg"
+border="0" class="fluid g-img"></td>
+    <td width="29%" bgcolor="#FABC2D" align="right"><a href="https://twitter.com/i/status/1006093892708544513" target="_blank"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/Watch.jpg" border="0" class="fluid g-img"></a></td>
+    <td width="33%" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/WatchR.jpg" border="0"
+class="fluid g-img"></td>
+  </tr>
+  </table>
+  </td>
+  <tr>
+    <td colspan="5" valign="top" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/mid.jpg"
+width="600" height="68"  border="0" class="fluid g-img"></td>
+  </tr>
+  <td colspan="5" valign="top" bgcolor="#FABC2D">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+  <tr>
+    <td valign="top" width="31%" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/EnglishL.jpg"
+border="0" class="fluid g-img"></td>
+    <td width="18%" bgcolor="#FABC2D"><a href="http://www.indianrailways.gov.in/railwayboard/uploads/directorate/prd/PR/4_Yr_ Rail_Coal_ Booklet_English.pdf"
+target="_blank"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/English.jpg" border="0" class="fluid
+g-img"></a></td>
+    <td width="5%" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/HindiL.jpg" border="0"
+class="fluid g-img"></td>
+    <td width="18%" bgcolor="#FB9708"><a href="http://www.indianrailways.gov.in/railwayboard/uploads/directorate/prd/PR/4_Yr_Rail_Coal_Booklet_Hindi.pdf" target="_blank"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/Hindi.jpg" border="0" class="fluid g-img"></a></td>
+    <td width="27%" bgcolor="#FABC2D"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/HindiR.jpg" border="0"
+class="fluid g-img"></td>
+  </tr>
+  </table>
+  </td>
+  <tr>
+    <td colspan="5" valign="top" bgcolor="#712300"><img src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/BG.jpg"
+width="600" height="12" border="0" class="fluid g-img"></td>
+    </tr>
+
+
+  <tr>
+    <td height="10" colspan="5" bgcolor="712300" style="font-family:Arial; font-size:16px; color:#FFF; text-align:center;"><strong>Join Us:</strong></td>
+  </tr>
+  <tr>
+		<td height="107" colspan="5" bgcolor="004A46">
+		<div style="background:#712300;height:auto; padding:10px;">
+		<div style="background:#712300;border:2px solid #ffffff;border-radius:5px; padding:5px"><span class="stack-column-center" style="font-family: sans-serif; font-size:
+15px; line-height: 140%; color: #555555; padding-top:10px;">
+
+<a href="https://www.youtube.com/piyushgoyalofficial" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/yt.png" alt="youtube"  width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;"></a>
+<a href="https://www.instagram.com/piyushgoyalofficial/" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/insta.png" alt="instagram"  width="28px" height="28px"
+style="vertical-align: middle; width:28px; height:28px;"></a>
+<a href="https://medium.com/@piyushgoyalofficial" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/med.png" alt="medium"  width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;"></a>
+<a href="https://www.facebook.com/PiyushGoyalOfficial/" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/fb.png" alt="facebook" width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;">
+<span style="font-size: 12px; color: #ffffff">/PiyushGoyalOfficial</span></a>
+&nbsp;&nbsp;
+<a href="https://www.quora.com/profile/Piyush-Goyal" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/qu.png" alt="quora"  width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;"></a>
+<a href="https://twitter.com/PiyushGoyal" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/tw.png" alt="twitter" width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;">
+<span style=" font-family:sans-serif; font-size: 12px; color:#ffffff">&#64;PiyushGoyal</span></a>
+&nbsp;&nbsp;
+<a href="http://www.piyushgoyal.in/" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/web.png" alt="web" width="28px" height="28px" style="vertical-align:
+middle; width:28px; height:28px;">
+<span style="font-family:sans-serif; font-size: 12px; color:#ffffff">www.piyushgoyal.in</span></a>
+<br><br>
+<div align="center"><a href="https://www.facebook.com/RailMinIndia/" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/fb.png" alt="Railmin facebook"  width="28px" height="28px"
+style="vertical-align: middle; width:28px; height:28px;"></a>
+<a href="https://twitter.com/RailMinIndia" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/tw.png" alt="Railmin twitter"  width="28px" height="28px"
+style="vertical-align: middle; width:28px; height:28px;"></a>
+<a href="https://www.youtube.com/user/RailMinIndia" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/yt.png" alt="Railmin youtube"  width="28px" height="28px"
+style="vertical-align: middle; width:28px; height:28px;"></a>
+<a href="https://www.instagram.com/railminindia/" target="_blank" style="text-decoration: none"><img
+src="https://www.services.irctc.co.in/images/mailers/FourYearAchievementsofMinistriesofRailways/images/insta.png" alt="Railmin instagram" width="28px" height="28px"
+style="vertical-align: middle; width:28px; height:28px;">
+<span style="font-family:sans-serif; font-size: 12px; color:#ffffff">/RailMinIndia</span></a></div></span></div>
+		</div></td>
+  </tr>
+  <tr>
+    <td colspan="5"><!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="660">
+                        <tr>
+                        <td align="center" valign="top" width="660">
+                        <![endif]-->
+        <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->    </td>
+  </tr>
+                <!-- social footer : END -->
+                <!-- rail social footer -->
+
+                <!-- rail social footer ends -->
+  </table>
+<!-- Email Body : END -->
+
+	 </td>
+
+	 </tr>
+</table>
+
+</div>
+
+</body>
+</html>
+

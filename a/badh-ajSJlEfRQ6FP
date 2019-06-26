@@ -1,0 +1,593 @@
+Return-Path: <techg@bounce.indiatimes.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <dinesh_dua@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ajSJlEfRQ6FP>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ajSJlEfRQ6FP for <dinesh_dua@mslindia.net>;
+	Fri, 15 Jul 2016 09:54:37 +0530 (IST)
+Received: from osmtp5.etretail.com (osmtp5.etretail.com [223.165.29.81])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 02080FC3B80
+	for <dinesh_dua@mslindia.net>; Fri, 15 Jul 2016 09:54:35 +0530 (IST)
+Received: from localhost (192.169.23.10.static.etheric.net [192.169.23.10])
+	by osmtp5.etretail.com (Postfix) with ESMTP id EDA9FA38D3
+	for <dinesh_dua@mslindia.net>; Fri, 15 Jul 2016 09:52:15 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp5.etretail.com EDA9FA38D3
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etauto.com;
+	s=default; t=1468556536;
+	bh=ADd07C+p0WEcZ1DCbOfbpIcFL0E+ExOOx4eHrlNcyq0=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To;
+	b=dQisrVW0d8NAeyQ2bHUexyLDP69pV97djy9394tdd+NrDdabvzWC7YsmNpN39USm+
+	 2LpWjk7tceimuVooPiv+N5BXSpvbP6v6VLLE43HbkcLKQ7CBHJH/E9n/DWPoVtjJKg
+	 RtnSbrN9T6dJO+espbZC63nchR3qJ0KuJJURAS8k=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETAuto Latest News<newsletter@etauto.com>
+To: dinesh_dua@mslindia.net
+Subject: Renault-Nissan to pip M&M as 3rd largest carmaker| Honda Cars recalls over 1.9 lakh cars| Tiago drives Tata Motors to 3rd slot in car segment
+Reply-To: no-reply@etauto.com
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://b2bstatic.iimg.in/Themes/Release/images/Auto-favicon.ico" type="image/x-icon" />
+<title>ETAuto Latest news</title>
+
+<style type="text/css">
+
+
+
+</style>
+</head>
+<body style=" font-family:Arial, Helvetica, sans-serif; background:#eeeeee; padding:0; margin:0;"><!-- HEAD2 -->
+
+<table width="100%" bgcolor="#eeeeee" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+<tr>
+<td align='center' style='padding-bottom:10px;padding-left:10px;padding-right:10px'>
+<!--[if gte mso 9]>
+
+<table align="center" width="615" cellpadding="0" cellspacing="0" style="width:615px; margin:auto;">
+<tr>
+<td>
+
+<![endif]-->
+
+<!--[if lte mso 9]>
+
+<table align="center" width="615px" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+<table class="nletter-wrap" width="100%" style="max-width:615px;" align="center" cellpadding="0" cellspacing="0">
+<tr>
+    <td >
+		<!-- Header -->
+        <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="right" width="100%" class="date" style="color:#696969; font-size:11px; padding-top:8px;">Friday, July 15, 2016 
+                </td>
+              </tr>
+            </table>
+            <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:0px;">
+              <tr>
+                <td width="30%"><img src="http://b2bstatic.iimg.in/Themes/Release/images/responsive/logo-auto-v2.png" width="199" alt="ETAuto.com" title="ETAuto.com" style="font-family:arial; font-size:36px; color:#02465b; border:0; margin-bottom:5px; display:block; vertical-align:top;" class="imglogo" border="0">
+                  <span style="display:block; font-size:14px; line-height:22px; color:#ed1c24;font-family:georgia, serif; text-align:left;">Daily Newsletter</span></td>
+                <td align="right" valign="middle" width="70%" style="vertical-align:top;padding-top:10px;">
+                	<img src="http://b2bstatic.iimg.in/Themes/Release/images/responsive/auto-Supported-by.png" alt="" style="max-width:100%; display:block; vertical-align:top; max-height:62px;" /> 
+                 </td>
+              </tr>
+            </table>         <!--/Header -->
+		<!-- Navigation -->
+		<table width="100%" cellpadding="0" cellspacing="0"><tr>
+    <td align="center" valign="middle" style="padding:5px 0; background:#000000; color:#fff; font-size:11px;"><a 
+			href="http://auto.economictimes.indiatimes.com/news/policy?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Policy
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/industry?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Industry
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/passenger-vehicle?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Passenger Vehicle
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/commercial-vehicle?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Commercial Vehicle
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/two-wheelers?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Two Wheelers
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/aftermarket?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Aftermarket
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/auto-components?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Auto Components
+			</a><span style="font-family:Arial, Helvetica, sans-serif; color:#999999; font-size:11px; padding:0 3px;">|</span><a 
+			href="http://auto.economictimes.indiatimes.com/news/tyres?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" 
+			style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:11px; text-decoration:none;">
+			Tyres
+			</a></td></tr></table>		<!-- /Navigation -->
+		
+		<!-- {$$!!PROMOTOPBLOCK!!$$} -->
+		<!-- {$$!!NEWSLETTERMESSAGEBOX!!$$} -->
+		
+        <!--Content -->
+        <table width="100%"  cellpadding="0" cellspacing="0">
+        	<tr><td style="background:#ffffff; padding:0;" align="left">
+            	            	<table  width="100%"  cellpadding="0" cellspacing="0" >
+									
+				</table>									<!-- {$$!!PROMOTOPBLOCK!!$$} -->
+                                    <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;">
+                                        <tr>
+                                            <td valign="top" style="padding-bottom:0px;">
+                                                <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="">
+                                                    <tr>
+                                                        <td style="padding:20px 5% 10px">
+														<table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Top Stories </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Ftata-motors-revamping-its-after-sales-service-strategy%2F53210493&mailer_id=0&item_id=1048862&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Tata Motors revamping its after sales, service strategy</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Frenault-nissan-all-set-to-pip-mm-as-third-largest-carmaker%2F53219468&mailer_id=5493&item_id=1049658&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Renault-Nissan all set to pip M&M as third largest carmaker</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Ftwo-wheelers%2Fscooters-mopeds%2Fhero-motocorp-reveals-its-plans-to-counter-honda-2wheelers%2F53219110&mailer_id=5493&item_id=1049664&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Hero MotoCorp reveals its plans to counter Honda 2Wheelers</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fhonda-cars-recalls-over-1-9-lakh-cars-in-india%2F53209766&mailer_id=0&item_id=1048796&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Honda Cars recalls over 1.9 lakh cars in India</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fmarkets%2Fnew-tech-in-automobiles-a-boost-for-component-makers-116071400863_1.html&mailer_id=5493&item_id=1049653&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">New tech in automobiles a boost for component makers</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> Business Standard</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.thehindubusinessline.com%2Fcompanies%2Ftiago-drives-tata-motors-to-3rd-slot-in-car-segment%2Farticle8850267.ece%3Futm_source%3DRSS_Feed%26utm_medium%3DRSS%26utm_campaign%3DRSS_Syndication&mailer_id=5493&item_id=1049181&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Tiago drives Tata Motors to 3rd slot in car segment</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> The Hindu Business Line</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.thehindubusinessline.com%2Fspecials%2Fauto-focus%2Fchanging-face-of-franchise-dealers%2Farticle8850170.ece%3Futm_source%3DRSS_Feed%26utm_medium%3DRSS%26utm_campaign%3DRSS_Syndication&mailer_id=5493&item_id=1049199&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Changing face of franchise dealers</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> The Hindu Business Line</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fcompanies%2Ftata-motors-jlr-push-for-hybrids-electric-cars-116071400976_1.html&mailer_id=5493&item_id=1049652&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Tata Motors, JLR push for hybrids, electric cars</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> Business Standard</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fdatsun-receives-over-10k-bookings-for-redi-go-since-its-launch%2F53210156&mailer_id=0&item_id=1048860&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Datsun receives over 10k bookings for redi-GO since its launch</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fslide-shows%2F10-most-recalled-vehicles-in-india%2F49829051&mailer_id=5493&item_id=1049656&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">UPDATED: Most recalled vehicles in India</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.livemint.com%2FCompanies%2FjpGLS0X8BMpbfUZNbWLQkL%2FPawan-Munjal-sees-an-Uber-in-twowheelers.html&mailer_id=5493&item_id=1049608&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Pawan Munjal sees an Uber in two-wheelers</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> HT Mint</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fauto-components%2Fharyana-govt-to-grant-100-stamp-duty-refund-to-autoparts-firms%2F53207343&mailer_id=0&item_id=1048650&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Haryana govt to grant 100% stamp duty refund to autoparts firms</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Findian-auto-industry-prefers-experienced-leaders-study%2F53206907&mailer_id=0&item_id=1048566&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Indian auto industry prefers experienced leaders: Study</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fwhat-happens-if-you-die-waiting-for-tesla-model-3%2F53219767&mailer_id=5493&item_id=1049672&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">What happens if you die waiting for Tesla Model 3?</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fauto-components%2Fbanks-to-take-control-of-two-units-of-amtek-auto-for-defaulting-on-bond-repayment%2F53219244&mailer_id=5493&item_id=1049662&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Banks to take control of two units of Amtek Auto for defaulting on bond repayment</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.thehindubusinessline.com%2Fspecials%2Fauto-focus%2Fdsk-motowheels-on-the-fast-lane-with-benelli%2Farticle8850169.ece%3Futm_source%3DRSS_Feed%26utm_medium%3DRSS%26utm_campaign%3DRSS_Syndication&mailer_id=5493&item_id=1049430&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">DSK Motowheels on the fast lane with Benelli</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> The Hindu Business Line</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.thehindubusinessline.com%2Fcompanies%2Fhero-motocorp-to-review-products-with-partner-ebr%2Farticle8850234.ece%3Futm_source%3DRSS_Feed%26utm_medium%3DRSS%26utm_campaign%3DRSS_Syndication&mailer_id=5493&item_id=1049179&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Hero MotoCorp to review products with partner EBR</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> The Hindu Business Line</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.forbes.com%2Fsites%2Famymorin%2F2016%2F07%2F14%2F4-psychological-tricks-that-will-improve-your-performance-today%2F%233679b3187d0b&mailer_id=5493&item_id=1049654&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">4 Psychological Tricks That Will Improve Your Performance Today</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> Forbes</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.forbes.com%2Fpictures%2Ffmle45fegi%2Fhow-to-be-more-confident%2F%23281a53b27e4f&mailer_id=5493&item_id=1049655&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">How To Be More Confident At Work</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> Forbes</span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Policy </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpolicy%2Fgst-will-pass-in-coming-monsoon-sesion-of-parliament-nitin-gadkari%2F53208109&mailer_id=0&item_id=1048700&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">GST will pass in coming Monsoon sesion of Parliament: Nitin Gadkari</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpolicy%2Fdelhi-govt-asks-rto-to-issue-psv-badges-immediately%2F53207101&mailer_id=0&item_id=1048641&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Delhi govt asks RTO to issue PSV badges immediately</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpolicy%2Fopinion-nda-must-bring-opposition-on-board-for-gst%2F53219163&mailer_id=5493&item_id=1049663&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">OPINION: NDA must bring opposition on board for GST</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Industry </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fdutch-vehicle-authority-seeks-answers-on-fatal-tesla-crash%2F53215670&mailer_id=0&item_id=1049225&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Dutch vehicle authority seeks answers on fatal Tesla crash</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fnhai-may-award-97-projects-worth-rs-1-lakh-cr-this-fiscal%2F53212400&mailer_id=0&item_id=1049056&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">NHAI may award 97 projects worth Rs 1 lakh-cr this fiscal</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Findias-monsoon-rains-11-above-average-in-past-week-met%2F53212357&mailer_id=0&item_id=1049053&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">India's monsoon rains 11% above average in past week: Met</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fself-driven-cars-a-reality-or-classic-silicon-valley-hype%2F53208703&mailer_id=0&item_id=1048788&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Self-driven cars: A reality or classic Silicon Valley hype?</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fwpi-inflation-hardens-for-3rd-straight-month-in-june%2F53208016&mailer_id=0&item_id=1048697&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">WPI inflation hardens for 3rd straight month in June</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fgms-bankruptcy-cannot-shield-it-from-deadly-ignition-switch-defect-us-court%2F53207418&mailer_id=0&item_id=1048655&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">GM's bankruptcy cannot shield it from deadly ignition switch defect: US Court</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Fgm-gets-deal-with-supplier-ccm-says-plant-shutdown-threat-averted%2F53207174&mailer_id=0&item_id=1048643&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">GM gets deal with supplier CCM, says plant shutdown threat averted</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Findustry%2Faudi-increases-sales-by-5-6-in-first-half-of-2016%2F53206372&mailer_id=0&item_id=1048555&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Audi increases sales by 5.6% in first half of 2016</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Faftermarket%2Fwe-dont-want-an-ola-uber-duopoly-ramalinga-reddy-transport-minister-karnataka%2F53219530&mailer_id=5493&item_id=1049660&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">We dont want an Ola-Uber duopoly: Ramalinga Reddy, Transport Minister, Karnataka</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fcommercial-vehicle%2Fmhcv%2Feu-to-introduce-limits-on-truck-co2-emissions%2F53219345&mailer_id=5493&item_id=1049661&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">EU to introduce limits on truck CO2 emissions | ET Auto</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpolicy%2Frbi-likely-to-cut-repo-rate-by-25-bps-in-august-bofa-ml%2F53219080&mailer_id=5493&item_id=1049665&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">RBI likely to cut repo rate by 25 bps in August: BofA-ML</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Passenger Vehicle </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fbmw-india-opens-its-second-dealership-in-kerala%2F53211815&mailer_id=0&item_id=1048983&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">BMW India opens its second dealership in Kerala</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fporsche-launches-cayenne-platinum-edition-at-rs-1-06-crore-ex-mumbai%2F53210017&mailer_id=0&item_id=1048798&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Porsche launches Cayenne Platinum Edition at Rs 1.06 crore ex-Mumbai</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fpassenger-vehicle%2Fcars%2Fhyundai-motors-s-korean-union-approves-strike-action%2F53204602&mailer_id=0&item_id=1048285&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Hyundai Motor's S.Korean union approves strike action</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Commercial Vehicle </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.thehindubusinessline.com%2Fcompanies%2Fashok-leylands-african-safari-to-begin-in-kenya%2Farticle8850268.ece%3Futm_source%3DRSS_Feed%26utm_medium%3DRSS%26utm_campaign%3DRSS_Syndication&mailer_id=5493&item_id=1049180&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Ashok Leylands African safari to begin in Kenya</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> The Hindu Business Line</span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fcommercial-vehicle%2Fmhcv%2Fmercedes-benz-trucks-uses-3d-printing-for-producing-spare-parts%2F53206626&mailer_id=0&item_id=1048560&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Mercedes Benz Trucks uses 3D printing for producing spare parts</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Two Wheelers </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Ftwo-wheelers%2Fmotorcycles%2Fstage-set-for-2-wheeler-mrf-rally-of-coimbatore-2016-leg%2F53215509&mailer_id=0&item_id=1049226&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Stage set for 2-wheeler MRF Rally of Coimbatore 2016 leg</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Ftwo-wheelers%2Fmotorcycles%2Fum-motorcycles-opens-first-dealership-in-delhi-ncr%2F53210496&mailer_id=0&item_id=1048861&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">UM Motorcycles opens first Dealership in Delhi NCR</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Ftwo-wheelers%2Fmotorcycles%2Fhero-motocorp-launches-splendor-ismart-110-priced-at-rs-53300-ex-delhi%2F53208552&mailer_id=0&item_id=1048707&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Hero MotoCorp launches Splendor iSmart 110; priced at Rs 53,300 (ex Delhi)</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Aftermarket </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Faftermarket%2Fdelhi-auto-taxi-drivers-meet-rajnath-singh-over-banning-of-app-based-cabs%2F53215324&mailer_id=0&item_id=1049224&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Delhi auto, taxi drivers meet Rajnath Singh over banning of app based cabs</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Auto Components </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fauto-components%2Fcalifornia-rejects-volkswagen-recall-for-3-liter-diesel-engines%2F53208318&mailer_id=0&item_id=1048703&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">California rejects Volkswagen recall for 3-liter diesel engines</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Auto Technology </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fauto-technology%2Fjlr-demonstrates-all-terrain-self-driving-technology%2F53206205&mailer_id=0&item_id=1048529&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">JLR demonstrates all terrain self driving technology</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Auto Finance </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fauto-finance%2Fvolkswagen-managers-may-face-calls-to-return-their-bonuses%2F53208391&mailer_id=0&item_id=1048704&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Volkswagen managers may face calls to return their bonuses</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																																		<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Faftermarket%2Fmuthoot-capital-services-to-enter-car-loan-market%2F53219802&mailer_id=5493&item_id=1049673&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">Muthoot Capital Services to enter car loan market</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols"><tr>
+                                                                    <td style="padding:0px 0px 5px 0px;" colspan="2">
+                                                                        <span style="color:#777777; font-size:18px; line-height:22px;font-family:Arial, Helvetica, sans-serif;" > Automotive </span>
+                                                                    </td>
+                                                                 </tr>																	<tr>
+																		<td valign="top" style="font-size:14px; color:#666; padding-bottom:8px; line-height:17px; " align="left" width="10" height="10">&bull;</td>
+																		<td valign="top" align="left" style="padding-bottom:8px; line-height:17px;" class="cont1">
+																			<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; color:#000000;" href="http://auto.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fauto.economictimes.indiatimes.com%2Fnews%2Fautomotive%2Fconstruction-equipment%2Fjcb-india-showcases-its-made-in-india-range-of-material-handling-product%2F53211616&mailer_id=0&item_id=1048977&dt=2016-07-15&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15&email=dinesh_dua@mslindia.net&activity_name=etautodailynews_2016-07-15" target="_blank">JCB India showcases its Made-in-India range of material handling product</a><span style="color:#999999; font-family:Arial,sans-serif; font-size:11px;"> </span>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style="padding-top:0px;" colspan="2"></td>
+																	</tr>
+																</table>                                                            
+                                <table width="100%" style="clear:both;" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+            </td></tr>
+        </table>
+        <!--Content -->
+		<!-- {$$!!OTHERPARTYBLOCK!!$$} -->
+		<!-- {$$!!PROMOBOTTOMBLOCK!!$$} -->
+							
+		
+        <!-- Footer -->
+		<table width="100%"  cellpadding="0" cellspacing="0" >
+        	<tr>
+            	<td align="left" style="background:#000000; padding:30px 6%; font-family:Arial, sans-serif; color:#888888;  font-size:11px; line-height:18px;">
+					
+					
+						<table  cellpadding="0" cellspacing="0" style="height:30px;padding-bottom:10px;">
+								<tr>
+									<td align="left" valign="middle" style="vertical-align:middle" width="70"> 
+												<span style="font-family:Arial, sans-serif; font-weight:bold; display:block; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">
+												Follow Us :
+												</span>
+											</td>
+									<td valign="middle" style="vertical-align:middle" width="99"><table width="100%"  cellpadding="0" cellspacing="0"><tr><td align="left"><a href="http://twitter.com/ETAuto"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/twitter.png" alt="" />
+									</a></td><td align="left"><a href="http://facebook.com/EconomicTimesAuto"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/fb.png" alt="" />
+									</a></td><td align="left"><a href="http://linkedin.com/groups/ETAuto-6589520"  target="_blank">
+									<img src="http://b2bstatic.iimg.in/Themes/Release/images/linkedin.png" alt="" />
+									</a></td></tr></table></td></tr></table>                	<table  cellpadding="0" cellspacing="0" ><tr><td align="left" valign="middle" style="padding-bottom:10px;">
+						<div style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px; font-style:italic;">
+						Copyright &#169; 2015 ETAuto, All rights reserved.
+						</div>
+						<div style="font-family:Arial, sans-serif; color:#888888; display:block;  font-size:11px; line-height:18px; ">
+					You are receiving this email because you signed up at <a href="http://etauto.com?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px;  text-decoration:underline; ">http://etauto.com</a>
+					</div>
+					</td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:10px;">
+					<div style="font-family:Arial, sans-serif; color:#888888;  font-size:11px; display:block;"><span style="font-family:Arial, sans-serif; font-weight:bold; padding-bottom:10px;  color:#888888;  font-size:11px; font-weight:bold;"> Our mailing address is:</span><br />
+					ETAuto.com (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301 Uttar Pradesh, 
+					India
+					</div>
+					</td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:10px;">
+					<div style=" line-height:14px; display:block; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">					
+					Add <a href="#" style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px;  text-decoration:underline; ">newsletter@etauto.com</a> to your address book &nbsp; | &nbsp; 
+					Our archives are at  <a href="http://auto.economictimes.indiatimes.com/etnewsletter.php?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" target="_blank" style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px;  text-decoration:underline; ">ETAuto</a>
+					<!--a href="#" style=" font-family:Arial, sans-serif; color:#000000;  font-size:11px;  text-decoration:underline; ">Update subscription preferences </a-->  
+					</div></td></tr>
+					<tr><td align="left" valign="middle" style="padding-bottom:15px;">
+					<div style="line-height:14px; font-family:Arial, sans-serif; color:#888888;  font-size:11px;">
+				    <a href="http://auto.economictimes.indiatimes.com/unsubscribe.php?zx=JmVtYWlsPWRpbmVzaF9kdWFAbXNsaW5kaWEubmV0JmFjdGl2aXR5X25hbWU9ZXRhdXRvZGFpbHluZXdz&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15" style=" font-family:Arial, sans-serif; color:#888888;  font-size:11px;  text-decoration:underline; ">Unsubscribe from this list </a>  
+					</div>
+					<div style="display:none;width:0;height:0;"><img src="http://auto.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=STBoZ2MxWEtvc1hNTFpGMlVBcnJTZ1NVRjRKV2tic1hKd045K0xXV2c1OD0=&activity_name=etautodailynews_2016-07-15&euid=U0lwckN6V0NzVVdxa0Rrb2FoU2lwdz09&current_date=2016-07-15" style="display:none;width:0;height:0;" height="0" width="0" /></div>
+					</td></tr></table>
+					<a href="http://auto.economictimes.indiatimes.com?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etauto_news_2016-07-15"  target="_blank" >
+								<img style="display:block; border:0; height:30px;padding-bottom:0px;" height="30" src="http://b2bstatic.iimg.in/Themes/Release/images/responsive/auto-logo-footer.png" alt="" /> 
+							</a>				</td>
+            </tr>
+			<!-- {$$!!PROMORIGHTBLOCK!!$$} -->
+        </table>
+        
+        <!-- /Footer -->
+		<table width="100%" style="background:#eeeeee" cellpadding="0" cellspacing="0" ><tr><td style="padding-top:10px;background:#eeeeee"></td></tr></table>	</td>
+</tr>
+</table>
+
+<!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+<!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+</td>
+</tr>
+</table>
+</body>
+</html><!-- /HEAD2 -->
+

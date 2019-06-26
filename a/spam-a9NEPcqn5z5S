@@ -1,0 +1,121 @@
+Return-Path: <admin@hrsolution.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sunil_jolly@mslindia.net>
+X-Envelope-To-Blocked: <sunil_jolly@mslindia.net>
+X-Quarantine-ID: <a9NEPcqn5z5S>
+X-Spam-Flag: YES
+X-Spam-Score: 11.016
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.016 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_12_24=0.804, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_24=1.282, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a9NEPcqn5z5S for <sunil_jolly@mslindia.net>;
+	Mon, 28 Jan 2019 23:46:48 +0530 (IST)
+Received: from cloud20221.hrmsinfo.in (unknown [69.10.58.84])
+	by mx10.jcbl.com (Postfix) with ESMTPS id E71A9F45B4F
+	for <sunil_jolly@mslindia.net>; Mon, 28 Jan 2019 23:46:44 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=hrsolution.in; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=y0WC4xJvY9I2BXNitNbEE0p9dP1Q8a0Y4yYXuostOcM=; b=X/xQC2vVnt8IK8k3hXlp1objE9
+	nC3u5Rqc5tPN9hozSqtOrOO8OyYCBfh0f1OT4U+MP7bVVnFb2AaRu75XlqVLI3E17lxGSngHJM8iX
+	B0R0mMfbE/WHy01q4UJdJ/fa4OYabAinJuV7F5WqUvQ3q/T99NBoTSn4DfsUlV2Nb5Vsy5k+3LAGy
+	GKMBI7ULi5MlEWRrUWpF/B4eBOUwHOmPGJOvZ9L86hm4jeLV+YgQ58LjISPbQJCO9L1QuFK3HUYBo
+	Qq/Ju4MlImxsxaG7uBfpTWwh5SW/tdSJjzsWDOEsxMUJMjU388WzzWBE0LKb2fN+57G83d/oIBTaL
+	2BjA6qZA==;
+Received: from hrsolution by cloud20221.hrmsinfo.in with local (Exim 4.91)
+	(envelope-from <admin@hrsolution.in>)
+	id 1goBVN-0000g3-G8
+	for sunil_jolly@mslindia.net; Mon, 28 Jan 2019 13:19:33 -0500
+To: sunil_jolly@mslindia.net
+Subject: Right Targeted Business Database for Your Marketing
+X-PHP-Originating-Script: 1001:email.php
+Message-ID: <09da7994d4c2b37a86a5e84de815ad38@hrsolution.in>
+Date: Mon, 28 Jan 2019 05:35:48 +0000
+From: "Business Data" <admin@hrsolution.in>
+Reply-To: recentdata@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 37,38,40,42,43,44,45,46,47,48
+List-Unsubscribe: <http://hrsolution.in/unsubscribe.php?M=1940165&C=2b1ef9562fa0721d438aaa6d2871428d&L=44&N=40>
+X-Mailer-RecptId: 1940165
+X-Mailer-SID: 40
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_5549ccc1abf0bdfef592500fbe3b69c9"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cloud20221.hrmsinfo.in
+X-AntiAbuse: Original Domain - mslindia.net
+X-AntiAbuse: Originator/Caller UID/GID - [1001 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - hrsolution.in
+X-Get-Message-Sender-Via: cloud20221.hrmsinfo.in: authenticated_id: hrsolution/from_h
+X-Authenticated-Sender: cloud20221.hrmsinfo.in: admin@hrsolution.in
+X-Source: 
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php -f /home/hrsolution/public_html/admin/cron/cron.php 
+X-Source-Dir: /home/hrsolution
+
+--b1_5549ccc1abf0bdfef592500fbe3b69c9
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://hrsolution.in/display.php?M=1940165&C=2b1ef9562fa0721d438aaa6d2871428d&S=40&L=44&N=41
+
+
+To stop receiving these
+emails:http://hrsolution.in/unsubscribe.php?M=1940165&C=2b1ef9562fa0721d438aaa6d2871428d&L=44&N=40
+
+--b1_5549ccc1abf0bdfef592500fbe3b69c9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<pre><span style="font-family: verdana, geneva; font-size:
+small;">Hi,</span><br /><br /><span style="font-family: verdana, geneva;
+font-size: small;">Do You Have A Marketing Dept ? or Does Your Marketing
+Dept Already Costing You a BOMB !!! Then Too No Response ?</span><br /><br
+/><span style="font-family: verdana, geneva; font-size: small;">Use Right
+Targeted Business Database for Your Marketing</span><br /><br /><span
+style="font-family: verdana, geneva; font-size: small;">Do Less Get More =
+Before delivery email id will be verified</span><br /><br /><span
+style="font-family: verdana, geneva; font-size: small;">105000 Managing
+Directors Rs.9,500/-</span><br /><span style="font-family: verdana, geneva;
+font-size: small;">72000 Chief Executive Officers Rs.7,500/-</span><br
+/><span style="font-family: verdana, geneva; font-size: small;">40500 Chief
+Information Officers Rs.7,500/-</span><br /><span style="font-family:
+verdana, geneva; font-size: small;">32000 Chief Operating Officers
+Rs.5,500/-</span><br /><span style="font-family: verdana, geneva;
+font-size: small;">8000 Chief Finance Officers Rs.5,500/-</span><br /><span
+style="font-family: verdana, geneva; font-size: small;">128000 Admin Head
+Rs.9,500/-</span><br /><span style="font-family: verdana, geneva;
+font-size: small;">16000 HR Heads Rs.5,500/-</span><br /><span
+style="font-family: verdana, geneva; font-size: small;">10900 Sales &amp;
+Marketing Heads Rs.5,500/-</span><br /><span style="font-family: verdana,
+geneva; font-size: small;">70000 Ltd and Pvt Ltd Companies
+Rs.9,500/-</span><br /><span style="font-family: verdana, geneva;
+font-size: small;">80000 SMEs Companies Rs.9,500/-</span><br /><span
+style="font-family: verdana, geneva; font-size: small;">90000 High Profile
+&amp; Net Income Rs.9,500/-</span><br /><br /><span style="font-family:
+verdana, geneva; font-size: small;">Other business database also
+available</span><br /><br /><span style="font-family: verdana, geneva;
+font-size: small;">Contact for more information</span><br /><span
+style="font-family: verdana, geneva; font-size: small;">+91
+9820197205</span><br /><span style="font-family: verdana, geneva;
+font-size: small;">recentdata@gmail.com</span></pre>
+<img src="http://hrsolution.in/open.php?M=1940165&L=44&N=40&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_5549ccc1abf0bdfef592500fbe3b69c9--
+

@@ -1,0 +1,176 @@
+Return-Path: <bounce.6192.17341990.17455193@pr3.eagalprp.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ranjeet.singh@mslindia.net>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aeuZucporTjL>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 5.911
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.911 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DOS_RCVD_IP_TWICE_B=0.001,
+	FORGED_RELAY_MUA_TO_MX=0.001, HTML_MESSAGE=0.001, MISSING_DATE=1.396,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aeuZucporTjL for <ranjeet.singh@mslindia.net>;
+	Tue,  5 Feb 2019 17:20:33 +0530 (IST)
+Received: from pr3.eagalprp.com (pr3.eagalprp.com [66.7.149.130])
+	by mx10.jcbl.com (Postfix) with ESMTPS id ACE8DF4BEE3
+	for <ranjeet.singh@mslindia.net>; Tue,  5 Feb 2019 17:20:17 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1549367598;
+	s=pgmins2018; d=pr3.eagalprp.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=7933; bh=Ij+3mfbOVWLnLpazDsPNtfRzKUhHBcJbUCoAeJl4rFg=;
+	b=hGE0HRbqULVRUXpupXS2/gdYhnXOOZha+eczLkzrbDQzrmuJUsOO+EHcYJURb3Jt
+	OnARy16CLMUjI7nNlGTzTCEFLcvgqQmK3JyjeWkmi924VD4cGrAsYvMXCQQ5CNqGGfc
+	8AfqPqn0Tdil9mwYxmtdRVnwH8ls5z5MkxpA5woTdzrhwD+v1rR/Flp1lTfvu8XKD48
+	HRONYZFmoObiKa+0SGFbf+k9TDzu9MIIFyqxE2ex2RV8hYFVz1O2BlkNPeLlhZFuTt7
+	8+pYodPRCVJpLW8glIp3knUlxkfwP5IUG/iE1aaEXDSh4oz0nQ5ix+DhR2+d2TE1N3q
+	A8JnBypBMg==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1549367598;
+	s=pgmins2018; d=eagalprp.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=7933; bh=Ij+3mfbOVWLnLpazDsPNtfRzKUhHBcJbUCoAeJl4rFg=;
+	b=sHAkAOEl88Xsgvr/SH6Sr2Y3IHEhCsWbfvIslPPY/bLDROcp66tsYLdjyTcZtZUH
+	9OlZYorxRLPCz9hYuFfaCfEOTlglrzfLz+lU72CEhVro0rnqY94xp9AyfMpLF8js/EP
+	OMf/ZCF9WYjjWDXrYJ/MsCJzFY8f1ZhW7eNW0JCAJWQ7hYwXujIQwAhhj9RAcxJw+4B
+	5esTWxwhJ2XG0gXVtCkaRqlU/hkBKlKoi1BEDF/VCuIzaKlT7IyqmQcQ+mzbYPQBINx
+	fKGutZTvUXs0GCoYPc0MoY4cHbzwaARvi7XLyixOWFRc7moUvu1PUmlQeflav8hu5OO
+	Pdo75MHVww==
+From: Newsletter <info@news.foxprp.com>
+Reply-To: info@news.foxprp.com
+To: ranjeet.singh@mslindia.net
+Message-ID: <17278389.190205052318218@pr3.eagalprp.com>
+Subject: Painless taxation: How to reduce your income tax
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1056845_273613423.1549367598388"
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://cp.pigeonurl.com/email/email/unsubscribe/17278389>
+Feedback-ID: 6192:2742:inspfx
+Precedence: bulk
+X-Originating-IP: 66.7.149.130
+
+------=_Part_1056845_273613423.1549367598388
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Painless taxation: How to reduce your income tax outgo with Budget 2019 pro=
+visions Aid has also been imparted to individual taxpayers maintaining thei=
+r residence at a location away from their home town on account of job or ch=
+ildren s education. (Illustration: Shyam Kumar Prasad) A major change has b=
+een brought in by the Interim Budget by granting full tax rebate to individ=
+ual taxpayers having taxable annual income up to `5 lakh. Accordingly, taxp=
+ayers will not have to pay any tax if their total taxable income does not e=
+xceed Rs5 lakh. Factoring in tax deductions for specified investments under=
+ Section 80C(Rs1,50,000), NPS contribution (Rs50,000), medical insurance (R=
+s25,000), housing loan (Rs2,00,000), taxpayers earning gross income up to R=
+s9,25,000 will not have to pay any tax. For salaried individuals, the thres=
+hold of the standard deduction from salary, as introduced by Budget 2018, h=
+as been raised from Rs40,000 to Rs50,000, thereby increasing the benefits t=
+o the salaried individuals. Aid has also been imparted to individual taxpay=
+ers maintaining their residence at a location away from their home town on =
+account of job or children s education. Such individuals need not worry abo=
+ut owning houses at two different locations. Prior to this year s Budget, t=
+axpayers were required to pay income tax on notional rent in respect of mor=
+e than one self-occupied property, whichever he selects. Considering the ge=
+nuine hardships faced by such individuals, the government has eased the exe=
+mption provisions further and extended such exemption from levy of income t=
+ax on notional rent on two house properties self-occupied by them. Further,=
+ a step has been taken to simplify the TDS compliances by revising the with=
+holding tax thresholds. Limits placed on withholding taxes on interest inco=
+me earned on bank/post office deposits has been raised from Rs10,000 to Rs4=
+0,000. This is meant to ease the compliance burden of those who prefer to s=
+ave rather than invest. Further, the TDS threshold on rent paid for using a=
+ny property or machinery has been increased from Rs1,80,000 to Rs2,40,000 t=
+o provide relief to the small taxpayers. Real estate gets a boost The real =
+estate sector gets a sweet deal in the Interim Budget. The government focus=
+ed on homebuyers and developers with unsold inventory, and addressed some o=
+f the key pain points of the sector. The benefit of rollover of capital gai=
+ns under Section 54 has been increased from investment in one residential h=
+ouse to two residential houses for the taxpayer earning total capital gains=
+ of up to Rs2 crore. This benefit can be availed once in a lifetime. The be=
+nefits under Section 80-IBA is being extended for one more year to the hous=
+ing projects approved till March 31, 2020. The period of exemption from lev=
+y of tax on notional rent, on unsold inventories, has been extended from on=
+e year to two years, from the end of the year in which the project is compl=
+eted. The income tax refund process is going to get even smoother. The gove=
+rnment announced that income tax returns will be verified in 24 hours and t=
+hose who aren t under scrutiny will get refunds within the day. Verificatio=
+n and scrutiny will be done electronically without any interface between ta=
+x authorities and taxpayers. This year s Budget has brought several new pro=
+mises and additions with it. There are a lot of exemptions introduced this =
+year and a lot of planning towards the welfare of the people.
+
+
+------=_Part_1056845_273613423.1549367598388
+Content-Type: text/html; charset=UTF-8 
+Content-Transfer-Encoding: quoted-printable
+
+<h3><strong>Painless taxation: How to reduce your income tax outgo with Bud=
+get 2019 provisions</strong></h3>
+
+<p>Aid has also been imparted to individual taxpayers maintaining their res=
+idence at a location away from their home town on account of job or childre=
+n s education. (Illustration: Shyam Kumar Prasad)</p>
+
+<p>A major change has been brought in by the Interim Budget by granting ful=
+l tax rebate to individual taxpayers having taxable annual income up to `5 =
+lakh. Accordingly, taxpayers will not have to pay any tax if their total ta=
+xable income does not exceed Rs5 lakh. Factoring in tax deductions for spec=
+ified investments under Section 80C(Rs1,50,000), NPS contribution (Rs50,000=
+), medical insurance (Rs25,000), housing loan (Rs2,00,000), taxpayers earni=
+ng gross income up to Rs9,25,000 will not have to pay any tax. For salaried=
+ individuals, the threshold of the standard deduction from salary, as intro=
+duced by Budget 2018, has been raised from Rs40,000 to Rs50,000, thereby in=
+creasing the benefits to the salaried individuals.</p>
+
+<p>Aid has also been imparted to individual taxpayers maintaining their res=
+idence at a location away from their home town on account of job or childre=
+n s education. Such individuals need not worry about owning houses at two d=
+ifferent locations. Prior to this year s Budget, taxpayers were required to=
+ pay income tax on notional rent in respect of more than one self-occupied =
+property, whichever he selects. Considering the genuine hardships faced by =
+such individuals, the government has eased the exemption provisions further=
+ and extended such exemption from levy of income tax on notional rent on tw=
+o house properties self-occupied by them.</p>
+
+<p>Further, a step has been taken to simplify the TDS compliances by revisi=
+ng the withholding tax thresholds. Limits placed on withholding taxes on in=
+terest income earned on bank/post office deposits has been raised from Rs10=
+,000 to Rs40,000. This is meant to ease the compliance burden of those who =
+prefer to save rather than invest. Further, the TDS threshold on rent paid =
+for using any property or machinery has been increased from Rs1,80,000 to R=
+s2,40,000 to provide relief to the small taxpayers.</p>
+
+<p>Real estate gets a boost<br>The real estate sector gets a sweet deal in =
+the Interim Budget. The government focused on homebuyers and developers wit=
+h unsold inventory, and addressed some of the key pain points of the sector=
+. The benefit of rollover of capital gains under Section 54 has been increa=
+sed from investment in one residential house to two residential houses for =
+the taxpayer earning total capital gains of up to Rs2 crore. This benefit c=
+an be availed once in a lifetime. The benefits under Section 80-IBA is bein=
+g extended for one more year to the housing projects approved till March 31=
+, 2020. The period of exemption from levy of tax on notional rent, on unsol=
+d inventories, has been extended from one year to two years, from the end o=
+f the year in which the project is completed.</p>
+
+<p>The income tax refund process is going to get even smoother. The governm=
+ent announced that income tax returns will be verified in 24 hours and thos=
+e who aren t under scrutiny will get refunds within the day. Verification a=
+nd scrutiny will be done electronically without any interface between tax a=
+uthorities and taxpayers.</p>
+
+<p>This year s Budget has brought several new promises and additions with i=
+t. There are a lot of exemptions introduced this year and a lot of planning=
+ towards the welfare of the people.</p>
+<div style=3D'width:100%;float:left;text-align: center;'><p style=3D'font-s=
+ize: 11px;' >To stop receiving these emails please <a href=3D'http://cp.pig=
+eonurl.com/email/email/unsubscribe/17278389' >Unsubscribe</a> here.</p></di=
+v><img alt=3D'insign' src=3D'http://cp.pigeonurl.com/email/email/openEmail/=
+6192/17278389' width=3D'1' height=3D'1' style=3D'display:none'/>
+------=_Part_1056845_273613423.1549367598388--
+

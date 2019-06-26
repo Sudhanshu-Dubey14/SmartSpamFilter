@@ -1,0 +1,73 @@
+Return-Path: <linda.fugett-mktho=mslindia.net@psheity.icu>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mktho@mslindia.net>
+X-Envelope-To-Blocked: <mktho@mslindia.net>
+X-Quarantine-ID: <aRjLa8CNptDO>
+X-Spam-Flag: YES
+X-Spam-Score: 6.391
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.391 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, RCVD_IN_SBL=2.596, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, UPPERCASE_50_75=0.791] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aRjLa8CNptDO for <mktho@mslindia.net>;
+	Fri, 29 Mar 2019 23:50:42 +0530 (IST)
+Received: from mail.psheity.icu (unknown [63.80.191.226])
+	by mx10.jcbl.com (Postfix) with ESMTP id 2C2EEF29771
+	for <mktho@mslindia.net>; Fri, 29 Mar 2019 23:50:38 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=psheity.icu;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=linda.fugett@psheity.icu;
+ bh=KeOhwCeXH5rl/Jak3vgWQucEr4w=;
+ b=MXiHtsF5dyyee7ZB2LNWcvV9IY1n3LnP19T5XPY+Py+zDgFNk2nt+Vl/VX2ewaqkiVlsJZCiEnjv
+   9+zPsJdIe3IMkTI65vxf8NdEuP1NHOnEs0X05sUQJ+sv3svNY5+JW5TPBFFeZS2AORn/ICz8MEhb
+   qx+osuTQv+EOK46B8n0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=psheity.icu;
+ b=vsESEOqd7GHQuhiXYflP/kOLG95hTYaLbdY7wHq65mgnXsEVRu2WshWHc9RhyAQlJjmYubewfsq5
+   OW1ATyJio6LEeu/RkKIdGSyMCYzp/rgV2hxhqyBPKJ4epuZZ/8RpDMGF3rglZfEkB3IdMwR7vf5C
+   +yhX1M3uPf7+MrTg5Jk=;
+Received: by mail.psheity.icu id hjph8i0001g1 for <mktho@mslindia.net>; Fri, 29 Mar 2019 14:12:47 -0400 (envelope-from <linda.fugett-mktho=mslindia.net@psheity.icu>)
+Date: Fri, 29 Mar 2019 14:12:47 -0400
+From: Linda Fugett <linda.fugett@psheity.icu>
+To:   <mktho@mslindia.net>
+Subject: NOTICE renew your warranty before it expires
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_724_1796157396.1553883165010"
+List-Unsubscribe: <http://www.psheity.icu/7eb5w239F5ejY8910fh11mxd4cK19VigxasfiwhbrHbDErIx7uQp9QoS6s1g0qn5UBXHi/Jacobus-barge>
+Message-ID: <0.0.0.50.1D4E65B03816F76.4C005@mail.psheity.icu>
+
+------=_Part_724_1796157396.1553883165010
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>{randomword]</title> 
+ </head> 
+ <body> 
+  <center> 
+   <h2 style="text-align: left; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; "><span style="color:#000000; ">URGENT AND TIME SENSITIVE</span></span></span></h2> 
+  </center> 
+  <hr color="RED" /> 
+  <p><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">Client # </span></span>mktho@mslindia.net<br /> <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">Member: </span></span><br /> <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">Date: 03/38/19</span></span></p> 
+  <p><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">THIS IS OUR FINAL ATTEMPT TO CONTACT YOU. THE WARRANTY ON YOUR CAR THAT YOU HAVE <a href="http://www.psheity.icu/5396R23WA95cp86N10J39d1Bd4cx19SigxasfiwhbrHbDErIx7nQp9QoS6fXnZ105ITkHi/Bleeker-westwards"><u>PURCHASED</u></a> HAS <a href="http://www.psheity.icu/5396R23WA95cp86N10J39d1Bd4cx19SigxasfiwhbrHbDErIx7nQp9QoS6fXnZ105ITkHi/Bleeker-westwards"><u>EXPIRED</u></a> OR WILL ABOUT TO EXPIRE. PLEASE CONTACT US NOW BEFORE THE DEADLINE DATE MATURES. </span></span></p> 
+  <p><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">PLEASE <a href="http://www.psheity.icu/5396R23WA95cp86N10J39d1Bd4cx19SigxasfiwhbrHbDErIx7nQp9QoS6fXnZ105ITkHi/Bleeker-westwards">CHECK HERE</a> AND GO TO REVIEW YOUR COVERAGE AS SOON AS POSSIBLE TO SEE WHAT YOUR OPTIONS ARE TO EXTEND YOUR AUTO COVERAGE. </span></span></p> 
+  <p><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:16px; ">IF YOU LET YOUR COVERAGE LAPSE, YOU WILL BE 100% RESPONSIBLE FOR REPAIRS IN THE EVENT OF A BREAK DOWN. IF YOU DO NOT CONTACT US BY THE DEADLINE DATE YOU RISK NOT BEING ABLE TO EXTEND YOUR CAR COVERAGE. </span></span></p> 
+  <p>&nbsp; </p> 
+  <hr color="RED" /> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p style="text-align: center; "><span style="color: rgb(128, 128, 128); font-family: arial, helvetica, sans-serif; font-size: small; ">Don' t want to get Updates?</span></p> 
+  <p style="text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><font size="2"><a href="http://www.psheity.icu/5396R23WA95cp86N10J39d1Bd4cx19SigxasfiwhbrHbDErIx7nQp9QoS6fXnZ105ITkHi/Bleeker-westwards" target="_NEW"><span style="color:#808080; ">Go Here</span></a></font><span style="color:#808080; "><font size="2"> or write to:<br /> 96 Craig Street Suite 112-337, Ellijay, GA</font></span></span></p> 
+  <p style="text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><font size="2">We fight against unwanted messages to report </font></span><a href="http://www.psheity.icu/Jacobus-barge/4685O2j395g8lT911u39md2Qd4cg19eigxasfiwhbrHbDErIx7vQp9QoS7i1PLGx06zNHiW3">cancel Here</a></p> 
+  <p style="text-align: center; "><big></big><small><span face="descriptions"></span></small><font class="prosecutes"></font><style><big></big></style><style id="sanguine"><style></style></style><font color="hippo"><font></font></font><span id="fleshly"></span></p>   
+ <img src="http://www.psheity.icu/ends-commutativity/ef44w2395S85vt11gU39d3od4cW19migxasfiwhbrHbDErIx7SQp9QoS5S1O0Y5WyzHi" alt=""/></body>
+</html>
+
+------=_Part_724_1796157396.1553883165010--
+

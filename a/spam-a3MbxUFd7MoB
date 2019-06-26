@@ -1,0 +1,68 @@
+Return-Path: <albiz@freemail.gr>
+Delivered-To: spam-quarantine
+X-Envelope-To: <s_shekhar@jcbl.com>
+X-Envelope-To-Blocked: <s_shekhar@jcbl.com>
+X-Quarantine-ID: <a3MbxUFd7MoB>
+X-Spam-Flag: YES
+X-Spam-Score: 8.464
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.464 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, FORGED_MUA_MOZILLA=1.596,
+	FREEMAIL_FROM=0.001, FREEMAIL_REPLYTO=2.775, MISSING_HEADERS=1.207,
+	REPLYTO_WITHOUT_TO_CC=1.946, SPF_FAIL=0.919, T_HK_NAME_FM_MR_MRS=0.01,
+	T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a3MbxUFd7MoB for <s_shekhar@jcbl.com>;
+	Sun, 25 Nov 2018 18:19:27 +0530 (IST)
+Received: from sonic308-10.consmr.mail.ne1.yahoo.com (sonic308-10.consmr.mail.ne1.yahoo.com [66.163.187.33])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 330E7F45C1B
+	for <s_shekhar@jcbl.com>; Sun, 25 Nov 2018 18:19:25 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1543150228; bh=dushf7DnZ8D3cJ3YW37HRlyRdA/i9bMGLKwfzoPMZgA=; h=Date:From:Reply-To:Subject:References:From:Subject; b=lq5Kb2NULKll6qcnDO1883D67fzJYMwPf1CGRpLb0Vx0KmcrN/iCi+ynxqQM+vXdqJizuhp0dbtfShH/wg9ZsV9LsfuLP6A4uyHdXjudgl8J2REz/OFVPrkWV4MZQ2hJndERqwiykdxOa2uWkkzUv2Blykgo0Bu3feKjDQgRDY8uRQhJycToVSvBn0E+NN3RWytYcNGU+epg2O4AC/AUSw2WLCCEjpStFVOtMxmW//4PE9s6fl+Ii+VjtkQxJ/iFH0I5iGRcRynVBQeuJGohC+wBpgr2pgo1w/vODH+7wuXaYxvylV+sjW8o6849kh2CA1vkrewUD/kpv5sTLl3zmg==
+X-YMail-OSG: ss.eT1cVM1mRMzjZSMgP8yLvUlmMpGLxDKO17F20agm_9YeLJiqug4W0hDdwM1T
+ lCCajzswoUbZ6zS9L6wkcoPnhvL_xBYrEyH83ekJn1OIs01.araFAKdldiiDUe2VEV2bYzkRDAjL
+ CvHmSeWPTEBVNgsgCsVnqIB1qt2oAOVIbEVuKRJilEM1fv50__UTYmGAAq1RewaHDO08nnoQnvuf
+ vvFraUWEnCbuJq5Vml47jPBOve34TpD6pxNtsnTQ7ZHjQC5600E.3kI7R4Iz2cp6mLbkKX_GnpuA
+ odXUASl6QvFGT0MIKA.yhJwOGWDMW6xvhBd4DSCdMMzC6vU.U4J6ck1V_zxEKujhLrLnyToyu47e
+ oYbcehJ1_CydR86bgQkbJEsCDJkJDfRnam9G.yYO80DrD4dcm12og2ZG.gZ8g8r5glLpms7.ZFmY
+ fZ53PFeq5Sh7YM5KHTJ5g4BIzId0hRuIINehJ9apKwjEL2z2z_th.pT9kgce96JDXaf0NfdERtbl
+ mLlRgrcCZjzU8Q4nfhtffW.YxLszZL..SYlzB63uY6Qv6FYnoV6Ga6ygltBCgKwzMcMvh_SO7png
+ 2mAzugbsKe_1uJDtTkatFQr9KGol8RXessb_wu1T36_3s1Fl_eALjCgPVmfY88AJ3_uEeuBEFyoB
+ 2nFx9J9A1BoPnTy_Sua1iJ8.0ouIFeyiJvSr2y.uo9JpWhPaHsDPSw8Qc7I3hPMh09fpmyppYoNZ
+ n3zFYkzBKxz2Bok.EjmDqv.hWX5LrlzK2JOX.snVXKhcDt2M2CKtsPKU9YFuVfDQxlTRFfoDGpIs
+ ILhTzXy7o3w5_q5WYljiQjqqBiwQ4n05sPjpRix1wcHtP_3.YlTQQ2xg3ZxbVZYrDRKpt1tEQsAj
+ 48dsu7c632CXqbJfpJvubq5X.LatMMc8BVn5XCFUqBLqQpkfWCnwSGjyPgngZo1IweJMuvpDBwic
+ zCVGc_LbK5rrvz9Sym5gBT.8h3jP56DdhU.G.hhpNGLxq6iOHDC.Xzss.nK4fnvMf8crGNBvWkZc
+ TT.8iWtqaDg--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic308.consmr.mail.ne1.yahoo.com with HTTP; Sun, 25 Nov 2018 12:50:28 +0000
+Date: Sun, 25 Nov 2018 12:50:27 +0000 (UTC)
+From: "Mrs. Elia Rodrigues" <albiz@freemail.gr>
+Reply-To: "Mrs. Elia Rodrigues" <eliarodrigues@yahoo.com>
+Message-ID: <70306428.2233228.1543150227567@mail.yahoo.com>
+Subject: From Mrs. Elia Rodrigues,
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+References: <70306428.2233228.1543150227567.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.12729 YahooMailBasic Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0 CometBird/11.0
+
+
+
+From Mrs. Elia Rodrigues,
+
+I am Mrs. Elia Rodrigues, I am from Portugal.
+I have been diagnosed with cancer. It has defied all forms of medical treatment, and right now I have only about a few months to live, according to medical experts. I have not particularly lived my life so well, as I never really cared for anyone (not even myself) but my business. Though I am very rich, I was never generous. I was always hostile to People and only focused on my business as that was the only thing I cared for. But now I regret all this as I now know that there is more to life than just wanting to have or make all the money in the world. I believe when God gives me a second chance to come to this world I would live my life a different way from how I have lived it.
+
+I would want to have a Personal and Trustworthy Relationship with you, as I intend and willing to empower the change of ownership for the transfer of my Deposits to your personal possession for Charity Disbursement to the Less Privilege and Homeless. I want this fund to be used in liberation work Activities like, help to Orphanages, and Christian schools, helping widows and up keeping of the Churches and propagating the word of God and to endeavor that the house of God is maintained. I am not afraid of death hence I know where I am going. I know that I am going to be in the bosom of the Lord. Exodus 14 vs 14 says that the lord will fight my case and I shall hold my peace.
+Because of my health condition when i try to speak it leads to a serious coughing out of blood. I will send you the photos of me,
+
+As soon as I receive your reply I shall give you the details on how to contact the bank directly for onward transfer. I will also issue you an authority letter that will prove you as the present beneficiary of my funds. I want you and your family to always pray for me but the lord is my shepherd.
+
+I attach my photo for you to see my condition
+
+Thank you for your due consideration. God be with you. Please kindly contact me with my email below. 
+Email............(rodriguesmrselia@gmail.com)
+
+Yours Sister in the Lord.
+
+Mrs. Elia Rodrigues

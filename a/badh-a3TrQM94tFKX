@@ -1,0 +1,81 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <hr_amb@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a3TrQM94tFKX>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a3TrQM94tFKX for <hr_amb@globeauto.in>;
+	Mon, 13 May 2019 10:22:50 +0530 (IST)
+Received: from smtp2-outgoing.mail.rjil.net (smtp2-outgoing.mail.rjil.net [49.40.2.144])
+	by mx10.jcbl.com (Postfix) with SMTP id D2976EFB7FA
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 13 May 2019 10:21:05 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp2-outgoing.mail.rjil.net (Postfix) with ESMTP id 668E9280BD4
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 13 May 2019 10:21:20 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id 6499F67
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 13 May 2019 10:21:20 +0530 (IST)
+From: Notification@Jio.com
+To: HR_AMB@GLOBEAUTO.IN
+Message-ID: <267727562.8723949.1557723080412.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Current plan for Jio Number 9729542398 is about to expire
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_8723948_1347201511.1557723080409"
+Bounce_Header: 4407045308585195520
+format: flowed
+
+------=_Part_8723948_1347201511.1557723080409
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Dear Customer,&nbsp;&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Your current plan MRP 399 for Jio number 9729542398 will expire on 14-May-19 10:18 Hrs.</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">If you have already recharged, your new plan will get automatically activated. If you have not recharged, your services will stop working.&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">&nbsp;To recharge, click https://www.jio.com/recharge_singleclick?planId=1003957&amp;utm_source=NE&amp;utm_medium=email&amp;utm_campaign=PPlan_expiry&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Dial 1991, to know your current balance, validity, plan details and for exciting recharge plans&nbsp;&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Thank you,&nbsp;&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Team Jio</span></font>
+  </div>
+ </body>
+</html>
+------=_Part_8723948_1347201511.1557723080409--

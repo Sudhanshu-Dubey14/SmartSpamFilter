@@ -1,0 +1,904 @@
+Return-Path: <noreply@makemytrip.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <traveldesk@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aVPyjIp3kaMG>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aVPyjIp3kaMG for <traveldesk@jcbl.com>;
+	Thu, 14 Dec 2017 12:14:06 +0530 (IST)
+Received: from nsmail.makemytrip.com (nsmail7.makemytrip.com [180.179.112.90])
+	by mx10.jcbl.com (Postfix) with SMTP id B4B181003E47
+	for <traveldesk@jcbl.com>; Thu, 14 Dec 2017 12:14:01 +0530 (IST)
+Received: from mum-54-81 (unknown [10.96.54.81])
+	by nsmail.makemytrip.com (Postfix) with ESMTP id 7019B1680903
+	for <traveldesk@jcbl.com>; Thu, 14 Dec 2017 12:14:53 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 nsmail.makemytrip.com 7019B1680903
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=makemytrip.com;
+	s=dkimnew_domainkey; t=1513233893;
+	bh=lod1FkSUti8yDXjQ7FnJn7kKDSbJCupZ+EmvW/wIhkU=;
+	h=From:To:Subject:From;
+	b=L5D1miEr/LRi4N0MnuTzjKCtyDP8GaTquA5EShfsHY/cV6vEg3mb0suxo0pt6TnuQ
+	 qtVgv68RmBKLutcscf1Cn6hJyLAfBkNvzHClfb7L4RKyi4BGKD9n6uFwMxEXSr2YYm
+	 Fd4I/CofuahnvlNy/CZpU+4NXlw4E3Ws/YFWzNtLtvah22zmxn/PxiUbYLhQNTcl6X
+	 rejqbnyatrgKY6tdh+nImqN68K5nPy8H9VT2F2qTXilrDU9KDHRBz4MGaFMphf2IwI
+	 Ic37pWfKrlfi60Qi2u28tHhy+X0LGg1XuJmf9HClYl/2gCT9M0fN/4S0vlZLhCbqae
+	 4k3dkAjFttE4Q==
+From: MakeMyTrip <noreply@makemytrip.com>
+To: traveldesk@jcbl.com
+Message-ID: <1365027743.41191513233893447.JavaMail.mmytu@mum-54-81>
+Subject: Refund for Cancelled Flight Booking ID NF22695112366823 is
+ successful
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4121_1024804053.1513233893443"
+
+------=_Part_4121_1024804053.1513233893443
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html lang='en'><head><meta http-equiv='"Content-Type" content="text/html; charset=utf-8"'/> 
+  		<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  		<title>MyPromise_Flt_CanRequestInit</title> 
+ <style>
+  
+  body {
+	width:100% !important;
+	-webkit-text-size-adjust:none;
+	-ms-text-size-adjust:none;
+	margin:0;
+	padding:0;
+	font-size:14px;
+	}
+
+  th, td { padding: 0px; }
+  table { border-collapse: collapse; border-spacing:0; font-family:arial; margin:0 auto;}  
+  .grey{ color:#9b9b9b;}
+  strong{ color:#4a4a4a;}
+  p{margin:5px 0px 0px 0px;}
+  .text-right{text-align:right; }
+  .text-center{ text-align:center;}
+  .text-left{ text-align:left;}
+  .light-grey{color:#9b9b9b;}
+  .vM{vertical-align:middle;}
+  .only-mobile{ display:none;}
+  .width50{ width:50%;}
+  .flL{float:left;}
+  .flR{float:right;}
+  .clearfix{ display:table;}
+  .width100{ width:100%;}
+  .width20{ width:18%;}
+  .width35{ width:35%;}
+  .width37{ width:37%;}
+  .width30{ width:29%;}
+  .width40{ width:40%;}
+  .center{text-align:center;}
+  .append_bottom15{ margin-bottom:15px;}
+  .append_bottom10{ margin-bottom:10px;}
+  .append_bottom5{ margin-bottom:5px;}
+  .prepend_top10{ margin-top:10px;}
+  .prepend_top9{ margin-top:9px;}
+  .section_title{font-size:22px;}
+  .promise_card_amt, .track_progress_cta{font-size:18px;}
+  .promise_text{font-size:14px;}
+  .promise_desc{font-size:14px;}
+  .mob-show{display:none;}
+  @media (min-width:601px)
+  {
+  .passenger-info{ width:38%!important;}
+  .total-amount{width:16%!important;}
+  .fare-summary {width:20%!important;padding-right:12px;}
+  .fare-info{ width:45% !important;}
+  .logo-section{ width:30% !important;}
+  .id-section{ width:28% !important;}
+  .mob-show{display:none;}
+  }
+  
+  @media (max-width:600px)
+  {
+  .mob-container{padding-left:5px !important;padding-right:5px !important;}
+  .mob-width50{width:50% !important;}
+  p,pre{ margin:3px 0px 0px 0px; line-height:12px;}
+  .wrapper{width:100% !important; border:none !important; padding-top:15px !important; min-width:300px !important;}
+  .inner-wrapper{padding:0px !important;}
+  .imp-info{ background:#f9f7f7; width:100%; margin-bottom:10px;}
+  .journey-info-mobile{padding:0px 10px;}
+  .section-heading{ background:#f6faff; padding:10px; margin-bottom:10px; font-weight:bold; font-size:11px;color:#153d6c;}
+  .only-desktop{ display:none;}
+  .mob-hide{ display:none;}
+  .only-mobile{ display:block !important; width:100% !important; height:100% !important;  color:#4a4a4a;}
+  .ticket-status{ font-weight:bold;display:inline-block;}
+  .booking-id{text-align:left !important;}
+  .time-info{ font-size:12px; line-height:14px; padding:5px 0px; border-top:1px solid #9b9b9b; border-bottom:1px solid #9b9b9b;margin-top:0px;}
+  .airline-logo{ margin-right:3%; }
+  .airline-name{ margin-bottom:5px;  }
+  .city{margin-top:2px;margin-bottom:5px;font-size:11px; line-height:13px;}
+  .arrow-icon{width:32px; height:9px;}
+  .dept-time{ font-size:16px;}
+  .city-code{ font-weight:bold;color:#153d6c;font-size:24px; line-height:26px;}
+  .terminal-info{ font-size:12px; font-weight:bold;}
+  .add-ons{ padding-top:9px; margin:10px 0px; color:#153d6c}
+  .add-ons span { display:inline-block; padding-right:3px; border-right:#153d6c 1px solid; margin-bottom:9px; margin-right:2px;}
+  .info-text{ width:86%; padding:8px 5px 6px; font-size:9px; line-height:11px;display:inline-block;margin:0px;}
+  .info-icon{padding:6px 0px 6px 8px; display:inline-block;margin-right:2px;}
+  .support-table,.date-change-table{ width:100% !important; margin-bottom:10px;}
+  .support-table span{ margin-right:5%;display:inline-block;}
+  .manage-btn{width:100% !important; margin-right:0px !important; margin-bottom:10px !important;}
+  .logo-section,.id-section, .cancellation-status, .booking-id-section{ width:100% !important;}
+  .passenger-info,.eticket-info{ width:55% !important;}
+  .booking-id{text-align:left !important;}
+  .pnr{ padding-right:5px;text-align:right;}
+  .amount{ text-align:right;padding-top:7px; padding-right:5px;}
+  .last-inclusion{ border-right:none !important; margin-right:0px;}
+  .app-store-btn{ width:50% !important;}
+  .lower-section-wrapper{border:none !important;}
+  .seat-text{ display:inline-block !important;}
+  .passenger-wrapper{border:none !important;}
+  .section_title{font-size:18px !important;}
+  .promise_card_amt{font-size:16px !important;}
+  .padding_mobile{padding-left:10px !important;padding-right:10px !important;}
+  .padding_mobile_left{padding-left:10px !important;}
+  .padding_mobile_right{padding-right:10px !important;}
+  .clear_padding_mobileLR{padding-left:0 !important;padding-right:0 !important;}
+  .total-amount{width:45%!important;}
+  .promise_desc{font-size:14px !important;}
+  .track_progress_cta{font-size:14px !important;}
+  .mob-show{display:block !important;}
+  }
+  
+  </style>
+ </head><body>
+ <style>
+  
+  body {
+	width:100% !important;
+	-webkit-text-size-adjust:none;
+	-ms-text-size-adjust:none;
+	margin:0;
+	padding:0;
+	font-size:14px;
+	}
+
+  th, td { padding: 0px; }
+  table { border-collapse: collapse; border-spacing:0; font-family:arial; margin:0 auto;}  
+  .grey{ color:#9b9b9b;}
+  strong{ color:#4a4a4a;}
+  p{margin:5px 0px 0px 0px;}
+  .text-right{text-align:right; }
+  .text-center{ text-align:center;}
+  .text-left{ text-align:left;}
+  .light-grey{color:#9b9b9b;}
+  .vM{vertical-align:middle;}
+  .only-mobile{ display:none;}
+  .width50{ width:50%;}
+  .flL{float:left;}
+  .flR{float:right;}
+  .clearfix{ display:table;}
+  .width100{ width:100%;}
+  .width20{ width:18%;}
+  .width35{ width:35%;}
+  .width37{ width:37%;}
+  .width30{ width:29%;}
+  .width40{ width:40%;}
+  .center{text-align:center;}
+  .append_bottom15{ margin-bottom:15px;}
+  .append_bottom10{ margin-bottom:10px;}
+  .append_bottom5{ margin-bottom:5px;}
+  .prepend_top10{ margin-top:10px;}
+  .prepend_top9{ margin-top:9px;}
+  .section_title{font-size:22px;}
+  .promise_card_amt, .track_progress_cta{font-size:18px;}
+  .promise_text{font-size:14px;}
+  .promise_desc{font-size:14px;}
+  .mob-show{display:none;}
+  @media (min-width:601px)
+  {
+  .passenger-info{ width:38%!important;}
+  .total-amount{width:16%!important;}
+  .fare-summary {width:20%!important;padding-right:12px;}
+  .fare-info{ width:45% !important;}
+  .logo-section{ width:30% !important;}
+  .id-section{ width:28% !important;}
+  .mob-show{display:none;}
+  }
+  
+  @media (max-width:600px)
+  {
+  .mob-container{padding-left:5px !important;padding-right:5px !important;}
+  .mob-width50{width:50% !important;}
+  p,pre{ margin:3px 0px 0px 0px; line-height:12px;}
+  .wrapper{width:100% !important; border:none !important; padding-top:15px !important; min-width:300px !important;}
+  .inner-wrapper{padding:0px !important;}
+  .imp-info{ background:#f9f7f7; width:100%; margin-bottom:10px;}
+  .journey-info-mobile{padding:0px 10px;}
+  .section-heading{ background:#f6faff; padding:10px; margin-bottom:10px; font-weight:bold; font-size:11px;color:#153d6c;}
+  .only-desktop{ display:none;}
+  .mob-hide{ display:none;}
+  .only-mobile{ display:block !important; width:100% !important; height:100% !important;  color:#4a4a4a;}
+  .ticket-status{ font-weight:bold;display:inline-block;}
+  .booking-id{text-align:left !important;}
+  .time-info{ font-size:12px; line-height:14px; padding:5px 0px; border-top:1px solid #9b9b9b; border-bottom:1px solid #9b9b9b;margin-top:0px;}
+  .airline-logo{ margin-right:3%; }
+  .airline-name{ margin-bottom:5px;  }
+  .city{margin-top:2px;margin-bottom:5px;font-size:11px; line-height:13px;}
+  .arrow-icon{width:32px; height:9px;}
+  .dept-time{ font-size:16px;}
+  .city-code{ font-weight:bold;color:#153d6c;font-size:24px; line-height:26px;}
+  .terminal-info{ font-size:12px; font-weight:bold;}
+  .add-ons{ padding-top:9px; margin:10px 0px; color:#153d6c}
+  .add-ons span { display:inline-block; padding-right:3px; border-right:#153d6c 1px solid; margin-bottom:9px; margin-right:2px;}
+  .info-text{ width:86%; padding:8px 5px 6px; font-size:9px; line-height:11px;display:inline-block;margin:0px;}
+  .info-icon{padding:6px 0px 6px 8px; display:inline-block;margin-right:2px;}
+  .support-table,.date-change-table{ width:100% !important; margin-bottom:10px;}
+  .support-table span{ margin-right:5%;display:inline-block;}
+  .manage-btn{width:100% !important; margin-right:0px !important; margin-bottom:10px !important;}
+  .logo-section,.id-section, .cancellation-status, .booking-id-section{ width:100% !important;}
+  .passenger-info,.eticket-info{ width:55% !important;}
+  .booking-id{text-align:left !important;}
+  .pnr{ padding-right:5px;text-align:right;}
+  .amount{ text-align:right;padding-top:7px; padding-right:5px;}
+  .last-inclusion{ border-right:none !important; margin-right:0px;}
+  .app-store-btn{ width:50% !important;}
+  .lower-section-wrapper{border:none !important;}
+  .seat-text{ display:inline-block !important;}
+  .passenger-wrapper{border:none !important;}
+  .section_title{font-size:18px !important;}
+  .promise_card_amt{font-size:16px !important;}
+  .padding_mobile{padding-left:10px !important;padding-right:10px !important;}
+  .padding_mobile_left{padding-left:10px !important;}
+  .padding_mobile_right{padding-right:10px !important;}
+  .clear_padding_mobileLR{padding-left:0 !important;padding-right:0 !important;}
+  .total-amount{width:45%!important;}
+  .promise_desc{font-size:14px !important;}
+  .track_progress_cta{font-size:14px !important;}
+  .mob-show{display:block !important;}
+  }
+  
+  </style>
+ 
+
+   <table class="wrapper table-width" style="min-width:600px;border-collapse: collapse;border-spacing: 0;margin: 0 auto; border: 1px solid #ADA4A4;width:600px;" align="center" width="600" cellpadding="0" border="0" cellspacing="0">
+    <tbody>
+	 <tr>
+                <td  style="padding-top:4px;padding-bottom:4px;padding-left:20px;padding-right:20px;background-color:#ffffff;border-bottom:1px solid #c8c8c8;">
+				<table class="logo-section" style="width:150px" align="left" width="150" cellpadding="0" border="0" cellspacing="0">
+                    <tbody>
+                    <tr>
+                        <td style="vertical-align: middle;width:150px;"><img width="150" height="50" src="http://www.mailmktg.makemytrip.com/mmtcommits/images/MMTLogo.png" style="width:150px;" alt="mmt_logo"/></td>
+                    </tr>
+                  </tbody>
+                  </table>
+                <table class="id-section" style="width:28%;" align="right" cellpadding="0" border="0" cellspacing="0">
+                    <tbody>
+                    <tr>
+                        <td class="booking-id mob-hide" style="font-family: arial; color:#6f6f6f;padding-top:16px;font-size:11px;"></td>
+                      </tr>
+                  </tbody>
+                  </table></td>
+            </tr>
+ 
+  
+<tr>
+   <td class="mob-container" style="padding-left:15px;padding-right:15px;">
+      <table style="border-collapse: collapse;border-spacing:0;" cellpadding="0" border="0" cellspacing="0">
+<tbody>
+   <!-- Salutatory text -->
+   <tr>
+      <td class="lower-section-wrapper">
+         <table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+<tbody>
+   <tr>
+      <td style="vertical-align: top;font-family: arial; padding-left:0;padding-right:0;padding-top:20px;" class="clear_padding_mobileLR">
+         <table style="border-collapse: collapse;border-spacing: 0;width: 100%;" cellpadding="0" border="0" cellspacing="0">
+<tbody>
+   <tr>
+      <td style="padding:10px 0" class="clear_padding_mobileLR">
+         <table class="cancellation-status" style="width:340px" align="left" cellpadding="0" border="0" cellspacing="0">
+            <tbody>
+               <tr>
+                  <td style="vertical-align:middle;color:#000000;font-family:arial;font-weight:bold;padding-bottom:8px;font-size:22px;" class="section_title">Refund Processed Sucessfully</td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="booking-id-section" style="width:210px" align="left" cellpadding="0" border="0" cellspacing="0">
+            <tbody>
+               <tr>
+                  <td class="booking-id" style="vertical-align: middle;font-family: arial; color:#000000;font-size:14px;"> Booking ID: <a style="text-decoration:none; color:#000000;font-weight:bold;" href="#">NF22695112366823</a></td>
+               </tr>
+               <tr>
+                  <td class="booking-id" style="vertical-align: middle;font-family: arial; color:#969696;padding-top:3px;font-size:12px;"> Booked on 13 Dec, 2017 </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+    
+<tr>
+   <td style="padding:20px 0px 5px 0; color:#000000; font-size:11px;" class="clear_padding_mobileLR">
+      <table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+         <tbody>
+            <tr>
+               <td style="padding-right:10px;vertical-align:top;line-height:22px;font-size:14px;font-family:arial;color:#000000;">
+                  <span style="font-size:16px;font-weight:bold;padding-bottom:5px;display:inline-block;font-family:arial;">Dear Rishi,</span>
+                  <br/>
+                  <strong>Hurray! Your request was processed in record time!</strong>
+                  <br/>
+                  Your request for <strong style="font-family:arial;">Cancellation & Refund of Rs.<strong>2105</strong></strong> for your IXC-DEL flight has been <strong>COMPLETED</strong> in <strong>10sec.</strong>
+                  <br/>
+                  <strong>Your refund has been sent to your account. It will reflect in your account in 3-12 days.</strong>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody></table></td>
+</tr>
+<tr>
+   <td style="height:10px;"></td>
+</tr>
+
+ <tr>
+			<td style="border:1px solid #e9e9e9;margin-bottom:20px;background-color:#ffffff;">
+				<table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+                    <tbody>
+						<tr>
+							<td style="vertical-align: middle;width:100%;" colspan="2"><img src="http://www.mailmktg.makemytrip.com/mmtcommits/images/mmt-promise-logo-85.png" alt="mmt_commit_logo" style="width:100%;"></img></td>
+							
+						</tr>
+						
+						<tr><td style="height:30px;"  colspan="2">&#160;</td></tr>
+						
+						<tr>
+							<td style="vertical-align: middle;width:100%;" colspan="2">
+								<table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+									<tr>
+										<td style="padding: 0 0 0 25px;vertical-align: top;font-family: arial;font-size:14px;color:#000000;width:60%; " align="left" class="padding_mobile_left"> 
+											<p style="margin: 0 0 10px;line-height: 14px;font-size:12px;color:#969696;">Promise</p> 
+											<p style="margin: 0;line-height: 16px;font-size:14px;">Process Refund of Rs.<strong>2105</strong> in <strong>30min</strong></p>
+										</td>
+										<td style="padding: 0px;vertical-align: top;font-family: arial;width:40%;padding-right:25px; " align="right">
+											<p style="margin: 0 0 10px;line-height: 14px;font-size:12px;color:#969696;">Time Elapsed</p>
+											<p style="margin: 0;line-height: 16px;font-size:14px;"><span class="promise_card_amt"></span><span style="font-weight:bold">10sec</span></p>
+										</td>
+									</tr>
+								</table>
+							</td>
+							
+					    </tr>
+						<tr><td style="height:30px;" colspan="2">&#160;</td></tr>
+                        <tr>
+							<td style="padding: 0 0 0 25px;vertical-align: top;font-family: arial;font-size:14px;color:#000000; " colspan="2" class="padding_mobile_left">
+								<p style="margin: 0 0 10px;line-height: 14px;font-size:12px;color:#969696;">If we delay, we will pay</p>
+								<p style="margin: 0px 0px 15px;line-height: 16px;font-size:14px;"><strong>Your refund has been sent to your account. It will reflect in your account in 3-12 days</strong></p>
+							</td>
+                                    
+                        </tr>
+						<tr>
+							<td style="vertical-align: middle;width:100%;padding:0 25px;" colspan="2" class="padding_mobile">
+								<img src="http://www.mailmktg.makemytrip.com/mmtcommits/images/refund-case3-green.png" style="width:100%" alt="refund_status"></img>
+							</td>
+						</tr>
+						<tr>
+							<td style="vertical-align: middle;width:100%;" colspan="2">
+								<table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+									<tr>
+										<td style="width:50%;padding-left:25px;padding-bottom:32px;padding-top:5px;font-size:12px;color:#000000;font-family:arial;" align="left" class="padding_mobile_left">
+											<p><strong style="font-family:arial;">Cancellation Initiated</strong></p>
+											<p style="font-family:arial;">(14Dec, 12:14PM)</p>
+										</td>
+										<td style="width:50%;padding-right:25px;padding-bottom:32px;padding-top:5px;font-size:12px;color:#000000;font-family:arial;" align="right" class="padding_mobile_right">
+											<p><strong style="font-family:arial;">Refund Processed & Sent to your account</strong></p>
+											<p style="font-family:arial;">(14Dec, 12:14PM)</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+							
+						</tr>
+						<tr>
+							
+							<td colspan="2" style="font-family: arial; text-align: center;" class="promise_card_amt">
+								<table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+									<tbody>
+										<tr>
+											<td style="width:25%;height:5px;">&#160;</td>
+											<td style="width:50%;font-family: arial;background-color: #065af3;border-radius:100px;padding:8px 0;text-align:center;" class="track_progress_cta">
+												<a href="https://supportz.makemytrip.com/MyAccount/Communication/param?eid=0jAz1D4SvWLj8F8STeIxSFBBqeto2I3LMchGUR3U/gQ=&bid=R3bvYUATt/eCaNFJLYOn1zNLCNhsIxabaAlayXFJNDc=&cno=zlqw90sdsLRX83XpVgcl3Q==&act=1&cmp=MyPromise" style="text-decoration: none;color: #ffffff;display: inline-block;background-color: #065af3;border-radius:100px;"> TRACK PROGRESS</a>
+											</td>
+											<td style="width:25%;height:5px;">&#160;</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							
+						</tr>
+						<tr>
+							<td style="height:20px;">&#160;</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		    
+            <tr>
+               <td style="height:30px;">&#160;</td>
+            </tr>
+            </tr>
+
+<tr>
+                <td style="border:1px solid #e9e9e9;background-color:#ffffff;"><table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+                    <tbody>
+				    <!--support section-->
+                    <tr>
+                        <td class="heading section_title padding_mobile" style="padding:18px 0px 18px 18px;font-family: arial;font-weight: bold;color:#000000;font-size:22px;">Refund Details </td>
+                    </tr>
+                    <tr>
+                        <td style=" padding:0 18px; " class="padding_mobile">
+                        <table class="support-table "  style="border-collapse: collapse;border-spacing: 0;width:100%;padding:5px; "  cellpadding="0" border="0" cellspacing="0">
+                          <tbody>
+                          	 <tr>
+                    <td style="padding-bottom:10px;border-bottom:1px solid #ccc;">
+                    	<table style="width:100%" cellpadding="0" border="0" cellspacing="0">
+                        	<tr>
+                            	<td style="vertical-align:top; color:#000;font-family:arial;font-size:14px; line-height:16px;">
+                                Payment Mode
+                                </td>
+                                    	<td style="vertical-align:top; color:#000;font-family:arial;font-size:14px; line-height:16px;text-align:right;">
+                                Refund Amount (INR)
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    </tr>
+                    <tr>
+                    	<td style="padding-top:10px;">
+                        	<table  cellpadding="0" border="0" cellspacing="0" style="width:100%"> 
+
+                            	<tr>
+                            	
+                                	<td style="width:50%; vertical-align:top; font-size:14px; line-height:16px; color:#000;padding-bottom:10px">
+                                    	<p style="margin:0px 0px 2px;color:#000; font-family:arial;font-size:14px;font-weight:bold;line-height:16px;">AMEX3P </p>
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">American Express </p>
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">Status: Completed  </p>
+
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">Card #: 376910********** </p>
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">RRN Number: 171214954476  </p>
+                                       
+                                   
+                                    </td>
+                                    
+                                    <td style="width:50%; vertical-align:top; font-size:14px; line-height:16px; color:#000;padding-bottom:10px;text-align:right;">
+                                    	<p style="margin:0px 0px 2px;color:#000; font-family:arial;font-size:14px;font-weight:bold;line-height:16px;">2105 </p>
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">Reflects in Account in </p>
+                                        <p style="margin:0px 0px 2px;color:#969696; font-family:arial;font-size:14px;line-height:16px;">3 days </p>
+                                       
+                                    </td>
+                                
+                                </tr>     
+                            
+                            </table>
+                        
+                        </td>
+                    </tr>
+                    
+                    
+                          </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+ 
+                    <!--/support section--> 
+                   
+                    <tr>
+                    	<td style="background:#6e6e6e;padding:18px;" class="padding_mobile">
+                        	<table  cellpadding="0" border="0" cellspacing="0" style="width:100%">
+                            	<tr>
+                                	<td style="font-size:17px; line-height:18px; color:#fff; font-weight:bold; font-family:Arial, Helvetica, sans-serif; vertical-align:top; text-align:left;">
+                                    Total Refund
+                                    </td>
+                                    <td style="font-size:17px; line-height:18px; color:#fff; font-weight:bold; font-family:Arial, Helvetica, sans-serif; vertical-align:top; text-align:right;">
+                                    2105
+                                    </td>
+                                </tr>
+                            </table>
+                        
+                        </td>
+                    
+                    </tr>                
+                 
+                  </tbody>
+                  </table></td>
+            </tr>
+            
+            
+            <!--/Refund details-->
+
+<!--refund-details-->
+<tr>
+   <td style="border:1px solid #e9e9e9;background-color:#ffffff;padding-left:20px;padding-right:20px;" class="padding_mobile">
+      <table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+         <tbody>
+            <!--passenger info-->
+            <tr>
+               <td style="padding-top:21px;padding-bottom:12px;">
+                  <table style="width:315px" align="left" class="cancellation-status" cellpadding="0" border="0" cellspacing="0">
+                     <tbody>
+                        <tr>
+                           <td class="section_title" style="color:#000000;font-family:arial;font-weight:bold;font-size:22px;">Refund Calculation</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table style="width:210px" align="right" class="cancellation-status" cellpadding="0" border="0" cellspacing="0">
+                     <tbody>
+                        <tr>
+                           <td style="font-family: arial; color:#000000;font-size:14px;font-weight:bold;font-style:italic;">
+                              <span style="font-family: arial; color:#000000;font-size:12px;display:inline-block;padding-top:8px;">All amounts are in INR</span>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+            <!-- flight details -->
+            
+            <tr>
+               <td style="padding: 21px 0 15px;">
+                  <table style="width:340px" align="left" class="cancellation-status" cellpadding="0" border="0" cellspacing="0">
+                     <tbody>
+                        <tr>
+                           <td class="promise_desc" style="color:#000000;font-family:arial;padding-bottom:2px;font-size: 14px;">UK-879 | IXC-DEL  | Thu, 14 Dec 17, 15:20 hrs </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr> 
+            <tr>
+               <td>
+                  <table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+                     <tbody>
+                        <tr class="heading">
+                           <td style="padding: 6px 10px 15px 0; color:#000000; border-bottom:1px solid #e5e5e5;">
+                              <table class="passenger-info" align="left" style="border-collapse: collapse;border-spacing: 0;width: 36%;"  cellpadding="0" border="0" cellspacing="0">
+                                 <tbody>
+                                    <tr>
+                                       <td class="name heading promise_desc" colspan="2" style="font-family:arial;font-size: 14px;line-height: 18px;width: 45%;color:#000000;"> Passenger Name </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table class="fare-info" align="left" style="border-collapse: collapse;border-spacing: 0;width: 45%;"  cellpadding="0" border="0" cellspacing="0">
+                                 <tr>
+                                    <td class="mob-hide amount heading promise_desc" style="font-family: arial;font-size: 14px;line-height: 18px;padding-left:0;color:#000000; width:33%;text-align: right;"> Airline Fare </td>
+                                    <td class="mob-hide amount heading promise_desc" style="font-family: arial;font-size: 14px;line-height: 18px;width: 20%; padding-left:8px;color:#000000; width:33%;text-align: right;"> Conv. Fee</td>
+                                    <td class="mob-hide amount heading promise_desc" style="font-family: arial;font-size: 14px;line-height: 18px;width: 20%; padding-left:10px;color:#000000; width:34%;text-align: right;">Others*</td>
+                                 </tr>
+                              </table>
+                              <table class="total-amount" align="left" style="border-collapse: collapse;border-spacing: 0;width: 14%;"  cellpadding="0" border="0" cellspacing="0">
+                                 <tbody>
+                                    <tr>
+                                       <td class="pnr heading promise_desc" style="font-family:arial;font-size:  14px;line-height: 18px;padding-left:8px;color:#000000;text-align: right;"> Total Price </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                        
+                        <tr>
+                           <td style="border-bottom:1px solid #eee;">
+                              <table style="width:100%;"  cellpadding="0" border="0" cellspacing="0">
+                                 <tbody>
+                                    <tr>
+                                       <td>
+                                          <table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+                                             <tbody>
+                                                <tr>
+                                                   <td style="padding:10px 0 5px 0;vertical-align: top; ">
+                                                      <table class="passenger-info" align="left" style="border-collapse: collapse;border-spacing: 0;width: 36%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td  style="font-family: arial; width: 4%;font-size: 14px;line-height: 15px;vertical-align:top;color:#969696;"> 1. </td>
+                                                               <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 14px;padding-left: 2px;color:#969696;"> Rishi Aggarwal</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      <table class="mob-hide fare-info"  align="left" style="border-collapse: collapse;border-spacing: 0;font-family: arial;margin: 0 auto;width: 45%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tr>
+                                                            <td class="amount promise_desc" style="font-family: arial; padding-left:10px;font-size: 14px; line-height:18px;color:#969696;width:33%;vertical-align:top;text-align: right;">5905 </td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#969696;width:33%;text-align: right;">270</td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#969696;width:34%;text-align: right;">0</td>
+                                                         </tr>
+                                                      </table>
+                                                      <table class="total-amount" align="left" style="border-collapse: collapse;border-spacing: 0;width: 14%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td class="total-amount promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 16px;padding-left: 2px;color:#969696;text-align: right;">6175</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+                                             <tbody>
+                                                <tr>
+                                                   <td style="padding:0 0 10px 0;vertical-align: top; ">
+                                                      <table class="passenger-info" align="left" style="border-collapse: collapse;border-spacing: 0;width: 36%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td style="font-family: arial; width: 4%;font-size: 14px;line-height: 18px;vertical-align:top;color:#000000;"> </td>
+                                                               <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 18px;padding-left: 2px;color:#000;"> Cancellation Charges</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      <table class="mob-hide fare-info"  align="left" style="border-collapse: collapse;border-spacing: 0;font-family: arial;margin: 0 auto;width: 45%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tr>
+                                                            <td class="amount promise_desc" style="font-family: arial; padding-left:10px; font-size: 14px;line-height:18px;color:#000;width:33%;vertical-align:top;text-align: right;">(-) 3500 </td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#000;width:33%;text-align: right;">(-) 270</td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#000;width:34%;text-align: right;">(-) 0</td>
+                                                         </tr>
+                                                      </table>
+                                                      <table class="total-amount" align="left" style="border-collapse: collapse;border-spacing: 0;width: 14%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td class="total-amount promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#000;text-align: right;">(-) 3770</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+                                             <tbody>
+                                                <tr>
+                                                   <td style="padding:0 0 10px 0;vertical-align: top; ">
+                                                      <table class="passenger-info" align="left" style="border-collapse: collapse;border-spacing: 0;width: 36%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td style="font-family: arial; width: 4%;font-size: 14px;line-height: 15px;vertical-align:top;color:#000000;"> </td>
+                                                               <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 18px;padding-left: 2px;color:#000;"> MMT Service Fee</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      <table class="mob-hide fare-info"  align="left" style="border-collapse: collapse;border-spacing: 0;font-family: arial;margin: 0 auto;width: 45%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tr>
+                                                            <td class="amount promise_desc" style="font-family: arial; padding-left:10px;font-size: 14px; line-height:18px;color:#000; width:33%;vertical-align:top;text-align: right;">-</td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#000;width:33%;text-align: right;" >-</td>
+                                                            <td class="amount promise_desc" style="vertical-align: top;font-family: arial; width: 21%;font-size: 14px;line-height: 18px; padding-left:10px;color:#000;width:34%;text-align: right;" >-</td>
+                                                         </tr>
+                                                      </table>
+                                                      <table class="total-amount" align="left" style="border-collapse: collapse;border-spacing: 0;width: 14%;" cellpadding="0" border="0" cellspacing="0">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td class="total-amount promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#000;text-align: right;">(-) 300</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                        <!-- /Pax 1 -->
+                        <!-- Pax 2 -->  
+                        
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+            <!-- /Pax 1 -->
+            <!-- Pax 2 -->
+            
+            <!--/passenger info--> 
+         </tbody>
+      </table>
+   </td>
+</tr>
+<!--/refund-details--> 
+
+ <!--/refund-details--> 
+			<!-- Total refund section -->
+					  <tr>
+					  <td style="background-color:#6e6e6e;">
+						<table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+							<tbody>
+					  <tr>
+                        <td><table style="width:100%;" cellpadding="0" border="0" cellspacing="0">
+                            <tbody>
+                            <tr>
+                                <td style="padding:10px 10px 3px 10px;vertical-align: top; "><table align="left" style="border-collapse: collapse;border-spacing: 0;width: 75%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;">Total Fare</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  <table class="fare-summary" align="right" style="border-collapse: collapse;border-spacing: 0;width: 22%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="fare-summary  promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;">6175</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  </td>
+                            </tr>
+      
+							  
+							  <tr>
+                                <td style="padding:8px 10px 8px 10px;vertical-align: top; "><table align="left" style="border-collapse: collapse;border-spacing: 0;width: 75%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="name  promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;">Total Cancellation Charges</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  <table class="fare-summary " align="right" style="border-collapse: collapse;border-spacing: 0;width: 22%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="fare-summary  promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;"> (-) 3770</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  </td>
+                              </tr>
+							  
+							  <tr>
+                                <td style="padding:8px 10px 8px 10px;vertical-align: top; "><table align="left" style="border-collapse: collapse;border-spacing: 0;width: 75%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;">Total MMT Service Fee</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  <table class="fare-summary" align="right" style="border-collapse: collapse;border-spacing: 0;width: 22%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="fare-summary promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;"> (-) 300</td>
+                                    </tr>
+                                  </tbody>
+                                  </table>
+								  </td>
+                              </tr>
+					 
+						  
+							  <tr>
+                                <td style="padding:8px 10px 8px 10px;vertical-align: top; "><table align="left" style="border-collapse: collapse;border-spacing: 0;width: 75%;font-weight:600;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="name promise_desc" style="vertical-align: top;font-family: arial; width: 40%;font-size: 14px;line-height: 14px;padding-left: 2px;color:#fff;text-align: right;">Total Refund</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  <table class="fare-summary promise_desc" align="right" style="border-collapse: collapse;border-spacing: 0;width: 22%;" cellpadding="0" border="0" cellspacing="0">
+                                    <tbody>
+                                    <tr>
+                                        <td class="fare-summary promise_desc" style="vertical-align: top;font-family: arial;font-size: 14px;line-height: 18px;padding-left: 2px;color:#fff;text-align: right;font-weight:600;"> 2105</td>
+                                      </tr>
+                                  </tbody>
+                                  </table>
+								  </td>
+                              </tr>
+                          </tbody>
+                          </table></td>
+                      </tr> 
+					 				  
+							  
+							</tbody>
+						 </table>
+						</td>
+						</tr>
+						<!-- Total refund section -->
+				
+				<tr>
+					<td style="color:#000000;font-size:12px;font-family: arial;padding:14px 0 25px;">* Others as a column includes insurance, meals and preferred seat charges</td>
+				</tr>
+ 
+<tr>
+   <td style="border:1px solid #e9e9e9;background-color:#ffffff;">
+      <table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+         <tbody>
+            <!--support section-->
+            <tr>
+               <td class="heading section_title padding_mobile" style="padding:18px 0px 18px 18px;font-family: arial;font-weight: bold;color:#000000;font-size:22px;"> Additional Details </td>
+            </tr>
+            <tr>
+               <td style=" padding:0 18px; " class="padding_mobile">
+                  <table class="support-table "  style="border-collapse: collapse;border-spacing: 0;width:100%;padding:5px; " cellpadding="0" border="0" cellspacing="0">
+                     <tbody>
+                        <tr>
+                           <td class="mob-width50" style="font-size:14px; font-family:arial;color:#000; line-height:16px; padding-bottom:15px; width:35%;vertical-align:top;">
+                              Trip
+                           </td>
+                           <td class="mob-width50" style="font-size:14px; font-family:arial;color:#000; line-height:16px; padding-bottom:15px; width:65%;vertical-align:top;">
+                              IXC-DEL flight
+                           </td>
+                        </tr>
+                        
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+            <!--/support section--> 
+         </tbody>
+      </table>
+   </td>
+</tr>
+<tr>
+   <td style="height:30px;"></td>
+</tr>
+ 
+ <tr>
+                <td style="border:1px solid #e9e9e9;background-color:#ffffff;"><table style="border-spacing:0; margin:0px;width:100%;" cellpadding="0" border="0" cellspacing="0">
+                    <tbody>
+				    <!--support section-->
+					<tr>
+					<td class="heading section_title padding_mobile" style="padding:18px 0px 18px 18px;font-family: arial;font-weight: bold;color:#000000;font-size:22px;"> Get 24X7 Customer Support </td>
+					</tr>
+					<tr>
+					<td  style=" padding:0 18px; " class="padding_mobile">
+						<table class="support-table " align="left" style="border-collapse: collapse;border-spacing: 0;width:100%;padding:5px; " cellpadding="0" border="0" cellspacing="0">
+							<tbody>
+								<tr>
+								<td class="info" style="padding: 0 0 10px 0;vertical-align: top;font-family: arial;height:84px;box-sizing:border-box; ">
+									<table style="border-collapse: collapse;border-spacing: 0;width: 100%; " cellpadding="0" border="0" cellspacing="0">
+										<tr>
+											<td class="width45" style="padding: 0px;vertical-align: top;font-family: arial; width: 45px;font-size:14px;color:#000000; "> India </td>
+											<td class="width220 promise_text" style="padding: 0px;vertical-align: top;font-family: arial; width: 220px;">
+											<p style="margin: 0px 0px 15px;line-height: 16px;color:#000000;">18001028747 (Toll Free) / +91 124-4628747 </p>
+											</td>
+										</tr>
+ 			
+										
+										<tr>
+											<td style="padding: 0px;vertical-align: top;font-family: arial;font-size:14px;color:#000000; "> Web </td>
+											<td style="padding: 0px;vertical-align: top;font-family: arial;" class="promise_text">
+											<p style="margin: 0px 0px 15px;line-height: 16px;"><a href="http://support.makemytrip.com" style="text-decoration:none;">http://support.makemytrip.com </a></p>
+											</td>
+										</tr>
+	 
+
+									</table>
+								</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+					</tr>
+					<!--/support section-->
+                  </tbody>
+                  </table></td>
+            </tr>
+			<tr>
+				<td  style="vertical-align: top;font-family: arial; padding: 15px 0; color:#000;font-size:12px;"><strong style="color: #000000;"> Note: </strong>Please do not reply to this mail.It has been sent from an email account that is not monitored.
+				 </td>
+			</tr>
+			  </tbody>
+          </table></td>
+      </tr>
+    </tbody>
+  </table>
+ </body></html>
+------=_Part_4121_1024804053.1513233893443--
+

@@ -1,0 +1,280 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <beantjcbl@ovi.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aIF_d4rb29zL>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aIF_d4rb29zL for <beantjcbl@ovi.com>;
+	Thu,  9 Aug 2018 11:56:10 +0530 (IST)
+Received: by mx10.jcbl.com (Postfix, from userid 5000)
+	id 38CEEF08695; Thu,  9 Aug 2018 11:56:09 +0530 (IST)
+Delivered-To: hr@jcbl.com
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 87EA9F08ED9
+	for <hr@jcbl.com>; Mon,  6 Aug 2018 11:26:07 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y38t_GRBl0jN for <hr@jcbl.com>;
+	Mon,  6 Aug 2018 11:26:07 +0530 (IST)
+Received: from APC01-HK2-obe.outbound.protection.outlook.com (mail-hk2apc01on0130.outbound.protection.outlook.com [104.47.124.130])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 98A60F08E78
+	for <hr@jcbl.com>; Mon,  6 Aug 2018 11:26:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cii.in; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ptOX2WJ6AAvQa5rHaAILpcR7jEaGTiBbq40WLsRQ5QY=;
+ b=oPvXqdd99+gdL/ZzwfNFZtWBQvV/dhFbxCxUqL8Yv7xO6nUYC/vexv8yiXvrm9oqsYQsxeemcd4CYvaDNeP2N+yPGv8hkaZ0Wfv6T506vyrTEfTgaBjFF1sm9bbabGm7vJQESSBiao/kSoRawQiRIjCNjjhg9UKYoVR/sf5PgOA=
+Received: from HK0PR03MB3556.apcprd03.prod.outlook.com (52.133.214.20) by
+ HK0PR03MB2801.apcprd03.prod.outlook.com (52.133.210.22) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1038.10; Mon, 6 Aug 2018 05:55:20 +0000
+Received: from HK0PR03MB3556.apcprd03.prod.outlook.com
+ ([fe80::ec64:a2d7:6a86:90d1]) by HK0PR03MB3556.apcprd03.prod.outlook.com
+ ([fe80::ec64:a2d7:6a86:90d1%5]) with mapi id 15.20.1038.013; Mon, 6 Aug 2018
+ 05:55:20 +0000
+From: Swapnil Pednekar <swapnil.pednekar@cii.in>
+Subject: CII - Workshop on '3D Printing & Applications' 23 - 24 August 2018:
+ Mumbai
+Thread-Topic: CII - Workshop on '3D Printing & Applications' 23 - 24 August
+ 2018: Mumbai
+Thread-Index: AdQtSg29vV7ckIeBpkG6bDxB+lzwKQ==
+Disposition-Notification-To: Swapnil Pednekar <swapnil.pednekar@cii.in>
+Date: Mon, 6 Aug 2018 05:55:18 +0000
+Message-ID:
+ <HK0PR03MB35562DD599B6BFD2A745235AE2200@HK0PR03MB3556.apcprd03.prod.outlook.com>
+References:
+ <HK0PR03MB3556D798745025EAAE500AE7E2200@HK0PR03MB3556.apcprd03.prod.outlook.com>     
+Accept-Language: en-IN, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=swapnil.pednekar@cii.in; 
+x-originating-ip: [43.247.146.215]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics:
+ 1;HK0PR03MB2801;6:GJloi38/YTv8Q155g1ZntDiVFSqH4KSupBfdIfVt8xy4cWPGhHRYeUrIzSwpG4CmQtrVnyJC0jHkTSIufCrpWbvgwyqFbR4WEsuzhQzes+2KrBNrv4p4IzCPyj6opjjlBRKaflZ9mky5qWxU4tn3pZ9vhc7r5ZchxWFLm8zoU7iDWbAfBCmdycYpvk+AX9I8Rx8ZRDmcH91MQ9Q1wYm1N5WJgElaFrnXU1Hqd8VV+wRhz/Oow+1NHW1avbrEnAg0iS4McKXrfESGzknF36m3yJ8/grLavLMJd+6/qUmJwoLdSINYM9idjcWIbLy96YBXNj7DbeCxbJpbvHH/aS700TV+pP76C3lN+MLPRt4fgtL1gHovvbHQuf7TfIoZhei3VkCMslNcT8OY+GE8AUDzTRHK095/YW0NLtb3/JAUAF/VzK0Xs6wg0gUfPM2CH7zcmqSjXIAMBe1y1L3XUG1DVQ==;5:4mz2ms/aK6LgdEN6atyyaiRR4WRCWVjWe7ztmmDZavsA5Z2YzalzUE7Y36vV4+yiLF9APGDni2Q9TyOQz0UbWHzazQ/tdBDny16ytvcX2WxVR4t6R04Uz4ngNw3+eyJJ01HL0xPAh//4OoqT37vn1jin3x9mjErKCxOLJMTn8S0=;7:mrTOvFgHRIPrNwNueo8ez7UcEVj56OR9fPNyS3qb5BymZsyZghO3MbAS9Njln8OOcMv2PahA79bfAVFQv6i237d+01Zwi2Oh4n3c27Q1DUMH8MhRbjpzsHtQLZjWcAkBA7Wwy1vbAeeorNvr6Q+gv9u3IppC4FFQRoCLvuJ23sWWTmqL1s+M9Um+BG1lo+FDQ17xyP/B0x0kgERe1Q5I/qIyDOpgoramOwuU0IFGdz0PXtw7xCGqK27b+NfbCUh2
+x-ms-office365-filtering-correlation-id: 4c7191c7-4042-4021-497f-08d5fb613171
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(7020095)(4652040)(8989117)(4534165)(4627221)(201703031133081)(201702281549075)(8990107)(5600074)(711020)(2017052603328)(7153060)(49563074)(7193020);SRVR:HK0PR03MB2801;
+x-ms-traffictypediagnostic: HK0PR03MB2801:
+x-microsoft-antispam-prvs:
+ <HK0PR03MB28018DA2977001286A3C7C8AE2200@HK0PR03MB2801.apcprd03.prod.outlook.com>
+x-exchange-antispam-report-test:
+ UriScan:(28532068793085)(278428928389397)(31418570063057)(22014562488387)(27558790322783)(223705240517415)(210272468185773)(21748063052155);
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test:
+ BCL:0;PCL:0;RULEID:(8211001083)(102415395)(6040522)(2401047)(5005006)(8121501046)(93006095)(93001095)(3002001)(3231311)(944501410)(52105095)(10201501046)(149027)(150027)(6041310)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(20161123564045)(20161123562045)(20161123558120)(20161123560045)(6072148)(201708071742011)(7699016);SRVR:HK0PR03MB2801;BCL:0;PCL:0;RULEID:;SRVR:HK0PR03MB2801;
+x-forefront-prvs: 07562C22DA
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10019020)(376002)(346002)(136003)(39860400002)(366004)(396003)(43234003)(199004)(189003)(5250100002)(74316002)(68736007)(7696005)(186003)(1671002)(8936002)(97736004)(53946003)(8676002)(74482002)(81156014)(76176011)(81166006)(626008)(102836004)(26005)(6506007)(5024004)(14444005)(256004)(486006)(106356001)(105586002)(99936001)(446003)(7736002)(7416002)(7336002)(476003)(7366002)(7406005)(7276002)(316002)(5660300001)(44832011)(19627235002)(65686004)(99286004)(88732003)(6116002)(478600001)(606006)(76576003)(14454004)(3846002)(89122003)(90282003)(53936002)(109986005)(39060400002)(236005)(6306002)(54896002)(54556002)(9686003)(55016002)(2906002)(2900100001)(733005)(33656002)(6436002)(25786009)(86362001)(66066001)(881003)(790700001)(80872002);DIR:OUT;SFP:1102;SCL:1;SRVR:HK0PR03MB2801;H:HK0PR03MB3556.apcprd03.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: cii.in does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info:
+ 3zFAg32kmipKB5MSAnI1TwtpiuwxnCebc4/C6+EftK2x8NE2G0eEn8LWm2KMrbHI/B25C485dUk7j7bu5vNKVLaiTPA+oWokPavbvjwTeKbKvdeaxKRe4wHtvOcoBRqfsCV5b7UAzHda0ZywJCWl3GvZUUp5bdq2M+u3djfZ9Cw52/FxGB6zqk1OzsZZAvpLyDwHespV+W9hLil4lKg6cO3u5qo4r0siO1kLUcAVi/rVuVsFf2z0oQKIyeFeZ6344vsZ7o5tWVpxHzeIyvON0tYnexQC4nVDke1mu++NjWgIAOYOrO8MSxErFzXinhWYnXE4eLrnY1vf3cV06c7lekN19DupKgfUYvFauo0/Iy8=
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/mixed;
+	boundary="_008_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: cii.in
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4c7191c7-4042-4021-497f-08d5fb613171
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Aug 2018 05:55:18.2105
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: e749ab1b-73da-4549-a0cf-1abb0ffbb817
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HK0PR03MB2801
+
+--_008_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_
+Content-Type: multipart/related;
+	boundary="_007_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_";
+	type="multipart/alternative"
+
+--_007_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_
+Content-Type: multipart/alternative;
+	boundary="_000_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_"
+
+--_000_HK0PR03MB35562DD599B6BFD2A745235AE2200HK0PR03MB3556apcp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+[black jepg]
+
+
+
+
+
+CII Naoroji Godrej Centre of Manufacturing Excellence
+
+
+
+"3D Printing<https://twitter.com/hashtag/3dprinting?src=3Dhash> is increasi=
+ngly becoming a reality and is set to disrupt businesses across sectors"
+
+Are you prepared?
+
+
+
+Workshop on
+
+3D PRINTING & APPLICATIONS
+
+Thursday - Friday , 23 - 24 August 2018: Mumbai
+
+
+
+with Interactive Lectures, Live Demos &
+
+Industry Visit
+
+
+
+Dear Sir / Madam,
+
+
+
+Greeting from Confederation of Indian Industry!!!
+
+
+
+We are happy to announce (in partnership with Imaginarium India Pvt Ltd) a =
+two-day workshop, the captioned one, being held by us on 23 - 24 August 201=
+8 in Mumbai. This workshop is targeted to participants who lead Design and =
+Development, Research and New Product Development Process in Engineering In=
+dustry sectors encompassing Aerospace, Automotive, White Goods, FMCG packag=
+ing, Precision Engineering, Tool Room.
+
+
+
+It is designed to make the senior leadership executives aware how to take g=
+et business competitiveness by adopting 3D Printing in various pockets in t=
+he organization. Executives are taught Business Case for 3D Printing, Proto=
+types as vehicle to realise and validate design, 3D Printing Technologies, =
+Adoption Road Map, Case studies with seamless interaction with expert facul=
+ty.
+
+
+
+The workshop is based on real case studies. Each module starts with session=
+ learning objectives and ends with conclusions. The objective is to train t=
+he executives how to apply these in their New Product Development (NPD) to =
+accelerate it in their own organisations.
+
+
+
+INDUSTRIES THAT IMMENSELY USE 3D PRINTING
+
+
+
+
+
+[cid:image002.jpg@01D42B43.C4001550]<https://www.google.co.in/url?sa=3Di&rc=
+t=3Dj&q=3D&esrc=3Ds&source=3Dimages&cd=3D&cad=3Drja&uact=3D8&ved=3D0ahUKEwi=
+N6-Wd-dfRAhVJpo8KHXmZAaQQjRwIBw&url=3Dhttps%3A%2F%2Fwww.disabled-world.com%=
+2Fnews%2Fresearch%2F3d-printing%2F&psig=3DAFQjCNEgDJVtSX8lcHXZXF8paedm9FLCg=
+A&ust=3D1485249903274998>
+
+Fig. 1
+
+
+
+BENEFITS OF 3D PRINTING
+
+?  Cheap Manufacturing
+
+?  Quick Production
+
+?  Less Waste
+
+?  Reduce Development Cost
+
+?  Better Quality
+
+?  Increase Innovation
+
+?  Accessibility
+
+?  Sustainability
+
+?  New Shapes and Structures
+
+?  Win Business and many more
+
+
+
+COVERAGE & CONTENTS (for more details please see the attached brochure)
+
+Session 1: Introduction
+
+Session 2: The Need
+
+Session 3: Technologies
+
+Session 4: Case Studies
+
+Session 5: Demo
+
+Session 6: Valedictory
+
+Demo & Facility Visit: Imaginarium India Pvt Ltd - Asia's largest 3D Printi=
+ng and rapid prototyping company catering to a number of industries like co=
+nsumer goods, automotive, engineering, healthcare, medical, architecture, j=
+ewellery, etc.
+
+
+
+TARGET AUDIENCE / WHO SHOULD ATTEND
+
+* Chief Technology Officers / Chief Operating Officers / Chief Manufacturin=
+g Officers / Chief Information Officers
+
+* Plant Heads / Factory Heads
+
+* Heads from Production / Engineering / R&D / Design / Product Design / Aut=
+omation & Robotics / Project Management / Heavy Welding / Welding Equipment=
+ / Supplies / Consumables / Material Sciences / Additive Manufacturing / Fa=
+brication / Consulting
+
+* Packaging Heads / SME / MSME Owners / Start-up Founders
+
+* Officials from various Industrial sectors like Heavy Engineering, Automot=
+ive, Power, Shipping, Manufacturing, Forging, Automation, Construction, Equ=
+ipment Fabrication Shops, Metals, Fabricators, etc.
+
+* Senior or middle level engineers/managers/technocrat from several divisio=
+ns such as Design, Shop-floor, Quality, Vendor Development, Technical and E=
+ngineering Consultants
+
+* Representatives from Academia / Engineering Technology Institute / Facult=
+y Members / Students
+
+
+
+A brochure is attached herewith wherein you will find all the relevant deta=
+ils like CONTEXT, COVERAGE & CONTENTS, TARGET AUDIENCE / WHO SHOULD ATTEND,=
+ WORKSHOP FACULTY, ABOUT IMAGINARIUM, VENUES, etc. Also attached is a nomin=
+ation form.
+
+
+
+Number of nominations is restricted to 25-30 only and will be purely enroll=
+ed on first come first serve basis.
+
+
+
+I now invite you to be an integral part as well as beneficiary of it attend=
+ / enrol your nominations.
+
+
+
+For nominations and enquiries, please contact Swapnil Pednekar (Tel : 91 (0=
+22) 2574 5146 / 5148, Direct: 91 (022) 2574 3361, Mobile : 09819065199 / 09=
+969418823, Email : swapnil.pednekar@cii.in<mailto:swapnil.pednekar@cii.in>)=

@@ -1,0 +1,732 @@
+Return-Path: <donotreply@smartdraw.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <munish_sharma@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <akb8qfaG8dRw>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.315
+X-Spam-Level: **
+X-Spam-Status: No, score=2.315 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_FONT_FACE_BAD=0.289, HTML_MESSAGE=0.001, LOW_PRICE=0.6,
+	MISSING_DATE=1.396, MISSING_MID=0.14, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id akb8qfaG8dRw for <munish_sharma@jcbl.com>;
+	Tue, 25 Jun 2019 13:00:04 +0530 (IST)
+Received: from mail3.smartdraw.com (mail3.smartdraw.com [4.30.4.3])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 641911045879
+	for <munish_sharma@jcbl.com>; Tue, 25 Jun 2019 12:59:48 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkey1; d=smartdraw.com;
+ h=From:To:Reply-to:Subject:MIME-Version:Content-Type; i=donotreply@smartdraw.com;
+ bh=gasw5nicnS1eM5I7pY22TtWsNNA=;
+ b=RTodJL9/FhqcNoRF++TjqxW4gBG25ML1w83Y+IEuX0Wze9wVwfN/LITwks0QV/B/f/L/EtvlLVPq
+   I2EcZ6Xlq19muSyEjtb9QO+9ERRT7fITC0H6FqlWc9bMmDs1QmkKhPV9AXfoTLMy7YMDgk2TkrWA
+   CVsx+K8IFs9gwreXe78=
+Received: by mail3.smartdraw.com id h276uc1b8ckq for <munish_sharma@jcbl.com>; Tue, 25 Jun 2019 00:22:41 -0700 (envelope-from <donotreply@smartdraw.com>)
+From: SmartDraw Software <donotreply@smartdraw.com>
+To: Munish Sharma <munish_sharma@jcbl.com>
+Reply-to: messagereply@smartdraw.com
+Subject: Save Big with a SmartDraw Site License
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f"
+
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/plain; charset=Windows-1252
+
+**********************************************************
+Get SmartDraw Companywide for One Low Price with a Site License
+**********************************************************
+SmartDraw offers you Enterprise-grade features with 
+security you can rely on, all in an easy-to-administer 
+site license package. With SmartDraw's site license, one 
+annual fee offers access to both the browser-based and 
+Windows desktop versions of SmartDraw for your entire 
+organization. You can add users without having to purchase 
+additional seats.
+
+**********************************************************
+Exclusive to the Site License
+**********************************************************
+
+- Single Sign-On (SSO)
+- Access to All Versions of SmartDraw
+- Domain Restricted Sign-On (if not using SSO)
+- Account Consolidation
+- Document Retention
+- and more!
+
+Contact Us:
+https://www.smartdraw.com/enterprise/site-license.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=ContactUs-Link&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+
+**********************************************************
+Enterprise-Grade Features
+**********************************************************
+
+SmartDraw gives your organization unparalleled power to 
+communicate better and integrate with the tools you already use.
+
+
+- SmartDraw is the easiest and most powerful way to create 
+	any type of diagram. 
+
+	See how it compares:
+	https://www.smartdraw.com/enterprise/smartdraw-vs-competition.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Competition&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+- SmartDraw integrates with Microsoft Office, G Suite, and 
+	the Atlassian stack. 
+
+	Learn more:
+	https://www.smartdraw.com/integrations/?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Integrations&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+- SmartDraw has the best Visio import and export capability 
+	in the industry. 
+
+	See for yourself:
+	https://www.smartdraw.com/enterprise/visio-import-showcase.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Visio-Import&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+- SmartDraw lets you generate diagrams from data automatically 
+	using built-in extensions. 
+
+	See what's possible:
+	https://www.smartdraw.com/developers/extensions/?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Extensions&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+- SmartDraw is a development platform that allows you to 
+	build apps to generate custom diagrams from your own data. 
+	
+	Explore what you can build:
+	https://www.smartdraw.com/developers/?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Developers&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+
+**********************************************************
+SmartDraw Offers a Secure Way to Work
+**********************************************************
+SmartDraw is comprehensively audited for security and 
+provides a dependable infrastructure. SmartDraw is SOC 2 
+Type II compliant, assuring the highest level of security 
+for your account. We also have redundant data centers and 
+backup processes. We take great measures to make sure your 
+work is always secure. You can work behind the firewall 
+and save your diagrams locally and on your online account. 
+
+Read more about SmartDraw's security practices:
+https://www.smartdraw.com/support/secure.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-Text&utm_medium=Email&utm_content=Security&utm_campaign=Site-License-Emails-Replace-Visio-Windows
+
+**********************************************************
+Trusted by Millions of Customers Worldwide
+**********************************************************
+SmartDraw has been in the business of making diagramming 
+easy for over 20 years. Our customers range from universities 
+and government agencies to over 75% of the Fortune 500. 
+SmartDraw helps businesses improve their processes, plan 
+their strategy, and manage their business better.
+
+
+
+**********************************************************
+Get a SmartDraw Site License
+**********************************************************
+You can buy a site license directly on the site or reach out
+to one of our product specialists for assistance.
+Contact us for more information:
+https://www.smartdraw.com/enterprise/site-license.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License&utm_medium=Email&utm_content=ContactUs-Link-Bottom&utm_campaign=Site-Visio
+
+**********************************************************
+
+Your Account
+The login for your SmartDraw account is: munish_sharma@jcbl.com
+Click here if you forgot your password.
+https://www.smartdraw.com/myaccount/lostpassword.aspx?email=munish_sharma@jcbl.com&slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License&utm_medium=Text-Email&utm_content=Account-Link&utm_campaign=Site-Visio
+
+To keep receiving emails about important
+account information, please consider adding SmartDraw to
+your safe sender or contact list.
+https://www.smartdraw.com/support/safe-sender.htm?slscid=_81F2F993-0A61-4657-B9CB-51EA9EBF06D8
+
+**********************************************************
+You control the e-mail you get from SmartDraw Software:
+https://www.smartdraw.com/support/emailpreferences.aspx?email=munish_sharma@jcbl.com&typeid=1
+
+SmartDraw Software, LLC
+9909 Mira Mesa Blvd.
+San Diego, CA 92131
+USA
+
+All Rights Reserved. (c) 2019 SmartDraw, LLC
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f
+Content-type: text/html; charset=Windows-1252
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Get SmartDraw Companywide for One Low Price</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="x-apple-disable-message-reformatting">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<style type="text/css">
+	@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600); /*Calling our web font*/
+	/* CLIENT-SPECIFIC STYLES */
+	#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+	.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+	body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+	table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+	img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+	/* RESET STYLES */
+	body{margin:0; padding:0;}
+	img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+	table{border-collapse:collapse !important;}
+	body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+	/* iOS BLUE LINKS */
+	.appleBody a {color:#68440a; text-decoration: none;}
+	.appleFooter a {color:#999999; text-decoration: none;}
+
+	/* MOBILE STYLES */
+	@media screen and (max-width: 525px) {
+
+		/* ALLOWS FOR FLUID TABLES */
+		table[class="wrapper"]{
+			width:100% !important;
+		}
+
+		/* ADJUSTS LAYOUT OF LOGO IMAGE */
+		td[class="logo"]{
+			text-align: left;
+			padding: 20px 0 20px 0 !important;
+		}
+
+		td[class="logo"] img{
+			margin:0 auto!important;
+		}
+
+		/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+		td[class="mobile-hide"]{
+			display:none;}
+
+			img[class="mobile-hide"]{
+				display: none !important;
+			}
+
+			img[class="img-max"]{
+				max-width: 100% !important;
+				height:auto !important;
+			}
+
+			/* FULL-WIDTH TABLES */
+			table[class="responsive-table"]{
+				width:100%!important;
+			}
+
+			.responsive-block {
+				display: block !important;
+				margin: auto !important;
+				padding: 0 !important;
+				border: none !important;
+			}
+
+			.responsive-CTA {
+				width: 50%;
+				display: block;
+				margin: auto;
+			}
+
+			.iphone-fix {
+				padding: 10px 30px 10px 30px !important;
+				text-align: left !important;
+			}
+
+			.iphone-padding-spaceBottom {
+				padding: 10px 10% 45px 10% !important; 
+			}
+
+			.iphone-spacerBottom {
+				padding-bottom: 45px;
+			}
+
+			.iphone-padding-spacerTop {
+				padding-top: 45px !important;
+			}
+
+			.iphone-h3 {
+				font-size: 30px !important;
+			}
+
+			.iphone-socialMediaHeaderContainer {
+				padding: 0px 30px 0px 30px !important;
+			}
+
+			.iphone-socialMediaHeader {
+				display: block !important;
+			}
+
+			.iphone-socialMediaHeader-firstRow {
+				width: 440px !important;
+			}
+
+			.iphone-socialMediaHeader .iphone-text {
+				font-size: 16px !important;
+			}
+
+			.gmail-fix {
+				display: none !important;
+			}
+
+			.iphone-text {
+				font-size: 26px !important;
+			}
+
+			.iphone-hide {
+				display: none !important;
+			}
+
+			.iphone-break {
+				display: block !important;
+			}
+
+			.iphone-h1 {
+				font-size: 40px !important;
+			}
+
+			.iphone-h1-spacer {
+				padding: 45px 10% 10px 10% !important
+			}
+
+			.iphone-header {
+				font-size: 34px !important;
+				padding-top: 20px !important
+			}
+
+			.iphone-subheader {
+				font-size: 30px !important;
+				padding-top: 20px !important
+			}
+
+			/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+			td[class="padding"]{
+				padding: 10px 5% 15px 5% !important;
+			}
+
+			.padding-copy{
+				padding: 10px 10% 10px 10% !important;
+			}
+
+			.padding-copy.iphone-padding-spacerTop {
+				padding-top: 40px !important;
+			}
+
+			.iphone-img {
+				width: 80%;
+			}
+
+			td[class="padding-meta"]{
+				padding: 30px 5% 0px 5% !important;
+				text-align: center;
+			}
+
+			td[class="no-pad"]{
+				padding: 0 0 20px 0 !important;
+			}
+
+			td[class="no-padding"]{
+				padding: 0 !important;
+			}
+
+			.no-padding {
+				padding: 0 !important;
+			}
+
+			.img-padding-spaceBottom {
+				padding: 10px 5% 45px 5% !important
+			}
+
+			td[class="section-padding"]{
+				padding: 10px 15px 10px 15px !important;
+			}
+
+			td[class="section-padding-bottom-image"]{
+				padding: 50px 15px 0 15px !important;
+			}
+
+			/* ADJUST BUTTONS ON MOBILE */
+			td[class="mobile-wrapper"]{
+				padding: 10px 5% 15px 5% !important;
+			}
+
+			table[class="mobile-button-container"]{
+				margin:0 auto;
+				width:100% !important;
+			}
+
+			a[class="mobile-button"]{
+				width:80% !important;
+				padding: 15px !important;
+				border: 0 !important;
+				font-size: 16px !important;
+			}
+
+		}
+	</style>
+</head>
+<body style="margin: 0; padding: 0;">
+	<div style="display: none; visibility: hidden;">Get SmartDraw Companywide for One Low Price</div>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td style="letter-spacing: 596px; line-height: 0; mso-hide: all">
+				&nbsp;
+			</td>
+		</tr>
+	</table>
+	<table width="600" align="center" class="gmail-fix">
+		<tr>
+			<td style="line-height: 1px; min-width: 600px;" height="1">
+				<img src="http://wc1.smartdraw.com/specials/mailings/images/cloud/spacer.png" width="600" height="1" style="display: block; max-height: 1px; min-height: 1px; min-width: 600px; width: 600px;">
+			</td>
+		</tr>
+	</table>
+
+	<!-- HEADER -->
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td bgcolor="#375491">
+				<div align="center" style="padding: 0px 15px 0px 15px;">
+					<table border="0" cellpadding="0" cellspacing="0" width="600" class="wrapper">
+						<!-- GRAY BAR -->
+						<tr>
+							<td style="padding: 30px 0px 20px 0px;">
+								<table bgcolor="#375491" width="370" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:auto; font-family: 'Open Sans', Verdana, sans-serif;">
+									<tbody>
+										<tr>
+											<td align="middle" style="font-family: 'Open Sans', Verdana, sans-serif; color: #eeeeee; font-size: 12px; padding-left: 0;">
+												<img src="http://wc1.smartdraw.com/specials/mailings/images/trial-new/sd_logo_white.png" border="0" alt="SmartDraw&nbsp;" style="display: block; padding: 0; margin: auto;" class="img-max">
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+
+
+	<!-- ONE COLUMN SECTION -->
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td align="center" style="padding: 0 15px 0px 15px;" class="section-padding">
+				<table border="0" cellpadding="0" cellspacing="0" width="600">
+					<tr>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" style="padding: 40px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;" class="iphone-h1-spacer"><font face="'Open Sans', Verdana, sans-serif" class="iphone-h1" style="font-size:36px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Get SmartDraw Companywide for One Low Price with a Site License</font>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td class="padding-copy">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td style="text-align: center; padding-top: 20px;">
+													<img src="http://wc1.smartdraw.com/_mailings/images/site/smartdraw-site-license.png" height="auto" border="0" alt="Companies that trust SmartDraw" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">SmartDraw offers you Enterprise-grade features with security you can rely on, all in an easy-to-administer site license package.</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">With SmartDraw's site license, one annual fee offers access to both the browser-based and Windows desktop versions of SmartDraw for your entire organization. You can add users without having to purchase additional seats.</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" class="padding-copy" style="padding: 45px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;"><font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size:24px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Exclusive to the Site License</font>
+												</td>
+											</tr>
+										</table>
+										<!-- COPY -->
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 10px;" class="padding-copy"><font class="iphone-text" style="font-size: 16px;" face="'Open Sans', Verdana, sans-serif">
+													<ul style="padding-top: 0; margin-top: 0;">
+														<li style="margin-bottom:7px;">Single Sign-On (SSO)</li>
+														<li style="margin-bottom:7px;">Access to All Versions of SmartDraw</li>
+														<li style="margin-bottom:7px;">Domain Restricted Sign-On (if not using SSO)</li>
+														<li style="margin-bottom:7px;">Account Consolidation</li>
+														<li style="margin-bottom:7px;">Document Retention</li>
+														<li style="margin-bottom:7px;">and more!</li>
+													</ul>
+												</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonCTA" style="border-radius:3px; background-color:#0088CC; text-align:center; margin: auto;">
+										<tbody>
+											<tr style="text-align:center; margin:auto;">
+												<td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px; text-align:center; margin: auto;">
+													<font face="'Open Sans', Verdana, sans-serif"><a class="iphone-text" href="https://www.smartdraw.com/enterprise/site-license.htm?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Contactus-Link&utm_campaign=Site-License-Emails-Replace-Visio-Windows" target="_blank" style="color:#FFFFFF; width:220px; text-align:center; font-size:20px; margin: auto; font-weight:bold; text-decoration:none;">Contact Us</a>
+													</font>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</tr>
+
+
+
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" class="padding-copy iphone-padding-spacerTop" style="padding: 45px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;"><font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size:24px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Enterprise-Grade Features</font>
+												</td>
+											</tr>
+										</table>
+										<!-- COPY -->
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 10px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">SmartDraw gives your organization unparalleled power to communicate better and integrate with the tools you already use.</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td class="padding-copy">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td style="text-align: center; padding-top: 20px;">
+													<img src="http://wc1.smartdraw.com/_mailings/images/site/generate-diagrams.png" height="auto" border="0" alt="Companies that trust SmartDraw" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="left" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px;" class="iphone-padding-spaceBottom"><font class="iphone-text" style="font-size: 16px;" face="'Open Sans', Verdana, sans-serif">
+													<ol style="margin-top: 0; margin-bottom: 0;">
+														<li style="margin-bottom:7px;">SmartDraw is the easiest and most powerful way to create any type of diagram. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/enterprise/smartdraw-vs-competition.htm?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Competition&utm_campaign=Site-License-Emails-Replace-Visio-Windows">See how it compares.</a></li>
+														<li style="margin-bottom:7px;">SmartDraw integrates with Microsoft Office, G Suite, and the Atlassian stack. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/integrations/?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Integrations&utm_campaign=Site-License-Emails-Replace-Visio-Windows">Learn more.</a></li>
+														<li style="margin-bottom:7px;">SmartDraw has the best Visio import and export capability in the industry. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/enterprise/visio-import-showcase.htm?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Visio-Import&utm_campaign=Site-License-Emails-Replace-Visio-Windows">See for yourself.</a></li>
+														<li style="margin-bottom:7px;">SmartDraw lets you generate diagrams from data automatically using built-in extensions. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/developers/extensions/?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Extensions&utm_campaign=Site-License-Emails-Replace-Visio-Windows">See what's possible.</a></li>
+														<li style="margin-bottom:0;">SmartDraw is a development platform that allows you to build apps to generate custom diagrams from your own data. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/developers/?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Developers&utm_campaign=Site-License-Emails-Replace-Visio-Windows">Explore what you can build.</a></li>
+													</ol>
+												</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+						
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" class="padding-copy" style="padding: 45px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;"><font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size:24px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">SmartDraw Offers a Secure Way to Work</font>
+												</td>
+											</tr>
+										</table>
+										<!-- COPY -->
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 10px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">SmartDraw is comprehensively audited for security and provides a dependable infrastructure. SmartDraw is SOC 2 Type II compliant, assuring the highest level of security for your account.
+												We also have redundant data centers and backup processes. We take great measures to make sure your work is always secure.
+												You can work behind the firewall and save your diagrams locally and on your online account. <a style="text-decoration: none; color: #266e9c;" href="https://www.smartdraw.com/support/secure.htm?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Security&utm_campaign=Site-License-Emails-Replace-Visio-Windows">Read more about SmartDraw's security practices.</a></font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td class="padding-copy">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td style="text-align: center; padding-top: 20px;">
+													<img src="http://wc1.smartdraw.com/_mailings/images/site/safe-cloud.png" height="auto" border="0" alt="Companies that trust SmartDraw" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" class="padding-copy iphone-padding-spacerTop" style="padding: 45px 0 0 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;"><font class="iphone-header" face="'Open Sans', Verdana, sans-serif" style="font-size:24px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Trusted by Millions of Customers Worldwide</font>
+												</td>
+											</tr>
+										</table>
+										<!-- COPY -->
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 10px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">SmartDraw has been in the business of making diagramming easy for over 20 years. Our customers range from universities and government agencies to over 75% of the Fortune 500.</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td class="padding-copy">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td style="text-align: center; padding-top: 20px;">
+													<img src="http://wc1.smartdraw.com/_mailings/images/site/logos.png" width="550" height="auto" border="0" alt="Companies that trust SmartDraw" style="display: block; margin: auto; padding: 0; color: #266e9c; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px;" class="img-max">
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="font-family: 'Open Sans', Verdana, sans-serif; color: #666666; padding-top: 20px; font-size: 16px;" class="padding-copy iphone-text"><font face="'Open Sans', Verdana, sans-serif">SmartDraw helps businesses improve their processes, plan their strategy, and manage their business better.</font></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+
+
+
+								<tr>
+									<td align="middle">
+										<table>
+											<tr>
+												<td valign="top" align="center" class="padding-copy" style="padding: 45px 0 15px 0; color: #666666; font-family: 'Open Sans', Verdana, sans-serif;"><font face="'Open Sans', Verdana, sans-serif" class="iphone-header" style="font-size:30px; font-weight:400;margin-top:10px;margin-bottom:7px;line-height:110%; color: #666;">Get a SmartDraw Site License</font>
+												</td>
+											</tr>
+										</table>
+										<!-- COPY -->
+									</td>
+								</tr>
+
+								<tr>
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonCTA" style="border-radius:3px; background-color:#0088CC; text-align:center; margin: auto;">
+										<tbody>
+											<tr style="text-align:center; margin:auto;">
+												<td align="center" valign="middle" class="emailButtonContent" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px; text-align:center; margin: auto;">
+													<font face="'Open Sans', Verdana, sans-serif"><a class="iphone-text" href="https://www.smartdraw.com/enterprise/site-license.htm?slscid=7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8&utm_source=Site-License-Email-1&utm_medium=Email&utm_content=Contactus-Link-Bottom&utm_campaign=Site-License-Emails-Replace-Visio-Windows" target="_blank" style="color:#FFFFFF; width:220px; text-align:center; font-size:20px; margin: auto; font-weight:bold; text-decoration:none;">Contact Us</a>
+													</font>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</tr>
+
+
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+
+
+
+
+
+	<!-- FOOTER -->
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td bgcolor="#ffffff" align="center" style="padding: 60px 0px;">
+				<!-- UNSUBSCRIBE COPY -->
+				<table bgcolor="#375491" width="100%">
+					<tr>
+						<td style="padding-top: 40px; padding-bottom: 60px">
+							<table bgcolor="#375491" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin: auto;">
+								<tr>
+									<td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#ffffff;">
+										<span class="appleFooter" style="color:#ffffff;">You control the e-mail you get from SmartDraw Software: <a href="https://www.smartdraw.com/support/emailpreferences.aspx?email=munish_sharma@jcbl.com&TypeID=1" style="color: #ffffff; text-decoration: underline;" target="_blank">Unlist</a></span><br><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">SmartDraw Software, LLC | <a href="" style="text-decoration:none;color:#ffffff;">9909 Mira Mesa Blvd. | San Diego, CA 92131 | USA</a></span><br /><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #ffffff;">&copy;1994-2019 SmartDraw, LLC</span>
+									</td>
+								</tr>
+							</table>
+							<br />
+							<table bgcolor="#375491" width="300" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:auto;">
+								<tr>
+									<td bgcolor="#375491"><a href="https://twitter.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-twitter.png" alt="SmartDraw's Twitter" border="0" style="display:block"></a></td>
+									<td bgcolor="#375491"><a href="https://www.facebook.com/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-facebook.png" alt="SmartDraw's Facebook " border="0" style="display:block"></a></td>
+									<td bgcolor="#375491"><a href="https://www.linkedin.com/company/smartdraw-software-llc"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-linkedin.png" alt="SmartDraw's LinkedIn" border="0" style="display:block"></a></td>
+									
+									<td bgcolor="#375491"><a href="https://www.pinterest.com/smartdraw/"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-pinterest.png" alt="SmartDraw's Pinterest" border="0" style="display:block"></a></td>
+									<td bgcolor="#375491"><a href="https://www.youtube.com/user/smartdraw"><img src="http://wc1.smartdraw.com/specials/mailings/images/2015/icon-youtube.png" alt="SmartDraw's YouTube" border="0" style="display:block"></a></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<img src="https://www.smartdraw.com/images/7678_6475154_81F2F993-0A61-4657-B9CB-51EA9EBF06D8.aspx" width="1" height="1" border="0">
+</body>
+</html>
+------=_NextPart_6184a15e_5e86_4c6b_b8ff_4e1454f2514f--

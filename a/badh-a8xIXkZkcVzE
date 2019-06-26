@@ -1,0 +1,60 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <accounts@hudsonbroker.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a8xIXkZkcVzE>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a8xIXkZkcVzE for <accounts@hudsonbroker.in>;
+	Tue, 17 Jul 2018 13:27:03 +0530 (IST)
+Received: from smtp2-outgoing.mail.rjil.net (smtp2-outgoing.mail.rjil.net [49.40.2.144])
+	by mx10.jcbl.com (Postfix) with SMTP id ED2D51062D9E
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 17 Jul 2018 13:27:01 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp2-outgoing.mail.rjil.net (Postfix) with ESMTP id A8E8A280BC3
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 17 Jul 2018 13:30:56 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id A6EC466
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 17 Jul 2018 13:30:56 +0530 (IST)
+From: Jio Notifications <Notification@Jio.com>
+To: ACCOUNTS@HUDSONBROKER.IN
+Message-ID: <581583253.22653530.1531814456685.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Recharge successful for Jio Number 6283062023
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_22653529_1015474429.1531814456681"
+Bounce_Header: 176248754728885248
+format: flowed
+
+------=_Part_22653529_1015474429.1531814456681
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Dear Customer,&nbsp;</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Thank you for choosing Jio.&nbsp;</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Recharge of Rs. 248 is successful for your Jio Number 6283062023.&nbsp;</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">As part of the recharge, you are entitled to the following benefits:&nbsp;</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Benefits: Free Voice, Unlimited Data (1.5GB High Speed Data per day, thereafter unlimited at 64Kbps), 100SMS/day and Complimentary Subscription to Jio Apps. Validity: 28days.</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Your Transaction ID is BR0001FT99NC.&nbsp;</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">To manage your account, check plan information, validity and to register for JioPay, click https://www.jio.com/deeplink?id=autopay</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Dial 1991, to know your current balance, validity, plan details and for exciting recharge plans.</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;"><br /></span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Thank you,</span></font></p>
+  <p style="margin: 0in;"><font face="tahoma"><span style="font-size: 12px;">Team Jio</span></font></p>
+ </body>
+</html>
+------=_Part_22653529_1015474429.1531814456681--

@@ -1,0 +1,89 @@
+Return-Path: <letters_from_santa-baljit_sidhu=mslindia.net@rareculium.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <baljit_sidhu@mslindia.net>
+X-Envelope-To-Blocked: <baljit_sidhu@mslindia.net>
+X-Quarantine-ID: <aL_kMxqIMoUl>
+X-Spam-Flag: YES
+X-Spam-Score: 11.885
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.885 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_28=0.726, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MIME_QP_LONG_LINE=0.001, MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aL_kMxqIMoUl for <baljit_sidhu@mslindia.net>;
+	Thu,  6 Dec 2018 12:08:41 +0530 (IST)
+Received: from mail.rareculium.com (rareculium.com [103.110.208.57])
+	by mx10.jcbl.com (Postfix) with ESMTP id 682F3F44347
+	for <baljit_sidhu@mslindia.net>; Thu,  6 Dec 2018 12:08:39 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=rareculium.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=letters_from_santa@rareculium.com;
+ bh=Dmxxog13RKWBaaC81OeWk395jgc=;
+ b=nXkOQfsUke9wSPqMQoHNpzxj2i7u6vJuKuwz+fza4p0GWQuTzKjfG1VG3+av7VARSPiBxww4l5vb
+   0q6KDmOl309Q27n1bvr5T0vea7WPE6DQZOLLlDFbxYmQvWa45UmI50Vj5JIjo1HDb7iTEagiX215
+   EfW2idoGo30/1NJoX5k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=rareculium.com;
+ b=WSEhXaWpSSwL/hacWTGTW9qTrtqVHAUnUgDUutkzDhiW75DvqaGj9y/IQZ3aXCy88VIA/QK1ez6a
+   XHs/akpKg+wtpKtZsor81IFyk82JSVmVTfiXgpL6DC1nBViYaXtyBziW1tO4oWYX5CbST6zbVvRZ
+   SJOoOQguBhjp1gW734w=;
+Received: by mail.rareculium.com id h1325q0001gv for <baljit_sidhu@mslindia.net>; Thu, 6 Dec 2018 01:37:30 -0500 (envelope-from <letters_from_santa-baljit_sidhu=mslindia.net@rareculium.com>)
+Date: Thu, 6 Dec 2018 01:37:30 -0500
+From: "Letters From Santa" <letters_from_santa@rareculium.com>
+To:   <baljit_sidhu@mslindia.net>
+Subject: Santa Claus Letters
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_73_1949037557.1544078231856"
+List-Unsubscribe: <http://www.rareculium.com/8634j2385MwX8910pw11sg9a4n26qFDhcbx_wbHa4fiwhbrHbDErIx7C1OU0Nw9e@iWqLwx9/bloomed-beggary>
+Message-ID: <0.0.0.23.1D48D2E29578C52.6AB6C0@mail.rareculium.com>
+
+------=_Part_73_1949037557.1544078231856
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <meta charset=3D"utf-8" />=20
+  <title></title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"width:400px; ">Santa Claus has a <a href=3D"http://www.rareculium.com/Ve36q23N_85BY86D12m3bc1uRt9a4Y26CFDhcbx_wbHa4fiwhbrHbDErIx6D10jyR10Q0@jJiwLx9/Bern-greenly" targe=
+t=3D"_blank">Personalized Santa Letter Package</a> for YOUR child!<br /> <b=
+r /> Send your child or relative a personalized letter from Santa this holi=
+day season!!<br /> <br /> Your letter is personalized for your child, signe=
+d by Santa and sent from the North Pole directly to their house! This truly=
+ makes this holiday season a magical one!<br /> <br /> Santa' s Package inc=
+ludes a personalized letter written and signed by Santa, a personalized Off=
+icial Nice List Certificate, Santa' s Map and Santa' s Nice List that Santa=
+ Checked Twice!<br /> <br /> <strong><a href=3D"http://www.rareculium.com/Ve36q23N_85BY86D12m3bc1uRt9a4Y26CFDhcbx_wbHa4fiwhbrHbDErIx6D10jyR10Q0@jJiwLx9/Bern-greenly" target=3D"_blan=
+k">--&gt; Check it out now and make this season special! &lt; -- </a></stro=
+ng><br /> <br /> Official Letters From Santa,<br /> Santa Support<br /> <br=
+ /> <strong>PS Don' t forget, we have a very special surprise</strong> that=
+ we offer to our Customers Only. After your order is placed, you will see w=
+hat all the excitement is about!! <a href=3D"http://www.rareculium.com/Ve36q23N_85BY86D12m3bc1uRt9a4Y26CFDhcbx_wbHa4fiwhbrHbDErIx6D10jyR10Q0@jJiwLx9/Bern-greenly" target=3D"_blank">=
+Your child' s face will light up with pure excitement!</a><br /> <br /> <br=
+ /> <br /> <br /> <br /> <br /> &nbsp; </p>=20
+  <center>=20
+   <p style=3D"text-align: left; "><span style=3D"font-family:trebuchet ms,=
+helvetica,sans-serif; ">Sponsored by Holiday Printables Inc<br /> 221 Beach=
+ rd. suite 182 Siesta Key, FL 34242<br /> <a href=3D"http://www.rareculium.com/1014N2385a86Ii10J3bc2S9a4A26aFDhcbx_wbHa4fiwhbrHbDErIx7ADWPG1010apU0iwx9j1/incomprehensibly-suspenses" target=3D"=
+_blank">Unsubscribe</a></span></p>=20
+  </center>=20
+  <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><img bord=
+er=3D"0" height=3D"1" src=3D"http://www.rareculium.com/bloomed-beggary/42c5N2X385r7axp11d3bc4DX9a4k26yFDhcbx_wbHa4fiwhbrHbDErIx6z1VRr09hlL2liwx9" width=3D"1" /></span>=20
+  <div>
+   <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><span st=
+yle=3D"font-size:14px; ">To be removed <a href=3D"http://www.rareculium.com/Goleta-Priestley/71a4f2385fB89i12d3XbcK3R9a4F26eFDhcbx_wbHa4fiwhbrHbDErIx7dvi1WC09dLiM3wx9k">view =
+here</a><br /> 1130 University Boulevard Suite:5685A Tuscaloosa, AL 35401</span></span>
+  </div>  =20
+ <img src=3D"http://www.rareculium.com/tardy-ornaments/3965t2A385Cq8z511Sm3bc5j9a4B26tFDhcbx_wbHa4fiwhbrHbDErIx7f1W0vUz10Q0l@ilwxj9" alt=3D""/></body>
+</html>
+
+------=_Part_73_1949037557.1544078231856--
+

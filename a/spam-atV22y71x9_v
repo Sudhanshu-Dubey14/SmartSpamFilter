@@ -1,0 +1,55 @@
+Return-Path: <1545497481.5c1e6b898b693@realwebtiem.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <gagandeep_rattan@jcbl.com>
+X-Envelope-To-Blocked: <gagandeep_rattan@jcbl.com>
+X-Quarantine-ID: <atV22y71x9_v>
+X-Spam-Flag: YES
+X-Spam-Score: 14.948
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.948 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_06_12=1.103, DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_08=1.781, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.139, INVALID_MSGID=1.167,
+	MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, TO_NO_BRKTS_NORDNS=0.001, T_REMOTE_IMAGE=0.01,
+	T_URIBL_SEM_RED=0.01, URIBL_JP_SURBL=1.948] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id atV22y71x9_v for <gagandeep_rattan@jcbl.com>;
+	Sun, 23 Dec 2018 04:45:04 +0530 (IST)
+Received: from v10.websoftwear.org (unknown [185.216.84.138])
+	by mx10.jcbl.com (Postfix) with ESMTPS id ECEB6F44726
+	for <gagandeep_rattan@mslindia.net>; Sun, 23 Dec 2018 04:45:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mask; d=realwebtiem.info;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=rombus.cristain@realwebtiem.info;
+ bh=r2soQxCzMguHgABcH3sUiQgLhjI=;
+ b=sDlQOrdzkkNoYi1lurGJMQXWuMj6+eArCwQ5P7jNsuuOGza3G/9Jyd3/s91nkMeKkHXg+C6nN6jF
+   BZkJTk+yhev3tQy/a48ZOfugqpvaLbVff+OesOeEkQInnwAF8y7QNm+irN8JFOw7pAkhWQhgqwvR
+   t0vdhKosuFiMDxHDehU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mask; d=realwebtiem.info;
+ b=OSf616IKqKyIRP8Y88SMdK0ZCvloDwS4k4sXaQtzp1jnNbipN7jT28EonSJeWTsiMuWn814tkqkM
+   XyMVbvYh4SThJDOK5lQeCqGKlVvVaUHhlPMtk9DK4nRpTmA2t1BLHjnubTLluEjUcSIpesjp/tnN
+   TJqpz/gwNEIpbiWQRNI=;
+Date: Sat, 22 Dec 2018 11:51:21 -0500
+To: gagandeep_rattan@mslindia.net
+From: Survival Tools <rombus.cristain@realwebtiem.info>
+Subject: =?iso-8859-1?Q?This_one_item_is_my_GO-TO_secret_weapon=E2=80=A6?=
+Message-ID: <MTU0NTQ5NzQ4MS41YzFlNmI4OTg5ZjQxLk1UZzFMakl4Tmk0NE5DNHhNemc9LlE1LVRhY0xpdGVfMC5yb21idXMuY3Jpc3RhaW5AcmVhbHdlYnRpZW0uaW5mbw==@rombus3rr.realwebtiem.info >
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p style="text-align: center;">
+			<a href="http://enjoyoffers.biz/dfghgfghn/dfgbfvbhn/dfgbfdfgo"><img alt="" src="https://d3k81ch9hvuctc.cloudfront.net/company/rinX8j/images/bbee0dd6-09ea-425f-8a34-3618400c3331.png" /></a></p>
+		<p style="text-align: center;">
+			<a href="http://enjoyoffers.biz/sdfgnbgbn/dfbbfg/sdvfcfvu"><img alt="" src="https://d3k81ch9hvuctc.cloudfront.net/company/rinX8j/images/80959048-3f5b-4d68-96af-eace9b1d888d.png" /></a></p>
+	</body>
+</html>
+<img src="http://enjoyoffers.biz/swdefgfrg/defgdfg/OO/PT1BZGw1bUxobEdadWxHYnoxR1F1RkdkMEZtY2ZCWFpsUm1iaGRXWW54SGZ3OFZaMGxHVGpGR1Z0VVRV" alt="" width="1" height="1" border="0">
+

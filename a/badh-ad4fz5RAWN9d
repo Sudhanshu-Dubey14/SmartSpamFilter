@@ -1,0 +1,27 @@
+Return-Path: <accounts@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <frankf763@yahoo.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ad4fz5RAWN9d>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "From"
+X-Spam-Flag: NO
+X-Spam-Score: -0.858
+X-Spam-Level:
+X-Spam-Status: No, score=-0.858 tag=x tag2=x kill=x tests=[ALL_TRUSTED=-1,
+	MISSING_MID=0.14, TVD_RCVD_IP4=0.001, TVD_RCVD_IP=0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ad4fz5RAWN9d for <frankf763@yahoo.com>;
+	Tue, 25 Dec 2018 20:48:34 +0530 (IST)
+Received: from 103.99.201.67 (unknown [185.216.140.190])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 35B68F446DD
+	for <frankf763@yahoo.com>; Tue, 25 Dec 2018 20:48:32 +0530 (IST)
+Subject: [fixed smtp] 103.99.201.67,accounts@jcbl.com,jcbl2
+To: frankf763@yahoo.com
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Date: Tue, 25 Dec 2018 10:30:52 -0500
+X-Priority: 3
+X-Library: Indy 9.00.10
+
+Message text

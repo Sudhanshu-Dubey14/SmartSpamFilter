@@ -1,0 +1,90 @@
+Return-Path: <bounce.8272.25799830.25793067@pr11.eagalprp.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <ranjeet.singh@mslindia.net>
+X-Envelope-To-Blocked: <ranjeet.singh@mslindia.net>
+X-Quarantine-ID: <aYr-6mdde3pj>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 8.648
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.648 tag=2 tag2=6.31 kill=6.31
+	tests=[DOS_RCVD_IP_TWICE_B=0.001, FORGED_RELAY_MUA_TO_MX=0.001,
+	HTML_IMAGE_ONLY_08=1.781, HTML_IMAGE_RATIO_02=0.805,
+	HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_1=0.139, MISSING_DATE=1.396,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, T_DKIM_INVALID=0.01, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aYr-6mdde3pj for <ranjeet.singh@mslindia.net>;
+	Thu, 28 Feb 2019 22:22:18 +0530 (IST)
+Received: from pr11.eagalprp.com (pr11.eagalprp.com [66.7.149.152])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 422B21049130
+	for <ranjeet.singh@mslindia.net>; Thu, 28 Feb 2019 22:22:15 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1551372583;
+	s=pgmins2018; d=pg.e-mzone.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=1174; bh=M4ZuIWvtZBcE0LHPq6iBEquR3T9zor0VYtG6DL2+3Ao=;
+	b=49e++Or4CtKXgD2n/hQlSXmac3SHZtFC1lu1w+kcustP0/5xya8kaivlSsjqZ6sc
+	KvOzYoCMFdWJ4tSQfaf0H5MmmQGF1AvGSRPQ5v4o0DFPnRE9TeyTsMLzrLhdDTvref9
+	OjWW3lSYDXFFTvVvQ71mDHaJGtGO1Xr55+SbOmu9XKh+vyUBDFADf+Z9bJfW5dn/TQr
+	aQupJ+WlEu7MyR2QPd+kYktcG950FlhUCac1XGcnRDRyzoVI75KkEf0V7h69alx0wCi
+	Xu0h4mnOB5md1Z53mU2iCS4TYzHRvXv6lBDSljM7PTuxu+WjnD4uadEYBAP/S37F8ix
+	1aKxpHuBdA==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1551372583;
+	s=pgmins2018; d=eagalprp.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	l=1174; bh=M4ZuIWvtZBcE0LHPq6iBEquR3T9zor0VYtG6DL2+3Ao=;
+	b=pATiASiq3JSEApxYMl8DJiqDL+RVtI6Hd928LOLUSztce/5tnIC22Id2WYRt1Igj
+	o2SbiXMsxrTxAlv7AmkG29rNFNoZCvPRUwLIs9HbF+yukw/SFtl/p4yZsYAuuJTBhA0
+	gGjviWSHIANSbqtpQHIxAhxGw/pgKyGgkiapYNfRDi7ZsC4zAfWO1iII5sQAAGnqx6d
+	qd9aKghmfQ2kXUopsNCPKN/+rx/NMl59cnREITQYPI/utuRohuLT7rU6oKcP0TvBrDD
+	qvZmex1kk9LHnDR9X/reONxncyuz3IHB9tjxoUmUFZrsrG8dPDp5/Sy/B5zBfACTHAs
+	sYtroPZorA==
+From: Pigeonmails <info@pg.e-mzone.com>
+Reply-To: info@pg.e-mzone.com
+To: ranjeet.singh@mslindia.net
+Message-ID: <25800712.190228101943243@pr11.eagalprp.com>
+Subject: Grow Your Business with Pigeonmails
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3669509_1345892966.1551372583132"
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://cp.pigeonurl.com/email/email/unsubscribe/25800712>
+Feedback-ID: 8272:2739:inspfx
+Precedence: bulk
+X-Originating-IP: 66.7.149.152
+
+------=_Part_3669509_1345892966.1551372583132
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Pigeonmails
+
+http://cp.pigeonurl.com/email/email/clickEmail/8272/25800712/d23e7
+
+
+------=_Part_3669509_1345892966.1551372583132
+Content-Type: text/html; charset=UTF-8 
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<title>Pigeonmails</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<div align=3D"center">
+<a href=3D"http://cp.pigeonurl.com/email/email/clickEmail/8272/25800712/d23=
+e7" target=3D"_blank">
+=09=09=09<img src=3D"http://postimage.in/pegionmails/pigeonemail.jpeg" widt=
+h=3D"500" height=3D"700" alt=3D"">
+</a>
+</div>
+</body>
+</html>
+<div style=3D'width:100%;float:left;text-align: center;'><p style=3D'font-s=
+ize: 11px;' >To stop receiving these emails please <a href=3D'http://cp.pig=
+eonurl.com/email/email/unsubscribe/25800712' >Unsubscribe</a> here.</p></di=
+v><img alt=3D'insign' src=3D'http://cp.pigeonurl.com/email/email/openEmail/=
+8272/25800712' width=3D'1' height=3D'1' style=3D'display:none'/>
+------=_Part_3669509_1345892966.1551372583132--
+

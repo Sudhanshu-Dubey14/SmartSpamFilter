@@ -1,0 +1,211 @@
+Return-Path: <bounce@etauto.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <deepak_kapoor@globeauto.in>
+X-Envelope-To-Blocked: <deepak_kapoor@globeauto.in>
+X-Quarantine-ID: <ayz9DCph5UqE>
+X-Spam-Flag: YES
+X-Spam-Score: 6.52
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.52 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_MISSP_DKIM=0.001, FSL_HELO_NON_FQDN_1=0.001,
+	HELO_LOCALHOST=3.603, HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635,
+	MIME_HTML_ONLY=1.105, RDNS_NONE=1.274] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ayz9DCph5UqE for <deepak_kapoor@globeauto.in>;
+	Fri,  3 May 2019 13:29:16 +0530 (IST)
+Received: from osmtp4.etretail.com (nebero.nebtree [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 9D141EFB0D6
+	for <deepak_kapoor@globeauto.in>; Fri,  3 May 2019 13:29:13 +0530 (IST)
+Received: from localhost (unknown [192.169.2.5])
+	by osmtp4.etretail.com (Postfix) with ESMTP id DD259A0A72
+	for <deepak_kapoor@globeauto.in>; Fri,  3 May 2019 13:29:59 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp4.etretail.com DD259A0A72
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etauto.com;
+	s=default; t=1556870399;
+	bh=hh76d1G6aeepV7kV/wj5v4UedPwfEjySMR0GFYyQkt4=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To:Message-Id:
+	 Date;
+	b=QTbELFymNBWwAHdFTGqaRxpa3SgXoflHnnYfUAsmbxFxSkrWYE5mPlFyfB23U0mA0
+	 TdULUIvKC+iokirBDXBIBJpVgBJKln/ZlRxpg81q4BbmKnybxZitF4ApZJEzFLhxpt
+	 yOjedVjKICulUdYrCLL86MCxlXRCeBgDInjNp4fs=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETAuto<promo@etauto.com>
+To: deepak_kapoor@globeauto.in
+Subject: ETAuto Tech Summit 2019 | What You Should Expect
+Reply-To: no-reply@etauto.com
+Message-Id: <20190503075959.DD259A0A72@osmtp4.etretail.com>
+Date: Fri,  3 May 2019 13:29:59 +0530 (IST)
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> ETAuto Tech Summit 2019 </title>
+
+
+
+
+<table width="100%" bgcolor="#f3f3f3" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+<tbody><tr>
+<td valign="top" style="padding-top: 30px;"> 
+<!--[if gte mso 9]>
+
+<table align="center" width="700" cellpadding="0" bgcolor="#ffffff" cellspacing="0" style="width:600px; margin:auto;">
+<tr>
+<td>
+
+<![endif]-->
+
+<!--[if lte mso 9]>
+
+<table align="center" width="700px" bgcolor="#ffffff" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+<table width="740" style="max-width:740px; background:#ffffff;" bgcolor="#ffffff" align="center" cellpadding="0" cellspacing="0"> 
+ <!-- banner -->
+   	<tbody><tr>
+    	<td align="center" style="border:1px solid #eeeeee; border-bottom:0;">
+ <a href='https://auto.economictimes.indiatimes.com/pl.php?url=https%3A%2F%2Fauto.economictimes.indiatimes.com%2Ftech-summit%3Fag%3Dtoprsnemlr1&activity_name=etauto-techsummit-03may_03-05-2019&emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&email=deepak_kapoor@globeauto.in&uid=892041' target="_blank" style="border:0;">
+ <img src="https://img.etb2bimg.com/files/cp/upload-1556617320-banner-2.jpg" alt="ETAuto Tech Summit 2019" style="display:block; border:0; font-size:20px; color:#000000; font-weight:bold; vertical-align:top;" width="740"> </a></td>  
+    </tr>
+    <tr>
+        <td align="center" style="border:1px solid #eeeeee; border-bottom:0;padding: 20px 0px 0px;text-align: center;"><!--
+ <a href='https://auto.economictimes.indiatimes.com/pl.php?url=https%3A%2F%2Fauto.economictimes.indiatimes.com%2Ftech-summit%3Fag%3Dtoprsnemlr1&activity_name=etauto-techsummit-03may_03-05-2019&emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&email=deepak_kapoor@globeauto.in&uid=892041' target="_blank" style="border:0;">-->
+ <img src="https://img.etb2bimg.com/files/cp/upload-1556617751-sponsar.jpg" alt="ETAuto Tech Summit 2019" style=" border:0; font-size:20px; color:#000000; font-weight:bold; vertical-align:top;" width=""> </td>  
+    </tr>
+    
+    <tr>
+    	<td style="background:#ffffff; padding:20px 50px 20px; font-family:Arial, sans-serif; font-size:17px; line-height:21px; color:#000000;">
+        	<table width="100%" cellpadding="0" cellspacing="0">
+            <!--	<tr>
+                    <td align="left" style="font-family:Arial, sans-serif; font-size:18px; line-height:26px; color:#888888; font-weight:bold; padding-bottom: 20px;  ">
+                        Simulating & Manufacturing Connected, Electrified, Shared Mobility in Digitized World
+                    </td>
+                </tr>-->
+                <tbody><tr>
+                	<td align="center" style="font-family:Arial, sans-serif; font-size:16px; line-height:26px; color:#333333; ">
+                        ETAuto Tech Summit 2019 will be a platform to bring together a congregation of global research &amp; development heads, innovators, designers to usher the automobile industry towards the mega transition in a digitised and automated industry 4.0 era.
+                    </td>
+                </tr>
+                               
+              
+            </tbody></table>
+        </td>
+    </tr>
+   
+     <tr>
+        <td style="background:#ffffff; padding:0px 50px 10px; font-family:Arial, sans-serif; font-size:17px; line-height:21px; color:#000000;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td align="center" style="padding-top:5px; color:#0597d5; font-size:24px; font-weight:bold; text-transform:uppercase; font-family:Arial, sans-serif; padding-bottom:10px;">
+                        Key Takeaways
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <table width="80" cellpadding="0" cellspacing="0">
+                            <tbody><tr><td style="height:1px; width:80px; background:#fccd37;" width="80"></td></tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top" style="padding-top: 20px;">
+                        <table width="100%">
+                            <tbody><tr>
+                                <td valign="top" width="100%" align="Center">
+                                   
+ <img src="https://img.etb2bimg.com/files/cp/upload-1556698329-key-takeaways.png" alt="ETAuto Tech Summit 2019" style="display:block; border:0; " width="">
+                                </td>
+                               
+                            </tr>
+                        </tbody></table>                    
+                    </td>
+                </tr>
+            </tbody></table>       
+        </td>
+     </tr>
+    <tr>
+        <td style="background:#ffffff; padding:10px 50px 15px; font-family:Arial, sans-serif; font-size:22px; line-height:27px; color:#000;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td align="center" style="font-family:Arial, sans-serif; font-size:22px; line-height:27px; color:#000; font-weight: bold;">
+                               
+                   Don’t miss this opportunity to <br>
+                    position your business for success!
+             
+                    </td>
+                </tr>
+                               
+              
+            </tbody></table>
+        </td>
+    </tr>
+     <tr>
+     	<td align="center" style="padding:10px 50px 30px">
+        	<table width="" cellpadding="0" cellspacing="0">
+            	<tbody><tr>
+                	<td align="center" height="" valign="middle" style="background:#fdb912; border-radius: 1px; font-size:18px; padding: 15px 20px;">
+                    	
+ <a href='https://auto.economictimes.indiatimes.com/pl.php?url=https%3A%2F%2Fauto.economictimes.indiatimes.com%2Ftech-summit%3Fag%3Dtoprsnemlr1&activity_name=etauto-techsummit-03may_03-05-2019&emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&email=deepak_kapoor@globeauto.in&uid=892041' target="_blank" style="display:block; text-transform:uppercase; line-height:15px; color:#000000; font-weight:900;font-family:Arial, sans-serif; text-decoration:none;">Book Your Seat</a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+     </tr>
+     <tr>
+              <td align="center" style="font-size:16px; border-top:1px solid #d5d5d5; background:#ffffff; color:#888888; line-height:24px;font-family:Arial, sans-serif; padding:20px 0 10px;"> For more information please visit<br> 
+ <a href='https://auto.economictimes.indiatimes.com/pl.php?url=https%3A%2F%2Fauto.economictimes.indiatimes.com%2Ftech-summit%3Fag%3Dtoprsnemlr1&activity_name=etauto-techsummit-03may_03-05-2019&emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&email=deepak_kapoor@globeauto.in&uid=892041' target="_blank" style="font-size:18px; color:#0262b4; text-decoration:none; font-family:Arial, sans-serif; font-weight:bold;">www.etauto.com/tech-summit</a></td>
+            </tr>
+       
+    <tr>
+     	<td align="left" style="padding:0 20px 30px;">
+        	 <table width="100%" cellpadding="0" cellspacing="0">
+             	<tbody><tr>
+                	 <td width="100%" align="center" style="font-size:14px; background:#ffffff; color:#888888; line-height:24px; font-family:Arial, sans-serif; padding:10px 0 0px;"> Marketing Alliance &amp; Delegation:<br>
+                <span style="font-family:Arial, sans-serif; font-weight:bold; color:#000000;">Rohit Singh</span> &nbsp; | &nbsp; 
+ <a href='mailto:rohit.singh@timesinternet.in' style="text-decoration:none; color:#e00e0e;font-family:Arial, sans-serif; font-weight:bold;">rohit.singh@timesinternet.in</a> &nbsp; | &nbsp; 
+ <a href='tel:+918826062190' target="_blank" style="font-family:Arial, sans-serif; font-weight:bold;color:#000000; text-decoration: none;" class="inf-tracking-no">+91 882 606 2190 </a></td>
+                    
+                </tr>
+                <tr>
+                     <td width="100%" align="center" style="font-size:14px; background:#ffffff; color:#888888; line-height:24px; font-family:Arial, sans-serif; padding:10px 0 0px;"> Sponsorship:<br>
+                <span style="font-family:Arial, sans-serif; font-weight:bold; color:#000000;">Girish Kulkarni </span> &nbsp; | &nbsp; 
+ <a href='mailto:girish.kulkarni@timesinternet.in ' style="text-decoration:none; color:#e00e0e;font-family:Arial, sans-serif; font-weight:bold;">girish.kulkarni@timesinternet.in </a> &nbsp; | &nbsp; 
+ <a href='tel:+919739096686' target="_blank" style="font-family:Arial, sans-serif; text-decoration: none; font-weight:bold;color:#000000;" class="inf-tracking-no">+91 973 909 6686 </a></td>
+                    
+                </tr>
+             </tbody></table>
+        </td>       
+     </tr>     
+    <!-- footer -->
+</tbody></table>
+<table style="max-width:700px;" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    	<td align="center" style="padding:20px 10px 20px; font-size:12px; color:#666; text-align:center; font-family:Helvetica, Arial, sans-serif;">If you do not want to receive this mailer, you can 
+ <a href='https://auto.economictimes.indiatimes.com/pl.php?url=https%3A%2F%2Fauto.economictimes.indiatimes.com%2Funsubscribe.php%3Fzx%3DJmVtYWlsPWRlZXBha19rYXBvb3JAZ2xvYmVhdXRvLmluJnR5cGU9cHJvbW8%253D&activity_name=etauto-techsummit-03may_03-05-2019&emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&email=deepak_kapoor@globeauto.in&uid=892041' style="color: #0072bc; font-family:Helvetica, Arial, sans-serif;">Unsubscribe</a> from our mailing list.<br>ETAuto(Times Center), FC - 6, Film City, Sector 16A, Noida - 201301, Uttar Pradesh, India</td>
+    </tr>
+</tbody></table>
+<!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+<!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+</td>
+</tr>
+</tbody></table><div style="display:none;width:0;height:0;">
+ <img src="https://auto.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=bTNqWjN5ekJNQjVxN1ZvRmlobU5rc3NIWjR6aGdobm1HV1pPTEt3T28yND0=&activity_name=etauto-techsummit-03may_03-05-2019&current_date=2019-05-03&euid=SkIvSndweUpSbjQ2eWtPbW1FcXNQQT09" style="display:none;width:0;height:0;" height="0" width="0" /></div>

@@ -1,0 +1,110 @@
+Return-Path: <russel@gmail.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked: <poonam_rawal@jcblmail.com>
+X-Quarantine-ID: <abbIeeXoJ9MI>
+X-Spam-Flag: YES
+X-Spam-Score: 13.232
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.232 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_ADSP_CUSTOM_MED=0.001,
+	DKIM_SIGNED=0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLYTO=2.775,
+	MISSING_HEADERS=1.207, NML_ADSP_CUSTOM_MED=1.2, PYZOR_CHECK=1.985,
+	RCVD_IN_RP_RNBL=1.284, REPLYTO_WITHOUT_TO_CC=1.946,
+	SPF_SOFTFAIL=0.972, T_DKIM_INVALID=0.01, T_HK_NAME_FM_MR_MRS=0.01,
+	T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id abbIeeXoJ9MI for <poonam_rawal@jcblmail.com>;
+	Thu, 22 Nov 2018 12:51:03 +0530 (IST)
+Received: from vm219.fcomet.com (li1242-251.members.linode.com [45.79.143.251])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 33195F44E07
+	for <ibd@jcbl.com>; Thu, 22 Nov 2018 12:05:58 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=thecannabismarketinglab.com; s=default; h=Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Reply-To:From:Subject:Date:Message-ID:Sender:To:Cc:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=ZLk3HFAvJazPVRjOKL3oxOOFQ+7fH7T4vyPNYFaGbCM=; b=IG37S66OWRXuYAQ/uzQkW0p2J
+	VFjnqXigduqwXU0sAeuUWqs+u4Bo4Rp1i+AOTsjFYDAyJqImVEDIVzc4JOssgi0WxUu4t3ViXrJLW
+	OO47GD37d6WE/w+odE2ywrDvewfuxjg0tlk+SRUCiWbx5YSzRwOImNRwa0HLCyObtTXXtKCiAJTa8
+	25+M+nZnEqiRJstN1JiBsWj2f878fTMnLChDBMMllZvGzSo8gKNQ+rDcpKe/2dtekIosLjLSsaMJn
+	KxG6Dw1NSiEIAB2UYoawxoPRwgqHp73jVFfgy+K8lZkOBYdgcVxkgitMu2odwZbDfHzY9I7hCZOdw
+	+EScEkLZw==;
+Received: from [::1] (port=36192 helo=vm219.fcomet.com)
+	by vm219.fcomet.com with esmtpa (Exim 4.91)
+	(envelope-from <russel@gmail.com>)
+	id 1gPiah-00HPqz-SM; Thu, 22 Nov 2018 06:35:55 +0000
+Received: from 197.211.57.117 ([197.211.57.117])
+        (SquirrelMail authenticated user
+ support@thecannabismarketinglab.com)
+        by vm219.fcomet.com with HTTP;
+        Thu, 22 Nov 2018 06:35:55 -0000
+Message-ID: <f897fc9ffe9483c6e6fb880d294e4ffa.squirrel@vm219.fcomet.com>
+Date: Thu, 22 Nov 2018 06:35:55 -0000
+Subject: Re: FROM DAVID
+From: "Mr.  DAVID RUSSEL" <russel@gmail.com>
+Reply-To: russel_d@aol.com
+User-Agent: SquirrelMail/1.5.2 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm219.fcomet.com
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - gmail.com
+X-Get-Message-Sender-Via: vm219.fcomet.com: authenticated_id: support@thecannabismarketinglab.com
+X-Authenticated-Sender: vm219.fcomet.com: support@thecannabismarketinglab.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+
+Dear Sir/Madam,
+
+Greetings to you,
+Thank you for the opportunity to put forward our business proposal to you
+and your time of evaluation. It is our pleasure to contact you as we are
+starting to make more funding invest into large scale business
+establishments and project, around the word.
+
+We mediate for some high net worth private investors/Politicians from
+middle East, European, African and Asian business tycoons with liquid and
+block funds ready for placement from 0% to 100% funding of a viable
+genuine project of high magnitude as long you fit their criteria and we
+will set up an agreement/MOU between you and our private investors after
+all due diligence. They are looking for 5 to 10 years investment period
+for negotiable 3% to 5% of the investment returns annually as interest of
+the Fund and can rollover after the expiration if all things been equal.
+
+Please if you are interested and have a project that needs funding, we
+will like to have your company profile and project summary with it
+geographical area to broker the investment funding to your favor according
+to our investors term, You have to also officially engage us by sending to
+us a letter of interest (LOI) to enable us facilitate your needed loan
+facility request in less than 15 working days, if registered with us.
+
+Please note that no upfront 1% commission to the facilitators, our
+conditions will be place on our MOU /contract including the interest rate
+between 3% to 5% negotiable yearly reimbursement with 1 or 2 years
+moratorium period based on the nature of your project/business proposal.
+.
+Finally if you don’t have any viable project, then we implore you to
+source from your colleagues and clients that have genuine project yet to
+be financed due to inadequate funding. Also bear in mind that any referral
+you bring to our notice, you will receive a commission on our payroll
+schedule for your services rendered.
+
+Do get back to us through above our contact at your earliest convenience,
+with your project scope or referral proposition, to proceed and secure
+your desired funding need.
+
+
+Sincerely,
+David Lean Russel
+Investments Finance Adviser
+

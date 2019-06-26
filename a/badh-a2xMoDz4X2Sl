@@ -1,0 +1,1027 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <postmaster@globe-trucking.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a2xMoDz4X2Sl>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Auto-Submitted"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a2xMoDz4X2Sl for <postmaster@globe-trucking.com>;
+	Thu,  4 Oct 2018 14:38:56 +0530 (IST)
+Received: from APC01-SG2-obe.outbound.protection.outlook.com (mail-bgr052103194085.outbound.protection.outlook.com [52.103.194.85])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 9D60EEE7167
+	for <accounts.ptk@globe-trucking.com>; Thu,  4 Oct 2018 14:38:53 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=keyafoods.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cv/2rxc4bAtdahV5RnoyJY4YTg9mGuG37hbLakd5lkI=;
+ b=WSiAO/EqxScHyz1ynvE6iPlECTscC3HSmFA07VHnH/FglumQw+PEgOGDsfblQ6n7vC/0jNbKQfsgvmbtggDObtPhXG1vGOfaEgvV+gpnfGOFNMBFROon5EPzIcdKqtstkvnUdn3JZWwJYxQ5VNwR9208fEwy7W/ni17B8jAUMJ4=
+Received: from SmtpServer.Submit by TY2PR04MB3343 with Microsoft SMTP Server
+ id 15.20.1207.22; Thu, 4 Oct 2018 09:08:56 +0000
+Content-Type: multipart/mixed;
+	boundary="_daed7820-823e-4aca-818b-8c0bc4f8ff09_"
+MIME-Version: 1.0
+From: <postmaster@keyafoods.com>
+To: <accounts.ptk@globe-trucking.com>
+Date: Thu, 4 Oct 2018 09:08:55 +0000
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: en-US
+In-Reply-To: <18413120151164420293.677391814BAFBFE1@foodserviceindia.com>
+References: <18413120151164420293.677391814BAFBFE1@foodserviceindia.com>
+Subject: Undeliverable: Raj Bagul overdue invoice urgent
+Auto-Submitted: auto-replied
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: TY2PR04MB3343:|TY2PR04MB3343:
+Message-ID:
+	<9b3f598d-0d67-49b9-8dd5-8221a84eebe9@TY2PR04MB3343.apcprd04.prod.outlook.com>
+X-MS-Exchange-Parent-Message-Id:
+	<722454ba-e0ec-4857-a684-74b2cf738c17@TY2PR04MB3343.apcprd04.prod.outlook.com>
+X-MS-Exchange-Message-Is-Ndr:
+Auto-Submitted: auto-generated
+X-MS-Exchange-Generated-Message-Source: DC Pre Content Filter Agent
+X-Forefront-PRVS: 0815F8251E
+X-Forefront-Antispam-Report:
+	SFV:SPM;SFS:(10019020)(4640300001)(4630300001)(366004)(5060100009);DIR:OUT;SFP:1501;SCL:5;SRVR:TY2PR04MB3343;H:;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;
+Received-SPF: None (protection.outlook.com:  does not designate permitted
+ sender hosts)
+Authentication-Results: spf=none (sender IP is ) smtp.mailfrom=<>; 
+X-Microsoft-Exchange-Diagnostics:
+	1;TY2PR04MB3343;23:47NllbbFI/JsZbkhOdqaaqA/rQSWCEjFcGo9P5n60Yw3205Ho0+ajWYIqm89GPqUvr3LSDJIYj+fqUZsjllnDeH9J5/59rdKPc+KyLUesi9EM8eDE79nLwiAHFjFvHZtuX+7ylVaafs7fqk3VX59w6S+8oE35BqUKwV4WX7NGiZyYWE/IsaLUvd+Rswd4NykxaQ7Sd6mroB5xlnaeJAIAjisIpRM7teNTi2w+XLK2KgY3XsbtswlbRE/0oMO15eeRO32rs+2AkqRuUgI2n/Hhg==;6:d0yRav8My3D04eG/vMYvT4/77qYfH+5iGW4r5iHalmFKfV8kDxvtQCAHTdyjpTScrxQSwd8/w9Y627aVQOYDILFHnqJ0DgEFwh+GAHaHIPv1ZbhthRoUm6M1C4losdzum6OAVjB/Kl9fNWP4z6pWStDsR82bMOPEn+qW81LrD3n4n13rjWGSi9kLF9pvXgsgSk59eJrKY6g74YVUvQSwL28pWJUKFkbYDachXUD0/Y8zatdUKttqkYMHT++zGVZpu76Pu3B+cFLnAflRwxI6tbJz+gx/qTwCR5BHiZyixf3Wc6+O/Gi902aXfLIUJ1fMWkc0aTBzbnMNJQZJB/YFKTrZrdf9GfFDpvSiDQIyX9EqQFntMWiJqv3zZpme50azLtEHks8U5LSIhXYVwKKI+6ZXQBun0v82pjUxe+FalEImCp9HXIxEvBPcYF4UEKEPY65pp7JlyNBquU6g1+DOrA==
+X-Microsoft-Antispam-Message-Info:
+	/EWPvtRG9vKZ7VbA0eTBRYOKRLjTRB5JZrFt2cHnRvhdOH2B9UNybW6fuUK3NDXnvfzukgEBRB3jD/0PevoM67C5xv0ZhCBbZ4AVr8mix4kL5KzmYF+2FecyJKSNksloP0oJLm1f/JzsDytk2e9fek1umLFz1embKoCq3qhdioA+AAwX+breQAg8dylCca09BETcg9tnLycdWXTy+2bqxVzNZDsVjMHkE7gShmbc+uJHblESmFROF3NcqtD/0B+X4XfY+2x0cZZMW8uJtrIbEoc8O8Y20hriUcvRTmvJMcYpCp3FQxnuXXQrNu4c1dC6EgRuLMS8vr5qL4s0eXIbJ9iKIN6a7M3wK2/HVCIli46jRA/RwoU+2BLLGRs04W7OatwpyqRxwcJK8Y8XgPdi9DLJY1HJW2Q6tQuJw7lSJmAwGNKBtk2i/K3/n2uCXypg
+SpamDiagnosticOutput: 1:22
+X-Microsoft-Exchange-Diagnostics:
+	1;TY2PR04MB3343;7:qEhdf4vqIKt8UmpvOjj1XId3IaGppH2/KbIFqPKMh1oFQ0OH/s+E5Z73i59xrvMYZ1mTzk2CuD+dWXw0rYxqhAonQoYqRVyv6YtG/0GyJYfbuHzVIkkF1aEFoVPyDM9B+uJcOzKfua1XQcMl5jWp3lnvo+f6+21wARvKLOvJeg/9BsTH7kMZGH/zNS2ijkYWHBZfxG5G0/FILkashwqKt6Nb/3QcD8kWMXMrXxfgou0TvCeRBgl0feY6U3i29iaI
+X-OriginatorOrg: keyafoods.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Oct 2018 09:08:55.9722
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+	26b8eb10-7771-4da4-80d4-08d629d90362
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: TY2PR04MB3343
+
+--_daed7820-823e-4aca-818b-8c0bc4f8ff09_
+Content-Type: multipart/alternative;
+	boundary="_b54227b1-4ac6-45e3-915e-88df9f96f3cf_"
+
+--_b54227b1-4ac6-45e3-915e-88df9f96f3cf_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+[http://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?versio=
+n=3Db8d100a9-0a8b-8e6a-88e1-ef488fee0470]
+Your message to bhupender.s@foodserviceindia.com couldn't be delivered.
+
+bhupender.s wasn't found at foodserviceindia.com.
+
+accounts.ptk    Office 365      bhupender.s
+Action Required                 Recipient
+
+
+Unknown To address
+
+
+How to Fix It
+The address may be misspelled or may not exist. Try one or more of the foll=
+owing:
+
+  *   Send the message again following these steps: In Outlook, open this n=
+on-delivery report (NDR) and choose Send Again from the Report ribbon. In O=
+utlook on the web, select this NDR, then select the link "To send this mess=
+age again, click here." Then delete and retype the entire recipient address=
+. If prompted with an Auto-Complete List suggestion don't select it. After =
+typing the complete address, click Send.
+  *   Contact the recipient (by phone, for example) to check that the addre=
+ss exists and is correct.
+  *   The recipient may have set up email forwarding to an incorrect addres=
+s. Ask them to check that any forwarding they've set up is working correctl=
+y.
+  *   Clear the recipient Auto-Complete List in Outlook or Outlook on the w=
+eb by following the steps in this article: Fix email delivery issues for er=
+ror code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=3D532=
+972>, and then send the message again. Retype the entire recipient address =
+before selecting Send.
+
+
+If the problem continues, forward this message to your email admin. If you'=
+re an email admin, refer to the More Info for Email Admins section below.
+
+
+Was this helpful? Send feedback to Microsoft<https://go.microsoft.com/fwlin=
+k/?LinkId=3D525921>.
+________________________________
+
+
+More Info for Email Admins
+Status code: 550 5.1.10
+
+This error occurs because the sender sent a message to an email address hos=
+ted by Office 365 but the address is incorrect or doesn't exist at the dest=
+ination domain. The error is reported by the recipient domain's email serve=
+r, but most often it must be fixed by the person who sent the message. If t=
+he steps in the How to Fix It section above don't fix the problem, and you'=
+re the email admin for the recipient, try one or more of the following:
+
+The email address exists and is correct - Confirm that the recipient addres=
+s exists, is correct, and is accepting messages.
+
+Synchronize your directories - If you have a hybrid environment and are usi=
+ng directory synchronization make sure the recipient's email address is syn=
+ced correctly in both Office 365 and in your on-premises directory.
+
+Errant forwarding rule - Check for forwarding rules that aren't behaving as=
+ expected. Forwarding can be set up by an admin via mail flow rules or mail=
+box forwarding address settings, or by the recipient via the Inbox Rules fe=
+ature.
+
+Recipient has a valid license - Make sure the recipient has an Office 365 l=
+icense assigned to them. The recipient's email admin can use the Office 365=
+ admin center to assign a license (Users > Active Users > select the recipi=
+ent > Assigned License > Edit).
+
+Mail flow settings and MX records are not correct - Misconfigured mail flow=
+ or MX record settings can cause this error. Check your Office 365 mail flo=
+w settings to make sure your domain and any mail flow connectors are set up=
+ correctly. Also, work with your domain registrar to make sure the MX recor=
+ds for your domain are configured correctly.
+
+For more information and additional tips to fix this issue, see Fix email d=
+elivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com=
+/fwlink/?LinkId=3D532972>.
+
+
+Original Message Details
+Created Date:   10/1/2018 1:19:55 PM
+Sender Address: accounts.ptk@globe-trucking.com
+Recipient Address:      bhupender.s@foodserviceindia.com
+Subject:        Raj Bagul overdue invoice urgent
+
+
+Error Details
+Reported error: 550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient bhupen=
+der.s@foodserviceindia.com not found by SMTP address lookup
+DSN generated by:       TY2PR04MB3343.apcprd04.prod.outlook.com
+
+
+Message Hops
+HOP     TIME (UTC)      FROM    TO      WITH    RELAY TIME
+1       10/1/2018
+1:19:56 PM      10.1.32.53      mx10.jcbl.com   ESMTPSA 1 sec
+2       10/1/2018
+1:19:59 PM      mx10.jcbl.com   localhost       ESMTP   3 sec
+3       10/1/2018
+1:19:59 PM      localhost       mx10.jcbl.com   ESMTP   *
+4       10/1/2018
+1:19:59 PM      mx10.jcbl.com   mx11.jcbl.com   ESMTP   *
+5       10/1/2018
+1:19:59 PM              mx11.jcbl.com           *
+6       10/4/2018
+9:08:53 AM      mx11.jcbl.com   HK2APC01FT044.mail.protection.outlook.com  =
+     Microsoft SMTP Server   2 days, 19 hr, 48 min, 54 sec
+7       10/4/2018
+9:08:54 AM      HK2APC01FT044.eop-APC01.prod.protection.outlook.com     HK2=
+PR04CA0064.outlook.office365.com     Microsoft SMTP Server (version=3DTLS1_=
+2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384)    1 sec
+8       10/4/2018
+9:08:54 AM      HK2PR04CA0064.apcprd04.prod.outlook.com TY2PR04MB3343.apcpr=
+d04.prod.outlook.com Microsoft SMTP Server (version=3DTLS1_2, cipher=3DTLS_=
+ECDHE_RSA_WITH_AES_256_GCM_SHA384)    *
+
+Original Message Headers
+
+Received: from HK2PR04CA0064.apcprd04.prod.outlook.com (2603:1096:202:14::3=
+2)
+ by TY2PR04MB3343.apcprd04.prod.outlook.com (2603:1096:404:94::17) with
+ Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.1207.22; Thu, 4 O=
+ct
+ 2018 09:08:54 +0000
+Received: from HK2APC01FT044.eop-APC01.prod.protection.outlook.com
+ (2a01:111:f400:7ebc::200) by HK2PR04CA0064.outlook.office365.com
+ (2603:1096:202:14::32) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.1207.20 via Front=
+end
+ Transport; Thu, 4 Oct 2018 09:08:54 +0000
+Authentication-Results: spf=3Dnone (sender IP is 220.227.44.69)
+ smtp.mailfrom=3Dglobe-trucking.com; foodserviceindia.com; dkim=3Dnone (mes=
+sage
+ not signed) header.d=3Dnone;foodserviceindia.com; dmarc=3Dfail action=3Dno=
+ne
+ header.from=3Dpersistencemarketresearch.com;
+Received-SPF: None (protection.outlook.com: globe-trucking.com does not
+ designate permitted sender hosts)
+Received: from mx11.jcbl.com (220.227.44.69) by
+ HK2APC01FT044.mail.protection.outlook.com (10.152.249.115) with Microsoft
+ SMTP Server id 15.20.1207.19 via Frontend Transport; Thu, 4 Oct 2018 09:08=
+:53
+ +0000
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+        id 970D2F2F5E9; Mon,  1 Oct 2018 13:19:59 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+        by mx11.jcbl.com (Postfix) with ESMTP id 84860F2F5EA
+        for <bhupender.s@foodserviceindia.com>; Mon,  1 Oct 2018 18:49:59 +=
+0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+        by mx10.jcbl.com (Postfix) with ESMTP id 72B07F4BD2A
+        for <bhupender.s@foodserviceindia.com>; Mon,  1 Oct 2018 18:49:59 +=
+0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+        by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+        with ESMTP id UYIxcpo95FGp for <bhupender.s@foodserviceindia.com>;
+        Mon,  1 Oct 2018 18:49:59 +0530 (IST)
+Received: from 10.1.32.53 (unknown [179.49.120.210])
+        by mx10.jcbl.com (Postfix) with ESMTPSA id 59DC4F4BD4F
+        for <bhupender.s@foodserviceindia.com>; Mon,  1 Oct 2018 18:49:56 +=
+0530 (IST)
+Date: Mon, 1 Oct 2018 10:19:55 -0300
+From: Raj Bagul <raj.b@persistencemarketresearch.com>
+To: <bhupender.s@foodserviceindia.com>
+Message-ID: <18413120151164420293.677391814BAFBFE1@foodserviceindia.com>
+Subject: Raj Bagul overdue invoice urgent
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary=3D"----=3D_Part_32855_4209434603.25696782271868428259"
+Return-Path: accounts.ptk@globe-trucking.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 6efdcb4d-e659-454b-b101-1c49a4bb1940:0
+X-Forefront-Antispam-Report: CIP:220.227.44.69;IPV:NLI;CTRY:IN;EFV:NLI;
+X-Microsoft-Exchange-Diagnostics: 1;HK2APC01FT044;1:QYKT0W46F/w2waw1nk8v54R=
+XtQpLWO2EjK08SXfS9FGoy3BxFe8HOLdzP1kaVo3E4I1wuVazYnRn1zmCCTmp521/09r8t3+lH5=
+V3qPATNACUYO+hwbdZtli7No31npiG
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 6e59fec6-7897-4119-ec40-08d629d902=
+45
+X-Microsoft-Antispam:
+        BCL:0;PCL:0;RULEID:(7020095)(4652040)(5600074)(711020)(4605076)(461=
+4076)(49563074)(1401234)(71702078);SRVR:TY2PR04MB3343;
+X-Microsoft-Exchange-Diagnostics:
+        1;TY2PR04MB3343;3:uEPCNMNy9YiSpF3AaqErSG2OKaCFzNk1dZL+ro/eDj+izbvPT=
++RTbCeQaXu8tCktOmhrf7FaBBDf8uaq+Y2oHMLM8aZ50EA0mNni825JAOdFrNCZAwWqcTzLSPAh=
+/mM5s+ztJKes0PP6qhQLXZlJJhnRR1L7v6le32Sl96yJXAsXtA75Hcf2q90kE1zbQemwyHziwy5=
+gMdLx6+E4aFjlGQDwRgfDizr0K2JCO8uZc6I89r80BgQ/TnA7U42rCJDsj1KV/720WAR9q2++hz=
+JtVhIMnAJglFsYlW79jO4vGObfeTOBNgjZkrbviWQF6oPSHn17gIbeZN975ePAbfRYxgNJbivHd=
+QiuZ6dp+fz8tzQ=3D;25:beXyFAA9iKKMnOxfLmdk2lSXW3UKkyfT8UfkACgXFRHzSy8uoYSi9E=
+SrRlswVz0Llck7DBi5uG4BtjdlUMkWPky7CS+rPpR8ZTiZO+mjUUvZ/omgG7qFQHr6IGIILKlQL=
+F+0sFKWqRuXdT44T+XcBRMHIMbafp828hr5yjMs+HA8QBtgSDuH8VB4iG9DRvkDTcdyOjrC5loC=
+IDGzyIn1Ff6zeXlSEUGD8DuIUKdRa6JbcpnTDrBsG2bKHzCAMPOvQg1Y8KwOvYHHTaxPJ0cBkW/=
+BrSGkMTGoia/KZ6+JU+sHwS3es4F6ozPQvD7ompmIE3Cmd7qDLVzYk7MrLEsCNBSUjny4n7XzKx=
+oAunZv6XAqfoc35U3T5eywWABvqJJ5
+X-MS-TrafficTypeDiagnostic: TY2PR04MB3343:
+
+
+--_b54227b1-4ac6-45e3-915e-88df9f96f3cf_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1" />
+  <head>
+    <title>
+          DSN
+        </title>
+  </head>
+  <body style=3D"        background-color: white;      ">
+    <table style=3D"        background-color: white;         max-width: 548=
+px;         color: black;         border-spacing: 0px 0px;         padding-=
+top: 0px;         padding-bottom: 0px;        border-collapse: collapse;   =
+   " width=3D"548" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td style=3D"        text-align: left;        padding-bottom: 20p=
+x;      ">
+            <img height=3D"28" width=3D"126" style=3D"        max-width: 10=
+0%;      " src=3D"http://products.office.com/en-us/CMSImages/Office365Logo_=
+Orange.png?version=3Db8d100a9-0a8b-8e6a-88e1-ef488fee0470" />
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        font-size: 16px;         padding-bottom: 10px;         -ms=
+-text-size-adjust: 100%;        text-align: left;      ">Your message to <s=
+pan style=3D"        color: #0072c6;      ">bhupender.s@foodserviceindia.co=
+m</span> couldn't be delivered.<br /></td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;         font-size: 24px;         padding-top: 0px;         paddin=
+g-bottom: 20px;         text-align: center;         -ms-text-size-adjust: 1=
+00%;      ">
+            <span style=3D"        color: #0072c6;      ">bhupender.s</span=
+> wasn't found at <span style=3D"        color: #0072c6;      ">foodservice=
+india.com</span>.<br /></td>
+        </tr>
+        <tr>
+          <td style=3D"        padding-bottom: 15px;         padding-left: =
+0px;         padding-right: 0px;         border-spacing: 0px 0px;      ">
+            <table style=3D"        max-width: 548px;         font-weight: =
+600;        border-spacing: 0px 0px;         padding-top: 0px;         padd=
+ing-bottom: 0px;        border-collapse: collapse;      ">
+              <tbody>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 15px;        font-weight: 600;        t=
+ext-align: left;        width: 181px;        -ms-text-size-adjust: 100%;   =
+     vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">accounts.ptk</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 15px;        font-weight: 600;        t=
+ext-align: center;        width: 186px;        -ms-text-size-adjust: 100%; =
+       vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">Office 365</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;         -ms-text-size-adjust: 100%;         font-size: 15=
+px;         font-weight: 600;        text-align: right;         width: 181p=
+x;         vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">bhupender.s</span>
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: left;        padding-top: 0px=
+;        padding-bottom: 0px;        vertical-align: middle;        width: =
+181px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"        color: #c00000;      ">
+                        <b>Action Required</b>
+                      </span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: center;        padding-top: 0=
+px;        padding-bottom: 0px;        vertical-align: middle;        width=
+: 186px;      " />
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: right;        padding-top: 0p=
+x;        padding-bottom: 0px;        vertical-align: middle;        width:=
+ 181px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">Recipient</span>
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"3" style=3D"        padding-top:0;        =
+padding-bottom:0;        padding-left:0;        padding-right:0      ">
+                    <table cellspacing=3D"0" cellpadding=3D"0" style=3D"   =
+     border-spacing: 0px 0px;        padding-top: 0px;        padding-botto=
+m: 0px;        padding-left: 0px;        padding-right: 0px;        border-=
+collapse: collapse;      ">
+                      <tbody>
+                        <tr height=3D"10">
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#c0000=
+0" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                          <td width=3D"4" height=3D"10" bgcolor=3D"#ffffff"=
+ style=3D"        width: 4px;        line-height: 10px;        height: 10px=
+;        font-size: 6px;        padding-top: 0;        padding-bottom: 0;  =
+      padding-left: 0;        padding-right: 0;      "><!--[if gte mso 15]>=
+&nbsp;<![endif]--></td>
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#ccccc=
+c" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                          <td width=3D"4" height=3D"10" bgcolor=3D"#ffffff"=
+ style=3D"        width: 4px;        line-height: 10px;        height: 10px=
+;        font-size: 6px;        padding-top: 0;        padding-bottom: 0;  =
+      padding-left: 0;        padding-right: 0;      "><!--[if gte mso 15]>=
+&nbsp;<![endif]--></td>
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#ccccc=
+c" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: left;        width: 181px;        line-height: 20px;  =
+      font-weight: 400;        padding-top: 0px;        padding-left: 0px; =
+       padding-right: 0px;        padding-bottom: 0px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"        color: #c00000;      ">Unknown=
+ To address</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: center;        width: 186px;        line-height: 20px;=
+        font-weight: 400;        padding-top: 0px;        padding-left: 0px=
+;        padding-right: 0px;        padding-bottom: 0px;      " />
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: right;        width: 181px;        line-height: 20px; =
+       font-weight: 400;        padding-top: 0px;        padding-left: 0px;=
+        padding-right: 0px;        padding-bottom: 0px;      " />
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        width: 100%;        padding-top: 0px;       =
+ padding-right: 10px;        padding-left: 10px;      ">
+            <br />
+            <table style=3D"        width: 100%;        padding-right: 0px;=
+        padding-left: 0px;        padding-top: 0px;        padding-bottom: =
+0px;        background-color: #f2f5fa;        margin-left: 0px;      ">
+              <tbody>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 21px=
+;        font-weight: 500;        background-color: #f2f5fa;        padding=
+-top: 0px;        padding-bottom: 0px;        padding-left: 10px;        pa=
+dding-right: 10px;      ">How to Fix It</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16px=
+;        font-weight: 400;        padding-top: 0px;        padding-bottom: =
+6px;        padding-left: 10px;        padding-right: 10px;        backgrou=
+nd-color: #f2f5fa;      ">The address may be misspelled or may not exist. T=
+ry one or more of the following:</td>
+                </tr>
+                <tr>
+                  <td style=3D"         padding-top: 0px;         padding-b=
+ottom: 0px;         padding-left: 0px;         padding-right: 0px;        b=
+order-spacing: 0px 0px;      ">
+                    <ul style=3D"        font-family: 'Segoe UI', Frutiger,=
+ Arial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16=
+px;        font-weight: 400;        margin-left: 40px;        margin-bottom=
+: 5px;        background-color: #f2f5fa;        padding-top: 0px;        pa=
+dding-bottom: 0px;        padding-left: 6px;        padding-right: 6px;    =
+  ">
+                      <li>Send the message again following these steps: In =
+Outlook, open this non-delivery report (NDR) and choose <b>Send Again</b> f=
+rom the Report ribbon. In Outlook on the web, select this NDR, then select =
+the link "<b>To send this message again, click here.</b>" Then delete and r=
+etype the entire recipient address. If prompted with an Auto-Complete List =
+suggestion don't select it. After typing the complete address, click <b>Sen=
+d</b>.</li>
+                      <li>Contact the recipient (by phone, for example) to =
+check that the address exists and is correct.</li>
+                      <li>The recipient may have set up email forwarding to=
+ an incorrect address. Ask them to check that any forwarding they've set up=
+ is working correctly.</li>
+                      <li>Clear the recipient Auto-Complete List in Outlook=
+ or Outlook on the web by following the steps in this article: <a href=3D"h=
+ttps://go.microsoft.com/fwlink/?LinkId=3D532972">Fix email delivery issues =
+for error code 5.1.10 in Office 365</a>, and then send the message again. R=
+etype the entire recipient address before selecting <b>Send</b>.</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16px=
+;        font-weight: 400;        padding-top: 0px;        padding-bottom: =
+6px;        padding-left: 10px;        padding-right: 10px;        backgrou=
+nd-color: #f2f5fa;      ">If the problem continues, forward this message to=
+ your email admin. If you're an email admin, refer to the <b>More Info for =
+Email Admins</b> section below.</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 14px;       =
+ font-weight: 400;        padding-top: 10px;        padding-bottom: 0px;   =
+     padding-bottom: 4px;      ">
+            <br />
+            <em>Was this helpful? <a href=3D"https://go.microsoft.com/fwlin=
+k/?LinkId=3D525921">Send feedback to Microsoft</a>.</em>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        -ms-text-size-adjust: 100%;        font-size=
+: 0px;        line-height: 0px;        padding-top: 0px;        padding-bot=
+tom: 0px;      ">
+            <hr />
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 21px;       =
+ font-weight: 500;      ">
+            <br />More Info for Email Admins</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 14px;      "=
+>
+            <em>Status code: 550 5.1.10</em>
+            <br />
+            <br />This error occurs because the sender sent a message to an=
+ email address hosted by Office 365 but the address is incorrect or doesn't=
+ exist at the destination domain. The error is reported by the recipient do=
+main's email server, but most often it must be fixed by the person who sent=
+ the message. If the steps in the <b>How to Fix It</b> section above don't =
+fix the problem, and you're the email admin for the recipient, try one or m=
+ore of the following:<br /><br /><b>The email address exists and is correct=
+</b> - Confirm that the recipient address exists, is correct, and is accept=
+ing messages.<br /><br /><b>Synchronize your directories</b> - If you have =
+a hybrid environment and are using directory synchronization make sure the =
+recipient's email address is synced correctly in both Office 365 and in you=
+r on-premises directory.<br /><br /><b>Errant forwarding rule</b> - Check f=
+or forwarding rules that aren't behaving as expected. Forwarding can be set=
+ up by an admin via mail flow rules or mailbox forwarding address settings,=
+ or by the recipient via the Inbox Rules feature.<br /><br /><b>Recipient h=
+as a valid license</b> - Make sure the recipient has an Office 365 license =
+assigned to them. The recipient's email admin can use the Office 365 admin =
+center to assign a license (Users &gt; Active Users &gt; select the recipie=
+nt &gt; Assigned License &gt; Edit).<br /><br /><b>Mail flow settings and M=
+X records are not correct</b> - Misconfigured mail flow or MX record settin=
+gs can cause this error. Check your Office 365 mail flow settings to make s=
+ure your domain and any mail flow connectors are set up correctly. Also, wo=
+rk with your domain registrar to make sure the MX records for your domain a=
+re configured correctly.<br /><br />For more information and additional tip=
+s to fix this issue, see <a href=3D"https://go.microsoft.com/fwlink/?LinkId=
+=3D532972">Fix email delivery issues for error code 5.1.10 in Office 365</a=
+>.<br /><br /></td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 17px;       =
+ font-weight: 500;      ">Original Message Details</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-size: 14px;        line-height: 20px;  =
+      font-family: 'Segoe UI', Frutiger, Arial, sans-serif;        -ms-text=
+-size-adjust: 100%;        font-weight: 500;      ">
+            <table style=3D"        width: 100%;        border-collapse: co=
+llapse;        margin-left: 10px;      ">
+              <tbody>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Created Date:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">10/1/2018 1:19:55 PM</td>
+                </tr>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Sender Address:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">accounts.ptk@globe-trucking.com</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">Recipient Address:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">bhupender.s@foodserviceindia.com</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">Subject:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">Raj Bagul overdue invoice urgent</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 17px;       =
+ font-weight: 500;      ">
+            <br />Error Details</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-size: 14px;        line-height: 20px;  =
+      font-family: 'Segoe UI', Frutiger, Arial, sans-serif;        -ms-text=
+-size-adjust: 100%;        font-weight: 500;      ">
+            <table style=3D"        width: 100%;        border-collapse: co=
+llapse;        margin-left: 10px;      ">
+              <tbody>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Reported error:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">
+                    <em>550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipien=
+t bhupender.s@foodserviceindia.com not found by SMTP address lookup</em>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">DSN generated by:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">TY2PR04MB3343.apcprd04.prod.outlook.com</=
+td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <table style=3D"width: 880px;" cellspacing=3D"0">
+      <tr>
+        <td colspan=3D"6" style=3D"        padding-top: 4px;        border-=
+bottom: 1px solid #999999;        padding-bottom: 4px;        line-height: =
+120%;        font-size: 17px;        font-family: 'Segoe UI', Frutiger, Ari=
+al, sans-serif;        -ms-text-size-adjust: 100%;        font-weight: 500;=
+      ">Message Hops</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">HO=
+P</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;        wi=
+dth: 80px;      ">TIME (UTC)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">FR=
+OM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">TO=
+</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">WI=
+TH</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">RE=
+LAY TIME</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">1</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/1/2018<br />1:19=
+:56 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">10.1.32.53</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx10.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">ESMTPSA</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">1&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">2</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/1/2018<br />1:19=
+:59 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx10.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">localhost</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">ESMTP</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">3&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">3</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/1/2018<br />1:19=
+:59 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">localhost</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx10.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">ESMTP</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">*</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">4</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/1/2018<br />1:19=
+:59 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx10.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx11.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">ESMTP</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">*</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">5</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/1/2018<br />1:19=
+:59 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      "></td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx11.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      "></td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">*</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">6</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/4/2018<br />9:08=
+:53 AM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mx11.jcbl.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">HK2APC01FT044.mail.protection.outlook.c=
+om</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">2&nbsp;days, 19&nbsp;hr, 48&nbsp;min, 5=
+4&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">7</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/4/2018<br />9:08=
+:54 AM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">HK2APC01FT044.eop-APC01.prod.protection=
+.outlook.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">HK2PR04CA0064.outlook.office365.com</td=
+>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server (version=3DTLS1_2=
+, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">1&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">8</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">10/4/2018<br />9:08=
+:54 AM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">HK2PR04CA0064.apcprd04.prod.outlook.com=
+</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">TY2PR04MB3343.apcprd04.prod.outlook.com=
+</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server (version=3DTLS1_2=
+, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">*</td>
+      </tr>
+    </table>
+    <p style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sans-seri=
+f;        -ms-text-size-adjust: 100%;        font-size: 17px;        font-w=
+eight: 500;        padding-top: 4px;        padding-bottom: 0;        margi=
+n-top: 19px;        margin-bottom: 5px;      ">Original Message Headers</p>
+    <pre style=3D"        color: gray;        white-space: pre;        padd=
+ing-top: 0;        margin-top: 5px;      ">Received: from HK2PR04CA0064.apc=
+prd04.prod.outlook.com (2603:1096:202:14::32)
+ by TY2PR04MB3343.apcprd04.prod.outlook.com (2603:1096:404:94::17) with
+ Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.1207.22; Thu, 4 O=
+ct
+ 2018 09:08:54 +0000
+Received: from HK2APC01FT044.eop-APC01.prod.protection.outlook.com
+ (2a01:111:f400:7ebc::200) by HK2PR04CA0064.outlook.office365.com
+ (2603:1096:202:14::32) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.1207.20 via Front=
+end
+ Transport; Thu, 4 Oct 2018 09:08:54 +0000
+Authentication-Results: spf=3Dnone (sender IP is 220.227.44.69)
+ smtp.mailfrom=3Dglobe-trucking.com; foodserviceindia.com; dkim=3Dnone (mes=
+sage
+ not signed) header.d=3Dnone;foodserviceindia.com; dmarc=3Dfail action=3Dno=
+ne
+ header.from=3Dpersistencemarketresearch.com;
+Received-SPF: None (protection.outlook.com: globe-trucking.com does not
+ designate permitted sender hosts)
+Received: from mx11.jcbl.com (220.227.44.69) by
+ HK2APC01FT044.mail.protection.outlook.com (10.152.249.115) with Microsoft
+ SMTP Server id 15.20.1207.19 via Frontend Transport; Thu, 4 Oct 2018 09:08=
+:53
+ +0000
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id 970D2F2F5E9; Mon,  1 Oct 2018 13:19:59 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id 84860F2F5EA
+	for &lt;bhupender.s@foodserviceindia.com&gt;; Mon,  1 Oct 2018 18:49:59 +0=
+530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id 72B07F4BD2A
+	for &lt;bhupender.s@foodserviceindia.com&gt;; Mon,  1 Oct 2018 18:49:59 +0=
+530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UYIxcpo95FGp for &lt;bhupender.s@foodserviceindia.com&gt;;
+	Mon,  1 Oct 2018 18:49:59 +0530 (IST)
+Received: from 10.1.32.53 (unknown [179.49.120.210])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id 59DC4F4BD4F
+	for &lt;bhupender.s@foodserviceindia.com&gt;; Mon,  1 Oct 2018 18:49:56 +0=
+530 (IST)
+Date: Mon, 1 Oct 2018 10:19:55 -0300
+From: Raj Bagul &lt;raj.b@persistencemarketresearch.com&gt;
+To: &lt;bhupender.s@foodserviceindia.com&gt;
+Message-ID: &lt;18413120151164420293.677391814BAFBFE1@foodserviceindia.com&=
+gt;
+Subject: Raj Bagul overdue invoice urgent
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary=3D"----=3D_Part_32855_4209434603.25696782271868428259"
+Return-Path: accounts.ptk@globe-trucking.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 6efdcb4d-e659-454b-b101-1c49a4bb1940:0
+X-Forefront-Antispam-Report: CIP:220.227.44.69;IPV:NLI;CTRY:IN;EFV:NLI;
+X-Microsoft-Exchange-Diagnostics: 1;HK2APC01FT044;1:QYKT0W46F/w2waw1nk8v54R=
+XtQpLWO2EjK08SXfS9FGoy3BxFe8HOLdzP1kaVo3E4I1wuVazYnRn1zmCCTmp521/09r8t3+lH5=
+V3qPATNACUYO+hwbdZtli7No31npiG
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 6e59fec6-7897-4119-ec40-08d629d902=
+45
+X-Microsoft-Antispam:
+	BCL:0;PCL:0;RULEID:(7020095)(4652040)(5600074)(711020)(4605076)(4614076)(4=
+9563074)(1401234)(71702078);SRVR:TY2PR04MB3343;
+X-Microsoft-Exchange-Diagnostics:
+	1;TY2PR04MB3343;3:uEPCNMNy9YiSpF3AaqErSG2OKaCFzNk1dZL+ro/eDj+izbvPT+RTbCeQ=
+aXu8tCktOmhrf7FaBBDf8uaq+Y2oHMLM8aZ50EA0mNni825JAOdFrNCZAwWqcTzLSPAh/mM5s+z=
+tJKes0PP6qhQLXZlJJhnRR1L7v6le32Sl96yJXAsXtA75Hcf2q90kE1zbQemwyHziwy5gMdLx6+=
+E4aFjlGQDwRgfDizr0K2JCO8uZc6I89r80BgQ/TnA7U42rCJDsj1KV/720WAR9q2++hzJtVhIMn=
+AJglFsYlW79jO4vGObfeTOBNgjZkrbviWQF6oPSHn17gIbeZN975ePAbfRYxgNJbivHdQiuZ6dp=
++fz8tzQ=3D;25:beXyFAA9iKKMnOxfLmdk2lSXW3UKkyfT8UfkACgXFRHzSy8uoYSi9ESrRlswV=
+z0Llck7DBi5uG4BtjdlUMkWPky7CS+rPpR8ZTiZO+mjUUvZ/omgG7qFQHr6IGIILKlQLF+0sFKW=
+qRuXdT44T+XcBRMHIMbafp828hr5yjMs+HA8QBtgSDuH8VB4iG9DRvkDTcdyOjrC5loCIDGzyIn=
+1Ff6zeXlSEUGD8DuIUKdRa6JbcpnTDrBsG2bKHzCAMPOvQg1Y8KwOvYHHTaxPJ0cBkW/BrSGkMT=
+Goia/KZ6+JU+sHwS3es4F6ozPQvD7ompmIE3Cmd7qDLVzYk7MrLEsCNBSUjny4n7XzKxoAunZv6=
+XAqfoc35U3T5eywWABvqJJ5
+X-MS-TrafficTypeDiagnostic: TY2PR04MB3343:
+</pre>
+  </body>
+</html>=
+
+--_b54227b1-4ac6-45e3-915e-88df9f96f3cf_--
+
+--_daed7820-823e-4aca-818b-8c0bc4f8ff09_
+Content-Type: application/octet-stream; name="Malware Alert Text.txt"
+Content-Description: Malware Alert Text.txt
+Content-Disposition: attachment; filename="Malware Alert Text.txt"
+Content-Transfer-Encoding: base64
+
+TWFsd2FyZSB3YXMgZGV0ZWN0ZWQgaW4gb25lIG9yIG1vcmUgYXR0YWNobWVudHMgaW5jbHVkZWQg
+d2l0aCB0aGlzIGVtYWlsIG1lc3NhZ2UuIA0KQWN0aW9uOiBBbGwgYXR0YWNobWVudHMgaGF2ZSBi
+ZWVuIHJlbW92ZWQuDQpSYWogQmFndWwgb3ZlcmR1ZSBpbnZvaWNlIHVyZ2VudAkgVzk3TS9Tb25i
+b2tsaQ0KUmFqIEJhZ3VsIG92ZXJkdWUgaW52b2ljZSB1cmdlbnQJIFc5N00uRG93bmxvYWRlcg0K
+UmFqIEJhZ3VsIG92ZXJkdWUgaW52b2ljZSB1cmdlbnQJIFdpbjMyL0Nhc2RldCFyZm4NCg==
+
+--_daed7820-823e-4aca-818b-8c0bc4f8ff09_--

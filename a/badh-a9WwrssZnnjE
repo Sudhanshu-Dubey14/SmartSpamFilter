@@ -1,0 +1,476 @@
+Return-Path: <techg@bounce.indiatimes.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <aarti@jcblgroup.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a9WwrssZnnjE>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a9WwrssZnnjE for <aarti@jcblgroup.com>;
+	Mon, 23 May 2016 10:20:03 +0530 (IST)
+Received: from osmtp1.etretail.com (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with ESMTP id 89A5AEDA5E3
+	for <anju@houseofdesign.co.in>; Mon, 23 May 2016 10:20:02 +0530 (IST)
+Received: from localhost (192.169.23.10.static.etheric.net [192.169.23.10])
+	by osmtp1.etretail.com (Postfix) with ESMTP id D9622AD187
+	for <anju@houseofdesign.co.in>; Mon, 23 May 2016 09:56:06 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 osmtp1.etretail.com D9622AD187
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=etretail.com;
+	s=default; t=1463977567;
+	bh=I52YoOR9LVLcE6VpEC4qQMgaBLwouANh0FVz2xYCar4=;
+	h=MIME-Version:Content-type:From:To:Subject:Reply-To;
+	b=LP6Cwfsqch3FnZNTuj52oK9yKIffQZnoQk9NQbDzfH7PIJ/PlidFaHdoyGgMxs/gE
+	 ZJpStjhGXJriI42Yw9ytJJTDAmaurkiBR+GaRdeNA24PzrUDH1CkegniFBI9HzwX9E
+	 vv//HB33bt+onvHL3c9wUX73VxoOVNEWdq0JYUpk=
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1;
+From: ETRetail Latest News<newsletter@etretail.com>
+To: anju@houseofdesign.co.in
+Subject: What happened when Apple's Cook mistook original accessory for a fake| Office hours are busiest for shopping sites| Flipkart rejigs top level roles
+Reply-To: no-reply@etretail.com
+
+<!DOCTYPE html><html><head><!-- HEAD1 -->
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://b2bstatic.iimg.in/Themes/Release/images/Retail-favicon.ico" type="image/x-icon" />
+</head><!-- /HEAD1 -->
+<body style="background:#eeeeee; font-family:Arial, Helvetica, sans-serif; margin:0; padding:0; font-size:100%;"><!-- HEAD2 -->
+
+<table width="100%" bgcolor="#eeeeee" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;">
+<tr>
+<td>
+<!--[if gte mso 9]>
+
+<table align="center" width="655" cellpadding="0" cellspacing="0" style="width:655px; margin:auto;">
+<tr>
+<td>
+
+<![endif]-->
+
+<!--[if lte mso 9]>
+
+<table align="center" width="655px" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+
+<![endif]-->
+
+	<table class="nletter-wrap" style="max-width:635px;" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+    <td style="padding-left:10px; padding-right:10px;">
+	<a name="top_block"></a>
+    
+			
+ <table width="100%" align="left" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="10"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" align="left" cellpadding="0" cellspacing="0">
+								<tr>
+					<td align="right" valign="top" width="100%" style="padding-bottom:1px;">
+						<span style="display:block; font-size:11px; color:#000;
+font-family:Arial, sans-serif; text-align:right;">Mon, May 23, 2016   </span>
+					</td>
+				</tr>
+								<tr>
+					<td  align="left" width="100%">
+						<img border="0" height="28" style="font-family:arial; font-size:36px; color:#02465b; border:0; display:block; vertical-align:top;" title="ETRetail.com" alt="ETRetail.com" src="http://b2bstatic.iimg.in/Themes/Release/images/img-etretail-logo-sep.png"  />
+					</td>
+				</tr>
+								<tr>
+					<td align="left" style="padding-top:5px;">
+						<span style="display:block; font-size:14px; line-height:16px; color:#ed1c24;
+font-family:georgia, serif; text-align:left;">
+							Daily Newsletter
+						</span>
+					</td>
+				</tr>
+							</table>
+		</td>
+	</tr>
+	<tr>
+		<td height="15"></td>
+	</tr>
+</table>
+	
+		
+	<!-- {$$!!PROMOTOPBLOCK!!$$} -->
+	
+	<table width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;"><tr>
+										<td valign="top" style="padding-bottom:10px;">
+											<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border:#dcd4c9 1px solid; border-top:#f3eade 1px solid; border-bottom:#bab4aa 1px solid; box-shadow:0 1px 1px #dcd4c9; margin-top:0px;">
+												<tr><td style="height:20px"></td></tr><tr>
+												<td style="padding:0px 20px">
+												<table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Top Stories
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fconsumer-durables-and-information-technology%2Fmobiles%2Fapple-ceo-tim-cook-caught-on-wrong-foot-over-fake-cover%2F52373771&mailer_id=5090&item_id=954467&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												What happened when Apple CEO Tim Cook misunderstood an original Apple product as a fake one?<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Famazon-agrees-to-remove-items-in-animal-specimen-category-wildlife-body%2F52383462&mailer_id=5090&item_id=955272&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Amazon agrees to remove restricted animal specimen from its platform: wildlife body<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Foffice-hour-is-rush-hour-at-online-shops-sokrati-study%2F52394188&mailer_id=5090&item_id=956390&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												When does online shopping sites see most traffic? During office hours, reveals Sokrati study<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Findustry%2Fhow-to-lodge-a-consumer-complaint-online%2F52394295&mailer_id=5090&item_id=956407&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												How to lodge a consumer complaint online?<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Fflipkart-rejigs-top-deck-to-boost-mobile-phone-sales%2F52393804&mailer_id=5090&item_id=956345&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Flipkart rejigs top level roles in its core marketplace to improve sellers ecosystem<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fgrocery%2Fkumar-mangalam-birla-and-family-plan-to-invest-rs-500-crore-in-groups-food-and-grocery-business%2F52394042&mailer_id=0&item_id=956377&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Kumar Mangalam Birla and family plan to invest Rs 500 crore in groups food and grocery business<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fconsumer-durables-and-information-technology%2Fmobiles%2Fapple-ceo-tim-cook-tells-pm-narendra-modi-of-possibility-of-manufacturing-apple-products-in-india%2F52383569&mailer_id=0&item_id=955275&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Apple CEO Tim Cook tells PM Narendra Modi of possibility of manufacturing Apple products in India<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Fjabong-sheds-brands-with-low-margins-to-focus-on-premium-lifestyle-products-to-trim-its-losses%2F52393877&mailer_id=0&item_id=956371&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Jabong sheds brands with low-margins, to focus on premium lifestyle products to trim its losses<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fcompanies%2Fretail-chains-opt-for-loyalty-points-on-patanjali-items-116052300037_1.html&mailer_id=5090&item_id=956361&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Retail chains opt for loyalty points on Patanjali items<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Business Standard</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Findustry%2Fmaneka-gandhi-wants-daycare-facility-in-all-companies-to-help-women-raise-children%2F52393844&mailer_id=0&item_id=956351&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Maneka Gandhi wants daycare facility in all companies to help women raise children<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fhome-and-decor%2Ffurniture-and-decor%2Fonline-furniture-cos-like-urban-ladder-houzz-and-pepperfry-starts-offering-additional-services-to-increase-their-business%2F52394219&mailer_id=0&item_id=956396&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Online furniture cos like Urban Ladder, Houzz and PepperFry starts offering additional services to increase their business<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													E-commerce
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fcompanies%2Fcaratlane-will-make-us-leaders-online-bhaskar-bhat-116052200168_1.html&mailer_id=5090&item_id=956353&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Caratlane will make us leaders online: Bhaskar Bhat<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Business Standard</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Fchinas-tiens-group-to-enter-indian-e-commerce-market%2F52383602&mailer_id=0&item_id=955276&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												China's Tiens Group to enter Indian e-commerce market<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fcompanies%2Fgrowing-a-category-by-improving-access-116052200797_1.html&mailer_id=5090&item_id=956352&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Lenskart: Growing a category by improving access<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Business Standard</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fe-commerce%2Fe-tailing%2Fflipkart-ties-up-with-fossil-for-a-watch-exchange-scheme%2F52373576&mailer_id=0&item_id=954428&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Flipkart ties up with Fossil for a watch exchange scheme<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Apparel & Fashion
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fapparel-fashion%2Fapparel%2Fworking-to-improve-labour-conditions-in-india-factories-hm%2F52383677&mailer_id=0&item_id=955277&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Working to improve labour conditions in India factories: H&M<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fapparel-fashion%2Fjewellery%2Fdemand-for-gold-jewellery-in-india-down-to-7-year-low-report%2F52373841&mailer_id=0&item_id=954470&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Demand for gold jewellery in India down to 7-year low: Report<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fapparel-fashion%2Ffootwear%2Famerican-footwear-major-skechers-to-double-store-count-in-india%2F52394155&mailer_id=0&item_id=956384&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												American footwear major Skechers to double store count in India<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fapparel-fashion%2Fapparel%2Fbumchums-launches-a-whole-new-range-of-casual-wear-for-women%2F52375194&mailer_id=0&item_id=954583&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Bumchums launches a whole new range of Casual Wear for Women<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Food & Entertainment
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fpersonal-care-pet-supplies-liquor%2Fgodrej-group-looking-to-become-10-billion-entity-by-2020%2F52394111&mailer_id=0&item_id=956385&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Godrej Group looking to become $10 billion entity by 2020<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.livemint.com%2FMoney%2FLLlytiPelCU5tdjXZrpgIO%2FITC-can-it-kick-the-slow-growth-of-FY16.html&mailer_id=5090&item_id=956342&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												ITC: can it kick the slow growth of FY16?<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Livemint</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fpersonal-care-pet-supplies-liquor%2Fcremica-sees-growth-of-35-pc-in-revenues-owing-to-expansion-and-capacity-addition-%2F52394102&mailer_id=0&item_id=956386&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Cremica sees growth of 35 pc in revenues owing to expansion and capacity addition.<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fpersonal-care-pet-supplies-liquor%2Fruchi-soya-sells-stake-in-joint-venture-firm-for-rs-63-crore%2F52394054&mailer_id=0&item_id=956376&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Ruchi Soya sells stake in joint venture firm for Rs 63 crore<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fgrocery%2Fsugar-shortage-leads-coca-cola-to-halt-venezuela-production%2F52375267&mailer_id=0&item_id=954585&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Sugar shortage leads Coca-Cola to halt Venezuela production<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Ffood-services%2Fbars-just-lifted-their-spirits-with-novel-cocktails%2F52383427&mailer_id=0&item_id=955271&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Bars just lifted their spirits with novel cocktails<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Ffood-entertainment%2Fgrocery%2Fhyper-local-delivery-startup-launches-service-in-goas-capital%2F52373706&mailer_id=0&item_id=954465&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Hyper-local delivery startup launches service in Goa's capital<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Consumer Durables and Information Technology
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fwww.business-standard.com%2Farticle%2Fcompanies%2Fmovies-cricket-serious-business-for-tim-cook-s-future-india-plans-116052300045_1.html&mailer_id=5090&item_id=956349&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Movies & cricket serious business for Tim Cook's future India plans<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  Business Standard</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fconsumer-durables-and-information-technology%2Fmobiles%2Fsamsung-beats-apple-in-fy16-premium-phone-sales-in-india%2F52383635&mailer_id=0&item_id=955278&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Samsung beats Apple in FY16 premium phone sales in India<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fconsumer-durables-and-information-technology%2Fmobiles%2Fnokia-cuts-more-than-a-thousand-jobs-in-finland%2F52373461&mailer_id=0&item_id=954424&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Nokia cuts more than a thousand jobs in Finland<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" style="clear:both;" cellpadding="0" cellspacing="0"><tr><td></td></tr></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Home & Decor
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Fhome-and-decor%2Ffurniture-and-decor%2Fikea-to-sell-23-retail-parks-across-europe%2F52373633&mailer_id=0&item_id=954463&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												IKEA to sell 23 retail parks across Europe<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+									<td style="padding-top:0px;" colspan="2"></td>
+								</tr>
+								</tbody></table><table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom:5px;" class="multi-cols">
+											 <tr>
+												<td style="padding:0px 0 5px;" colspan="2">
+													<span style="color:#777777; font-size:18px; line-height:22px; padding-left:5px;font-family:Arial, Helvetica, sans-serif;" >
+													Industry
+													</span>
+												</td>
+											</tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Findustry%2Fmobile-wallet-companies-paytm-mobikwik-and-oxigen-diversifying-to-combat-upi-threat%2F52393884&mailer_id=0&item_id=956370&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												Mobile wallet companies Paytm, MobiKwik and Oxigen diversifying to combat UPI threat<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+											<td valign="middle" style="font-size:14px; color:#666; padding-bottom:7px; line-height:15px;vertical-align:top; " align="center" width="15" height="10">
+												&bull;
+											</td><td valign="top" align="left" style="padding-bottom:7px; line-height:15px;" class="cont1">
+												<a style="font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:13px; color:#1e7cdc;" href="http://retail.economictimes.indiatimes.com/l.php?url=http%3A%2F%2Fretail.economictimes.indiatimes.com%2Fnews%2Findustry%2Ffrom-a-potent-weapon-of-business-success-is-pivoting-turning-into-a-face-saving-strategy-for-failing-startups%2F52383521&mailer_id=0&item_id=955274&dt=2016-05-23&utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etretail_news_2016-05-23&email=anju@houseofdesign.co.in&activity_name=etretaildailynews_2016-05-23" target="_blank">
+												From a potent weapon of business success, is pivoting turning into a face-saving strategy for failing startups?<span style="color:#999; font-family:Arial, sans-serif; font-size:11px;">  ETRetail</span>
+												</a>
+										</td></tr><tr>
+												<td style="padding-top:0px;" colspan="2"></td>
+												</tr>
+											</table>
+											<table width="100%" style="clear:both;" cellpadding="0" cellspacing="0">
+												<tr><td style="height:10px"></td></tr>
+											</table>
+										</td>
+									</tr>
+									</table>
+									<div style="display:none;width:0;height:0;">
+										<img src="http://retail.economictimes.indiatimes.com/etv_mailer_open_count_tracking.php?emid=Mmt1ZWJEampCK2JTS1ZRMUpWbFFrcFZmNHdFbHF1RzBVeWo2VHpLUFUxZz0=&activity_name=etretaildailynews_2016-05-23&euid=eXVYVk9MSWVBVk9jN2FXbytVZW9CZz09&current_date=2016-05-23" style="display:none;width:0;height:0;" height="0" width="0" />
+									</div>
+									</td></tr>							<!-- {$$!!PROMOMIDBLOCK!!$$} -->
+							<!-- {$$!!OTHERPARTYBLOCK!!$$} -->
+								<tr><td>
+	<!-- {$$!!PROMOBOTTOMBLOCK!!$$} -->	
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;">
+    <tr>
+    <td style="padding-right:8px;" valign="top"><img src="http://b2bstatic.iimg.in/Themes/Release/images//img-etr-join.gif" width="23px"></td>
+    <td valign="top" style="font-size:13px; color:#000000; font-weight:bold">Invite your friends and colleagues to sign up for this newsletter. Tell them to send an email to <a href="mailto:join@etretail.com" style="color:#1e7cdc; text-decoration:none;">join@etretail.com</a></td>
+    </tr>
+    </table>
+    <br>
+    
+    <table id="unsub_mail_bx" width="100%" cellpadding="0" cellspacing="0" style="margin-top:0px;">
+    <tr>
+    <td class="toplnks" align="left" style="color:#777777; font-size:11px; line-height:15px;">
+    Add <a href="#" style="color:#1e7cdc;">newsletter@etretail.com</a> to your address book to ensure that our mails reach your Inbox. If you do not want to receive this mailer, you can <a href="http://retail.economictimes.indiatimes.com/unsubscribe.php?zx=JmVtYWlsPWFuanVAaG91c2VvZmRlc2lnbi5jby5pbiZhY3Rpdml0eV9uYW1lPWV0cmV0YWlsZGFpbHluZXdz" style="color:#1e7cdc; text-decoration:none;">unsubscribe</a> from our mailing list.
+    </td>
+    </tr>
+    <tr>
+    <td style="color:#262626; font-size:11px; line-height:15px; padding:12px 0;">
+    2016 ETRetail | <a href="http://retail.economictimes.indiatimes.com/contact_us.php" target="_blank" style="color:#1e7cdc; text-decoration:none;">Contact Us</a> <br>
+	ETRetail.com (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301, Uttar Pradesh, India
+	<br>
+	<br>
+    </td>  
+    </table>
+    
+    
+    </td>
+		
+		<!-- {$$!!PROMORIGHTBLOCK!!$$} -->
+	</tr>	
+	</table>
+	
+    <br>
+    
+    
+    	
+	</td>
+	</tr>
+    </table>
+
+<!--[if lte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+<!--[if gte mso 9]>
+
+</td>
+</tr>
+</table>
+
+<![endif]-->
+
+</td>
+</tr>
+</table>
+</body></html><!-- /HEAD2 -->
+

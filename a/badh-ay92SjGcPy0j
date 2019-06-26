@@ -1,0 +1,149 @@
+Return-Path: <auto1+caf_=shubham_sharma=jcbl.com@jcblmail.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <shubham_sharma@jcblmail.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ay92SjGcPy0j>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: part did not end with
+	expected boundary
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ay92SjGcPy0j for <shubham_sharma@jcblmail.com>;
+	Thu,  4 Jan 2018 11:22:41 +0530 (IST)
+Received: from mail-wm0-f49.google.com (mail-wm0-f49.google.com [74.125.82.49])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 0B8B11005EA2
+	for <shubham_sharma@jcbl.com>; Thu,  4 Jan 2018 11:22:36 +0530 (IST)
+Received: by mail-wm0-f49.google.com with SMTP id n138so1374411wmg.2
+        for <shubham_sharma@jcbl.com>; Wed, 03 Jan 2018 21:53:44 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:delivered-to:dkim-signature:from:to:cc:subject
+         :date:message-id:mime-version:thread-index:content-language;
+        bh=7vs6rOrlvWwRdIntZyfBwwDMrxPvVMyh8E6KO4jDfhU=;
+        b=k2sZ0/lD3/y4LGpXB3RuoPkoMFGA/Xai2zrPRI0eST1GwEA/b87laPWp6C126juQBe
+         hjdOrGZDa+bv3OwyIcYxLuSytrPIo0DFkPTZeHERkMZoQgwGqehptB7/0XYeOF3QZyss
+         cQaypJaMswMsvP0mEf9dyNpM2evjAAdB+2e8WtEuPmMqNmxGHIupGjFgkVGjeug6xDkZ
+         tRWGklotnYJkQO593Ev+Rdc+gPhOrFK+NFSu12DC0QJpITUUwD14xbaR5w28yFug+SkJ
+         IIPwjuJsWxLK7E4GPKLUrPz2GLkN2Cmhzr5HFklfLZrawNhd90rx0QujzqUVmSmpthgW
+         YcqA==
+X-Gm-Message-State: AKGB3mK2UwyoouZ4WPoWlU24FBxXOjXco61V27JPBDzCHo+arPenTmff
+	VKtGz5OFm3h6W+MAXUV6UWv6JMfboMfWMUM7NbmmrEO7F9UH266Tp4gpazH6NKXpIFUi6xFRBuD
+	294PK0YID3GT3NCyPqZPeVD06q8OAsxhaX2nmBAYAHnwmxVABv2QHgdqiebmqJ36YOUIcDchvMs
+	vaF9Cf0+jKvOB5yTOYKqcy
+X-Received: by 10.80.214.29 with SMTP id x29mr5667371edi.233.1515045220451;
+        Wed, 03 Jan 2018 21:53:40 -0800 (PST)
+X-Forwarded-To: shubham_sharma@jcbl.com
+X-Forwarded-For: auto1@jcblmail.com shubham_sharma@jcbl.com
+Delivered-To: auto1@jcblmail.com
+Received: by 10.80.244.20 with SMTP id r20csp140849edm;
+        Wed, 3 Jan 2018 21:53:38 -0800 (PST)
+X-Google-Smtp-Source: ACJfBov0bVtV2RcLZdWFs2tnD5KNjuNLtRXHsKRQ2SubdOgiLk4FnAlYujcSdW+whPwLyx2HencU
+X-Received: by 10.98.152.147 with SMTP id d19mr3601853pfk.95.1515045218762;
+        Wed, 03 Jan 2018 21:53:38 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1515045218; cv=none;
+        d=google.com; s=arc-20160816;
+        b=kg4uM2h7K8sjEfWCe8PfL4t8fMxqet33jq/7oV2SrTmzKunqbJfqdzF+RwZvaWY2Tp
+         WOVw7U2JDpOuMx/+QiUgJfa5yv5Q4FTwMBJIUTJiypxYzWbvkxjssyWfscRr4m9WQZLr
+         pQcjTOtNVVjI53dUz+wiG/PFpo4eyNpk47pzjbiFwvyqrtwcaO9kA0mNwpSr963rWQTB
+         HXvvuFvMTEuT1Zd94fUyv+02DLSVWZmi+naJXHz1EpxUj5azSW1Ne+4qe4w1K9G9z8CP
+         Jsh1tMV4mIN7/vk4632ICaeUe8X/huIRn60IKa991Obopc6W4Cs5znocFF2YkxJ6e6C/
+         S24g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-language:thread-index:mime-version:message-id:date:subject
+         :cc:to:from:dkim-signature:arc-authentication-results;
+        bh=7vs6rOrlvWwRdIntZyfBwwDMrxPvVMyh8E6KO4jDfhU=;
+        b=DzFCHjcx9QkIBVqVQj5kAP90DTctv0LiOXayLz8vyh6MlVCdZVaCehTrcb+mZ2kFTS
+         MgAVoZVd6KaXIVXExIEnYojL1RmLqzWpfoGXsdnZoBJA5QfHoQ8WMg9kjE5r4DVYHYh+
+         llZ9s6mTyEnhXxkhOMrlMeHJLSRqs7TiFOS5zh+xZ/YmbIEijsQ6TiAhNwHb1jCvM842
+         38+gt8lfAyVcMKilM1HM/CDs4m3T+PkCMnD2LV8IKoFrwRcdVWOihdc3ylK5cNO2T8wb
+         TOvX7ic7KxloGIDlc5rYclOvSIHCApdesZad07IHk1QwhXuouJpB8w3HYQE/mnzJb36O
+         pnEw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=neutral (body hash did not verify) header.i=@jcblmail-com.20150623.gappssmtp.com header.s=20150623 header.b=JwcMWxnG;
+       spf=neutral (google.com: 107.182.173.5 is neither permitted nor denied by best guess record for domain of jatinder_singh@jcblmail.com) smtp.mailfrom=jatinder_singh@jcblmail.com
+Received: from umail.jcbl.com (umail.jcbl.com. [107.182.173.5])
+        by mx.google.com with ESMTP id t69si1629586pgd.227.2018.01.03.21.53.38
+        for <auto1@jcblmail.com>;
+        Wed, 03 Jan 2018 21:53:38 -0800 (PST)
+Received-SPF: neutral (google.com: 107.182.173.5 is neither permitted nor denied by best guess record for domain of jatinder_singh@jcblmail.com) client-ip=107.182.173.5;
+Authentication-Results: mx.google.com;
+       dkim=neutral (body hash did not verify) header.i=@jcblmail-com.20150623.gappssmtp.com header.s=20150623 header.b=JwcMWxnG;
+       spf=neutral (google.com: 107.182.173.5 is neither permitted nor denied by best guess record for domain of jatinder_singh@jcblmail.com) smtp.mailfrom=jatinder_singh@jcblmail.com
+Received: from localhost (localhost [127.0.0.1])
+	by umail.jcbl.com (Postfix) with ESMTP id BEACF1DA0BF
+	for <auto1@jcblmail.com>; Thu,  4 Jan 2018 11:23:43 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+X-Amavis-Alert: BAD HEADER SECTION, MIME error: error: part did not end with
+	expected boundary
+Received: from umail.jcbl.com ([127.0.0.1])
+	by localhost (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 63g0Ik3vOYnG for <auto1@jcblmail.com>;
+	Thu,  4 Jan 2018 11:23:43 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)
+	id 1B9BBF28DF7; Thu,  4 Jan 2018 05:52:29 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])
+	by mx11.jcbl.com (Postfix) with ESMTP id E98F1F28DF7
+	for <auto1@jcblmail.com>; Thu,  4 Jan 2018 11:22:28 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx10.jcbl.com (Postfix) with ESMTP id CFA3A1005EC6
+	for <auto1@jcblmail.com>; Thu,  4 Jan 2018 11:22:28 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ieXYr17b3_jj for <auto1@jcblmail.com>;
+	Thu,  4 Jan 2018 11:22:28 +0530 (IST)
+Received: from mail-it0-f42.google.com (mail-it0-f42.google.com [209.85.214.42])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 15B651005EA2
+	for <auto1@jcbl.com>; Thu,  4 Jan 2018 11:22:23 +0530 (IST)
+Received: by mail-it0-f42.google.com with SMTP id m11so570934iti.1
+        for <auto1@jcbl.com>; Wed, 03 Jan 2018 21:53:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=jcblmail-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:cc:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=sKUZdHj61UOcl2BEksAad2tv5ab/Ck3lo2Wkw4G15Qc=;
+        b=JwcMWxnG8NA7tdHu7+RXvQOTV0b8QzODRxwTI4zgpA41Lw0Kly45k3f98i67OtpTfC
+         N77ZYZxO2BVW2OS/RPcCCMAvfOdAho0awrSyXtuIX0Kjuj8lUitU941vsYs40TXAT6v+
+         BrX6Ux+tnZIIXvLnVzSC7HbTSpNK7BF7r+bWEH6IdwW4HsL8smS7FAYg0SyrwXB6gIMQ
+         SMt3jz//hQBBKnlKtkRvMsGCh11NMvV+xFy42CoZmFAkzrU+IQSff/UOfJ4QAi7dsy/d
+         GnBvWIyVj4FN750+w4YeOl68C/A1u1IULnX2WK4noNZ+xXlwpcLQf0V4MfRn5RQtgNCL
+         KV4g==
+X-Received: by 10.36.2.212 with SMTP id 203mr4707486itu.43.1515045207878;
+        Wed, 03 Jan 2018 21:53:27 -0800 (PST)
+Received: from adminPC ([182.72.37.18])
+        by smtp.gmail.com with ESMTPSA id q6sm1679094ita.38.2018.01.03.21.52.08
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 03 Jan 2018 21:53:23 -0800 (PST)
+From: "Jatinder Singh - JCBL India Pvt Ltd" <jatinder_singh@jcblmail.com>
+To: "'Shubham Sharma'" <shubham_sharma@jcblmail.com>
+Cc: "'Ullas Negi'" <auto2@jcblmail.com>,
+	"'Prakash Joshi'" <auto1@jcbl.com>
+Subject: BAJAJ 3WHEELER SPARE PARTS PRICE LIST
+Date: Thu, 4 Jan 2018 11:22:13 +0530
+Message-ID: <004801d38520$31638610$942a9230$@jcblmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0049_01D3854E.4B1CFA90"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdOFH+u6s4IDSAE5QPeEVQXch8/CtA==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0049_01D3854E.4B1CFA90
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_004A_01D3854E.4B1CFA90"
+
+
+------=_NextPart_001_004A_01D3854E.4B1CFA90
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Sir
+
+ 
+
+Please find attached Bajaj 3 W spare parts price list with OEM Code and HSN

@@ -1,0 +1,54 @@
+Return-Path: <oyib1099@yahoo.co.jp>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aAjdJdTigJ0n>
+X-Amavis-Alert: BAD HEADER SECTION MIME error: error: unexpected end of header
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aAjdJdTigJ0n for <poonam_rawal@jcblmail.com>;
+	Thu, 14 Sep 2017 14:26:23 +0530 (IST)
+Received: from mx-n03.wc1.lan3.stabletransit.com (mx-n03.wc1.lan3.stabletransit.com [207.246.249.43])
+	by mx10.jcbl.com (Postfix) with ESMTP id 6A607FCA7DE
+	for <ibd@jcbl.com>; Thu, 14 Sep 2017 14:26:20 +0530 (IST)
+Received: by mx-n03.wc1.lan3.stabletransit.com (Postfix, from userid 113)
+	id 6AF2FE2AC9; Thu, 14 Sep 2017 03:58:23 -0500 (CDT)
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	mx-n03.wc1.lan3.stabletransit.com
+X-Spam-Level: *
+X-Spam-Status: No, score=1.9 required=6.0 tests=FREEMAIL_FROM,
+	HAS_PHP_HEADER_02,HTML_MESSAGE,LOTS_OF_MONEY,MIME_HTML_MOSTLY,MISSING_MID,
+	MPART_ALT_DIFF,TO_NO_BRKTS_PCNT,T_TVD_MIME_NO_HEADERS autolearn=no
+	autolearn_force=no version=3.4.0
+X-Spam-Virus: No
+Received: from php-v015.wc1.lan3.stabletransit.com (unknown [10.30.221.62])
+	by mx-n03.wc1.lan3.stabletransit.com (Postfix) with SMTP id 0CD16E2920
+	for <ibd@jcbl.com>; Thu, 14 Sep 2017 03:58:18 -0500 (CDT)
+Received: by php-v015.wc1.lan3.stabletransit.com (sSMTP sendmail emulation); Thu, 14 Sep 2017 03:57:18 -0500
+Date: Thu, 14 Sep 2017 03:57:18 -0500
+To: ibd@jcbl.com
+Subject: Earn 30% to partner with us.
+X-PHP-Originating-Script: 1546382:404.php
+From: Maman D. Abudhair <oyib1099@yahoo.co.jp>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a336a5e1549d0c2f3de285e74ecf1653"
+Message-Id: <20170914085823.6AF2FE2AC9@mx-n03.wc1.lan3.stabletransit.com>
+
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+I work for a big bank in Dubai, United Arab Emirates (UAE) as commercial manager. I will like to invest the sum of $48,000,000 through you after you would have collected your 30% earn. I will not give detail about funds on this mail until you return with your interest and capability to receive and to invest funds. 
+Maman D. Abudhair
+--a336a5e1549d0c2f3de285e74ecf1653
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+I work for a big bank in Dubai, United Arab Emirates (UAE) as commercial manager. I will like to invest the sum of $48,000,000 through you after you would have collected your 30% earn. I will not give detail about funds on this mail until you return with your interest and capability to receive and to invest funds. 
+Maman D. Abudhair
+--a336a5e1549d0c2f3de285e74ecf1653
+--a336a5e1549d0c2f3de285e74ecf1653--
+

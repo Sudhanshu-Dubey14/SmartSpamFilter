@@ -1,0 +1,85 @@
+Return-Path: <copcam@world-breaking-news.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <avtar_singh@jcbl.com>
+X-Envelope-To-Blocked: <avtar_singh@jcbl.com>
+X-Quarantine-ID: <aGp1daCAAVln>
+X-Spam-Flag: YES
+X-Spam-Score: 10.054
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.054 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_24=1.282, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RDNS_NONE=1.274, T_URIBL_SEM=0.01,
+	T_URIBL_SEM_RED=0.01, URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aGp1daCAAVln for <avtar_singh@jcbl.com>;
+	Sun, 13 Jan 2019 08:43:04 +0530 (IST)
+Received: from bimetallism.world-breaking-news.info (unknown [23.94.103.239])
+	by mx10.jcbl.com (Postfix) with ESMTPS id EEE3EF44DBB
+	for <avtar_singh@jcbl.com>; Sun, 13 Jan 2019 08:43:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=world-breaking-news.info; s=dkim; t=1547349289;
+	bh=NT+G9+QlbcgSS9DhmICPTzfF7e29PczTPbsOogMea7g=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=dTCgXjzdeDXIYwesu8RnXLlP3aZ2c6uQE0+JBucADFpuoJQ+H0m/ACetTLJjzlkAe
+	 XRao4zi4n5VdaJjpJDGsFuxobudYO8yhdVwUFt5tNsViyUIBgmJ99efM+UbM5TXrY5
+	 Zm9obAHH5Vm/RNFYglQxR4SB2BHKFfJz0gZil5IM=
+To: <avtar_singh@jcbl.com>
+From: "TV's Cop Cam" <copcam@world-breaking-news.info>
+Subject: Camera With Motion Sensor That Loop Records!
+Date: Sat, 12 Jan 2019 22:14:49 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201901122214:178384f6ed84c8506ab8414_29ad3a5c:nigne_fvatu^wpoy(pbz:20680
+List-Unsubscribe: <mailto:178384f6ed84c8506ab8414_29ad3a5c@world-breaking-news.info>, <http://world-breaking-news.info/178384f6ed84c8506ab8414_29ad3a5c/U/>
+Message-ID: <201901122214@world-breaking-news.info>
+X-campaignID: 20680
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.world-breaking-news.info/1c8b89f57834c8506ab841447b03_29ad3a5c-01010c0c0002/C/">
+<html>
+<head>
+<title>Cop Cam&trade; - The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything Whenever Motion is Detected!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="320" border="0" cellpadding="5" cellspacing="0">
+<tr>
+<td style="display:none !important;
+ visibility:hidden;
+ mso-hide:all;
+ font-size:1px;
+ color:#ffffff;
+ line-height:1px;
+ max-height:0px;
+ max-width:0px;
+ opacity:0;
+ overflow:hidden;">
+ Small Camera Records Anything, Anywhere! 
+</td>
+</tr>
+<tr> 
+ <td style="font:12px Arial, Helvetica, sans-serif;">
+ <p>Cop Cam&trade; - The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything Whenever Motion is Detected!</p>
+ <p>Cop Cam is the wireless HD recording camera smaller than one square inch! Hide Cop Cam virtually anywhere and shoot in incredible high-def with a
+powerful microphone to record perfect audio. The high tech motion sensor loop records. Upload footage to your computer to share in seconds. Use Cop
+Cam can be used as a body cam and dash cam or for bad neighbors and packaging thieves. High anywhere and record anything with the Cop Cam!</p>
+ <p><a href="http://www.world-breaking-news.info/1c8da91a79a4c8506ab84144b103_29ad3a5c-01010c0c0002/C/">Learn More</a></p></td>
+</tr>
+ <tr>
+ <td><a href="http://www.world-breaking-news.info/1c8da91a79a4c8506ab84144b103_29ad3a5c-01010c0c0002/C/"><img
+src="http://www.world-breaking-news.info/1a69433c24c8506ab841446005_29ad3a5c-01010c0c0002/V/" alt="Cop Cam&trade; - The Wireless
+Security Camera Small Enough to Hide Anywhere to Record Anything Whenever Motion is Detected!" border="0"></a></td>
+ </tr>
+ <tr>
+ <td align="center" style="font: 11px Arial, Helvetica, sans-serif">If you would like to remove yourself from the Cop Cam&trade; list, click <a
+href="http://sendwarrior.com/178384f6ed84c8506ab8414_29ad3a5c/U/">here</a>.<br />
+*This is an advertisement<br />
+<span id="OLK_SRC_BODY_SECTION2">PO Box 4077 Broadlands, VA 20148</span></td>
+ </tr>
+</table>
+</body>
+</html>
+

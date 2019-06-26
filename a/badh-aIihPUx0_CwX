@@ -1,0 +1,75 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <accounts@hudsonbroker.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aIihPUx0_CwX>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aIihPUx0_CwX for <accounts@hudsonbroker.in>;
+	Tue, 20 Nov 2018 22:18:49 +0530 (IST)
+Received: from smtp3-outgoing.mail.rjil.net (smtp3-outgoing.mail.rjil.net [49.40.2.145])
+	by mx10.jcbl.com (Postfix) with SMTP id 46182F44207
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 20 Nov 2018 22:18:47 +0530 (IST)
+Received: from NVMBD2ANO130V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp3-outgoing.mail.rjil.net (Postfix) with ESMTP id 841E4280C1A
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 20 Nov 2018 22:19:34 +0530 (IST)
+Received: from NVMBD2BKT10D00 (prdin10sneapp12.bss.jio.com [10.143.71.24])
+	by NVMBD2ANO130V15.bss.jio.com (Postfix) with ESMTP id 4404E440066
+	for <ACCOUNTS@HUDSONBROKER.IN>; Tue, 20 Nov 2018 22:19:34 +0530 (IST)
+From: Notification@Jio.com
+To: ACCOUNTS@HUDSONBROKER.IN
+Message-ID: <1836933480.76928986.1542732574283.JavaMail.mwapp@NVMBD2BKT10D00>
+Subject: Daily Data quota exhausted for Jio Number 6283062028
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_76928984_1338925258.1542732574275"
+Bounce_Header: 5109829943681190912
+format: flowed
+
+------=_Part_76928984_1338925258.1542732574275
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Dear Customer,&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">You have exhausted your daily high speed internet quota of 1.5 GB on your Jio Number 6283062028 as of 20-Nov-18 22:19 Hrs. Internet speed will be reduced in case you do not have any active data plan. The internet speed will be restored by 2:00 AM tonight.&nbsp;&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">To continue enjoying high speed internet, recharge with data booster now click https://www.jio.com/Jio/portal/recharge&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Dial 1991, to know your current balance, validity, plan details and for exciting recharge plans.</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;"><br /></span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Thank you,&nbsp;</span></font>
+  </div>
+  <div style="">
+   <font face="tahoma, arial, verdana, sans-serif"><span style="font-size: 12px;">Team Jio .</span></font>
+  </div>
+ </body>
+</html>
+------=_Part_76928984_1338925258.1542732574275--

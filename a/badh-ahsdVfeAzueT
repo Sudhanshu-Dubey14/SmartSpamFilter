@@ -1,0 +1,42 @@
+Return-Path: <vmail@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <beerbohm@ocorrectthere.bid>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ahsdVfeAzueT>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E2 hex): To:
+	"Laithwaite\303\242\302\200\302\231s" <beerbohm@[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ahsdVfeAzueT for <beerbohm@ocorrectthere.bid>;
+	Thu, 24 Dec 2015 07:43:21 +0530 (IST)
+Received: by mx10.jcbl.com (Postfix, from userid 5000)
+	id F04C0EC1D7D; Thu, 24 Dec 2015 07:43:20 +0530 (IST)
+From: praveen_ajauria@jcbl.com
+Precedence: junk
+Auto-Submitted: auto-replied
+To: "Laithwaite’s" <beerbohm@ocorrectthere.bid>
+References: <201512231542.1364408@ocorrectthere.bid>
+In-Reply-To: <201512231542.1364408@ocorrectthere.bid>
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; delsp=yes; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20151224021320.F04C0EC1D7D@mx10.jcbl.com>
+Date: Thu, 24 Dec 2015 07:43:20 +0530 (IST)
+
+Laithwaite’s writes:
+
+> http://ocorrectthere.bid/208a4d17c58615a6016b8d1146933e03_4c077b56-0101010e0001/C/f=hutry/d=pbq/c=FC20BEF8/5318
+
+Hello
+
+Our Mail domain server has been changed  from jcbl.com to acmeformulation.com. So, Please  make all further communication on Mail ID:-praveen.ajauria@acmeformulation.com
+
+
+Regard 
+Parveen 
+

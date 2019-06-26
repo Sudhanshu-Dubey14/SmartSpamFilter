@@ -1,0 +1,90 @@
+Return-Path: <p_c-637380-234197-2-munish_sharma=jcbl.com@rai-b.octmailer.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <munish_sharma@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aKNyBrNfIC21>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char F0 hex):
+	Subject: ...n, Frolic and Prosperity this Season
+	\303\260\302\237\302\216\302\204 \303\260\302\237\302\216\302\205
+X-Spam-Flag: NO
+X-Spam-Score: 3.402
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.402 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, HTML_IMAGE_ONLY_24=1.282,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001, SPF_PASS=-0.001,
+	SUBJECT_NEEDS_ENCODING=0.1, SUBJ_ILLEGAL_CHARS=1.105,
+	T_DKIM_INVALID=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aKNyBrNfIC21 for <munish_sharma@jcbl.com>;
+	Tue, 25 Dec 2018 10:03:15 +0530 (IST)
+Received: from inbox-143.octrelay.in (inbox-143.octrelay.in [199.166.34.143])
+	by mx10.jcbl.com (Postfix) with ESMTPS id BC0F3F44764
+	for <munish_sharma@jcbl.com>; Tue, 25 Dec 2018 10:03:12 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=oct; d=raiedm.com;
+ h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:MIME-Version:Content-Type; i=mailer@raiedm.com;
+ bh=V/aG015HDK3THVD7g+GhfPDi/Yk=;
+ b=0lPlNbYeoyzpcoN6RA1NoJKrL/TRbLBK7bCR4sZZADge2Sia62OvloE6fz8IpfgHadSx2uJGnw5E
+   qkK9WWQlRbtcjiQwdHM1GprGUkc9qQAhrRq0XiiNKMQSl60HaK054+IPaDlmmx8uMQYS28z4woUt
+   P6RdBDeOiHhojReHzxs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=oct; d=raiedm.com;
+ b=SRXLxIFzqe86W9+hIcTFl2fue3souibgyA3BMRq21Qqn9a18zNp5q4/QO2+gE+uYsmLo++HhEBmH
+   b7LNT+JP7xNI2D6a2zggPNkBY1iOPRyYGdGPZyWG6JmU7p8RHt66LsExASmlgYLlnOBQvg1JRyX8
+   lzo5euE90Ka5vQVa/Uc=;
+Date: Tue, 25 Dec 2018 04:34:09 +0000
+To: munish_sharma@jcbl.com
+From: "Retailers Association of India (RAI)" <mailer@raiedm.com>
+Reply-to: mailer@raiedm.com
+Subject: Wish you Fun, Frolic and Prosperity this Season 🎄 🎅
+X-Mailer: rai-b.octmailer.in
+X-Complaints-To: abuse@rai-b.octmailer.in
+List-Unsubscribe: <mailto:unsubscribe@rai-b.octmailer.in?subject=p_c-637380-234197-2-bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==unsub>,<http://rai-p.octmailer.in/tr/ud/2/637380/234197/YWRldHRpQHByZXN0b3dvbmRlcnMuY29t>
+Message-ID: <p_c-637380-234197-2-bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==unsub@rai-b.octmailer.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_8d047016ab7bd75fd722286b0f890969"
+
+
+--b1_8d047016ab7bd75fd722286b0f890969
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<unsubscribe>
+
+
+http://rai-p.octmailer.in/tr/v/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==
+
+
+
+
+http://rai-p.octmailer.in/tr/f/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==
+
+
+
+Email powered by Octane
+You are subscribed to . If you do not wish to receive any further communications, please copy and paste this url into your browser to unsubscribe  <http://rai-p.octmailer.in/tr/u/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==>
+
+
+--b1_8d047016ab7bd75fd722286b0f890969
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+      Christmas-2018
+    </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <table id="Table_01" width="800" height="622" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td>
+          <img src="https://rai.net.in/mailer/christmas-2018/images/Christmas-2018_01.png" width="800" height="156" border="0" alt="" usemap="#Christmas_2018_01_Map" align="top"></td>
+      </tr><tr><td>
+          <img src="https://rai.net.in/mailer/christmas-2018/images/Christmas-2018_02.png" width="800" height="155" alt="" align="top"></td>
+      </tr><tr><td>
+          <img src="https://rai.net.in/mailer/christmas-2018/images/Christmas-2018_03.png" width="800" height="156" alt="" align="top"></td>
+      </tr><tr><td>
+          <img src="https://rai.net.in/mailer/christmas-2018/images/Christmas-2018_04.png" width="800" height="155" alt="" align="top"></td>
+      </tr></table><map name="Christmas_2018_01_Map" id="Christmas_2018_01_Map"><area shape="rect" alt="" coords="12,19,201,115" href="http://rai-p.octmailer.in/tr/r/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==/0/W10%3D" target="_blank"></map><!-- End ImageReady Slices --><table align="center" style="clear:both"><tr><td style="padding:15px 0; font-family:Arial, Helvetica, sans-serif; font-size:12px;">Email powered by <a href="http://rai-p.octmailer.in/tr/r/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==/1/W10%3D" title="Octane"><img src="http://images.trackcampaigns.com/octane-logo.png" border="0" align="absmiddle" alt="Octane" style="padding:0; margin:0; display:inline block;"></a></td></tr></table><p style="font-size:12px;font-weight:normal;color:#000000;font-family:arial;line-height:115%;background-color:#FFF"> You are subscribed to <font color="#000000">Rai as munish_sharma@jcbl.com</font>. If you do not wish to receive any further communications, please <a href="http://rai-
+ p.octmailer.in/tr/u/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==">click here</a>.</p><img src='http://rai-p.octmailer.in/tr/w/2/637380/234197/bXVuaXNoX3NoYXJtYUBqY2JsLmNvbQ==/oct.gif' width='1' height='1' /></body></html>
+
+
+
+--b1_8d047016ab7bd75fd722286b0f890969--
+

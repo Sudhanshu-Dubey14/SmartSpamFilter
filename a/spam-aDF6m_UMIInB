@@ -1,0 +1,268 @@
+Return-Path:
+	<ashley.madison-monika_pal=mslindia.net@howlongdoesafurnacelast.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <monika_pal@mslindia.net>
+X-Envelope-To-Blocked: <monika_pal@mslindia.net>
+X-Quarantine-ID: <aDF6m_UMIInB>
+X-Spam-Flag: YES
+X-Spam-Score: 10.467
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.467 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_FONT_FACE_BAD=0.289, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aDF6m_UMIInB for <monika_pal@mslindia.net>;
+	Wed, 10 Oct 2018 01:34:03 +0530 (IST)
+Received: from mail.howlongdoesafurnacelast.com (howlongdoesafurnacelast.com [103.110.211.159])
+	by mx10.jcbl.com (Postfix) with ESMTP id E0FBDEEB5F8
+	for <monika_pal@mslindia.net>; Wed, 10 Oct 2018 01:34:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=howlongdoesafurnacelast.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ashley.madison@howlongdoesafurnacelast.com;
+ bh=hRRXU88sAtM0/3zkx5/353XLBHw=;
+ b=JxBISkmwSBT6+0bzRryMcA+I3X+4l7kXc+L4K9TXV1rm7Fgm2IpFOi7Q/z6JwgsjliVeHgztnQXE
+   Ko1RqzF8yLuRQOGyE7ub5QG3Xapl/128oJH21Qz6v7GpIMvfCEQ7VATOCJtwozEuICFGhyqzj9K1
+   a8hVrtrYAAopgkCSGXU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=howlongdoesafurnacelast.com;
+ b=F5gjAkHDZyS+zj+uNaXmNLxZztyUzALzTAd6Xm4yXZbX25TStW9DElyPsURldwOCelHL/fnECKJ5
+   ecLE9DqNy7q6HPVp+jPCGcwutNW2p25uYpxJYHOf/94u56BtQ5SjbjDkGNFmSwWjYhKAPpfQHv7d
+   APQ8jUOmwgPFuA3/cNQ=;
+Received: by mail.howlongdoesafurnacelast.com id hnk4s60001gt for <monika_pal@mslindia.net>; Tue, 9 Oct 2018 15:48:18 -0400 (envelope-from <ashley.madison-monika_pal=mslindia.net@howlongdoesafurnacelast.com>)
+Date: Tue, 9 Oct 2018 15:48:18 -0400
+From: "Ashley Madison" <ashley.madison@howlongdoesafurnacelast.com>
+To:   <monika_pal@mslindia.net>
+Subject: Browse and meet new women right now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_949_826580212.1539114487419"
+List-Unsubscribe: <http://www.howlongdoesafurnacelast.com/battalion-predatory/9ea6HFS2385S8ZZ911Sm11z_x768i24nisrbgD_tDhfiwhbrHbDErIx5h1Go09SjiMWywx9>
+Message-ID: <0.0.0.69.1D4600906D7317A.8A8098@mail.howlongdoesafurnacelast.com>
+
+------=_Part_949_826580212.1539114487419
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" /> 
+  <title>Test</title> 
+  <style type="text/css">@import url(https://fonts.googleapis.com/css?family=Roboto:300); 
+
+ 
+ #outlook a { padding:0; }
+ body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; } 
+ .ReadMsgBody { width: 100%; }
+ .ExternalClass {width:100%; } 
+ .backgroundTable {margin:0 auto; padding:0; width:100%; !important; } 
+ table td {border-collapse: collapse; }
+ .ExternalClass * {line-height: 115%; } 
+ .appleapp {width: auto; height: 60px; }
+ .googleapp {width: auto; height: 60px; }
+ 
+ 
+ 
+ 
+ 
+ @media screen and (max-width: 630px){
+ 
+ 
+  
+ *[class="mobile-column"] {display: block; } 
+ 
+ 
+ *[class="mob-column"] {float: none !important; width: 100% !important; } 
+ 
+ 
+ *[class="hide"] {display:none !important; } 
+ 
+ 
+ *[class="100p"] {width:100% !important; height:auto !important; } 
+ 
+  
+ *[class="condensed"] {padding-bottom:40px !important; display: block; }
+ 
+ 
+ *[class="center"] {text-align:center !important; width:100% !important; height:auto !important; } 
+ 
+ 
+ *[class="100pad"] {width:100% !important; padding:20px; } 
+ 
+ 
+ *[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px; } 
+ 
+ 
+ *[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px; } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="appleapp"] {width: 100%; height: auto; }
+ } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="googleapp"] {width: 100%; height: auto}
+ }
+	</style> 
+  <style type="text/css">
+	</style> 
+ </head> 
+ <body bgcolor="#f2f2f2" style="padding:0; margin:0"> 
+  <div style="background:ffffff; ">
+   &nbsp; 
+  </div> 
+  <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" class="hide" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td background="https://dl.dropbox.com/s/em8uggz08zo0qgz/temp4.jpg?dl=0" bgcolor="#000000" class="100p" style="background-position: center" valign="top" width="640">
+          <v:rect fill="true" stroke="false" style="width:640px; " xmlns:v="urn:schemas-microsoft-com:vml"> 
+           <v:fill color="#3b464e" src="http://www.howlongdoesafurnacelast.com/5576S238jV5Q7Saj10Y2dc2H768X24gisrbgD_tDhfiwhbrHbDErIx6hZ1CJ010ylAjzqiwx9/unconscionable-Alton" type="tile"> 
+            <v:textbox inset="0,0,0,0" style="mso-fit-shape-to-text:true"> 
+             <div> 
+              <table border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+               <tbody> 
+                <tr> 
+                 <td valign="top"> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td align="left" width="50%"><a href="http://www.howlongdoesafurnacelast.com/unfinished-metabolic/eb84d2385U86ML10B2dbfJ768n24fisrbgD_tDhfiwhbrHbDErIx7SyFNW109z3iPXwJx9"><img alt="Logo" src="http://www.howlongdoesafurnacelast.com/V2f6B2r3N85bA7ma11P2dcu3t768u24EisrbgD_tDhfiwhbrHbDErIx5t1_0q9cT1ziwBx9/Kuala-shinbone" style="display: block; width: 90%; padding-top: 15px; padding-left: 15px; border-width: 0px; border-style: solid; " /></a></td> 
+                    </tr> 
+                   </tbody> 
+                  </table> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                    <tr> 
+                     <td align="left" style="color:#FFFFFF; font-size:24px; font-family:Raleway, Open Sans, sans-serif; padding-left: 15px; "><span style="font-size: 22px; color: #e73373; ">RULE #1 </span><br /> <span style="font-size:44px; line-height: 45px"><strong>choose married<br /> women</strong></span><br /> <span style="font-size:22px; "><i>They have reason to keep<br /> things secret, as do you.</i></span><br /> &nbsp; 
+                      <table border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir; "> 
+                       <tbody> 
+                        <tr> 
+                         <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.howlongdoesafurnacelast.com/unfinished-metabolic/eb84d2385U86ML10B2dbfJ768n24fisrbgD_tDhfiwhbrHbDErIx7SyFNW109z3iPXwJx9" style="color:#FFFFFF; text-decoration:none; "><strong>SIGN UP FOR FREE</strong> </a> </font></td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+               </tbody> 
+              </table> 
+             </div> 
+             <!--[if gte mso 9]>
+ </v:textbox>
+ </v:rect>
+ <![endif]--> 
+            </v:textbox>
+           </v:fill>
+          </v:rect></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#b2d6db" border="0" cellpadding="0" cellspacing="0" class="100p" height="1" width="640"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#FFFFFF" width="20">&nbsp; </td> 
+         <td align="center" height="1" style="line-height:0px; font-size:1px; ">&nbsp; </td> 
+         <td bgcolor="#ffffff" width="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 30px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#848484; "><font face="'Roboto', Arial, sans-serif"><span style="color:#e73373; font-size:24px; ">JOIN TODAY</span><br /> <br /> <span style="font-size:16px; ">Every day thousands of people join Ashley Madison to find discreet relationships of all kinds. Single, attached, looking to explore, or just curious to discover what' s out there ? Ashley Madison is the most open-minded dating community in the world.</span></font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <table align="center" border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir, sans-serif; margin-bottom: 50px; "> 
+           <tbody> 
+            <tr> 
+             <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.howlongdoesafurnacelast.com/unfinished-metabolic/eb84d2385U86ML10B2dbfJ768n24fisrbgD_tDhfiwhbrHbDErIx7SyFNW109z3iPXwJx9" style="color:#FFFFFF; text-decoration:none; "><strong>SEE MATCHES</strong> </a> </font></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="color: #848484; padding-top: 20px; ">*Not actual members of Ashley Madison</td> 
+        </tr> 
+        <tr> 
+         <td align="center"><a href="http://www.howlongdoesafurnacelast.com/unfinished-metabolic/eb84d2385U86ML10B2dbfJ768n24fisrbgD_tDhfiwhbrHbDErIx7SyFNW109z3iPXwJx9"><img border="0" class="100p" src="http://www.howlongdoesafurnacelast.com/unconscionable-Alton/42c6y2k38I5I7kVa11z2Cdc4_768j24QisrbgD_tDhfiwhbrHbDErIx7QgQh10C10nJi@@ljwx9" style="display:block; padding-top: 20px; " /></a></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#ffffff; display: block; margin: auto; "><font face="'Roboto', Arial, sans-serif"><span style="font-size:24px; ">Download The App</span> </font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="right" style="padding: 10 5 40 20; "><img border="0" class="appleapp" src="http://www.howlongdoesafurnacelast.com/unconscionable-Alton/60c6V2v38m5ep7au11AB2dc5K768H24IisrbgD_tDhfiwhbrHbDErIx7E1W0XTt10Q0AT10iwx9" /></td> 
+         <td align="left" style="padding: 10 20 40 5"><img border="0" class="googleapp" src="http://www.howlongdoesafurnacelast.com/af75Ql2385OTD7a10C2dc6J768p24zisrbgD_tDhfiwhbrHbDErIx5c10FX9zBBiwx9py/unconscionable-Alton" /></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 20px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:14px; color:#848484; "><font face="'Roboto', Arial, sans-serif">This message is sent to you by [insert affiliate name] on behalf of ruby Life Inc., the operator of <a href="http://www.howlongdoesafurnacelast.com/unfinished-metabolic/eb84d2385U86ML10B2dbfJ768n24fisrbgD_tDhfiwhbrHbDErIx7SyFNW109z3iPXwJx9">ashleymadison.com</a>. ruby Life Inc. is located at 2300 Yonge Street, Suite 1400, Toronto, Ontario M4P 1E4 Canada. To unsubscribe from marketing and promotional email messages sent by or on behalf of ruby Life Inc., click <a href="http://www.howlongdoesafurnacelast.com/craters-centralist/35a4J2385t86_S12m2Fydc0Y768z24MisrbgD_tDhfiwhbrHbDErIx5C1Bj09gyiBMlwx9">here</a>.</font><br /> &nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+         <td align="right" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="50">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <hr width="50%" /> 
+  <div style="text-align: center; ">
+   <font size="3">To be removed <a href="http://www.howlongdoesafurnacelast.com/de55D238Y5h8Ah911M2dc1pn768p24MisrbgD_tDhfiwhbrHbDErIx5DJQ1010F@iUkOJwx9/unfinished-metabolic">view here</a><br /> 11407 SW Amu St. Attn: 4260 Tualatin, OR 97062</font>
+  </div>   
+ <img src="http://www.howlongdoesafurnacelast.com/4df6z2n3W85Fh8t510H2dc7R768w24uisrbgD_tDhfiwhbrHbDErIx6CV10GZ10mM0y@iNwx9/smokable-summertime" alt=""/></body>
+</html>
+
+------=_Part_949_826580212.1539114487419--
+

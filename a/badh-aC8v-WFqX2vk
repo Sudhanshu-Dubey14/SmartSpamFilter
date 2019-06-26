@@ -1,0 +1,67 @@
+Return-Path: <butterfly@nowcatchme.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <gagandeep_rattan@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aC8v-WFqX2vk>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aC8v-WFqX2vk for <gagandeep_rattan@jcbl.com>;
+	Sun, 10 Apr 2016 06:04:12 +0530 (IST)
+Received: from mta2.nowcatchme.com (nowcatchme.com [207.244.96.185])
+	by mx10.jcbl.com (Postfix) with SMTP id 4FBB0ED2903
+	for <gagandeep_rattan@mslindia.net>; Sun, 10 Apr 2016 06:04:10 +0530 (IST)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=gamma; d=nowcatchme.com;
+  h=To:Date:Message-ID:From:Subject:Date:MIME-Version:Content-type;
+  b=BeyqMv1C5LWG6twYHY7k82OM5NHjQlAB46m0KIr6EbtOYZG9uPblGiIGVgOBEwgE4hEDWnzzR1KRwxrBFRwh1QEleQirhseqhSDw9wtNXK6eEyetEzCJ3EllBSth8fU9;
+Date: Sun, 10 Apr 2016 02:40:45 00100
+To: <gagandeep_rattan@mslindia.net>
+Message-ID: <bkuyy.mmx@nowcatchme.com>
+From: "The Butterfly Garden Mat" <butterfly@nowcatchme.com>
+Subject: Attract Beautiful Butterflies Season After Season
+Date: 10 Apr 2016 02:40:45 +0200
+MIME-Version: 1.0
+Content-type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://nowcatchme.com/186gz1601y2">
+<html>
+<head>
+<title>Butterfly Garden Mat-The Quick and Easy Way To Make Butterflies Flock To Your Garden!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="458" border="0" cellspacing="0" cellpadding="5">
+<tr>
+	<td style="font:12px Arial, Helvetica, sans-serif;"><p>Butterfly Garden Mat™ -The Quick and Simple Way To Make Butterflies Flock To Your Garden</p>
+<p>Butterfly Garden Mat is scientifically designed by one of America's leading horticulturalists to make butterflies flock to your garden. Simply spread out the mat, and cover with dirt to watch it grow into colorful flowers in a few weeks. Butterfly Garden Mat is a pre-seeded mat that grows hundreds of beautiful flowers that attracts butterflies season after season.</p>
+		<p><a href="http://nowcatchme.com/187gz1601t2">Learn More</a></p>
+	</td>
+</tr>
+  <tr>
+    <td><a href="http://nowcatchme.com/187gz1601t2"><img src="http://nowcatchme.com/img/bf1.jpg" alt="Butterfly Garden Mat-The Quick and Easy Way To Make Butterflies Flock To Your Garden!"  border="0"></a></td>
+  </tr>
+  <tr>
+     <td align="center" style="font: 11px Arial, Helvetica, sans-serif">If you would like to remove yourself from the Butterfly Garden Mat list, <a href="http://nowcatchme.com/188gz1601s2">click here</a>.<br />
+*This is an advertisement<br />
+<span id="OLK_SRC_BODY_SECTION2">1200 Ring Road Suite #2110 Calumet City, IL 60409</span></td>
+  </tr>
+</table>
+</body>
+</html><p>&nbsp;</p>
+<hr width="50%">
+<div align="left"><font size="2">
+<a href="http://nowcatchme.com/?e=gagandeep_rattan@mslindia.net">Subscription Center</a>.<br>
+
+
+287 Cheesequake Road<br>
+Bldg 1B, Suite # 22202<br>
+Parlin, NJ  08859
+
+</font>
+</div>
+

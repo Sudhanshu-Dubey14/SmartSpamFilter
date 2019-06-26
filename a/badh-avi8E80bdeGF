@@ -1,0 +1,27 @@
+Return-Path: <hardeep.singh@globe-trucking.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <hardeep.singh@globe-trucking.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <avi8E80bdeGF>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id avi8E80bdeGF for <hardeep.singh@globe-trucking.com>;
+	Fri,  1 Sep 2017 16:48:20 +0530 (IST)
+Received: from hardeeppc (unknown [172.16.2.190])
+	by mx10.jcbl.com (Postfix) with ESMTP id E5F25FC929C
+	for <hardeep.singh@globe-trucking.com>; Fri,  1 Sep 2017 16:48:19 +0530 (IST)
+From: Microsoft Outlook <hardeep.singh@globe-trucking.com>
+To: =?utf-8?B?SGFyZGVlcCBTaW5naA==?= <hardeep.singh@globe-trucking.com>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+

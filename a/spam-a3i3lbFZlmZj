@@ -1,0 +1,130 @@
+Return-Path: <7787-1576-2078-2072-jcblho=jcbl.com@mail.certainparts.bid>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked: <jcblho@jcbl.com>
+X-Quarantine-ID: <a3i3lbFZlmZj>
+X-Spam-Flag: YES
+X-Spam-Score: 8.259
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.259 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	MIME_HTML_MOSTLY=0.001, MPART_ALT_DIFF=0.724,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RDNS_NONE=1.274, SPF_PASS=-0.001,
+	SUBJ_ALL_CAPS=1.625, T_DKIM_INVALID=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a3i3lbFZlmZj for <jcblho@jcbl.com>;
+	Wed, 13 Mar 2019 17:16:40 +0530 (IST)
+Received: from nuts.certainparts.bid (unknown [50.3.70.124])
+	by mx10.jcbl.com (Postfix) with ESMTP id 7E31B104995D
+	for <jcblho@jcbl.com>; Wed, 13 Mar 2019 17:16:40 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=certainparts.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=contact@certainparts.bid;
+ bh=e9sEFkwvVfI+AhtaVOy145qIW8Q=;
+ b=f0XxCgxMEHfcvPyvLeQi2Y8AG0gWWMeFoyMVZ2818IvyX4ltGotWBKpa1G1YCZPtr4fIIv6EuDxS
+   4xPDn50gasgyS8oCmwbmUC472JTON3cnr2QHAoMqFTJduDGgg+KBJKCN/5bdaEkFTHakZWiJYgzP
+   6qm+4QSf1D4ZsBlcvAk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=certainparts.bid;
+ b=Cmtmf1giobbUZaquleIhiFDAcvGOlTQczDtJmprzQoB3saugVbI2trgJTK1I5Pcx2C+bd+3R+BOB
+   fDNz6vQDaU8k34U0e8S9bnpj9Au09UToZTHbbYy4xhd7XPQ4VmCPtPl9GPVdE0O6r5UFdkFS5qmL
+   fAl0Es+m3HDAOmiAgT8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1dfed734773e4f437dada009d005598"
+Date: Wed, 13 Mar 2019 07:42:30 -0400
+From: "Tactical Bagpack" <contact@certainparts.bid>
+Reply-To: "FREE Assault Bag" <contact@certainparts.bid>
+Subject: IT'S TIME TO UPGRADE YOUR BACKPACK!
+To: <jcblho@jcbl.com>
+Message-ID: <0zst5zkcezgsbzxz-5ah84tv0i6p3mljb-81e@certainparts.bid>
+
+--b1dfed734773e4f437dada009d005598
+Content-Type: text/plain;
+
+Content-Transfer-Encoding: 8bit
+
+--b1dfed734773e4f437dada009d005598
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Untitled Document</title>
+</head>
+<body bgcolor="#FFFF99"><a href="http://certainparts.bid/clk.2078-7787-0-1576-2072-2372-3331103a-0300"><img border="0" src="http://certainparts.bid/clk.2078-7787-14-1576-2072-2372-04427e6f-0300" /> </a>
+<table align="center" bgcolor="#fff" style="font-family:Arial, Helvetica, sans-serif; border:1px solid; font-size:15px; line-height:20px;" width="650px">
+	<tbody>
+		<tr>
+			<td colspan="2" style="padding-left:10px; padding-top:8px;"><br />
+			<b style="font-size:26px;">Patriot Favorite Evatac Assault Bug Out Backpack </b><br />
+			<br />
+			The Assault Bag is going to be your new favorite &quot;every day&quot; bag. It&#39;s lightweight and compact yet is large enough to carry all your gear. It&#39;s also the perfect bag for the active - with chest and waist straps you will be totally supported and the bag won&#39;t bounce off your shoulders while running.<br />
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left:10px;" width="332"><a href="http://certainparts.bid/clk.2078-7787-2-1576-2072-2372-4b9973ff-0300" target="_blank"><img src="http://certainparts.bid/f0c00a1c2ef46026f0.jpg" width="300" /></a></td>
+			<td width="306"><a href="http://certainparts.bid/clk.2078-7787-2-1576-2072-2372-4b9973ff-0300" style="color:#D90000;" target="_blank"><b>TEST THE ASSAULT BAG FOR FREE!</b></a>
+			<ul>
+				<li>Lightweight Yet Durable</li>
+				<br />
+				<li>Premium 1000D Poly</li>
+				<br />
+				<li>FAT Zipper&trade; Zippers</li>
+				<br />
+				<li>15 Separate Compartments</li>
+				<br />
+				<li>Chest Strap &amp; Waist Strap</li>
+				<br />
+				<li>Expandable Molle System</li>
+				<br />
+				<li>Protective Waterproof Lining</li>
+				<br />
+				<li>FREE USA Flag Patch</li>
+				<br />
+				<br />
+				<br />
+				<br />
+				&nbsp;
+				<li>&nbsp;</li>
+				<li>&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2" style="font-size:18px; ">Click the button below to check if the ASSAULT BAG&trade; offer is still available!<br />
+			<br />
+			<br />
+			<a href="http://certainparts.bid/clk.2078-7787-2-1576-2072-2372-4b9973ff-0300" style="color:#fff; font-size:20px; background-color:#D20000; text-decoration:none; padding:11px; border-radius:10px;" target="_blank">&nbsp; &nbsp; &nbsp; YES! SEND MY ASSAULT BAG! &nbsp; &nbsp; &nbsp; </a><br />
+			<br />
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+&nbsp;
+<center><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px;"><a href="http://certainparts.bid/clk.2078-7787-12-1576-2072-2372-4e3f0a04-0300" style="color:#0000FF;" target="_blank">Unsubscribe</a><br />
+3870 Baker Avenue Fort Worth, TX 76102 </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p style="background-color:#FFFF99; color:#FFFF99; font-size:3px;">Huffman, best known for her role on TV&#39;s &quot;Desperate Housewives,&quot; is accused of paying $15,000 to a made-up charitable organization that then helped her daughter cheat on the SATs. Huffman also discussed the scheme in a recorded phone call with a cooperating witness, according to the investigation oughlin, who starred in the 1990s sitcom &quot;Full House,&quot; is facing the same felony charges &mdash; conspiracy to commit mail fraud and honest services mail fraud. Prosecutors say Loughlin and her husband, fashion designer Mossimo Giannulli, another defendant, paid bribes of $500,000 in exchange for having their two daughters designated as crew team recruits at the University of Southern California even though neither participated in the sport More: &#39;Full House&#39; fans express shock as Lori Loughlin is indicted in college admissions bribery case As part of the nationwide conspiracy, coaches agreed t
+ o pretend that the children of parents who paid bribes were highly recruited athletes when they didn&#39;t even compete in that particular sport, prosecutors said More individuals, including additional parents, could be later charged amid the ongoing multi-state FBI investigation, which took on the code name &quot;Operation Varsity Blues&quot; by law enforcement when it was launched 10 months ago</p>
+<a href="http://certainparts.bid/clk.2078-7787-20-1576-2072-2372-3e337b55-0300" target="_blank"><img src="http://certainparts.bid/ed0a455e6a031025ac.png" /></a></center>
+</body>
+</html>
+
+--b1dfed734773e4f437dada009d005598--
+

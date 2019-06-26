@@ -1,0 +1,89 @@
+Return-Path: <santas.workshop-kj_rao=mslindia.net@thepugloversclub.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <admin@mslindia.net>
+X-Envelope-To-Blocked: <admin@mslindia.net>
+X-Quarantine-ID: <ayy3Q6N55aC3>
+X-Spam-Flag: YES
+X-Spam-Score: 10.905
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.905 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_28=0.726, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MIME_QP_LONG_LINE=0.001, MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ayy3Q6N55aC3 for <admin@mslindia.net>;
+	Sat, 17 Nov 2018 23:16:17 +0530 (IST)
+Received: from mail.thepugloversclub.com (thepugloversclub.com [67.198.233.145])
+	by mx10.jcbl.com (Postfix) with ESMTP id BB6CDF4BA4D
+	for <kj_rao@mslindia.net>; Sat, 17 Nov 2018 23:16:15 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=thepugloversclub.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=santas.workshop@thepugloversclub.com;
+ bh=L1p9YDwzXJnVB8TR38KXMiMBU14=;
+ b=jtEpnqyIVRONbn7IUxNb+DBch7jv0wvntpGG3GJVCeXg5lKvJ9nL8FPf1wjhmmx5zfVvgKaA48X1
+   XvJRT30EeYelKdR75xQhuTKsnAIZq1r30QH6dPeRW3CbEgfoh0GwvxP9YV8TYYUJfWJJz4OWUGU7
+   1Xl+6CMRRWe4Ryrfn0I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=thepugloversclub.com;
+ b=gkdNICmgsFxhLuBrYb8u3ntqSRfHImz9hdTeXLf5ZcmUeqVPZrPNamqwWBKYPWwQi1dhuiUG7HcJ
+   mTsCZq/zjmcPCEtTq+9A9zrU6Y4zh6oEYmkcyA924TJegpXOf5mvbYCLisv83Yod18TAwaIDbfNE
+   KIS2+9S4mZG1VUAdcfg=;
+Received: by mail.thepugloversclub.com id hu1a0q0001gf for <kj_rao@mslindia.net>; Sat, 17 Nov 2018 12:22:01 -0500 (envelope-from <santas.workshop-kj_rao=mslindia.net@thepugloversclub.com>)
+Date: Sat, 17 Nov 2018 12:22:01 -0500
+From: "Santas Workshop" <santas.workshop@thepugloversclub.com>
+To:   <kj_rao@mslindia.net>
+Subject: Custom Letters From Santa
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_511_1802536126.1542475304205"
+List-Unsubscribe: <http://www.thepugloversclub.com/9536S23QD85a89SY11l1DM1QC90bz20Wgc_vDsfiwhbrHbDErIx6wX1X0k9uBMiwxLW9/Poindexter-protestor>
+Message-ID: <0.0.0.AC.1D47E9A0D8F3274.297956@mail.thepugloversclub.com>
+
+------=_Part_511_1802536126.1542475304205
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <meta charset=3D"utf-8" />=20
+  <title></title>=20
+ </head>=20
+ <body>=20
+  <p style=3D"width:400px; ">Santa Claus has a <a href=3D"http://www.thepugloversclub.com/bandies-farm/6484L2385B_86K11C38Q35z90bi20Vgc_vDsfiwhbrHbDErIx6I1X0Vu10r2yNiwpJx9" targe=
+t=3D"_blank">Personalized Santa Letter Package</a> for YOUR child!<br /> <b=
+r /> Send your child or relative a personalized letter from Santa this holi=
+day season!!<br /> <br /> Your letter is personalized for your child, signe=
+d by Santa and sent from the North Pole directly to their house! This truly=
+ makes this holiday season a magical one!<br /> <br /> Santa' s Package inc=
+ludes a personalized letter written and signed by Santa, a personalized Off=
+icial Nice List Certificate, Santa' s Map and Santa' s Nice List that Santa=
+ Checked Twice!<br /> <br /> <strong><a href=3D"http://www.thepugloversclub.com/bandies-farm/6484L2385B_86K11C38Q35z90bi20Vgc_vDsfiwhbrHbDErIx6I1X0Vu10r2yNiwpJx9" target=3D"_blan=
+k">--&gt; Check it out now and make this season special! &lt; -- </a></stro=
+ng><br /> <br /> Official Letters From Santa,<br /> Santa Support<br /> <br=
+ /> <strong>PS Don' t forget, we have a very special surprise</strong> that=
+ we offer to our Customers Only. After your order is placed, you will see w=
+hat all the excitement is about!! <a href=3D"http://www.thepugloversclub.com/bandies-farm/6484L2385B_86K11C38Q35z90bi20Vgc_vDsfiwhbrHbDErIx6I1X0Vu10r2yNiwpJx9" target=3D"_blank">=
+Your child' s face will light up with pure excitement!</a><br /> <br /> <br=
+ /> <br /> <br /> <br /> <br /> &nbsp; </p>=20
+  <center>=20
+   <p style=3D"text-align: left; "><span style=3D"font-family:trebuchet ms,=
+helvetica,sans-serif; ">Sponsored by Holiday Printables Inc<br /> 221 Beach=
+ rd. suite 182 Siesta Key, FL 34242<br /> <a href=3D"http://www.thepugloversclub.com/5cf5O2P385wzv8611L38D36A90bi20Mgc_vDsfiwhbrHbDErIx6B10jIY10djNpP2iwx9/turtles-Belleville" target=3D"=
+_blank">Unsubscribe</a></span></p>=20
+  </center>=20
+  <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><img bord=
+er=3D"0" height=3D"1" src=3D"http://www.thepugloversclub.com/commemorate-distinguishable/31e4A2385KM7aR12dH383N8h90bj20wgc_vDsfiwhbrHbDErIx5f1H0x10F0ilONNwx9" width=3D"1" /></span>=20
+  <div>
+   <span style=3D"font-family:trebuchet ms,helvetica,sans-serif; "><span st=
+yle=3D"font-size:14px; ">To be removed <a href=3D"http://www.thepugloversclub.com/31d5z2H385Az8k912p3837ISq90bO20tgc_vDsfiwhbrHbDErIx5J1G0n10B3iNU1Owx9/friction-barbarous">view =
+here</a><br /> 1461 San Mateo Ave. Suite 4 #17072 South San Francisco, CA 94080</span></span>
+  </div>  =20
+ <img src=3D"http://www.thepugloversclub.com/grate-transcription/d6e5i23N85dW85r12gY3y839m90bH20kgc_vDsfiwhbrHbDErIx5cx10_10Q0AP0iwx9@" alt=3D""/></body>
+</html>
+
+------=_Part_511_1802536126.1542475304205--
+

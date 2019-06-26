@@ -1,0 +1,77 @@
+Return-Path: <michael@bnei.info>
+Delivered-To: spam-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked: <poonam_rawal@jcblmail.com>
+X-Quarantine-ID: <ajv09FL_2KJk>
+X-Spam-Flag: YES
+X-Spam-Score: 10.481
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.481 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ajv09FL_2KJk for <poonam_rawal@jcblmail.com>;
+	Fri, 14 Dec 2018 02:35:53 +0530 (IST)
+Received: from thermoelectron.bnei.info (thermoelectron.bnei.info [162.244.13.117])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 073A6F44DFC
+	for <itd@jcbl.com>; Fri, 14 Dec 2018 02:35:46 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bnei.info; s=dkim;
+	t=1544735174; bh=kelirlAW0+Qm9xxqSZtiKFMrM7EVu+7Iv1kuY/WC6/w=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=nVxcGslxnqRrgz+jCtnOgnUQzt4jzL1ObYxYub3K9ce+mmh08+I1mjKPRWuBaUbSy
+	 886yvk0+QJw63czwJiflf3iM2/c/FoZJLcFnfcqOx0xeqj5xosiY66kS+r6ofHe+2D
+	 Hf7iFc2MtSArA9ge8yPs8KSXIsejHjeANRqW76kQ=
+To: <itd@jcbl.com>
+From: "Michael Miller" <michael@bnei.info>
+Subject: Firefighter Beats His Tinnitus With This Easy Trick...
+Date: Thu, 13 Dec 2018 16:06:14 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812131606:178c9d7ba174624c60c0510_c6c9125c:vgq^wpoy(pbz:19554
+List-Unsubscribe: <mailto:178c9d7ba174624c60c0510_c6c9125c@bnei.info>, <http://bnei.info/178c9d7ba174624c60c0510_c6c9125c/U/>
+Message-ID: <201812131606@bnei.info>
+X-campaignID: 19554
+Content-type: text/html
+
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
+<p>Hey -</p>
+<p><a href="http://www.cloy.info/1c84bd070d54624c60c051046d03_c6c9125c-010b01010001/C/" target="_blank">Medical experts are shocked by this breakthrough...</a></p> 
+<p>It's a quick and easy way to naturally get rid of your tinnitus...</p>
+<p>And it will work no matter how severe the ringing in your ears is.</p>
+<p>The man who discovered this was a firefighter for more than 30 years...</p>
+<p>But after he retired and the ringing in his ears kept getting worse and worse...</p>
+<p>He thought he was doomed to suffer from Tinnitus forever.</p> 
+<p><a href="http://www.cloy.info/1c84bd070d54624c60c051046d03_c6c9125c-010b01010001/C/" target="_blank"><img border="0" src="http://www.cloy.info/1c86408b4164624c60c05104b304_c6c9125c-010b01010001/V/" width="300" height="250" /></a></p> 
+<p>It got so bad that the man even contemplated ending his life...</p>
+<p>Because he'd tried EVERYTHING to lose the ringing...</p>
+<p>From audio therapy to supplements...</p> 
+<p>But just wasn't getting results.</p>
+<p><a href="http://www.cloy.info/1c84bd070d54624c60c051046d03_c6c9125c-010b01010001/C/" target="_blank">All of that changed however when the decided to use this one easy trick to beat tinnitus
+(click here).</a></p>
+<p></p>
+<p></p>
+<p></p>
+<div style="font-size:11px;color:#888;text-align:justify">
+<p>
+These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any
+disease.
+</p>
+<p>
+If you would like to stop receiving email messages, <a href="https://www.cloy.info/178c9d7ba174624c60c0510_c6c9125c/U/">click here</a> or write to: Life Now Naturals, 30 N Gould
+St Ste R, Sheridan, WY 82801
+</p>
+</div>
+<img border="0" src="http://www.cloy.info/1c8dd30638b4624c60c05104b404_c6c9125c-010b01010001/V/" width="1" height="1" />
+</body>
+</html>
+

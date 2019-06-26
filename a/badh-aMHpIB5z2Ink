@@ -1,0 +1,27 @@
+Return-Path: <ab01a_bp@globeauto.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ab01a_bp@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aMHpIB5z2Ink>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aMHpIB5z2Ink for <ab01a_bp@globeauto.in>;
+	Wed, 12 Apr 2017 15:46:46 +0530 (IST)
+Received: from IBMR51 (unknown [10.20.144.18])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 45198F86198
+	for <ab01a_bp@globeauto.in>; Wed, 12 Apr 2017 15:46:46 +0530 (IST)
+From: Microsoft Office Outlook <ab01a_bp@globeauto.in>
+To: =?utf-8?B?VWRheSBSYW5h?= <ab01a_bp@globeauto.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE9mZmljZSBPdXRsb29rIFRlc3QgTWVzc2FnZQ==?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Office Outlook while testing the settings for your account.
+

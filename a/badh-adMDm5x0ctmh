@@ -1,0 +1,30 @@
+Return-Path: <ccm_globe@globeauto.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ccm_globe@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <adMDm5x0ctmh>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.287
+X-Spam-Level: **
+X-Spam-Status: No, score=2.287 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_MID=0.14, T_HK_FAKENAME_MICROSOFT=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id adMDm5x0ctmh for <ccm_globe@globeauto.in>;
+	Fri, 25 Jan 2019 13:09:04 +0530 (IST)
+Received: from DESKTOPR5FG8RD (unknown [10.20.144.109])
+	by mx10.jcbl.com (Postfix) with ESMTP id EB7C4F45C6D
+	for <ccm_globe@globeauto.in>; Fri, 25 Jan 2019 13:09:00 +0530 (IST)
+From: Microsoft Outlook <ccm_globe@globeauto.in>
+To: =?utf-8?B?VGFsd2luZGVyIFNpbmdo?= <ccm_globe@globeauto.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+

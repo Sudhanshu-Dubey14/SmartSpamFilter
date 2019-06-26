@@ -1,0 +1,185 @@
+Return-Path: <mfo_tradoc@yahoo.com.ph>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aCXGLDAFxli9>
+X-Spam-Flag: YES
+X-Spam-Score: 11.133
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.133 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FORGED_MUA_MOZILLA=1.596, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	MISSING_HEADERS=1.207, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, REPLYTO_WITHOUT_TO_CC=1.946,
+	SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01, URIBL_JP_SURBL=1.948,
+	URIBL_PH_SURBL=0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aCXGLDAFxli9 for <jcbl@jcbl.com>;
+	Thu, 11 Oct 2018 07:29:07 +0530 (IST)
+Received: from sonic302-19.consmr.mail.sg3.yahoo.com (sonic302-19.consmr.mail.sg3.yahoo.com [106.10.242.139])
+	by mx10.jcbl.com (Postfix) with ESMTPS id BDB1DEEC3A4
+	for <jcbl@jcbl.com>; Thu, 11 Oct 2018 07:29:04 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.ph; s=s2048; t=1539223165; bh=NgNUP/TLjb+pBLmB4zDRvtW4dPHjNjM0ujw4n2PA+cA=; h=Date:From:Reply-To:In-Reply-To:References:Subject:From:Subject; b=qzelcgGJTq+Ubk2RRP+ZksKxxsziPPgQFLd2dxvZea+FKqw53ZDtyyFQ05AN97CqfYD338gs5ep1Lft2h7HlH77MykhOdsry2kOTrfu3dVvaPuyHxz7qfNVHGcwrFFATHpi2nvu55EwiKYZ8hqiA5OcOwLf20NLIvMhHNJYtsG5BWx4tCeSrtd9Nv6v8UYNwUMxUeIYY/ZfftKqHlHX1Ltl6B1WAGae2iiOW3fhAPs8RQcPk3z6v5gQpjpIk2NsyeZT0028RAK8W6k+rTRda49shP4x8jjd+2T7GriUaGOpy5/BHECuTSZQn+WqpgGLceMb/wqF588VrCe+74I5xRg==
+X-YMail-OSG: xboMRAwVM1mPP03GVzIlA_uv0lDaZ0gJ3AWNZTEZZ4L863GLnl2IxAMfIf715jE
+ q6yzao1u9QK2HrIFyDXpjbKzeHGrrTCifb5VcNqEu4e1iIasZrgVviRa_zKJJxtwkU.TMt8P9Uxa
+ nryVoMrAZxiiY.A9Hy6t3BtQTsZ8Pz_ang_P9mmLgzIqHKm.b4ONd4paBOIlF54GuFUrmJ6LDRtg
+ 4Kvfvv.9eZXu8.Q3TQieg2gYVBlAqSSuWUuTOxzQDkdUJbk9JqrU6C_SpPGliBDeXj7ml.Mdb5Cq
+ UerZYb_A_p1gJy9TQaweQC9Drv790hJhJkdJ4v5wG6i22X6GE6pkwfYAxBtG0qHGuPkJ_Rve.j1q
+ XWypXFixtA2zOV7nV_TPuHS7BdSxqTAyiQIxW7ATQu5PsMX7HjsrQeEglJgJBBJvsvCZFNiGP0S2
+ IRvJVQAx_nZLtajnVnGBcmsPaeUEdZ7ml_n6UjMlTKGZgf6ySy0.2Qy211uN5A_6OZlZp7iRRnAV
+ CiwlQBG3mBtU0ndiIFr9yjQ95tSd7_ql2C8BZ8D1r165hnIqyyuD9rbZgebWJQO3xryPGi_LdKA9
+ nNAOguzLpMNvo.CDJKThUQjIwzcDCaXmCYAtCh8VqrnJAGBzPTuXaVzdAyx_Qbb2CeH0Z4or.uMP
+ 9S1gauuBKtMlengTtWQKFXKL8xJk6Idd.PWTKyCm2Q6VA_g9QCSVBc0CxPwZc117amutn7l0Pn5v
+ ZBV2OEpPf7G13T9ciFjMUU_SDFUoTsIOOsTV_IZoFx_gbjIMaVpxiFgogSoRA2z0aLgE9UoA3FbX
+ XIaz8vdddQ7jQYvL2GOuUMKuVI.nDg4oL_h5KhNu1dnGbpYuwbQCzWwWRYlGQMRTJsrlUgmlbp5W
+ IJZWcM4lnsiwHiqm4edM.8Ji5veRg36m711wQOeNnfCrZDDSSdq692WFxA0oQorwFnMc5KKheIGK
+ wTyCiJQmeANogD5ExJbaJDkjXlqRhW3tu5m5v6zcYwk9NBFzssKIhQR3FfKSMUfQquOUrMI1QI03
+ 11DkqIsT6OwKAkHHDfAYbfR44dWYzlA--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic302.consmr.mail.sg3.yahoo.com with HTTP; Thu, 11 Oct 2018 01:59:25 +0000
+Date: Thu, 11 Oct 2018 01:59:23 +0000 (UTC)
+From: EMAIL TEAM <mfo_tradoc@yahoo.com.ph>
+Reply-To: EMAIL TEAM <mfo_tradoc@yahoo.com.ph>
+Message-ID: <1058154890.6802287.1539223163084@mail.yahoo.com>
+In-Reply-To: <608688690.6810800.1539223127887@mail.yahoo.com>
+References: <608688690.6810800.1539223127887.ref@mail.yahoo.com> <608688690.6810800.1539223127887@mail.yahoo.com>
+Subject: Security Info Update
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_6802286_639757881.1539223163079"
+X-Mailer: WebService/1.1.12512 YahooMailNeo Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+
+------=_Part_6802286_639757881.1539223163079
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+|=20
+Security Info Update |
+
+
+
+
+This is to notify you for the final time that we have stopped processing in=
+coming messagesSince you have refused to upgrade your account and we might =
+be forced to lock up your account if this noticed is ignored.
+This restriction will be disabled intermediately we confirm=C2=A0upgrade su=
+ccessful. Please follow the steps below for your upgrade process.
+1.=C2=A0Upgrade my email
+
+2.=C2=A0You can also=C2=A0add more security features
+
+
+
+Thanks=C2=A0
+The email security team
+
+  =20
+------=_Part_6802286_639757881.1539223163079
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font=
+-size:13px"><div><br></div><div class=3D"qtdSeparateBR"><br><br></div><div =
+class=3D"yahoo_quoted" id=3D"yui_3_16_0_ym19_1_1539223046093_11732" style=
+=3D"display: block;"><div style=3D"font-family: Helvetica Neue, Helvetica, =
+Arial, Lucida Grande, sans-serif; font-size: 13px;" id=3D"yui_3_16_0_ym19_1=
+_1539223046093_11731"><div style=3D"font-family: HelveticaNeue, Helvetica N=
+eue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;" id=3D"y=
+ui_3_16_0_ym19_1_1539223046093_11730"><div class=3D"y_msg_container" id=3D"=
+yui_3_16_0_ym19_1_1539223046093_11737"><div id=3D"yiv6133484265"><div id=3D=
+"yui_3_16_0_ym19_1_1539223046093_11739"><div style=3D"color:#000;background=
+-color:#fff;font-family:Helvetica Neue, Helvetica, Arial, Lucida Grande, sa=
+ns-serif;font-size:13px;" id=3D"yui_3_16_0_ym19_1_1539223046093_11738"><h1 =
+style=3D"font-style:normal;letter-spacing:normal;text-indent:0px;text-trans=
+form:none;white-space:normal;word-spacing:0px;text-decoration-color:initial=
+;margin-top:0px;margin-bottom:0px;color:rgb(33,33,33);font-family:calibri, =
+arial, helvetica, sans-serif, color ui notocoloremoji, ui emojisymbols;font=
+-weight:200;padding-bottom:3px;padding-top:3px;" id=3D"yiv6133484265yui_3_1=
+6_0_ym19_1_1539223046093_8557"><table style=3D"font-family:Tahoma, Arial, s=
+ans-serif, serif, EmojiFont;font-size:15px;" dir=3D"ltr" class=3D"yiv613348=
+4265yahoo-compose-table-card yahoo-compose-table-card" id=3D"yiv6133484265y=
+ui_3_16_0_ym19_1_1539223046093_8558"><tbody id=3D"yiv6133484265yui_3_16_0_y=
+m19_1_1539223046093_8559"><tr id=3D"yiv6133484265yui_3_16_0_ym19_1_15392230=
+46093_8560"><td style=3D"font-family:UI Neue Arial, sans-serif;margin-top:0=
+px;margin-bottom:0px;padding-top:0px;padding-bottom:0px;font-size:41px;colo=
+r:rgb(38,114,236);" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8561=
+"><font style=3D"font-family:UI Neue Arial, sans-serif, serif, EmojiFont;" =
+id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8562"><img src=3D"https:=
+//ci3.googleusercontent.com/proxy/9euWGn1mxpoVJg6r_FXXtBq2QRqL8uHPfyjbq_IRV=
+CZVSpbTCynoKNWUDt36i7QVQPUdwC4N1o_OzO7GH-T-ofySKK3n5t3uUZHmgLeo54sUrdU4ecPP=
+qSyQl1nckcKOvpR0kabjBV0PbCGrRPpgytQUqdTXQhYF3WW34t9katk=3Ds0-d-e1-ft#https:=
+//encrypted-tbn2.gstatic.com/images?q=3Dtbn:ANd9GcRRsg-5TUHVbOFKHdeC0ES9Cce=
+Mh14i5gHPmzG064U2rsurpl0xgw" id=3D"yiv6133484265yui_3_16_0_ym19_1_153922304=
+6093_8563" data-id=3D"298e1690-cac6-3156-847a-eba5c71917d1" width=3D"92" he=
+ight=3D"23"><br id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8564">Se=
+curity Info Update</font></td></tr></tbody></table></h1><h1 style=3D"font-s=
+tyle:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white=
+-space:normal;word-spacing:0px;text-decoration-color:initial;margin-top:0px=
+;margin-bottom:0px;color:rgb(33,33,33);font-family:calibri, arial, helvetic=
+a, sans-serif, color ui notocoloremoji, ui emojisymbols;font-size:15px;font=
+-weight:200;padding-bottom:3px;padding-top:3px;" id=3D"yiv6133484265yui_3_1=
+6_0_ym19_1_1539223046093_8565"><div style=3D"color:rgb(34,34,34);font-famil=
+y:arial, sans-serif, serif, EmojiFont;font-size:small;" id=3D"yiv6133484265=
+yui_3_16_0_ym19_1_1539223046093_8566"><div id=3D"yiv6133484265yui_3_16_0_ym=
+19_1_1539223046093_8567"><br id=3D"yiv6133484265yui_3_16_0_ym19_1_153922304=
+6093_8568"></div><div id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_85=
+69">This is to notify you for the final time that we have stopped processin=
+g incoming messages</div><div id=3D"yiv6133484265yui_3_16_0_ym19_1_15392230=
+46093_8570">Since you have refused to upgrade your account and we might be =
+forced to lock up your account if this noticed is ignored.</div><div id=3D"=
+yiv6133484265yui_3_16_0_ym19_1_1539223046093_8571"><br id=3D"yiv6133484265y=
+ui_3_16_0_ym19_1_1539223046093_8572"></div><div id=3D"yiv6133484265yui_3_16=
+_0_ym19_1_1539223046093_8573">This
+ restriction will be disabled intermediately we confirm&nbsp;upgrade=20
+successful. Please follow the steps below for your upgrade process.</div><d=
+iv id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8574"><span style=3D"=
+color:rgb(0,0,0);font-family:veranda, serif, EmojiFont;font-size:medium;" i=
+d=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8575"><br id=3D"yiv613348=
+4265yui_3_16_0_ym19_1_1539223046093_8576"></span></div><div id=3D"yiv613348=
+4265yui_3_16_0_ym19_1_1539223046093_8577"><b id=3D"yiv6133484265yui_3_16_0_=
+ym19_1_1539223046093_8578"><font id=3D"yiv6133484265yui_3_16_0_ym19_1_15392=
+23046093_8579" size=3D"4"><span style=3D"color:rgb(0,0,0);font-family:veran=
+da, serif, EmojiFont;" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8=
+580">1</span><span style=3D"color:rgb(0,0,0);font-family:veranda, serif, Em=
+ojiFont;" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8581">.&nbsp;<=
+/span></font><b id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8582"><f=
+ont id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8583" size=3D"4"><sp=
+an style=3D"color:rgb(0,0,0);font-family:veranda, serif, EmojiFont;" id=3D"=
+yiv6133484265yui_3_16_0_ym19_1_1539223046093_8584"><a rel=3D"nofollow" styl=
+e=3D"color:rgb(17,85,204);" target=3D"_blank" href=3D"http://holeilegi.us/a=
+bba/autodomain/autofil" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_=
+8585">Upgrade my email</a></span></font></b><br id=3D"yiv6133484265yui_3_16=
+_0_ym19_1_1539223046093_8586"></b></div></div></h1><h1 style=3D"color:rgb(3=
+4,34,34);font-style:normal;letter-spacing:normal;text-indent:0px;text-trans=
+form:none;white-space:normal;word-spacing:0px;text-decoration-color:initial=
+;margin-top:0px;margin-bottom:0px;font-family:arial, sans-serif, serif, Emo=
+jiFont;padding-bottom:3px;padding-top:3px;" id=3D"yiv6133484265yui_3_16_0_y=
+m19_1_1539223046093_8587"><font style=3D"font-family:veranda, serif, EmojiF=
+ont;" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8588" size=3D"4" c=
+olor=3D"#000000">2.&nbsp;<a rel=3D"nofollow" style=3D"color:rgb(17,85,204);=
+" target=3D"_blank" href=3D"http://holeilegi.us/abba/autodomain/autofil" id=
+=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8589">You can also&nbsp;ad=
+d more security features</a></font></h1><h1 style=3D"font-style:normal;lett=
+er-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;wo=
+rd-spacing:0px;text-decoration-color:initial;margin-top:0px;margin-bottom:0=
+px;color:rgb(33,33,33);font-family:calibri, arial, helvetica, sans-serif, c=
+olor ui notocoloremoji, ui emojisymbols;font-size:15px;font-weight:200;padd=
+ing-bottom:3px;padding-top:3px;" id=3D"yiv6133484265yui_3_16_0_ym19_1_15392=
+23046093_8590"><div style=3D"color:rgb(34,34,34);font-family:arial, sans-se=
+rif, serif, EmojiFont;font-size:small;" id=3D"yiv6133484265yui_3_16_0_ym19_=
+1_1539223046093_8591"><div id=3D"yiv6133484265yui_3_16_0_ym19_1_15392230460=
+93_8592"><br id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8593"></div=
+><div id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8594">Thanks&nbsp;=
+<br id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8595"></div><div dir=
+=3D"ltr" id=3D"yiv6133484265yui_3_16_0_ym19_1_1539223046093_8596">The email=
+ security team</div></div></h1></div></div></div><br><br></div> </div> </di=
+v>  </div></div></body></html>
+------=_Part_6802286_639757881.1539223163079--

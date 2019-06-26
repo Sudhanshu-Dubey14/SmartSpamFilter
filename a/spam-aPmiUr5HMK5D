@@ -1,0 +1,594 @@
+Return-Path: <admin@hrsolution.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <r_aggarwal@jcbl.com>, <r_aggarwal@jcblgroup.com>
+X-Envelope-To-Blocked: <r_aggarwal@jcbl.com>, <r_aggarwal@jcblgroup.com>
+X-Quarantine-ID: <aPmiUr5HMK5D>
+X-Spam-Flag: YES
+X-Spam-Score: 9.175
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.175 tag=2 tag2=6.31 kill=6.31
+	tests=[DATE_IN_PAST_12_24=0.804, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.001,
+	MPART_ALT_DIFF=0.724, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aPmiUr5HMK5D; Wed,  6 Feb 2019 06:53:38 +0530 (IST)
+Received: from cloud20221.hrmsinfo.in (unknown [69.10.58.84])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 88728F4BFA6
+	for <r_agarwal@jcbl.com>; Wed,  6 Feb 2019 06:53:35 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=hrsolution.in; s=default; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=x72sO7TD0Stl0oh75waHksXdG1NRDedcdfFcVd+eU1w=; b=SNtT2xZc2yYcyoaekOkhmNQasr
+	idVgtVYOx7XlZzB3TuhrUCXlbANYeAgUBglD+EDiUW6sUEM9NGc2YZXnsjipVMhjYCweREUfJfB4n
+	xMAHkqEWGnMlU8o4Cwn6kn9NR++YZG+TeHigofeiEylL67vBJbv3Pg+M2s6oW93RaqdxcklVpprkA
+	TRQ8zh20EF5sU/XKJQN3pVJ17EXwtET8wh+uctFhF8bMM6FjDW9HbxBv8hh0Ikz0G0o+mk1RqX7yt
+	Ysc1MPyiB/CM6v8yjlJpvGmp6Q3WgfFEFWS6bZkF48kJ+L2Yd4pAEtNxSXQJaBkolQN4Xy9Y6Q6aM
+	lH/22t6Q==;
+Received: from hrsolution by cloud20221.hrmsinfo.in with local (Exim 4.91)
+	(envelope-from <admin@hrsolution.in>)
+	id 1grBzM-0003vA-Q3
+	for r_agarwal@jcbl.com; Tue, 05 Feb 2019 20:26:57 -0500
+To: r_agarwal@jcbl.com
+Subject: Payroll HR Software Rs.10/- Per Employee Per Month
+X-PHP-Originating-Script: 1001:email.php
+Message-ID: <9fc6b3a9f0ecf1956f8532916746106f@hrsolution.in>
+Date: Tue, 05 Feb 2019 11:40:09 +0000
+From: "Payroll HR Software" <admin@hrsolution.in>
+Reply-To: infowansales@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 27,28,29,30,31,32,33,34,35,36
+List-Unsubscribe: <http://hrsolution.in/unsubscribe.php?M=1576105&C=5802051a30dec34765cf848395e0e8d5&L=36&N=51>
+X-Mailer-RecptId: 1576105
+X-Mailer-SID: 51
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_f0cac3ba599a6fb602453aac229a1609"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cloud20221.hrmsinfo.in
+X-AntiAbuse: Original Domain - jcbl.com
+X-AntiAbuse: Originator/Caller UID/GID - [1001 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - hrsolution.in
+X-Get-Message-Sender-Via: cloud20221.hrmsinfo.in: authenticated_id: hrsolution/from_h
+X-Authenticated-Sender: cloud20221.hrmsinfo.in: admin@hrsolution.in
+X-Source: 
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php -f /home/hrsolution/public_html/admin/cron/cron.php 
+X-Source-Dir: /home/hrsolution
+
+--b1_f0cac3ba599a6fb602453aac229a1609
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://hrsolution.in/display.php?M=1576105&C=5802051a30dec34765cf848395e0e8d5&S=51&L=36&N=52
+
+
+To stop receiving these
+emails:http://hrsolution.in/unsubscribe.php?M=1576105&C=5802051a30dec34765cf848395e0e8d5&L=36&N=51
+
+--b1_f0cac3ba599a6fb602453aac229a1609
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Just a few reasons why small businesses love Infowan</title>
+</head>
+
+<body>
+<div id="homeSecondaryBg" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline;
+position: relative; float: left; width: 1519.2px; z-index: 5; color:
+#636363; font-family: Lato, arial, sans-serif; font-style: normal;
+font-variant-ligatures: normal; font-variant-caps: normal; font-weight:
+400; letter-spacing: normal; orphans: 2; text-align: start; text-indent:
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing:
+0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+text-decoration-color: initial; border: 0px none; margin: 0px;
+padding-left: 0px; padding-right: 0px; padding-top: 2em; padding-bottom:
+2em; background: #f7f7f7;"><section class="full-span grid"
+style="-webkit-font-smoothing: antialiased !important; float: left; width:
+1519.2px;">
+<div class="col-full" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline;
+max-width: 1180px !important; border: 0px none; margin: 0px auto; padding:
+0px; background: 0px 0px;">
+<div class="home-one-third-big" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline; width:
+389.4px; float: left; border: 0px none; margin-left: 0px; margin-right:
+23.6px; margin-top: 0px; margin-bottom: 0px; padding: 0px; background: 0px
+0px;">
+<div class="highlightCard light-shadow" style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 14px; vertical-align:
+baseline; box-shadow: rgba(0, 0, 0, '0.1) 0px 5px 10px -15px', rgba(0, 0,
+0, '0.1) 0px 15px 20px -15px', rgba(0, 0, 0, '0.1) 0px 35px 30px -25px';
+max-width: 320px; border: 1px solid #dbdbdb; margin: 0px; padding: 2em;
+background: #eef2f9;">
+<h2 class="two-toned-header" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-style: normal; font-variant: normal;
+font-weight: bold; line-height: 1.2em; font-size: 32px; font-family: Lato,
+arial, sans-serif; vertical-align: baseline; color: #222222; border: 0px
+none; margin: 0.25em 0px; padding: 0px; background: 0px 0px;">Just a few
+reasons why&nbsp;<span style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 32px; vertical-align: baseline; color:
+#5c8dc7; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">small businesses love </span><font color="#FF0000"> <span
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 32px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">Infowan</span></font><span
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 32px; vertical-align: baseline; background-repeat: repeat;
+background-attachment: scroll; border-style: none; border-width: 0px;
+margin: 0px; padding: 0px; background-position: 0px;"><font
+color="#FF0000"> Payroll HRMS Software</font></span><span
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 32px; vertical-align: baseline; color: #5c8dc7; border: 0px
+none; margin: 0px; padding: 0px; background: 0px 0px;">.</span></h2>
+<p style="-webkit-font-smoothing: antialiased !important; border-image:
+initial; outline: 0px; font-style: normal; font-variant: normal;
+font-weight: normal; line-height: 1.5em; font-size: 17px; font-family:
+Lato, arial, sans-serif; vertical-align: baseline; color: #636363;
+border-left: 0px initial initial; border-right: 0px initial initial;
+border-top: 1px dashed #a4b0bd; border-bottom: 0px initial initial; margin:
+2em 0px; padding-left: 0px; padding-right: 0px; padding-top: 2em;
+padding-bottom: 0px; background: 0px 0px;"><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"> Our mission is simple:&nbsp;<strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">to make </strong></em><font
+color="#008000"><em style="-webkit-font-smoothing: antialiased !important;
+outline: 0px; font-size: 15px; vertical-align: baseline; border: 0px none;
+margin: 0px; padding: 0px; background: 0px 0px;"><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">p</strong></em><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><strong style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">a</strong></em><em style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 15px; vertical-align: baseline;
+border: 0px none; margin: 0px; padding: 0px; background: 0px 0px;"><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">y</strong></em><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><strong style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">r</strong></em><em style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 15px; vertical-align: baseline;
+border: 0px none; margin: 0px; padding: 0px; background: 0px 0px;"><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">o</strong></em><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><strong style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">l</strong></em><strong style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 15px; vertical-align: baseline;
+border: 0px none; margin: 0px; padding: 0px; background: 0px 0px;"><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">l</em></strong></font><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><strong style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;"> and </strong></em><font color="#008000"><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><em style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">h</em></strong><strong style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 15px; vertical-align: baseline;
+border: 0px none; margin: 0px; padding: 0px; background: 0px 0px;"><em
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">r</em></strong><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><em style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;">m</em></strong><em style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 15px; vertical-align: baseline;
+border: 0px none; margin: 0px; padding: 0px; background: 0px 0px;"><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">s</strong></em></font><strong
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 15px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><em style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 15px; vertical-align:
+baseline; border: 0px none; margin: 0px; padding: 0px; background: 0px
+0px;"> fast, simple, and affordable for Indian small
+businesses.</em></strong></p>
+</div>
+<span style="background-color: #ffffff;"><font color="#0000FF"> <a
+class="button signup-button solo-button" id="homeSuBtn2" title="A
+no-obligation free trial!" style="-webkit-font-smoothing: antialiased
+!important; border-image: initial; outline: 0px; font-size: 14px;
+vertical-align: baseline; text-decoration: none; float: none !important;
+font-weight: bold; line-height: normal; max-width: 180px; width: 280px;
+text-align: left; cursor: pointer; box-sizing: border-box; min-width: 280px
+!important; display: block; clear: both; border-left: 0.15) solid;
+border-right: 0px solid; border-top: 1px solid rgba(0; border-bottom: 0px
+solid; margin: 0.5em auto !important; padding-left: 6px; padding-right:
+6px; padding-top: 7px; padding-bottom: 7px; background: #e05d05;"
+href="http://hrsolution.in/link.php?M=1576105&N=51&L=2&F=H"><font
+size="3"><span style="border-image: initial; text-decoration: none;
+font-weight: bold; max-width: 180px; width: 250px; text-align: left;
+cursor: pointer; box-sizing: border-box; min-width: 280px !important;
+display: block; clear: both; background-color: #ffffff; text-transform:
+uppercase; -webkit-font-smoothing: antialiased !important; outline: 0px;
+vertical-align: baseline; float: none; line-height: normal;
+background-repeat: repeat; background-attachment: scroll;
+border-left-style: solid; border-left-width: 0.15); border-right-style:
+solid; border-right-width: 0px; border-top: 1px solid rgba(0;
+border-bottom-style: solid; border-bottom-width: 0px; margin-left: auto;
+margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em; padding-left:
+6px; padding-right: 6px; padding-top: 7px; padding-bottom: 7px;
+background-position: 0%;">rs.10/-<span style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; vertical-align: baseline;
+text-transform: uppercase; width: 250px; float: none; line-height: normal;
+background-repeat: repeat; background-attachment: scroll; border-image:
+initial; text-decoration: none; font-weight: bold; max-width: 180px;
+text-align: left; cursor: pointer; box-sizing: border-box; min-width: 280px
+!important; display: block; clear: both; background-color: #ffffff;
+border-left-style: solid; border-left-width: 0.15); border-right-style:
+solid; border-right-width: 0px; border-top: 1px solid rgba(0;
+border-bottom-style: solid; border-bottom-width: 0px; margin-left: auto;
+margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em; padding-left:
+6px; padding-right: 6px; padding-top: 7px; padding-bottom: 7px;
+background-position: 0%;"> </span></span><span style="border-image:
+initial; text-decoration: none; font-weight: bold; max-width: 180px; width:
+250px; text-align: left; cursor: pointer; box-sizing: border-box;
+min-width: 280px !important; display: block; clear: both; background-color:
+#ffffff; text-transform: uppercase; -webkit-font-smoothing: antialiased
+!important; outline: 0px; vertical-align: baseline; float: none;
+line-height: normal; background-repeat: repeat; background-attachment:
+scroll; border-left-style: solid; border-left-width: 0.15);
+border-right-style: solid; border-right-width: 0px; border-top: 1px solid
+rgba(0; border-bottom-style: solid; border-bottom-width: 0px; margin-left:
+auto; margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em;
+padding-left: 6px; padding-right: 6px; padding-top: 7px; padding-bottom:
+7px; background-position: 0% 50%;">per employee per month<br />
+</span></font></a><font size="3"><span style="border-image: initial;
+text-decoration: none; font-weight: bold; max-width: 180px; width: 250px;
+text-align: left; cursor: pointer; box-sizing: border-box; min-width: 280px
+!important; display: block; clear: both; background-color: #ffffff;
+text-transform: uppercase; -webkit-font-smoothing: antialiased !important;
+outline: 0px; vertical-align: baseline; float: none; line-height: normal;
+background-repeat: repeat; background-attachment: scroll;
+border-left-style: solid; border-left-width: 0.15); border-right-style:
+solid; border-right-width: 0px; border-top: 1px solid rgba(0;
+border-bottom-style: solid; border-bottom-width: 0px; margin-left: auto;
+margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em; padding-left:
+6px; padding-right: 6px; padding-top: 7px; padding-bottom: 7px;
+background-position: 0% 50%;">Rs.15,000/-&nbsp; one-time setup
+charges</span></font></font></span></div>
+<div class="home-one-third-small" style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 14px; vertical-align:
+baseline; width: 359.9px; float: left; border: 0px none; margin-left: 0px;
+margin-right: 23.6px; margin-top: 0px; margin-bottom: 0px; padding: 0px;
+background: 0px 0px;"><img src="http://api.com99.in/images/eee.ico"
+alt="easy software" style="-webkit-font-smoothing: antialiased !important;
+outline: 0px; font-size: 14px; vertical-align: bottom; max-width: 100%;
+float: left; background-repeat: repeat; background-attachment: scroll;
+border-style: none; border-width: 0px; margin: 0px; padding-left: 0px;
+padding-right: 20px; padding-top: 0px; padding-bottom: 40px;
+background-position: 0px;" width="88" height="78" />
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">EASY-TO-USE
+SOFTWARE</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">Small business owners can learn to use our software
+in minutes! No training required.</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free payroll support"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+background-repeat: repeat; background-attachment: scroll; border-style:
+none; border-width: 0px; margin: 0px; padding-left: 0px; padding-right:
+20px; padding-top: 0px; padding-bottom: 40px; background-position: 0px;"
+width="85" height="81" lowsrc="file:///F:/InfoLogo/Logo/infowan_sym100.png"
+/></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">100% ONLINE</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">Quickly and securely run your payroll from any device
+that's connected to the Internet.</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free direct deposit"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+border: 0px none; margin: 0px; padding-left: 0px; padding-right: 20px;
+padding-top: 0px; padding-bottom: 40px; background: 0px 0px;" width="87"
+height="87" /></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">DEPENDABLE &amp;
+ACCURATE</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">Leave your payroll and accounting mistakes behind.
+We're tested and audited to be accurate.</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free employee portal"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+border: 0px none; margin: 0px; padding-left: 0px; padding-right: 20px;
+padding-top: 0px; padding-bottom: 40px; background: 0px 0px;" width="84"
+height="83" /></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">GUARANTEED
+SECURITY</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">We're audited and bonded, utilizing encryption
+techniques used by banks to keep your information safe.</p>
+</div>
+<div class="home-one-third-small" style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 14px; vertical-align:
+baseline; width: 359.9px; float: left; border: 0px none; margin-left: 0px;
+margin-right: 23.6px; margin-top: 0px; margin-bottom: 0px; padding: 0px;
+background: 0px 0px;"><img src="http://api.com99.in/images/eee.ico"
+alt="free payroll setup" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: bottom;
+max-width: 100%; float: left; background-repeat: repeat;
+background-attachment: scroll; border-style: none; border-width: 0px;
+margin: 0px; padding-left: 0px; padding-right: 20px; padding-top: 0px;
+padding-bottom: 40px; background-position: 0px;" width="85" height="84" />
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">AFFORDABLE
+PRICING</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">Our software is priced for small businesses, and
+there are no hidden fees. Rs.10/- ppm + Setup</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free payroll support"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+border: 0px none; margin: 0px; padding-left: 0px; padding-right: 20px;
+padding-top: 0px; padding-bottom: 40px; background: 0px 0px;" width="85"
+height="83" /></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">NO LONG-TERM
+CONTRACTS</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">Our monthly pricing will keep you free and clear of
+any contracts. Cancel anytime, without penalty.</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free direct deposit"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+border: 0px none; margin: 0px; padding-left: 0px; padding-right: 20px;
+padding-top: 0px; padding-bottom: 40px; background: 0px 0px;" width="84"
+height="85" /></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">FREE EXPERT
+SUPPORT</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">We keep things simple by offering free (US-based)
+support via phone, email or chat.</p>
+<p><img src="http://api.com99.in/images/eee.ico" alt="free 30-day trial"
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: bottom; max-width: 100%; float: left;
+background-repeat: repeat; background-attachment: scroll; border-style:
+none; border-width: 0px; margin: 0px; padding-left: 0px; padding-right:
+20px; padding-top: 0px; padding-bottom: 40px; background-position: 0px;"
+width="81" height="80" /></p>
+<h6 style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: bold; line-height:
+1.2em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #222222; text-transform: uppercase;
+border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px;
+margin-bottom: 0.5em; padding: 0px; background: 0px 0px;">FREE 30-DAY
+TRIAL</h6>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin-left:
+0px; margin-right: 0px; margin-top: 0px; margin-bottom: 40px; padding: 0px;
+background: 0px 0px;">See how we can simplify your payroll and/or
+accounting with a no-obligation, 30-day free trial.</p>
+</div>
+</div>
+</section></div>
+<div id="homePrimaryBg" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline;
+position: relative; float: left; width: 1519.2px; z-index: 5; color:
+#636363; font-family: Lato, arial, sans-serif; font-style: normal;
+font-variant-ligatures: normal; font-variant-caps: normal; font-weight:
+400; letter-spacing: normal; orphans: 2; text-align: start; text-indent:
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing:
+0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+text-decoration-color: initial; border: 0px none; margin: 0px;
+padding-left: 0px; padding-right: 0px; padding-top: 2em; padding-bottom:
+2em; background: #ffffff;"><section class="full-span grid"
+style="-webkit-font-smoothing: antialiased !important; float: left; width:
+1519.2px;">
+<div class="col-full" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline;
+max-width: 1180px !important; border: 0px none; margin: 0px auto; padding:
+0px; background: 0px 0px;">
+<div class="grid-row" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline; float:
+left; width: 1180px; clear: left; border: 0px none; margin-left: 0px;
+margin-right: 0px; margin-top: 0px; margin-bottom: 20px; padding: 0px;
+background: 0px 0px;">
+<div class="homeVideoPrimary" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline; width:
+560.5px; float: left; position: relative; border: 0px none; margin-left:
+0px; margin-right: 59px; margin-top: 0px; margin-bottom: 0px; padding: 0px;
+background: 0px 0px;">
+<div class="home-video" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline; float:
+left; width: 560px; position: relative; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">&nbsp;</div>
+<div class="video-card light-shadow" style="-webkit-font-smoothing:
+antialiased !important; outline: 0px; font-size: 14px; vertical-align:
+baseline; box-shadow: rgba(0, 0, 0, '0.1) 0px 5px 10px -15px', rgba(0, 0,
+0, '0.1) 0px 15px 20px -15px', rgba(0, 0, 0, '0.1) 0px 35px 30px -25px';
+border: 1px solid #dbdbdb; margin: 0px; padding: 2em; background:
+#fafafa;"><img src="http://salestarg.in/infowan/icon-trust.png" alt="trust
+Infowan software" style="-webkit-font-smoothing: antialiased !important;
+outline: 0px; font-size: 14px; vertical-align: bottom; max-width: 100%;
+width: 50px; border: 0px none; margin-left: 0px; margin-right: 0px;
+margin-top: 1em; margin-bottom: 0px; padding: 0px; background: 0px 0px;"
+/>Our Philosophy
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">Due to <b>Infowan</b>�s unique
+start-up history, we know small businesses need software that's not only
+affordable, but fast, easy to use, and doesn't tie them down to a long-term
+contract:&nbsp;<span style="color: #0000ff;">+91 9820197205 *
+infowansales@gmail.com</span></p>
+<p class="videoLinks" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-style: normal; font-variant: normal;
+font-weight: bold; line-height: 1.5em; font-size: 17px; font-family: Lato,
+arial, sans-serif; vertical-align: baseline; color: #999999; border: 0px
+none; margin-left: 0px; margin-right: 0px; margin-top: 2em; margin-bottom:
+0px; padding: 0px; background: 0px 0px;">&nbsp;</p>
+</div>
+</div>
+<div class="homeVideoSecondary" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline; width:
+560.5px; float: left; position: relative; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">
+<h2 class="two-toned-header" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-style: normal; font-variant: normal;
+font-weight: bold; line-height: 1.2em; font-size: 32px; font-family: Lato,
+arial, sans-serif; vertical-align: baseline; color: #222222; border: 0px
+none; margin: 0.25em 0px; padding: 0px; background: 0px 0px;">We have a
+passion for helping small businesses,&nbsp;<span
+style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 32px; vertical-align: baseline; color: #5c8dc7; border: 0px
+none; margin: 0px; padding: 0px; background: 0px 0px;">because we've been
+in your shoes.</span></h2>
+<p style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-style: normal; font-variant: normal; font-weight: normal; line-height:
+1.5em; font-size: 17px; font-family: Lato, arial, sans-serif;
+vertical-align: baseline; color: #636363; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;">With entrepreneurial beginnings over 25
+years ago in the basement of a Small Building, in Mira Road, we truly know
+the struggles small business owners face. That�s why we do what we
+do!</p>
+<ul class="margin-2-0" style="-webkit-font-smoothing: antialiased
+!important; outline: 0px; font-size: 14px; vertical-align: baseline;
+list-style-type: none; border: 0px none; margin: 2em 0px; padding: 0px;
+background: 0px 0px;">
+<li style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 14px; vertical-align: baseline; border: 0px none; margin: 0px;
+padding: 0px; background: 0px 0px;"><a class="button signup-button
+solo-button" id="homeSuBtn3" title="A no-obligation free trial!"
+style="-webkit-font-smoothing: antialiased !important; border-image:
+initial; outline: 0px; font-size: 14px; vertical-align: baseline; color:
+#5c8dc7; text-decoration: none; float: left; font-weight: bold;
+line-height: normal; max-width: 180px; width: 280px; text-align: left;
+cursor: pointer; box-sizing: border-box; min-width: 280px !important;
+border-left: 0.15) solid; border-right: 0px solid; border-top: 1px solid
+rgba(0; border-bottom: 0px solid; margin: 0px; padding-left: 6px;
+padding-right: 6px; padding-top: 7px; padding-bottom: 7px; background:
+#e05d05;" href="http://hrsolution.in/link.php?M=1576105&N=51&L=2&F=H">
+<span style="-webkit-font-smoothing: antialiased !important; outline: 0px;
+font-size: 24px; vertical-align: baseline; text-transform: uppercase;
+width: 250px; float: left; color: #ffffff; line-height: 1em; border: 0px
+none; margin: 0px; padding: 0px; background: 0px 0px;"> TRY IT FREE
+TODAY</span>Start a free 30-day trial!</a></li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</div>
+</div>
+</section></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<img src="http://hrsolution.in/open.php?M=1576105&L=36&N=51&F=H&image=.jpg"
+height="1" width="10"></body>
+
+</html>
+
+--b1_f0cac3ba599a6fb602453aac229a1609--
+

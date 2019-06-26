@@ -1,0 +1,670 @@
+Return-Path: <bounce-72298.192276.88-contact=jcbl.com@juvlonemailsms.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <contact@jcbl.com>
+X-Envelope-To-Blocked: <contact@jcbl.com>
+X-Quarantine-ID: <ah0yiBRDn61K>
+X-Spam-Flag: YES
+X-Spam-Score: 7.35
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.35 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ah0yiBRDn61K for <contact@jcbl.com>;
+	Mon, 19 Nov 2018 14:25:19 +0530 (IST)
+Received: from nl4.juvlonemailsms.com (nl4.juvlonemailsms.com [150.129.26.100])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 5B1B0F44104
+	for <contact@jcbl.com>; Mon, 19 Nov 2018 14:25:17 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=juvlon; d=juvlonemailsms.com;
+ h=Date:To:From:Reply-To:Subject:Message-ID:MIME-Version:List-Unsubscribe:Sender:Content-Transfer-Encoding:Content-Type; i=postmaster@juvlonemailsms.com;
+ bh=T7zwxRywVE2PEPNP2FMREjQzIEkuAdhsK24+Es/Zzdo=;
+ b=p4m9RYSEtp7LC5DbTKJqg56/tvftndHoFepJJ1jqbM1CpLWt1je6kEBSNLJ3HolFAhTJcvR+qIWb
+   B7GWlA7Umfk8IAdoYNcBTtBtnEQrd3Jho2ZhVxhFSEQpS5yp4JMn2F98XE4vneEOrZd8ate2Cnyi
+   JbO4UczLuxC3OvgKxm8=
+Date: Mon, 19 Nov 2018 13:09:36 +0530
+To: contact@jcbl.com
+From: SNS <sns@ibsbook.net>
+Reply-To: sns@ibsbook.net
+Subject: TPM/Tech.Book - TPM for Workshop Leaders
+Message-ID: <e4e25a76c5619c88d080f728f43be314@nl4.juvlonemailsms.com>
+X-Mailer:2661#31290#72298#2018-11-19 13:09:36#192424#1049#NG#P1.6#118518#APP64235581#539#W3
+Feedback-ID:118518:72298:nl4.juvlonemailsms.com:JVLN
+MIME-Version: 1.0
+List-Unsubscribe: <mailto:72298.7d2c51755c863f71d076a81f9ecf433e.2661@jvlnmail.net?subject=Unsubscribe>
+Sender: 
+Precedence: bulk
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html 
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0
+Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head><meta http-equiv="Content-Type"
+content="text/html; charset=UTF-8">
+<meta content="text/html; charset=utf-8"
+http-equiv="Content-Type">
+<meta content="width=device-width,
+initial-scale=1.0, maximum-scale=1.0,
+user-scalable=0" name="viewport">
+<title></title>
+<style type="text/css">/* Outlook link fix */     
+  #outlook a {padding:0;}        /* Hotmail
+background & line height fixes */       
+.ExternalClass {width:100% !important;}       
+.ExternalClass, .ExternalClass p, .ExternalClass
+span, .ExternalClass font,        .ExternalClass
+td, .ExternalClass div {line-height: 100%;}       
+/* Image borders & formatting */        img
+{outline:none; text-decoration:none;
+-ms-interpolation-mode: bicubic;}         a img
+{border:none;}         /* Re-style iPhone
+automatic links (eg. phone numbers) */       
+.applelinks a {color:#222222; text-decoration:
+none;}        /* Hotmail symbol fix for mobile
+devices */        .ExternalClass img[class=Emoji]
+{ width: 10px !important; height: 10px !important;
+display: inline !important; }                     
+   /* Media Query for mobile */               
+@media screen and (max-width: 320px) {          
+body {   -webkit-text-size-adjust:100%;  
+-ms-text-size-adjust:100%; }          /* This
+resizes tables and images to be 100% wide with a
+proportionate width */       
+table[class=emailwrapto100pc],
+img[class=emailwrapto100pc]{width:100% !important;
+height:auto !important;}                /* Hide
+stuff on mobiles */       
+table[class=emailnomob],td[class=emailnomob],img[class=emailnomob],span[class=emailnomob]{display:none
+!important;}       
+td[class=emailcolsplit]{width:100%!important;
+float:left!important;}table[class=link_box],td[class=link_box],img[class=link_box],span[class=link_box]{display:block
+!important;}                   /* This resizes
+body text for mobiles */
+td[class=emailbodytext],a[class=emailbodytext]{font-size:1.0em
+!important; line-height:26px !important;}      
+span[class=emailbodytext],a[class=emailbodytext]{font-size:1.0em
+!important; line-height:26px
+!important;}td[class=emailfootertext],
+span[class=emailfootertext],a[class=emailfootertext]{font-size:1.0em
+!important; line-height:22px !important;}
+td[class=emailtext],span[class=emailtext]{font-size:1.0em
+!important; line-height:26px !important;}     
+span[class=easy_txt_hd_mo]{font-size:1.2em
+!important; line-height:26px !important;}       
+span[class=pricing_tab_hd_mo]{ font-size:1.2em
+!important; line-height:26px !important}          
+     }                /* Additional Media Query
+for tablets */                @media screen and
+(min-width: 320px) and (max-width: 680px) {       
+        /* Same as above */    body {  
+-webkit-text-size-adjust:100%;  
+-ms-text-size-adjust:100%; }    
+table[class=emailwrapto100pc],
+img[class=emailwrapto100pc]{width:100% !important;
+height:auto !important;}        /* Hide stuff on
+tablets */       
+table[class=emailnomob],td[class=emailnomob],img[class=emailnomob],span[class=emailnomob]{display:none
+!important;}table[class=link_box],td[class=link_box],img[class=link_box],span[class=link_box]{display:blcok
+!important;}                /* Same as above -
+make the text larger on a tablet*/ 
+td[class=emailbodytext],a[class=emailbodytext]{font-size:1.0em
+!important; line-height:26px !important;}     
+span[class=emailbodytext],a[class=emailbodytext]{font-size:1.0em
+!important; line-height:26px
+!important;}td[class=emailfootertext],
+span[class=emailfootertext],a[class=emailfootertext]{font-size:1.0em
+!important; line-height:22px !important;} 
+span[class=easy_txt_hd_mo]{font-size:1.2em
+!important; line-height:26px !important;} 
+td[class=emailtext],span[class=emailtext]{font-size:1.0em
+!important; line-height:26px !important;}  
+span[class=pricing_tab_hd_mo]{ font-size:0.8em
+!important; line-height:26px !important}         }
+@media screen and (min-width: 680px) and
+(max-width: 2024px) {
+table[class=link_box],td[class=link_box],img[class=link_box],span[class=link_box]{display:none
+!important;}
+td[class=emailbodytext],a[class=emailbodytext]{font-size:14px
+!important; line-height:18px !important;}      
+span[class=emailbodytext],a[class=emailbodytext]{font-size:14px
+!important; line-height:18px !important;}
+td[class=emailtext],span[class=emailtext]{font-size:13px
+!important; line-height:18px !important;}
+td[class=emailfootertext],a[class=emailbodytext]{font-size:10px
+!important; line-height:14px !important;}      
+td[class=emailfootertext],
+span[class=emailfootertext],a[class=emailbodytext]{font-size:10px
+!important; line-height:14px !important;}  }  
+@media (device-height: 568px) and
+(-webkit-min-device-pixel-ratio: 2) { 
+td[class=emailbodytext],a[class=emailbodytext]{font-size:1.5em
+!important; line-height:26px !important;}}@media
+only screen and (min-device-width: 320px) and
+(max-device-width: 568px)and
+(-webkit-device-pixel-ratio: 2) and
+(device-aspect-ratio: 40/71) and
+(orientation:portrait){span[class=emailbodytext],a[class=emailbodytext]{font-size:1.5em
+!important; line-height:26px !important;}   
+td[class=emailbodytext],a[class=emailbodytext]{font-size:1.5em
+!important; line-height:26px
+!important;}span[class=easy_txt_hd_mo]{font-size:1.4em
+!important; line-height:26px !important;}
+}</style>
+</head>
+<body>
+<table class="emailwrapto100pc" width="600"
+cellspacing="0" cellpadding="0" border="0"
+align="center"><tbody>
+<tr>
+<td style="padding-top:30px; padding-bottom:20px;"
+valign="top" bgcolor="#1fbad6" align="center"><img
+src="https://app3.juvlon.com/email_templates/template41/images/logo.png"
+width="187" height="70"></td>
+		</tr>
+<tr>
+<td bgcolor="#1fbad6">
+				<table width="80%" cellspacing="0"
+cellpadding="0" border="0"
+align="center"><tbody><tr>
+<td bgcolor="#f3f3f3">
+								<table class="emailwrapto100pc"
+width="90%" cellspacing="0" cellpadding="10"
+border="0" align="center"><tbody>
+<tr>
+<td class="easy_txt_hd_mo"
+style="padding-top:30px; font-family: Arial,
+Helvetica, sans-serif; line-height:36px;
+font-size:28px; color:#111125;
+padding-bottom:20px;" valign="top"
+bgcolor="#f3f3f3" align="center">
+												<p align="left"><font
+style="font-size:14px;"><font size="1"><font
+face="Verdana"><font color="#0000ff"><strong><font
+face="Verdana"><font size="2"><font
+style="font-size:11px;"><font
+color="#0000ff"><strong>Kind Attn.: The Sr.
+Manager-Technical/QC</strong></font></font><br><b><font
+style="font-size:10px;">(<font
+color="#000000">Kindly forward this message to
+concern
+person/Dept./Plant)</font></font></b></font></font></strong></font></font></font></font></p>
+												<font style="font-size:14px;"><img
+src="https://img.juvpix.net/ml/client_72298/41G1PMa1kiL__SX331_BO1,204,203,200__5837d615ebc5b.jpg"
+width="333" height="499"></font>
+</td>
+										</tr>
+<tr>
+<td class="emailbodytext" style="border-bottom:1px
+solid #474747; font-family:Arial, Helvetica,
+sans-serif; font-size:14px; color:#464545;
+line-height:18px; padding-bottom:20px;"
+valign="top" bgcolor="#f3f3f3" align="left">
+												<div>
+													<div>
+														<div><font size="2"
+face="Verdana">&nbsp;Dear Sir,</font></div>
+														<div>&nbsp;</div>
+														<div><font size="2"
+face="Verdana">We are glad to inform you about a
+valuable book <font color="#0000ff">"<strong>TPM
+for Workshop Leaders"</strong></font>&nbsp; By :
+Shirose Kunio</font></div>
+													</div>
+													<div>
+														<div>&nbsp;</div>
+														<div><font size="2"
+face="Verdana">Workshop leaders play a central
+role in your company's efforts to implement TPM.
+Once your workers have been divided into small
+groups to learn the fundamentals of TPM, it is the
+group leader who spearheads ongoing training and
+implementation activities. With quick-reading,
+people-oriented practicality, this new book
+addresses the role of the workshop leader in
+maximizing the benefits of TPM.A top TPM
+consultant in Japan, Kunio Shirose:<br><br>
+															Incorporates cartoons and graphics
+to convey the hands-on leadership issues of TPM
+implementation<br>
+															Uses case studies to reinforce his
+ideas on training and managing equipment operators
+in the care of their equipment<br>
+															Itemizes specific activities that
+must be undertaken to search out, correct, and
+control defects to remedy equipment
+shortcomings.<br><br><font size="2"
+face="Verdana">He also addresses the cooperative
+relationship necessary between maintenance and
+production and leaves you with an understanding of
+the three imperatives for successful TPM
+implementation to change the quality and
+functioning of the equipment, the way operators
+think about equipment, and the workplace.
+(Originally published by the Japan Management
+Association.)</font></font></div>
+													</div>
+												</div>
+												<hr>
+<br><div><font size="2" face="Verdana"><font
+color="#0000ff"><strong>For More Details, Please
+Check the Contents:</strong></font> </font></div>
+												<div>&nbsp;</div>
+												<div><font size="2" color="#a52a2a"
+face="Verdana"><strong>Chapter 1.&nbsp;Causes of
+breakdowns and defects</strong></font></div>
+												<div align="left"><font size="2"
+face="Verdana">The Workshop
+Environment</font></div>
+												<div align="left"><font size="2"
+face="Verdana">Condition of Equipment</font></div>
+												<div align="left"><font size="2"
+face="Verdana">Condition of Area around
+Equipment</font></div>
+												<div align="left"><font size="2"
+face="Verdana">Equipment Operators</font></div>
+												<div align="left"><font size="2"
+face="Verdana">General Conditions<br><font
+size="2" face="Verdana">TPM Success
+Stories</font></font></div>
+												<div>
+<br><font size="2" color="#a52a2a"
+face="Verdana"><strong>Chapter 2.&nbsp;Definition
+of TPM</strong></font>
+</div>
+												<div><font size="2"
+face="Verdana">History of Equipment Management in
+Japan</font></div>
+												<div><font size="2"
+face="Verdana">Preventive Maintenance</font></div>
+												<div><font size="2"
+face="Verdana">Improvement-Related
+Maintenance</font></div>
+												<div><font size="2"
+face="Verdana">Maintenance Prevention</font></div>
+												<div><font size="2"
+face="Verdana">TPM: Japances-Style Equipment
+Management</font></div>
+												<div><font size="2"
+face="Verdana">Definition of TPM</font></div>
+												<div><font size="2" face="Verdana">The
+Five Pillars of TPM Development</font></div>
+												<div>&nbsp;</div>
+												<div><font face="Verdana"><font
+size="2"><font color="#a52a2a"><strong>Chapter
+3.&nbsp;Characteristics and goals of
+TPM</strong></font> </font></font></div>
+												<div><font size="2" face="Verdana">TPM
+Characerized by "Zero" Targets</font></div>
+												<div><font size="2" face="Verdana">1.
+Maintenance of Normal Conditions</font></div>
+												<div><font size="2" face="Verdana">2.
+Early Discovery of Abnormalities</font></div>
+												<div><font size="2" face="Verdana">3.
+Prompt Resoponse</font></div>
+												<div><font size="2" face="Verdana">Two
+Main Goals of TPM</font></div>
+												<div><font size="2"
+face="Verdana">Development of Optimal Conditions
+for the Workshop as a Human-Machine
+System</font></div>
+												<div><font size="2"
+face="Verdana">Improving the Overall Quality of
+the Workplace</font></div>
+												<div>
+<br><font face="Verdana"><font size="2"><font
+color="#a52a2a"><strong>Chapter 4.&nbsp;Approach
+to equipment effficiency
+improvement</strong></font> </font></font>
+</div>
+												<div><font size="2" face="Verdana">The
+Six Big Losses: Stumbling Blocks on the Road to
+Higher Equipment Efficiency</font></div>
+												<div><font size="2"
+face="Verdana">Breakdown Losses</font></div>
+												<div><font size="2" face="Verdana">The
+Zero Breakdowns Target</font></div>
+												<div><font size="2"
+face="Verdana">Setup and Adjustment
+Losses</font></div>
+												<div><font size="2" face="Verdana">The
+Zerl Adjustments Goal</font></div>
+												<div><font size="2"
+face="Verdana">Idling and Minor Stoppage
+Losses</font></div>
+												<div><font size="2" face="Verdana">The
+Zero Idling and Minor Stoppage Goal</font></div>
+												<div><font size="2"
+face="Verdana">Reduced Speed Loss</font></div>
+												<div><font size="2"
+face="Verdana">Ouality Defects and
+Rework</font></div>
+												<div><font size="2" face="Verdana">The
+Zero Defects Target</font></div>
+												<div><font size="2"
+face="Verdana">Startup/Yield Losses</font></div>
+												<div>
+<br><font face="Verdana"><font size="2"><font
+color="#a52a2a"><strong>Chapter 5.&nbsp;Loss
+calculation methods and improvement
+targets</strong></font> </font></font>
+</div>
+												<div><font size="2"
+face="Verdana">Operating Time</font></div>
+												<div><font size="2"
+face="Verdana">Performance Rate</font></div>
+												<div><font size="2"
+face="Verdana">Overall Equipment
+Effectiveness</font></div>
+												<div><font size="2"
+face="Verdana">Improvement Targets for the Six Big
+Losses</font></div>
+												<div>
+<br><font face="Verdana"><font size="2"><font
+color="#a52a2a"><strong>Chapter 6.&nbsp;Approach
+to chronic loss improvement</strong></font>
+</font></font>
+</div>
+												<div><font size="2"
+face="Verdana">Understanding Chronic Loss
+Characerstics</font></div>
+												<div><font size="2"
+face="Verdana">Chronic Events and Sporadic&nbsp;
+Events</font></div>
+												<div><font size="2"
+face="Verdana">Characeristics of Chronic
+Loss</font></div>
+												<div><font size="2"
+face="Verdana">Reduction of Chronic
+Loss</font></div>
+												<div><font size="2" face="Verdana">How
+to Implement P-M Analysis</font></div>
+												<div><font size="2"
+face="Verdana">Definition</font></div>
+												<div><font size="2"
+face="Verdana">Example of P-M
+Analysis</font></div>
+												<div><font size="2"
+face="Verdana">Approach to Discovering Slight
+Defects</font></div>
+												<div><font size="2"
+face="Verdana">Search for Optimal
+Conditions</font></div>
+												<div><font size="2"
+face="Verdana">Using Optimal Conditions as an
+Indicator of Slight Defects</font></div>
+												<div><font size="2"
+face="Verdana">Points for Studying Optimal
+Conditions</font></div>
+												<div><font size="2"
+face="Verdana">Clearly Differentiate between
+Normal and Abnormal Slight Defects</font></div>
+												<div><font size="2"
+face="Verdana">Restoration</font></div>
+												<div><font size="2"
+face="Verdana">Natural Deterioration and
+Accelerated Deterioration</font></div>
+												<div><font size="2"
+face="Verdana">Cleaning Is Checking</font></div>
+												<div><font size="2"
+face="Verdana">Restoration for Prevention of
+Defects</font></div>
+												<div><font size="2"
+face="Verdana">Restoration Comes before
+Improvement</font></div>
+												<div>
+<br><font face="Verdana"><font size="2"><font
+color="#a52a2a"><strong>Chapter 7.&nbsp;Autonomous
+maintenance activities of the production
+department</strong></font> </font></font>
+</div>
+												<div><font size="2"
+face="Verdana">Definition of Autonomous
+Maintenance</font></div>
+												<div><font size="2"
+face="Verdana">Each Operator Is Responsible for
+Maintaining His or Her Own Equipment</font></div>
+												<div><font size="2"
+face="Verdana">Training Operators to Understand
+Their Equipmeqnt Characteristics of Autonomous
+Maintenance</font></div>
+												<div><font size="2"
+face="Verdana">Development</font></div>
+												<div><font size="2" face="Verdana">A
+Step-by-Step Approach</font></div>
+												<div><font size="2" face="Verdana">Use
+of Audits</font></div>
+												<div><font size="2"
+face="Verdana">Organization-Led
+Activities</font></div>
+												<div><font size="2" face="Verdana">Use
+of Activity Boards</font></div>
+												<div><font size="2"
+face="Verdana">Studement Become
+Teachers</font></div>
+												<div><font size="2"
+face="Verdana">Meetings</font></div>
+												<div><font size="2"
+face="Verdana">Mandatory Reports</font></div>
+												<div><font size="2"
+face="Verdana">Autonomous Maintenance Development
+Steps</font></div>
+												<div><font size="2"
+face="Verdana">Step 1: Initial
+Cleaning</font></div>
+												<div><font size="2"
+face="Verdana">Step 2: Eliminate Sources of
+Contamination and Inaccessible Areas</font></div>
+												<div><font size="2"
+face="Verdana">Step 3: Creation and Maintenance of
+(Provisional Standards for Cleaning and
+Lubrication</font></div>
+												<div><font size="2"
+face="Verdana">Step 4: General
+Inspection</font></div>
+												<div><font size="2"
+face="Verdana">Step 5: Autonimous
+Inspection</font></div>
+												<div><font color="#a52a2a"><font
+face="Verdana"><font size="2">&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<br><strong>Chapter
+8.&nbsp;Planned maintenance activities of the
+maintenance
+department</strong></font></font></font></div>
+												<div><font size="2"
+face="Verdana">Division of Tasks between
+Maintenance and Production
+Departments</font></div>
+												<div><font size="2"
+face="Verdana">Description of Planned Maintenance
+Activities</font></div>
+												<div><font size="2"
+face="Verdana">A&nbsp;Quick Response
+System</font></div>
+												<div><font size="2"
+face="Verdana">Activities&nbsp;Aimed at Early
+Discovery of Abnormalities</font></div>
+												<div><font size="2"
+face="Verdana">Activities to Prevent Recurring
+Breakdowns</font></div>
+												<div><font size="2"
+face="Verdana">Activities to Shorten Repair
+Times</font></div>
+												<div><font size="2"
+face="Verdana">Other Activities</font></div>
+												<div><font size="2"
+face="Verdana">Skills Training</font></div>
+												<div><font size="2"
+face="Verdana">Everyone Should Learn the Same
+Skills</font></div>
+												<div><font size="2" face="Verdana">MP
+Design and Early Equipment Management</font></div>
+												<div><font size="2"
+face="Verdana">MP&nbsp;Design</font></div>
+												<div><font size="2"
+face="Verdana">Early Equipment
+Managemernt</font></div>
+												<div><font size="2"
+face="Verdana">Afterwork</font></div>
+												<div><font size="2"
+face="Verdana">About the Author </font></div>
+											</td>
+										</tr>
+<tr>
+<td style=" font-family:Arial, Helvetica,
+sans-serif; font-size:14px; color:#464545;
+line-height:18px; padding-bottom:20px;
+padding-top:30px;" valign="top" bgcolor="#f3f3f3"
+align="left">
+												<div><font size="2" color="#a52a2a"
+face="Verdana"><strong>OUR
+TERMS:</strong></font></div>
+												<div><font size="2"
+face="Verdana">Postage &amp; Packing&nbsp;&nbsp;
+:&nbsp;&nbsp; FREE. As well as couriers.<br>
+													Delivery&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp; :&nbsp;&nbsp;
+IMMEDIATELY,Available in Ex-stock.<br>
+													Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; :&nbsp;&nbsp;
+Original priced&nbsp;Pound
+40(Rs.4489)<br><strong><font color="#A52A2A">We
+are selling it a special price Rs. 1480/-&nbsp;
+(With Couriers C<font
+color="#A52A2A">ha</font>rges)</font></strong>
+</font></div>
+												<div><font size="2"
+face="Verdana">Payment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;&nbsp;
+100% Advance alongwith purchase order</font></div>
+												<div>
+													<div>
+<br><font size="2" face="Verdana">Delivery
+<strong>:
+Immediately&nbsp;</strong>through<strong>COURIER/SPEEDPOST.</strong><br>
+														&nbsp;<br>
+														Kindly send your order alongwith a
+bank draft/cheque at PAR for Rs.1480/- in favour
+of</font><font
+style="font-size:8px;"><strong><font size="2"
+face="Verdana"> "<font color="#000080">Standards
+Network
+Services"</font></font></strong></font><font
+color="#000080"><font size="2" face="Verdana">
+</font></font><font size="2" face="Verdana"><font
+color="#000080">,&nbsp;p</font>ayable at New
+Delhi.</font><font size="2"
+face="Verdana">&nbsp;</font><br><br><font size="2"
+face="Verdana">Looking forward to your valued
+order.<br>
+														&nbsp;<br>
+														Thanking you and assuring you of our
+best services.<br>
+														&nbsp;<br>
+														Sincerely yours,<br>
+														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sd/-<br>
+														Manager-(Publicity)</font><br><hr>
+<br><div><b><font size="2" face="Verdana"><font
+style="FONT-SIZE: 18px"><font
+color="#a52a2a"><strong>Available
+from</strong></font></font></font></b></div>
+														<div><b><strong><font
+color="#0000ff" face="Verdana">Standards Network
+Services</font></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">60, 1st, floor, DSIDC
+complex</font></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">Babu Park,&nbsp;Kotla
+Mubarakpur</font></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">NEW
+DELHI-110003</font></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">E-mail : </font><a
+href="mailto:sns@ibsbook.net" target="_blank"
+title="This external link will open in a new
+window"><font size="2" color="#0000ff"
+face="Verdana">sns@ibsbook.net</font></a></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">Phone : 011- 46142463,
+8802696133</font></strong></b></div>
+														<div><b><strong><font size="2"
+face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+09891158484(Cell)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></strong></b></div>
+													</div>
+												</div>
+											</td>
+										</tr>
+</tbody></table>
+</td>
+						</tr></tbody></table>
+</td>
+		</tr>
+<tr>
+<td class="footertext" style="padding-top:20px;
+padding-right:30px;
+font-family:Verdana,Geneva,sans-serif;
+font-size:14px; color:#ffffff; 
+padding-right:5px;" bgcolor="#1fbad6"
+align="center">ollow us on<br><br><table
+class="emailwrapto100pc" width="30%"
+cellspacing="0" cellpadding="0" border="0"
+align="center"><tbody><tr>
+<td width="46%" valign="top" align="right"><a
+href="#" target="_blank"><img alt="Friends us on
+Facebook"
+src="https://app3.juvlon.com/email_templates/template41/images/facebook.png"
+width="42" height="40" border="0"></a></td>
+							<td width="16%" valign="top"
+align="center"><a href="#" target="_blank"><img
+alt="Friends us on Twitter"
+src="https://app3.juvlon.com/email_templates/template41/images/twitter.png"
+width="42" height="40" border="0"></a></td>
+							<td width="38%" valign="top"
+align="left"><a href="#" target="_blank"><img
+alt="Friends us on youtube"
+src="https://app3.juvlon.com/email_templates/template41/images/youtube.png"
+width="42" height="40" border="0"></a></td>
+						</tr></tbody></table>
+</td>
+		</tr>
+<tr>
+<td bgcolor="#1fbad6">&nbsp;</td>
+		</tr>
+</tbody></table>
+<div align="center" id="footer_div">
+<font face="Arial, Helvetica, sans-serif"
+size="2"><div>
+<img style="display:none" name="view"
+src="http://lnkmlk3.com/view/6bElDU5Krk_KYvehz-q7htjULsBWzyNHagXF8YfWLCb6dl7LcoTkjY7NeZ0jeiiqpTvw-BWPmCf1jU6fLVjE85TM_v4Wh5u-T1T6DhXnxhM."
+width="1" border="0" height="1" alt=""><div
+align="center"><table width="600" border="0"
+align="center" cellpadding="1"
+cellspacing="0"><tr><td height="35" align="left"
+valign="middle" style="padding-top:10px;"><font
+face="Arial, Helvetica, sans-serif"
+style="font-size:12px;" color="#818181">You have
+received this message from Standard Network
+Services. You can <a
+href="http://lnkmlk3.com/unsubscribe_new.php?params=72298.7d2c51755c863f71d076a81f9ecf433e.2661">unsubscribe/update
+your preferences</a> or <a
+href="http://lnkmlk3.com/report/gMAxr9R0KIcLd-0wZvARCWvQYPMaBLjV2AY4XxwPYQu-1BgdrTtwW75KBkxHS4_5">report
+abuse</a>. <hr style="size:1px;" color="#CCCCCC"
+size="1">Standard Network Services, 60, DSIDC, 1st
+Floor,, Bapu Park,  New Delhi, New Delhi, India.
+<br><br></font></td></tr></table></div>
+</div></font><br>
+</div>
+</body>
+</html>
+
+

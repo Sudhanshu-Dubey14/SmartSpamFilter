@@ -1,0 +1,116 @@
+Return-Path: <5968-1954-3508-1674-ibd+5Fdoc=jcbl.com@mail.truelens11.icu>
+Delivered-To: spam-quarantine
+X-Envelope-To: <ibd_doc@jcblmail.com>
+X-Envelope-To-Blocked: <ibd_doc@jcblmail.com>
+X-Quarantine-ID: <aWlgR6S1XSpc>
+X-Spam-Flag: YES
+X-Spam-Score: 6.584
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.584 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_32=0.001, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724,
+	PYZOR_CHECK=1.985, RCVD_IN_PSBL=2.7, RDNS_NONE=1.274, SPF_PASS=-0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aWlgR6S1XSpc for <ibd_doc@jcblmail.com>;
+	Tue, 29 Jan 2019 18:15:47 +0530 (IST)
+Received: from uncle.truelens11.icu (unknown [185.148.243.106])
+	by mx10.jcbl.com (Postfix) with ESMTP id 7066BF45CD4
+	for <ibd_doc@jcbl.com>; Tue, 29 Jan 2019 18:15:45 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=truelens11.icu;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Info@truelens11.icu;
+ bh=dGif1EOlxanKqcG1ToM38TzAh50=;
+ b=eLqM/27TAfZHo3C7SDTPvdbPj3vtYbrpxdzUzzlYkAl6SAwPFtSkgygxbljOPg40ZLW30FM/LwPo
+   3nZvmIml1KjARnOFw8ZGsy9TOzkLOrL4czOw/gWYjkJpZbOr96aO81k+zqYitLJ9t0a2o5z9edMO
+   xmzU8YSt4HI8bosZAYY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=truelens11.icu;
+ b=RLx+WvpefntsSTy6LrKPCvux0AoqVA6bF17UAa3c0Kmkl7yrYOTgqlu5ZryLuZZx7gipc4yZbBK3
+   A4UhkXvAkGGRyXM9xZWx2NA6q6QSAMyMnHtuatX8o7DIa0Y03WUpR8ctQYhwbJ/zt/H+5OtwQMmN
+   tCiHqOmtVLUpVNO9YRQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="88b2ddb2c82b79c718694031db8db579"
+Date: Tue, 29 Jan 2019 07:48:07 -0500
+From: "The Choice Home Warranty" <Info@truelens11.icu>
+Reply-To: "The Choice Home Warranty" <Contact@truelens11.icu>
+Subject: Never Pay For Covered Home Repairs Again in 2019!
+To: <ibd_doc@jcbl.com>
+Message-ID: <jxszzao2em1neabw-045x7xhgx4voeyhq-db4@truelens11.icu>
+
+--88b2ddb2c82b79c718694031db8db579
+Content-Type: text/plain;
+
+Content-Transfer-Encoding: 8bit
+
+--88b2ddb2c82b79c718694031db8db579
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Choice Home Warrenty</title>
+</head>
+<body><a href="http://truelens11.icu/W0TaKzcg-jjHdC9bl2DCcC-ztjpTxGo76-fato69Q8QEmudH_3508_7a2_295142a1_0300"><img border="0" src="http://truelens11.icu/laRqABoGISrz6jdjkWc4WieiOCueJnq9PF67ON2zVVko8P0X_3508_7a2_af1e3182_0300" /> </a>
+<table align="center" width="593">
+	<tbody>
+		<tr>
+			<td align="center">
+			<p><a href="http://truelens11.icu/HgXTCYT24nYociMbCxLA-_6zjfB7Q7zqT1mxISY57txbO_j8_3508_7a2_a89fa532_0300" target="_blank"><img alt="Never Pay For Covered Home Repairs Again. First Month FREE." src="http://truelens11.icu/bee38217818c664b20.jpg" /></a></p>
+
+			<div align="center" style="color:#000; width:593px; font-size:11px">
+			<p style="text-align: center; color: black; font-size: 11px; font-weight:bold;font-family:Georgia">All Choice Home Warranty plans are subject to terms and conditions</p>
+
+			<p align="center" style="color:#000; font-size:12px;font-family:Georgia">*First month free with purchase of single payment plan</p>
+
+			<p>&nbsp;</p>
+
+			<div align="center" style="color:#000; font-size:12px;font-family:Georgia">A home warranty is a renewable service contract that covers the repair or replacement of many of the most frequently occurring breakdowns of system components and appliances.
+			<p>Your home is most likely one of your biggest investments. Unexpected repair or replacement costs of covered items can easily strain your budget. Plus, finding a qualified professional to solve your problems can be stressful and inconvenient.</p>
+
+			<p>All Choice Home Warranty plans are subject to terms and conditions.</p>
+			</div>
+
+			<center>
+			<p style="font-family: HelveticaNeue,Helvetica Neue,Helvetica,Arial, sans-serif; font-size:12px; color: #000000; padding: 0 10px 0 10px;">If you no longer wish to receive email advertisements, please <a href="http://truelens11.icu/OI9bUSjHWPCbPYtcWHfR3b01ha_vFhYjIdSllS-YcqgaTPH4_3508_7a2_ea752324_0300" style="color:#585959;">click here</a> to unsubscribe.<br />
+			You may also write to us at:<br />
+			1090 King Georges Post Road<br />
+			Edison, NJ 08837</p>
+			</center>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center"><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://truelens11.icu/G7HLvJfS4jAaLCDS1OmVEjwHuPZ_jQ3dzH9LxtKLpea7ZHIA_3508_7a2_e6dad971_0300"><img src="http://truelens11.icu/bee38217818c664b20.jpg" width="1" /></a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://bit.do/eFtR3"><img src="http://truelens11.icu/c2f34eb3f2bbbc5fa0.jpg" /></a></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+
+--88b2ddb2c82b79c718694031db8db579--
+

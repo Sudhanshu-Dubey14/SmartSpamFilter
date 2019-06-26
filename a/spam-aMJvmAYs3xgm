@@ -1,0 +1,71 @@
+Return-Path: <albert@tomorrowsnews.review>
+Delivered-To: spam-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked: <poonam_rawal@jcblmail.com>
+X-Quarantine-ID: <aMJvmAYs3xgm>
+X-Spam-Flag: YES
+X-Spam-Score: 9.92
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.92 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	EXCUSE_4=1.687, HTML_IMAGE_ONLY_16=1.048, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, INVALID_MSGID=1.167,
+	MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985, RCVD_IN_PSBL=2.7,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aMJvmAYs3xgm for <poonam_rawal@jcblmail.com>;
+	Fri, 23 Nov 2018 14:41:14 +0530 (IST)
+Received: from quakerises.tomorrowsnews.review (erased.karavanrc.com [160.20.14.178])
+	by mx10.jcbl.com (Postfix) with ESMTPS id D3C3CF44282
+	for <poonam_rawal@jcbl.com>; Fri, 23 Nov 2018 14:40:59 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=tomorrowsnews.review; s=dkim; t=1542964315;
+	bh=IAfq3lNN3Qnt97K/hccGS5eg7OBfXLu8pIWu4y/Kej8=;
+	h=to:from:subject:date:message-id:mime-version:content-type;
+	b=OP1ATApTjbsZdMpXjDUZo52uCh+Gy5lUkjE+nOV+tzq8b9IeppoXbTnL3ZxNyZKMN
+	 +zvIU7VzKZuQLyRaPjwtC3hMJYaxjDbl+2IUO02n1l15ILugQSiaQfDF52UdoAW8mQ
+	 K/Tb4TcK87mxMpvHqo41oytyivQ1O4xZ+u6Tb360=
+To: <poonam_rawal@jcbl.com>
+From: "Albert" <Albert@tomorrowsnews.review>
+Subject: Grow Rich From Pot Stocks
+Date: Fri, 23 Nov 2018 04:11:55 -0500
+List-ID: 201811230411
+Message-Id: 178ab6ba69f4ec48647b70a_5bc4f75b
+Precedence: list
+MIME-Version: 1.0
+Content-Type: text/html
+
+<html>
+<body>
+<p style="text-align: center;"><strong><span style="font-size: 36px; color: rgb(65, 168, 95);">Your $50 Ticket to the "$100 Billion Pot Stock
+Bonanza"</span></strong>
+	<br>
+	<br>
+</p>
+
+<p style="text-align: center;">The $100 billion marijuana industry is dominated by penny stocks...</p>
+
+<p style="text-align: center;">
+	<br>With legalization sweeping the country, these penny stocks have already begun skyrocketing in price...</p>
+
+<p style="text-align: center;">
+	<br>Take action before December 1st, and you have a once-in-a-generation opportunity to <strong><a
+href="http://www.tomorrowsnews.review/1c88ab185f44ec48647b70a41e03_5bc4f75b-01015a0e000b/C/">turn a tiny $50 investment into an absolute
+fortune</a></strong>.</p>
+
+<p style="text-align: center;">
+	<br><strong><a href="http://www.tomorrowsnews.review/1c88ab185f44ec48647b70a41e03_5bc4f75b-01015a0e000b/C/"><span style="font-size: 24px;">Click here to
+find out how.</span></a></strong>
+	<br>
+	<br>
+	<a href="http://www.tomorrowsnews.review/1c88ab185f44ec48647b70a41e03_5bc4f75b-01015a0e000b/C/"><img
+src="http://www.tomorrowsnews.review/1c81948fde74ec48647b70a46704_5bc4f75b-01015a0e000b/V/" style="width: 705px;" class="fr-fic fr-dib" alt="Read more to
+learn how cannavestmnts are sweeping Wall Street!"></a>
+</p>
+<div style="text-align: center;"><small>To be removed, please click </small><a href="http://www.tomorrowsnews.review/178ab6ba69f4ec48647b70a_5bc4f75b/U/"><small>here</small></a><small> or
+write to 808
+Saint Paul Street Baltimore, MD 21202.</small></div>
+</body>
+</html>
+

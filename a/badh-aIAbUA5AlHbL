@@ -1,0 +1,33 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <postmaster@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aIAbUA5AlHbL>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aIAbUA5AlHbL for <postmaster@jcbl.com>;
+	Fri, 20 May 2016 20:33:07 +0530 (IST)
+Received: from 113.20.116.206 (unknown [192.168.100.250])
+	by mx10.jcbl.com (Postfix) with SMTP id 6B493EDA018
+	for <postmaster@jcbl.com>; Fri, 20 May 2016 20:33:06 +0530 (IST)
+Received: from unknown (HELO localhost) (domainregtech@thezenith.com@234.62.49.108)
+	by 113.20.116.206 with ESMTPA; Fri, 20 May 2016 22:11:48 +0700
+From: domainregtech@thezenith.com
+To: postmaster@jcbl.com
+Subject: OEM Software
+
+We sell industry leading software at the lowest prices(90% discount), with 
+free fast shipping!
+
+Windows 10 32/64-Bit DVD version - 11.99$
+Microsoft Office Professional Plus 2015 - 12.99$
+Apple Mac OS X 10.7 Lion - 14.99$
+and more...
+
+Mail to order: domainregtech@thezenith.com or just click Reply.
+

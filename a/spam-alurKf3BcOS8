@@ -1,0 +1,167 @@
+Return-Path: <newsletter@buzz4reality.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <sandip_c@jcbl.com>
+X-Envelope-To-Blocked: <sandip_c@jcbl.com>
+X-Quarantine-ID: <alurKf3BcOS8>
+X-Spam-Flag: YES
+X-Spam-Score: 7.9
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	URIBL_BLACK=1.775, URIBL_DBL_SPAM=1.7, URIBL_RED=0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id alurKf3BcOS8 for <sandip_c@jcbl.com>;
+	Sun, 14 Apr 2019 21:11:50 +0530 (IST)
+Received: from provm3.kanakiainpowai.in (provm3.kanakiainpowai.in [139.59.56.177])
+	by mx10.jcbl.com (Postfix) with ESMTPS id B362F4257C
+	for <sandip_c@jcbl.com>; Sun, 14 Apr 2019 21:11:49 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adv07; d=buzz4reality.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=newsletter@buzz4reality.com;
+ bh=4q4bv8XpFDw/zHBrHt2hKqUlzDM=;
+ b=ZmCs1gH9F7Z61NpIsGZOGgjuVyqpai4GgZOqpnPIYvmgKvmMPU4lh9mqdpIFSUiQDZEJk/pzDxNb
+   lGu0fK5taaLlM3YQhFys/Mj0Uclbb1W1e330BoG0TXoWEjn6QXjA5yYxxu0wMSIr84qYCTkNa8u1
+   EUC8edZhVhN/RzhX7vU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adv07; d=buzz4reality.com;
+ b=TOrWkT4bsb9jHmKRNg7m4Nk0LFN3T/E6VTQ6mk3lW8jZ8xqfjEZjleIAFsAophs86G3JpnH4uNa+
+   asTg9T+jtEeB0Yf7H5+X6N+kOOJGOOwJvcCCAm6mc5i+T6BoLepA5izynmj0jGS3Jg4O9aHs6opv
+   M3w4RDuSDWm4D5l6jes=;
+To: "sandip_c@jcbl.com" <sandip_c@jcbl.com>
+Subject: Lodha Eternis in Andheri East Mumbai | Lodha Eternis Price @ Rs 1.6 Cr Onwards
+X-PHP-Originating-Script: 0:SimpleMailInvoker.php
+Message-ID: <b3da08fb20ef47e34de7ef8aea52e77c@buzz4reality.com>
+Date: Sun, 14 Apr 2019 15:38:04 +0000
+From: Lodha Eternis <newsletter@buzz4reality.com>
+Reply-To: Lodha Eternis <newsletter@buzz4reality.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1555256284_8acd3a527b49b3998d5f79689aaf676e_=_"
+X-Sfgr-Tracking-Did: 0
+X-Sfgr-Subscriber-Uid: ot287sneaw4bc
+X-Sfgr-Mailer: SwiftMailer - 5.4.x
+X-Sfgr-EBS: http://dashboard.ebuzzemail.com/index.php/lists/block-address
+X-Sfgr-Delivery-Sid: 4
+X-Sfgr-Customer-Uid: ld527yyqhrfa2
+X-Sfgr-Customer-Gid: 0
+X-Sfgr-Campaign-Uid: ya099ydwke1d1
+X-Sender: newsletter@buzz4reality.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://dashboard.ebuzzemail.com/index.php/campaigns/ya099ydwke1d1/report-abuse/qw357fefkod82/ot287sneaw4bc
+X-Receiver: sandip_c@jcbl.com
+Precedence: bulk
+List-Unsubscribe: <http://dashboard.ebuzzemail.com/index.php/lists/qw357fefkod82/unsubscribe/ot287sneaw4bc/ya099ydwke1d1/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:newsletter@buzz4reality.com?subject=Campaign-Uid:ya099ydwke1d1 /
+ Subscriber-Uid:ot287sneaw4bc - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: qw357fefkod82 <subscriber-20180903>
+Feedback-ID: ya099ydwke1d1:ot287sneaw4bc:qw357fefkod82:ld527yyqhrfa2
+
+
+--_=_swift_v4_1555256284_8acd3a527b49b3998d5f79689aaf676e_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+Difficulties reading this email? You can also check your newslette=
+r
+by=C2=A0clicking here.
+http://dashboard.ebuzzemail.com/index.php/camp=
+aigns/ya099ydwke1d1/track-url/ot287sneaw4bc/d3c1b5983a0dca39b176615c7d8d4bd=
+ff00a05c7
+http://dashboard.ebuzzemail.com/index.php/campaigns/ya099ydwke1=
+d1/track-url/ot287sneaw4bc/03ec8686e406856cc0caabb9e73724dc48521834
+In ca=
+se you do not wish to receive such communications, use
+the=C2=A0Unsubscri=
+be
+http://dashboard.ebuzzemail.com/index.php/campaigns/ya099ydwke1d1/trac=
+k-url/ot287sneaw4bc/b654ca3b6a03bdd2159390d65786842433e2e506=C2=A0option
+=
+to deactivate this service.
+
+--_=_swift_v4_1555256284_8acd3a527b49b3998d5f79689aaf676e_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+</head>
+<body>=C2=A0<img width=3D"1" height=3D"1" src=3D"http://dashboard.ebuzzemai=
+l.com/index.php/campaigns/ya099ydwke1d1/track-opening/ot287sneaw4bc" alt=3D=
+"" />
+</body>
+</html>
+<br />
+<br />
+<br />
+<title></title>
+<table style=3D"color:#222222; font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:small; font-style:normal; font-variant-ligatures:normal; font-varia=
+nt-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; text-ali=
+gn:start; text-transform:none; white-space:normal; widows:2; word-spacing:0=
+px; -webkit-text-stroke-width:0px; background-color:#ffffff; text-decoratio=
+n-style:initial; text-decoration-color:initial; border:undefined" width=3D"=
+100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"margin:0px; text-align:center; padding:6px; backgroun=
+d-color:#ffffff"><span style=3D"font-size:10px"><span style=3D"font-family:=
+Roboto, RobotoDraft, Helvetica, Arial, sans-serif"><span style=3D"color:#99=
+9999">Difficulties reading this email? You can also check your newsletter b=
+y=C2=A0<a href=3D"http://dashboard.ebuzzemail.com/index.php/campaigns/ya099=
+ydwke1d1/track-url/ot287sneaw4bc/d3c1b5983a0dca39b176615c7d8d4bdff00a05c7" =
+style=3D"color:#1155cc" target=3D"_blank">clicking here.</a></span></span><=
+/span></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table style=3D"color:#222222; font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:small; font-style:normal; font-variant-ligatures:normal; font-varia=
+nt-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; text-ali=
+gn:start; text-transform:none; white-space:normal; widows:2; word-spacing:0=
+px; -webkit-text-stroke-width:0px; background-color:#ffffff; text-decoratio=
+n-style:initial; text-decoration-color:initial; max-width:680px; margin:0px=
+ auto; border:undefined" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"margin:0px; background-color:#ffffff"><span style=3D"=
+font-family:Roboto, RobotoDraft, Helvetica, Arial, sans-serif"><a href=3D"h=
+ttp://dashboard.ebuzzemail.com/index.php/campaigns/ya099ydwke1d1/track-url/=
+ot287sneaw4bc/03ec8686e406856cc0caabb9e73724dc48521834" rel=3D"noopener" st=
+yle=3D"color:#1155cc" target=3D"_blank"><img class=3D"CToWUd" src=3D"http:/=
+/buzz4reality.com/LodhaEternis/img/treFeb166880.png" style=3D"height:1202px=
+" usemap=3D"#m_1574308112777593725_Map" /></a></span></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table style=3D"color:#222222; font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:small; font-style:normal; font-variant-ligatures:normal; font-varia=
+nt-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; text-ali=
+gn:start; text-transform:none; white-space:normal; widows:2; word-spacing:0=
+px; -webkit-text-stroke-width:0px; background-color:#ffffff; text-decoratio=
+n-style:initial; text-decoration-color:initial; border:undefined" width=3D"=
+100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"margin:0px; padding:15px; background=
+-color:#ffffff" valign=3D"middle"><span style=3D"font-size:11px"><span styl=
+e=3D"font-family:Verdana, Geneva, sans-serif"><span style=3D"color:#999999"=
+><span style=3D"text-decoration:none">In case you do not wish to receive su=
+ch communications, use the=C2=A0<a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=
+=3D"http://dashboard.ebuzzemail.com/index.php/campaigns/ya099ydwke1d1/track=
+-url/ot287sneaw4bc/b654ca3b6a03bdd2159390d65786842433e2e506" style=3D"color=
+:#0033ff; text-decoration:underline" target=3D"_blank">Unsubscribe</a>=
+=C2=A0<font face=3D"Verdana, Arial, Helvetica, sans-serif"><font size=3D"1"=
+><font color=3D"#999999">option to deactivate this service.</font></font></=
+font></span></span></span></span></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+--_=_swift_v4_1555256284_8acd3a527b49b3998d5f79689aaf676e_=_--
+

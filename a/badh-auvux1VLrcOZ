@@ -1,0 +1,74 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <accounts@hudsonbroker.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <auvux1VLrcOZ>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id auvux1VLrcOZ for <accounts@hudsonbroker.in>;
+	Thu,  2 Aug 2018 13:32:23 +0530 (IST)
+Received: from smtp5-outgoing.mail.rjil.net (smtp4-outgoing.mail.rjil.net [49.40.14.57])
+	by mx10.jcbl.com (Postfix) with SMTP id 58B7B10657AC
+	for <ACCOUNTS@HUDSONBROKER.IN>; Thu,  2 Aug 2018 13:32:23 +0530 (IST)
+Received: from NVMBD2ANO130V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp5-outgoing.mail.rjil.net (Postfix) with ESMTP id 2E66C660052
+	for <ACCOUNTS@HUDSONBROKER.IN>; Thu,  2 Aug 2018 13:37:23 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANO130V15.bss.jio.com (Postfix) with ESMTP id 2CAA044002F
+	for <ACCOUNTS@HUDSONBROKER.IN>; Thu,  2 Aug 2018 13:37:23 +0530 (IST)
+From: Jio Notifications <Notification@Jio.com>
+To: ACCOUNTS@HUDSONBROKER.IN
+Message-ID: <712184134.21005400.1533197243183.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Jio Recharge Initiation
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_21005399_2037365059.1533197243180"
+Bounce_Header: 4681022601955647488
+format: flowed
+
+------=_Part_21005399_2037365059.1533197243180
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Dear Customer,</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">We have received recharge request for your Jio connection.</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Transaction ID :&nbsp;</font>BR0001HTT25F
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Please keep this transaction ID&nbsp;</font>
+   <font face="tahoma, arial, verdana, sans-serif">for future reference. Once the recharge is successful, you will receive a confirmation message.&nbsp;</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">To check recharge status, click https://www.jio.com/recharge_history or dial 1991 from your Jio number.</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif"><br /></font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Thank You,</font>
+  </div>
+  <div>
+   <font face="tahoma, arial, verdana, sans-serif">Team Jio</font>
+  </div>
+ </body>
+</html>
+------=_Part_21005399_2037365059.1533197243180--

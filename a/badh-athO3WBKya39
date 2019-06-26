@@ -1,0 +1,71 @@
+Return-Path: <vigilance@irctc.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <service.manager@himalayan-harley.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <athO3WBKya39>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.642
+X-Spam-Level: **
+X-Spam-Status: No, score=2.642 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_MID=0.14, T_FILL_THIS_FORM_SHORT=0.01,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id athO3WBKya39 for <service.manager@himalayan-harley.in>;
+	Tue, 30 Oct 2018 16:48:48 +0530 (IST)
+Received: from smtp.irctc.co.in (mail11.irctc.co.in [103.116.160.21])
+	by mx10.jcbl.com (Postfix) with ESMTP id 74DA5EED9C3
+	for <debanjan.roy@himalayan-harley.in>; Tue, 30 Oct 2018 16:48:20 +0530 (IST)
+Received: from 10.34.29.53 (unknown [10.34.20.54])
+	by smtp.irctc.co.in (Postfix) with SMTP id F02E8C06CA35
+	for <debanjan.roy@himalayan-harley.in>; Tue, 30 Oct 2018 16:50:23 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 smtp.irctc.co.in F02E8C06CA35
+MIME-Version: 1.0
+Content-TYPE: text/html
+FROM:vigilance@irctc.co.in
+Subject:Observance of Vigilance Awareness Week-2018
+TO: debanjan.roy@himalayan-harley.in
+
+<!DOCTYPE html>
+<html>
+<head>
+Dear User,<br><br>
+On the directives of Central Vigilance Commission, IRCTC is observing Vigilance Awareness Week- 2018 on the theme <b>"Eradicate Corruption-Build a New India" from 29th October
+to 3rd November 2018.</b><br><br>
+1. Integrity Pledge<br><br>
+
+Certificate of commitment toward Zero tolerance on corruption by taking Integrity pledge: Central Vigilance Commission, Government of India requested to conscious citizens of
+India to take Integrity pledge for upholding the highest standards of ethical conduct, honesty and integrity. Just click on this hyperlink <a href="http://pledge.cvc.nic.in/">
+http://pledge.cvc.nic.in/</a>  for the pledge and get a certificate.<br><br>
+
+2. In order to be aware and prevent cases of cheating/corruption, you are requested to observe the following DO's and DONT's while booking e-tickets and booking of meal
+orders to be delivered in trains/stations.<br><br>
+
+<b><u>E- ticketing</b></u><br><br><ul>
+
+<li> While creating your own personal ID at www.irctc.co.in, please give correct details like Name, Address, Mobile No., e-mail address etc.</li>
+<li> If booking through agent, book through IRCTC authorized Retail Service Providers (list available at <a href="www.irctc.co.in">www.irctc.co.in</a>) and pay the prescribed
+IRCTC and Agent service charge per ticket irrespective of no. of passengers. Always insist to have cash receipt of the full amount paid by you.</li>
+<li> Please ensure that agent gives your mobile No. while booking so that you get SMS of ticket details including the Fare + other charges.</li>
+<li> Never purchase or sell e-tickets generated from personal user IDs. It is an offence under section 143 of the Railway Act 1989. E-tickets purchased/sold from personal user
+IDs are liable to be cancelled at any time.</li>
+<li> For overcharging/other irregularity committed by IRCTC authorized Retail Service Providers, lodge a complaint (along with copy of e-ticket and cash memo) with <a
+href="agentcomplaint@irctc.co.in">agentcomplaint@irctc.co.in</a> .</li></ul>
+
+<b><u>E-catering</b></u><br><br><ul>
+
+<li> For booking of meal orders in trains/stations, use IRCTC website <a href="www.ecatering.irctc.co.in">www.ecatering.irctc.co.in</a> or phone numbers 1323 or mobile
+application with name "Food on Track".
+<li> The sole website for booking of meal orders to be delivered in trains/at stations is the IRCTC E-catering website.
+<li> All orders for delivery in train would bear the order number issued by IRCTC only.<br><br>
+
+
+Best Regards,<br>
+Vigilance Department<br>
+IRCTC
+</BODY>
+</html>
+
+

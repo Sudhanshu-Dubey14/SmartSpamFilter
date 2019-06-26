@@ -1,0 +1,195 @@
+Return-Path: <bounce@smtp5.executiveedu.net.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcblho@jcbl.com>
+X-Envelope-To-Blocked: <jcblho@jcbl.com>
+X-Quarantine-ID: <aqKpqQ2gHwBc>
+X-Spam-Flag: YES
+X-Spam-Score: 7.429
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.429 tag=2 tag2=6.31 kill=6.31
+	tests=[DEAR_SOMETHING=1.731, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, DOS_RCVD_IP_TWICE_B=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RDNS_NONE=1.274, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aqKpqQ2gHwBc for <jcblho@jcbl.com>;
+	Mon, 26 Nov 2018 12:46:08 +0530 (IST)
+Received: from smtp5.executiveedu.net.in (unknown [182.78.2.171])
+	by mx10.jcbl.com (Postfix) with ESMTPS id BEF17F44199
+	for <jcblho@jcbl.com>; Mon, 26 Nov 2018 12:45:36 +0530 (IST)
+Received: from smtp5.executiveedu.net.in (unknown [182.78.2.171])
+	by smtp5.executiveedu.net.in (Postfix) with ESMTP id DCF00160A8A
+	for <jcblho@jcbl.com>; Mon, 26 Nov 2018 12:46:43 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=executiveeducation.asia; s=smtp5_100; t=1543216603;
+	bh=tL3P9kFvdFeI7AP5kIUNfKIsP98VVxqsrG2HxRewpgw=;
+	h=To:Subject:Date:From:Reply-To:List-Unsubscribe;
+	b=tBLh9mwLUJx/tKFKGyWvw+vSuoEwMKdqVgTtxyn5RiZ/PxoZ0R0QIQxMr8V4/bj+3
+	 kISzmZBsXqaE5LppiExxgUx62JUmTA77z/FNlO7cG0ZpSBXGgBteAOgmWKkFo/zmKU
+	 7gP4gkFUFXBGBcx6rlSzj8Gg4Ud1jQrs30YxfpX0=
+To: jcblho@jcbl.com
+Subject: ISB - NUS General Management Programme
+Message-ID: <3e5f837a6563752c11978d82c0e5101d@smtp5.executiveedu.net.in>
+Date: Mon, 26 Nov 2018 07:08:05 +0000
+From: "Indian School of Business" <cee_isb@executiveeducation.asia>
+Reply-To: cee_isb@executiveeducation.asia
+MIME-Version: 1.0
+X-Mailer-LID: 754
+List-Unsubscribe: <http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4640789&C=30a1e2e02e5577fff8cee69cee57b228&L=754&N=743>
+X-Mailer-RecptId: 4640789
+X-Mailer-SID: 743
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_37da817dca5f7b1119c9614372c34f56"
+Content-Transfer-Encoding: 8bit
+
+--b1_37da817dca5f7b1119c9614372c34f56
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://smtp5.executiveedu.net.in/executiveedu/display.php?M=4640789&C=30a1e2e02e5577fff8cee69cee57b228&S=743&L=754&N=755
+
+
+To stop receiving these
+emails:http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4640789&C=30a1e2e02e5577fff8cee69cee57b228&L=754&N=743
+
+--b1_37da817dca5f7b1119c9614372c34f56
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+    <title></title>
+   <style>
+       th {
+           text-align: center;
+
+       }
+       td{padding-left:10px;padding-right:10px;}
+       ul{margin:0px;}
+   </style>
+</head>
+<body>
+<div style="font-family: 'Calibri'; text-align: justify; font-size:
+14.50px;">Dear Sir/Ma&rsquo;am,<br /><br /> Greetings from Indian School of
+Business (ISB)!<br /><br /> We are happy to inform that ISB is offering a
+programme on <b>ISB-NUS General Management Programme for Asia.</b><br /><br
+/> <b>About the programme:</b><br /> Designed by Asia&rsquo;s top two
+B-Schools &ndash; <b>The National University of Singapore</b> and <b>The
+Indian School of Business,</b> this programme curriculum and pedagogy stand
+at the cutting-edge of executive education. You will enhance your strategic
+thinking, leadership instincts, innovation methodologies and financial
+perspectives through intensive classroom sessions, case study discussions
+and a range of experiential activities. Learning across the Indian and
+Singaporean contexts will further help executives broaden their horizons,
+both personally and professionally.<br /><br /> <b>Modules Covered:</b>
+<table style="font-family: 'Calibri'; text-align: justify; font-size:
+14.50px; border-collapse: collapse;" border="1" align="center">
+<tbody>
+<tr style="background-color: #d8d8d8;"><th>Phase 1: ISB</th><th>Phase 2:
+NUS</th></tr>
+<tr style="background-color: #b7ddea;"><th>03 - 09 January, 2019 (ISB
+Hyderabad campus)</th><th>18 - 22 February, 2019 (NUS Business School,
+Singapore)</th></tr>
+<tr>
+<td style="background-color: #eab6b9;">
+<ul>
+<li>Leadership in the midst of complexity</li>
+</ul>
+</td>
+<td style="background-color: #fcd5b4;">
+<ul>
+<li>Organizational transformation &amp; change management</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="background-color: #eab6b9;">
+<ul>
+<li>Strategic marketing and customer value creation</li>
+</ul>
+</td>
+<td style="background-color: #fcd5b4;">
+<ul>
+<li>Strategic thinking, strategy implementation &amp; innovation</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="background-color: #eab6b9;">
+<ul>
+<li>Maximizing customer engagement</li>
+</ul>
+</td>
+<td style="background-color: #fcd5b4;">
+<ul>
+<li>Customer retention &amp; competitive advantage</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="background-color: #eab6b9;">
+<ul>
+<li>Identifying opportunities for growth</li>
+</ul>
+</td>
+<td style="background-color: #fcd5b4;">
+<ul>
+<li>Behavioural economics</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="background-color: #eab6b9;">
+<ul style="margin: 0px;">
+<li>Value creation through finance</li>
+</ul>
+</td>
+<td style="background-color: #fcd5b4;">
+<ul style="margin: 0px;">
+<li>Introduction to big data analytics &amp; game theory</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<br /> <b>Programme take-away:</b><br /> Programme will help the
+participant to enhance their ability to create, implement, and measure
+customer-based strategies anchored in &lsquo;value&rsquo; and the
+strengthening of your brand. It&rsquo;ll also help an individual to develop
+his/her own personal leadership goals, principles and values. Programme
+will also help the participant to understand financial and strategic
+perspective and how they can align their respective organization to
+profitable growth and plans. It&rsquo;ll also provide an flexibility to an
+individual to explore new business models for their organizations and the
+agility to apply ideas that seems to fit their current and future needs.
+It&rsquo;ll also help an individual to understand the transition from a
+local-player to a pan-Asian player with international competitive
+skills.<br /><br /> <b>Participant profile:</b><br /> Programme will be
+relevant for an official who already heads an department and are aspiring
+to grow into a general management positions. It is also relevant for
+current general management officials who want to upskill themselves by
+growing into the leader that today&rsquo;s increasingly competitive and
+complex business environment demands. Programme is also relevant for the
+high potential officials who have been identified by their respective
+management as a future leaders to compete across Asia.<br /><br />
+<b>Faculty:</b> This programme will be delivered by renowned Asian
+professors from different regions of world.<br /><br /> For queries related
+to programme, we would request you to please revert to this email or you
+can get it touch with us on the number mentioned below.<br /><br /> Thanks
+and Regards,<br /><br /> <b>Priya Sharma</b><br /> <b>Indian School of
+Business</b><br /> <b>Tel: 022 62843549 | Mobile: 8355935419</b><br /><br
+/> <br /><a
+href="http://smtp5.executiveedu.net.in/executiveedu/unsubscribe.php?M=4640789&C=30a1e2e02e5577fff8cee69cee57b228&L=754&N=743">Unsubscribe
+me from this list</a></div>
+<img
+src="http://smtp5.executiveedu.net.in/executiveedu/open.php?M=4640789&L=754&N=743&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_37da817dca5f7b1119c9614372c34f56--
+
+

@@ -1,0 +1,255 @@
+Return-Path: <prvs=0802495071=manjitsingh1@uiic.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <bp_reception@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ato-vCc2ZNE1>
+X-Amavis-Alert: BAD HEADER SECTION Header field occurs more than once:
+	"MIME-Version" occurs 3 times
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ato-vCc2ZNE1 for <bp_reception@globeauto.in>;
+	Sat, 26 Dec 2015 14:20:36 +0530 (IST)
+Received: from dcsmtp1.uiic.co.in (dcsmtp1.uiic.co.in [210.212.234.216])
+	by mx10.jcbl.com (Postfix) with ESMTPS id ED715EC250D
+	for <bp_reception@globeauto.in>; Sat, 26 Dec 2015 14:20:21 +0530 (IST)
+X-AuditID: 0a5f07d8-f79d36d000000bfa-bf-567e52b87c6d
+Received: from dcmail07.uiic.co.in (dcmail07.uiic.in [10.95.7.242])
+	by dcsmtp1.uiic.co.in (uiic.co.in) with SMTP id F9.06.03066.8B25E765; Sat, 26 Dec 2015 14:11:28 +0530 (IST)
+To: "ToyoUIIC" <toyouiic@ttibi.co.in>
+In-Reply-To: <SG2PR04MB11821D6B1A69FD23F523852388F90@SG2PR04MB1182.apcprd04.prod.outlook.com>
+Expiry-Date: 
+Importance: Normal
+Date: Sat, 26 Dec 2015 02:26:22 +0530
+MIME-Version: 1.0
+Subject: Re:Deputation of Surveyor - Toyota Protect - Claim Intimation:- Count of
+ Claim:- 3, Dealer Name:-AB01A - GLOBE TOYOTA, Policy No:- TUI/11188123, Claim
+ No:-CLM11188123/086011, Policy Holder Name:- Mr. KISHORE SARKAR
+Cc: "Toyota Protect Claims" <toyotaprotectclaims@ttibi.co.in>,
+	"'toyuiic@gmail.com'" <toyuiic@gmail.com>,
+	bp_reception@globeauto.in,
+	"Surveyor Sudhir Dhingra" <dhingra_sudhir06@yahoo.com>
+From: manjitsingh1@uiic.co.in
+X-Mailer: IBM Notes Traveler 9.0.1.0 Build 201407230949
+Message-ID: <OF5596E950.C8B3C2F7-ON65257F27.00308E16-1451076982920@uiic.co.in>
+X-MIMETrack: Itemize by Notes Server on dctravel1/UIIC(Release 9.0.1FP2HF385 | November
+ 4, 2014) at 26.12.2015 02:26:22,
+	Serialize by Router on dcmail07/UIIC(Release 9.0.1FP4|June  07, 2015) at 12/26/2015
+ 14:20:21
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="==IFJRGLKFGIR27746UHRUHIHD"
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFtrEKsWRmVeSWpSXmKPExsXCFc/+SXdHUF2YwYnF8hZHznYwWpzr72a0
+	aD3Ha9G2yMPi78FoB1aPps17mTx2zrrL7jGhfRWzx6xZh5kCWKIaGG2SEkvKgjPT8/TtbBLz
+	8vJLEktSFVJSi5NtlXwTM3MUXDKLk3MSM3NTi5QUMlNslYyVFApyEpNTc1PzSmyVEgsKUvNS
+	lOy4FDCADVBZZp5Cal5yfkpmXrqtkmewv66FhamlrqGSXXhqkkJxJtAmq4TtAhmrVi5iLnhn
+	VfHlzxemBsYJpl2MHBwSAiYSM7exdjFyApliEhfurWfrYuTiEBLYyCjRuvIXI0hCREBV4kvX
+	ZBYQm1MgVmLuilVsIDarAK/Em8cT2SDiQhIdVzvBBrEA1b9ZOYEdxOYVEJQ4OfMJC8hQYYHH
+	jBKL599lB3GYBQ4ySrxoW8QMUsUmICvR8aqdBeIMc4n/p78zQnT7Sexp+MMK0iAhcJtRYs7N
+	S2jGorKZBdwk7k89xD6BUWgWkhQ+NkwLhK0mcXvbVShbW2LZwtfMCxjZVjEKpSQX55YUGOqV
+	ZmYm6yXn62XmbWKEJIobOxibrjsfYhTgYFTi4Z3wrDZMiDWxrLgy9xCjBAezkgiv5F+gEG9K
+	YmVValF+fFFpTmrxIUZTYChNZJYSTc4HJrG8knhDExNzYyMDCwsjY2MLJXFeo1iXMCGBdGAq
+	yU5NLUgtgulj4uAEmcslJVIMTBGpRYmlJRnxoLQVXwxMXFINjEGGTGW5l9ZmLuO6/UPVidPM
+	wXVxSlreZJmjGdrWeU8W1iTLs+UWlLB/2vdhovnpFSZfLtqYf4/bUnkw83rv++3mx6K26swQ
+	Wncl+0/1q6VBb64d3THzUoZ49wY7TYbrS+uXZu4WO9/HVPBX/9H8xNkRRuvObd5yQOLCy66P
+	gVYXg6ZcMRKfu0+JpTgj0VCLuag4EQD2x/sKRQMAAA==
+
+
+--==IFJRGLKFGIR27746UHRUHIHD
+Content-Type: text/html; charset=UTF-8
+content-transfer-encoding: quoted-printable
+
+<FONT face=3D"arial"  style=3D"white-space:pre-wrap;" ><p dir=3D"ltr">Depute=
+d Sh. Sudhir Dhingra.</p>
+<p dir=3D"ltr">With regards,</p>
+<p dir=3D"ltr">Manjit Singh<br>
+Branch Manager,<br>
+Mobile : +91 9501003172</p>
+<p dir=3D"ltr">United India Insurance Co. Ltd.<br>
+Branch Office, Bal Bhawan Road,<br>
+Polytechnic Chowk,<br>
+Ambala City.<br>
+</p>
+</FONT><br><br><div class=3D"domino-section"><div class=3D"domino-section-he=
+ad"><span class=3D"domino-section-title"><font color=3D"#424282">ToyoUIIC --=
+- Deputation of Surveyor - Toyota Protect - Claim Intimation:- Count of Clai=
+m:- 3, Dealer Name:-AB01A - GLOBE TOYOTA, Policy No:- TUI/11188123, Claim No=
+:-CLM11188123/086011, Policy Holder Name:- Mr. KISHORE SARKAR --- </font></s=
+pan></div><div class=3D"domino-section-body"><br><table width=3D"100%" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr valign=3D"top"><td width=3D"=
+1%" style=3D"width: 96px;"><font size=3D"2" color=3D"#5F5F5F">From:</font></=
+td><td width=3D"100%" style=3D"width: auto;"><font size=3D"2">&quot;ToyoUIIC=
+&quot; &lt;toyouiic@ttibi.co.in&gt;</font></td></tr><tr valign=3D"top"><td w=
+idth=3D"1%" style=3D"width: 96px;"><font size=3D"2" color=3D"#5F5F5F">To:</f=
+ont></td><td width=3D"100%" style=3D"width: auto;"><font size=3D"2">manjitsi=
+ngh1@uiic.co.in</font></td></tr><tr valign=3D"top"><td width=3D"1%" style=3D=
+"width: 96px;"><font size=3D"2" color=3D"#5F5F5F">Cc:</font></td><td width=
+=3D"100%" style=3D"width: auto;"><font size=3D"2">&quot;Toyota Protect Claim=
+s&quot; &lt;toyotaprotectclaims@ttibi.co.in&gt;, &quot;&#39;toyuiic@gmail.co=
+m&#39;&quot; &lt;toyuiic@gmail.com&gt;</font></td></tr><tr valign=3D"top"><t=
+d width=3D"1%" style=3D"width: 96px;"><font size=3D"2" color=3D"#5F5F5F">Dat=
+e:</font></td><td width=3D"100%" style=3D"width: auto;"><font size=3D"2">Sat=
+, 26-Dec-2015 1:27 PM</font></td></tr><tr valign=3D"top"><td width=3D"1%" st=
+yle=3D"width: 96px;"><font size=3D"2" color=3D"#5F5F5F">Subject:</font></td>=
+<td width=3D"100%" style=3D"width: auto;"><font size=3D"2">Deputation of Sur=
+veyor - Toyota Protect - Claim Intimation:- Count of Claim:- 3, Dealer Name:=
+-AB01A - GLOBE TOYOTA, Policy No:- TUI/11188123, Claim No:-CLM11188123/08601=
+1, Policy Holder Name:- Mr. KISHORE SARKAR</font></td></tr></table><hr width=
+=3D"100%" size=3D"2" align=3D"left" noshade style=3D"color:#8091A5; "><br><h=
+tml xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmln=
+s:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www=
+.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+Dear Sir,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+<o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+Please refer to the trail mail.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+<o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+Request you to kindly depute surveyor for the below mentioned claim.<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+And please share the surveyor details on priority (Surveyor Name, Mobile No=
+ &amp; Email ID) by sending mail to toyouiic@ttibi.co.in<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+<o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+Thanks &amp; Regards,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+Team TTIBI<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US">=
+<o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span=
+></b></p>
+<p class=3D"MsoNormal">Hi, <br>
+A claim has been intimated for:- <br>
+Policy No:-- TUI/11188123<br>
+Policy Holder Name:-- Mr. KISHORE SARKAR <br>
+Model:-- ETIOS-TOYOTA ETIOS VD (EW)<br>
+64 VB Status:-- Verified<br>
+Registration No:-- PB-65-T-3507<br>
+<br>
+Vehicle Class:-- Private<br>
+<br>
+Count of Claim:-- 3<br>
+<br>
+Claim No:-- CLM11188123/086011<br>
+Nature of loss:-- Partial Loss<br>
+Place of Accident:-- CITY<br>
+Date of Accident:-- 24-Dec-2015 19:00<br>
+Accident Remarks:-- LEFT REAR SIDE DAMAGED<br>
+Intimation Date/Time:-- 26-Dec-2015 13:20<br>
+Intimated Amount:-- 22500<br>
+<br>
+Dealer Name:-- AB01A - GLOBE TOYOTA<br>
+Dealer Address:-- GLOBE AUTOMOBILES PVT. LTD. OPP. SPRINGFIELD PUBLIC SCHOOL=
+, NEAR AAJ SMAAJ NEWS PAPER BUILDING, AMBALA - CHANDIGARH HIGHWAY NH-22 , HA=
+RYANA , AMBALA<br>
+<br>
+Please login&nbsp; Toyota Protect&nbsp;to view the details<br>
+<br>
+Regards<br>
+Toyota Tsusho Insurance Broker India Pvt Ltd <o:p></o:p></p>
+</div>
+<html>
+<head>
+<h1>Disclaimer:</h1>
+</head>
+<body>
+<p>
+<i>Privileged/Confidential information may be contained in this message and=
+ may be subject to legal privilege. Access to this e-mail by anyone other th=
+an the intended is unauthorized. If you are not the intended recipient (or r=
+esponsible for delivery of the message to such person), you may not use, cop=
+y, distribute or deliver to anyone this message (or any part of its contents=
+) or take any action in reliance on it. In such case, you should destroy thi=
+s message, and notify us immediately. If you have received this email in err=
+or, please notify us immediately by e-mail or telephone and delete the e-mai=
+l from any computer. If you or your employer does not consent to internet e-=
+mail messages of this kind, please notify us immediately. The company accept=
+s no liability for any damage caused by any virus transmitted by this email.=
+ The views, opinions, conclusions and other information's expressed in this=
+ electronic mail are not given or endorsed by the company unless otherwise i=
+ndicated by an authorized representative independent of this message.
+Whilst all reasonable steps are taken to ensure the accuracy and integrity o=
+f information transmitted electronically and to preserve the confidentiality=
+ thereof, United India Insurance Company Limited accepts no liability or res=
+ponsibility whatsoever if information or data is, for whatsoever reason, inc=
+orrect, corrupted or does not reach its intended destination.
+<br>
+<font color=3D"blue">
+Web site:www.uiic.co.in Toll Free Number:1800 425 333 33
+</i>
+</p>
+</body>
+</html>
+</body>
+</html>
+
+--==IFJRGLKFGIR27746UHRUHIHD--

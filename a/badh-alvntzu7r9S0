@@ -1,0 +1,144 @@
+Return-Path: <bo-b2as7ucbf916adauc54s2byt84w2ec@b.e.2mg.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <m_palani@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <alvntzu7r9S0>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E0 hex):
+	Subject:
+	\303\240\302\244\302\252\303\240\302\245\302\215\303\240\302\244\302\260\303\240\302\244\302\247\303\240\302\244\302\276\303\240[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id alvntzu7r9S0 for <m_palani@jcbl.com>;
+	Tue,  9 Jan 2018 13:14:07 +0530 (IST)
+Received: from mta863.chtah.net (mta863.chtah.net [63.236.31.149])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 55B651005EEC
+	for <m_palani@jcbl.com>; Tue,  9 Jan 2018 13:14:04 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=e.2mg.in;
+	s=20170320145236; t=1515483927; x=1531122327;
+	bh=dNARxrFvLyUL+8OJpbo5miIuZ7Fg+kamqy94iMaq+u0=; h=From:Reply-To;
+	b=wo1Ouc4Xi1rskJ0Q51pGszvtL+TnuX5ZxDS0AlJYJQjgEGa6yK9sdGFY6BwC/oCAo
+	 yc6bayXzL06RSBjae4pWyvam5utO38U76J6EpMrP7H4EFkHRn6S13TcPUoe6l5SiQE
+	 oaVjiZ/7QTRCuJiR0appRhR5vPkIy0FX7gsYOm1J6O0DkCbr7v5E1QatgApRXiJU+E
+	 XCwiU0MdZ8A4519d5d8Lz7y4ZemAUJ/rzc1AdbWExJFBTgbDNUSIXuz6WSakUw83SH
+	 RYuHBb6KAgb39gi+NeSblcJNEgWCvtKEKKAPTMX3qhJ5D63IfG9zYjdyv61n2vHe+C
+	 kyLKBvHKeiWQw==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=e.2mg.in;
+  b=PU0vhMnRWaqk0yyToixclZDjGm3IL2xWbORCYyEOOiyXny+UMDR6HIpbWbYQxkYbpVgif6SdHkJyYyFvHvarjLfvO+Sy5dlybZNn7LGM8FXyK39wU7uxtb/1B9iqjRlCH4ZnflcDGqGMQrBc6CG3AVUbFGT1UkcRVQxfPzBQ1Yk=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:X-Mailer:X-mid:X-aid:Content-Type;
+Date: Tue, 9 Jan 2018 07:45:27 -0000
+Message-ID: <b2as7ucbf916adauc54s2byt84w2ec.1766535.9988@mta863.e.2mg.in>
+List-Unsubscribe: <mailto:rm-0b2as7ucbf916adauc54s2byt84w2ec@e.2mg.in>
+From: "Booking Amount 1%" <99@e.2mg.in>
+To: m_palani@jcbl.com
+Subject: प्रधानमंत्री आवास योजना
+MIME-Version: 1.0
+Reply-To: "no@e.2mg.in" <support-b2as7ucbf916adauc54s2byt84w2ec@e.2mg.in>
+X-Mailer: CheetahMailer
+X-mid: 2106547770
+X-aid: 2103926530
+Content-Type: multipart/alternative; boundary="=b2as7ucbf916adauc54s2byt84w2ec"
+
+
+--=b2as7ucbf916adauc54s2byt84w2ec
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+If you find this email in Spam Please Mark as Not 
+spam
+
+View in Browser : http://e.2mg.in/a/tBaVGCWB9Z18CB9j146AAGvSHu8/link1  || Unsubscribe : mailto:rm-0b2as7ucbf916adauc54s2byt84w2ec@e.2mg.in?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list.  || Mark as 
+Important
+
+Hi,
+
+&#2346;&#2381;&#2352;&#2343;&#2366;&#2344;&#2350;&#2306;&#2340;&#2381;&#2352;&#2368;
+&#2351;&#2379;&#2332;&#2344;&#2366; &#2325;&#2375; &#2361;&#2367;&#2340;
+&#2350;&#2375;&#2306; &#2360;&#2360;&#2381;&#2340;&#2375;
+&#2328;&#2352;&#2379; &#2325;&#2375; &#2354;&#2367;&#2319;
+&#2310;&#2357;&#2375;&#2342;&#2344; : http://e.2mg.in/a/tBaVGCWB9Z18CB9j146AAGvSHu8/link1
+
+Booking Amount
+1% : http://e.2mg.in/a/tBaVGCWB9Z18CB9j146AAGvSHu8/link1
+
+Get a
+Free Quotes : http://e.2mg.in/a/tBaVGCWB9Z18CB9j146AAGvSHu8/link1
+
+--=b2as7ucbf916adauc54s2byt84w2ec
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><img src=3D"http://e.2mg.in/a/hBaVGCWB9Z18CB9j146AAGvSHu8/space=
+r.gif" width=3D"1" height=3D"1" style=3D"display:none !important; max-heigh=
+t:1px !important; max-width:1px !important; border:0 !important; background=
+-color:transparent !important; padding:0 !important; outline:0 !important; =
+min-height:1px !important; min-width:1px !important; height:1px !important;=
+ width:1px !important;" alt=3D""><table border=3D"0">
+    <tbody>
+      </tbody></table><table width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0"=20
+border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"margin:0; font-size:12px;=
+=20
+color:#5d5e69; padding-bottom:5px; padding-top:5px;=20
+font-family:verdana;">If you find this email in Spam Please Mark as Not=20
+spam<br>=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0">
+    <tbody>
+      </tbody></table><table width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0"=20
+border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"margin:0; font-size:12px;=
+=20
+color:#5d5e69; padding-bottom:5px; padding-top:5px;=20
+font-family:verdana;"><a=20
+href=3D"http://e.2mg.in/a/hBaVGCWB9Z18CB9j146AAGvSHu8/link1"=20
+style=3D"=20
+text-decoration:none;">View in Browser</a> || <a=20
+href=3D"mailto:rm-0b2as7ucbf916adauc54s2byt84w2ec@e.2mg.in?subject=3DUnsubs=
+cribe&body=3DYou%20will%20be%20unsubscribed%20from%20mailing%20list."=20
+style=3D" text-decoration:none;">Unsubscribe</a> || Mark as=20
+Important<br><br><br></td>
+</tr>
+</tbody>
+</table><font color=3D"#595959" face=3D"tahoma, arial, helvetica,=20
+sans-serif"><span style=3D"font-size:=20
+12px;">Hi,</span></font><br><br><font size=3D"4"><font color=3D"#595959"=20
+face=3D"tahoma, arial, helvetica, sans-serif"><b><a=20
+href=3D"http://e.2mg.in/a/hBaVGCWB9Z18CB9j146AAGvSHu8/link1"=20
+style=3D"text-decoration:none;">&#2346;&#2381;&#2352;&#2343;&#2366;&#2344;&=
+#2350;&#2306;&#2340;&#2381;&#2352;&#2368;=20
+&#2351;&#2379;&#2332;&#2344;&#2366; &#2325;&#2375; &#2361;&#2367;&#2340;=20
+&#2350;&#2375;&#2306; &#2360;&#2360;&#2381;&#2340;&#2375;=20
+&#2328;&#2352;&#2379; &#2325;&#2375; &#2354;&#2367;&#2319;=20
+&#2310;&#2357;&#2375;&#2342;&#2344;</a></b></font><br></font><b=20
+style=3D""><br><a=20
+href=3D"http://e.2mg.in/a/hBaVGCWB9Z18CB9j146AAGvSHu8/link1"=20
+style=3D"text-decoration:none;"><font size=3D"5">Booking Amount=20
+1%</font></a></b><font size=3D"5"><br></font><br><b style=3D""><a=20
+href=3D"http://e.2mg.in/a/hBaVGCWB9Z18CB9j146AAGvSHu8/link1"=20
+style=3D""><font size=3D"5"=20
+style=3D"">Get a=20
+Free Quotes</font></a></b></body></html>=
+
+
+--=b2as7ucbf916adauc54s2byt84w2ec--
+

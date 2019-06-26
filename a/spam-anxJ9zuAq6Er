@@ -1,0 +1,570 @@
+Return-Path: <return@newsletter.metro.co.in>
+Delivered-To: spam-quarantine
+X-Envelope-To: <manu_pasricha@mslindia.net>
+X-Envelope-To-Blocked: <manu_pasricha@mslindia.net>
+X-Quarantine-ID: <anxJ9zuAq6Er>
+X-Spam-Flag: YES
+X-Spam-Score: 6.428
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.428 tag=2 tag2=6.31 kill=6.31 tests=[AM.WBL=5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.724,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id anxJ9zuAq6Er for <manu_pasricha@mslindia.net>;
+	Wed, 19 Dec 2018 15:30:33 +0530 (IST)
+Received: from mail18-215.srv2.de (mail18-215.srv2.de [193.169.181.215])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 6153BF440FD
+	for <manu_pasricha@mslindia.net>; Wed, 19 Dec 2018 15:30:26 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=mailing; d=newsletter.metro.co.in;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:X-ulpe:
+ List-Id:X-CSA-Complaints:List-Unsubscribe:List-Unsubscribe-Post:Feedback-ID;
+ i=offers@newsletter.metro.co.in;
+ bh=gvSe4afv/OYToG/ly53GmgW+pYyxja22juYOjTBIvQY=;
+ b=E9YkDjW7Om6xQ0JksyB9bUuobUj2uYZK4RJh+aH8FfV8S6iUH+kQVzwQSReEhCVy+94XPqxJ1MuN
+   9iGV+bXCWQouwW90lVxGPyJ1sRkzHUt6fwXzlvxXToQ/TO+OlZ0/YjYiE/sb02h7OEEwqKBmcoD8
+   g1ySJmJ24QOHCmz94yA=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=mailing; d=srv2.de;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:X-ulpe:
+ List-Id:X-CSA-Complaints:List-Unsubscribe:List-Unsubscribe-Post:Feedback-ID;
+ bh=gvSe4afv/OYToG/ly53GmgW+pYyxja22juYOjTBIvQY=;
+ b=USB8wlYgzDjzgVw47eyFFizYBC8sRNRkVnwpVQwrQVMWdo9OXdhsDez7JVw5dXH0wbkYLrPl7K1Z
+   YbSX4oQZ8HIUn+u3fAu1bGQPiurP21KoOzLjNIK38lrtzC3IxJISUl1ct0WZX1VeSr9i52lS4Ngu
+   raCObPyKwusZwmzFsvQ=
+Date: Wed, 19 Dec 2018 11:01:14 +0100 (CET)
+From: METRO Wholesale <offers@newsletter.metro.co.in>
+Reply-To: METRO Wholesale <offers@newsletter.metro.co.in>
+To: manu_pasricha@mslindia.net
+Message-ID: <re-pX3_5F8wx3DmQukkojbb79CpCnnYhsceEHxgy-32P3IHK2-32NI25ZS-BYE2P@newsletter.metro.co.in>
+Subject: Spread Festive Cheer with METRO this Year!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_14055855_1481511682.1545213674561"
+X-ulpe: re-pX3_5F8wx3DmQukkojbb79CpCnnYhsceEHxgy-32P3IHK2-32NI25ZS-BYE2P@newsletter.metro.co.in
+List-Id: <1V3Y7YY-11Q35D.newsletter.metro.co.in>
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe: <mailto:listoff-32P3IHK2-32NI25ZS-YDG153E@newsletter.metro.co.in?subject=unsubscribe>,<http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1V3Y7YZ-C89SOU-U.html>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Feedback-ID: 1V3Y7YY:32NI25ZS:optvo
+
+------=_Part_14055855_1481511682.1545213674561
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+////  //////////////////////////////////////////////////////////////
+
+http://www.metro.co.in/?cid=3Din%3Anl%3A240867113176%3A2018-12-19%26LID%3DE=
+BR
+
+
+//// * TERMS & CONDITIONS APPLY ////////////////////////////////////
+
+* Offers applicable as per schemes terms & conditions
+* Offer valid till stocks last
+* All images for illustration purpose only
+
+//// METRO CASH & CARRY INDIA PVT LTD. /////////////////////////////
+
+No. 26/3, Industrial Suburbs, 'A' Block,
+Subramanyanagar, Bangalore 560055
+Contact Us @ 1860-266-2010
+Send us your feedback : wecare@metro.co.in [1]
+=C2=A0
+
+[1]
+mailto:wecare@metro.co.in?subject=3DFeedback%20from%20Optivo%20Newsletter
+
+////////////////////////////////////////////////////////////////////
+
+Don't want to receive the METRO newsletter anymore? Unsubscribe =C2=BB
+[1].=C2=A0METRO Cash & Carry values your privacy & has never made your
+email address available to any other company.
+=C2=A9 2017=C2=A0METRO Cash & Carry India Pvt Ltd.
+
+
+[1] http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1V3Y7YZ-C89SOU-U.h=
+tml?cid=3Din:nl:240867113176:2018-12-19&LID=3DEUNSUB
+
+////////////////////////////////////////////////////////////////////
+
+=09=09=09=09 [1]
+
+
+
+
+=09=09=09=09 [2]
+
+
+
+
+=09=09=09=09 [3]
+
+
+
+
+=09=09=09=09 [4]
+
+
+
+
+
+
+[1] http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM5-35AW0K.ht=
+ml?cid=3Din%3Anl%3A240867113176%3A2018-12-19
+[2] http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM6-F23D3Q.ht=
+ml?cid=3Din%3Anl%3A240867113176%3A2018-12-19
+[3]
+http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM7-JNO1A44.html?=
+cid=3Din%3Anl%3A240867113176%3A2018-12-19
+
+[4] http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1L8QZLIN-4L9P2P.ht=
+ml?cid=3Din%3Anl%3A240867113176%3A2018-12-19
+
+------=_Part_14055855_1481511682.1545213674561
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html><head><title>METRO-Newsletter</title><style type=3D"text/css">
+                .ExternalClass * { line-height:100% !important; }
+            </style><meta content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" name=3D"viewport"/><meta content=3D"text/html;charset=3DUTF-8" http-eq=
+uiv=3D"Content-Type"/><style type=3D"text/css">@media screen and (max-devic=
+e-width: 640px),screen and (max-width: 767px) and (-webkit-min-device-pixel=
+-ratio: 1.5),screen and (max-width: 767px) and (-o-min-device-pixel-ratio: =
+3/2),screen and (max-width: 767px) and (min--moz-device-pixel-ratio: 1.5),s=
+creen and (max-width: 767px) and (min-device-pixel-ratio: 1.5) {html {font-=
+size: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;text-s=
+ize-adjust: 100%;line-height: 80%;}body {margin: 0;}a:focus {outline: thin =
+dotted;}a:hover, a:active {outline: 0;}b, strong {font-weight: bold;}p {mar=
+gin: 1em 0;}small {font-size: 75%;}sub, sup {font-size: 75%;line-height: 0;=
+position: relative;vertical-align: baseline;}sup {top: -0.5em;}sub {bottom:=
+ -0.25em;}ol, ul {margin: 1em 0;}ol, ul {padding: 0 0 0 40px;}img {border: =
+0;-ms-interpolation-mode: bicubic;}table {border-collapse: collapse;border-=
+spacing: 0;}html, body {background-color: #f1f1f1;font-family: Arial, sans-=
+serif;margin: 0;padding: 0;}.clear {clear: both;}.container {background-col=
+or: #ffffff;font-size: 16px;line-height: 20px;margin: 0 auto;max-width: 480=
+px;min-width: 320px;}.padding {padding: 30px 10px;}.padding-top {padding: 3=
+0px 10px 0 10px;}.padding-bottom {padding: 0 10px 30px 10px;}.padding-horiz=
+ontal {padding: 0 10px;}.spacing {height: 15px;}.spacing5 {height: 5px;}.sp=
+acing10 {height: 10px;}.headline{color: #1a3c7b;font-size: 22px;font-weight=
+: bold;line-height: 120%;}.text a {color: inherit;text-decoration: underlin=
+e;}.discount {font-size: 14px;}.button {border-style: solid;border-width: 2=
+px;color: #ffffff;float: left;font-weight: bold;min-width: 50%;}.button a, =
+.button > .buttonText {color: inherit;display: block;padding: 8px 12px;text=
+-decoration: none !important;}.button.img {height: auto;float: left;min-wid=
+th: 50%;display: block;}.image, .image img {height: auto;max-width: 100%;}.=
+image.left {float: left;}.image.right {float: right;}.price {color: #ffffff=
+;display: inline-block;line-height: 100%;width: 95px;padding: 2px;text-alig=
+n: center;}.price .cross, .price .net {padding: 2px;height: 15px;}.price .c=
+ross {font-size: 12px;}.price .net {font-weight: bold;}.price .gross {font-=
+size: 13px;font-weight: bold;margin-top: 4px;padding: 5px 2px;height: 15px;=
+}#branding {position: relative;}#branding .corner {float: right;padding: 2p=
+x 18px;display: block;}#branding .textLink {position: absolute;right: 0;top=
+: 25px;padding: 2px 18px 2px 18px;display: block;}#branding #logo {float: l=
+eft;padding: 20px 10px;}#branding .claim {bottom: 20px;font-size: 12px;font=
+-weight: bold;line-height: 12px;position: absolute;}#navigation {color: #1a=
+3c7b;font-size: 15px;font-weight: bold;}#navigation a {display: block;paddi=
+ng-top: 6px;padding-bottom: 6px;text-decoration: none;}#navigation .small {=
+display: none;}.intro2 .toc {list-style-type: none;margin: 20px 0 0 0;paddi=
+ng: 0;}.intro2 .toc a {border-top: 1px solid #c5cedf;color: #1a3c7b;display=
+: block;font-size: 16px;font-weight: bold;line-height: 120%;padding: 10px 0=
+;text-decoration: none;}.intro2 .tocText a{color: #333333;}.header {positio=
+n: relative;}.header .text {font-size: 14px;font-weight: bold;line-height: =
+100%;position: absolute;right: 5px;top: 5px;}.header .text a {text-decorati=
+on: none;}.standard .headline {color: #000000;}.standard .image.left, .inne=
+rArticleMoreColumns .image.left {margin-right: 10px;}.standard .image.right=
+, .innerArticleMoreColumns .image.right {margin-left: 10px;}.standard .imag=
+e.left, .standard .image.right, .innerProduct .image.left, .innerArticleMor=
+eColumns .image.left, .innerArticleMoreColumns .image.right, .webserviceArt=
+icle .image.left {margin-bottom: 10px;max-width: 50%;}.innerProduct .image.=
+right {margin-bottom: 10px;max-width: 48%;}.innerArticleMoreColumns .headli=
+ne, .mainOffer .headline, .innerProduct .headline, .laPreuveArticles .headl=
+ine, .article .headline, .intro1 .headline, .webserviceArticle .headline {c=
+olor: #000000;}.text ul, .text ol{display: inline-block;margin: 0 0 0 8px;p=
+adding: 0 14px;}.standardThreeColumns .image {text-align: center;}.iconList=
+ ul, .iconList ol {border-top: 1px solid #c5cedf;display: block;list-style:=
+ none;margin: 0;padding: 0;}.iconList li {border-bottom: 1px solid #c5cedf;=
+color: #1a3c7b;font-size: 16px;font-weight: bold;line-height: 120%;padding:=
+ 10px 0;text-decoration: none;}.iconList li a {display: inline-block;}.impr=
+int .iconList li, .imprint .iconList li a {color: #ffffff;}.smallPrint .tex=
+t, .preHeader .text, .onlineVersion .text {color: #666666;font-size: 12px;l=
+ine-height: 140%;}.preHeader .list ul, .preHeader .list ol, .onlineVersion =
+.list ul, .onlineVersion .list ol {list-style: none;padding-left: 5px;}.ima=
+geGallery {text-align: center;}.imageGallery .image1, .imageGallery .image2=
+, .imageGallery .image3, .imageGallery .image4, .imageGallery .image5, .ima=
+geGallery .image6,.imageGallery .image7, .imageGallery .image8, .imageGalle=
+ry .image9, .imageGallery .image10 {display: inline-block;height: auto;max-=
+width: 29%;}.imageGallery .image1 img, .imageGallery .image2 img, .imageGal=
+lery .image3 img, .imageGallery .image4 img, .imageGallery .image5 img,.ima=
+geGallery .image6 img, .imageGallery .image7 img, .imageGallery .image8 img=
+, .imageGallery .image9 img, .imageGallery .image10 img{height: auto;width:=
+ 100%;}.imageGallery .padding {padding: 35px 10px;}.imageGallery .image1.tr=
+ue, .imageGallery .image2.true, .imageGallery .image4.true, .imageGallery .=
+image5.true,.imageGallery .image7.true, .imageGallery .image8.true {margin-=
+right: 15px;}.imageGallery .oneColumnImage .img {height: auto;max-width: 10=
+0%;}.laPreuveArticles {text-align: center;}.imprint .headline {color: #ffff=
+ff;font-size: 16px;line-height: 130%;}.imprint .separator {background-image=
+: url('http://img.srv2.de/assets/bm/ostatic/metro/international/mobile/imag=
+es/imprintSeparator.gif');background-color: #ffffff;height: 1px;}.imprint a=
+ {text-decoration: underline !important;}.imprint, .imprint a, #footer, #fo=
+oter a {color: #ffffff;font-size: 12px;line-height: 130%;text-decoration: n=
+one;}.imprint .padding, #footer .padding {padding: 20px;}.imprint .logoImag=
+e {float: left;padding: 0px 5px 10px 0px;}#footer .image {text-align: cente=
+r;}.separator {background-image: url('http://img.srv2.de/assets/bm/ostatic/=
+metro/international/mobile/images/separator.gif');height: 1px;}.intro2 .toc=
+ a {background: url('http://img.srv2.de/assets/bm/ostatic/metro/internation=
+al/mobile/images/tocArrow.jpg') no-repeat right center;padding-right: 18px;=
+}.arrow {background: url('http://img.srv2.de/assets/bm/img/01/2/01273efa82b=
+a4a7358980bd9e51043551a8a52baa709a287ff1394d3da8b7a6c.png') no-repeat right=
+ center;display: inline; padding-right: 6px;margin-right: 7px;}}@media scre=
+en and (max-width: 400px) {#navigation .small {display: block;}#navigation =
+.wide {display: none;}}@media screen and (max-device-width: 640px),screen a=
+nd (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5),screen and =
+(max-width: 767px) and (-o-min-device-pixel-ratio: 3/2),screen and (max-wid=
+th: 767px) and (min--moz-device-pixel-ratio: 1.5),screen and (max-width: 76=
+7px) and (min-device-pixel-ratio: 1.5) {.dummy {display: none !important;}.=
+mobilehelper {display: table !important;height: auto !important;}.desktopve=
+rsion {display: none !important;}.mobileversion {display: block !important;=
+float: none !important;width: 100% !important;height: auto !important;}}@me=
+dia screen and (min-width: 641px) and (-webkit-max-device-pixel-ratio: 1.0)=
+,screen and (min-width: 641px) and (-o-max-device-pixel-ratio: 1/1),screen =
+and (min-width: 641px) and (max--moz-device-pixel-ratio: 1.0),screen and (m=
+in-width: 641px) and (max-device-pixel-ratio: 1.0),screen and (min-width: 7=
+68px) {.dummy {display: none !important;}.desktophelper {display: block !im=
+portant;}.mobilehelper {display: none !important;}.desktopversion {display:=
+ block !important;}.mobileversion {display: none !important;}}</style></hea=
+d><body><a name=3D"topAnchor" id=3D"topAnchor"></a><div class=3D"desktopver=
+sion desktophelper" style=3D"display: block;"><table style=3D"min-width:600=
+px;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center" widt=
+h=3D"600"><tr><td style=3D"line-height: 0px; mso-line-height-rule: exactly;=
+" height=3D"2" width=3D"600"><img src=3D"http://img.srv2.de/assets/bm/img/0=
+9/2/09249468229e87c8598ca9defe699d100e799fa669ae12bacb3e807e1536233f.gif" w=
+idth=3D"600" height=3D"2" alt=3D"" title=3D"" border=3D"0" style=3D"max-hei=
+ght:2px; min-height:2px; display:block; width:600px; min-width:600px;" /></=
+td></tr></table><table bgcolor=3D"#ffffff" width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0"><tr><td align=3D"center"><table bgcolor=3D"=
+#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tr=
+><td width=3D"600"><a name=3D"p17259102871"></a><a name=3D"p1" id=3D"p1"></=
+a><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tr=
+><td colspan=3D"2" height=3D"5" width=3D"600"></td></tr><tr><td width=3D"60=
+0"><font face=3D"Arial,sans-serif" size=3D"1" color=3D"#666666" style=3D"fo=
+nt-size:10px;" ><div style=3D"text-align: center;  line-height: 15px;"><spa=
+n style=3D"color:#A52A2A;"><span style=3D"font-size:14px;">Organizing Parti=
+es and Choosing Gifts is a Breeze with METRO!&#8203;</span></span><br /><sp=
+an>View <a style=3D"color:#666666;" href=3D"http://newsletter.metro.co.in/g=
+o/4/32P3IHK2-32NI25ZS-1V4HJ7S-1DSRIG7-o.html?LID=3DPHP" target=3D"_blank"><=
+font face=3D"Arial,sans-serif" size=3D"1" color=3D"#666666" style=3D"font-s=
+ize:10px;" ><u>online version</u></font></a> of this newsletter.</span><br =
+/><span>Ensure delivery by adding&nbsp;<a style=3D"color:#666666;" href=3D"=
+mailto:offers@newsletter.metro.co.in" target=3D"_blank"><font face=3D"Arial=
+,sans-serif" size=3D"1" color=3D"#666666" style=3D"font-size:10px;" ><u>off=
+ers@newsletter.metro.co.in</u></font></a> to your address book.</span></div=
+></font></td><td width=3D"6"></td></tr><tr><td colspan=3D"2" height=3D"7" w=
+idth=3D"600"></td></tr></table></td></tr></table></td></tr></table><table b=
+gcolor=3D"#ffffff" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"><tr><td align=3D"center"><table width=3D"600" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" bgcolor=3D"#1a3c79"><tr><td bgcolor=3D"#a7bdd2"=
+ width=3D"1"></td><td><table cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0" width=3D"598"><tr><td height=3D"19" width=3D"19"></td><td width=3D"111" =
+height=3D"19"></td><td colspan=3D"3" align=3D"right"></td></tr><tr><td widt=
+h=3D"19"></td><td width=3D"111" align=3D"left"><a href=3D"http://newsletter=
+.metro.co.in/go/4/32P3IHK2-32NI25ZS-18TNOF5H-17I4OHM.html?cid=3Din%3Anl%3A2=
+40867113176%3A2018-12-19%26LID%3DEBR" target=3D"_blank"><img src=3D"http://=
+img.srv2.de/assets/bm/img/f5/a/f5af8e183709f994799a1e27e200a43dc56225832c31=
+47c459cb10edfa95d65c.png?cid=3Din%3Anl%3A240867113176%3A2018-12-19%26LID%3D=
+EBR" width=3D"111" height=3D"40" alt=3D"" title=3D"" border=3D"0" /></a></t=
+d><td width=3D"10"></td><td width=3D"439" align=3D"left" valign=3D"middle">=
+</td><td width=3D"19"></td></tr><tr><td colspan=3D"5" height=3D"19"></td></=
+tr></table></td><td bgcolor=3D"#a7bdd2" width=3D"1"></td></tr></table></td>=
+</tr></table></div><!--[if !mso]><!-- --><div class=3D"mobileversion" style=
+=3D"display: none; float: left; width: 0; overflow: hidden;"><div class=3D"=
+container"><a name=3D"m1" id=3D"m1"></a><a name=3D"m17259102871" id=3D"m172=
+59102871"></a></div><div class=3D"container"><div id=3D"branding" style=3D"=
+background-color:#1a3c79;"><div id=3D"logo"><a href=3D"http://newsletter.me=
+tro.co.in/go/4/32P3IHK2-32NI25ZS-18TNOF5I-HDGNDW.html?cid=3Din%3Anl%3A24086=
+7113176%3A2018-12-19%26LID%3DEBR" target=3D"_blank"><img src=3D"http://img.=
+srv2.de/assets/bm/img/db/5/db5696c0289a66028365f899f7290c9e5827c2109f5ac28f=
+cfccd339e555dfae.png?mNl=3D1&cid=3Din%3Anl%3A240867113176%3A2018-12-19%26LI=
+D%3DEBR" width=3D"111" height=3D"40" alt=3D"" title=3D"" border=3D"0" /></a=
+></div><div class=3D"clear"></div></div></div></div><!-- <![endif] --><div =
+class=3D"desktopversion desktophelper" style=3D"display: block;"></div><!--=
+[if !mso]><!-- --><div class=3D"mobileversion" style=3D"display: none; floa=
+t: left; width: 0; overflow: hidden;"></div><!-- <![endif] --><div class=3D=
+"desktopversion desktophelper" style=3D"display: block;"><table bgcolor=3D"=
+#ffffff" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><t=
+r><td align=3D"center"><table bgcolor=3D"#ffffff" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D=
+"1"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><t=
+d width=3D"598"><a name=3D"p17259102861"></a><a name=3D"p2" id=3D"p2"></a><=
+a href=3D"http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1B3S56A7-PMY=
+18WI.html?cid=3Din%3Anl%3A240867113176%3A2018-12-19%26LID%3DEHB" target=3D"=
+_blank"><img src=3D"http://img.srv2.de/assets/bm/img/2c/6/2c63fb5a2437f8e50=
+30f45f322258aba5a23a340d43c495f517d26e9f624f30e.png?cid=3Din%3Anl%3A2408671=
+13176%3A2018-12-19%26LID%3DEHB" width=3D"598" height=3D"772" alt=3D"Spread =
+Holiday Cheer with METRO this Year!" title=3D"Spread Holiday Cheer with MET=
+RO this Year!" border=3D"0" style=3D"display:block;" /></a></td></tr><tr><t=
+d height=3D"10"></td></tr></table></td><td bgcolor=3D"#a7bdd2" width=3D"1">=
+</td></tr></table></td></tr></table></div><!--[if !mso]><!-- --><div class=
+=3D"mobileversion" style=3D"display: none; float: left; width: 0; overflow:=
+ hidden;"><div class=3D"container"><a name=3D"m2" id=3D"m2"></a><a name=3D"=
+m17259102861" id=3D"m17259102861"></a><div class=3D"mainOffer"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><a href=3D"http://newsl=
+etter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1B3S56A8-H1U19KS.html?cid=3Din%3An=
+l%3A240867113176%3A2018-12-19%26LID%3DEHB" target=3D"_blank"><img src=3D"ht=
+tp://img.srv2.de/assets/bm/img/50/9/50985d57eb929ef41cdf53f9a3123b0c5b8ad90=
+af35443191a471160bddcc900.jpg?mNl=3D1&cid=3Din%3Anl%3A240867113176%3A2018-1=
+2-19%26LID%3DEHB" width=3D"480" height=3D"619" alt=3D"" title=3D"" border=
+=3D"0" class=3D"image" /></a></td></tr></table><div class=3D"spacing10"></d=
+iv></div></div></div><!-- <![endif] --><div class=3D"desktopversion desktop=
+helper" style=3D"display: block;"><table bgcolor=3D"#ffffff" width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"center">=
+<table bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D"1"></td><td><table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D"598"><a name=
+=3D"p17259102862"></a><a name=3D"p3" id=3D"p3"></a><a href=3D"http://newsle=
+tter.metro.co.in/go/4/32P3IHK2-32NI25ZS-32DD3KZE-OFX13UY.html" target=3D"_b=
+lank"><img src=3D"http://img.srv2.de/assets/bm/img/94/3/94320bb9b3517fc9d5d=
+1c5e74eeeae9bdc144a299b087ff87e9e238c5ca8094a.png" width=3D"598" height=3D"=
+100" alt=3D"Click here to download METRO Wholesale India app now!" title=3D=
+"Click here to download METRO Wholesale India app now!" border=3D"0" style=
+=3D"display:block;" /></a></td></tr><tr><td height=3D"10"></td></tr></table=
+></td><td bgcolor=3D"#a7bdd2" width=3D"1"></td></tr></table></td></tr></tab=
+le></div><!--[if !mso]><!-- --><div class=3D"mobileversion" style=3D"displa=
+y: none; float: left; width: 0; overflow: hidden;"><div class=3D"container"=
+><a name=3D"m3" id=3D"m3"></a><a name=3D"m17259102862" id=3D"m17259102862">=
+</a><div class=3D"mainOffer"><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td><a href=3D"http://newsletter.metro.co.in/go/4/32P3IHK2-32=
+NI25ZS-32DD3KZH-1NT17J1.html" target=3D"_blank"><img src=3D"http://img.srv2=
+.de/assets/bm/img/ef/d/efdd3b04e71c5da20c6e2a43ed4a043061ad3b40bacba6c6611c=
+08f54bdd8f49.jpg?mNl=3D1" width=3D"480" height=3D"80" alt=3D"" title=3D"" b=
+order=3D"0" class=3D"image" /></a></td></tr></table><div class=3D"spacing10=
+"></div></div></div></div><!-- <![endif] --><div class=3D"desktopversion de=
+sktophelper" style=3D"display: block;"><table bgcolor=3D"#ffffff" width=3D"=
+100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"cen=
+ter"><table bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D"1"></td><td><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D"598"><a=
+ name=3D"p17259102863"></a><a name=3D"p4" id=3D"p4"></a><img src=3D"http://=
+img.srv2.de/assets/bm/img/1f/7/1f7e745cb2cd9b547ef40cc938bdf756e80ef8a4d1f9=
+1fe938f6133dad625124.png?cid=3Din%3Anl%3A240867113176%3A2018-12-19" width=
+=3D"598" height=3D"16" alt=3D"" title=3D"" border=3D"0" style=3D"display:bl=
+ock;" /></td></tr></table></td><td bgcolor=3D"#a7bdd2" width=3D"1"></td></t=
+r></table></td></tr></table></div><!--[if !mso]><!-- --><div class=3D"mobil=
+eversion" style=3D"display: none; float: left; width: 0; overflow: hidden;"=
+><div class=3D"container"><a name=3D"m4" id=3D"m4"></a><a name=3D"m17259102=
+863" id=3D"m17259102863"></a><div class=3D"mainOffer"><table cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0"><tr><td><img src=3D"http://img.srv2.de/a=
+ssets/bm/img/7d/f/7df844d1aef413bbc2011747ef9eda8ab7d9a5b6d027342b3200f9267=
+be40428.jpg?mNl=3D1&cid=3Din%3Anl%3A240867113176%3A2018-12-19" width=3D"480=
+" height=3D"12" alt=3D"" title=3D"" border=3D"0" class=3D"image" /></td></t=
+r></table></div></div></div><!-- <![endif] --><div class=3D"desktopversion =
+desktophelper" style=3D"display: block;"><table bgcolor=3D"#ffffff" width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D=
+"center"><table bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D"1"></td><td><t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D"598"=
+ align=3D"center" bgcolor=3D"#1a3c79"><a name=3D"p17259102864"></a><a name=
+=3D"p5" id=3D"p5"></a><table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" width=3D"560"><tr><td colspan=3D"3" height=3D"15"></td></tr><tr><td widt=
+h=3D"275" align=3D"left" valign=3D"top"><font face=3D"Arial,sans-serif" siz=
+e=3D"1" color=3D"#ffffff" style=3D"font-size:11px;" ><b>* TERMS & CONDITION=
+S APPLY</b></font></td><td width=3D"10"></td><td width=3D"273" align=3D"lef=
+t" valign=3D"top"><font face=3D"Arial,sans-serif" size=3D"1" color=3D"#ffff=
+ff" style=3D"font-size:11px;" ><b>METRO CASH & CARRY INDIA PVT LTD.</b></fo=
+nt></td></tr><tr><td colspan=3D"3" height=3D"15"></td></tr><tr><td width=3D=
+"275" align=3D"left" valign=3D"top"><font face=3D"Arial,sans-serif" size=3D=
+"1" color=3D"#ffffff" style=3D"font-size:11px;" >* Offers applicable as per=
+ schemes terms &amp; conditions<br /><span style=3D"line-height:26px;">* Of=
+fer valid till stocks last</span><br /><span style=3D"line-height:20px;">* =
+All images for illustration purpose only</span></font></td><td width=3D"10"=
+></td><td width=3D"273" align=3D"left" valign=3D"top"><font face=3D"Arial,s=
+ans-serif" size=3D"1" color=3D"#ffffff" style=3D"font-size:11px;" >No. 26/3=
+, Industrial Suburbs, &#39;A&#39; Block,<br />Subramanyanagar, Bangalore 56=
+0055<br /><span style=3D"line-height:24px;">Contact Us @ 1860-266-2010</spa=
+n><br />Send us your feedback : <a target=3D"_blank" style=3D"color:#ffffff=
+;" href=3D"mailto:wecare@metro.co.in?subject=3DFeedback%20from%20Optivo%20N=
+ewsletter" target=3D"_blank"><font color=3D"#ffffff" ><u>wecare@metro.co.in=
+</u></font></a><br />&nbsp;</font></td></tr></table></td></tr></table></td>=
+<td bgcolor=3D"#a7bdd2" width=3D"1"></td></tr></table></td></tr></table></d=
+iv><!--[if !mso]><!-- --><div class=3D"mobileversion" style=3D"display: non=
+e; float: left; width: 0; overflow: hidden;"><div class=3D"container"><a na=
+me=3D"m5" id=3D"m5"></a><a name=3D"m17259102864" id=3D"m17259102864"></a><d=
+iv class=3D"imprint" style=3D"background-color: #1a3c79;"><div class=3D"pad=
+ding"><div style=3D"float: left; width: 48.5%;"><div class=3D"headline" sty=
+le=3D"color: #ffffff">METRO CASH & CARRY INDIA PVT LTD.</div><div class=3D"=
+spacing"></div><div class=3D"text iconList">No. 26/3, Industrial Suburbs, &=
+#39;A&#39; Block,<br />Subramanyanagar, Bangalore 560055<br /><span style=
+=3D"line-height:24px;">Contact Us @ 1860-266-2010</span><br />Send us your =
+feedback : <a target=3D"_blank" href=3D"mailto:wecare@metro.co.in?subject=
+=3DFeedback%20from%20Optivo%20Newsletter" target=3D"_blank">wecare@metro.co=
+.in</a><br />&nbsp;</div></div><div class=3D"clear"></div></div><div class=
+=3D"separator" style=3D"background-color: #1a3c79;"></div><div class=3D"pad=
+ding"><div class=3D"headline" style=3D"color: #ffffff">* TERMS & CONDITIONS=
+ APPLY</div><div class=3D"spacing"></div><div class=3D"text iconList">* Off=
+ers applicable as per schemes terms &amp; conditions<br /><span style=3D"li=
+ne-height:26px;">* Offer valid till stocks last</span><br /><span style=3D"=
+line-height:20px;">* All images for illustration purpose only</span></div><=
+/div></div></div></div><!-- <![endif] --><div class=3D"desktopversion deskt=
+ophelper" style=3D"display: block;"><table bgcolor=3D"#ffffff" width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"center=
+"><table bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D"1"></td><td><table bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D"598"><a nam=
+e=3D"p17259102865"></a><a name=3D"p6" id=3D"p6"></a><table width=3D"598" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#ffffff"><tr><td =
+width=3D"19"></td><td width=3D"560" align=3D"left"><font face=3D"Arial,sans=
+-serif" size=3D"1" color=3D"#666666" style=3D"font-size:11px;" ><div style=
+=3D"text-align: center; margin: 10px 0 -10px 0;">Don&#39;t want to receive =
+the METRO newsletter anymore?<a target=3D"_blank" style=3D"color:#666666;" =
+href=3D"http://newsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1V3Y7YZ-C89SOU=
+-U.html?cid=3Din:nl:240867113176:2018-12-19&amp;LID=3DEUNSUB" target=3D"_bl=
+ank"><font size=3D"1" color=3D"#666666" style=3D"font-size:11px;" ><u> Unsu=
+bscribe &raquo;</u></font></a>.&nbsp;METRO Cash &amp; Carry values your pri=
+vacy &amp; has never made your email address available to any other company=
+.<br />&copy; 2017&nbsp;METRO Cash &amp; Carry India Pvt Ltd.</div></font><=
+/td><td width=3D"19"></td></tr></table></td></tr></table></td><td bgcolor=
+=3D"#a7bdd2" width=3D"1"></td></tr></table></td></tr></table></div><!--[if =
+!mso]><!-- --><div class=3D"mobileversion" style=3D"display: none; float: l=
+eft; width: 0; overflow: hidden;"><div class=3D"container"><a name=3D"m6" i=
+d=3D"m6"></a><a name=3D"m17259102865" id=3D"m17259102865"></a><div class=3D=
+"smallPrint"><div class=3D"padding-top"><div class=3D"text iconList"><div s=
+tyle=3D"text-align: center; margin: 10px 0 -10px 0;">Don&#39;t want to rece=
+ive the METRO newsletter anymore?<a target=3D"_blank" href=3D"http://newsle=
+tter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1V3Y7YZ-C89SOU-U.html?cid=3Din:nl:2=
+40867113176:2018-12-19&amp;LID=3DEUNSUB" target=3D"_blank"> Unsubscribe &ra=
+quo;</a>.&nbsp;METRO Cash &amp; Carry values your privacy &amp; has never m=
+ade your email address available to any other company.<br />&copy; 2017&nbs=
+p;METRO Cash &amp; Carry India Pvt Ltd.</div></div></div></div></div></div>=
+<!-- <![endif] --><div class=3D"desktopversion desktophelper" style=3D"disp=
+lay: block;"><table bgcolor=3D"#ffffff" width=3D"100%" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0"><tr><td align=3D"center"><table bgcolor=3D"#ff=
+ffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tr><t=
+d bgcolor=3D"#a7bdd2" width=3D"1"></td><td><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"><tr><td valign=3D"top" width=3D"598"><a name=3D"p1=
+7259102866"></a><table width=3D"598" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" bgcolor=3D"#ffffff"><tr><td width=3D"1" align=3D"left" valign=3D=
+"top"><img src=3D"http://img.srv2.de/assets/bm/img/d5/5/d5594e7d5352942ff04=
+73952f1f7b0e9a982e460eea366a7d83f577def582af3.gif?cid=3Din%3Anl%3A240867113=
+176%3A2018-12-19" width=3D"1" height=3D"1" alt=3D"" title=3D"" border=3D"0"=
+ style=3D"display: block;" /></td><td width=3D"596" align=3D"left" valign=
+=3D"top"><table width=3D"596" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td colspan=3D"3" height=3D"14"></td></tr><tr><td width=3D"11"></td=
+><td width=3D"576" align=3D"left"><font face=3D"Arial,sans-serif" size=3D"2=
+" color=3D"#333333" style=3D"font-size:12px;" ><hr />
+<table align=3D"center" border=3D"0" cellpadding=3D"3" cellspacing=3D"2" wi=
+dth=3D"145">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" style=3D"color:#333333;" href=3D"http://ne=
+wsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM5-35AW0K.html?cid=3Din%3=
+Anl%3A240867113176%3A2018-12-19" target=3D"_blank"><font color=3D"#333333" =
+><u>
+=09=09=09=09=09<img alt=3D"Facebook Icon" src=3D"http://img.srv2.de/bm/4057=
+869274/195889446349.jpg" />=20
+=09=09=09=09</u></font></a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" style=3D"color:#333333;" href=3D"http://ne=
+wsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM6-F23D3Q.html?cid=3Din%3=
+Anl%3A240867113176%3A2018-12-19" target=3D"_blank"><font color=3D"#333333" =
+><u>
+=09=09=09=09=09<img alt=3D"Twitter Icon" src=3D"http://img.srv2.de/bm/40578=
+69274/195889446362.jpg" />=20
+=09=09=09=09</u></font></a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" style=3D"color:#333333;" href=3D"http://ne=
+wsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-2GL1CQM7-JNO1A44.html?cid=3Din%=
+3Anl%3A240867113176%3A2018-12-19" target=3D"_blank"><font color=3D"#333333"=
+ ><u>
+=09=09=09=09=09<img alt=3D"LinkedIn Icon" src=3D"http://img.srv2.de/bm/4057=
+869274/195889446376.jpg" />=20
+=09=09=09=09</u></font></a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" style=3D"color:#333333;" href=3D"http://ne=
+wsletter.metro.co.in/go/4/32P3IHK2-32NI25ZS-1L8QZLIN-4L9P2P.html?cid=3Din%3=
+Anl%3A240867113176%3A2018-12-19" target=3D"_blank"><font color=3D"#333333" =
+><u>
+=09=09=09=09=09<img alt=3D"Youtube Icon" src=3D"http://img.srv2.de/bm/40578=
+69274/195889446379.jpg" />
+=09=09=09=09</u></font></a>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table></font></td><td width=3D"9"></td></tr><tr><td colspan=3D"3" height=
+=3D"10"></td></tr></table></td><td width=3D"1" align=3D"right" valign=3D"to=
+p"><img src=3D"http://img.srv2.de/assets/bm/img/d5/5/d5594e7d5352942ff04739=
+52f1f7b0e9a982e460eea366a7d83f577def582af3.gif?cid=3Din%3Anl%3A240867113176=
+%3A2018-12-19" width=3D"1" height=3D"1" alt=3D"" title=3D"" border=3D"0" st=
+yle=3D"display: block;" /></td></tr></table></td></tr><tr><td><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"598"></table></td></tr>=
+</table></td><td bgcolor=3D"#a7bdd2" width=3D"1"></td></tr></table></td></t=
+r></table></div><!--[if !mso]><!-- --><div class=3D"mobileversion" style=3D=
+"display: none; float: left; width: 0; overflow: hidden;"><div class=3D"con=
+tainer"><a name=3D"m6" id=3D"m6"></a><a name=3D"m17259102866" id=3D"m172591=
+02866"></a><div class=3D"intro1"><table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0"><tr><td></td></tr></table><div class=3D"padding-top"><div cla=
+ss=3D"text"><hr />
+<table align=3D"center" border=3D"0" cellpadding=3D"3" cellspacing=3D"2" wi=
+dth=3D"145">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" href=3D"http://newsletter.metro.co.in/go/4=
+/32P3IHK2-32NI25ZS-2GL1CQM8-YV3X9U.html?cid=3Din%3Anl%3A240867113176%3A2018=
+-12-19" target=3D"_blank">
+=09=09=09=09=09<img alt=3D"Facebook Icon" src=3D"http://img.srv2.de/bm/4057=
+869274/195889446349.jpg" />=20
+=09=09=09=09</a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" href=3D"http://newsletter.metro.co.in/go/4=
+/32P3IHK2-32NI25ZS-2GL1CQM9-Y7B6E0.html?cid=3Din%3Anl%3A240867113176%3A2018=
+-12-19" target=3D"_blank">
+=09=09=09=09=09<img alt=3D"Twitter Icon" src=3D"http://img.srv2.de/bm/40578=
+69274/195889446362.jpg" />=20
+=09=09=09=09</a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" href=3D"http://newsletter.metro.co.in/go/4=
+/32P3IHK2-32NI25ZS-2GL1CQMA-7OFU3D.html?cid=3Din%3Anl%3A240867113176%3A2018=
+-12-19" target=3D"_blank">
+=09=09=09=09=09<img alt=3D"LinkedIn Icon" src=3D"http://img.srv2.de/bm/4057=
+869274/195889446376.jpg" />=20
+=09=09=09=09</a>
+=09=09=09</td>
+=09=09=09<td>
+=09=09=09=09<a target=3D"_blank" href=3D"http://newsletter.metro.co.in/go/4=
+/32P3IHK2-32NI25ZS-1L8QZLIO-BFY5NX.html?cid=3Din%3Anl%3A240867113176%3A2018=
+-12-19" target=3D"_blank">
+=09=09=09=09=09<img alt=3D"Youtube Icon" src=3D"http://img.srv2.de/bm/40578=
+69274/195889446379.jpg" />
+=09=09=09=09</a>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table></div></div><div class=3D"clear"></div></div></div></div><!-- <![en=
+dif] --><div class=3D"desktopversion desktophelper" style=3D"display: block=
+;"></div><!--[if !mso]><!-- --><div class=3D"mobileversion" style=3D"displa=
+y: none; float: left; width: 0; overflow: hidden;"><div class=3D"container"=
+></div></div><!-- <![endif] --><div class=3D"desktopversion desktophelper" =
+style=3D"display: block;"><table bgcolor=3D"#ffffff" width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"center"><table =
+bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"600"><tr><td bgcolor=3D"#a7bdd2" width=3D"1"></td><td><table cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0" width=3D"598"><tr><td align=3D"cente=
+r" bgcolor=3D"#1a3c79"></td></tr></table></td><td bgcolor=3D"#a7bdd2" width=
+=3D"1"></td></tr></table></td></tr></table></div><!--[if !mso]><!-- --><div=
+ class=3D"mobileversion" style=3D"display: none; float: left; width: 0; ove=
+rflow: hidden;"><div class=3D"container"></div></div><!-- <![endif] --><!--=
+ [=3Dop=3D] --><img src=3D"http://newsletter.metro.co.in/op/4/32P3IHK2-32NI=
+25ZS-YDG153E.gif" width=3D"1" height=3D"1" border=3D"0" alt=3D""/><!-- [/=
+=3Dop=3D] --></body></html>
+------=_Part_14055855_1481511682.1545213674561--

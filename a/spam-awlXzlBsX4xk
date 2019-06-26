@@ -1,0 +1,204 @@
+Return-Path:
+	<vivint_home_security_partner-monika_pal=mslindia.net@beingfullyintegrated.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <monika_pal@mslindia.net>
+X-Envelope-To-Blocked: <monika_pal@mslindia.net>
+X-Quarantine-ID: <awlXzlBsX4xk>
+X-Spam-Flag: YES
+X-Spam-Score: 8.686
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.686 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	MIME_QP_LONG_LINE=0.001, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_CSS=1, RDNS_NONE=1.274, SPF_PASS=-0.001]
+	autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id awlXzlBsX4xk for <monika_pal@mslindia.net>;
+	Sat,  3 Nov 2018 16:38:39 +0530 (IST)
+Received: from mail.beingfullyintegrated.com (unknown [64.42.182.118])
+	by mx10.jcbl.com (Postfix) with ESMTP id 1D6B1EECB42
+	for <monika_pal@mslindia.net>; Sat,  3 Nov 2018 16:38:39 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=beingfullyintegrated.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint_home_security_partner@beingfullyintegrated.com;
+ bh=ibRLvaL0fP+fE4UtO3FLrRkKgYg=;
+ b=KrU0nwmIB54rUo0vNwCw6f8x40FGPb3Y8E9k7CViSDHSZKqyG/W+MfYUiAPamz984MbxRJVBMneG
+   5UpvmPfz7rdNGzyNX7IhciiQSlEgUxFBsYiaIfLwy8VYLFYGI2E4AkFkHKPj0E9HwY0/CQMxMcwO
+   3+h95bO2HwOEjy+KkgY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=beingfullyintegrated.com;
+ b=wo14rsvfZUbej3hR1m7qRGqM/1m8yh5FSQkP8lGDKwJUJNEoBw77sbOcyZIGbs7wvpwqoty2Tt8k
+   yMT1F4jCZzCTLKQJFdETt+4nAP4lTk7ELCM5KMxh2AqgB5qUBuXyx+B+teI1yWNgjBAiCGyEVuCc
+   cIjZAxI4YNCdZw1+ZN4=;
+Received: by mail.beingfullyintegrated.com id hrm1460001ge for <monika_pal@mslindia.net>; Sat, 3 Nov 2018 07:05:42 -0400 (envelope-from <vivint_home_security_partner-monika_pal=mslindia.net@beingfullyintegrated.com>)
+Date: Sat, 3 Nov 2018 07:05:42 -0400
+From: "Vivint Home Security Partner" <vivint_home_security_partner@beingfullyintegrated.com>
+To:   <monika_pal@mslindia.net>
+Subject: Protect Your Home and Family with a Vivint.SmartHome Monitored System + professional Installation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_133_717154242.1541243136094"
+List-Unsubscribe: <http://www.beingfullyintegrated.com/dog-new/30n5S23m85d8I9M13Sh1y1yXU31c1p24WisrbgD_tDhfiwhbrHbDErIx6Gxx10Q6pTPi2h>
+Message-ID: <0.0.0.E.1D4736529351A1A.144EC9@mail.beingfullyintegrated.com>
+
+------=_Part_133_717154242.1541243136094
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Protect Your Home and Family with a Vivint.SmartHome Monitored System + professional Installation
+
+http://www.beingfullyintegrated.com/e035k2X385g8Mo612u178d8g31c1m24XisrbgD_tDhfiwhbrHbDErIx6m10Myu6qO2iPh/press-other
+
+
+
+Update Preferences- http://www.beingfullyintegrated.com/3954c2385h8_6R12o178daB31c1M24gisrbgD_tDhfiwhbrHbDErIx6km10vC6yXi@h0/pass-six
+
+------=_Part_133_717154242.1541243136094
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta charset=3D"utf-8" />
+  <!-- utf-8 works for most cases -->=20
+  <meta content=3D"width=3Ddevice-width" name=3D"viewport" />
+  <!-- Forcing initial-scale shouldn't be necessary -->=20
+  <meta content=3D"IE=3Dedge" http-equiv=3D"X-UA-Compatible" />
+  <!-- Use the latest (edge) version of IE rendering engine -->=20
+  <title>Protect your home, protect your family</title>=20
+  <!-- The title tag shows in email notifications, like Android 4.4. -->=20
+ </head>=20
+ <body bgcolor=3D"#ececec" style=3D"Margin: 0; " width=3D"100%">=20
+  <center>=20
+   <h3><strong><a href=3D"http://www.beingfullyintegrated.com/de55EL2385v8RS612R178d8t31c1h24FisrbgD_tDhfiwhbrHbDErIx6zlq1N06eUWih0/press-other">Protect Your Home and Family with a Vivint.SmartHome Monitored System + professional Installation</a><=
+/strong></h3>=20
+  </center>=20
+  <table bgcolor=3D"#ececec" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" height=3D"100%" style=3D"border-collapse:collapse; " width=3D"100%">=20
+   <tbody>=20
+    <tr>=20
+     <td valign=3D"top">=20
+      <center style=3D"width: 100%; ">
+       <!--   =20
+            Set the email width. Defined in two places:
+            1. max-width for all clients set with Outlook, allowing the ema=
+il to squish on narrow but never go wider than 600px.             2. MSO ta=
+gs for Desktop Windows Outlook enforce a 600px width.         -->=20
+       <div style=3D"max-width: 600px; ">
+        <!--[if (gte mso 9)|(IE)]>
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"600" align=3D"center">
+            <tr>
+            <td>
+            <![endif]-->
+        <!-- Email Body : BEGIN -->=20
+        <table align=3D"center" bgcolor=3D"#4D5B66" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"max-width: 600px; " width=3D"100%">
+         <!-- Hero Image Desktop, Flush : BEGIN -->=20
+         <tbody>=20
+          <tr bgcolor=3D"#ffffff" border=3D"'0?">=20
+           <td align=3D"center"><a href=3D"http://www.beingfullyintegrated.com/de55EL2385v8RS612R178d8t31c1h24FisrbgD_tDhfiwhbrHbDErIx6zlq1N06eUWih0/press-other"><img align=3D"center=
+" alt=3D"Special Offer: $105 of Free Equipment" border=3D"0" height=3D"" sr=
+c=3D"http://www.beingfullyintegrated.com/5ed5C23A85Rl7aY13gV178ddT31c1H24fisrbgD_tDhfiwhbrHbDErIx5X1Bw05bAilh/she-mark" style=3D"width: 100%; max-width: 600px; " width=3D"750" /=
+> </a></td>=20
+          </tr>=20
+          <!-- Hero Image Desktop, Flush : END -->
+          <!-- Transparent Spacer : BEGIN -->=20
+          <tr bgcolor=3D"#ececec">=20
+           <td><img align=3D"center" border=3D"0" height=3D"10" src=3D"=
+http://www.beingfullyintegrated.com/press-other/sa85sH2385CC7ia12p178deA31c1C24zisrbgD_tDhfiwhbrHbDErIx5Q1P0o6fz2ihj" style=3D"width: 100%; max-width: 600px; " width=3D"600" /></td>=20
+          </tr>=20
+          <!-- Transparent Spacer : END -->=20
+         </tbody>=20
+        </table>=20
+        <!-- Email Body : END -->
+        <!-- Legal Section : BEGIN -->=20
+        <table align=3D"center" bgcolor=3D"#ececec" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"max-width: 600px; " width=3D"100%">=20
+         <tbody>=20
+          <tr>=20
+           <td>=20
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=20
+             <tbody>=20
+              <tr>=20
+               <td style=3D"padding: 20px 20px 5px 20px; text-align: center=
+; font-family: sans-serif; font-size: 10px; mso-height-rule: exactly; line-=
+height: 15px; color: #888888; ">*Minimum $39.99/month services agreement re=
+quired. Minimum $599.99 equipment purchase may be financed at 0% annual per=
+centage rate (APR) for up to 60 months with no down payment (for example $1=
+0.00/month for 60 months for $599.99 of equipment financed). $49 to $199 in=
+stallation fee applies. Subject to credit approval. Month-to-month service =
+agreement available when equipment is purchased upfront. Additional equipme=
+nt may be purchased and financed. Financing options require monthly service=
+s agreement coterminous with applicable financing agreement (for example $3=
+9.99/month for 60 months =3D total services cost $2,399.40). Camera functio=
+nality starts at $49.99/month for services, with additional equipment purch=
+ase or financing required. System supports up to four cameras subject to su=
+fficient wifi speeds. Without a Vivint services plan, product and system fu=
+nctionality is limited (including loss of remote connectivity). Speak to a =
+Vivint representative at the phone number in this offer for complete equipm=
+ent, services, and package details, including pricing. Offer not available =
+in all states or provinces. Taxes and local permit fees may apply. New Vivi=
+nt Customers only. Products and services in Louisiana provided by Vivint Lo=
+uisiana Commercial Certificate #58280. See Vivint license numbers here. <a =
+href=3D"http://www.beingfullyintegrated.com/7af6N23C8v5VP86P17gA1nS78Fwd9x31c1y24visrbgD_tDhfiwhbrHbDErIx6Ov10tW6SMAAih/said-our" style=3D"color: #888888; " target=3D"blank">here</a>.</=
+td>=20
+              </tr>=20
+             </tbody>=20
+            </table> </td>=20
+          </tr>=20
+          <!-- Legal Section : END -->
+          <!-- Email Footer : BEGIN -->=20
+         </tbody>=20
+        </table>=20
+        <table align=3D"center" bgcolor=3D"#ececec" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"max-width: 600px; " width=3D"100%">=20
+         <tbody>=20
+          <tr>=20
+           <td style=3D"padding:0px 10px 10px 10px; width: 100%; font-size:=
+ 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px;=
+ text-align: center; color: #888888; ">------------------------------------=
+-<br /> <span style=3D"color: rgb(136, 136, 136); font-family: sans-serif; =
+font-size: 12px; text-align: center; ">Don't want to receive email updates?=
+&nbsp; </span><a href=3D"http://www.beingfullyintegrated.com/said-our/e405h2P385K86yW17m1KU7hU8dhaQ31c1L24oisrbgD_tDhfiwhbrHbDErIx6EgW1I06PUih@1" style=3D"font-family: sans-serif; font=
+-size: 12px; text-align: center; color: rgb(136, 136, 136); ">Unsubscribe h=
+ere&nbsp; </a><br /> We respect your right to privacy - <a href=3D"=
+http://www.beingfullyintegrated.com/3b35U23s85wv8K612A178dbN31c1Z24oisrbgD_tDhfiwhbrHbDErIx7z1xLu0w5VzihN/question-five" style=3D"color: #888888; text-decoration: underline; " target=3D"blank"=
+> View our policy</a><br /> 4931 N 300 W, Provo, UT 84604</td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+        <!-- Email Footer : END -->
+        <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+       </div>=20
+      </center> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br /> &nbsp;=20
+  <center>
+   <br />=20
+   <a href=3D"http://www.beingfullyintegrated.com/4674u2385hV89m13g178dcCu31c1v24aisrbgD_tDhfiwhbrHbDErIx5V1v0g5zBihT/dog-new" target=3D"_blank"><img border=3D"0" src=
+=3D"http://www.beingfullyintegrated.com/pass-six/6666F23XQ85kX7at17VRF178dfSRzp31c1H24pisrbgD_tDhfiwhbrHbDErIx6OJ1RW05ypihM" /></a>
+  </center> <img src=3D"http://www.beingfullyintegrated.com/dog-new/8285P23i85v8ws512j178e0o31c1I24OisrbgD_tDhfiwhbrHbDErIx6KpDZ105I1ihJ" alt=3D""/> =20
+ </body>
+</html>
+
+------=_Part_133_717154242.1541243136094--
+

@@ -1,0 +1,267 @@
+Return-Path: <ashley.madison-itd=jcbl.com@datenightsuggestions.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <poonam_rawal@jcblmail.com>
+X-Envelope-To-Blocked: <poonam_rawal@jcblmail.com>
+X-Quarantine-ID: <acV-YtGj3kix>
+X-Spam-Flag: YES
+X-Spam-Score: 8.519
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.519 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_FONT_FACE_BAD=0.289, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.724, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id acV-YtGj3kix for <poonam_rawal@jcblmail.com>;
+	Sat, 17 Nov 2018 14:09:39 +0530 (IST)
+Received: from mail.datenightsuggestions.com (datenightsuggestions.com [67.198.233.158])
+	by mx10.jcbl.com (Postfix) with ESMTP id 691C2F45B90
+	for <itd@jcbl.com>; Sat, 17 Nov 2018 14:09:28 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=datenightsuggestions.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ashley.madison@datenightsuggestions.com;
+ bh=wnPRVqe/kGJppEuik97zg1Rh75M=;
+ b=sh+S+Klo5pZhxK5P/khsLRNUy5sjnlKElWzI5Se6+Uly8oLfu9pp6JYcMoa2x0C4qwv0FMVY8SUq
+   8zWDPiEnPzB/ZSemSrdW5cCd1CSggWo0JA8vS6YwJep2KTbeYHrOASLKlXprA8eoqCzruWtyiGG5
+   rRxexa7G1omUIEsIXr4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=datenightsuggestions.com;
+ b=agTsl6tk/3qo9P5UGxheivkA5qeuu0VrU2r0gKrT06CkLfE2MfIOa24lsHjqfzS00mkY8tDyZ3uq
+   RKL913na45mjoi//sW059VWGncd2fuwnN3B7I6NL6DbDZf/DRTv3AL9QExEFv/jIzrnQQxDeA8Xv
+   RaKbCzDxuLyXFN5+3Qc=;
+Received: by mail.datenightsuggestions.com id htv9u60001gj for <itd@jcbl.com>; Sat, 17 Nov 2018 03:31:07 -0500 (envelope-from <ashley.madison-itd=jcbl.com@datenightsuggestions.com>)
+Date: Sat, 17 Nov 2018 03:31:07 -0500
+From: "Ashley Madison" <ashley.madison@datenightsuggestions.com>
+To:   <itd@jcbl.com>
+Subject: Browse and meet new women right now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1471_1183041425.1542443438582"
+List-Unsubscribe: <http://www.datenightsuggestions.com/compound-educating/6a24u2385t8u9J11o1R_1yL903Z13LbxHfcGFhEGsi6M1z0pu9V@J@2iwx9>
+Message-ID: <0.0.0.203.1D47E4FE316F472.8AD3F6@mail.datenightsuggestions.com>
+
+------=_Part_1471_1183041425.1542443438582
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" /> 
+  <title>Test</title> 
+  <style type="text/css">@import url(https://fonts.googleapis.com/css?family=Roboto:300); 
+
+ 
+ #outlook a { padding:0; }
+ body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; } 
+ .ReadMsgBody { width: 100%; }
+ .ExternalClass {width:100%; } 
+ .backgroundTable {margin:0 auto; padding:0; width:100%; !important; } 
+ table td {border-collapse: collapse; }
+ .ExternalClass * {line-height: 115%; } 
+ .appleapp {width: auto; height: 60px; }
+ .googleapp {width: auto; height: 60px; }
+ 
+ 
+ 
+ 
+ 
+ @media screen and (max-width: 630px){
+ 
+ 
+  
+ *[class="mobile-column"] {display: block; } 
+ 
+ 
+ *[class="mob-column"] {float: none !important; width: 100% !important; } 
+ 
+ 
+ *[class="hide"] {display:none !important; } 
+ 
+ 
+ *[class="100p"] {width:100% !important; height:auto !important; } 
+ 
+  
+ *[class="condensed"] {padding-bottom:40px !important; display: block; }
+ 
+ 
+ *[class="center"] {text-align:center !important; width:100% !important; height:auto !important; } 
+ 
+ 
+ *[class="100pad"] {width:100% !important; padding:20px; } 
+ 
+ 
+ *[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px; } 
+ 
+ 
+ *[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px; } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="appleapp"] {width: 100%; height: auto; }
+ } 
+ 
+ @media screen and (max-width: 500px) {
+ *[class="googleapp"] {width: 100%; height: auto}
+ }
+	</style> 
+  <style type="text/css">
+	</style> 
+ </head> 
+ <body bgcolor="#f2f2f2" style="padding:0; margin:0"> 
+  <div style="background:ffffff; ">
+   &nbsp; 
+  </div> 
+  <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" class="hide" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td background="https://dl.dropbox.com/s/em8uggz08zo0qgz/temp4.jpg?dl=0" bgcolor="#000000" class="100p" style="background-position: center" valign="top" width="640">
+          <v:rect fill="true" stroke="false" style="width:640px; " xmlns:v="urn:schemas-microsoft-com:vml"> 
+           <v:fill color="#3b464e" src="http://www.datenightsuggestions.com/de54e2385v7wpa11h3807hh903w13gbxHfcGFhEGsi7qx1xj0u9e3kiXwNx9/rivulets-thumbing" type="tile"> 
+            <v:textbox inset="0,0,0,0" style="mso-fit-shape-to-text:true"> 
+             <div> 
+              <table border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+               <tbody> 
+                <tr> 
+                 <td valign="top"> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td align="left" width="50%"><a href="http://www.datenightsuggestions.com/Byrd-predict/12Y6Dy238K5fOo8612C38Iv04z903j13cbxHfcGFhEGsi6tUN10W10sz2iMw3x91"><img alt="Logo" src="http://www.datenightsuggestions.com/compound-educating/9365R23h85mUL7a10b3808G903H13zbxHfcGFhEGsi7z1kPGM010lyp2U@iwx9" style="display: block; width: 90%; padding-top: 15px; padding-left: 15px; border-width: 0px; border-style: solid; " /></a></td> 
+                    </tr> 
+                   </tbody> 
+                  </table> 
+                  <table border="0" cellpadding="0" cellspacing="0" class="100p" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                    <tr> 
+                     <td align="left" style="color:#FFFFFF; font-size:24px; font-family:Raleway, Open Sans, sans-serif; padding-left: 15px; "><span style="font-size: 22px; color: #e73373; ">RULE #1 </span><br /> <span style="font-size:44px; line-height: 45px"><strong>choose married<br /> women</strong></span><br /> <span style="font-size:22px; "><i>They have reason to keep<br /> things secret, as do you.</i></span><br /> &nbsp; 
+                      <table border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir; "> 
+                       <tbody> 
+                        <tr> 
+                         <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.datenightsuggestions.com/Byrd-predict/12Y6Dy238K5fOo8612C38Iv04z903j13cbxHfcGFhEGsi6tUN10W10sz2iMw3x91" style="color:#FFFFFF; text-decoration:none; "><strong>SIGN UP FOR FREE</strong> </a> </font></td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                    </tr> 
+                    <tr> 
+                     <td height="35">&nbsp; </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+               </tbody> 
+              </table> 
+             </div> 
+             <!--[if gte mso 9]>
+ </v:textbox>
+ </v:rect>
+ <![endif]--> 
+            </v:textbox>
+           </v:fill>
+          </v:rect></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#b2d6db" border="0" cellpadding="0" cellspacing="0" class="100p" height="1" width="640"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#FFFFFF" width="20">&nbsp; </td> 
+         <td align="center" height="1" style="line-height:0px; font-size:1px; ">&nbsp; </td> 
+         <td bgcolor="#ffffff" width="20">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 30px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#848484; "><font face="'Roboto', Arial, sans-serif"><span style="color:#e73373; font-size:24px; ">JOIN TODAY</span><br /> <br /> <span style="font-size:16px; ">Every day thousands of people join Ashley Madison to find discreet relationships of all kinds. Single, attached, looking to explore, or just curious to discover what' s out there ? Ashley Madison is the most open-minded dating community in the world.</span></font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <table align="center" border="0" cellpadding="10" cellspacing="0" style="border-radius: 50px; background-color: #e73373; font-family: Avenir, sans-serif; margin-bottom: 50px; "> 
+           <tbody> 
+            <tr> 
+             <td align="center" style="color:#FFFFFF; font-size:16px; padding: 10 20; "><font face="Avenir, Arial, sans-serif"><a href="http://www.datenightsuggestions.com/Byrd-predict/12Y6Dy238K5fOo8612C38Iv04z903j13cbxHfcGFhEGsi6tUN10W10sz2iMw3x91" style="color:#FFFFFF; text-decoration:none; "><strong>SEE MATCHES</strong> </a> </font></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="color: #848484; padding-top: 20px; ">*Not actual members of Ashley Madison</td> 
+        </tr> 
+        <tr> 
+         <td align="center"><a href="http://www.datenightsuggestions.com/Byrd-predict/12Y6Dy238K5fOo8612C38Iv04z903j13cbxHfcGFhEGsi6tUN10W10sz2iMw3x91"><img border="0" class="100p" src="http://www.datenightsuggestions.com/Australian-mushroom/6de4i2385mSX7a12f380F9hQ903B13PbxHfcGFhEGsi6a1hBD09LL0qiXwx9" style="display:block; padding-top: 20px; " /></a></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:16px; color:#ffffff; display: block; margin: auto; "><font face="'Roboto', Arial, sans-serif"><span style="font-size:24px; ">Download The App</span> </font></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#e73373" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="right" style="padding: 10 5 40 20; "><img border="0" class="appleapp" src="http://www.datenightsuggestions.com/employable-floating/40e5dO2385DV7ao12Fq38C0aK903U13YbxHfcGFhEGsi6a1LY0h10lU0iwxq09A" /></td> 
+         <td align="left" style="padding: 10 20 40 5"><img border="0" class="googleapp" src="http://www.datenightsuggestions.com/Byrd-predict/15c4S2385X7HaK11Uh380bw903A13zbxHfcGFhEGsi6llzm109pzLlUiwx9" /></td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" style="padding-top: 20px; " width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="center" style="font-size:14px; color:#848484; "><font face="'Roboto', Arial, sans-serif">This message is sent to you by [insert affiliate name] on behalf of ruby Life Inc., the operator of <a href="http://www.datenightsuggestions.com/Byrd-predict/12Y6Dy238K5fOo8612C38Iv04z903j13cbxHfcGFhEGsi6tUN10W10sz2iMw3x91">ashleymadison.com</a>. ruby Life Inc. is located at 2300 Yonge Street, Suite 1400, Toronto, Ontario M4P 1E4 Canada. To unsubscribe from marketing and promotional email messages sent by or on behalf of ruby Life Inc., click <a href="http://www.datenightsuggestions.com/constructibility-goner/cf66uOn2385IJ86y12s380u5lh903Z13MbxHfcGFhEGsi5y1pH09m0il@Lwx9">here</a>.</font><br /> &nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table bgcolor="#ffffff" border="0" cellpadding="20" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+         <td align="right" style="font-size:14px; color:#848484; " width="50%">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table border="0" cellpadding="0" cellspacing="0" class="100p" width="640"> 
+       <tbody> 
+        <tr> 
+         <td height="50">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <hr width="50%" /> 
+  <div style="text-align: center; ">
+   <font size="3">To be removed <a href="http://www.datenightsuggestions.com/abb5m2o385C89Ay11Xr3806T903A13jbxHfcGFhEGsi6F1DZD010kqiNkw3x9M/retroactive-tingled">view here</a><br /> 25883 N Park Ave. Unit A2 15263 Elkhart, IN 46514</font>
+  </div>   
+ <img src="http://www.datenightsuggestions.com/Australian-mushroom/dc86rzH2385MR8Q512j3H80RcS903I13GbxHfcGFhEGsi5d1n0r10hT2liwWx9L" alt=""/></body>
+</html>
+
+------=_Part_1471_1183041425.1542443438582--
+

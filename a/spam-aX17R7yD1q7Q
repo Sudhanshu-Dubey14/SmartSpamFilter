@@ -1,0 +1,415 @@
+Return-Path: <alerts@technogroovy.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aX17R7yD1q7Q>
+X-Spam-Flag: YES
+X-Spam-Score: 7.516
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.516 tag=2 tag2=6.31 kill=6.31
+	tests=[DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HK_PNIS=0.049, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=0.365, RAZOR2_CF_RANGE_E8_51_100=2.43,
+	RAZOR2_CHECK=1.729, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_JP_SURBL=1.948] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aX17R7yD1q7Q for <jcbl@jcbl.com>;
+	Thu,  6 Dec 2018 23:54:18 +0530 (IST)
+Received: from chagres.technogroovy.com (chagres.technogroovy.com [162.244.13.47])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 2ECB6F4C837
+	for <jcbl@jcbl.com>; Thu,  6 Dec 2018 23:54:15 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=technogroovy.com;
+	s=dkim; t=1544120762;
+	bh=xTXwMRely/EY9n4vHyygNtxvUO34onpaKCEDgaa0U7Y=;
+	h=to:from:subject:date:mime-version:message-id:content-type;
+	b=X1cwbhBbTEPSKEqUsg99nqzv1Ry47Uv2sq/PtNxWjzwyL966WPMn5ALt2UO8zCh0Y
+	 7GUcBrS4k08FYAX89Bjv4JrOEELTeTwF6McVFv7tZYba5ZjRTkgvJCMV16VNTyocur
+	 BgI0SibYx8XkRS/YUg2kmsgeDSe6v758g7e6aKLU=
+To: <jcbl@jcbl.com>
+From: "Breaking News" <alerts@technogroovy.com>
+Subject: Putin threatens arms race if U.S. dumps treaty
+Date: Thu, 06 Dec 2018 13:26:02 -0500
+Precedence: bulk
+MIME-Version: 1.0
+Feedback-ID: 201812061326:178c9f283fc4f64a6157901_ba69095c:wpoy^wpoy(pbz:19190
+List-Unsubscribe: <mailto:178c9f283fc4f64a6157901_ba69095c@technogroovy.com>, <http://technogroovy.com/178c9f283fc4f64a6157901_ba69095c/U/>
+Message-ID: <201812061326@technogroovy.com>
+X-campaignID: 19190
+Content-type: text/html
+
+
+<html>
+<head>
+<title></title>
+<style>
+html {
+	-webkit-text-size-adjust: none;
+}
+.yshortcuts {
+	border-bottom: none !important;
+}
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+}
+</style>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="500" align="center">
+ <tr>
+  <td width="500" valign="top" bgcolor="#ffffff"><!-- header start -->
+   
+  <table cellspacing="0" cellpadding="0" width="500" bgcolor="#400090" border="0">
+    <tr>
+      <td align="center"></a></td>
+    </tr>
+   </table>
+   <table cellspacing="0" cellpadding="0">
+    <tr>
+     <td height="1" ><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="1" height="1" style="display:block;" border="0"></td>
+    </tr>
+   </table>
+   
+   <!-- header end --> 
+   
+   <!-- Today Module start dynamic joined by List.ID_1 to reference table -->
+   
+   <table cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="500" border="0">
+    
+    <!-- Today Module URL image and alt tag(title) merge -->
+    <tr>
+     <td width="500" valign="top" bgcolor="#ffffff"><img
+src="http://www.cays.info/1c828e283514f64a615790149d04_ba69095c-010101010002/V/" width="500" style="display:block;"
+border="0"
+alt="Putin threatens arms race if U.S. dumps treaty" /></td>
+     <!-- Today Module URL image and alt tag(title) merge --> 
+     
+    </tr>
+   </table>
+   <table cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="1" height="10" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" align="left" valign="top"><div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px;
+line-height:19px; color:#324fe1; font-weight:bold;"> 
+       
+       <!-- Today Module URL and title merge --> 
+       <span>Putin threatens arms race if U.S. dumps treaty</span>
+       <!-- Today Module URL and title merge --> 
+       
+      </div></td>
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" align="left" valign="top"><!-- Today Module URL,summary and title merge -->
+      
+      <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;">
+A defiant Vladimir Putin issued a warning in response to Washington’s announcement that it might withdraw from a nuclear pact. U.S.: 'Russia has breached deal' <br></td>
+     <!-- Today Module URL,summary and title merge -->
+     
+     <td width="10"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+   
+   <!-- Today Module end dynamic based on the ID_1- dynamic joined by List.ID_1 to reference table --> 
+   
+   <!-- article divider -->
+   
+   <table cellspacing="0" cellpadding="0" width="500">
+    <tr>
+     <td height="11" style="height:11px; line-height:11px;"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="1" height="11" style="display:block;"
+border="0"></td>
+    </tr>
+    <tr>
+     <td height="1" bgcolor="#e4e4e4" style="height:1px; line-height:1px;"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="1" height="1"
+style="display:block;" border="0"></td>
+    </tr>
+    <tr>
+     <td height="6" style="height:6px; line-height:6px;"><img src="http://www.cays.info/1c8ff8b48424f64a615790147504_ba69095c-010101010002/V/" width="1" height="6" style="display:block;"
+border="0"></td>
+    </tr>
+   </table>
+   
+   <!-- end article divider --> 
+    
+    <!-- Recommended Reads Title START -->
+   
+   <table cellpadding="0" cellspacing="0" width="500">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" align="left"><div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:13px; line-height:16px;
+color:#333333; font-weight:bold;">Recommended Reads </div></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+   
+   <!-- Recommended Reads Title END --> 
+   
+   <!-- start  Recommended Reads DYNAMIC section --> 
+   
+   <!-- single article style left start UUID_1 -->
+   
+ <!-- Article 1 Start -->
+   <table cellspacing="0" cellpadding="0" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="12" bgcolor="#ffffff" style="height:12px; line-height:12px;"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="1"
+height="12" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td><table cellspacing="0" cellpadding="0" width="480" border="0">
+       
+       <!-- UUID URL, Title(for alt tag) and image-->
+       <tr> 
+         <td width="120"  align="right" valign="top" style="padding-bottom: 17px;"><a href="http://www.cays.info/1c8e812f3574f64a615790144b03_ba69095c-010101010002/C/"><img
+src="http://www.cays.info/1c87ef2e0094f64a615790149204_ba69095c-010101010002/V/" width="120"  style="display:block;" border="0" alt="Shocking 'Super Soldier' Secrets EXPOSED"></a></td>
+        
+        <!-- UUID URL, Title(for alt tag) and image-->
+        
+        <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+        <td width="350" bgcolor="#ffffff" align="left" valign="top" style="padding-bottom: 17px;"><div style="font-family:'Helvetica Neue', Helvetica,
+Arial, sans-serif; font-size:13px; line-height:16px; color:#324fe1; font-weight:bold;"> 
+          
+          <!-- UUID_1 URL, Title --> 
+          <a href="http://www.cays.info/1c8e812f3574f64a615790144b03_ba69095c-010101010002/C/" style="color:#324fe1; text-decoration:none;"><span>Shocking 'Super Soldier' Secrets
+EXPOSED</span></a> 
+          <!-- UUID_1 URL, Title --> 
+         </div>
+         
+         <!-- UUID_1 URL, summary -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;"><a
+href="http://www.cays.info/1c8e812f3574f64a615790144b03_ba69095c-010101010002/C/" style="color:#545454; text-decoration:none;">For the first time in American history, this 'Super Soldier' Secret
+is being released to the public and non-military personnel. Look what's happening...</a> 
+          <!-- UUID_1 URL, summary --> 
+          
+         </div>
+         
+         <!-- UUID_1 Attribution -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:10px; line-height:13px; color:#1E7D8E;">Military Technology
+Quarterly
+          <!-- UUID_1 Attribution --> 
+         </div></td>
+       </tr>
+      </table>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+<!-- Article 1 End -->
+   <table cellspacing="0" cellpadding="0" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="12" bgcolor="#ffffff" style="height:12px; line-height:12px;"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="1"
+height="12" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td><table cellspacing="0" cellpadding="0" width="480" border="0">
+       
+       <!-- UUID URL, Title(for alt tag) and image-->
+       <tr> 
+         <td width="120"  align="right" valign="top" style="padding-bottom: 17px;"><a href="http://www.cays.info/1c88d754fef4f64a615790144a03_ba69095c-010101010002/C/"><img
+src="http://www.cays.info/1c84d853fe94f64a615790149c04_ba69095c-010101010002/V/" width="120"  style="display:block;" border="0" alt="VIDEO: CBD Cannabidol Oils Are Now Legal in All 50
+States."></a></td>
+        
+        <!-- UUID URL, Title(for alt tag) and image-->
+        
+        <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+        <td width="350" bgcolor="#ffffff" align="left" valign="top" style="padding-bottom: 17px;"><div style="font-family:'Helvetica Neue', Helvetica,
+Arial, sans-serif; font-size:13px; line-height:16px; color:#324fe1; font-weight:bold;"> 
+          
+          <!-- UUID_1 URL, Title -->           <a href="http://www.cays.info/1c88d754fef4f64a615790144a03_ba69095c-010101010002/C/" style="color:#324fe1;
+text-decoration:none;"><span>CBD Hemp Oil Is Now Legal in All 50 States.</span></a> 
+          <!-- UUID_1 URL, Title --> 
+         </div>
+         
+         <!-- UUID_1 URL, summary -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;"><a
+href="http://www.cays.info/1c88d754fef4f64a615790144a03_ba69095c-010101010002/C/" style="color:#545454; text-decoration:none;">Cannabidol oil and hemp products are sweeping the
+nation as federal laws were passed that legalized industrial hemp on a national level.</a> 
+          <!-- UUID_1 URL, summary --> 
+          
+         </div>
+         
+         <!-- UUID_1 Attribution -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:10px; line-height:13px; color:#1E7D8E;">Smart Mind Smart Body<!--
+UUID_1 Attribution --> 
+         </div></td>
+       </tr>
+      </table></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+<!-- Featured Article 2 end -->
+ <!-- Article 1 Start -->
+   <table cellspacing="0" cellpadding="0" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="12" bgcolor="#ffffff" style="height:12px; line-height:12px;"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="1"
+height="12" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td><table cellspacing="0" cellpadding="0" width="480" border="0">
+       
+       <!-- UUID URL, Title(for alt tag) and image-->
+       <tr> 
+         <td width="120"  align="right" valign="top" style="padding-bottom: 17px;"><a href="http://www.cays.info/1c8122256bf4f64a615790145a03_ba69095c-010101010002/C/"><img
+src="http://www.cays.info/1c891da54cc4f64a615790149a04_ba69095c-010101010002/V/" width="120"  style="display:block;" border="0" alt="Discover The Secret Your Optometrist Doesn't Want You To Know: Improve Your EyeSight Without Glasses"></a></td>
+        
+        <!-- UUID URL, Title(for alt tag) and image-->
+        
+        <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+        <td width="350" bgcolor="#ffffff" align="left" valign="top" style="padding-bottom: 17px;"><div style="font-family:'Helvetica Neue', Helvetica,
+Arial, sans-serif; font-size:13px; line-height:16px; color:#324fe1; font-weight:bold;"> 
+          
+          <!-- UUID_1 URL, Title --> 
+          <a href="http://www.cays.info/1c8122256bf4f64a615790145a03_ba69095c-010101010002/C/" style="color:#324fe1; text-decoration:none;"><span>Discover The Secret Your Optometrist Doesn't Want You To Know: Improve Your EyeSight Without Glasses</span></a> 
+          <!-- UUID_1 URL, Title --> 
+         </div>
+         
+         <!-- UUID_1 URL, summary -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;"><a
+href="http://www.cays.info/1c8122256bf4f64a615790145a03_ba69095c-010101010002/C/" style="color:#545454; text-decoration:none;"><i>Editorial -</i> Exactly five years ago I almost went blind and was told I would never see without lenses for the rest of my life. But I overcame this, and you can too. </a> 
+          <!-- UUID_1 URL, summary --> 
+          
+         </div>
+         
+         <!-- UUID_1 Attribution -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:10px; line-height:13px; color:#1E7D8E;">Science Daily
+          <!-- UUID_1 Attribution --> 
+         </div></td>
+       </tr>
+      </table>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+<!-- Article 1 End -->
+ <!-- Article 1 Start -->
+   <table cellspacing="0" cellpadding="0" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="12" bgcolor="#ffffff" style="height:12px; line-height:12px;"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="1"
+height="12" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td><table cellspacing="0" cellpadding="0" width="480" border="0">
+       
+       <!-- UUID URL, Title(for alt tag) and image-->
+       <tr> 
+         <td width="120"  align="right" valign="top" style="padding-bottom: 17px;"><a href="http://www.cays.info/1c8cffa3c4d4f64a615790145703_ba69095c-010101010002/C/"><img
+src="http://www.cays.info/1c8f4bde8744f64a615790149b04_ba69095c-010101010002/V/" width="120"  style="display:block;" border="0" alt="Sleep depravation proven to shorten lifespan, study shows"></a></td>
+        
+        <!-- UUID URL, Title(for alt tag) and image-->
+        
+        <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+        <td width="350" bgcolor="#ffffff" align="left" valign="top" style="padding-bottom: 17px;"><div style="font-family:'Helvetica Neue', Helvetica,
+Arial, sans-serif; font-size:13px; line-height:16px; color:#324fe1; font-weight:bold;"> 
+          
+          <!-- UUID_1 URL, Title --> 
+          <a href="http://www.cays.info/1c8cffa3c4d4f64a615790145703_ba69095c-010101010002/C/" style="color:#324fe1; text-decoration:none;"><span>Sleep depravation proven to shorten lifespan, study shows</span></a> 
+          <!-- UUID_1 URL, Title --> 
+         </div>
+         
+         <!-- UUID_1 URL, summary -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;"><a
+href="http://www.cays.info/1c8cffa3c4d4f64a615790145703_ba69095c-010101010002/C/" style="color:#545454; text-decoration:none;">Anyone who likes the phrase "I'll sleep when I'm dead," likely never have had to deal with the frustration and anxiety that comes with the inability to sleep. A new study shows that lack of sleep is a leading contributor to complications that result in the death of thousands of American's every year. </a> 
+          <!-- UUID_1 URL, summary --> 
+          
+         </div>
+         
+         <!-- UUID_1 Attribution -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:10px; line-height:13px; color:#1E7D8E;">Journal of Health Studies<!-- UUID_1 Attribution --> 
+         </div></td>
+       </tr>
+      </table>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+<!-- Article 1 End -->
+<!-- Article 2 start -->
+   <table cellspacing="0" cellpadding="0" width="500" border="0">
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td width="480" height="12" bgcolor="#ffffff" style="height:12px; line-height:12px;"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="1"
+height="12" style="display:block;" border="0"></td>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+    <tr>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+     <td><table cellspacing="0" cellpadding="0" width="480" border="0">
+       
+       <!-- UUID URL, Title(for alt tag) and image-->
+       <tr> 
+         <td width="120"  align="right" valign="top" style="padding-bottom: 17px;"><a href="http://www.cays.info/1c8986d5ec24f64a615790145303_ba69095c-010101010002/C/"><img
+src="http://www.cays.info/1c8d2d226b94f64a615790148c04_ba69095c-010101010002/V/" width="120"  style="display:block;" border="0" alt="Possible Help For Men With Peyronie's, Crooked Penis
+Disease"></a></td>
+        
+        <!-- UUID URL, Title(for alt tag) and image-->
+        
+        <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+        <td width="350" bgcolor="#ffffff" align="left" valign="top" style="padding-bottom: 17px;"><div style="font-family:'Helvetica Neue', Helvetica,
+Arial, sans-serif; font-size:13px; line-height:16px; color:#324fe1; font-weight:bold;"> 
+          
+          <!-- UUID_1 URL, Title --> 
+          <a href="http://www.cays.info/1c8986d5ec24f64a615790145303_ba69095c-010101010002/C/" style="color:#324fe1; text-decoration:none;"><span>Possible Help For Men With Peyronie's, Crooked
+Penis Disease</span></a> 
+          <!-- UUID_1 URL, Title --> 
+         </div>
+         
+         <!-- UUID_1 URL, summary -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:15px; color:#545454;"><a
+href="http://www.cays.info/1c8986d5ec24f64a615790145303_ba69095c-010101010002/C/" style="color:#545454; text-decoration:none;">Urologists and plastic surgeons have found a simple device to be so
+effective, they continue to use it in their clinics and hospitals and now endorse the release of this technology directly to the public.</a> 
+          <!-- UUID_1 URL, summary --> 
+          
+         </div>
+         
+         <!-- UUID_1 Attribution -->
+         
+         <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:10px; line-height:13px; color:#1E7D8E;">Male Daily News 
+          <!-- UUID_1 Attribution --> 
+         </div></td>
+       </tr>
+      </table>
+     <td width="10"><img src="http://www.cays.info/1c80f0a4c4b4f64a615790148104_ba69095c-010101010002/V/" width="10"></td>
+    </tr>
+   </table>
+<!-- Article 2 End -->
+
+  <table width="500" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: rgb(171, 174, 183);" align="left">You received this email because
+your account <b>jcbl@jcbl.com</b> is subscribed to Your Breaking Alerts. If you do not want to receive this newsletter, use this link to <a
+href="http://cays.info/178c9f283fc4f64a6157901_ba69095c/U/">unsubscribe</a> or write to 237 E 23 Street #4G, New York, New York, 10010. <br>
+      <br></td>
+    </tr>
+   </table>
+   
+   <!-- Footer start --></td>
+
+</body>
+</html>
+

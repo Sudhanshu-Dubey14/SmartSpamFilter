@@ -1,0 +1,27 @@
+Return-Path: <Yogesh_Sharma@jcbl.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <yogesh_sharma@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aTTHVxG8R4Dp>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aTTHVxG8R4Dp for <yogesh_sharma@jcbl.com>;
+	Thu, 13 Apr 2017 14:01:58 +0530 (IST)
+Received: from hp240 (unknown [115.254.111.185])
+	by mx10.jcbl.com (Postfix) with ESMTPA id 1DBB3F862DD
+	for <Yogesh_Sharma@jcbl.com>; Thu, 13 Apr 2017 14:01:57 +0530 (IST)
+From: Microsoft Outlook <Yogesh_Sharma@jcbl.com>
+To: =?utf-8?B?WW9nZXNoIFNoYXJtYQ==?= <Yogesh_Sharma@jcbl.com>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+

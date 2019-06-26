@@ -1,0 +1,55 @@
+Return-Path: <Notification@Jio.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <hr_amb@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <alG2KDunRQJ8>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 2.501
+X-Spam-Level: **
+X-Spam-Status: No, score=2.501 tag=2 tag2=6.31 kill=6.31
+	tests=[HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	SPF_PASS=-0.001] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id alG2KDunRQJ8 for <hr_amb@globeauto.in>;
+	Mon, 18 Feb 2019 22:39:56 +0530 (IST)
+Received: from smtp5-outgoing.mail.rjil.net (smtp4-outgoing.mail.rjil.net [49.40.14.57])
+	by mx10.jcbl.com (Postfix) with SMTP id 21A66F45AF4
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 18 Feb 2019 22:39:40 +0530 (IST)
+Received: from NVMBD2ANR070V15.bss.jio.com (unknown [10.140.84.156])
+	by smtp5-outgoing.mail.rjil.net (Postfix) with ESMTP id 2F1E366004F
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 18 Feb 2019 22:43:54 +0530 (IST)
+Received: from NVMBD2BKU30D00 (prdin10sneapp13.bss.jio.com [10.143.71.25])
+	by NVMBD2ANR070V15.bss.jio.com (Postfix) with ESMTP id 2D68068
+	for <HR_AMB@GLOBEAUTO.IN>; Mon, 18 Feb 2019 22:43:54 +0530 (IST)
+From: Notification@Jio.com
+To: HR_AMB@GLOBEAUTO.IN
+Message-ID: <977268079.254890710.1550510034186.JavaMail.mwapp@NVMBD2BKU30D00>
+Subject: Your Number 9729549140 is ready for port-in to Jio
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_254890709_344538026.1550510034183"
+Bounce_Header: 7646658132450348032
+format: flowed
+
+------=_Part_254890709_344538026.1550510034183
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head></head>
+ <body>
+  &quot;Dear Customer, 
+  <br />
+  <br /> We are happy to inform you that your number 9729549140 is ready for port-in to Jio and the port-in process will be completed by 6:00 AM. Once your existing SIM stops working, please insert the Jio SIM in SIM slot 1 of your smartphone. You will receive an SMS on Alternate number once your number is ready for Tele-verification. If you are an eSIM user, use the QR code to download and install the eSIM profile on your device before Tele-verification 
+  <br />
+  <br /> Prepaid users need to do a recharge after activation to start using Jio services. To recharge, click www.jio.com/rechargenow or Visit the nearest Jio retailer after activation of your number. For details of exciting recharge plans, call 1991 from your Jio SIM after activation or 18008900000 from any number. 
+  <br />
+  <br /> Please note, Tele-verification is not required for Jio Corporate connections. 
+  <br />
+  <br /> Thank you,
+  <br /> Team Jio&quot;
+ </body>
+</html>
+------=_Part_254890709_344538026.1550510034183--

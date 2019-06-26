@@ -1,0 +1,45 @@
+Return-Path: <ian.cust@netpro.ru>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <postmaster@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <aV-wtlGq89_q>
+X-Amavis-Alert: BAD HEADER SECTION Non-encoded 8-bit data (char E8 hex):
+	Subject: \303\250\303\217\303\224\303\211\303\224\303\205
+	\303\213\303\225\303\220\303\211\303\224\303\230 \303\202\303\211[...]
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aV-wtlGq89_q for <postmaster@jcbl.com>;
+	Sat, 11 Mar 2017 23:48:56 +0530 (IST)
+Received: from 217.60.179.155 (unknown [217.60.179.155])
+	by mx10.jcbl.com (Postfix) with SMTP id CD348F6683A
+	for <postmaster@jcbl.com>; Sat, 11 Mar 2017 23:48:53 +0530 (IST)
+Received: from unknown (HELO localhost) (ian.cust@netpro.ru@117.140.90.177)
+	by 217.60.179.155 with ESMTPA; Sat, 11 Mar 2017 22:20:49 +0400
+Message-ID: <001801d29a94$116bf210$758c5ab1@markaz>
+From: "Dora Blackwell" <ian.cust@netpro.ru>
+To: <postmaster@jcbl.com>
+Subject: Хотите купить биткоины? Сейчас самое время!
+Date: Sat, 11 Mar 2017 22:18:26 +0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="KOI8-R";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Компания UTBS доплатит своим клиентам 0,5% при сумме сделки свыше 10 000 
+долларов. Для того, чтобы воспользоваться этой уникальной возможностью, 
+оформите соответствующую заявку на сайте! Упомянутый бонус автоматически 
+добавится к вашей заявке! https://utbs.ws/
+
+Клиентская поддержка: +380 94 711 31 60
+International support: +1 888 676 53 40
+

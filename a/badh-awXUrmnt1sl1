@@ -1,0 +1,256 @@
+Return-Path: <indianrailways@irctc.co.in>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <ashish_kumar@jcbl.com>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <awXUrmnt1sl1>
+X-Amavis-Alert: BAD HEADER SECTION Missing required header field: "Date"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id awXUrmnt1sl1 for <ashish_kumar@jcbl.com>;
+	Wed,  1 Aug 2018 14:57:04 +0530 (IST)
+Received: from smtp.irctc.co.in (smtp8.irctc.co.in [202.93.154.118])
+	by mx10.jcbl.com (Postfix) with ESMTP id CF1D71064EB4
+	for <ashish_kumar@jcbl.com>; Wed,  1 Aug 2018 14:57:01 +0530 (IST)
+Received: from 10.34.29.50 (unknown [10.34.20.54])
+	by smtp.irctc.co.in (Postfix) with SMTP id F2044380A0C
+	for <ashish_kumar@jcbl.com>; Wed,  1 Aug 2018 15:01:52 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 smtp.irctc.co.in F2044380A0C
+MIME-Version: 1.0
+Content-TYPE: text/html
+FROM:"Ministry of Railways, Government of India"<indianrailways@irctc.co.in>
+Subject:Railways to launch Shri Ramayana Express
+TO: ashish_kumar@jcbl.com
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width">
+    <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting">
+    <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    <title>Mobile App</title>
+    <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely
+removed. -->
+    <!-- Desktop Outlook chokes on web font references and defaults to
+Times New Roman, so we force a safe fallback font. -->
+    <!--[if mso]>
+        <style>
+            * {
+                font-family: sans-serif !important;
+            }
+        </style>
+    <![endif]-->
+    <!-- All other clients get the webfont reference; some will render the
+font and others will silently fail to the fallbacks. More on that
+here:
+http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link
+href='https://fonts.googleapis.com/css?family=Roboto:400,700'
+rel='stylesheet' type='text/css'> -->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <!-- CSS Reset : BEGIN -->
+    <style>
+        /* What it does: Remove spaces around the email design added by some
+email clients. */
+
+        /* Beware: It can remove the padding / margin and add a background
+color to the compose a reply window. */
+
+        html,
+        body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+
+        /* What it does: Stops email clients resizing small text. */
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* What it does: Centers email on Android 4.4 */
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        /* What it does: A work-around for email clients meddling in triggered
+links. */
+    </style>
+    <!-- CSS Reset : END -->
+    <!-- Progressive Enhancements : BEGIN -->
+    <style>
+        .footer_wrap {
+            width: 50%;
+            float: left;
+            margin: 5px 0;
+            text-align: center;
+        }
+
+        img.img-fluid {
+            width: 100%;
+            max-width: 600px;
+        }
+
+
+
+        /* Media Queries */
+
+        @media screen and (max-width: 576px) {
+
+            .footer_wrap {
+                width: 100%;
+                float: left;
+                margin: 5px 0;
+                text-align: center;
+            }
+
+        }
+    </style>
+    <!-- Progressive Enhancements : END -->
+    <!-- What it does: Makes background images in 72ppi Outlook render at
+correct size. -->
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <div style="max-width: 600px; width: 100%; margin: 0 auto;
+background:#f39023;">
+        <div style="padding:10px; text-align:center; font:13px arial;
+background:#fff;">Having trouble reading this email?
+            <a href="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/index.html">View in your Mobile/Web browser</a>
+        </div>
+        <div style="width:100%; text-align:center; position:relative;
+bottom:-3px; top:0;">
+            <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/01.jpg" alt="" border="0" class="img-fluid">
+        </div>
+        <div style="width:100%; overflow:hidden;">
+                <div style="width:35%; float:left;"><img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/02.jpg" alt="" border="0"
+class="img-fluid"></div>
+                <div style="width:30%; float:left;"><a target="_blank" href="https://twitter.com/PiyushGoyal/status/1014559913245278208"><img
+src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/03.jpg" alt="" border="0" class="img-fluid"></a></div>
+                <div style="width:35%; float:left;"><img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/04.jpg" alt="" border="0"
+class="img-fluid"></div>
+        </div>
+        <div style="background: #f5911e; height:20px; width:100%;"></div>
+        <div style="background:#852200; overflow:hidden;">
+            <span style="font-family:Arial; font-size:16px; color:#FFF;
+text-align:center; display: block; padding:5px 0;">Join Us</span>
+            <div style="border:2px solid #fff; border-radius:5px; margin:10px;
+overflow: hidden;">
+                <div class="footer_wrap">
+                    <a href="https://www.youtube.com/piyushgoyalofficial" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/yt.png" alt="youtube"
+                            width="28px" height="28px" style="vertical-align: middle;
+width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://www.instagram.com/piyushgoyalofficial/" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/insta.png" alt="instagram"
+                            width="28px" height="28px" style="vertical-align: middle;
+width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://medium.com/@piyushgoyalofficial" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/med.png" alt="medium"
+                            width="28px" height="28px" style="vertical-align: middle;
+width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://www.facebook.com/PiyushGoyalOfficial/" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/fb.png" alt="facebook"
+                            width="28px" height="28px" style="vertical-align: middle;
+width:28px;
+height:28px;">
+                        <span style=" font-family:sans-serif; font-size: 12px; color: #ffffff">/PiyushGoyalOfficial</span>
+                    </a>
+                </div>
+
+                <div class="footer_wrap">
+                    <a href="https://www.quora.com/profile/Piyush-Goyal" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/qu.png" alt="quora" width="28px"
+                            height="28px" style="vertical-align: middle;
+width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://twitter.com/PiyushGoyal" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/tw.png" alt="twitter"
+                            width="28px" height="28px" style="vertical-align: middle;
+width:28px; height:28px;">
+                        <span style=" font-family:sans-serif; font-size: 12px;
+color:#ffffff">&#64;PiyushGoyal</span>
+                    </a>
+                </div>
+
+                <div class="footer_wrap">
+                    <a href="http://www.piyushgoyal.in/" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/web.png" alt="web" width="28px"
+                            height="28px" style="vertical-align: middle;
+width:28px; height:28px;">
+                        <span style="font-family:sans-serif; font-size: 12px;
+color:#ffffff">www.piyushgoyal.in</span>
+                    </a>
+                </div>
+
+                <div class="footer_wrap">
+                    <a href="https://www.facebook.com/RailMinIndia/" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/fb.png" alt="Railmin facebook"
+                            width="28px" height="28px" style="vertical-align:
+middle;
+width:28px; height:28px;">
+                    </a>
+                    <a href="https://twitter.com/RailMinIndia" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/tw.png" alt="Railmin twitter"
+                            width="28px" height="28px" style="vertical-align:
+middle; width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://www.youtube.com/user/RailMinIndia" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/yt.png" alt="Railmin youtube"
+                            width="28px" height="28px" style="vertical-align:
+middle; width:28px;
+height:28px;">
+                    </a>
+                    <a href="https://www.instagram.com/railminindia/" target="_blank" style="text-decoration: none">
+                        <img src="https://www.services.irctc.co.in/images/mailers/RevisedRailwayto/images/insta.png" alt="Railmin instagram"
+                            width="28px" height="28px" style="vertical-align:
+middle;
+width:28px; height:28px;">
+                        <span style="font-family:sans-serif; font-size: 12px;
+color:#ffffff">/RailMinIndia</span>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+

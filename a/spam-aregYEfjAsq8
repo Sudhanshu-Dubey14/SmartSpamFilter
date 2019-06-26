@@ -1,0 +1,874 @@
+Return-Path: <bounce+384845.95326c-contact=mslindia.net@prime.btob-desk.com>
+Delivered-To: spam-quarantine
+X-Envelope-To: <jcbl@jcbl.com>
+X-Envelope-To-Blocked: <jcbl@jcbl.com>
+X-Quarantine-ID: <aregYEfjAsq8>
+X-Spam-Flag: YES
+X-Spam-Score: 7.626
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.626 tag=2 tag2=6.31 kill=6.31
+	tests=[DIGEST_MULTIPLE=0.001, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=0.365,
+	RAZOR2_CF_RANGE_E8_51_100=2.43, RAZOR2_CHECK=1.729,
+	T_DKIM_INVALID=0.01] autolearn=no
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aregYEfjAsq8 for <jcbl@jcbl.com>;
+	Tue, 12 Mar 2019 16:19:11 +0530 (IST)
+Received: from rs231.mailgun.us (rs231.mailgun.us [209.61.151.231])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 542BF1049CB5
+	for <contact@mslindia.net>; Tue, 12 Mar 2019 16:19:05 +0530 (IST)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=prime.btob-desk.com;
+ q=dns/txt; s=smtp; t=1552387820; h=Content-Transfer-Encoding:
+ Content-Type: List-Unsubscribe: MIME-Version: Reply-To: From: Date:
+ Message-ID: Subject: To: Sender;
+ bh=2XFpSPeepVomV3cntfEUHw44BazYatCyhmGEJpDAkm8=; b=kIQycoMYecefgNh7vyFBTQLzetOAYKywo6Uve1fsRHp0t8SR8x9VX6QsoUVsYGQ/Q9OxTbxO
+ SOjAzIFkTU6rFjAtRXMeFkOOmH+j8cgRx4PRqV+bxovRCtwBxmm/WbmeqkIymTgdZ1KUYQ9o
+ W064BEdQhRH6UdUrk++0v32Qudc=
+X-Mailgun-Sending-Ip: 209.61.151.231
+X-Mailgun-Sid: WyJmMDcwNyIsICJjb250YWN0QG1zbGluZGlhLm5ldCIsICI5NTMyNmMiXQ==
+Sender: info=btob-desk.com@prime.btob-desk.com
+Received: from emailhubpro.com (ns3059883.ip-213-32-7.eu [213.32.7.203])
+ by mxa.mailgun.org with ESMTP id 5c878ee7.7f6d5d6b06c0-smtp-out-n01;
+ Tue, 12 Mar 2019 10:50:15 -0000 (UTC)
+To: contact@mslindia.net
+Subject: =?UTF-8?B?QmVzb2luIGQndW4gYWNjw6hzIGhhdXQgZMOpYml0ID8=?=
+Message-ID: <d25d9aaa9b5abad83f9d7edde11b9ed1@btob-desk.com>
+Date: Tue, 12 Mar 2019 08:12:48 +0000
+From: "Routeur 4G entreprises" <info@btob-desk.com>
+Reply-To: replay@btob-desk.com
+MIME-Version: 1.0
+X-Mailer-LID: 6,7,8
+List-Unsubscribe: <http://btob-desk.com/WeuPU187715-QYrWa58f79e2ee28b00a5485651ffea89a35/ALXH6/Dgqm19.html>
+X-Mailer-RecptId: 187715
+X-Mailer-SID: 19
+X-Mailer-Sent-By: 4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head><title>&nbsp;</title><base target="_blank"></head><body
+marginwidth=0 marginheight=0 leftmargin=0 topmargin=0 rightmargin=0>
+<table style="border-collapse: collapse !important; width: 600px;"
+cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr style="border-collapse: collapse !important;">
+<td style="border-collapse: collapse
+!important; padding: 5px; text-align: center;" width="auto"><a
+href="http://btob-desk.com/1xddD187715.1fSQa58f79e2ee28b00a5485651ffea89a35_S48q19_BtZN6-dBmi13.html"
+style="border: none; color: #000; text-decoration: underline; font-family:
+Arial,Helvetica,sans-serif; font-size: 11px; text-align: center;
+font-weight: bold;">Version en
+ligne</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a
+href="http://btob-desk.com/oxFlL187715.ihw019.Dllt2.SIdxH.html"
+style="border: none; color: #000; text-decoration: underline; font-family:
+Arial,Helvetica,sans-serif; font-size: 11px; text-align: center;
+font-weight: bold;">Abuse Report</a></td>
+</tr>
+</tbody>
+</table>
+<center><!--[if (gte mso 9)|(IE)]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!--[if gte mso 9]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!--[if gte mso 8]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!--[if gte mso 7]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td>
+<table style="table-layout: fixed; width: 100%;" cellspacing="0"
+cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr style="color: #888888; font-size: 9px; text-align: center;">
+<td>Ne perdez plus une minute et venez tester notre Routeur 4G Entreprises.
+<a href="http://btob-desk.com/b1XuL187715.DzdM19-tJH962.u1TbH.html"
+style="color: #0183ba;">En savoir plus.</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- CONTENU -->
+<tr>
+<td>
+<table style="width: 100%; max-width: 600px; text-align: center;"
+cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF"
+align="center">
+<tbody>
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center"><a
+href="http://btob-desk.com/1AtSL187715/P5OX19_HDEQ62.ty3TH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/logo-BouyguesEntreprises.jpg"
+alt="Bouygues Entreprises" borer="0" width="178" /></a></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: 25px; font-weight: bold;
+color: #153b60;">Routeur 4G entreprises </span> <br /><span
+style="font-family: Arial; font-size: 20px; color: #153b60;">Un
+acc&egrave;s au tr&egrave;s haut d&eacute;bit, o&ugrave; que vous
+soyez&thinsp;!</span></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; max-width: 600px;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+<tbody>
+<tr>
+<td class="two-column" style="text-align: center; font-size: 0; width:
+100%; max-width: 600px;"><!--[if (gte mso 9)|(IE)]>
+                        <table width="100%"
+style="border-spacing:0;font-family:sans-serif;color:#333333;" border="0"
+cellpadding="0" cellspacing="0" >
+                        <tr>
+                        <td width="300" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+	  <![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; text-align: center; max-width: 300px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td style="padding: 0;" align="center"><a
+href="http://btob-desk.com/mCSeL187715_v8NV19.MKZp62-SjurH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/routeur.jpg"
+alt="Routeur 4G" width="300" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                        </td><td width="300" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+	  <![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; text-align: center; max-width: 300px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="50"></td>
+<td height="23"></td>
+<td width="50"></td>
+</tr>
+<tr>
+<td width="50"></td>
+<td style="padding: 0;"><a
+href="http://btob-desk.com/cvghL187715.PARf19.f8O262.pD2RH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/3moisdessai.jpg"
+alt="3 mois d'essai sans engagement" width="145" border="0" /></a></td>
+<td width="50"></td>
+</tr>
+<tr>
+<td width="50"></td>
+<td height="25"></td>
+<td width="50"></td>
+</tr>
+<tr>
+<td width="50"></td>
+<td style="padding: 0;"><a
+href="http://btob-desk.com/VFJvL187715.MQ8X19/UvxP62/yzRuH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/cta.jpg"
+alt="Je profite de l'offre" width="195" border="0" /></a></td>
+<td width="50"></td>
+</tr>
+<tr>
+<td width="50"></td>
+<td height="30" align="center"><span style="font-family: Arial, Helvetica,
+sans-serif; font-size: 12px; font-weight: bold; color: #153b60;">A partir
+de 5 salari&eacute;s </span></td>
+<td width="50"></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+      <![endif]--></td>
+</tr>
+<tr>
+<td height="30"></td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; max-width: 600px;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%; max-width: 515px;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+<tbody>
+<tr>
+<td width="10"></td>
+<td><span style="font-family: Arial; font-size: 15px; font-weight: bold;
+color: #153b60; text-transform: uppercase;">Vous n'&ecirc;tes pas
+&eacute;ligible &agrave; la fibre ?</span></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="20"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td>
+<table style="width: 200px; height: 1px;" cellspacing="0" cellpadding="0"
+border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td width="200" height="1" bgcolor="#153b60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="20"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td><span style="font-family: Arial; font-size: 14px; color:
+#153b60;">B&eacute;n&eacute;ficiez des m&ecirc;mes avantages o&ugrave; que
+vous soyez, gr&acirc;ce &agrave; notre routeur 4G</span></td>
+<td width="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; max-width: 600px;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#f2f2f2" align="center"><!-- ARGUS -->
+<tbody>
+<tr>
+<td>
+<table style="width: 100%; max-width: 600px;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#f2f2f2" align="center">
+<tbody>
+<tr>
+<td class="four-column" style="text-align: center; font-size: 0; width:
+100%; max-width: 600px;"><!--[if (gte mso 9)|(IE)]>
+								<table width="100%"
+style="border-spacing:0;font-family:sans-serif;color:#333333;" border="0"
+cellpadding="0" cellspacing="0" >
+								<tr>
+								<td width="270" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 270px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0;" height="21" align="center"></td>
+</tr>
+<tr>
+<td style="padding: 0;">
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding: 0;" align="center"><a
+href="http://btob-desk.com/rrJFL187715_9a9p19/tYp562_GmZgH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/icone-1.png"
+width="50" border="0" /></a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td style="padding: 0;" align="left"><span style="font-family: Arial;
+font-size: 13px; color: #153b60; font-weight: bold;"> Facile et rapide
+&agrave; installer : </span></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 270px; height: 1px;" cellspacing="0" cellpadding="0"
+border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td width="270" height="1" bgcolor="#153b60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td align="left"><span style="font-family: Arial; font-size: 12px; color:
+#000000;"> pas besoin de ligne t&eacute;l&eacute;phonique, branchez-le et
+profitez instantan&eacute;ment d'un acc&egrave;s internet sans fil simple
+et performant. </span></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="38"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td><td width="20" class="hide" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="hide" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 20px; display: inline-block;
+vertical-align: top; margin-top: 0; margin-bottom: 0;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#f2f2f2">
+<tbody>
+<tr>
+<td width="20" bgcolor="#f2f2f2"></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td><td width="270" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 270px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0;" height="21" align="center"></td>
+</tr>
+<tr>
+<td style="padding: 0;">
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding: 0;" align="center"><a
+href="http://btob-desk.com/YOsCL187715.UBhE19-gXFP62-1I4xH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/icone-2.png"
+width="65" border="0" /></a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td style="padding: 0;" align="left"><span style="font-family: Arial;
+font-size: 13px; color: #153b60; font-weight: bold;"> Performant :
+</span></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 270px; height: 1px;" cellspacing="0" cellpadding="0"
+border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td width="270" height="1" bgcolor="#153b60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td align="left"><span style="font-family: Arial; font-size: 12px; color:
+#000000;"> b&eacute;n&eacute;ficiez d'un acc&egrave;s internet tr&egrave;s
+haut d&eacute;bit comparable &agrave; l'exp&eacute;rience fibre gr&acirc;ce
+&agrave; la qualit&eacute; et la puissance du r&eacute;seau 4G/4G+ de
+Bouygues Telecom. Jusqu'&agrave; 64 appareils connect&eacute;s en
+simultan&eacute;s. </span></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+<td width="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td>
+								</tr>
+								</table>
+				<![endif]--></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td class="four-column" style="text-align: center; font-size: 0; width:
+100%; max-width: 600px;"><!--[if (gte mso 9)|(IE)]>
+								<table width="100%"
+style="border-spacing:0;font-family:sans-serif;color:#333333;" border="0"
+cellpadding="0" cellspacing="0" >
+								<tr>
+								<td width="270" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 270px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0;" height="10" align="center"></td>
+</tr>
+<tr>
+<td style="padding: 0;">
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding: 0;" align="center"><a
+href="http://btob-desk.com/D4jCL187715-09wT19/YbSD62_yMLRH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/icone-3.png"
+width="70" border="0" /></a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td style="padding: 0;" align="left"><span style="font-family: Arial;
+font-size: 13px; color: #153b60; font-weight: bold;"> Pr&eacute;voyez
+l'impr&eacute;visible : </span></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 270px; height: 1px;" cellspacing="0" cellpadding="0"
+border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td width="270" height="1" bgcolor="#153b60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td align="left"><span style="font-family: Arial; font-size: 12px; color:
+#000000;"> en configuration de backup, il prendra automatiquement le relais
+de votre acc&egrave;s VPN ou Internet en cas de panne de votre installation
+filaire. </span></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="15"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td><td width="20" class="hide" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="hide" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 20px; display: inline-block;
+vertical-align: top; margin-top: 0; margin-bottom: 0;" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#f2f2f2">
+<tbody>
+<tr>
+<td width="20" bgcolor="#f2f2f2"></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td><td width="270" valign="top"
+style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+				<![endif]-->
+<table class="column" style="border-spacing: 0; font-family: sans-serif;
+color: #ffffff; text-align: center; max-width: 270px; display:
+inline-block; vertical-align: top; margin-top: 0; margin-bottom: 0;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0;" height="10" align="center"></td>
+</tr>
+<tr>
+<td style="padding: 0;">
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #ffffff; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="padding: 0;" align="center"><a
+href="http://btob-desk.com/1V78L187715_6WLL19_HiER62.0EVXH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/icone-4.png"
+width="65" border="0" /></a></td>
+</tr>
+<tr>
+<td height="8"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td style="padding: 0;" align="left"><span style="font-family: Arial;
+font-size: 13px; color: #153b60; font-weight: bold;"> Accessible partout en
+France : </span></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style="width: 270px; height: 1px;" cellspacing="0" cellpadding="0"
+border="0" bgcolor="#153b60">
+<tbody>
+<tr>
+<td width="270" height="1" bgcolor="#153b60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="contents" style="border-spacing: 0px; font-family:
+sans-serif; color: #153b60; font-size: 14px; text-align: center; width:
+270px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="10"></td>
+<td height="10"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td align="left"><span style="font-family: Arial; font-size: 12px; color:
+#000000;"> gr&acirc;ce au grand r&eacute;seau national 4G de Bouygues
+Telecom : 95% de la population couverte en 4G. </span></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td width="10"></td>
+<td height="28"></td>
+<td width="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+								</td>
+								</tr>
+								</table>
+				<![endif]--></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN ARGUS -->
+<tr>
+<td>
+<table style="text-align: center; width: 100%; max-width: 600px;"
+cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://btob-desk.com/mo5gL187715-fr2F19.2bu862_mCUSH.html"
+target="_blank"><img
+src="https://vht.tradedoubler.com/file/278612/1018_5sals/images/cta-2.png"
+style="max-width: 276px; width: 100%;" alt="En savoir plus sur le routeur
+4G" border="0" /></a></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN CONTENU --> <!-- FOOTER -->
+<tr>
+<td height="20"></td>
+</tr>
+<tr style="font-size: 9px; font-family: Arial; text-align: center; color:
+#888888;">
+<td>* &agrave; d&eacute;faut de r&eacute;siliation dans les 90 jours
+suivants l'activation du service, votre contrat se poursuit jusqu'au terme
+de sa dur&eacute;e <br />d'engagement de 24 mois. Les &eacute;quipements
+(routeur, SIM) doivent &ecirc;tre restitu&eacute;s en cas de
+r&eacute;siliation, &agrave; d&eacute;faut, vous serez factur&eacute;s <br
+/>d'une somme forfaitaire de 169&euro; HT.</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<!-- FIN FOOTER --></tbody>
+</table>
+<!-- FIN BLOC 2 --> <!--[if gte mso 7]>
+</td></tr></table>
+<![endif]--> <!--[if gte mso 8]>
+</td></tr></table>
+<![endif]--> <!--[if gte mso 9]>
+</td></tr></table>
+<![endif]--> <!--[if (gte mso 9)|(IE)]>
+</td></tr></table>
+<![endif]--></center>
+<div style="text-align: center;">
+<p><font style="font-size: 11px;" face="arial" color="#666666"> Vous
+recevez une communication reserv&eacute;e aux entreprises en tant
+qu'enregistr&eacute; sur les bases BusinessNews, <br /> pour ne plus
+recevoir des communications vous pouvez vous d&eacute;sinscrire <a
+href="http://btob-desk.com/iy5NU187715/gr7ja58f79e2ee28b00a5485651ffea89a35-IbZv6.L7vr19.html"
+target="_blank">en cliquant ici</a></font></p>
+</div>
+<img src="http://btob-desk.com/eMpPO187715-qCo66_atlC19.tj5YH.jpg"
+height="1" width="10"></body></html>
+

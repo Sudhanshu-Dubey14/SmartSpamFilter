@@ -1,0 +1,1042 @@
+Return-Path: <Pushkin.Jain@hdfcbank.com>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <edp_ambala@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <ay5FBQC__pDQ>
+X-Amavis-Alert: BAD HEADER SECTION Header field occurs more than once:
+	"MIME-Version" occurs 3 times
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ay5FBQC__pDQ for <edp_ambala@globeauto.in>;
+	Fri, 30 Sep 2016 21:38:03 +0530 (IST)
+Received: from antispam13.softcell.in (relay8.hdfcbank.com [202.154.164.108])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 9A65261416
+	for <edp_ambala@globeauto.in>; Fri, 30 Sep 2016 21:38:01 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; d=hdfcbank.com; s=corp; c=relaxed/simple;
+	q=dns/txt; i=@hdfcbank.com; t=1475251882;
+	h=From:Sender:Reply-To:Subject:Date:Message-ID:To:Cc:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=1m6qYyqhJ+4Bhoy9qZIlFO8Eb8uB5wjE7QaInUE/YwE=;
+	b=o8CBQPqlQAJueBykcKnKH321q5tgFai7YHwYkFGPaE4ttOW5kKkJke4AghwL4FNh
+	evHeJTIg7WuuG5T14xjepxcezSUG0mYK2bCuvNmZl8O9x/beEeiYjGN2qbao4bdK
+	lm4cDDuYdVokeXmqJhVBxQz5yH5NZNeDUimdHd5TnRc=;
+X-AuditID: ca9aa00d-4e71a980000048a2-89-57ee8bab3a5c
+Received: from hbchaha10.hdfcbank.com (hbchaha10.hdfcbank.com [175.100.160.48])
+	by  (Symantec Messaging Gateway) with SMTP id 1D.C7.18594.BAB8EE75; Fri, 30 Sep 2016 21:28:35 +0530 (IST)
+Message-ID: <OF32F62C41.84538C05-ON6525803E.00501484-1475246083317@hdfcbank.com>
+Date: Fri, 30 Sep 2016 20:04:43 +0530
+To: edp_ambala@globeauto.in
+From: Pushkin.Jain@hdfcbank.com
+MIME-Version: 1.0
+Subject: Fwd: Disbursal Advice for LOS No 42596985
+X-Mailer: IBM Traveler 9.0.1.12 Build 201608041152_40 on server HBTRAVELER2/SVR/HBL
+ on behalf of device with id wor...356, type 410 (ios) and description
+ Apple-iPhone WorxMail:Apple-iPhone WorxMail/10.3.10-12 (XIAOMIREDMINOTE3; 5.1.1) (OS
+ 3)
+X-KeepSent: 32F62C41:84538C05-6525803E:00501484;
+ type=4; name=$KeepSent
+X-MIMETrack: Itemize by nTRAVELER.EXE on HBTRAVELER2/SVR/HBL(Release 9.0.1FP6|April  20, 2016) at
+ 30-09-2016 20:04:43,
+	Serialize by Router on HBCHAHA10/SVR/HBL(Release 9.0.1FP4 HF70|July 07, 2015) at
+ 30-09-2016 21:28:20
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	 boundary="--_com.citrix.email_282264550689108"
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrOIsWRmVeSWpSXmKPExsWyPmWBge6qvnfhBgt2i1ncXHGd2YHRo2nz
+	XqYAxqgGRpvEvLz8ksSSVIWU1OJkW6WUzOLknMTM3NSieCMTc3MTQyWFzBRbJUMDJYWCnMTk
+	1NzUvBJbpcSCgtS8FCU7LgUMYANUlpmnkJqXnJ+SmZduq+QZ7K9rYWFqqWuoZBePARI+C2Uc
+	vKJUcKWLuWLh4XaWBsbtX5i6GDk5JARMJNYvuMbWxcjFISSwm1HizJePrCAJXoEAiRcPn7GA
+	2CwCqhJvvr4AKuLgEBGQlnh3Ig0kzCYgL7FhzzOockGJkzOfgJULCxhJzDs5gRlkpoTAd0aJ
+	+3camCGWeUqs+DgdKvGQUaJ79SpGdN3IbGagI2Y2fGCZwMg3C0kKHxumBcIOk5jXCmOrS/yZ
+	d4kZwtaWWLbwNZDNAWSrSSxrVUIVBrFtJHqm72CFGdP3/w87hK0oMaX7IfsCRp5VjGKJeSWZ
+	xQWJuYbGesX5aSXJqTk5epl5mxiB6eHUrAW8Oxh3t7scYhTgYFTi4TUtfRcuxJpYVlyZe4jR
+	FBimE5mlRJPzgUkoryTe0NjS1NLQwNDSzMzETEmcV177UbiQQDowwWSnphYAU0lRaU5q8SFG
+	Jg5OqQZGw5YmDuuHVVWuCvri0rYP7/v6/j68+UIeu/vpne9XsNmpNyd7+LboZceLKRXeeDAj
+	6k+J387jyy6/6L3huvAPt8qbV9yZGUIiOsc+3p/bZyVz5etxCaeZu4VP3A6QSpU7Nsuj4tip
+	vRX6H97mHdJZ8TFuk7p+SRdbbrRa0hcRZ4/CS0tZqyYosRRnJBpqMRcVJwIAvykMnAoDAAA=
+
+
+----_com.citrix.email_282264550689108
+Content-Type: multipart/alternative;
+	 boundary="--_com.citrix.email_282264552707339"
+
+
+
+----_com.citrix.email_282264552707339
+Content-Type: text/plain; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+=0A=
+=0A=
+Regards=0A=
+Pushkin JainFrom: Pushkin Jain =0A=
+Sent: Friday 30 September 2016 7:52 pm=0A=
+To: del_globe amb =0A=
+Subject: Fwd: Disbursal Advice for LOS No 42596985=0A=
+=0A=
+From: Pushkin Jain =0A=
+Sent: Friday 30 September 2016 7:52 pm=0A=
+To: del_globe amb =0A=
+Subject: Fwd: Disbursal Advice for LOS No 42596985=0A=
+=0A=
+File is disbursed=0A=
+=0A=
+=0A=
+Regards=0A=
+=0A=
+Pushkin Jain=0A=
+=0A=
+From: Emailstatements las =0A=
+Sent: Friday 30 September 2016 6:30 pm=0A=
+To: fin_globechd@globeauto.in=0A=
+CC: pushkin.jain@hdfcbank.com,mayank.jain@autowebindia.com=0A=
+Subject: Disbursal Advice for LOS No 42596985=0A=
+=0A=
+Dear <!-- /* Font Definitions */ @font-face 	{font-family:Helv; 	panose-1:2=
+ 11 6 4 2 2 2 3 2 4; 	mso-font-alt:Arial; 	mso-font-charset:0; 	mso-generic-=
+font-family:swiss; 	mso-font-format:other; 	mso-font-pitch:variable; 	mso-fo=
+nt-signature:3 0 0 0 1 0;} @font-face 	{font-family:Calibri; 	mso-font-alt:"=
+Times New Roman"; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-f=
+ont-pitch:auto; 	mso-font-signature:0 0 0 0 0 0;} /* Style Definitions */ p.=
+MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-parent:""; 	margin:0in; =
+	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	text-autospace:ideogr=
+aph-numeric; 	font-size:11.0pt; 	font-family:"Times New Roman"; 	mso-fareast=
+-font-family:"Times New Roman"; 	font-weight:bold;} a:link, span.MsoHyperlin=
+k 	{color:blue; 	text-decoration:underline; 	text-underline:single;} a:visit=
+ed, span.MsoHyperlinkFollowed 	{color:purple; 	text-decoration:underline; 	t=
+ext-underline:single;} span.SpellE 	{mso-style-name:""; 	mso-spl-e:yes;} spa=
+n.GramE 	{mso-style-name:""; 	mso-gram-e:yes;} @page Section1 	{size:8.5in 1=
+1.0in; 	margin:1.0in 1.25in 1.0in 1.25in; 	mso-header-margin:.5in; 	mso-foot=
+er-margin:.5in; 	mso-paper-source:0;} div.Section1 	{page:Section1;} --> =
+=0A=
+=0A=
+Dear GLOBE AUTOMOBILES PVT LTD =0A=
+=0A=
+Greetings from HDFC Bank!!!=0A=
+=0A=
+This is to inform you that we have disbursed the loan of SAARTHAK REFRIGERAT=
+ION =0A=
+=0A=
+Details of disbursement are attached in the advice below.=0A=
+=0A=
+Loan No: 42596985 =0A=
+=0A=
+Customer Name: SAARTHAK REFRIGERATION =0A=
+=0A=
+Model: INNOVA CRYSTA VX =0A=
+=0A=
+Manufacturer Name: TOYOTA KIRLOSKAR MOTORS INDIA LTD. =0A=
+=0A=
+Attachment - DARO=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+Please send the following Documents to our office immediately on delivery of=
+ Vehicle. =0A=
+=0A=
+=C2=A0=0A=
+=0A=
+1. Original Invoice=0A=
+=0A=
+2. Photocopy of RC Book.=0A=
+=0A=
+3. Copy of Comprehensive Insurance Cover Note.=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+Please acknowledge a copy of this letter. Please refer our Dealer Agreement=
+ signed with you for terms and conditions.=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+Please ignore this mail if you have already received an advice for Loan No :=
+ < xxxxxx >.=0A=
+=0A=
+This is a computer generated advice and hence does not require any signature=
+. =0A=
+=0A=
+Please do not reply to this mail, for any clarifications:=0A=
+=0A=
+Email us at - loansupport@hdfcbank.com=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Instructi=
+ons for Opening the Disbursal Advice:=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+Click on the attachment provided with this mail. You will be prompted for yo=
+ur password. =0A=
+=0A=
+The 12 character password is a combination of the first 4 characters of your=
+ Dealer name and the Loan No.=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+For instance,=0A=
+=0A=
+If the Dealer / Agency name is ABC PVT LTD and Loan No - 12345678, then the=
+ password would be abcp12345678=0A=
+=0A=
+If the Dealer / Agency name is AB PVT LTD and Loan No - 12345678, then the p=
+assword would be abpv12345678=0A=
+=0A=
+If the Dealer / Agency name is A C PVT LTD and Loan No - 12345678, then the=
+ password would be acpv12345678=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+Warm regards,=0A=
+=0A=
+HDFC Bank Ltd.=0A=
+=0A=
+=C2=A0=0A=
+=0A=
+
+
+____________________________________________
+
+
+Disclaimer:
+"The information contained herein (including any accompanying documents) is=
+ confidential and is intended solely for the addressee(s). If you have erron=
+eously received this message, please immediately delete it and notify the se=
+nder. Also, if you are not the intended recipient, you are hereby notified t=
+hat any disclosure, copying, distribution or taking any action in reliance o=
+n the contents of this message or any accompanying document is strictly proh=
+ibited and is unlawful. The organization is not responsible for any damage c=
+aused by a virus or alteration of the e-mail by a third party or otherwise.
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, Lower P=
+arel (W), Mumbai - 400 013. "
+
+----_com.citrix.email_282264552707339
+Content-Type: text/html; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+<div dir=3D"ltr"></div>=0A=
+<br>=0A=
+<div dir=3D"ltr"><font color =3D"#000000">Regards</font></div>=0A=
+<div dir=3D"ltr"><font color =3D"#000000">Pushkin Jain</font></div>=0A=
+=0A=
+=0A=
+<hr/><b>From:</b> <xliff:g id=3Dsender>Pushkin Jain <Pushkin.Jain@hdfcbank.c=
+om></xliff:g><br/><b>Sent:</b> <xliff:g id=3Dsent>Friday 30 September 2016 7=
+:52 pm</xliff:g><br/><b>To:</b> <xliff:g id=3Dto>del_globe amb <ZGVsX2dsb2Jl=
+IGFtYkBnbG9iZWF1dG8uIGlu@lnt.noninternet.sub></xliff:g><br/><b>Subject:</b>=
+ <xliff:g id=3Dsubject>Fwd: Disbursal Advice for LOS No 42596985</xliff:g><b=
+r/><br/><div dir=3D"ltr"><font color =3D"#000000">File is disbursed</font></=
+div>
+<br>
+<div dir=3D"ltr"><font color =3D"#000000">Regards</font></div>
+<div dir=3D"ltr"><font color =3D"#000000">Pushkin Jain</font></div>
+
+
+<hr/><b>From:</b> <xliff:g id=3Dsender>Emailstatements las <emailintimation.=
+mail@hdfcbank.net></xliff:g><br/><b>Sent:</b> <xliff:g id=3Dsent>Friday 30 S=
+eptember 2016 6:30 pm</xliff:g><br/><b>To:</b> <xliff:g id=3Dto>fin_globechd=
+@globeauto.in</xliff:g><br/><b>CC:</b> <xliff:g id=3Dcc>pushkin.jain@hdfcban=
+k.com,mayank.jain@autowebindia.com</xliff:g><br/><b>Subject:</b> <xliff:g id=
+=3Dsubject>Disbursal Advice for LOS No 42596985</xliff:g><br/><br/><html xml=
+ns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-1252=
+">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"Dealer_files/filelist.xml">
+<title>Dear </title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helv;
+	panose-1:2 11 6 4 2 2 2 3 2 4;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	text-autospace:ideograph-numeric;
+	font-size:11.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify'><span
+style=3D'font-family:Calibri;font-weight:normal'>Dear GLOBE AUTOMOBILES PVT=
+ LTD </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Greetings from=
+ HDFC
+Bank!!!</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>This is to info=
+rm
+you that we have disbursed the loan of SAARTHAK REFRIGERATION <span class=3D=
+GramE></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Details of
+disbursement are attached in the advice below.</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Loan No: 425969=
+85 </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Customer Name:=
+ SAARTHAK REFRIGERATION </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Model: INNOVA C=
+RYSTA VX </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Manufacturer Na=
+me: TOYOTA KIRLOSKAR MOTORS INDIA LTD. </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>Attachment - DARO=
+</span></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D635 style=3D'width:476.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+'>&nbsp;</span></p>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid'>=
+<span
+  style=3D'font-size:7.0pt;font-family:Arial'>Please send the following Docu=
+ments
+  to our office immediately on delivery of Vehicle.</span><span
+  style=3D'font-size:10.0pt;font-family:Helv;font-weight:normal'> </span><sp=
+an
+  style=3D'font-size:4.0pt;font-family:Helv;font-weight:normal'><o:p></o:p><=
+/span></p>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid'>=
+<span
+  style=3D'font-size:4.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D635 style=3D'width:476.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span style=3D'font-size:7.0pt;font-family:Arial;
+  font-weight:normal'>1. Original Invoice</span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D635 style=3D'width:476.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span style=3D'font-size:7.0pt;font-family:Arial;
+  font-weight:normal'>2. Photocopy of RC Book.</span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td width=3D635 style=3D'width:476.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span style=3D'font-size:7.0pt;font-family:Arial;
+  font-weight:normal'>3. Copy of Comprehensive Insurance Cover Note.</span><=
+span
+  style=3D'font-size:4.0pt;font-family:Arial;font-weight:normal'><o:p></o:p>=
+</span></p>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span style=3D'font-size:4.0pt'><o:p>&nbsp;</o:p></=
+span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td width=3D635 style=3D'width:476.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal style=3D'text-indent:35.25pt;page-break-after:avoid;
+  layout-grid-mode:char'><span style=3D'font-size:7.0pt;font-family:Arial;
+  font-weight:normal'>Please acknowledge a copy of this letter. Please refer
+  our Dealer Agreement signed with you for terms and conditions.</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&n=
+bsp;</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Please ignore t=
+his
+mail if you have already received an advice for Loan No : &lt; <span
+class=3DSpellE>xxxxxx</span> &gt;.</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>This is a compu=
+ter
+generated advice and hence does not require any signature. </span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Please do not r=
+eply to
+this mail, for any clarifications:</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Email us at - <=
+/span><span
+lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'><a
+href=3D"mailto:loansupport@hdfcbank.com"><span lang=3DEN-US style=3D'font-fa=
+mily:
+Arial;color:windowtext;mso-ansi-language:EN-US'>loansupport@hdfcbank.com</sp=
+an></a><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'><o:p>&nbsp;</o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'tab-stops:-.5in 0in .5in 1.0in 1.5in 2.0in 2.5=
+in 3.0in;
+mso-layout-grid-align:none;text-autospace:none'><span style=3D'font-size:10.=
+0pt;
+font-family:Helv;mso-bidi-font-family:Helv;mso-bidi-font-weight:normal'><spa=
+n
+style=3D'mso-tab-count:1'>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0 </span><u>Instructions for Opening the
+Disbursal Advice:<o:p></o:p></u></span></p>
+
+<p class=3DMsoNormal style=3D'tab-stops:-.5in 0in .5in 1.0in 1.5in 2.0in 2.5=
+in 3.0in;
+mso-layout-grid-align:none;text-autospace:none'><u><span style=3D'font-size:=
+10.0pt;
+font-family:Helv;mso-bidi-font-family:Helv;mso-bidi-font-weight:normal'><o:p=
+><span
+ style=3D'text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Click on the at=
+tachment
+provided with this mail. You will be prompted for your password. <o:p></o:p>=
+</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>The 12 characte=
+r
+password is a combination of the first 4 characters of your Dealer name and=
+ the
+Loan No.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'><o:p>&nbsp;</o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>For instance,<o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>If the Dealer /
+Agency name is ABC PVT LTD and Loan No - 12345678, then the password would b=
+e
+abcp12345678<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>If the Dealer /
+Agency name is AB PVT LTD and Loan No - 12345678, then the password would be
+abpv12345678<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>If the Dealer /
+Agency name is A C PVT LTD and Loan No - 12345678, then the password would b=
+e
+acpv12345678<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;text-align:justify;text-i=
+ndent:
+.5in'><span style=3D'font-family:Calibri;font-weight:normal'>Warm regards,</=
+span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'><span style=3D'font-size:12.=
+0pt;
+font-weight:normal'>HDFC Bank Ltd.</span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&n=
+bsp;</span></p>
+
+</div>
+
+<!doctype html>
+<html>
+<head>
+<meta charset=3D"utf-8">
+<title>HDFC Bank</title>
+</head>
+
+<body>
+<a href=3D"http://www.hdfcbank.com/htdocs/digital-campaign/digital.html?utm_=
+source=3DEmail_Signature&utm_medium=3DEmail&utm_term=3DRange&utm_campaign=3D=
+BAMM" style=3D"outline:none" target=3D"_blank"><img src=3D"http://mailer.hdf=
+cbank.com/campaign/Aug16/Signature/images/signoff.gif" width=3D"728" height=
+=3D"90" alt=3D""/></a>
+<br>________________________________________________________________________=
+___________________<br>Disclaimer:<br>
+"The information contained herein (including any accompanying documents) is=
+ confidential and is intended solely for the addressee(s). If you have erron=
+eously received this message, please immediately delete it and notify the se=
+nder. Also, if you are not the intended recipient, you are hereby notified t=
+hat any disclosure, copying, distribution or taking any action in reliance o=
+n the contents of this message or any accompanying document is strictly proh=
+ibited and is unlawful. The organization is not responsible for any damage c=
+aused by a virus or alteration of the e-mail by a third party or otherwise.<=
+br>
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, Lower P=
+arel (W), Mumbai - 400 013. "
+</body>
+</html>
+</body>
+
+</html>
+
+----_com.citrix.email_282264552707339--
+
+----_com.citrix.email_282264550689108
+Content-Type: application/pdf;
+ name="Disbursal Advice.pdf"
+Content-Disposition: attachment;
+	
+ filename="Disbursal Advice.pdf";
+	
+ size=23788
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQNCiXi48/TDQoxIDAgb2JqDQo8PCAvVHlwZSAvQ2F0YWxvZw0KL1BhZ2VzIDIgMCBS
+DQo+Pg0KZW5kb2JqDQoyIDAgb2JqDQo8PCAvVHlwZSAvUGFnZXMNCi9LaWRzIFsxMCAwIFIgMTMg
+MCBSIF0NCi9Db3VudCAyDQo+Pg0KZW5kb2JqDQozIDAgb2JqDQo8PCAvQ3JlYXRvciAovNGM4ANa
+3UWU37bojnWTE22nmcnbJD9yFhSFGLDWdhBUTx7AVPJUx2b1gJlnhebzUX6dce3/DI198ZjUQoh4
+ppH2qKArJ//FKQ0KL1Byb2R1Y2VyICiy2YHyI1bDC7QpDQo+PiBlbmRvYmoNCjQgMCBvYmoNCjw8
+IC9UeXBlIC9Gb250DQovU3VidHlwZSAvVHlwZTENCi9OYW1lIC9BU0ZfMQ0KL0Jhc2VGb250IC9U
+aW1lcy1Cb2xkDQo+Pg0KZW5kb2JqDQo1IDAgb2JqDQo8PCAvVHlwZSAvRm9udA0KL1N1YnR5cGUg
+L1R5cGUxDQovTmFtZSAvQVNGXzINCi9CYXNlRm9udCAvSGVsdmV0aWNhDQo+Pg0KZW5kb2JqDQo2
+IDAgb2JqDQo8PCAvVHlwZSAvRm9udA0KL1N1YnR5cGUgL1R5cGUxDQovTmFtZSAvQVNGXzMNCi9C
+YXNlRm9udCAvSGVsdmV0aWNhLUJvbGQNCj4+DQplbmRvYmoNCjcgMCBvYmoNCjw8IC9UeXBlIC9G
+b250DQovU3VidHlwZSAvVHlwZTENCi9OYW1lIC9BU0ZfNA0KL0Jhc2VGb250IC9UaW1lcy1Sb21h
+bg0KPj4NCmVuZG9iag0KIDggMCBvYmoNCjw8IC9UeXBlIC9Gb250DQovU3VidHlwZSAvVHlwZTEN
+Ci9OYW1lIC9BU0ZfNQ0KL0Jhc2VGb250IC9UaW1lcy1JdGFsaWMNCj4+DQplbmRvYmoNCiA5IDAg
+b2JqDQo8PCAvVHlwZSAvRm9udA0KL1N1YnR5cGUgL1R5cGUxDQovTmFtZSAvQVNGXzYNCi9CYXNl
+Rm9udCAvVGltZXMtQm9sZEl0YWxpYw0KPj4NCmVuZG9iag0KMTAgMCBvYmoNCjw8IC9UeXBlIC9Q
+YWdlDQovUGFyZW50IDIgMCBSDQovQ29udGVudHMgWyAxMSAwIFIgMTIgMCBSIDE2IDAgUiAgXQ0K
+L01lZGlhQm94IFsgMCAwICA3OTIuMDAgMTAwOC4wMCBdDQovUm90YXRlIDANCi9SZXNvdXJjZXMg
+PDwgL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkJXSAvRm9udCA8
+PCAvQVNGXzEgNCAwIFIgL0FTRl8yIDUgMCBSIC9BU0ZfMyA2IDAgUiAvQVNGXzQgNyAwIFIgL0FT
+Rl81ICA4IDAgUiAvQVNGXzYgIDkgMCBSID4+DQovWE9iamVjdCA8PCAvQVNJXzEgMTUgMCBSID4+
+DQo+Pg0KPj4NCmVuZG9iag0KMTEgMCBvYmoNCjw8DQovTGVuZ3RoIDUyL0ZpbHRlciAvRmxhdGVE
+ZWNvZGUNCj4+DQpzdHJlYW0NCldivD9GFhL2dRrJtXzgYLXPyCEw+tENLy1wtP+J9IknQDBhqWpu
+Ga+HwromVEfZbZYut+4NCmVuZHN0cmVhbQ0KZW5kb2JqDQoxMiAwIG9iag0KPDwNCi9MZW5ndGgg
+MTU3My9GaWx0ZXIgL0ZsYXRlRGVjb2RlDQo+Pg0Kc3RyZWFtDQpVT9UsC/HN81SiF7PWBei6eaS1
+exqdEP//mP0qL/gnWaaCI0toiEx/kAgbF8fB1VW1h1coLpjE0b2NQAoOsM7L0PknU2uRAvcH/fF8
+5Cr500tRjY8FFOpLmYL2SgR6JTCGdRHXAPDBX9cuFWw8SdFdNzPzKk3/K2Y5P+tIhgc3ad1kj1/2
+7N2iv3UXYCaUE0EvzMBzl3ecBrlVhYMXcPhvPm8TeAXixt960NnENT6Cum/OLPwGZmpEgnG+P5qf
+3u13EEAS6fcwh3r0f8wzIIxxUgTvLtnTa5XMYAh/2V99zFggTh8XzXimGltoDZSlf1zUN9tScYaC
+9G2KfNJshEhr4DXf2XBMA18f2uI6snG5so4sX2djQ0nXek0SyU/hNxzjSxl3Erjh+h634fnSwWVF
+SmCYFghegCWX3mPPngxgdBXDNXpy9S7AmZc6pMPhqXpevMo9tG2ppJ4sHw+ZgxtY5Qk8/B8FOU1t
+qEq1QlqaiTH0Y3QamArSsqhgmqVyPeUkmRWK8QaKiLBcpUX14vz/w4wDtMYmXPbrdt4aFi76h3re
+72TYPGuDPBpU781RdkwfroLHMsLoZmw0al6mgNszU4b0oxbHgTmHYap/bJPjwLC6kgaOfrD4TLMx
+oUJxfcJdDkEVIoBiMNnTSiVlcGF/b2ktxBxXIutJRqwDxVdb3fI4L5AFMiZrxs9QtKGUbO9LOKSo
+2Ax2rGbq0oCT5l+MpjZ89OV246LRaKkPOPThhckfEG8begwEMmwjcutDf7Ip4Kz0AVYAxboOEvDE
+U8E0bJZm/phVFaGC25f9DMMmWRlthXTm9F0K95i/OtJYKoGieYgLqxON8W3A1ma+9pJnNG2vi+1o
+wzqcwJ3Z7B/Hlg0WFLULpGjJSHWwOb4nGyJdFG9HUPmOeDbG+ZeT8vcjUsIg9vPqDrYfVyODo538
+0xDrCWB0I2XVQKi+3tbHsIUEoKdn/nwdacdCfEyzsItGlVy458seq5jChawAcXlE5OM8nMPZ6L+X
+xdcp+RVP6fWRAp1J8E67anUzdcPybktoNUQxhJ2H+k1Pj1IjxLcO3KvOTvFwAnh2jcHZmupfuW7q
+hrXzFcv9Vgdlpd5yLYi2OzrHIqqN7sM44UidzdlOwN4AwzRSrKC1m9SphPdQlPB4bA1yXCwep7P7
+90Qs+KQiXB29Eytf4QtyxljJIl1btBD8VB+nSZ/Kare1IaoeAf7mcbgY4PHC5Sx8o9s38yApb9ae
+17rBDZDpkPiZqEPR8IY8kISs6Cko8caTrYKzlp+XH+vuWjlv8MfqUN+rLqu4UuVjnw3QWTDKVrYE
+K/ROLk+Py99ikU93CDsMA4yv3NSer+ygGuhN7PQfI7drMaY2l9RCJ+7mnx0zhYT2dNAVbNKXJa+d
+0Le4fXvX27xTTG2riepxTN2pIHAeOK5usG/7Zhl2BoZZiP3rBUoJ4Poz1q0TO8DqVl+Dw9iC8/sl
+6EUZGXP+1r4xHpkFJKVFw5lerYoEBUiSxVD69T9BG0GKFNNPBAR612E0g7UKksiCI9WrfWkaHUgd
+RN8DWU+9EpkSB2T3mmD/VjVG9Fc8yl5oI8xxYrlYp0iu5GdZTHD3+2+3wSw84sj9eCkKZj06YHzM
+STUQ7HxWZGjNToXdnVuTjo0uf7vaBBKEh32ziaOR9WmFOyDQcaZfxdy0tFzEv4P/S6v82/qWBQK0
+3omk1yrTyTEOpQzyCurJJGwwmAyt5B7IMnjlmb5z/B7dpfDsRgPGrR2/Gd/C8R55rh4HfVMtWy2J
+xMl0+O+GRmqcaHXGOwSrwvMHz3ccG2xfQAazyPbLzA3+TvZABRgSGl163v2hHqFRql4v6h0CTrFs
+PXGxDYz/Omf/BCTa1RZYl+Bqac2P94iheeUvvNDNj1+DDyF9JJFKALkLwFHqa0eWBUHrTdH71JGH
+bsUiprtQ4CIp3UcU9ywJF1S2ch44dO8Ta1GmNmAsAM/4PKOTHQYibXiKLMbY5QPnwR9aoxg/PYLC
+kuyEFNkgRhzWKNYLv4mXTFw/nKkB1WVx9HSN+KmBv/a0jA8+wjBPEmNOTb2llFoo1hTWfXLiekFR
+l0eRONrPkbfu2hEiz95tDQplbmRzdHJlYW0NCmVuZG9iag0KMTMgMCBvYmoNCjw8IC9UeXBlIC9Q
+YWdlDQovUGFyZW50IDIgMCBSDQovQ29udGVudHMgWyAxMSAwIFIgMTQgMCBSIDE3IDAgUiAgXQ0K
+L01lZGlhQm94IFsgMCAwICA3OTIuMDAgMTAwOC4wMCBdDQovUm90YXRlIDANCi9SZXNvdXJjZXMg
+PDwgL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkJXSAvRm9udCA8
+PCAvQVNGXzEgNCAwIFIgL0FTRl8yIDUgMCBSIC9BU0ZfMyA2IDAgUiAvQVNGXzQgNyAwIFIgL0FT
+Rl81ICA4IDAgUiAvQVNGXzYgIDkgMCBSID4+DQovWE9iamVjdCA8PCAvQVNJXzEgMTUgMCBSID4+
+DQo+Pg0KPj4NCmVuZG9iag0KMTQgMCBvYmoNCjw8DQovTGVuZ3RoICA3MjMvRmlsdGVyIC9GbGF0
+ZURlY29kZQ0KPj4NCnN0cmVhbQ0KM90dDpVs6Xyuq4Hx6SP9lWFVrYALty5l0WvY/dhEFM9Vz8au
+EDwYNgHCRVYelFo073AIjIXHFjM/mrW1BNE9CdBLL8DOzyAG0KWjCNovEOZq3UtVuieZ5yrnBdx8
+A9WVIlJfOb8AsutxnGTwkF1G0MzPZOTNLotZGwPRWEGTmn2MepKRraVQ5Ongu4nva+d+7GXfXAN7
+H+yyKzpo9ZaERgxwMsG84wJogOyNpteTbQvCdAJDNtQVvnsLnDYDnRcXlHiJGXVam9ZwhLaD8tTI
+jGLo4ZrgPHdzrlHiItVdlW6q4F1tYHeSreoLbTNRwZETNzhFom7zHTVfRQNAhMgnm4TQpIYy55wt
+nWeIf92yYDrhmSzDMBxXraQw31Svpf2fT5Vaaf1bghrbG4B2hybQFFSe5H2t11vpFyS3SqGtahz7
+irRXIhWmD5E8cFiepep0GaA9osPA5lz92dh8KUwKdGNBiCVhH6ejmlxbgeyv3LoShbfQkwYFJfP7
+25DBO3cjci2yYx5BCEKksitncpSdxT8ZX9sctfhvOA2T76JgjfCAS0UNY7+xlRI/A1YnuTd8EEJC
+VvJH8tZlmypBRpvVpdPtC+iylajebbJCsqcUF3asNAWa3VWymVUW0bUpa0q/5kJDV6DCUGIXaIc0
+K73ooWyppES4JGDUSsU01zqeupzc06Dc7D9qvYtIRdyXExI5M4y0J1WZYDnvGAOWyTinuZefldKv
+8VbZmpiVOO3R+O5d7eMUYNRj4d/l07yMjbuDBdS3jxmnqlPGGvYk5a/0r3R38tpUmMLZLfi3GHDS
+G74K2I5wb9PVjD/655kPRSTbsMWfecuZ8XV1BaF8dUHLPjzqArLj1SlOxjFOvEPB7JJKk0h0KEIE
+/cdU2EfjcrOCo3d2gREcRCQQLHF51qt4pxfF02Ip8PZgzEIaFIgrpFbSvfiCUDHUhXoOA2J5oY85
+STCIDQplbmRzdHJlYW0NCmVuZG9iag0KMTUgMCBvYmoNCjw8IC9UeXBlIC9YT2JqZWN0DQovU3Vi
+dHlwZSAvSW1hZ2UNCi9OYW1lIC9BU0lfMQ0KL0ZpbHRlciAvRENURGVjb2RlDQovV2lkdGggMTky
+DQovSGVpZ2h0IDMxDQovQ29sb3JTcGFjZSAvRGV2aWNlUkdCDQovQml0c1BlckNvbXBvbmVudCA4
+DQovTGVuZ3RoIDI3NDY+Pg0Kc3RyZWFtDQpL+AGK9y7m/5Y1iSOAw1xyb6B4wzsO5PZ6eD4+kCjr
+2q/wk7/kh20rAygqzyQ8wftryJC/lYJpk5VdEPFd5YWVEx3RvaoOyMJyf9JsQjJCyHncCFMrL14X
+IsdEtHLAeoqhvIHY51TNR5MQwwmCnJgJwmvm0yZeVfr8fkCNUVbfMjanOHqw0nlZuLAOScaCbdva
+M3fnuSpra9q97Qa93hs/8G+AcQSASQ0s0ikhw3ADUyaUdQ/3z5qh17tHGZANaDNHxeTzF690JE+X
+YJsTAzXqGqqwj8EPvulJGrnB+cCiNSJNse4bdZ8PQHDnybFGFRoX2NAMB0LpWY+ebBXdRuMywrom
+OhAz2Coes8gm1jZMvR7GbhqZa+4fXLHp4IJAckagJTjI9FM7h93TFJzEnjZ0KEYatIsDfid+Bl75
+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
+FsT7BnwfqAEJg4PIWvfvtl+DYaDOv0qYggMNCmVuZHN0cmVhbQ0KZW5kb2JqDQoxOCAwIG9iag0K
+PDwNCi9MZW5ndGggMTI4DQovRmlsdGVyIC9TdGFuZGFyZA0KL1IgMw0KL08gPEQwMTZGOTlDQUMx
+QTRFMzg4OTE4RDM4RTkxQjI2QkUzMURCMDNGRTJFQzc4NjRBOTQ2NzM5RkEyMjgwRTBFRDg+DQov
+VSA8NTJBNEMwQ0M4QjQxMDQyQUZBOTg0MUM3RjM0OTI5QjMwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMD4NCi9QIC0zMTYNCi9WIDINCj4+ZW5kb2JqDQp4cmVmDQogMCAxOQ0KMDAwMDAw
+MDAwMCA2NTUzNSBmDQowMDAwMDAwMDE3IDAwMDAwIG4NCjAwMDAwMDAwNzEgMDAwMDAgbg0KMDAw
+MDAwMDE0MyAwMDAwMCBuDQowMDAwMDAwMjc0IDAwMDAwIG4NCjAwMDAwMDAzNjUgMDAwMDAgbg0K
+MDAwMDAwMDQ1NSAwMDAwMCBuDQowMDAwMDAwNTUwIDAwMDAwIG4NCjAwMDAwMDA2NDIgMDAwMDAg
+bg0KMDAwMDAwMDczNiAwMDAwMCBuDQowMDAwMDAwODM0IDAwMDAwIG4NCjAwMDAwMDExNTggMDAw
+MDAgbg0KMDAwMDAwMTI4OSAwMDAwMCBuDQowMDAwMDAyOTQzIDAwMDAwIG4NCjAwMDAwMDMyNjcg
+MDAwMDAgbg0KMDAwMDAwNDA3MSAwMDAwMCBuDQowMDAwMDA3MDExIDAwMDAwIG4NCjAwMDAwMDcx
+NzcgMDAwMDAgbg0KMDAwMDAwNzM0MyAwMDAwMCBuDQoNCnRyYWlsZXINCjw8L1NpemUgMTkNCi9S
+b290IDEgMCBSDQovSW5mbyAzIDAgUg0KL0VuY3J5cHQgMTggMCBSDQovSURbPGNhOWQzMTFmYjgw
+MDZiYzQ0MjIxNGQ1MTliOGRhZWZhPjxlYzI0ODBhZjg0OWQ0NzQ3YWRkNTY3MTYzZmNkNTQ4YT5d
+DQo+Pg0Kc3RhcnR4cmVmDQogNzU2Mg0KJSVFT0YKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAv
+UGFnZXMgMiAwIFIgL0Fjcm9Gb3JtIDE5IDAgUiAgPj4KZW5kb2JqCgoxMyAwIG9iago8PCAvVHlw
+ZSAvUGFnZSAvUGFyZW50IDIgMCBSIC9Db250ZW50cyBbMTEgMCBSIDE0IDAgUiAxNyAwIFIgXSAv
+TWVkaWFCb3ggWzAgMCA3OTIuMDAwMCAxMDA4LjAwMDAgXSAvUm90YXRlIDAgL1Jlc291cmNlcyA8
+PCAvUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSQkgXSAvRm9udCA8
+PCAvQVNGXzEgNCAwIFIgL0FTRl8yIDUgMCBSIC9BU0ZfMyA2IDAgUiAvQVNGXzQgNyAwIFIgL0FT
+Rl81IDggMCBSIC9BU0ZfNiA5IDAgUiAgPj4KL1hPYmplY3QgPDwgL0FTSV8xIDE1IDAgUiAvQVNT
+aWcxIDI0IDAgUiAgPj4KID4+Ci9Bbm5vdHMgWzI1IDAgUiBdICA+PgplbmRvYmoKCjE5IDAgb2Jq
+Cjw8IC9TaWdGbGFncyAzIC9EUiA8PCAvWE9iamVjdCA8PCAvRFN4IDIwIDAgUiAvRFN5IDIxIDAg
+UiAvRFN6IDIyIDAgUiAgPj4KID4+Ci9GaWVsZHMgWzI1IDAgUiBdICA+PgplbmRvYmoKCjIwIDAg
+b2JqCjw8IC9UeXBlIC9YT2JqZWN0IC9TdWJ0eXBlIC9Gb3JtIC9Gb3JtVHlwZSAxIC9CQm94IFsw
+IDAgMTAwIDEwMCBdIC9NYXRyaXggWzEgMCAwIDEgMCAwIF0gL0xlbmd0aCA2NDEgID4+CnN0cmVh
+bQreyxtRDF41JvjgmrFqNy6wY5e6bp8V7xerhUPAlEj7Xk+5z2ZWiLCPnRuSWrCLj2RhmzVqUwy+
+MDHYstc90BKwd2Bv4e3GZep6Yyi4GwrHUFxAYCL7Zs6aO9t8QWMNuVqoiGzupBvIOSm976kU2y1c
+PKzt2CpsJzJorwbzDi7xgaUHQgOVEsmFAeVLK91yutUD+c5bHrJ8lGWiunruMRdpmYiz+j3FDXTN
+awPVWHKn1i86n0dlEMwm5yssNf4aIsQMKJf1yMk8s+A5fnXNs0Rvt2XIf3ulzzOFpoovc/Pb+uIi
+PCzWchWz0ikzztqcucfnsf1uuByfoHQGYJiURmJgLaHjxKoOAXL+FvBPktTum7VCqI4cB0qd7R/0
+Qhe9pBMPe1zhqc1tc0p/uYC2QDo2xNCTsKUBb4B4nIQKkdJfkIbv29baBnNjpW3BZIIEOT8Wd0MP
+EePKhwYwMCNEytVdOD73u/+A1CShmsfApsMDuEorYlD3rTKfYmiG/TAO2C0oecTZs8DlBmVncMLr
+Vu0Ht8KSk5g8L+AJhVGmtDRqBOgYq8/7qBiwdn8bZ8tAVZ9/FMxgtUWghgLFkTDOKGjaUm2SkBsP
+Jwotpi0Bwi8tPDuGrgNf+vofnBxBXXEuT0dLZ+B2tfJtdJGjE15ut0zr0NShRY9EVA1yIa1UG8hF
+fLFNcHIbQOPAO7PXg25bxplk4LvnMeBa/+5rYMrLDQov5P+hbEfLp9WPp57MRU0naNweLDGOVhqW
+oWUEB2M30O3LyNeFbIA6JW+Oy8d0YWSD6fEcXNFDQxXs+tR8wJqC3JUXG2wzJOFXBmxmIobYN1vZ
+EQlXV21UfX5g2HZQ+3+CFGVuZHN0cmVhbQplbmRvYmoKCjIxIDAgb2JqCjw8IC9UeXBlIC9YT2Jq
+ZWN0IC9TdWJ0eXBlIC9Gb3JtIC9Gb3JtVHlwZSAxIC9CQm94IFswIDAgMTAwIDEwMCBdIC9NYXRy
+aXggWzEgMCAwIDEgMCAwIF0gL0xlbmd0aCA2ODIgID4+CnN0cmVhbQqR43ZNevAitBNB24blBmqv
+cR0fmCa8i2EjPPKhb7APfhh6edOFnKNUJ4tMwPH61wWQ5SsIe01VmEJJVRcrsjCJ4MF9bXp3wa18
+McZrfdOWCqPHJDqcP6olKof2LssULmSGF4fPNe6shxD1xrnnf90+1RufP9Ec9JOI9OTudvEARAuN
+VeTk91nmiShjYvv1Hd3roJLzDS4uPq1n1Vmok7cDjNYQhIuNWTrU4gnU748GQti9WHsEEjhJcbE9
+qeXu0NLpDp6Fk/AloLynJdj/GSa2bfkXocgeNRr3G9jTWMWvUvaTgv6959G9TjjHDKl8fI2R7RnI
+WYGWAFhIIpa0fwWMmhUci1KhEzSERGkp2bu8l2xVuBTygWE7wYnvSuYljnyhrV8tV0rMarqMJCVY
+dE/DkLOw/C0guu/YfXf2mv5NJAmDPU3ZxJcZNeuCrKUNxy3BKtwx9Me7PNFlxOdvhPmz/fQz047R
+raVfhT6eUliVsJBrKDu2NX2tZXXSvO26k0ZNSAAMzqG7VXxzUGdjDU8tzTXAD3k+6lzdSwCq8U5U
+CWdYhrO/z0SKaWliAbVd2otCYxIVkdjVewWz0kC8VhuA05FDzSucdWtzK4YthD5XgV2R6LkZsBIh
+7Lh67kElDOdbdSRXBKGv96GFlLs84uT8AyBHO1nABUJtPzORE7GRtnqeGYTMkxrooXr3y+pPsb/f
+CvEzWBNNtDojBJyWm0LPA9Ik780q3zkQ5dnHpmc7OyOyq1qc798+fIJBtF/itp5mwyn4JQAT9v8/
+p7APXkEOS+WEBohSntRn2yR5IBBUUWn+HA+XZhAXKO7PmYg/bWUIPYIL5ZbZItLcM4f4G/14ZhpJ
+tGIuWYohTtu5ayjnHZBF1YI9Sp2QKOP8RCiNWjjjtyviz9q/BMn3ZW5kc3RyZWFtCmVuZG9iagoK
+MjIgMCBvYmoKPDwgL1R5cGUgL1hPYmplY3QgL1N1YnR5cGUgL0Zvcm0gL0Zvcm1UeXBlIDEgL0JC
+b3ggWzAgMCAxMDAgMTAwIF0gL01hdHJpeCBbMSAwIDAgMSAwIDAgXSAvTGVuZ3RoIDExICA+Pgpz
+dHJlYW0K9C9IzsG4WevDfP1lbmRzdHJlYW0KZW5kb2JqCgoyMyAwIG9iago8PC9TdWJGaWx0ZXIg
+L2FkYmUucGtjczcuZGV0YWNoZWQgL0ZpbHRlciAvQWRvYmUuUFBLTGl0ZSAvVHlwZSAvU2lnIC9O
+YW1lIChixvPL0VoeKQovTSAoA5+lk4QRHHBDG0zEpVPyjsTHp8DYKQoNCi9Db250ZW50cyA8MzA4
+MjA3N0QwNjA5MkE4NjQ4ODZGNzBEMDEwNzAyQTA4MjA3NkUzMDgyMDc2QTAyMDEwMTMxMEIzMDA5
+MDYwNTJCMEUwMzAyMUEwNTAwMzAwQjA2MDkyQTg2NDg4NkY3MEQwMTA3MDFBMDgyMDRCNzMwODIw
+NEIzMzA4MjAzOUJBMDAzMDIwMTAyMDIwQTE1MUM2NTc4MjM4NkQ3MDRGRDNEMzAwRDA2MDkyQTg2
+NDg4NkY3MEQwMTAxMEIwNTAwMzA4MUY3MzEwQjMwMDkwNjAzNTUwNDA2MTMwMjQ5NEUzMTQ1MzA0
+MzA2MDM1NTA0MEExMzNDNDk2RTczNzQ2OTc0NzU3NDY1MjA2NjZGNzIyMDQ0NjU3NjY1NkM2Rjcw
+NkQ2NTZFNzQyMDYxNkU2NDIwNTI2NTczNjU2MTcyNjM2ODIwNjk2RTIwNDI2MTZFNkI2OTZFNjcy
+MDU0NjU2MzY4NkU2RjZDNkY2Nzc5MzExRDMwMUIwNjAzNTUwNDBCMTMxNDQzNjU3Mjc0Njk2Njc5
+Njk2RTY3MjA0MTc1NzQ2ODZGNzI2OTc0NzkzMTBGMzAwRDA2MDM1NTA0MTExMzA2MzUzMDMwMzAz
+NTM3MzExNzMwMTUwNjAzNTUwNDA4MTMwRTQxNkU2NDY4NzI2MTIwNTA3MjYxNjQ2NTczNjgzMTI5
+MzAyNzA2MDM1NTA0MDkxMzIwNTI2RjYxNjQyMDRFNkYyRTMxMkMyMDRENjE3MzYxNjIyMDU0NjE2
+RTZCMkMyMDQ4Nzk2NDY1NzI2MTYyNjE2NDMxMTUzMDEzMDYwMzU1MDQzMzEzMEM0MzYxNzM3NDZD
+NjUyMDQ4Njk2QzZDNzMzMTE2MzAxNDA2MDM1NTA0MDMxMzBENDk0NDUyNDI1NDIwNDM0MTIwMzIz
+MDMxMzQzMDFFMTcwRDMxMzUzMDM2MzIzNTMxMzIzNTMyMzQzOTVBMTcwRDMxMzczMDM2MzIzNDMx
+MzIzNTMyMzQzOTVBMzAxQzMxMUEzMDE4MDYwMzU1MDQwMzEzMTE0ODQ0NDY0MzIwNTI2NTc0NjE2
+OTZDMjA0MTczNzM2NTc0MzA4MjAxMjIzMDBEMDYwOTJBODY0ODg2RjcwRDAxMDEwMTA1MDAwMzgy
+MDEwRjAwMzA4MjAxMEEwMjgyMDEwMTAwOTdGNTYzRTU2QkE2RDE2RDE5RjFCMzMyNDE2MkMwOTEw
+QTc3QTY5NkRDNTlDMEY2ODE5RjdEQUY1ODQ1RTE1QkRERTNFREExQjc1QTM2ODcxNzI0RTFBNDIz
+Q0RDMEE1MkREMTkxMjZCNjkxOTcyM0ZENzQ0MTE1QjY0QzM1QUUzRTY5N0RDRjA4NEU2M0MyQUMx
+MUU4NEM2QjQ5RTQyM0Q0NTk0Qjk5RTc2NEQ0ODkxRDQ1RDc1MDVEOEYwMkNFQTg5RjUwQTEwNTgz
+MzM3QkVEODc0ODFBM0ZDNEQyM0U3MTZGN0E4NjI3M0QxQUQ1MTA3RUY5RTc4RUMwNzU0QzUzOTk1
+MTgzNDBBNDIzQ0NGNEIwQjI1MkE5MjQyMUJCRDI2OTg3ODdCNzE1NzhBOThFMkIxNjAwMEQ0OEFD
+Q0I5Q0RDMjdBMUEwQzVGMTIwRDVDRjEwRERCMjMyMEMwMzE0NkU0MzUzQTVDNDY4ODZFNjkxNTNB
+MDVBMURFMTM0QUM0ODU1MjFFRjQwQ0U1MDcxNTlBQjQ3MDlFNzEwOTBFNEExRUI2NUVBNjM3ODUz
+RjNBMkU4RjE5QTczMzQ1OTc0Q0U1NzA0NUMzNUJGNTgyNEQyMDVCREMzMzMzMjM5OTE3ODYzMjJB
+QzE0MUI4MzY0RTY0RjZEMTE1NTgxQjUwMjAzMDEwMDAxQTM4MjAxMTkzMDgyMDExNTMwMEUwNjAz
+NTUxRDBGMDEwMUZGMDQwNDAzMDIwNUEwMzAxRDA2MDM1NTFEMEUwNDE2MDQxNDcwMEE4Qjk1RUJF
+OUI1NjU1QTdFREMwMUM3N0UwODVFMTgwRjM1OEIzMDFGMDYwMzU1MUQyMzA0MTgzMDE2ODAxNDgw
+NzUwMjM0MDdENDVFMEVDRTA1NkFCNUFDRjAxMDZCNDIxQjA3QzczMDFEMDYwMzU1MUQyNTA0MTYz
+MDE0MDYwODJCMDYwMTA1MDUwNzAzMDEwNjA4MkIwNjAxMDUwNTA3MDMwMjMwMzgwNjAzNTUxRDIw
+MDQzMTMwMkYzMDJEMDYwNjYwODI2NDY0MDIwMjMwMjMzMDIxMDYwODJCMDYwMTA1MDUwNzAyMDIz
+MDE1MUExMzQzNkM2MTczNzMyMDMyMjA0MzY1NzI3NDY5NjY2OTYzNjE3NDY1MzAwRjA2MDM1NTFE
+MTEwNDA4MzAwNjg3MDQwQUUyMTNFODMwNTkwNjAzNTUxRDFGMDQ1MjMwNTAzMDI0QTAyMkEwMjA4
+NjFFNjg3NDc0NzAzQTJGMkYzMTMwMkUzMDJFMzYzNTJFMzYzNTJGNjM3MjZDNUYzMjM3NDIzMDJF
+NjM3MjZDMzAyOEEwMjZBMDI0ODYyMjY4NzQ3NDcwM0EyRjJGNjk2NDcyNjI3NDYzNjEyRTZGNzI2
+NzJFNjk2RTJGNjM3MjZDNUYzMjM3NDIzMDJFNjM3MjZDMzAwRDA2MDkyQTg2NDg4NkY3MEQwMTAx
+MEIwNTAwMDM4MjAxMDEwMDYwMUY3NENBOEYxMkU0QkVBODU3NEU5MzcyMzlFRDc5MkI3QjYyQ0I5
+NUJGNkY2NDY1RDhCNEM0NUZEMDMxNTEwOEE3RDYwNEUyNTMyRjU3Q0E2MzNEMjgyMDE5MzdCQTMz
+ODc3Q0I2OEQzRTQwMzI1RkU5ODNCRjI3NjNBNjQ1RkIzODg5NzBCODI3MTA5OTU1Q0UwOURGMDhG
+OEVCNkJDQzAzRDgyMTQwNDkzOEJGNDQ4NjUyQzU5MUY3NUQyRUU0MTRBODVCM0QyNUJCM0RCQzA2
+MkYxQTY3NUVBOTQ3MkU3QTk4N0NGRDIxRjQzODVGODczQTcyODY4RDExNzJDNzBCNUQ3ODVEMTAz
+QUE0MzdEM0ZFODNENjM3NDNCM0YxQjhFQjhBQzFEMjNGRTZBRkI3Qjk4ODZFMTkyMkE2OUJBQTg4
+MTA2MDAxQzY2ODhFNDc0RjBCOTFBNjA3MjE2N0UxODA0QjNBMEVDMERDMzQ1NzFGREE0RjYxOUE5
+REM5NjhGMDY1Njg1RTk0OTVGMEM3MDZBRjU4M0VEODU5OTY5RDlDNTg2MDRCOEQ5OEU5QTlEMkMz
+Q0U1ODFDMTc2MzRBRUFCRDlBMkFDRDNBODU2ODMwQTFFQTU1MEZCRTJGMTFGNjIwQTFGNzE4Nzg2
+NDAyNTNEQzAyQTdGOTQ2MzE4MjAyOEUzMDgyMDI4QTAyMDEwMTMwODIwMTA2MzA4MUY3MzEwQjMw
+MDkwNjAzNTUwNDA2MTMwMjQ5NEUzMTQ1MzA0MzA2MDM1NTA0MEExMzNDNDk2RTczNzQ2OTc0NzU3
+NDY1MjA2NjZGNzIyMDQ0NjU3NjY1NkM2RjcwNkQ2NTZFNzQyMDYxNkU2NDIwNTI2NTczNjU2MTcy
+NjM2ODIwNjk2RTIwNDI2MTZFNkI2OTZFNjcyMDU0NjU2MzY4NkU2RjZDNkY2Nzc5MzExRDMwMUIw
+NjAzNTUwNDBCMTMxNDQzNjU3Mjc0Njk2Njc5Njk2RTY3MjA0MTc1NzQ2ODZGNzI2OTc0NzkzMTBG
+MzAwRDA2MDM1NTA0MTExMzA2MzUzMDMwMzAzNTM3MzExNzMwMTUwNjAzNTUwNDA4MTMwRTQxNkU2
+NDY4NzI2MTIwNTA3MjYxNjQ2NTczNjgzMTI5MzAyNzA2MDM1NTA0MDkxMzIwNTI2RjYxNjQyMDRF
+NkYyRTMxMkMyMDRENjE3MzYxNjIyMDU0NjE2RTZCMkMyMDQ4Nzk2NDY1NzI2MTYyNjE2NDMxMTUz
+MDEzMDYwMzU1MDQzMzEzMEM0MzYxNzM3NDZDNjUyMDQ4Njk2QzZDNzMzMTE2MzAxNDA2MDM1NTA0
+MDMxMzBENDk0NDUyNDI1NDIwNDM0MTIwMzIzMDMxMzQwMjBBMTUxQzY1NzgyMzg2RDcwNEZEM0Qz
+MDA5MDYwNTJCMEUwMzAyMUEwNTAwQTA1RDMwMTgwNjA5MkE4NjQ4ODZGNzBEMDEwOTAzMzEwQjA2
+MDkyQTg2NDg4NkY3MEQwMTA3MDEzMDIzMDYwOTJBODY0ODg2RjcwRDAxMDkwNDMxMTYwNDE0NjFB
+MDlFQUE4RTgxMzQ1NzJGOTgwRDcwMjIzRjkyQUM2QUNFNzhBMTMwMUMwNjA5MkE4NjQ4ODZGNzBE
+MDEwOTA1MzEwRjE3MEQzMTM2MzAzOTMzMzAzMDM3MzMzMDMxMzg1QTMwMEQwNjA5MkE4NjQ4ODZG
+NzBEMDEwMTAxMDUwMDA0ODIwMTAwNkQwRTcxNDVDNDM0MjA3MkNDQTczOERDNzk2MkMzQzlGMTRG
+MjQ5MTE0MzdBRjdGMTc2N0ZBOUNBNkExRTFGMEU4NDNDRTc1RDBERUE0MThEQURDNEY5OTI1QkIz
+ODkyNDNBQzcwOEY4QzRFRkY0QThFRDgxRDRERkVERUMxNjFFOUJCODY4RTlGNDQ0NjA3MDlERjI4
+MkJDRTQ0NUMxNTdBMTUyNzQ3MTE0MENCRjhFMTlBNzFFOThDOTI0RDM4QUQ2RjJCNzg0MjQ5RDIx
+QTkyMDU0OTRENTZEREVCRTJCODMwOTI1Qjk0NTYyMEY0OEZFRkY2QkZDRjdCQzM2RjIzMzY3OEJE
+MkZERTdGMTc0MzI4N0VDNUI3OUM3NzZDOTQwNzAzMEYxMTlEOTMwNzNBQjUxNjY3NEVFRDI1QzU0
+MEM0NzFFNzUwRTk1OUQxMEI3MUZDNTk1NkVGMTlCNDUxNzUyNjZCOThERjYzMjNENjFDNjQwMDg5
+N0I4ODA4REVDNkJCNDQ5RDc3NTRFRUY1QjAxMzNBMjQzNzI4N0EwNDQzNkExQ0UwNkUxN0VGOTA0
+MUYwRjcyQzVGMjMxRDNCN0U3NzMzQ0U1NDQ3RTA0RDlGNkQwOEY2NzU2OTk2NzUyREFBNDY1QzY2
+RjQzQkUzMjM3RjUzNEMyMEZBMDkwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwPgovQnl0ZVJhbmdlIFswIDEwNTQx
+IDE4NzMzIDUwNTUgXSAgICA+PgplbmRvYmoKCjI0IDAgb2JqCjw8IC9UeXBlIC9YT2JqZWN0IC9T
+dWJ0eXBlIC9JbWFnZSAvTmFtZSAvQVNTaWcxIC9GaWx0ZXIgL0RDVERlY29kZSAvQ29sb3JTcGFj
+ZSAvRGV2aWNlUkdCIC9XaWR0aCAxOTAgL0hlaWdodCA5OSAvQml0c1BlckNvbXBvbmVudCA4IC9M
+ZW5ndGggMzI1MSAvTWFzayBbMTkyIDI1NSAxOTIgMjU1IDE5MiAyNTUgXSAgPj4Kc3RyZWFtCi+z
+T2ljqqSFdt7x0nB5IxfCPvOQQumgLfipaV5r8p2BLEYms+wxBTQhtXBYY1CnQysBnQ34IcHgeK6g
+jFlhjRRYYcmGh6wMHZ+XLt3xQ0hndlHmNo0H7W1FiuFQOsZBzOSs7X2w2hWPO73w+ZruMZa75SRM
+hluFMRTCY4mq+rkL+/uAMrdP5dRaEQs1fvhmENfCK+pAmTpThvE/taZtvEqUZe33uVSw5d+a9ncO
+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
+JQtW3fK+0y3ALUlf0yWiFBZbf5M8yso+mKRxOUuBLtrs0YPc+3BejdmE6DI146pDOCyqn1cXTO5L
+yyxWQclbdlcz9QlGbpW9laSqHQyvob5iHZi+aTLxQ7b22QILa80wp2kfcD0FD6EpTYYf3AKuKITL
+Mljj3rpb2Svf/u4MtyJ2qQ2UVa6w71PEjXVChqA6XNiGwFS+/7Crl2zWKjDCtUr6xxmukK5KHwGh
+nOciSNT9903PzyskVTdJP5NdEWexbaCwiIb/dCJF+Pc14+kzhbY0QFH4uM3qUdtHgQd8BZBJ9c/0
+m8E5zXFtLzMQ548UJTj+bsyByOHCgDra+hjn7kP5UlnZxcymyggb85bqp3/jv+2jF3GRhQuVuv3m
+mgl+HJmxcDFnFf7Ypv1CXLRrHyKmTBIciUzN4bnac6Z/XMk8/9Jqtu183SyGRrOh4RhgZwlrcfah
+ZW5kc3RyZWFtCmVuZG9iagoKMjUgMCBvYmoKPDwgL1JlY3QgWzY0MCA1MzUgNzAwIDU4NSBdIC9Q
+IDEzIDAgUiAvU3VidHlwZSAvV2lkZ2V0IC9GVCAvU2lnIC9UeXBlIC9Bbm5vdCAvVCAoQvPoYifT
+RCkKL0RBIChQyclTcIFFNyTxrlfOlikKL1YgMjMgMCBSIC9GIDEzMiAvTUsgPDwgID4+Ci9BUCA8
+PCAvTiAyNiAwIFIgID4+CiA+PgplbmRvYmoKCjI2IDAgb2JqCjw8IC9UeXBlIC9YT2JqZWN0IC9T
+dWJ0eXBlIC9Gb3JtIC9Gb3JtVHlwZSAxIC9MZW5ndGggMjggL01hdHJpeCBbMS4wMDAwIDAuMDAw
+MCAwLjAwMDAgMS4wMDAwIDAuMDAwMCAwLjAwMDAgXSAvQkJveCBbMC4wMDAwIDAuMDAwMCA2MC4w
+MDAwIDUwLjAwMDAgXSAvUmVzb3VyY2VzIDw8IC9YT2JqZWN0IDw8IC9GUk0gMjcgMCBSICA+Pgov
+UHJvY1NldCBbL1BERiBdICA+PgogPj4Kc3RyZWFtCgKvw2MA0fT999m3aX347KXqu8w5T5MKg4v8
+0qplbmRzdHJlYW0KZW5kb2JqCgoyNyAwIG9iago8PCAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAv
+Rm9ybSAvRm9ybVR5cGUgMSAvTGVuZ3RoIDU0IC9NYXRyaXggWzEuMDAwMCAwLjAwMDAgMC4wMDAw
+IDEuMDAwMCAwLjAwMDAgMC4wMDAwIF0gL0JCb3ggWzAuMDAwMCAwLjAwMDAgNjAuMDAwMCA1MC4w
+MDAwIF0gL1Jlc291cmNlcyA8PCAvWE9iamVjdCA8PCAvbjAgMjIgMCBSIC9uMiAyOCAwIFIgID4+
+Ci9Qcm9jU2V0IFsvUERGIF0gID4+CiA+PgpzdHJlYW0KzyxbC4Bzuwk8W9u+A6WYb3bV0QbXbg6k
++3or7Xn0Y7bWsA6c8L9R4dr+3Ct5OS6InWX3DJO4ZW5kc3RyZWFtCmVuZG9iagoKMjggMCBvYmoK
+PDwgL1R5cGUgL1hPYmplY3QgL1N1YnR5cGUgL0Zvcm0gL0Zvcm1UeXBlIDEgL0xlbmd0aCAzNCAv
+TWF0cml4IFswLjMwNTMgMC4wMDAwIDAuMDAwMCAwLjMwNTMgMS4wMDAwIDkuODg5NSBdIC9CQm94
+IFswLjAwMDAgMC4wMDAwIDE5MC4wMDAwIDk5LjAwMDAgXSAvTmFtZSAvRlJNIC9SZXNvdXJjZXMg
+PDwgL1hPYmplY3QgPDwgL0FTU2lnMSAyNCAwIFIgID4+Ci9Qcm9jU2V0IFsvUERGIC9JbWFnZUMg
+L1RleHQgXSAgPj4KID4+CnN0cmVhbQpDK+FVS0hZygohPNNzKYvWbfzOn2u9d0VCEcz2/o9SAaj4
+ZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgMgowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDgxMjQg
+MDAwMDAgbg0KMTMgMQowMDAwMDA4MTkyIDAwMDAwIG4NCjE5IDEwCjAwMDAwMDg1NDIgMDAwMDAg
+bg0KMDAwMDAwODY1OSAwMDAwMCBuDQowMDAwMDA5NDM5IDAwMDAwIG4NCjAwMDAwMTAyNjAgMDAw
+MDAgbg0KMDAwMDAxMDQwOSAwMDAwMCBuDQowMDAwMDE4NzgxIDAwMDAwIG4NCjAwMDAwMjIyNDgg
+MDAwMDAgbg0KMDAwMDAyMjQyOSAwMDAwMCBuDQowMDAwMDIyNzA2IDAwMDAwIG4NCjAwMDAwMjMw
+MTkgMDAwMDAgbg0KdHJhaWxlcg0KPDwgL1ByZXYgNzU2MiAvUm9vdCAxIDAgUiAvRW5jcnlwdCAx
+OCAwIFIgL0luZm8gMyAwIFIgL0lEIFs8Y2E5ZDMxMWZiODAwNmJjNDQyMjE0ZDUxOWI4ZGFlZmE+
+PGVjMjQ4MGFmODQ5ZDQ3NDdhZGQ1NjcxNjNmY2Q1NDhhPl0gL1NpemUgMjkgID4+Cg0Kc3RhcnR4
+cmVmDQoyMzMzMA0KJSVFT0YNCg==
+
+
+----_com.citrix.email_282264550689108--

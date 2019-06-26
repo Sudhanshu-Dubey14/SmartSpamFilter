@@ -1,0 +1,771 @@
+Return-Path: <>
+Delivered-To: bad-header-quarantine
+X-Envelope-To: <accounts_globechd@globeauto.in>
+X-Envelope-To-Blocked:
+X-Quarantine-ID: <a2xjJD9hKiNx>
+X-Amavis-Alert: BAD HEADER SECTION Duplicate header field: "MIME-Version"
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level:
+X-Spam-Status: No, score=x tag=x tag2=x kill=x tests=[] autolearn=unavailable
+Received: from mx10.jcbl.com ([127.0.0.1])
+	by localhost (mx9.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a2xjJD9hKiNx for <accounts_globechd@globeauto.in>;
+	Wed, 29 Nov 2017 12:23:17 +0530 (IST)
+Received: from Outbound.kotak.com (Outbound.kotak.com [203.196.200.46])
+	by mx10.jcbl.com (Postfix) with ESMTPS id 59057FEB70C
+	for <accounts_globechd@globeauto.in>; Wed, 29 Nov 2017 12:23:14 +0530 (IST)
+Content-Type: multipart/mixed; boundary="===============3091058943296537695=="
+MIME-Version: 1.0
+Received: from unknown (HELO dlpemail2) ([10.10.2.92])
+  by Outbound.kotak.com with ESMTP; 29 Nov 2017 12:24:01 +0530
+Received: from dlpemailprotector2.kotak.com (dlpemailprotector2.kotak.com [127.0.0.1])
+	by dlpemailprotector2.kotak.com (Service) with ESMTP id BDB5F180009A
+	for <accounts_globechd@globeauto.in>; Wed, 29 Nov 2017 12:24:01 +0530 (IST)
+Received: from KGP-GOR-HUB02.KotakGroup.com (unknown [10.240.8.52])
+	by dlpemailprotector2.kotak.com (Service) with ESMTP id AD48E1800098
+	for <accounts_globechd@globeauto.in>; Wed, 29 Nov 2017 12:24:01 +0530 (IST)
+MIME-Version: 1.0
+From: <postmaster@kotak.com>
+To: <accounts_globechd@globeauto.in>
+Date: Wed, 29 Nov 2017 12:24:01 +0530
+Message-ID: <401fe317-11d8-4da9-9d4f-ca0437b74def@kotak.com>
+In-Reply-To: <a5308faa-ff48-8612-16a0-da6cf1b7a7b9@globeauto.in>
+References: <a5308faa-ff48-8612-16a0-da6cf1b7a7b9@globeauto.in>
+Subject: Undeliverable: INCENTIVE GLOBE
+
+--===============3091058943296537695==
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="384d3744-543f-4477-88b2-eda8f5cab136"
+Content-Language: en-US
+
+--384d3744-543f-4477-88b2-eda8f5cab136
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="b172b1d9-a21b-475b-a095-2ec9ecc7907f"
+
+--b172b1d9-a21b-475b-a095-2ec9ecc7907f
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Delivery has failed to these recipients or groups:
+
+harmeet.s.singh@kotak.com<mailto:harmeet.s.singh@kotak.com>
+The recipient's mailbox is full and can't accept messages now. Please try r=
+esending this message later, or contact the recipient directly.
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: kotak.com
+
+harmeet.s.singh@kotak.com
+#554-5.2.2 mailbox full 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededE=
+xception.MapiExceptionShutoffQuotaExceeded; Failed to process message due t=
+o a permanent exception with message Cannot open mailbox /o=3DKOTAKGROUP/ou=
+=3DExchange Administrative Group (FYDIBOHF23SPDLT)/cn=3DConfiguration/cn=3D=
+Servers/cn=3DKMB-GOR-MBX03/cn=3DMicrosoft System Attendant. 16.55847:DA0000=
+00, 17.43559:0000000058010000000000000F00000000000000, 255.23226:2B0A0000, =
+255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000,=
+ 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 0.22086:EC03000=
+0, 0.25876:0F010480, 4.7588:0F010480, 0.25840:0F010480, 4.6564:0F010480, 0.=
+56333:0F010480, 4.6372:05000780, 0.24916:EC030000, 4.6276:05000780, 4.23921=
+:EC030000, 6.21970:0F01048040000C68B0840130, 4.23921:EC030000, 6.21970:0F01=
+048000806F670F010480, 4.24305:0F010480, 4.5721:DD040000, 4.6489:DD040000, 0=
+.34743:0F010480, 4.2199:DD040000, 0.56415:0F010480, 4.48223:DD040000, 4.170=
+97:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:00000000, 255.2181=
+7:DD040000, 0.26297:0F010480, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD=
+040000, 0.24761:00000000, 4.20665:DD040000, 0.25785:0F010480, 4.29881:DD040=
+000 ##
+
+Original message headers:
+
+Received: from kotakntmum01.kotak.com (10.10.2.28) by
+ KGP-GOR-HUB02.KotakGroup.com (10.240.8.52) with Microsoft SMTP Server (TLS=
+)
+ id 14.3.339.0; Wed, 29 Nov 2017 12:23:59 +0530
+IronPort-PHdr: =3D?us-ascii?q?9a23=3D3AIoLMGRCAMRM9AmP0zh9hUyQJP3N1i/DPJgcQ=
+r6Af?=3D
+ =3D?us-ascii?q?oPdwSP37pMWwAkXT6L1XgUPTWs2DsrQf2rqQ6/iocFdDyK7JiGoFfp1IWk1=
+Nou?=3D
+ =3D?us-ascii?q?QttCtkPvS4D1bmJuXhdS0wEZcKflZk+3amLRodQ56mNBXdrXKo8DEdBAj0O=
+xZr?=3D
+ =3D?us-ascii?q?KeTpAI7SiNm82/yv95HJbQhFgDmwbaluIBmqsA7cqtQYjYx+J6gr1xDHuGF=
+Ie+?=3D
+ =3D?us-ascii?q?NYxWNpIVKcgRPx7dqu8ZBg7ipdpesv+9ZPXqvmcas4S6dYDCk9PGAu+MLrr=
+xjD?=3D
+ =3D?us-ascii?q?QhCR6XYaT24bjwBHAwnB7BH9Q5fxri73vfdz1SWGIcH7S60/VDK/5KlpVRD=
+okj?=3D
+ =3D?us-ascii?q?8KOSA5/m/KicJ+gqxUrx29qBFkxo7YfJuYOeBicq7Tf94XQ3dKUMZLVyxGB=
+4Ox?=3D
+ =3D?us-ascii?q?d5MBD+sCPeZYron9o0YFowa+BQa2HuPvzyVHjWLx0KIgz+suDQbG3BEmH9I=
+Sq3?=3D
+ =3D?us-ascii?q?TbtNr1NKMVUe+u0qbH0TXDYO5N1Dfy7IjIdQsuru+WUrJtbcrRzlMjFwLDj=
+liJ?=3D
+ =3D?us-ascii?q?r4HuIjCb1vwVvmSG8+ZtV/ijh3Mkpg1vuDSj28Uhh4fTio8V0lzI6Dh1zJg=
+vKd?=3D
+ =3D?us-ascii?q?GlTEN2YMSoHZheui2AOYZ7TcUvSHxytikg0L0Jo5u7cTAKyJs5wx7fbOSKc=
+5WN?=3D
+ =3D?us-ascii?q?4h35VeaRJS10hHB5d72kgxa+61Svyur5VsWs0VZKqDRKksXUu3wQyxDe6NK=
+LRu?=3D
+ =3D?us-ascii?q?Z+80u/wzqDygLe5+9eLU00jabbLoQuwr80lpodq0TDGSr2lV3sg6CKakok/=
+fWo?=3D
+ =3D?us-ascii?q?6+L7YrX9vpCcOIt0igblPaswhsO/Afk3PxMBX2if/uSzz6Ps8lfkQLVWif0=
+6iK?=3D
+ =3D?us-ascii?q?jZsJbCKcQBuqG5GxNV0pok6xunEzmrzMwWk30IIlxKZhyLlYnnN0vLLv3kA=
+/ix?=3D
+ =3D?us-ascii?q?n0+hkDRsx/DaJLLhAY/BIWTEkLfkZbx98VJTyBIvzdBD4JJZEqsOIPDpVU7=
+xrt?=3D
+ =3D?us-ascii?q?DXEgU1Mw+pw+biEtp9zJgTWWGIAq+FKqzSskWE6f4oI+mJfIUVoiryK+A55=
+/7y?=3D
+ =3D?us-ascii?q?in80gV8dcrOz3ZsSdn+3AOhmL1+CYXb2mdcBEGEKvgU+TOHxi12CViJTaGy=
+xX6?=3D
+ =3D?us-ascii?q?4m+j47D4emB5/ZRo+xmLyBwDu7HppOa2BYC1CMEm3oeJ+BW/cXaSKSJMBhk=
+jwe?=3D
+ =3D?us-ascii?q?Wbi7UYAg2wuhtBPhxrpkKerU5jcXtZH52Ndp4O3TkEJ6yTshNe278Uygcyd=
+b2E?=3D
+ =3D?us-ascii?q?AhegUe/4dDiG874XCmleBxgfVJU9cV5O5MWx0SNpnAxu88ANf3HkrBd82MR=
+Vu6?=3D
+ =3D?us-ascii?q?BM7gGjA3QdIZwNgSakU7ENKnyljd3imwCroOlrqEBNou+73Vw1DyINp0yDD=
+N06?=3D
+ =3D?us-ascii?q?xyoUMhR55pNG6mh6o3zAjaHYvA2xGQnK2taKIAxxnC8GCJwGGOsGlXVAl6X=
+KzY?=3D
+ =3D?us-ascii?q?QXdZZ02A/oex3V/LU7L7UedvCQBG08PXcqY=3D3D?=3D
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =3D?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCa=
+LF?=3D
+ =3D?us-ascii?q?I4lRgEFgQIJikCENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEB=
+AQg?=3D
+ =3D?us-ascii?q?WBkMUgjgigm8xgQICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWg=
+uHX?=3D
+ =3D?us-ascii?q?oNNgmMFgSuHIgqKNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMy=
+GoF?=3D
+ =3D?us-ascii?q?2gSYqARKCJIF7ixMBAQE?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCaLFI4lRgEFgQIJi=
+kC?=3D
+ =3D?us-ascii?q?ENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEBAQgWBkMUgjgigm=
+8xg?=3D
+ =3D?us-ascii?q?QICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWguHXoNNgmMFgSuH=
+Igq?=3D
+ =3D?us-ascii?q?KNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMyGoF2gSYqARKCJI=
+F7i?=3D
+ =3D?us-ascii?q?xMBAQE?=3D
+X-IronPort-AV: E=3DSophos;i=3D"5.44,471,1505759400";
+   d=3D"xml'?bin'?scan'72,48,208?xlsx'72,48,208,72,48?rels'72,48,208,72,48"=
+;a=3D"7381903"
+Received: from umail.jcbl.com ([107.182.173.5])  by kotakntmum01.kotak.com
+ with ESMTP; 29 Nov 2017 12:23:03 +0530
+Received: from localhost (localhost [127.0.0.1])        by umail.jcbl.com (=
+Postfix)
+ with ESMTP id 4DBCA1DA148;     Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])     by localhost
+ (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)        wit=
+h ESMTP id
+ fFDM1lsAZxWQ; Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)  id 54650F291A7; Wed=
+, 29
+ Nov 2017 06:52:09 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])    by mx11.jcbl.com
+ (Postfix) with ESMTP id 3598FF291A7;   Wed, 29 Nov 2017 12:22:09 +0530 (IS=
+T)
+Received: from localhost (localhost [127.0.0.1])        by mx10.jcbl.com (P=
+ostfix)
+ with ESMTP id 2E796FEB70A;     Wed, 29 Nov 2017 12:22:09 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])      by localhost (mx9.jcbl.com
+ [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id xZS1IpCmcq7C; Wed, 29
+ Nov 2017 12:22:09 +0530 (IST)
+Received: from [10.20.80.79] (unknown [112.196.83.34])  by mx10.jcbl.com
+ (Postfix) with ESMTPSA id 58E53FEB708; Wed, 29 Nov 2017 12:22:08 +0530 (IS=
+T)
+To: <RANJEET.G.KAUR@KOTAK.COM>, <ajay.c.kumar@kotak.com>,
+        <harmeet.s.singh@kotak.com>, <vikramsingh.rawat@kotak.com>
+From: Nikhil Sharma <accounts_globechd@globeauto.in>
+Subject: INCENTIVE GLOBE
+Message-ID: <a5308faa-ff48-8612-16a0-da6cf1b7a7b9@globeauto.in>
+Date: Wed, 29 Nov 2017 12:17:14 +0530
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary=3D"------------119699CEDCE493D3750608DC"
+Content-Language: en-US
+X-Copyrighted-Material: Please visit http://www.company.com/privacy.htm
+Return-Path: accounts_globechd@globeauto.in
+
+
+--b172b1d9-a21b-475b-a095-2ec9ecc7907f
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Delivery has failed=
+ to these recipients or groups:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:har=
+meet.s.singh@kotak.com">harmeet.s.singh@kotak.com</a><br>
+The recipient's mailbox is full and can't accept messages now. Please try r=
+esending this message later, or contact the recipient directly.<br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnostic informa=
+tion for administrators:</b></p>
+<p>Generating server: kotak.com</p>
+<p>harmeet.s.singh@kotak.com<br>
+ #554-5.2.2 mailbox full
+554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionSh=
+utoffQuotaExceeded; Failed to process message due to a permanent exception =
+with message Cannot open mailbox /o=3DKOTAKGROUP/ou=3DExchange Administrati=
+ve Group (FYDIBOHF23SPDLT)/cn=3DConfiguration/cn=3DServers/cn=3DKMB-GOR-MBX=
+03/cn=3DMicrosoft System Attendant. 16.55847:DA000000, 17.43559:00000000580=
+10000000000000F00000000000000, 255.23226:2B0A0000, 255.27962:FE000000, 255.=
+17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255=
+.1494:00000000, 255.26426:FE000000, 0.22086:EC030000, 0.25876:0F010480, 4.7=
+588:0F010480, 0.25840:0F010480, 4.6564:0F010480, 0.56333:0F010480, 4.6372:0=
+5000780, 0.24916:EC030000, 4.6276:05000780, 4.23921:EC030000, 6.21970:0F010=
+48040000C68B0840130, 4.23921:EC030000, 6.21970:0F01048000806F670F010480, 4.=
+24305:0F010480, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:=
+DD040000, 0.56415:0F010480, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD04=
+0000, 255.1750:0F010480, 0.26849:00000000, 255.21817:DD040000, 0.26297:0F01=
+0480, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:00000000=
+, 4.20665:DD040000, 0.25785:0F010480, 4.29881:DD040000 ##</p>
+<p>Original message headers:</p>
+<pre>Received: from kotakntmum01.kotak.com (10.10.2.28) by
+ KGP-GOR-HUB02.KotakGroup.com (10.240.8.52) with Microsoft SMTP Server (TLS=
+)
+ id 14.3.339.0; Wed, 29 Nov 2017 12:23:59 +0530
+IronPort-PHdr: =3D?us-ascii?q?9a23=3D3AIoLMGRCAMRM9AmP0zh9hUyQJP3N1i/DPJgcQ=
+r6Af?=3D
+ =3D?us-ascii?q?oPdwSP37pMWwAkXT6L1XgUPTWs2DsrQf2rqQ6/iocFdDyK7JiGoFfp1IWk1=
+Nou?=3D
+ =3D?us-ascii?q?QttCtkPvS4D1bmJuXhdS0wEZcKflZk+3amLRodQ56mNBXdrXKo8DEdBAj0O=
+xZr?=3D
+ =3D?us-ascii?q?KeTpAI7SiNm82/yv95HJbQhFgDmwbaluIBmqsA7cqtQYjYx+J6gr1xDHuGF=
+Ie+?=3D
+ =3D?us-ascii?q?NYxWNpIVKcgRPx7dqu8ZBg7ipdpesv+9ZPXqvmcas4S6dYDCk9PGAu+MLrr=
+xjD?=3D
+ =3D?us-ascii?q?QhCR6XYaT24bjwBHAwnB7BH9Q5fxri73vfdz1SWGIcH7S60/VDK/5KlpVRD=
+okj?=3D
+ =3D?us-ascii?q?8KOSA5/m/KicJ+gqxUrx29qBFkxo7YfJuYOeBicq7Tf94XQ3dKUMZLVyxGB=
+4Ox?=3D
+ =3D?us-ascii?q?d5MBD+sCPeZYron9o0YFowa+BQa2HuPvzyVHjWLx0KIgz+suDQbG3BEmH9I=
+Sq3?=3D
+ =3D?us-ascii?q?TbtNr1NKMVUe+u0qbH0TXDYO5N1Dfy7IjIdQsuru+WUrJtbcrRzlMjFwLDj=
+liJ?=3D
+ =3D?us-ascii?q?r4HuIjCb1vwVvmSG8+ZtV/ijh3Mkpg1vuDSj28Uhh4fTio8V0lzI6Dh1zJg=
+vKd?=3D
+ =3D?us-ascii?q?GlTEN2YMSoHZheui2AOYZ7TcUvSHxytikg0L0Jo5u7cTAKyJs5wx7fbOSKc=
+5WN?=3D
+ =3D?us-ascii?q?4h35VeaRJS10hHB5d72kgxa+61Svyur5VsWs0VZKqDRKksXUu3wQyxDe6NK=
+LRu?=3D
+ =3D?us-ascii?q?Z+80u/wzqDygLe5+9eLU00jabbLoQuwr80lpodq0TDGSr2lV3sg6CKakok/=
+fWo?=3D
+ =3D?us-ascii?q?6+L7YrX9vpCcOIt0igblPaswhsO/Afk3PxMBX2if/uSzz6Ps8lfkQLVWif0=
+6iK?=3D
+ =3D?us-ascii?q?jZsJbCKcQBuqG5GxNV0pok6xunEzmrzMwWk30IIlxKZhyLlYnnN0vLLv3kA=
+/ix?=3D
+ =3D?us-ascii?q?n0+hkDRsx/DaJLLhAY/BIWTEkLfkZbx98VJTyBIvzdBD4JJZEqsOIPDpVU7=
+xrt?=3D
+ =3D?us-ascii?q?DXEgU1Mw+pw+biEtp9zJgTWWGIAq+FKqzSskWE6f4oI+mJfIUVoiryK+A55=
+/7y?=3D
+ =3D?us-ascii?q?in80gV8dcrOz3ZsSdn+3AOhmL1+CYXb2mdcBEGEKvgU+TOHxi12CViJTaGy=
+xX6?=3D
+ =3D?us-ascii?q?4m+j47D4emB5/ZRo+xmLyBwDu7HppOa2BYC1CMEm3oeJ+BW/cXaSKSJMBhk=
+jwe?=3D
+ =3D?us-ascii?q?Wbi7UYAg2wuhtBPhxrpkKerU5jcXtZH52Ndp4O3TkEJ6yTshNe278Uygcyd=
+b2E?=3D
+ =3D?us-ascii?q?AhegUe/4dDiG874XCmleBxgfVJU9cV5O5MWx0SNpnAxu88ANf3HkrBd82MR=
+Vu6?=3D
+ =3D?us-ascii?q?BM7gGjA3QdIZwNgSakU7ENKnyljd3imwCroOlrqEBNou+73Vw1DyINp0yDD=
+N06?=3D
+ =3D?us-ascii?q?xyoUMhR55pNG6mh6o3zAjaHYvA2xGQnK2taKIAxxnC8GCJwGGOsGlXVAl6X=
+KzY?=3D
+ =3D?us-ascii?q?QXdZZ02A/oex3V/LU7L7UedvCQBG08PXcqY=3D3D?=3D
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =3D?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCa=
+LF?=3D
+ =3D?us-ascii?q?I4lRgEFgQIJikCENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEB=
+AQg?=3D
+ =3D?us-ascii?q?WBkMUgjgigm8xgQICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWg=
+uHX?=3D
+ =3D?us-ascii?q?oNNgmMFgSuHIgqKNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMy=
+GoF?=3D
+ =3D?us-ascii?q?2gSYqARKCJIF7ixMBAQE?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCaLFI4lRgEFgQIJi=
+kC?=3D
+ =3D?us-ascii?q?ENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEBAQgWBkMUgjgigm=
+8xg?=3D
+ =3D?us-ascii?q?QICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWguHXoNNgmMFgSuH=
+Igq?=3D
+ =3D?us-ascii?q?KNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMyGoF2gSYqARKCJI=
+F7i?=3D
+ =3D?us-ascii?q?xMBAQE?=3D
+X-IronPort-AV: E=3DSophos;i=3D&quot;5.44,471,1505759400&quot;;=20
+   d=3D&quot;xml'?bin'?scan'72,48,208?xlsx'72,48,208,72,48?rels'72,48,208,7=
+2,48&quot;;a=3D&quot;7381903&quot;
+Received: from umail.jcbl.com ([107.182.173.5])  by kotakntmum01.kotak.com
+ with ESMTP; 29 Nov 2017 12:23:03 +0530
+Received: from localhost (localhost [127.0.0.1])	by umail.jcbl.com (Postfix=
+)
+ with ESMTP id 4DBCA1DA148;	Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])	by localhost
+ (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP=
+ id
+ fFDM1lsAZxWQ; Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)	id 54650F291A7; Wed,=
+ 29
+ Nov 2017 06:52:09 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])	by mx11.jcbl.com
+ (Postfix) with ESMTP id 3598FF291A7;	Wed, 29 Nov 2017 12:22:09 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])	by mx10.jcbl.com (Postfix)
+ with ESMTP id 2E796FEB70A;	Wed, 29 Nov 2017 12:22:09 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])	by localhost (mx9.jcbl.com
+ [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id xZS1IpCmcq7C; Wed, 29
+ Nov 2017 12:22:09 +0530 (IST)
+Received: from [10.20.80.79] (unknown [112.196.83.34])	by mx10.jcbl.com
+ (Postfix) with ESMTPSA id 58E53FEB708;	Wed, 29 Nov 2017 12:22:08 +0530 (IS=
+T)
+To: &lt;RANJEET.G.KAUR@KOTAK.COM&gt;, &lt;ajay.c.kumar@kotak.com&gt;,
+	&lt;harmeet.s.singh@kotak.com&gt;, &lt;vikramsingh.rawat@kotak.com&gt;
+From: Nikhil Sharma &lt;accounts_globechd@globeauto.in&gt;
+Subject: INCENTIVE GLOBE
+Message-ID: &lt;a5308faa-ff48-8612-16a0-da6cf1b7a7b9@globeauto.in&gt;
+Date: Wed, 29 Nov 2017 12:17:14 +0530
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary=3D&quot;------------119699CEDCE493D3750608DC&quot;
+Content-Language: en-US
+X-Copyrighted-Material: Please visit http://www.company.com/privacy.htm
+Return-Path: accounts_globechd@globeauto.in
+</pre>
+</font>
+</body>
+</html>=
+
+--b172b1d9-a21b-475b-a095-2ec9ecc7907f--
+
+--384d3744-543f-4477-88b2-eda8f5cab136
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;kotak.com
+Received-From-MTA: dns;kotakntmum01.kotak.com
+Arrival-Date: Wed, 29 Nov 2017 06:53:59 +0000
+
+Final-Recipient: rfc822;harmeet.s.singh@kotak.com
+Action: failed
+Status: 5.2.2
+Diagnostic-Code: smtp;554-5.2.2 mailbox full
+ 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=KOTAKGROUP/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=KMB-GOR-MBX03/cn=Microsoft System Attendant. 16.55847:DA000000, 17.43559:0000000058010000000000000F00000000000000, 255.23226:2B0A0000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 0.22086:EC030000, 0.25876:0F010480, 4.7588:0F010480, 0.25840:0F010480, 4.6564:0F010480, 0.56333:0F010480, 4.6372:05000780, 0.24916:EC030000, 4.6276:05000780, 4.23921:EC030000, 6.21970:0F01048040000C68B0840130, 4.23921:EC030000, 6.21970:0F01048000806F670F010480, 4.24305:0F010480, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:DD040000, 0.56415:0F010480, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:0
+ 0000000, 255.21817:DD040000, 0.26297:0F010480, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:00000000, 4.20665:DD040000, 0.25785:0F010480, 4.29881:DD040000
+
+
+--384d3744-543f-4477-88b2-eda8f5cab136
+Content-Type: message/rfc822
+
+Received: from kotakntmum01.kotak.com (10.10.2.28) by
+ KGP-GOR-HUB02.KotakGroup.com (10.240.8.52) with Microsoft SMTP Server (TLS)
+ id 14.3.339.0; Wed, 29 Nov 2017 12:23:59 +0530
+IronPort-PHdr: =?us-ascii?q?9a23=3AIoLMGRCAMRM9AmP0zh9hUyQJP3N1i/DPJgcQr6Af?=
+ =?us-ascii?q?oPdwSP37pMWwAkXT6L1XgUPTWs2DsrQf2rqQ6/iocFdDyK7JiGoFfp1IWk1Nou?=
+ =?us-ascii?q?QttCtkPvS4D1bmJuXhdS0wEZcKflZk+3amLRodQ56mNBXdrXKo8DEdBAj0OxZr?=
+ =?us-ascii?q?KeTpAI7SiNm82/yv95HJbQhFgDmwbaluIBmqsA7cqtQYjYx+J6gr1xDHuGFIe+?=
+ =?us-ascii?q?NYxWNpIVKcgRPx7dqu8ZBg7ipdpesv+9ZPXqvmcas4S6dYDCk9PGAu+MLrrxjD?=
+ =?us-ascii?q?QhCR6XYaT24bjwBHAwnB7BH9Q5fxri73vfdz1SWGIcH7S60/VDK/5KlpVRDokj?=
+ =?us-ascii?q?8KOSA5/m/KicJ+gqxUrx29qBFkxo7YfJuYOeBicq7Tf94XQ3dKUMZLVyxGB4Ox?=
+ =?us-ascii?q?d5MBD+sCPeZYron9o0YFowa+BQa2HuPvzyVHjWLx0KIgz+suDQbG3BEmH9ISq3?=
+ =?us-ascii?q?TbtNr1NKMVUe+u0qbH0TXDYO5N1Dfy7IjIdQsuru+WUrJtbcrRzlMjFwLDjliJ?=
+ =?us-ascii?q?r4HuIjCb1vwVvmSG8+ZtV/ijh3Mkpg1vuDSj28Uhh4fTio8V0lzI6Dh1zJgvKd?=
+ =?us-ascii?q?GlTEN2YMSoHZheui2AOYZ7TcUvSHxytikg0L0Jo5u7cTAKyJs5wx7fbOSKc5WN?=
+ =?us-ascii?q?4h35VeaRJS10hHB5d72kgxa+61Svyur5VsWs0VZKqDRKksXUu3wQyxDe6NKLRu?=
+ =?us-ascii?q?Z+80u/wzqDygLe5+9eLU00jabbLoQuwr80lpodq0TDGSr2lV3sg6CKakok/fWo?=
+ =?us-ascii?q?6+L7YrX9vpCcOIt0igblPaswhsO/Afk3PxMBX2if/uSzz6Ps8lfkQLVWif06iK?=
+ =?us-ascii?q?jZsJbCKcQBuqG5GxNV0pok6xunEzmrzMwWk30IIlxKZhyLlYnnN0vLLv3kA/ix?=
+ =?us-ascii?q?n0+hkDRsx/DaJLLhAY/BIWTEkLfkZbx98VJTyBIvzdBD4JJZEqsOIPDpVU7xrt?=
+ =?us-ascii?q?DXEgU1Mw+pw+biEtp9zJgTWWGIAq+FKqzSskWE6f4oI+mJfIUVoiryK+A55/7y?=
+ =?us-ascii?q?in80gV8dcrOz3ZsSdn+3AOhmL1+CYXb2mdcBEGEKvgU+TOHxi12CViJTaGyxX6?=
+ =?us-ascii?q?4m+j47D4emB5/ZRo+xmLyBwDu7HppOa2BYC1CMEm3oeJ+BW/cXaSKSJMBhkjwe?=
+ =?us-ascii?q?Wbi7UYAg2wuhtBPhxrpkKerU5jcXtZH52Ndp4O3TkEJ6yTshNe278Uygcydb2E?=
+ =?us-ascii?q?AhegUe/4dDiG874XCmleBxgfVJU9cV5O5MWx0SNpnAxu88ANf3HkrBd82MRVu6?=
+ =?us-ascii?q?BM7gGjA3QdIZwNgSakU7ENKnyljd3imwCroOlrqEBNou+73Vw1DyINp0yDDN06?=
+ =?us-ascii?q?xyoUMhR55pNG6mh6o3zAjaHYvA2xGQnK2taKIAxxnC8GCJwGGOsGlXVAl6XKzY?=
+ =?us-ascii?q?QXdZZ02A/oex3V/LU7L7UedvCQBG08PXcqY=3D?=
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCaLF?=
+ =?us-ascii?q?I4lRgEFgQIJikCENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEBAQg?=
+ =?us-ascii?q?WBkMUgjgigm8xgQICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWguHX?=
+ =?us-ascii?q?oNNgmMFgSuHIgqKNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMyGoF?=
+ =?us-ascii?q?2gSYqARKCJIF7ixMBAQE?=
+X-IPAS-Result: =?us-ascii?q?A0ATFgDIWB5alwWttmtcHAMEDIUShCaLFI4lRgEFgQIJikC?=
+ =?us-ascii?q?ENYMlghmCd4IBBwGFNwSFCkMUAQEBAQEBAQEBARIBAQEBAQgWBkMUgjgigm8xg?=
+ =?us-ascii?q?QICBCoyCgIIAQGKEQwBBQGmW4Inh22DHA+DPYIJgQ6CWguHXoNNgmMFgSuHIgq?=
+ =?us-ascii?q?KNSGFfYc+gWWESYFrh2eIbwEYhg+DY4dJjkmJMQI2gXMyGoF2gSYqARKCJIF7i?=
+ =?us-ascii?q?xMBAQE?=
+X-IronPort-AV: E=Sophos;i="5.44,471,1505759400"; 
+   d="xml'?bin'?scan'72,48,208?xlsx'72,48,208,72,48?rels'72,48,208,72,48";a="7381903"
+Received: from umail.jcbl.com ([107.182.173.5])  by kotakntmum01.kotak.com
+ with ESMTP; 29 Nov 2017 12:23:03 +0530
+Received: from localhost (localhost [127.0.0.1])	by umail.jcbl.com (Postfix)
+ with ESMTP id 4DBCA1DA148;	Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+X-Virus-Scanned: amavisd-new at umail.jcbl.com.jcbl.com
+Received: from umail.jcbl.com ([127.0.0.1])	by localhost
+ (umail.jcbl.com.jcbl.com [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id
+ fFDM1lsAZxWQ; Wed, 29 Nov 2017 12:23:06 +0530 (IST)
+Received: by mx11.jcbl.com (Postfix, from userid 5001)	id 54650F291A7; Wed, 29
+ Nov 2017 06:52:09 +0000 (UTC)
+Received: from mx10.jcbl.com (localhost [127.0.0.1])	by mx11.jcbl.com
+ (Postfix) with ESMTP id 3598FF291A7;	Wed, 29 Nov 2017 12:22:09 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])	by mx10.jcbl.com (Postfix)
+ with ESMTP id 2E796FEB70A;	Wed, 29 Nov 2017 12:22:09 +0530 (IST)
+Received: from mx10.jcbl.com ([127.0.0.1])	by localhost (mx9.jcbl.com
+ [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id xZS1IpCmcq7C; Wed, 29
+ Nov 2017 12:22:09 +0530 (IST)
+Received: from [10.20.80.79] (unknown [112.196.83.34])	by mx10.jcbl.com
+ (Postfix) with ESMTPSA id 58E53FEB708;	Wed, 29 Nov 2017 12:22:08 +0530 (IST)
+To: <RANJEET.G.KAUR@KOTAK.COM>, <ajay.c.kumar@kotak.com>,
+	<harmeet.s.singh@kotak.com>, <vikramsingh.rawat@kotak.com>
+From: Nikhil Sharma <accounts_globechd@globeauto.in>
+Subject: INCENTIVE GLOBE
+Message-ID: <a5308faa-ff48-8612-16a0-da6cf1b7a7b9@globeauto.in>
+Date: Wed, 29 Nov 2017 12:17:14 +0530
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="------------119699CEDCE493D3750608DC"
+Content-Language: en-US
+X-Copyrighted-Material: Please visit http://www.company.com/privacy.htm
+Return-Path: accounts_globechd@globeauto.in
+
+--------------119699CEDCE493D3750608DC
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format=flowed
+Content-Transfer-Encoding: base64
+
+IiJUaGUgU2VuZGVyIG9mIHRoaXMgZW1haWwgaXMgZnJvbSBub24gS290YWsgZG9tYWluIiIgCgoK
+CgpEZWFyIFNpciwKClBsZWFzZSBGaW5kIEF0dGFjaGVkIEZpbGUuCgotLSAKVGhhbmtzICYgUmVn
+YXJkcwpOaWtoaWwgU2hhcm1hCkFjY291bnRzIERlcHR0LgpHbG9iZSBUb3lvdGEgLSBNb2hhbGkK
+KzkxLTk2NDYwNDkxMzkKCg==
+
+--------------119699CEDCE493D3750608DC
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="KOTAK INCENTIVE Bank Account Sheet OCT'171.xlsx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="KOTAK  INCENTIVE Bank Account Sheet OCT'171.xlsx"
+
+UEsDBBQABgAIAAAAIQCqUB8GhQEAAIQFAAATANwBW0NvbnRlbnRfVHlwZXNdLnhtbCCi2AEo
+oAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArFRbT8IwFH438T8sfTWs
+6IMxhsGDl0clAX9AaQ+soWubnqPCv/dsEyIGZ8h42bJLv1u/09FkU7nsAxLa4AtxnQ9FBl4H
+Y/2qEG/z58GdyJCUN8oFD4XYAorJ+PJiNN9GwIxXeyxESRTvpURdQqUwDxE8f1mGVCnix7SS
+Uem1WoG8GQ5vpQ6ewNOAagwxHj3CUr07yp42/LpVsrBeZA/tfzVVIVSMzmpFLFR+ePOLZBCW
+S6vBBP1eMXSOMYEyWAJQ5fKYLDOmGRCxMRRyPHpl08kayKYq0YuqmEFunCR2AO31OmcPvUQ0
+YFc1yt+ESFsH2Jvq0G8LumM+Em8Ch6dZ+97AnFc2e4CljdjB0J1ddyafIa0XIazPnUrdhrxS
+1u90HysBV2iaQkTJhestAOpGGzCDyJCQyMI+s2PcXMDae1NblM2tfwsPq7HH78qAdWjl9EPJ
+WfXO4JB/j/sPP5YqgZkRT+7q7OPxE7tLx74LOiQ4PYjdzNSrjzRANmfo+AsAAP//AwBQSwME
+FAAGAAgAAAAhALVVMCP1AAAATAIAAAsAzgFfcmVscy8ucmVscyCiygEooAACAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAIySz07DMAzG70i8Q+T76m5ICKGlu0xIuyFUHsAk7h+1jaMkQPf2hAOC
+SmPb0fbnzz9b3u7maVQfHGIvTsO6KEGxM2J712p4rZ9WD6BiImdpFMcajhxhV93ebF94pJSb
+Ytf7qLKLixq6lPwjYjQdTxQL8exypZEwUcphaNGTGahl3JTlPYa/HlAtPNXBaggHeweqPvo8
++bK3NE1veC/mfWKXToxAnhM7y3blQ2YLqc/bqJpCy0mDFfOc0xHJ+yJjA54m2lxP9P+2OHEi
+S4nQSODzPN+Kc0Dr64Eun2ip+L3OPOKnhOFNZPhhwcUPVF8AAAD//wMAUEsDBBQABgAIAAAA
+IQCSB5TsBAEAAD8DAAAaAAgBeGwvX3JlbHMvd29ya2Jvb2sueG1sLnJlbHMgogQBKKAAAQAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+--------------119699CEDCE493D3750608DC--
+
+--384d3744-543f-4477-88b2-eda8f5cab136--
+
+--===============3091058943296537695==
+Content-Type: multipart/alternative; boundary="===============6720887757213788256=="
+MIME-Version: 1.0
+Content-Disposition: inline
+
+--===============6720887757213788256==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+DISCLAIMER:
+This communication is confidential and privileged and is directed to and fo=
+r the use of the addressee only. The recipient if not the addressee should =
+not use this message if erroneously received, and access and use of this e-=
+mail in any manner by anyone other than the addressee is unauthorized. If y=
+ou are not the intended recipient, please notify the sender by return email=
+ and immediately destroy all copies of this message and any attachments and=
+ delete it from your computer system permanently. The recipient acknowledge=
+s that Kotak Mahindra Bank Limited may be unable to exercise control or ens=
+ure or guarantee the integrity of the text of the email message and the tex=
+t is not warranted as to completeness and accuracy. Before opening and acce=
+ssing the attachment, if any, please check and scan for virus.
+--===============6720887757213788256==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<P><br>DISCLAIMER:<br>This communication is confidential and privileged and=
+ is directed to and for the use of the addressee only. The recipient if not=
+ the addressee should not use this message if erroneously received, and acc=
+ess and use of this e-mail in any manner by anyone other than the addressee=
+ is unauthorized. If you are not the intended recipient, please notify the =
+sender by return email and immediately destroy all copies of this message a=
+nd any attachments and delete it from your computer system permanently. The=
+ recipient acknowledges that Kotak Mahindra Bank Limited may be unable to e=
+xercise control or ensure or guarantee the integrity of the text of the ema=
+il message and the text is not warranted as to completeness and accuracy. B=
+efore opening and accessing the attachment, if any, please check and scan f=
+or virus.<br></P>
+--===============6720887757213788256==--
+--===============3091058943296537695==--
