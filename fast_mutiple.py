@@ -5,6 +5,7 @@ import json
 import spacy
 import email
 from bs4 import BeautifulSoup
+import sys
 
 
 def multiple(mail_dir):
@@ -113,4 +114,5 @@ stopWords = spacy.lang.en.stop_words.STOP_WORDS
 with open("dictionary") as dic:
     dictionary = json.load(dic)
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
-multiple('a/')
+directory = sys.argv[1]
+multiple(directory)
