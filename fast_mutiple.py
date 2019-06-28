@@ -12,6 +12,7 @@ def multiple(mail_dir):
     emails = [os.path.join(mail_dir, f) for f in os.listdir(mail_dir)]  # reads file names in directory
     with open("fastresult.txt", "w") as res:
         for mail in emails:
+            print(mail + " is processing...")
             result = predict(mail)
             if result == 1:
                 res.write(mail + " is a spam!!!\n")
