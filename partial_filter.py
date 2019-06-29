@@ -28,9 +28,11 @@ def extract_features(files):
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     for fil in files:
+        print(fil + "is in process...")
         features = mail_features(fil)
         features_matrix[docID] = features
         docID = docID + 1
+        print(str(docID) + ": " + fil + " is processed.")
     print("Mails processed: ", docID)
     return features_matrix
 
