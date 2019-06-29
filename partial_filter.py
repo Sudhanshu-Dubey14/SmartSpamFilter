@@ -19,7 +19,7 @@ def update_Dictionary(emails):
     new_dictionary = Counter(all_words)	  # Counts number of occurrences of words
     for i, d in enumerate(dictionary):
         new_dictionary.update({d[0]: d[1]})
-    new_dictionary = new_dictionary.most_common(3000)
+    new_dictionary = new_dictionary.most_common(4000)
     return new_dictionary
 
 
@@ -58,6 +58,7 @@ def preprocessor(mail):
         find_payload(mail_body, all_words)
     except UnicodeDecodeError:
         pass
+    print("Keywords extracted from " + mail)
     return all_words
 
 
@@ -133,15 +134,18 @@ no_emails = len(emails)
 
 '''Produce and save new dictionary'''
 new_dictionary = update_Dictionary(emails)
+print("Dictionary Updated!")
 with open("dictionary", "w") as dic:
     json.dump(new_dictionary, dic)
 
 '''Find new features'''
 new_features = extract_features(emails)
+print("New features obtained")
 new_train_labels = np.zeros(no_emails)
 new_train_labels[0:no_emails] = 1
 
 ml_model.partial_fit(new_features, new_train_labels)
 pickle.dump(ml_model, open('spamfilter.sav', 'wb'))
+print("ML Model updated!")
 
 # multiple(directory)
