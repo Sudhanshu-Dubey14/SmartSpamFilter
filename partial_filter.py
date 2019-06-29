@@ -22,13 +22,13 @@ def update_Dictionary(emails):
     new_dictionary = Counter(all_words)	  # Counts number of occurrences of words
     for i, d in enumerate(dictionary):
         new_dictionary.update({d[0]: d[1]})
-    new_dictionary = new_dictionary.most_common(4000)
+    new_dictionary = new_dictionary.most_common(3000)
     return new_dictionary
 
 
 def extract_features(files):
     """ Method to extract features from all mails"""
-    features_matrix = np.zeros((len(files), 4000)) 	# makes matrix of len(files)x3000 containing all 0s
+    features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     for fil in files:
         print(fil + "is in process...")
@@ -41,7 +41,7 @@ def extract_features(files):
 
 
 def mail_features(mail):
-    features_matrix = np.zeros((1, 4000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
     words = preprocessor(mail)
     for word in words:
         wordID = 0
