@@ -14,6 +14,7 @@ def update_Dictionary(emails):
     all_words = []
     i = 0
     for mail in emails:
+        i = i + 1
         print("mail id: " + str(i))
         words = preprocessor(mail)
         all_words += words
@@ -27,7 +28,7 @@ def update_Dictionary(emails):
 
 def extract_features(files):
     """ Method to extract features from all mails"""
-    features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
+    features_matrix = np.zeros((len(files), 4000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     for fil in files:
         print(fil + "is in process...")
