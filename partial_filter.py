@@ -12,7 +12,9 @@ from collections import Counter
 def update_Dictionary(emails):
     """ Method to update Dictionary"""
     all_words = []
+    i = 0
     for mail in emails:
+        print("mail id: " + str(i))
         words = preprocessor(mail)
         all_words += words
 
@@ -38,7 +40,7 @@ def extract_features(files):
 
 
 def mail_features(mail):
-    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, 4000)) 	# makes matrix of 1x3000 containing all 0s
     words = preprocessor(mail)
     for word in words:
         wordID = 0
