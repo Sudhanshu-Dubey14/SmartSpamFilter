@@ -1,3 +1,15 @@
+# -*- coding: utf-8 -*-
+
+
+## \file
+# \brief  Mail Processing Code
+# This code loads the modules and process all files at once.
+# \author Sudhanshu Dubey
+# \version    1.0
+# \date   25/6/2019
+# \bug No known bugs
+
+
 import os
 import pickle
 import numpy as np
@@ -9,6 +21,11 @@ import sys
 
 
 def multiple(mail_dir):
+    ##
+    # \brief   Method to predict results for all mails individually
+    # \param    mail_dir The directory containing mails
+    # \return   Nothing
+
     i = 0
     emails = [os.path.join(mail_dir, f) for f in os.listdir(mail_dir)]  # reads file names in directory
     with open("fastresult.txt", "w") as res:
@@ -27,12 +44,22 @@ def multiple(mail_dir):
 
 
 def predict(mail_file):
+    ##
+    # \brief   Method to predict result of a single mail
+    # \param    mail_file The address of mail
+    # \return   result: The result of a mail in binary
+
     features_matrix = mail_features(mail_file)
     result = ml_model.predict(features_matrix)
     return result
 
 
 def mail_features(mail):
+    ##
+    # \brief   Method to find features of a single mail
+    # \param    mail The address of mail
+    # \return   features_matrix: The features of a single mail
+
     features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
     words = preprocessor(mail)
     for word in words:
@@ -45,6 +72,11 @@ def mail_features(mail):
 
 
 def preprocessor(mail):
+    ##
+    # \brief   Method to pre-process the mails
+    # \param    mail The address of mail
+    # \return   all_words: List of all words in mail
+
     all_words = []
     try:
         with open(mail, "r", encoding="us-ascii") as em:
@@ -57,6 +89,12 @@ def preprocessor(mail):
 
 
 def find_payload(mail_body, all_words):
+    ##
+    # \brief   Method to recursively find single part payloads
+    # \param    mail_body   The complete mail body
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     if mail_body.is_multipart():
         for load in mail_body.get_payload():
             find_payload(load, all_words)
@@ -65,6 +103,12 @@ def find_payload(mail_body, all_words):
 
 
 def split_payload(payload, all_words):
+    ##
+    # \brief   Method to split the large payloads into smaller chunks
+    # \param    payload The complete payload
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     content_subtype = payload.get_content_subtype()
     if content_subtype == "plain":
         content = payload.get_payload()
@@ -85,6 +129,12 @@ def split_payload(payload, all_words):
 
 
 def get_words_plain(content, all_words):
+    ##
+    # \brief   Method to get words out of plain text content
+    # \param    content Plain text content
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     nlpmail = nlp(content)
     for word in nlpmail:
         lemma = word.lemma_
@@ -94,6 +144,12 @@ def get_words_plain(content, all_words):
 
 
 def get_words_html(content, all_words):
+    ##
+    # \brief   Method to get words out of html content
+    # \param    content The html content
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     pure_html = BeautifulSoup(content, features="lxml")
     for script in pure_html(["script", "style"]):
         script.extract()
