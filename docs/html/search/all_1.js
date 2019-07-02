@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['detector',['detector',['../namespacesample.html#a6355511c28a60bb31b2871c9dd0d9fd4',1,'sample']]],
-  ['dictionary',['dictionary',['../namespacespam__filter.html#afa746cf1d46132f610b1843e8732b27f',1,'spam_filter']]]
+  ['all_5fwords',['all_words',['../namespacesupporters_1_1preprocessor.html#afe178950f65f48c3e98d5104a95b4954',1,'supporters::preprocessor']]]
 ];

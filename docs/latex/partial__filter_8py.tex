@@ -1,0 +1,49 @@
+\hypertarget{partial__filter_8py}{}\doxysection{partial\+\_\+filter.\+py File Reference}
+\label{partial__filter_8py}\index{partial\_filter.py@{partial\_filter.py}}
+\doxysubsection*{Namespaces}
+\begin{DoxyCompactItemize}
+\item 
+ \mbox{\hyperlink{namespacepartial__filter}{partial\+\_\+filter}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a21351a3753bb0d91b74552d5952ddce6}{partial\+\_\+filter.\+update\+\_\+\+Dictionary}} (emails)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a8b2a9d15e90d727dd3786fe5dc57ac23}{partial\+\_\+filter.\+extract\+\_\+features}} (files)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_ac75195c304de71f6b68770b1d9b57a61}{partial\+\_\+filter.\+mail\+\_\+features}} (mail)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_adc4e802296e5481e232509a4034a4cd6}{partial\+\_\+filter.\+preprocessor}} (mail)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a3328db811a7203a37c2ba59c0fe35c1c}{partial\+\_\+filter.\+find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a2c0757b30ae1a1185083f09ef2db2607}{partial\+\_\+filter.\+split\+\_\+payload}} (payload, all\+\_\+words)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a233f3b6e8a09e1d5dbb0bc88a73e9370}{partial\+\_\+filter.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a4270c3db6274b4a15d8f6768745cb4b4}{partial\+\_\+filter.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacepartial__filter_a3d4bd597d4c83333904150c23d5cd747}{partial\+\_\+filter.\+nlp}} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
+\item 
+\mbox{\hyperlink{namespacepartial__filter_a378443b2b08c05b409184a61689068f0}{partial\+\_\+filter.\+stop\+Words}} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
+\item 
+\mbox{\hyperlink{namespacepartial__filter_abeb9653bf38a079d3929f3841da97974}{partial\+\_\+filter.\+dictionary}} = json.\+load(dic)
+\item 
+\mbox{\hyperlink{namespacepartial__filter_a0ce3a30974305bba172b89d5d36a2bdf}{partial\+\_\+filter.\+ml\+\_\+model}} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
+\item 
+\mbox{\hyperlink{namespacepartial__filter_a2b5e3c840834149c194ca71ec065ebd2}{partial\+\_\+filter.\+directory}} = sys.\+argv\mbox{[}1\mbox{]}
+\item 
+list \mbox{\hyperlink{namespacepartial__filter_a7690d252ddfe0e6b0444696027afed98}{partial\+\_\+filter.\+emails}} = \mbox{[}os.\+path.\+join(directory, f) for f in os.\+listdir(directory)\mbox{]}
+\item 
+\mbox{\hyperlink{namespacepartial__filter_ad7fd427ed5c4b0fd22eec24ee96b38a2}{partial\+\_\+filter.\+no\+\_\+emails}} = len(emails)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a074f1ab0c2f4ab997489900b9a5383f9}{partial\+\_\+filter.\+new\+\_\+dictionary}} = update\+\_\+\+Dictionary(emails)
+\item 
+def \mbox{\hyperlink{namespacepartial__filter_a97290cc0f739f469ef22cdb8c8807756}{partial\+\_\+filter.\+new\+\_\+features}} = extract\+\_\+features(emails)
+\item 
+\mbox{\hyperlink{namespacepartial__filter_ac88bac384c797900c77272d7a0a0ff76}{partial\+\_\+filter.\+new\+\_\+train\+\_\+labels}} = np.\+zeros(no\+\_\+emails)
+\end{DoxyCompactItemize}

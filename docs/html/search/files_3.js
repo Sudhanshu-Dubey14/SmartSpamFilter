@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['sample_2epy',['sample.py',['../sample_8py.html',1,'']]],
-  ['spam_5ffilter_2epy',['spam_filter.py',['../spam__filter_8py.html',1,'']]]
+  ['partial_5ffilter_2epy',['partial_filter.py',['../partial__filter_8py.html',1,'']]],
+  ['preprocessor_2epy',['preprocessor.py',['../preprocessor_8py.html',1,'']]]
 ];

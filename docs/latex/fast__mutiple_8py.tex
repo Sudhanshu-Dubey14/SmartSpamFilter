@@ -1,0 +1,60 @@
+\hypertarget{fast__mutiple_8py}{}\doxysection{fast\+\_\+mutiple.\+py File Reference}
+\label{fast__mutiple_8py}\index{fast\_mutiple.py@{fast\_mutiple.py}}
+
+
+Mail Processing Code This code loads the modules and process all files at once.  
+
+
+\doxysubsection*{Namespaces}
+\begin{DoxyCompactItemize}
+\item 
+ \mbox{\hyperlink{namespacefast__mutiple}{fast\+\_\+mutiple}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a80638bf2a4ca2d3e662a88199fd19cf4}{fast\+\_\+mutiple.\+multiple}} (mail\+\_\+dir)
+\begin{DoxyCompactList}\small\item\em Method to predict results for all mails individually. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_abf69be710bfd6ff2d32e43a1c8df2336}{fast\+\_\+mutiple.\+predict}} (mail\+\_\+file)
+\begin{DoxyCompactList}\small\item\em Method to predict result of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a6a7d8d9e6a2f21d3c883e251467fd385}{fast\+\_\+mutiple.\+mail\+\_\+features}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to find features of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a1973c566e2dda21af0aa14c52b331555}{fast\+\_\+mutiple.\+preprocessor}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to pre-\/process the mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_acef59e0bef0e8fce2fd60eac67322db3}{fast\+\_\+mutiple.\+find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to recursively find single part payloads. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a91992ecad9656467f38bfbaf6f807f16}{fast\+\_\+mutiple.\+split\+\_\+payload}} (payload, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to split the large payloads into smaller chunks. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_abfeae0f360d60b514f7052930b61a778}{fast\+\_\+mutiple.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a1ac6305c38a614734cc312ed00a7a2a7}{fast\+\_\+mutiple.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_af6b1299fb0460ed9ed5d5ceb8d81e4f9}{fast\+\_\+mutiple.\+nlp}} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_aaf95033f9bd09f5f42c63d7ba1dd9f30}{fast\+\_\+mutiple.\+stop\+Words}} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_a846bad529ed15c1b6bb6d55d24ac4585}{fast\+\_\+mutiple.\+dictionary}} = json.\+load(dic)
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_ae8ead694c29ea0fcea9aa55378e741b6}{fast\+\_\+mutiple.\+ml\+\_\+model}} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_a4975c54524c7b6f9d16c9fa47fb72ab8}{fast\+\_\+mutiple.\+directory}} = sys.\+argv\mbox{[}1\mbox{]}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Mail Processing Code This code loads the modules and process all files at once. 
+
+\begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+25/6/2019 
+\end{DoxyDate}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000001}{Bug}}]No known bugs \end{DoxyRefDesc}

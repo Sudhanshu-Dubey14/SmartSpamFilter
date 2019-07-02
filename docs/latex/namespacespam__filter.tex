@@ -4,9 +4,9 @@
 \begin{DoxyCompactItemize}
 \item 
 def \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{make\+\_\+\+Dictionary}} (\mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{train\+\_\+dir}})
-\item 
+\begin{DoxyCompactList}\small\item\em Method to create Dictionary. \end{DoxyCompactList}\item 
 def \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{extract\+\_\+features}} (mail\+\_\+dir)
-\end{DoxyCompactItemize}
+\begin{DoxyCompactList}\small\item\em Method to extract features from all mails. \end{DoxyCompactList}\end{DoxyCompactItemize}
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
@@ -39,15 +39,37 @@ def \mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{te
 \doxysubsubsection{\texorpdfstring{extract\_features()}{extract\_features()}}
 {\footnotesize\ttfamily def spam\+\_\+filter.\+extract\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+dir }\end{DoxyParamCaption})}
 
-\begin{DoxyVerb}Method to extract features from all mails\end{DoxyVerb}
- \mbox{\Hypertarget{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}\label{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}} 
+
+
+Method to extract features from all mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix A np-\/array containing features of all mails 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}\label{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}} 
 \index{spam\_filter@{spam\_filter}!make\_Dictionary@{make\_Dictionary}}
 \index{make\_Dictionary@{make\_Dictionary}!spam\_filter@{spam\_filter}}
 \doxysubsubsection{\texorpdfstring{make\_Dictionary()}{make\_Dictionary()}}
 {\footnotesize\ttfamily def spam\+\_\+filter.\+make\+\_\+\+Dictionary (\begin{DoxyParamCaption}\item[{}]{train\+\_\+dir }\end{DoxyParamCaption})}
 
-\begin{DoxyVerb}Method to create Dictionary\end{DoxyVerb}
- 
+
+
+Method to create Dictionary. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em train\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+dictionary The dictionary containing most common 3000 mails 
+\end{DoxyReturn}
+
 
 \doxysubsection{Variable Documentation}
 \mbox{\Hypertarget{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}\label{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}} 
