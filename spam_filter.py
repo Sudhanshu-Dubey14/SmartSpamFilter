@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 
-## Documentation for this module
+##
+# \file 
 # \brief  Model building code
-# \detail This code builds, trains and tests the Machine Learning model
+# This code builds, trains and tests a new Machine Learning model
 # \author Sudhanshu Dubey
 # \version    1.0
 # \date   25/6/2019
+# \bug No known bugs
 
 import os
 
@@ -22,7 +24,11 @@ from supporters.features import mail_features
 
 
 def make_Dictionary(train_dir):
-    """ Method to create Dictionary"""
+    ##
+    # \brief   Method to create Dictionary
+    # \param    train_dir The directory containing mails
+    # \return   dictionary The dictionary containing most common 3000 mails
+
     emails = [os.path.join(train_dir, f) for f in os.listdir(train_dir)]  # reads file names in directory
     all_words = []
     for mail in emails:
@@ -35,7 +41,10 @@ def make_Dictionary(train_dir):
 
 
 def extract_features(mail_dir):
-    """ Method to extract features from all mails"""
+    ##
+    # \brief    Method to extract features from all mails
+    # \param    mail_dir The directory containing mails
+    # \return   features_matrix A np-array containing features of all mails
     files = [os.path.join(mail_dir, fi) for fi in os.listdir(mail_dir)]
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
