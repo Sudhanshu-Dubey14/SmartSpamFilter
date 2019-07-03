@@ -7,13 +7,33 @@
 # \version    1.0
 # \date   25/6/19
 
+import os
 import sys
+import time
 
 from supporters.features import mail_features
 import pickle
 
+name = sys.argv[1]
+current = open(name, "r")
+curino = os.fstat(current.fileno()).st_ino
+while True:
+    while True:
+        buf = current.read(1024)
+        if buf == "":
+            break
+        mail_file = buf
+    try:
+        if os.stat(name).st_ino != curino:
+            new = open(name, "r")
+            current.close()
+            current = new
+            curino = os.fstat(current.fileno()).st_ino
+            continue
+    except IOError:
+        pass
+    time.sleep(1)
 
-mail_file = sys.argv[1]
 features_matrix = mail_features(mail_file)
 
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
