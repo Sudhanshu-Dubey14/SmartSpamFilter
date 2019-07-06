@@ -16,6 +16,7 @@ var partial__filter_8py =
     [ "new_features", "partial__filter_8py.html#a97290cc0f739f469ef22cdb8c8807756", null ],
     [ "new_train_labels", "partial__filter_8py.html#ac88bac384c797900c77272d7a0a0ff76", null ],
     [ "nlp", "partial__filter_8py.html#a3d4bd597d4c83333904150c23d5cd747", null ],
-    [ "no_emails", "partial__filter_8py.html#ad7fd427ed5c4b0fd22eec24ee96b38a2", null ],
+    [ "no_of_emails", "partial__filter_8py.html#a2e850b1172aea24782a3df882c10f452", null ],
+    [ "spam_status", "partial__filter_8py.html#aff897e0c781fcb65aea23e328328041c", null ],
     [ "stopWords", "partial__filter_8py.html#a378443b2b08c05b409184a61689068f0", null ]
 ];

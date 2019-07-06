@@ -1,18 +1,48 @@
 \hypertarget{working__model_8py}{}\doxysection{working\+\_\+model.\+py File Reference}
 \label{working__model_8py}\index{working\_model.py@{working\_model.py}}
-\doxysubsection*{Namespaces}
-\begin{DoxyCompactItemize}
-\item 
- \mbox{\hyperlink{namespaceworking__model}{working\+\_\+model}}
-\end{DoxyCompactItemize}
+
+
+Model implementing code.  
+
+
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{namespaceworking__model_a354e07aae206ee8007b3861724f8d48c}{working\+\_\+model.\+mail\+\_\+file}} = sys.\+argv\mbox{[}1\mbox{]}
+\mbox{\Hypertarget{working__model_8py_a354e07aae206ee8007b3861724f8d48c}\label{working__model_8py_a354e07aae206ee8007b3861724f8d48c}} 
+{\bfseries working\+\_\+model.\+mail\+\_\+file} = sys.\+argv\mbox{[}1\mbox{]}
 \item 
-\mbox{\hyperlink{namespaceworking__model_a7eb60a6ff29227bf831c7df45afdad58}{working\+\_\+model.\+features\+\_\+matrix}} = mail\+\_\+features(mail\+\_\+file)
+\mbox{\Hypertarget{working__model_8py_a7eb60a6ff29227bf831c7df45afdad58}\label{working__model_8py_a7eb60a6ff29227bf831c7df45afdad58}} 
+{\bfseries working\+\_\+model.\+features\+\_\+matrix} = mail\+\_\+features(mail\+\_\+file)
 \item 
-\mbox{\hyperlink{namespaceworking__model_a35d09de5d9c7a97aa0443fda5dcd4487}{working\+\_\+model.\+ml\+\_\+model}} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
+\mbox{\Hypertarget{working__model_8py_a35d09de5d9c7a97aa0443fda5dcd4487}\label{working__model_8py_a35d09de5d9c7a97aa0443fda5dcd4487}} 
+{\bfseries working\+\_\+model.\+ml\+\_\+model} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
 \item 
-\mbox{\hyperlink{namespaceworking__model_ad2edfa3ead9f4d129190b26b96dc71a7}{working\+\_\+model.\+result}} = ml\+\_\+model.\+predict(features\+\_\+matrix)
+\mbox{\Hypertarget{working__model_8py_ad2edfa3ead9f4d129190b26b96dc71a7}\label{working__model_8py_ad2edfa3ead9f4d129190b26b96dc71a7}} 
+{\bfseries working\+\_\+model.\+result} = ml\+\_\+model.\+predict(features\+\_\+matrix)
 \end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Model implementing code. 
+
+This code reads mails individually and then classifies them using pre-\/trained model. \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+25/6/19 
+\end{DoxyDate}
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+file} & The full address of mail file. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyWarning}{Warning}
+Is not suitable for classifying multiple emails. Use \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}} or fast\+\_\+multiple.\+py instead. 
+\end{DoxyWarning}
+\begin{DoxyRefDesc}{Todo}
+\item[\mbox{\hyperlink{todo__todo000004}{Todo}}]Make it so that the spam emails are moved to spam folder. \end{DoxyRefDesc}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000006}{Bug}}]No known bug. \end{DoxyRefDesc}

@@ -5,58 +5,52 @@
 Model building code This code builds, trains and tests a new Machine Learning model.  
 
 
-\doxysubsection*{Namespaces}
-\begin{DoxyCompactItemize}
-\item 
- \mbox{\hyperlink{namespacespam__filter}{spam\+\_\+filter}}
-\end{DoxyCompactItemize}
 \doxysubsection*{Functions}
 \begin{DoxyCompactItemize}
 \item 
-def \mbox{\hyperlink{namespacespam__filter_ac3c4996328d93af7595d2b7cec982c9f}{spam\+\_\+filter.\+make\+\_\+\+Dictionary}} (train\+\_\+dir)
+def \mbox{\hyperlink{spam__filter_8py_ac3c4996328d93af7595d2b7cec982c9f}{spam\+\_\+filter.\+make\+\_\+\+Dictionary}} (train\+\_\+dir)
 \begin{DoxyCompactList}\small\item\em Method to create Dictionary. \end{DoxyCompactList}\item 
-def \mbox{\hyperlink{namespacespam__filter_af8dfff7dea9523239be676b759944baa}{spam\+\_\+filter.\+extract\+\_\+features}} (mail\+\_\+dir)
+def \mbox{\hyperlink{spam__filter_8py_af8dfff7dea9523239be676b759944baa}{spam\+\_\+filter.\+extract\+\_\+features}} (mail\+\_\+dir)
 \begin{DoxyCompactList}\small\item\em Method to extract features from all mails. \end{DoxyCompactList}\end{DoxyCompactItemize}
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}{spam\+\_\+filter.\+stop\+Words}} = set(stopwords.\+words(\textquotesingle{}english\textquotesingle{}))
+\mbox{\Hypertarget{spam__filter_8py_a06c90fa2e2bc5c47540b9d96e5651ade}\label{spam__filter_8py_a06c90fa2e2bc5c47540b9d96e5651ade}} 
+{\bfseries spam\+\_\+filter.\+stop\+Words} = set(stopwords.\+words(\textquotesingle{}english\textquotesingle{}))
 \item 
-string \mbox{\hyperlink{namespacespam__filter_a8e16fea240aa24959e0d77cab4325650}{spam\+\_\+filter.\+train\+\_\+dir}} = \textquotesingle{}train-\/mails/\textquotesingle{}
+\mbox{\Hypertarget{spam__filter_8py_a8e16fea240aa24959e0d77cab4325650}\label{spam__filter_8py_a8e16fea240aa24959e0d77cab4325650}} 
+string {\bfseries spam\+\_\+filter.\+train\+\_\+dir} = \textquotesingle{}train-\/mails/\textquotesingle{}
 \item 
-def \mbox{\hyperlink{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}{spam\+\_\+filter.\+dictionary}} = make\+\_\+\+Dictionary(train\+\_\+dir)
+\mbox{\Hypertarget{spam__filter_8py_afa746cf1d46132f610b1843e8732b27f}\label{spam__filter_8py_afa746cf1d46132f610b1843e8732b27f}} 
+def {\bfseries spam\+\_\+filter.\+dictionary} = make\+\_\+\+Dictionary(train\+\_\+dir)
 \item 
-\mbox{\hyperlink{namespacespam__filter_a20ddc875b2f00f180150124fa359ba26}{spam\+\_\+filter.\+train\+\_\+labels}} = np.\+zeros(702)
+\mbox{\Hypertarget{spam__filter_8py_a20ddc875b2f00f180150124fa359ba26}\label{spam__filter_8py_a20ddc875b2f00f180150124fa359ba26}} 
+{\bfseries spam\+\_\+filter.\+train\+\_\+labels} = np.\+zeros(702)
 \item 
-def \mbox{\hyperlink{namespacespam__filter_a1395e0bda02c77bfd02495a047708ca2}{spam\+\_\+filter.\+train\+\_\+matrix}} = extract\+\_\+features(train\+\_\+dir)
+\mbox{\Hypertarget{spam__filter_8py_a1395e0bda02c77bfd02495a047708ca2}\label{spam__filter_8py_a1395e0bda02c77bfd02495a047708ca2}} 
+def {\bfseries spam\+\_\+filter.\+train\+\_\+matrix} = extract\+\_\+features(train\+\_\+dir)
 \item 
-\mbox{\hyperlink{namespacespam__filter_aac43261374a32cd5821a41604b573ece}{spam\+\_\+filter.\+model1}} = Multinomial\+NB()
+\mbox{\Hypertarget{spam__filter_8py_aac43261374a32cd5821a41604b573ece}\label{spam__filter_8py_aac43261374a32cd5821a41604b573ece}} 
+{\bfseries spam\+\_\+filter.\+model1} = Multinomial\+NB()
 \item 
-string \mbox{\hyperlink{namespacespam__filter_a9208936c1a775e0ae6533765ab700b61}{spam\+\_\+filter.\+test\+\_\+dir}} = \textquotesingle{}test-\/mails/\textquotesingle{}
+\mbox{\Hypertarget{spam__filter_8py_a9208936c1a775e0ae6533765ab700b61}\label{spam__filter_8py_a9208936c1a775e0ae6533765ab700b61}} 
+string {\bfseries spam\+\_\+filter.\+test\+\_\+dir} = \textquotesingle{}test-\/mails/\textquotesingle{}
 \item 
-def \mbox{\hyperlink{namespacespam__filter_a1af60c51b0b85d2a1ec7a5a35fb5b07f}{spam\+\_\+filter.\+test\+\_\+matrix}} = extract\+\_\+features(test\+\_\+dir)
+\mbox{\Hypertarget{spam__filter_8py_a1af60c51b0b85d2a1ec7a5a35fb5b07f}\label{spam__filter_8py_a1af60c51b0b85d2a1ec7a5a35fb5b07f}} 
+def {\bfseries spam\+\_\+filter.\+test\+\_\+matrix} = extract\+\_\+features(test\+\_\+dir)
 \item 
-\mbox{\hyperlink{namespacespam__filter_a6b52488e907498058cc0e440bfd7bc8f}{spam\+\_\+filter.\+test\+\_\+labels}} = np.\+zeros(260)
+\mbox{\Hypertarget{spam__filter_8py_a6b52488e907498058cc0e440bfd7bc8f}\label{spam__filter_8py_a6b52488e907498058cc0e440bfd7bc8f}} 
+{\bfseries spam\+\_\+filter.\+test\+\_\+labels} = np.\+zeros(260)
 \item 
-\mbox{\hyperlink{namespacespam__filter_a48fe69a8840402dc67566e0fbf9ee003}{spam\+\_\+filter.\+result1}} = model1.\+predict(test\+\_\+matrix)
+\mbox{\Hypertarget{spam__filter_8py_a48fe69a8840402dc67566e0fbf9ee003}\label{spam__filter_8py_a48fe69a8840402dc67566e0fbf9ee003}} 
+{\bfseries spam\+\_\+filter.\+result1} = model1.\+predict(test\+\_\+matrix)
 \end{DoxyCompactItemize}
 
 
 \doxysubsection{Detailed Description}
 Model building code This code builds, trains and tests a new Machine Learning model. 
 
-\begin{DoxyAuthor}{Author}
-Sudhanshu Dubey 
-\end{DoxyAuthor}
-\begin{DoxyVersion}{Version}
-1.\+0 
-\end{DoxyVersion}
-\begin{DoxyDate}{Date}
-25/6/2019 
-\end{DoxyDate}
-\begin{DoxyRefDesc}{Bug}
-\item[\mbox{\hyperlink{bug__bug000002}{Bug}}]No known bugs \end{DoxyRefDesc}
-
+Model building code.
 
 \begin{DoxyAuthor}{Author}
 Sudhanshu Dubey 
@@ -69,3 +63,57 @@ Sudhanshu Dubey
 \end{DoxyDate}
 \begin{DoxyRefDesc}{Bug}
 \item[\mbox{\hyperlink{bug__bug000003}{Bug}}]No known bugs \end{DoxyRefDesc}
+
+
+This code builds, trains and tests a new Machine Learning model \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+25/6/2019 
+\end{DoxyDate}
+\begin{DoxyRefDesc}{Todo}
+\item[\mbox{\hyperlink{todo__todo000003}{Todo}}]Make it so that train and test mail directories can be taken from command line argument \end{DoxyRefDesc}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000005}{Bug}}]No known bugs \end{DoxyRefDesc}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{spam__filter_8py_af8dfff7dea9523239be676b759944baa}\label{spam__filter_8py_af8dfff7dea9523239be676b759944baa}} 
+\index{spam\_filter.py@{spam\_filter.py}!extract\_features@{extract\_features}}
+\index{extract\_features@{extract\_features}!spam\_filter.py@{spam\_filter.py}}
+\doxysubsubsection{\texorpdfstring{extract\_features()}{extract\_features()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+extract\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+dir }\end{DoxyParamCaption})}
+
+
+
+Method to extract features from all mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix A np-\/array containing features of all mails 
+\end{DoxyReturn}
+\mbox{\Hypertarget{spam__filter_8py_ac3c4996328d93af7595d2b7cec982c9f}\label{spam__filter_8py_ac3c4996328d93af7595d2b7cec982c9f}} 
+\index{spam\_filter.py@{spam\_filter.py}!make\_Dictionary@{make\_Dictionary}}
+\index{make\_Dictionary@{make\_Dictionary}!spam\_filter.py@{spam\_filter.py}}
+\doxysubsubsection{\texorpdfstring{make\_Dictionary()}{make\_Dictionary()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+make\+\_\+\+Dictionary (\begin{DoxyParamCaption}\item[{}]{train\+\_\+dir }\end{DoxyParamCaption})}
+
+
+
+Method to create Dictionary. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em train\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+dictionary The dictionary containing most common 3000 words 
+\end{DoxyReturn}

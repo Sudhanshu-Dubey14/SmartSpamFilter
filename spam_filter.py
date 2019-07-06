@@ -3,10 +3,11 @@
 ##
 # \file 
 # \brief  Model building code
-# This code builds, trains and tests a new Machine Learning model
+# \details This code builds, trains and tests a new Machine Learning model
 # \author Sudhanshu Dubey
 # \version    1.0
 # \date   25/6/2019
+# \todo Make it so that train and test mail directories can be taken from command line argument
 # \bug No known bugs
 
 import os
@@ -27,7 +28,7 @@ def make_Dictionary(train_dir):
     ##
     # \brief   Method to create Dictionary
     # \param    train_dir The directory containing mails
-    # \return   dictionary The dictionary containing most common 3000 mails
+    # \return   dictionary The dictionary containing most common 3000 words
 
     emails = [os.path.join(train_dir, f) for f in os.listdir(train_dir)]  # reads file names in directory
     all_words = []

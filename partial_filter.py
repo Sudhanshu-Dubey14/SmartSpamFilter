@@ -1,3 +1,17 @@
+# -*- coding: utf-8 -*-
+
+
+## \file
+# \brief  Model Retraining Code
+# \details  This code loads the current model and dictionary and updates them based on the new mails.
+# \author Sudhanshu Dubey
+# \version    1.0
+# \date   29/6/2019
+# \param   directory The full address of directory containing retraining mails.
+# \param   spam_status 1 if the mails in directory are spam, 0 if they are ham.
+# \bug No known bugs
+
+
 import os
 import pickle
 import numpy as np
@@ -10,7 +24,10 @@ from collections import Counter
 
 
 def update_Dictionary(emails):
-    """ Method to update Dictionary"""
+    ##
+    # \brief   Method to update Dictionary
+    # \param    emails The list of mail files' addresses
+    # \return   new_dictionary The updated dictionary containing most common 3000 words
     all_words = []
     i = 0
     for mail in emails:
@@ -27,7 +44,10 @@ def update_Dictionary(emails):
 
 
 def extract_features(files):
-    """ Method to extract features from all mails"""
+    ##
+    # \brief    Method to extract features from all mails
+    # \param    files The list of mail files' addresses
+    # \return   features_matrix A np-array containing features of all mails
     features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
     docID = 0
     for fil in files:
@@ -41,6 +61,11 @@ def extract_features(files):
 
 
 def mail_features(mail):
+    ##
+    # \brief   Method to find features of a single mail
+    # \param    mail The address of mail
+    # \return   features_matrix: The features of a single mail
+
     features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
     words = preprocessor(mail)
     for word in words:
@@ -53,6 +78,11 @@ def mail_features(mail):
 
 
 def preprocessor(mail):
+    ##
+    # \brief   Method to pre-process the mails
+    # \param    mail The address of mail
+    # \return   all_words: List of all words in mail
+
     all_words = []
     try:
         with open(mail, "r", encoding="us-ascii") as em:
@@ -66,6 +96,12 @@ def preprocessor(mail):
 
 
 def find_payload(mail_body, all_words):
+    ##
+    # \brief   Method to recursively find single part payloads
+    # \param    mail_body   The complete mail body
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     if mail_body.is_multipart():
         for load in mail_body.get_payload():
             find_payload(load, all_words)
@@ -74,6 +110,12 @@ def find_payload(mail_body, all_words):
 
 
 def split_payload(payload, all_words):
+    ##
+    # \brief   Method to split the large payloads into smaller chunks
+    # \param    payload The complete payload
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     content_subtype = payload.get_content_subtype()
     if content_subtype == "plain":
         content = payload.get_payload()
@@ -94,6 +136,12 @@ def split_payload(payload, all_words):
 
 
 def get_words_plain(content, all_words):
+    ##
+    # \brief   Method to get words out of plain text content
+    # \param    content Plain text content
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     nlpmail = nlp(content)
     for word in nlpmail:
         lemma = word.lemma_
@@ -103,6 +151,12 @@ def get_words_plain(content, all_words):
 
 
 def get_words_html(content, all_words):
+    ##
+    # \brief   Method to get words out of html content
+    # \param    content The html content
+    # \param    all_words   List of all words in the mail
+    # \return   Nothing
+
     pure_html = BeautifulSoup(content, features="lxml")
     for script in pure_html(["script", "style"]):
         script.extract()
@@ -131,9 +185,10 @@ ml_model = pickle.load(open('spamfilter.sav', 'rb'))
 
 '''Read command line argument'''
 directory = sys.argv[1]
+spam_status = sys.argv[2]
 
 emails = [os.path.join(directory, f) for f in os.listdir(directory)]  # reads file names in directory
-no_emails = len(emails)
+no_of_emails = len(emails)
 
 '''Produce and save new dictionary'''
 new_dictionary = update_Dictionary(emails)
@@ -144,11 +199,9 @@ with open("dictionary", "w") as dic:
 '''Find new features'''
 new_features = extract_features(emails)
 print("New features obtained")
-new_train_labels = np.zeros(no_emails)
-new_train_labels[0:no_emails] = 1
+new_train_labels = np.zeros(no_of_emails)
+new_train_labels[0:no_of_emails] = spam_status
 
 ml_model.partial_fit(new_features, new_train_labels)
 pickle.dump(ml_model, open('spamfilter.sav', 'wb'))
 print("ML Model updated!")
-
-# multiple(directory)

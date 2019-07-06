@@ -3,10 +3,12 @@
 
 ## \file
 # \brief  Mail Processing Code
-# This code loads the modules and process all files at once.
+# \details  This code loads the modules and process all files at once.
 # \author Sudhanshu Dubey
 # \version    1.0
 # \date   25/6/2019
+# \params  directory The directory containing all the mails to be classified.
+# \todo Make it so that the spam files are moved to spam folder.
 # \bug No known bugs
 
 

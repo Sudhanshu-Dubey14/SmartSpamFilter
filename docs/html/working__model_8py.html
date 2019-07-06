@@ -98,30 +98,45 @@ $(document).ready(function(){initNavTree('working__model_8py.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">working_model.py File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Model implementing code.  
+<a href="#details">More...</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespaceworking__model"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html">working_model</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a354e07aae206ee8007b3861724f8d48c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a354e07aae206ee8007b3861724f8d48c">working_model.mail_file</a> = sys.argv[1]</td></tr>
+<tr class="memitem:a354e07aae206ee8007b3861724f8d48c"><td class="memItemLeft" align="right" valign="top"><a id="a354e07aae206ee8007b3861724f8d48c"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>working_model.mail_file</b> = sys.argv[1]</td></tr>
 <tr class="separator:a354e07aae206ee8007b3861724f8d48c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7eb60a6ff29227bf831c7df45afdad58"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a7eb60a6ff29227bf831c7df45afdad58">working_model.features_matrix</a> = mail_features(mail_file)</td></tr>
+<tr class="memitem:a7eb60a6ff29227bf831c7df45afdad58"><td class="memItemLeft" align="right" valign="top"><a id="a7eb60a6ff29227bf831c7df45afdad58"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>working_model.features_matrix</b> = mail_features(mail_file)</td></tr>
 <tr class="separator:a7eb60a6ff29227bf831c7df45afdad58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35d09de5d9c7a97aa0443fda5dcd4487"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#a35d09de5d9c7a97aa0443fda5dcd4487">working_model.ml_model</a> = pickle.load(open('spamfilter.sav', 'rb'))</td></tr>
+<tr class="memitem:a35d09de5d9c7a97aa0443fda5dcd4487"><td class="memItemLeft" align="right" valign="top"><a id="a35d09de5d9c7a97aa0443fda5dcd4487"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>working_model.ml_model</b> = pickle.load(open('spamfilter.sav', 'rb'))</td></tr>
 <tr class="separator:a35d09de5d9c7a97aa0443fda5dcd4487"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2edfa3ead9f4d129190b26b96dc71a7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceworking__model.html#ad2edfa3ead9f4d129190b26b96dc71a7">working_model.result</a> = ml_model.predict(features_matrix)</td></tr>
+<tr class="memitem:ad2edfa3ead9f4d129190b26b96dc71a7"><td class="memItemLeft" align="right" valign="top"><a id="ad2edfa3ead9f4d129190b26b96dc71a7"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>working_model.result</b> = ml_model.predict(features_matrix)</td></tr>
 <tr class="separator:ad2edfa3ead9f4d129190b26b96dc71a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-</div><!-- contents -->
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Model implementing code. </p>
+<p>This code reads mails individually and then classifies them using pre-trained model. </p><dl class="section author"><dt>Author</dt><dd>Sudhanshu Dubey </dd></dl>
+<dl class="section version"><dt>Version</dt><dd>1.0 </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>25/6/19 </dd></dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mail_file</td><td>The full address of mail file. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section warning"><dt>Warning</dt><dd>Is not suitable for classifying multiple emails. Use <a class="el" href="fast__single_8py.html" title="Continuous Single Mail Processing Code.">fast_single.py</a> or fast_multiple.py instead. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000004">Todo:</a></b></dt><dd>Make it so that the spam emails are moved to spam folder. </dd></dl>
+<dl class="bug"><dt><b><a class="el" href="bug.html#_bug000006">Bug:</a></b></dt><dd>No known bug. </dd></dl>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->

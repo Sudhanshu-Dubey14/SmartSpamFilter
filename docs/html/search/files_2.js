@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['multiple_2epy',['multiple.py',['../multiple_8py.html',1,'']]]
+  ['spam_5ffilter_2epy',['spam_filter.py',['../spam__filter_8py.html',1,'']]]
 ];

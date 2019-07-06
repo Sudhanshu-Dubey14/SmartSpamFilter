@@ -1,49 +1,240 @@
 \hypertarget{partial__filter_8py}{}\doxysection{partial\+\_\+filter.\+py File Reference}
 \label{partial__filter_8py}\index{partial\_filter.py@{partial\_filter.py}}
-\doxysubsection*{Namespaces}
-\begin{DoxyCompactItemize}
-\item 
- \mbox{\hyperlink{namespacepartial__filter}{partial\+\_\+filter}}
-\end{DoxyCompactItemize}
+
+
+Model Retraining Code.  
+
+
 \doxysubsection*{Functions}
 \begin{DoxyCompactItemize}
 \item 
-def \mbox{\hyperlink{namespacepartial__filter_a21351a3753bb0d91b74552d5952ddce6}{partial\+\_\+filter.\+update\+\_\+\+Dictionary}} (emails)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_a8b2a9d15e90d727dd3786fe5dc57ac23}{partial\+\_\+filter.\+extract\+\_\+features}} (files)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_ac75195c304de71f6b68770b1d9b57a61}{partial\+\_\+filter.\+mail\+\_\+features}} (mail)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_adc4e802296e5481e232509a4034a4cd6}{partial\+\_\+filter.\+preprocessor}} (mail)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_a3328db811a7203a37c2ba59c0fe35c1c}{partial\+\_\+filter.\+find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_a2c0757b30ae1a1185083f09ef2db2607}{partial\+\_\+filter.\+split\+\_\+payload}} (payload, all\+\_\+words)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_a233f3b6e8a09e1d5dbb0bc88a73e9370}{partial\+\_\+filter.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
-\item 
-def \mbox{\hyperlink{namespacepartial__filter_a4270c3db6274b4a15d8f6768745cb4b4}{partial\+\_\+filter.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
-\end{DoxyCompactItemize}
+def \mbox{\hyperlink{partial__filter_8py_a21351a3753bb0d91b74552d5952ddce6}{partial\+\_\+filter.\+update\+\_\+\+Dictionary}} (emails)
+\begin{DoxyCompactList}\small\item\em Method to update Dictionary. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_a8b2a9d15e90d727dd3786fe5dc57ac23}{partial\+\_\+filter.\+extract\+\_\+features}} (files)
+\begin{DoxyCompactList}\small\item\em Method to extract features from all mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_ac75195c304de71f6b68770b1d9b57a61}{partial\+\_\+filter.\+mail\+\_\+features}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to find features of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_adc4e802296e5481e232509a4034a4cd6}{partial\+\_\+filter.\+preprocessor}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to pre-\/process the mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_a3328db811a7203a37c2ba59c0fe35c1c}{partial\+\_\+filter.\+find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to recursively find single part payloads. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_a2c0757b30ae1a1185083f09ef2db2607}{partial\+\_\+filter.\+split\+\_\+payload}} (payload, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to split the large payloads into smaller chunks. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_a233f3b6e8a09e1d5dbb0bc88a73e9370}{partial\+\_\+filter.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{partial__filter_8py_a4270c3db6274b4a15d8f6768745cb4b4}{partial\+\_\+filter.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{namespacepartial__filter_a3d4bd597d4c83333904150c23d5cd747}{partial\+\_\+filter.\+nlp}} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
+\mbox{\Hypertarget{partial__filter_8py_a3d4bd597d4c83333904150c23d5cd747}\label{partial__filter_8py_a3d4bd597d4c83333904150c23d5cd747}} 
+{\bfseries partial\+\_\+filter.\+nlp} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
 \item 
-\mbox{\hyperlink{namespacepartial__filter_a378443b2b08c05b409184a61689068f0}{partial\+\_\+filter.\+stop\+Words}} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
+\mbox{\Hypertarget{partial__filter_8py_a378443b2b08c05b409184a61689068f0}\label{partial__filter_8py_a378443b2b08c05b409184a61689068f0}} 
+{\bfseries partial\+\_\+filter.\+stop\+Words} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
 \item 
-\mbox{\hyperlink{namespacepartial__filter_abeb9653bf38a079d3929f3841da97974}{partial\+\_\+filter.\+dictionary}} = json.\+load(dic)
+\mbox{\Hypertarget{partial__filter_8py_abeb9653bf38a079d3929f3841da97974}\label{partial__filter_8py_abeb9653bf38a079d3929f3841da97974}} 
+{\bfseries partial\+\_\+filter.\+dictionary} = json.\+load(dic)
 \item 
-\mbox{\hyperlink{namespacepartial__filter_a0ce3a30974305bba172b89d5d36a2bdf}{partial\+\_\+filter.\+ml\+\_\+model}} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
+\mbox{\Hypertarget{partial__filter_8py_a0ce3a30974305bba172b89d5d36a2bdf}\label{partial__filter_8py_a0ce3a30974305bba172b89d5d36a2bdf}} 
+{\bfseries partial\+\_\+filter.\+ml\+\_\+model} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
 \item 
-\mbox{\hyperlink{namespacepartial__filter_a2b5e3c840834149c194ca71ec065ebd2}{partial\+\_\+filter.\+directory}} = sys.\+argv\mbox{[}1\mbox{]}
+\mbox{\Hypertarget{partial__filter_8py_a2b5e3c840834149c194ca71ec065ebd2}\label{partial__filter_8py_a2b5e3c840834149c194ca71ec065ebd2}} 
+{\bfseries partial\+\_\+filter.\+directory} = sys.\+argv\mbox{[}1\mbox{]}
 \item 
-list \mbox{\hyperlink{namespacepartial__filter_a7690d252ddfe0e6b0444696027afed98}{partial\+\_\+filter.\+emails}} = \mbox{[}os.\+path.\+join(directory, f) for f in os.\+listdir(directory)\mbox{]}
+\mbox{\Hypertarget{partial__filter_8py_aff897e0c781fcb65aea23e328328041c}\label{partial__filter_8py_aff897e0c781fcb65aea23e328328041c}} 
+{\bfseries partial\+\_\+filter.\+spam\+\_\+status} = sys.\+argv\mbox{[}2\mbox{]}
 \item 
-\mbox{\hyperlink{namespacepartial__filter_ad7fd427ed5c4b0fd22eec24ee96b38a2}{partial\+\_\+filter.\+no\+\_\+emails}} = len(emails)
+\mbox{\Hypertarget{partial__filter_8py_a7690d252ddfe0e6b0444696027afed98}\label{partial__filter_8py_a7690d252ddfe0e6b0444696027afed98}} 
+list {\bfseries partial\+\_\+filter.\+emails} = \mbox{[}os.\+path.\+join(directory, f) for f in os.\+listdir(directory)\mbox{]}
 \item 
-def \mbox{\hyperlink{namespacepartial__filter_a074f1ab0c2f4ab997489900b9a5383f9}{partial\+\_\+filter.\+new\+\_\+dictionary}} = update\+\_\+\+Dictionary(emails)
+\mbox{\Hypertarget{partial__filter_8py_a2e850b1172aea24782a3df882c10f452}\label{partial__filter_8py_a2e850b1172aea24782a3df882c10f452}} 
+{\bfseries partial\+\_\+filter.\+no\+\_\+of\+\_\+emails} = len(emails)
 \item 
-def \mbox{\hyperlink{namespacepartial__filter_a97290cc0f739f469ef22cdb8c8807756}{partial\+\_\+filter.\+new\+\_\+features}} = extract\+\_\+features(emails)
+\mbox{\Hypertarget{partial__filter_8py_a074f1ab0c2f4ab997489900b9a5383f9}\label{partial__filter_8py_a074f1ab0c2f4ab997489900b9a5383f9}} 
+def {\bfseries partial\+\_\+filter.\+new\+\_\+dictionary} = update\+\_\+\+Dictionary(emails)
 \item 
-\mbox{\hyperlink{namespacepartial__filter_ac88bac384c797900c77272d7a0a0ff76}{partial\+\_\+filter.\+new\+\_\+train\+\_\+labels}} = np.\+zeros(no\+\_\+emails)
+\mbox{\Hypertarget{partial__filter_8py_a97290cc0f739f469ef22cdb8c8807756}\label{partial__filter_8py_a97290cc0f739f469ef22cdb8c8807756}} 
+def {\bfseries partial\+\_\+filter.\+new\+\_\+features} = extract\+\_\+features(emails)
+\item 
+\mbox{\Hypertarget{partial__filter_8py_ac88bac384c797900c77272d7a0a0ff76}\label{partial__filter_8py_ac88bac384c797900c77272d7a0a0ff76}} 
+{\bfseries partial\+\_\+filter.\+new\+\_\+train\+\_\+labels} = np.\+zeros(no\+\_\+of\+\_\+emails)
 \end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Model Retraining Code. 
+
+This code loads the current model and dictionary and updates them based on the new mails. \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+29/6/2019 
+\end{DoxyDate}
+
+\begin{DoxyParams}{Parameters}
+{\em directory} & The full address of directory containing retraining mails. \\
+\hline
+{\em spam\+\_\+status} & 1 if the mails in directory are spam, 0 if they are ham. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000004}{Bug}}]No known bugs \end{DoxyRefDesc}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{partial__filter_8py_a8b2a9d15e90d727dd3786fe5dc57ac23}\label{partial__filter_8py_a8b2a9d15e90d727dd3786fe5dc57ac23}} 
+\index{partial\_filter.py@{partial\_filter.py}!extract\_features@{extract\_features}}
+\index{extract\_features@{extract\_features}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{extract\_features()}{extract\_features()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+extract\+\_\+features (\begin{DoxyParamCaption}\item[{}]{files }\end{DoxyParamCaption})}
+
+
+
+Method to extract features from all mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em files} & The list of mail files\textquotesingle{} addresses \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix A np-\/array containing features of all mails 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_a3328db811a7203a37c2ba59c0fe35c1c}\label{partial__filter_8py_a3328db811a7203a37c2ba59c0fe35c1c}} 
+\index{partial\_filter.py@{partial\_filter.py}!find\_payload@{find\_payload}}
+\index{find\_payload@{find\_payload}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{find\_payload()}{find\_payload()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+find\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+body,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to recursively find single part payloads. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+body} & The complete mail body \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_a4270c3db6274b4a15d8f6768745cb4b4}\label{partial__filter_8py_a4270c3db6274b4a15d8f6768745cb4b4}} 
+\index{partial\_filter.py@{partial\_filter.py}!get\_words\_html@{get\_words\_html}}
+\index{get\_words\_html@{get\_words\_html}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{get\_words\_html()}{get\_words\_html()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+get\+\_\+words\+\_\+html (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of html content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & The html content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_a233f3b6e8a09e1d5dbb0bc88a73e9370}\label{partial__filter_8py_a233f3b6e8a09e1d5dbb0bc88a73e9370}} 
+\index{partial\_filter.py@{partial\_filter.py}!get\_words\_plain@{get\_words\_plain}}
+\index{get\_words\_plain@{get\_words\_plain}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{get\_words\_plain()}{get\_words\_plain()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+get\+\_\+words\+\_\+plain (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of plain text content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & Plain text content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_ac75195c304de71f6b68770b1d9b57a61}\label{partial__filter_8py_ac75195c304de71f6b68770b1d9b57a61}} 
+\index{partial\_filter.py@{partial\_filter.py}!mail\_features@{mail\_features}}
+\index{mail\_features@{mail\_features}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{mail\_features()}{mail\_features()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+mail\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to find features of a single mail. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix\+: The features of a single mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_adc4e802296e5481e232509a4034a4cd6}\label{partial__filter_8py_adc4e802296e5481e232509a4034a4cd6}} 
+\index{partial\_filter.py@{partial\_filter.py}!preprocessor@{preprocessor}}
+\index{preprocessor@{preprocessor}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{preprocessor()}{preprocessor()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+preprocessor (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to pre-\/process the mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+all\+\_\+words\+: List of all words in mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_a2c0757b30ae1a1185083f09ef2db2607}\label{partial__filter_8py_a2c0757b30ae1a1185083f09ef2db2607}} 
+\index{partial\_filter.py@{partial\_filter.py}!split\_payload@{split\_payload}}
+\index{split\_payload@{split\_payload}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{split\_payload()}{split\_payload()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+split\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{payload,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to split the large payloads into smaller chunks. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em payload} & The complete payload \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{partial__filter_8py_a21351a3753bb0d91b74552d5952ddce6}\label{partial__filter_8py_a21351a3753bb0d91b74552d5952ddce6}} 
+\index{partial\_filter.py@{partial\_filter.py}!update\_Dictionary@{update\_Dictionary}}
+\index{update\_Dictionary@{update\_Dictionary}!partial\_filter.py@{partial\_filter.py}}
+\doxysubsubsection{\texorpdfstring{update\_Dictionary()}{update\_Dictionary()}}
+{\footnotesize\ttfamily def partial\+\_\+filter.\+update\+\_\+\+Dictionary (\begin{DoxyParamCaption}\item[{}]{emails }\end{DoxyParamCaption})}
+
+
+
+Method to update Dictionary. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em emails} & The list of mail files\textquotesingle{} addresses \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+new\+\_\+dictionary The updated dictionary containing most common 3000 words 
+\end{DoxyReturn}

@@ -23,15 +23,8 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Smart Spam Filter", "index.html", [
+    [ "Todo List", "todo.html", null ],
     [ "Bug List", "bug.html", null ],
-    [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ],
-      [ "Package Functions", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
-      ] ]
-    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]
     ] ]
@@ -40,7 +33,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"____init_____8py.html"
+"bug.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
