@@ -24,8 +24,8 @@ else
 	echo "$SPAMMAIL is moved"
 fi
 SPAM_NO="$(ls $SPAM_TRAIN_DIR | wc -l)"	# Count no of files in SPAM_TRAIN_DIR
-if [ $SPAM_NO -ge 250 ]; then
+if [ $SPAM_NO -ge 1000 ]; then
 	echo "Retraining time... running python code"
-	python3 $DIRNAME/partial_filter.py $SPAM_TRAIN_DIR
+	python3 $DIRNAME/partial_filter.py $SPAM_TRAIN_DIR 1
 	rm -rf $SPAM_TRAIN_DIR
 fi
