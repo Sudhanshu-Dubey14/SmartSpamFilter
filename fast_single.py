@@ -2,11 +2,13 @@
 
 
 ## \file
-# \brief  Continous Single Mail Processing Code
-# This code loads the modules, contniously reads address of mails from log file and processes them.
+# \brief  Continuous Single Mail Processing Code
+# \details  This code loads the modules, continuously reads address of mails from log file and processes them.
 # \author Sudhanshu Dubey
 # \version    1.0
 # \date   3/7/2019
+# \params   logfile_location The location of log file.
+# \todo Make it so that the spam emails are moved to the spam folder.
 # \bug No known bugs
 
 import os
@@ -150,28 +152,28 @@ with open("dictionary") as dic:
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
 
 """Read the mail name from a logfile continuously"""
-name = sys.argv[1]
-current = open(name, "r")
-curino = os.fstat(current.fileno()).st_ino
+logfile_location = sys.argv[1]
+logfile = open(logfile_location, "r")
+logfile_ino = os.fstat(logfile.fileno()).st_ino
 while True:
     while True:
-        buf = current.read(1024)
-        if buf == "":
+        mail = logfile.readline()
+        if mail == "":
             break
-        result = predict(buf.rstrip())
+        result = predict(mail.rstrip())
         with open("fastsingle.txt", "a") as fil:
             if result == 1:
-                fil.write(buf + " is a spam!!!\n")
+                fil.write(mail + " is a spam!!!\n")
             elif result == 0:
-                fil.write(buf + " is a normal mail.\n")
+                fil.write(mail + " is a normal mail.\n")
             else:
-                fil.write("Something went wrong with " + buf + "\n")
+                fil.write("Something went wrong with " + mail + "\n")
     try:
-        if os.stat(name).st_ino != curino:
-            new = open(name, "r")
-            current.close()
-            current = new
-            curino = os.fstat(current.fileno()).st_ino
+        if os.stat(logfile_location).st_ino != logfile_ino:
+            new = open(logfile_location, "r")
+            logfile.close()
+            logfile = new
+            logfile_ino = os.fstat(logfile.fileno()).st_ino
             continue
     except IOError:
         pass
