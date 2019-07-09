@@ -186,7 +186,7 @@ all_size = len(all_mails)
 
 dic_size = 3000
 dictionary = make_Dictionary(all_mails)
-with open("Dummy_dictionary", "w") as info:
+with open("dictionary", "w") as info:
     json.dump(dictionary, info)    # Can't write list to file, so write as json string
 
 # Prepare feature vectors per training mail and its labels
@@ -201,6 +201,6 @@ ML_model = MultinomialNB()
 
 ML_model.fit(mail_feature_matrix, mail_labels)  # Fit Naive Bayes classifier according to train_matrix and train_labels
 
-pickle.dump(ML_model, open('Dummy_spamfilter.sav', 'wb'))
+pickle.dump(ML_model, open('spamfilter.sav', 'wb'))
 copyfile('spamfilter.sav', 'backup/spamfilter.bk')
 copyfile('dictionary', 'backup/dictionary.bk')
