@@ -28,4 +28,11 @@ if [ $SPAM_NO -ge 1000 ]; then
 	echo "Retraining time... running python code"
 	python3 $DIRNAME/partial_filter.py $SPAM_TRAIN_DIR 1
 	rm -rf $SPAM_TRAIN_DIR
+	PYTHON_PID="$(ps -fu $USER| grep "fast_single.py" | grep -v "grep" | awk '{print $2}')"
+	if [ ! -z $PYTHON_PID ];then
+		kill $PYTHON_PID
+	fi
+		setsid python3 $DIRNAME/fast_single.py $DIRNAME/watchlog
+		echo "Spam filter restarted."	
+
 fi
