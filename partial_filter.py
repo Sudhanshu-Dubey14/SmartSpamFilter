@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-## \file
+##
+# \file
 # \brief  Model Retraining Code
 # \details  This code loads the current model and dictionary and updates them based on the new mails.
 # \author Sudhanshu Dubey
