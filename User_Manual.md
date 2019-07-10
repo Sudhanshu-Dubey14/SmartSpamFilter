@@ -1,3 +1,6 @@
+[//]: ## 
+[//]: # \mainpage
+
 # User Manual for using Smart Spam Filter
 
 ## Intro
