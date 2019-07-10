@@ -8,6 +8,7 @@ var fast__mutiple_8py =
     [ "predict", "fast__mutiple_8py.html#abf69be710bfd6ff2d32e43a1c8df2336", null ],
     [ "preprocessor", "fast__mutiple_8py.html#a1973c566e2dda21af0aa14c52b331555", null ],
     [ "split_payload", "fast__mutiple_8py.html#a91992ecad9656467f38bfbaf6f807f16", null ],
+    [ "dic_size", "fast__mutiple_8py.html#a963794d1f3120daae591e004fbb2cd3c", null ],
     [ "dictionary", "fast__mutiple_8py.html#a846bad529ed15c1b6bb6d55d24ac4585", null ],
     [ "directory", "fast__mutiple_8py.html#a4975c54524c7b6f9d16c9fa47fb72ab8", null ],
     [ "ml_model", "fast__mutiple_8py.html#ae8ead694c29ea0fcea9aa55378e741b6", null ],

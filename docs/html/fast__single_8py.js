@@ -7,6 +7,7 @@ var fast__single_8py =
     [ "predict", "fast__single_8py.html#a74102528698932323c62ac0b3fddb719", null ],
     [ "preprocessor", "fast__single_8py.html#af23dcd92e64f564a9a61184a7e062841", null ],
     [ "split_payload", "fast__single_8py.html#a473089baf700129e249db6579d03352d", null ],
+    [ "dic_size", "fast__single_8py.html#a735adae94a54bd3f5709731eee834711", null ],
     [ "dictionary", "fast__single_8py.html#aae8d12776655863001d563887d4c93c6", null ],
     [ "logfile", "fast__single_8py.html#a5db3c2b32dc800f860401f30d14456fd", null ],
     [ "logfile_ino", "fast__single_8py.html#a177d8bb7a02ca530d05ce715c5f48f22", null ],

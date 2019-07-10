@@ -8,6 +8,7 @@ var partial__filter_8py =
     [ "preprocessor", "partial__filter_8py.html#adc4e802296e5481e232509a4034a4cd6", null ],
     [ "split_payload", "partial__filter_8py.html#a2c0757b30ae1a1185083f09ef2db2607", null ],
     [ "update_Dictionary", "partial__filter_8py.html#a21351a3753bb0d91b74552d5952ddce6", null ],
+    [ "dic_size", "partial__filter_8py.html#a100ec34530fd8a9597ceeaad06c4a7c6", null ],
     [ "dictionary", "partial__filter_8py.html#abeb9653bf38a079d3929f3841da97974", null ],
     [ "directory", "partial__filter_8py.html#a2b5e3c840834149c194ca71ec065ebd2", null ],
     [ "emails", "partial__filter_8py.html#a7690d252ddfe0e6b0444696027afed98", null ],
