@@ -6,6 +6,8 @@ MAIL_DIR="${HAMMAIL%/*}"
 DIRNAME="${MAIL_DIR%/*}"
 HAM_DIR="$DIRNAME/ham"
 HAM_TRAIN_DIR="$DIRNAME/train_ham"
+WATCHLOG="$DIRNAME/watchlog"
+TRAIN_NO=1000
 
 if [ -d "$HAM_TRAIN_DIR" ]; then
   if [ ! -L "$HAM_TRAIN_DIR" ]; then
@@ -29,7 +31,7 @@ fi
 
 HAM_NO="$(ls $HAM_TRAIN_DIR | wc -l)"	# Count no of files in HAM_TRAIN_DIR
 
-if [ $HAM_NO -ge 1000 ]; then
+if [ $HAM_NO -ge $TRAIN_NO ]; then
 	echo "Retraining time... running python code"
 	python3 $DIRNAME/partial_filter.py $HAM_TRAIN_DIR 0
 	rm -rf $HAM_TRAIN_DIR
@@ -37,7 +39,7 @@ if [ $HAM_NO -ge 1000 ]; then
 	if [ ! -z $PYTHON_PID ];then
 		kill $PYTHON_PID
 	fi
-		setsid python3 $DIRNAME/fast_single.py $DIRNAME/watchlog
+		setsid python3 $DIRNAME/fast_single.py $WATCHLOG
 		echo "Spam filter restarted."	
 fi
 
