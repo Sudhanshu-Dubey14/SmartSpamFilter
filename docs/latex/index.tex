@@ -1,0 +1,146 @@
+\hypertarget{index_autotoc_md3}{}\doxysection{Intro}\label{index_autotoc_md3}
+{\bfseries{Smart Spam Filter}} is a Machine Learning code written in python that builds, trains, tests and deploys a spam filter for your mail server. It is designed to as convenient to use as possible, but since it has to work closely with the particular mail server the users need to perform some work themselves.
+
+This software is independent of mail server and can be deployed on any mail server. Though the person who is integrating this software with the mail server should be aware of the directory structure of the mail server, like the location of arrival of new mails and where the spam and ham (non-\/spam) mails are kept.
+
+This core part of this software is written in python and is thus platform independent. But the assisting scripts are written for Bash shell and thus may not work on some operating systems (like MS Windows). But obviously, with some knowledge, the corresponding scripts for Windows can be made by anyone and it is highly encouraged for someone to make them. ;-\/)
+
+With this said, let\textquotesingle{}s get on with how to set up this software in your mail server.\hypertarget{index_autotoc_md4}{}\doxysection{Prerequisites}\label{index_autotoc_md4}
+The following packages are required for us to get going\+:
+
+
+\begin{DoxyItemize}
+\item \href{https://git-scm.com/}{\texttt{ Git}}
+\item \href{https://www.python.org/}{\texttt{ Python}} (version 3.\+6 and above)
+\item \href{https://linux.die.net/man/1/inotifywait}{\texttt{ I\+Notify\+Wait}}
+\item \href{https://pip.pypa.io/en/stable/}{\texttt{ P\+I\+P3}} (Pip Installs Package)
+\end{DoxyItemize}
+
+You can install the above in Debian-\/based system using the command\+: \begin{DoxyVerb}sudo apt install git python3 inotify-tools python3-pip
+\end{DoxyVerb}
+
+
+The instructions for other Linux distros can be obtained by replacing {\ttfamily apt} with suitable package manager (Like {\ttfamily yum} for Fedora-\/based systems)
+
+Now that we have {\ttfamily pip3} with us, we will install the following python packages\+:
+
+
+\begin{DoxyItemize}
+\item \href{https://spacy.io/}{\texttt{ Spa\+Cy}}
+\item \href{https://scikit-learn.org/}{\texttt{ Scikit-\/\+Learn}}
+\item \href{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}{\texttt{ Beautiful\+Soup4}}
+\item \href{https://www.numpy.org/}{\texttt{ Numpy}}
+\end{DoxyItemize}
+
+You can install these packages using the following command\+: \begin{DoxyVerb}pip3 install spacy sklearn beautifulsoup4 numpy
+\end{DoxyVerb}
+
+
+Now there is one last thing to get, and that is English model of Spacy, which is fetched like this\+: \begin{DoxyVerb}python3 -m spacy download en_core_web_sm
+\end{DoxyVerb}
+
+
+And with this, we are all set to configure our spam filter. Oh, by the way, it\textquotesingle{}s obvious but you need to have a working mail server installed on your system too (though that is not a requirement).\hypertarget{index_autotoc_md5}{}\doxysection{Getting the Filter}\label{index_autotoc_md5}
+You can get this filter using git\+: \begin{DoxyVerb}git clone <URL>
+\end{DoxyVerb}
+\hypertarget{index_autotoc_md6}{}\doxysection{Building the M\+L Model}\label{index_autotoc_md6}
+The file {\ttfamily \mbox{\hyperlink{spam__filter_8py}{spam\+\_\+filter.\+py}}} is designed to initially build and train your ML model.
+
+For this, you need a lot (really a whole lot) of emails, both spam and ham (non-\/spam). Keep all the ham mails in a directory and all the spam mails in a separate directory. Optionally, you can keep them in the empty directories provided in this project and if you are doing it, don\textquotesingle{}t forget to remove the R\+E\+A\+D\+M\+E.\+md files from those directories.
+
+The number of mails in both the directories should be sufficiently large but not too large. I have tested with a total of 6017 emails and it has worked brilliantly. Also, it would be helpful if there are almost equal spam and ham mails.
+
+You can also open the \mbox{\hyperlink{spam__filter_8py}{spam\+\_\+filter.\+py}} file and modify value of the variable {\ttfamily dic\+\_\+size}. This variable holds the number of the words that should be stored in the dictionary. By default, it\textquotesingle{}s set to 3000. A larger dictionary gives more accurate results but takes slightly longer to process. So knowing your system capabilities, you should make a wise decision here.
+
+So, after you have got the mails in the directories, here is what you run\+: \begin{DoxyVerb}python3 spam_filter.py /path/to/ham_mails /path/to/spam_mails
+\end{DoxyVerb}
+
+
+Make sure that the first argument is path of the directory containing ham mails and the second one is of that containing spam. You can append {\ttfamily time} at the starting of the command to get the time it took to build and train the model. Depending on the number of mails and system specifications, it will take some time to process all the mails and create the dictionary and ML model.
+
+After the process is complete, you will get two extra files called {\bfseries{dictionary}} and {\bfseries{spamfilter.\+sav}}. The dictionary represents the vocabulary of the model and the spamfilter.\+sav is the actual model. A backup of these files will also be created in the {\ttfamily backup} directory should you ever need it.
+
+So you have successfully created your ML model (Yay!). Be careful to not modify any of the auto-\/generated files.\hypertarget{index_autotoc_md7}{}\doxysection{Testing the Model}\label{index_autotoc_md7}
+After you have built the model, you should test it for its accuracy. For that there are a few files\+:
+
+
+\begin{DoxyItemize}
+\item {\ttfamily fast\+\_\+multiple.\+py}
+\end{DoxyItemize}
+
+This file is meant to process a number of files at a time, and is the recommended way of testing the model. It\textquotesingle{}s simple, you just place all the mails in a single directory and then pass that directory to the code. It is highly recommended to only test ham {\itshape or} spam mails at once. This will make it easier for you to analyse the results. Also, the test mails should not be the same as the training mails. If you have modified the {\ttfamily dic\+\_\+size} while building the model, please modify it here also assigning the same value as before.
+
+You start the test like this\+: \begin{DoxyVerb}python3 fast_multiple.py /path/to/mail/directory
+\end{DoxyVerb}
+
+
+Again, appending {\ttfamily time} is a good idea. This will generate a file called {\ttfamily fastresult.\+txt}. This file will contain the judgement of the spam filter for each file in plain english. After analysing the result (and hopefully being satisfied by it) you can delete fastresult.\+txt file.
+
+
+\begin{DoxyItemize}
+\item {\ttfamily \mbox{\hyperlink{working__model_8py}{working\+\_\+model.\+py}}}
+\end{DoxyItemize}
+
+This file is supposed to test a single mail, but it is {\bfseries{N\+OT R\+E\+C\+O\+M\+M\+E\+N\+D\+ED}} to use this file. This is because its slower and you need to do more work for this.
+
+But if you decide to use it anyway, here is how. First, if you have modified the {\ttfamily dic\+\_\+size} while building the model, go into {\ttfamily supporters/features.\+py} and modify the {\ttfamily dic\+\_\+size} there. Then, just run this file like this\+: \begin{DoxyVerb}python3 working_model.py /path/to/mail/file
+\end{DoxyVerb}
+
+
+It will show you the result on the command line itself.\hypertarget{index_autotoc_md8}{}\doxysection{Deploying the Model}\label{index_autotoc_md8}
+Now that we are satisfied with the accuracy of the model, let\textquotesingle{}s deploy it for real. For this purpose, there is the script {\ttfamily watchfile.\+sh}. But before doing anything, first go into {\ttfamily \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}}} and modify the {\ttfamily dic\+\_\+size} variable.
+
+Now it\textquotesingle{}s a bit tricky, really. Opening the {\ttfamily watchfile.\+sh}, you will find two variables {\ttfamily W\+A\+T\+C\+H\+D\+IR} and {\ttfamily W\+A\+T\+C\+H\+L\+OG}. You should assign the path of those directories that receive new mails to the {\ttfamily W\+A\+T\+C\+H\+D\+IR} variable. If there are too many directories, then you could put them in a file and modify the {\ttfamily inotifywait} command to watch all the directories that are given in that file. For doing this, refer to the \href{https://linux.die.net/man/1/inotifywait}{\texttt{ man page of inotifywait}}.
+
+The {\ttfamily W\+A\+T\+C\+H\+L\+OG} variable contains the path of the file where {\ttfamily inotifywait} sends its output and {\ttfamily \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}}} reads its input. So you should set it accordingly.
+
+After you have appropriately set the paths, run the command\+: \begin{DoxyVerb}setsid bash watchfile.sh
+\end{DoxyVerb}
+
+
+{\ttfamily setsid} will send the process to background. And now you have successfully set the spam filter to continuously watch for new mails and classify them as they come (Yay!).\hypertarget{index_autotoc_md9}{}\doxysection{Continuous Training}\label{index_autotoc_md9}
+We have our spam filter up and working. But remember that it\textquotesingle{}s a Machine Learning model and learning is a continuous process. There are bound be emails that our filter will classify incorrectly, be it a spam that the filter call ham or a ham that the filter call spam. To learn from its mistakes, we have {\ttfamily \mbox{\hyperlink{partial__filter_8py}{partial\+\_\+filter.\+py}}} file and its supporting scripts {\ttfamily is\+\_\+ham.\+sh} and {\ttfamily is\+\_\+spam.\+sh}.
+
+First, go into {\ttfamily partial\+\_\+filter.\+sh} and modify {\ttfamily dic\+\_\+size} to match the original model. Then open {\ttfamily is\+\_\+spam.\+sh} and modify the following variables\+:
+
+
+\begin{DoxyEnumerate}
+\item D\+I\+R\+N\+A\+ME\+: Set to the path of directory where {\ttfamily \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}}} and {\ttfamily \mbox{\hyperlink{partial__filter_8py}{partial\+\_\+filter.\+py}}} exist.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item S\+P\+A\+M\+\_\+\+D\+IR\+: Set to the path where the mail server stores spam mails.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR\+: Set it to any directory where you want to store mails for retraining.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item W\+A\+T\+C\+H\+L\+OG\+: Set it to the complete path of the watchlog file which we created while launching the filter.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item T\+R\+A\+I\+N\+\_\+\+NO\+: Set it to the number of mails you want your mail to take for retraining at once. Default is 1000.
+\end{DoxyEnumerate}
+
+Similarly, open {\ttfamily is\+\_\+ham.\+sh} and modify the following variables\+:
+
+
+\begin{DoxyEnumerate}
+\item D\+I\+R\+N\+A\+ME\+: Set to the path of directory where {\ttfamily \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}}} and {\ttfamily \mbox{\hyperlink{partial__filter_8py}{partial\+\_\+filter.\+py}}} exist.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item H\+A\+M\+\_\+\+D\+IR\+: Set to the path where the mail server stores spam mails.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR\+: Set it to any directory where you want to store mails for retraining.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item W\+A\+T\+C\+H\+L\+OG\+: Set it to the complete path of the watchlog file which we created while launching the filter.
+\end{DoxyEnumerate}
+\begin{DoxyEnumerate}
+\item T\+R\+A\+I\+N\+\_\+\+NO\+: Set it to the number of mails you want your mail to take for retraining at once. Default is 1000.
+\end{DoxyEnumerate}
+
+After that, you have to attach these two scripts so that they are invoked by the mail client you are providing. Set it so that, when the user reports a mail as spam, the client calls {\ttfamily is\+\_\+spam.\+sh} and passes the complete path of that mail file to the script. Similarly, when the user reports that a mail classified as spam is actually ham, the client should call {\ttfamily is\+\_\+ham.\+sh} and pass the complete path of the mail file to the script.
+
+{\itshape {\bfseries{Congratulations!!!}}}
+
+You have successfully built, trained, configured and deployed the {\bfseries{Smart Spam Filter}}. Now you can go have some chocolates, well done. 

@@ -1,6 +1,3 @@
-[//]: ## 
-[//]: # \mainpage
-
 # User Manual for using Smart Spam Filter
 
 ## Intro
@@ -79,7 +76,7 @@ So you have successfully created your ML model (Yay!). Be careful to not modify 
 
 After you have built the model, you should test it for its accuracy. For that there are a few files:
 
-#### ``fast_multiple.py``
+- ``fast_multiple.py``
 
 This file is meant to process a number of files at a time, and is the recommended way of testing the model. It's simple, you just place all the mails in a single directory and then pass that directory to the code. It is highly recommended to only test ham *or* spam mails at once. This will make it easier for you to analyse the results. Also, the test mails should not be the same as the training mails.
 If you have modified the ``dic_size`` while building the model, please modify it here also assigning the same value as before.
@@ -92,7 +89,7 @@ Again, appending ``time`` is a good idea.
 This will generate a file called ``fastresult.txt``. This file will contain the judgement of the spam filter for each file in plain english.
 After analysing the result (and hopefully being satisfied by it) you can delete fastresult.txt file.
 
-#### ``working_model.py``
+- ``working_model.py``
 
 This file is supposed to test a single mail, but it is **NOT RECOMMENDED** to use this file. This is because its slower and you need to do more work for this.
 
@@ -140,7 +137,7 @@ After that, you have to attach these two scripts so that they are invoked by the
 Set it so that, when the user reports a mail as spam, the client calls ``is_spam.sh`` and passes the complete path of that mail file to the script.
 Similarly, when the user reports that a mail classified as spam is actually ham, the client should call ``is_ham.sh`` and pass the complete path of the mail file to the script.
 
-##### Congratulations!!!
+***Congratulations!!!***
 
 You have successfully built, trained, configured and deployed the **Smart Spam Filter**.
 Now you can go have some chocolates, well done.
