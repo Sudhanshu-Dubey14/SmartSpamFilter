@@ -2,9 +2,11 @@ from supporters.preprocessor import preprocessor
 import json
 import numpy as np
 
+dic_size = 3000
+
 
 def mail_features(mail):
-    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, dic_size))
     with open("dictionary") as dic:
         dictionary = json.load(dic)
     words = preprocessor(mail)
