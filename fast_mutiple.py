@@ -63,7 +63,7 @@ def mail_features(mail):
     # \param    mail The address of mail
     # \return   features_matrix: The features of a single mail
 
-    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, dic_size))
     words = preprocessor(mail)
     for word in words:
         wordID = 0
@@ -172,6 +172,8 @@ nlp = spacy.load("en_core_web_sm")
 stopWords = spacy.lang.en.stop_words.STOP_WORDS
 with open("dictionary") as dic:
     dictionary = json.load(dic)
+
+dic_size = 3000
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
 directory = sys.argv[1]
 multiple(directory)

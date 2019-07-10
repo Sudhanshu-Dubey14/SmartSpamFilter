@@ -29,7 +29,7 @@ def make_Dictionary(emails):
     ##
     # \brief   Method to create Dictionary
     # \param    train_dir The directory containing mails
-    # \return   dictionary The dictionary containing most common 3000 words
+    # \return   dictionary The dictionary containing most common words
 
     all_words = []
     for mail in emails:
@@ -46,9 +46,10 @@ def extract_features(files):
     # \brief    Method to extract features from all mails
     # \param    mail_dir The directory containing mails
     # \return   features_matrix A np-array containing features of all mails
-    features_matrix = np.zeros((len(files), dic_size))
+    features_matrix = np.zeros((all_size, dic_size))
     docID = 0
     for fil in files:
+        print("Extracting features from " + fil)
         features = mail_features(fil)
         features_matrix[docID] = features
         docID = docID + 1
@@ -62,7 +63,7 @@ def mail_features(mail):
     # \param    mail The address of mail
     # \return   features_matrix: The features of a single mail
 
-    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, dic_size))
     words = preprocessor(mail)
     for word in words:
         wordID = 0
@@ -70,6 +71,7 @@ def mail_features(mail):
             if word == d[0]:
                 wordID = i
                 features_matrix[0, wordID] = words.count(word)
+                print("Features extracted from " + mail)
     return features_matrix
 
 
@@ -199,7 +201,7 @@ mail_feature_matrix = extract_features(all_mails)
 
 ML_model = MultinomialNB()
 
-ML_model.fit(mail_feature_matrix, mail_labels)  # Fit Naive Bayes classifier according to train_matrix and train_labels
+ML_model.fit(mail_feature_matrix, mail_labels)  # Fit NB classifier according to mail_feature_matrix and mail_labels
 
 pickle.dump(ML_model, open('spamfilter.sav', 'wb'))
 copyfile('spamfilter.sav', 'backup/spamfilter.bk')

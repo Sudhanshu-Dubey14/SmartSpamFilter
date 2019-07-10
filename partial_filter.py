@@ -28,7 +28,7 @@ def update_Dictionary(emails):
     ##
     # \brief   Method to update Dictionary
     # \param    emails The list of mail files' addresses
-    # \return   new_dictionary The updated dictionary containing most common 3000 words
+    # \return   new_dictionary The updated dictionary containing most common words
     all_words = []
     i = 0
     for mail in emails:
@@ -40,7 +40,7 @@ def update_Dictionary(emails):
     new_dictionary = Counter(all_words)	  # Counts number of occurrences of words
     for i, d in enumerate(dictionary):
         new_dictionary.update({d[0]: d[1]})
-    new_dictionary = new_dictionary.most_common(3000)
+    new_dictionary = new_dictionary.most_common(dic_size)
     return new_dictionary
 
 
@@ -49,7 +49,7 @@ def extract_features(files):
     # \brief    Method to extract features from all mails
     # \param    files The list of mail files' addresses
     # \return   features_matrix A np-array containing features of all mails
-    features_matrix = np.zeros((len(files), 3000)) 	# makes matrix of len(files)x3000 containing all 0s
+    features_matrix = np.zeros((len(files), dic_size))
     docID = 0
     for fil in files:
         print(fil + "is in process...")
@@ -67,7 +67,7 @@ def mail_features(mail):
     # \param    mail The address of mail
     # \return   features_matrix: The features of a single mail
 
-    features_matrix = np.zeros((1, 3000)) 	# makes matrix of 1x3000 containing all 0s
+    features_matrix = np.zeros((1, dic_size))
     words = preprocessor(mail)
     for word in words:
         wordID = 0
@@ -178,6 +178,7 @@ nlp = spacy.load("en_core_web_sm")
 stopWords = spacy.lang.en.stop_words.STOP_WORDS
 
 '''Load old dictionary'''
+dic_size = 3000
 with open("dictionary") as dic:
     dictionary = json.load(dic)
 

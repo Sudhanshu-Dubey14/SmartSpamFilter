@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 
-## \file working_model.py
+##
+# \file
 # \brief  Model implementing code
 # \details This code reads mails individually and then classifies them using pre-trained model.
 # \author Sudhanshu Dubey
 # \version    1.0
 # \date   25/6/19
 # \param    mail_file The full address of mail file.
-# \warning  Is not suitable for classifying multiple emails. Use fast_single.py or fast_multiple.py instead.
+# \warning  Is not suitable for classifying multiple emails. Use fast_multiple.py instead.
 # \todo Make it so that the spam emails are moved to spam folder.
 # \bug  No known bug.
 
