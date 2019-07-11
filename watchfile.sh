@@ -11,8 +11,8 @@ else
 	touch $WATCHLOG
 fi
 
-pkill inotifywait -r -d $WATCHDIR -o $WATCHLOG --format %w%f -e create -e moved_to
-pkill python3 $CURDIR/fast_single.py $WATCHLOG
+pkill "$WATCHLOG"
+pkill "fast_single.py"
 pkill $0
 
 inotifywait -r -d $WATCHDIR -o $WATCHLOG --format %w%f -e create -e moved_to 
