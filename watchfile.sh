@@ -11,7 +11,7 @@ else
 	touch $WATCHLOG
 fi
 
-pkill "$WATCHLOG"
+pkill "inotifywait"
 pkill "fast_single.py"
 pkill $0
 
