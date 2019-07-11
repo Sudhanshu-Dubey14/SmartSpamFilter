@@ -9,12 +9,12 @@
 # \version    1.0
 # \date   3/7/2019
 # \params   logfile_location The location of log file.
-# \todo Make it so that the spam emails are moved to the spam folder.
 # \bug No known bugs
 
 import os
 import sys
 import time
+from datetime import datetime
 
 import pickle
 import numpy as np
@@ -22,6 +22,7 @@ import json
 import spacy
 import email
 from bs4 import BeautifulSoup
+import shutil
 
 
 def predict(mail_file):
@@ -146,6 +147,13 @@ def get_words_html(content, all_words):
             all_words.append(lemma)
 
 
+def get_spam_address(mail_address):
+    directory, filename = mail_address.rsplit('/', 1)
+    spam_dir = "/var/mail/folder/spam"
+    full_spam_address = spam_dir + "/" + filename
+    return full_spam_address
+
+
 nlp = spacy.load("en_core_web_sm")
 stopWords = spacy.lang.en.stop_words.STOP_WORDS
 with open("dictionary") as dic:
@@ -162,14 +170,18 @@ while True:
         mail = logfile.readline()
         if mail == "":
             break
+        startTime = datetime.now()
         result = predict(mail.rstrip())
-        with open("fastsingle.txt", "a") as fil:
+        endTime = datetime.now()
+        processTime = endTime - startTime
+        with open("spamfilter.log", "a") as fil:
             if result == 1:
-                fil.write(mail + " is a spam!!!\n")
+                shutil.move(mail.rstrip(), get_spam_address(mail.rstrip()))
+                fil.write(mail + " is a spam!!!\t Found in:" + processTime + "\n")
             elif result == 0:
-                fil.write(mail + " is a normal mail.\n")
+                fil.write(mail + " is a normal mail.\t Found in:" + processTime + "\n")
             else:
-                fil.write("Something went wrong with " + mail + "\n")
+                fil.write("Something went wrong with " + mail + "\t Found in:" + processTime + "\n")
     try:
         if os.stat(logfile_location).st_ino != logfile_ino:
             new = open(logfile_location, "r")
