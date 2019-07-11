@@ -177,11 +177,11 @@ while True:
         with open("spamfilter.log", "a") as fil:
             if result == 1:
                 shutil.move(mail.rstrip(), get_spam_address(mail.rstrip()))
-                fil.write(mail + " is a spam!!!\t Found in:" + processTime + "\n")
+                fil.write(mail + " is a spam!!!\t Found in:" + str(processTime) + "\n")
             elif result == 0:
-                fil.write(mail + " is a normal mail.\t Found in:" + processTime + "\n")
+                fil.write(mail + " is a normal mail.\t Found in:" + str(processTime) + "\n")
             else:
-                fil.write("Something went wrong with " + mail + "\t Found in:" + processTime + "\n")
+                fil.write("Something went wrong with " + mail + "\t Found in:" + str(processTime) + "\n")
     try:
         if os.stat(logfile_location).st_ino != logfile_ino:
             new = open(logfile_location, "r")
