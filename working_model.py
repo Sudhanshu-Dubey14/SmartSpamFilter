@@ -9,7 +9,6 @@
 # \date   25/6/19
 # \param    mail_file The full address of mail file.
 # \warning  Is not suitable for classifying multiple emails. Use fast_multiple.py instead.
-# \todo Make it so that the spam emails are moved to spam folder.
 # \bug  No known bug.
 
 import sys

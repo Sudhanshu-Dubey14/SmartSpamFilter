@@ -9,7 +9,7 @@
 # \date   9/7/2019
 # \param    ham_dir Directory containing ham mails for training
 # \param    spam_dir    Directory containing spam mails for training
-# \bug No known bugs (untested)
+# \bug No known bugs
 
 import os
 import sys
