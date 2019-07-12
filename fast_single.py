@@ -147,41 +147,39 @@ def get_words_html(content, all_words):
             all_words.append(lemma)
 
 
-def get_spam_address(mail_address):
-    directory, filename = mail_address.rsplit('/', 1)
-    spam_dir = "/var/mail/folder/spam"
-    full_spam_address = spam_dir + "/" + filename
-    return full_spam_address
-
-
 nlp = spacy.load("en_core_web_sm")
 stopWords = spacy.lang.en.stop_words.STOP_WORDS
 with open("dictionary") as dic:
     dictionary = json.load(dic)
+
+"""Variables that can be replaced by user"""
 dic_size = 3000
+SPAM_DIR = "/var/mail/folder/spam"
+
 ml_model = pickle.load(open('spamfilter.sav', 'rb'))
 
 """Read the mail name from a logfile continuously"""
 logfile_location = sys.argv[1]
 logfile = open(logfile_location, "r")
 logfile_ino = os.fstat(logfile.fileno()).st_ino
+fil = open("spamfilter.log", "a")
 while True:
     while True:
         mail = logfile.readline()
+        mail = mail.rstrip()
         if mail == "":
             break
         startTime = datetime.now()
-        result = predict(mail.rstrip())
+        result = predict(mail)
         endTime = datetime.now()
         processTime = endTime - startTime
-        with open("spamfilter.log", "a") as fil:
-            if result == 1:
-                shutil.move(mail.rstrip(), get_spam_address(mail.rstrip()))
-                fil.write(mail + " is a spam!!!\t Found in:" + str(processTime) + "\n")
-            elif result == 0:
-                fil.write(mail + " is a normal mail.\t Found in:" + str(processTime) + "\n")
-            else:
-                fil.write("Something went wrong with " + mail + "\t Found in:" + str(processTime) + "\n")
+        if result == 1:
+            shutil.move(mail, SPAM_DIR)
+            fil.write(mail + " is a spam!!!\t Found in: " + str(processTime) + "\n")
+        elif result == 0:
+            fil.write(mail + " is a normal mail.\t Found in: " + str(processTime) + "\n")
+        else:
+            fil.write("Something went wrong with " + mail + "\t Found in:" + str(processTime) + "\n")
     try:
         if os.stat(logfile_location).st_ino != logfile_ino:
             new = open(logfile_location, "r")
