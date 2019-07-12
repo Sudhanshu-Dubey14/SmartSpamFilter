@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Smart Spam Filter: User Manual for using Smart Spam Filter</title>
+<title>Smart Spam Filter: Empty Directory for keeping ham mails for model building</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -98,110 +98,10 @@ $(document).ready(function(){initNavTree('index.html','');});
 
 <div class="PageDoc"><div class="header">
   <div class="headertitle">
-<div class="title">User Manual for using Smart Spam Filter </div>  </div>
+<div class="title">Empty Directory for keeping ham mails for model building </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h1><a class="anchor" id="autotoc_md3"></a>
-Intro</h1>
-<p><b>Smart Spam Filter</b> is a Machine Learning code written in python that builds, trains, tests and deploys a spam filter for your mail server. It is designed to as convenient to use as possible, but since it has to work closely with the particular mail server the users need to perform some work themselves.</p>
-<p>This software is independent of mail server and can be deployed on any mail server. Though the person who is integrating this software with the mail server should be aware of the directory structure of the mail server, like the location of arrival of new mails and where the spam and ham (non-spam) mails are kept.</p>
-<p>This core part of this software is written in python and is thus platform independent. But the assisting scripts are written for Bash shell and thus may not work on some operating systems (like MS Windows). But obviously, with some knowledge, the corresponding scripts for Windows can be made by anyone and it is highly encouraged for someone to make them. ;-)</p>
-<p>With this said, let's get on with how to set up this software in your mail server.</p>
-<h1><a class="anchor" id="autotoc_md4"></a>
-Prerequisites</h1>
-<p>The following packages are required for us to get going:</p>
-<ul>
-<li><a href="https://git-scm.com/">Git</a></li>
-<li><a href="https://www.python.org/">Python</a> (version 3.6 and above)</li>
-<li><a href="https://linux.die.net/man/1/inotifywait">INotifyWait</a></li>
-<li><a href="https://pip.pypa.io/en/stable/">PIP3</a> (Pip Installs Package)</li>
-</ul>
-<p>You can install the above in Debian-based system using the command: </p><pre class="fragment">sudo apt install git python3 inotify-tools python3-pip
-</pre><p>The instructions for other Linux distros can be obtained by replacing <code>apt</code> with suitable package manager (Like <code>yum</code> for Fedora-based systems)</p>
-<p>Now that we have <code>pip3</code> with us, we will install the following python packages:</p>
-<ul>
-<li><a href="https://spacy.io/">SpaCy</a></li>
-<li><a href="https://scikit-learn.org/">Scikit-Learn</a></li>
-<li><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup4</a></li>
-<li><a href="https://www.numpy.org/">Numpy</a></li>
-</ul>
-<p>You can install these packages using the following command: </p><pre class="fragment">pip3 install spacy sklearn beautifulsoup4 numpy
-</pre><p>Now there is one last thing to get, and that is English model of Spacy, which is fetched like this: </p><pre class="fragment">python3 -m spacy download en_core_web_sm
-</pre><p>And with this, we are all set to configure our spam filter. Oh, by the way, it's obvious but you need to have a working mail server installed on your system too (though that is not a requirement).</p>
-<h1><a class="anchor" id="autotoc_md5"></a>
-Getting the Filter</h1>
-<p>You can get this filter using git: </p><pre class="fragment">git clone &lt;URL&gt;
-</pre><h1><a class="anchor" id="autotoc_md6"></a>
-Building the ML Model</h1>
-<p>The file <code><a class="el" href="spam__filter_8py.html" title="Model building code.">spam_filter.py</a></code> is designed to initially build and train your ML model.</p>
-<p>For this, you need a lot (really a whole lot) of emails, both spam and ham (non-spam). Keep all the ham mails in a directory and all the spam mails in a separate directory. Optionally, you can keep them in the empty directories provided in this project and if you are doing it, don't forget to remove the README.md files from those directories.</p>
-<p>The number of mails in both the directories should be sufficiently large but not too large. I have tested with a total of 6017 emails and it has worked brilliantly. Also, it would be helpful if there are almost equal spam and ham mails.</p>
-<p>You can also open the <a class="el" href="spam__filter_8py.html" title="Model building code.">spam_filter.py</a> file and modify value of the variable <code>dic_size</code>. This variable holds the number of the words that should be stored in the dictionary. By default, it's set to 3000. A larger dictionary gives more accurate results but takes slightly longer to process. So knowing your system capabilities, you should make a wise decision here.</p>
-<p>So, after you have got the mails in the directories, here is what you run: </p><pre class="fragment">python3 spam_filter.py /path/to/ham_mails /path/to/spam_mails
-</pre><p>Make sure that the first argument is path of the directory containing ham mails and the second one is of that containing spam. You can append <code>time</code> at the starting of the command to get the time it took to build and train the model. Depending on the number of mails and system specifications, it will take some time to process all the mails and create the dictionary and ML model.</p>
-<p>After the process is complete, you will get two extra files called <b>dictionary</b> and <b>spamfilter.sav</b>. The dictionary represents the vocabulary of the model and the spamfilter.sav is the actual model. A backup of these files will also be created in the <code>backup</code> directory should you ever need it.</p>
-<p>So you have successfully created your ML model (Yay!). Be careful to not modify any of the auto-generated files.</p>
-<h1><a class="anchor" id="autotoc_md7"></a>
-Testing the Model</h1>
-<p>After you have built the model, you should test it for its accuracy. For that there are a few files:</p>
-<ul>
-<li><code>fast_multiple.py</code></li>
-</ul>
-<p>This file is meant to process a number of files at a time, and is the recommended way of testing the model. It's simple, you just place all the mails in a single directory and then pass that directory to the code. It is highly recommended to only test ham <em>or</em> spam mails at once. This will make it easier for you to analyse the results. Also, the test mails should not be the same as the training mails. If you have modified the <code>dic_size</code> while building the model, please modify it here also assigning the same value as before.</p>
-<p>You start the test like this: </p><pre class="fragment">python3 fast_multiple.py /path/to/mail/directory
-</pre><p>Again, appending <code>time</code> is a good idea. This will generate a file called <code>fastresult.txt</code>. This file will contain the judgement of the spam filter for each file in plain english. After analysing the result (and hopefully being satisfied by it) you can delete fastresult.txt file.</p>
-<ul>
-<li><code><a class="el" href="working__model_8py.html" title="Model implementing code.">working_model.py</a></code></li>
-</ul>
-<p>This file is supposed to test a single mail, but it is <b>NOT RECOMMENDED</b> to use this file. This is because its slower and you need to do more work for this.</p>
-<p>But if you decide to use it anyway, here is how. First, if you have modified the <code>dic_size</code> while building the model, go into <code>supporters/features.py</code> and modify the <code>dic_size</code> there. Then, just run this file like this: </p><pre class="fragment">python3 working_model.py /path/to/mail/file
-</pre><p>It will show you the result on the command line itself.</p>
-<h1><a class="anchor" id="autotoc_md8"></a>
-Deploying the Model</h1>
-<p>Now that we are satisfied with the accuracy of the model, let's deploy it for real. For this purpose, there is the script <code>watchfile.sh</code>. But before doing anything, first go into <code><a class="el" href="fast__single_8py.html" title="Continuous Single Mail Processing Code.">fast_single.py</a></code> and modify the <code>dic_size</code> variable.</p>
-<p>Now it's a bit tricky, really. Opening the <code>watchfile.sh</code>, you will find two variables <code>WATCHDIR</code> and <code>WATCHLOG</code>. You should assign the path of those directories that receive new mails to the <code>WATCHDIR</code> variable. If there are too many directories, then you could put them in a file and modify the <code>inotifywait</code> command to watch all the directories that are given in that file. For doing this, refer to the <a href="https://linux.die.net/man/1/inotifywait">man page of inotifywait</a>.</p>
-<p>The <code>WATCHLOG</code> variable contains the path of the file where <code>inotifywait</code> sends its output and <code><a class="el" href="fast__single_8py.html" title="Continuous Single Mail Processing Code.">fast_single.py</a></code> reads its input. So you should set it accordingly.</p>
-<p>After you have appropriately set the paths, run the command: </p><pre class="fragment">setsid bash watchfile.sh
-</pre><p><code>setsid</code> will send the process to background. And now you have successfully set the spam filter to continuously watch for new mails and classify them as they come (Yay!).</p>
-<h1><a class="anchor" id="autotoc_md9"></a>
-Continuous Training</h1>
-<p>We have our spam filter up and working. But remember that it's a Machine Learning model and learning is a continuous process. There are bound be emails that our filter will classify incorrectly, be it a spam that the filter call ham or a ham that the filter call spam. To learn from its mistakes, we have <code><a class="el" href="partial__filter_8py.html" title="Model Retraining Code.">partial_filter.py</a></code> file and its supporting scripts <code>is_ham.sh</code> and <code>is_spam.sh</code>.</p>
-<p>First, go into <code>partial_filter.sh</code> and modify <code>dic_size</code> to match the original model. Then open <code>is_spam.sh</code> and modify the following variables:</p>
-<ol type="1">
-<li>DIRNAME: Set to the path of directory where <code><a class="el" href="fast__single_8py.html" title="Continuous Single Mail Processing Code.">fast_single.py</a></code> and <code><a class="el" href="partial__filter_8py.html" title="Model Retraining Code.">partial_filter.py</a></code> exist.</li>
-</ol>
-<ol type="1">
-<li>SPAM_DIR: Set to the path where the mail server stores spam mails.</li>
-</ol>
-<ol type="1">
-<li>SPAM_TRAIN_DIR: Set it to any directory where you want to store mails for retraining.</li>
-</ol>
-<ol type="1">
-<li>WATCHLOG: Set it to the complete path of the watchlog file which we created while launching the filter.</li>
-</ol>
-<ol type="1">
-<li>TRAIN_NO: Set it to the number of mails you want your mail to take for retraining at once. Default is 1000.</li>
-</ol>
-<p>Similarly, open <code>is_ham.sh</code> and modify the following variables:</p>
-<ol type="1">
-<li>DIRNAME: Set to the path of directory where <code><a class="el" href="fast__single_8py.html" title="Continuous Single Mail Processing Code.">fast_single.py</a></code> and <code><a class="el" href="partial__filter_8py.html" title="Model Retraining Code.">partial_filter.py</a></code> exist.</li>
-</ol>
-<ol type="1">
-<li>HAM_DIR: Set to the path where the mail server stores spam mails.</li>
-</ol>
-<ol type="1">
-<li>HAM_TRAIN_DIR: Set it to any directory where you want to store mails for retraining.</li>
-</ol>
-<ol type="1">
-<li>WATCHLOG: Set it to the complete path of the watchlog file which we created while launching the filter.</li>
-</ol>
-<ol type="1">
-<li>TRAIN_NO: Set it to the number of mails you want your mail to take for retraining at once. Default is 1000.</li>
-</ol>
-<p>After that, you have to attach these two scripts so that they are invoked by the mail client you are providing. Set it so that, when the user reports a mail as spam, the client calls <code>is_spam.sh</code> and passes the complete path of that mail file to the script. Similarly, when the user reports that a mail classified as spam is actually ham, the client should call <code>is_ham.sh</code> and pass the complete path of the mail file to the script.</p>
-<p><em><b>Congratulations!!!</b></em></p>
-<p>You have successfully built, trained, configured and deployed the <b>Smart Spam Filter</b>. Now you can go have some chocolates, well done. </p>
-</div></div><!-- PageDoc -->
+<div class="textblock"></div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

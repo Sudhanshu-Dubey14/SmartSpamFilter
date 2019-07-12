@@ -1,7 +1,6 @@
 var fast__single_8py =
 [
     [ "find_payload", "fast__single_8py.html#a09f5c51b49e0884522e00fbd88886d45", null ],
-    [ "get_spam_address", "fast__single_8py.html#a8e7ba0fa4ca4fe54289876c7db708331", null ],
     [ "get_words_html", "fast__single_8py.html#a93e1722f2a30cdd6f28319ffa0d095e7", null ],
     [ "get_words_plain", "fast__single_8py.html#a54fc0c629847190e5eeeb9f61a02d713", null ],
     [ "mail_features", "fast__single_8py.html#a3675b26fd2647ce08a47565f664e8a33", null ],
@@ -11,6 +10,7 @@ var fast__single_8py =
     [ "dic_size", "fast__single_8py.html#a735adae94a54bd3f5709731eee834711", null ],
     [ "dictionary", "fast__single_8py.html#aae8d12776655863001d563887d4c93c6", null ],
     [ "endTime", "fast__single_8py.html#afbaf388e0ab841a0aa1cb547ed896177", null ],
+    [ "fil", "fast__single_8py.html#aeef2f949ccd042bfcd887335b01005a4", null ],
     [ "logfile", "fast__single_8py.html#a5db3c2b32dc800f860401f30d14456fd", null ],
     [ "logfile_ino", "fast__single_8py.html#a177d8bb7a02ca530d05ce715c5f48f22", null ],
     [ "logfile_location", "fast__single_8py.html#a202beed81f364d7b6d90618847774e28", null ],
@@ -20,6 +20,7 @@ var fast__single_8py =
     [ "nlp", "fast__single_8py.html#a56d42216d97b96c700340b00203bfb62", null ],
     [ "processTime", "fast__single_8py.html#a4d91d4234e37c76798ee4390bac637e9", null ],
     [ "result", "fast__single_8py.html#ae489898b14777b2b94d169db14a8e160", null ],
+    [ "SPAM_DIR", "fast__single_8py.html#a26db137d5747b60e2dd75e44a3a82765", null ],
     [ "startTime", "fast__single_8py.html#a86cbdc622e3531482aaaebd0ae5b2053", null ],
     [ "stopWords", "fast__single_8py.html#ab6c65df34bc35bc8690184dd141a5dc6", null ]
 ];

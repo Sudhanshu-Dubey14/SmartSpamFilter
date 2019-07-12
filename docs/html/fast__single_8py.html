@@ -131,9 +131,6 @@ Functions</h2></td></tr>
 <tr class="memitem:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fast__single_8py.html#a93e1722f2a30cdd6f28319ffa0d095e7">fast_single.get_words_html</a> (content, all_words)</td></tr>
 <tr class="memdesc:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to get words out of html content.  <a href="fast__single_8py.html#a93e1722f2a30cdd6f28319ffa0d095e7">More...</a><br /></td></tr>
 <tr class="separator:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e7ba0fa4ca4fe54289876c7db708331"><td class="memItemLeft" align="right" valign="top"><a id="a8e7ba0fa4ca4fe54289876c7db708331"></a>
-def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.get_spam_address</b> (mail_address)</td></tr>
-<tr class="separator:a8e7ba0fa4ca4fe54289876c7db708331"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
@@ -149,6 +146,9 @@ Variables</h2></td></tr>
 <tr class="memitem:a735adae94a54bd3f5709731eee834711"><td class="memItemLeft" align="right" valign="top"><a id="a735adae94a54bd3f5709731eee834711"></a>
 int&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.dic_size</b> = 3000</td></tr>
 <tr class="separator:a735adae94a54bd3f5709731eee834711"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26db137d5747b60e2dd75e44a3a82765"><td class="memItemLeft" align="right" valign="top"><a id="a26db137d5747b60e2dd75e44a3a82765"></a>
+string&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.SPAM_DIR</b> = &quot;/var/mail/folder/spam&quot;</td></tr>
+<tr class="separator:a26db137d5747b60e2dd75e44a3a82765"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afae9f4324e707d8ca9e3e93ae52765e3"><td class="memItemLeft" align="right" valign="top"><a id="afae9f4324e707d8ca9e3e93ae52765e3"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.ml_model</b> = pickle.load(open('spamfilter.sav', 'rb'))</td></tr>
 <tr class="separator:afae9f4324e707d8ca9e3e93ae52765e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -161,6 +161,9 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.dic_size</
 <tr class="memitem:a177d8bb7a02ca530d05ce715c5f48f22"><td class="memItemLeft" align="right" valign="top"><a id="a177d8bb7a02ca530d05ce715c5f48f22"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.logfile_ino</b> = os.fstat(logfile.fileno()).st_ino</td></tr>
 <tr class="separator:a177d8bb7a02ca530d05ce715c5f48f22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeef2f949ccd042bfcd887335b01005a4"><td class="memItemLeft" align="right" valign="top"><a id="aeef2f949ccd042bfcd887335b01005a4"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.fil</b> = open(&quot;spamfilter.log&quot;, &quot;a&quot;)</td></tr>
+<tr class="separator:aeef2f949ccd042bfcd887335b01005a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab71f261c5198589e359c4a015ad1478a"><td class="memItemLeft" align="right" valign="top"><a id="ab71f261c5198589e359c4a015ad1478a"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.mail</b> = logfile.readline()</td></tr>
 <tr class="separator:ab71f261c5198589e359c4a015ad1478a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -168,7 +171,7 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.dic_size</
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.startTime</b> = datetime.now()</td></tr>
 <tr class="separator:a86cbdc622e3531482aaaebd0ae5b2053"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae489898b14777b2b94d169db14a8e160"><td class="memItemLeft" align="right" valign="top"><a id="ae489898b14777b2b94d169db14a8e160"></a>
-def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.result</b> = predict(mail.rstrip())</td></tr>
+def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.result</b> = predict(mail)</td></tr>
 <tr class="separator:ae489898b14777b2b94d169db14a8e160"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afbaf388e0ab841a0aa1cb547ed896177"><td class="memItemLeft" align="right" valign="top"><a id="afbaf388e0ab841a0aa1cb547ed896177"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.endTime</b> = datetime.now()</td></tr>

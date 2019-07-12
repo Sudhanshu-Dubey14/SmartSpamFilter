@@ -21,10 +21,7 @@ def \mbox{\hyperlink{fast__single_8py_a473089baf700129e249db6579d03352d}{fast\+\
 def \mbox{\hyperlink{fast__single_8py_a54fc0c629847190e5eeeb9f61a02d713}{fast\+\_\+single.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
 \begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
 def \mbox{\hyperlink{fast__single_8py_a93e1722f2a30cdd6f28319ffa0d095e7}{fast\+\_\+single.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
-\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\item 
-\mbox{\Hypertarget{fast__single_8py_a8e7ba0fa4ca4fe54289876c7db708331}\label{fast__single_8py_a8e7ba0fa4ca4fe54289876c7db708331}} 
-def {\bfseries fast\+\_\+single.\+get\+\_\+spam\+\_\+address} (mail\+\_\+address)
-\end{DoxyCompactItemize}
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
@@ -40,6 +37,9 @@ def {\bfseries fast\+\_\+single.\+get\+\_\+spam\+\_\+address} (mail\+\_\+address
 \mbox{\Hypertarget{fast__single_8py_a735adae94a54bd3f5709731eee834711}\label{fast__single_8py_a735adae94a54bd3f5709731eee834711}} 
 int {\bfseries fast\+\_\+single.\+dic\+\_\+size} = 3000
 \item 
+\mbox{\Hypertarget{fast__single_8py_a26db137d5747b60e2dd75e44a3a82765}\label{fast__single_8py_a26db137d5747b60e2dd75e44a3a82765}} 
+string {\bfseries fast\+\_\+single.\+S\+P\+A\+M\+\_\+\+D\+IR} = \char`\"{}/var/mail/folder/spam\char`\"{}
+\item 
 \mbox{\Hypertarget{fast__single_8py_afae9f4324e707d8ca9e3e93ae52765e3}\label{fast__single_8py_afae9f4324e707d8ca9e3e93ae52765e3}} 
 {\bfseries fast\+\_\+single.\+ml\+\_\+model} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
 \item 
@@ -52,6 +52,9 @@ int {\bfseries fast\+\_\+single.\+dic\+\_\+size} = 3000
 \mbox{\Hypertarget{fast__single_8py_a177d8bb7a02ca530d05ce715c5f48f22}\label{fast__single_8py_a177d8bb7a02ca530d05ce715c5f48f22}} 
 {\bfseries fast\+\_\+single.\+logfile\+\_\+ino} = os.\+fstat(logfile.\+fileno()).st\+\_\+ino
 \item 
+\mbox{\Hypertarget{fast__single_8py_aeef2f949ccd042bfcd887335b01005a4}\label{fast__single_8py_aeef2f949ccd042bfcd887335b01005a4}} 
+{\bfseries fast\+\_\+single.\+fil} = open(\char`\"{}spamfilter.\+log\char`\"{}, \char`\"{}a\char`\"{})
+\item 
 \mbox{\Hypertarget{fast__single_8py_ab71f261c5198589e359c4a015ad1478a}\label{fast__single_8py_ab71f261c5198589e359c4a015ad1478a}} 
 {\bfseries fast\+\_\+single.\+mail} = logfile.\+readline()
 \item 
@@ -59,7 +62,7 @@ int {\bfseries fast\+\_\+single.\+dic\+\_\+size} = 3000
 {\bfseries fast\+\_\+single.\+start\+Time} = datetime.\+now()
 \item 
 \mbox{\Hypertarget{fast__single_8py_ae489898b14777b2b94d169db14a8e160}\label{fast__single_8py_ae489898b14777b2b94d169db14a8e160}} 
-def {\bfseries fast\+\_\+single.\+result} = predict(mail.\+rstrip())
+def {\bfseries fast\+\_\+single.\+result} = predict(mail)
 \item 
 \mbox{\Hypertarget{fast__single_8py_afbaf388e0ab841a0aa1cb547ed896177}\label{fast__single_8py_afbaf388e0ab841a0aa1cb547ed896177}} 
 {\bfseries fast\+\_\+single.\+end\+Time} = datetime.\+now()
