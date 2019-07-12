@@ -21,7 +21,10 @@ def \mbox{\hyperlink{fast__single_8py_a473089baf700129e249db6579d03352d}{fast\+\
 def \mbox{\hyperlink{fast__single_8py_a54fc0c629847190e5eeeb9f61a02d713}{fast\+\_\+single.\+get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
 \begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
 def \mbox{\hyperlink{fast__single_8py_a93e1722f2a30cdd6f28319ffa0d095e7}{fast\+\_\+single.\+get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
-\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{fast__single_8py_a8e7ba0fa4ca4fe54289876c7db708331}\label{fast__single_8py_a8e7ba0fa4ca4fe54289876c7db708331}} 
+def {\bfseries fast\+\_\+single.\+get\+\_\+spam\+\_\+address} (mail\+\_\+address)
+\end{DoxyCompactItemize}
 \doxysubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
@@ -52,8 +55,17 @@ int {\bfseries fast\+\_\+single.\+dic\+\_\+size} = 3000
 \mbox{\Hypertarget{fast__single_8py_ab71f261c5198589e359c4a015ad1478a}\label{fast__single_8py_ab71f261c5198589e359c4a015ad1478a}} 
 {\bfseries fast\+\_\+single.\+mail} = logfile.\+readline()
 \item 
+\mbox{\Hypertarget{fast__single_8py_a86cbdc622e3531482aaaebd0ae5b2053}\label{fast__single_8py_a86cbdc622e3531482aaaebd0ae5b2053}} 
+{\bfseries fast\+\_\+single.\+start\+Time} = datetime.\+now()
+\item 
 \mbox{\Hypertarget{fast__single_8py_ae489898b14777b2b94d169db14a8e160}\label{fast__single_8py_ae489898b14777b2b94d169db14a8e160}} 
 def {\bfseries fast\+\_\+single.\+result} = predict(mail.\+rstrip())
+\item 
+\mbox{\Hypertarget{fast__single_8py_afbaf388e0ab841a0aa1cb547ed896177}\label{fast__single_8py_afbaf388e0ab841a0aa1cb547ed896177}} 
+{\bfseries fast\+\_\+single.\+end\+Time} = datetime.\+now()
+\item 
+\mbox{\Hypertarget{fast__single_8py_a4d91d4234e37c76798ee4390bac637e9}\label{fast__single_8py_a4d91d4234e37c76798ee4390bac637e9}} 
+{\bfseries fast\+\_\+single.\+process\+Time} = end\+Time -\/ start\+Time
 \item 
 \mbox{\Hypertarget{fast__single_8py_a1a69003eba753fdbdec1c24a2ac7addf}\label{fast__single_8py_a1a69003eba753fdbdec1c24a2ac7addf}} 
 {\bfseries fast\+\_\+single.\+new} = open(logfile\+\_\+location, \char`\"{}r\char`\"{})
@@ -72,8 +84,6 @@ Sudhanshu Dubey
 \begin{DoxyDate}{Date}
 3/7/2019 \textbackslash{}params logfile\+\_\+location The location of log file. 
 \end{DoxyDate}
-\begin{DoxyRefDesc}{Todo}
-\item[\mbox{\hyperlink{todo__todo000002}{Todo}}]Make it so that the spam emails are moved to the spam folder. \end{DoxyRefDesc}
 \begin{DoxyRefDesc}{Bug}
 \item[\mbox{\hyperlink{bug__bug000002}{Bug}}]No known bugs \end{DoxyRefDesc}
 

@@ -131,6 +131,9 @@ Functions</h2></td></tr>
 <tr class="memitem:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fast__single_8py.html#a93e1722f2a30cdd6f28319ffa0d095e7">fast_single.get_words_html</a> (content, all_words)</td></tr>
 <tr class="memdesc:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to get words out of html content.  <a href="fast__single_8py.html#a93e1722f2a30cdd6f28319ffa0d095e7">More...</a><br /></td></tr>
 <tr class="separator:a93e1722f2a30cdd6f28319ffa0d095e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e7ba0fa4ca4fe54289876c7db708331"><td class="memItemLeft" align="right" valign="top"><a id="a8e7ba0fa4ca4fe54289876c7db708331"></a>
+def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.get_spam_address</b> (mail_address)</td></tr>
+<tr class="separator:a8e7ba0fa4ca4fe54289876c7db708331"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
@@ -161,9 +164,18 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.dic_size</
 <tr class="memitem:ab71f261c5198589e359c4a015ad1478a"><td class="memItemLeft" align="right" valign="top"><a id="ab71f261c5198589e359c4a015ad1478a"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.mail</b> = logfile.readline()</td></tr>
 <tr class="separator:ab71f261c5198589e359c4a015ad1478a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86cbdc622e3531482aaaebd0ae5b2053"><td class="memItemLeft" align="right" valign="top"><a id="a86cbdc622e3531482aaaebd0ae5b2053"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.startTime</b> = datetime.now()</td></tr>
+<tr class="separator:a86cbdc622e3531482aaaebd0ae5b2053"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae489898b14777b2b94d169db14a8e160"><td class="memItemLeft" align="right" valign="top"><a id="ae489898b14777b2b94d169db14a8e160"></a>
 def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.result</b> = predict(mail.rstrip())</td></tr>
 <tr class="separator:ae489898b14777b2b94d169db14a8e160"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afbaf388e0ab841a0aa1cb547ed896177"><td class="memItemLeft" align="right" valign="top"><a id="afbaf388e0ab841a0aa1cb547ed896177"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.endTime</b> = datetime.now()</td></tr>
+<tr class="separator:afbaf388e0ab841a0aa1cb547ed896177"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d91d4234e37c76798ee4390bac637e9"><td class="memItemLeft" align="right" valign="top"><a id="a4d91d4234e37c76798ee4390bac637e9"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.processTime</b> = endTime - startTime</td></tr>
+<tr class="separator:a4d91d4234e37c76798ee4390bac637e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a69003eba753fdbdec1c24a2ac7addf"><td class="memItemLeft" align="right" valign="top"><a id="a1a69003eba753fdbdec1c24a2ac7addf"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.new</b> = open(logfile_location, &quot;r&quot;)</td></tr>
 <tr class="separator:a1a69003eba753fdbdec1c24a2ac7addf"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -173,7 +185,6 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>fast_single.result</b>
 <p>This code loads the modules, continuously reads address of mails from log file and processes them. </p><dl class="section author"><dt>Author</dt><dd>Sudhanshu Dubey </dd></dl>
 <dl class="section version"><dt>Version</dt><dd>1.0 </dd></dl>
 <dl class="section date"><dt>Date</dt><dd>3/7/2019 \params logfile_location The location of log file. </dd></dl>
-<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000002">Todo:</a></b></dt><dd>Make it so that the spam emails are moved to the spam folder. </dd></dl>
 <dl class="bug"><dt><b><a class="el" href="bug.html#_bug000002">Bug:</a></b></dt><dd>No known bugs </dd></dl>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="a09f5c51b49e0884522e00fbd88886d45"></a>
