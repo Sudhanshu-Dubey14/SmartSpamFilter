@@ -1,0 +1,302 @@
+\hypertarget{namespacespam__filter}{}\doxysection{spam\+\_\+filter Namespace Reference}
+\label{namespacespam__filter}\index{spam\_filter@{spam\_filter}}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacespam__filter_af09d64c0fde98c0093d974f3e041b516}{make\+\_\+\+Dictionary}} (emails)
+\begin{DoxyCompactList}\small\item\em Method to create Dictionary. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_ab5d505fe2125f88d4e3392f1289b0ed2}{extract\+\_\+features}} (files)
+\begin{DoxyCompactList}\small\item\em Method to extract features from all mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_a9f037d2c254216371ec9baf1236e3316}{mail\+\_\+features}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to find features of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_ad3b8566a1cdaaffdb96af690e4b3541f}{preprocessor}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to pre-\/process the mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_a58a7e2df19d545d1d838fda0ad9ad18b}{find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to recursively find single part payloads. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_ab3383047adbaf68a3a9eb4ceb1f01fdd}{split\+\_\+payload}} (payload, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to split the large payloads into smaller chunks. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_a05f97ed131c8c68cbe3eeae9c9bceb78}{get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacespam__filter_a961c1080cc59e3d87f8952cb30139f92}{get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacespam__filter_a51843ee7fc8a0dde6365afb2070f793e}{nlp}} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
+\item 
+\mbox{\hyperlink{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}{stop\+Words}} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
+\item 
+\mbox{\hyperlink{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}{ham\+\_\+dir}} = sys.\+argv\mbox{[}1\mbox{]}
+\item 
+list \mbox{\hyperlink{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}{ham\+\_\+mails}} = \mbox{[}os.\+path.\+join(\mbox{\hyperlink{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}{ham\+\_\+dir}}, f) for f in os.\+listdir(\mbox{\hyperlink{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}{ham\+\_\+dir}})\mbox{]}
+\item 
+\mbox{\hyperlink{namespacespam__filter_a6014e04adda95ef9a05ad883af5516e4}{ham\+\_\+size}} = len(\mbox{\hyperlink{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}{ham\+\_\+mails}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}{spam\+\_\+dir}} = sys.\+argv\mbox{[}2\mbox{]}
+\item 
+list \mbox{\hyperlink{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}{spam\+\_\+mails}} = \mbox{[}os.\+path.\+join(\mbox{\hyperlink{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}{spam\+\_\+dir}}, f) for f in os.\+listdir(\mbox{\hyperlink{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}{spam\+\_\+dir}})\mbox{]}
+\item 
+\mbox{\hyperlink{namespacespam__filter_aaddc80ea9536e075c4b47d0b26747119}{spam\+\_\+size}} = len(\mbox{\hyperlink{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}{spam\+\_\+mails}})
+\item 
+list \mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}} = \mbox{\hyperlink{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}{ham\+\_\+mails}} + \mbox{\hyperlink{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}{spam\+\_\+mails}}
+\item 
+\mbox{\hyperlink{namespacespam__filter_a88ba36555f61a4c70fe35702012a8f38}{all\+\_\+size}} = len(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})
+\item 
+int \mbox{\hyperlink{namespacespam__filter_a46da0e36749d05f5c445066c8008a2ae}{dic\+\_\+size}} = 3000
+\item 
+def \mbox{\hyperlink{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}{dictionary}} = \mbox{\hyperlink{namespacespam__filter_af09d64c0fde98c0093d974f3e041b516}{make\+\_\+\+Dictionary}}(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_adbaad01bbb901e5193bef416d2326b82}{mail\+\_\+labels}} = np.\+zeros(\mbox{\hyperlink{namespacespam__filter_a88ba36555f61a4c70fe35702012a8f38}{all\+\_\+size}})
+\item 
+def \mbox{\hyperlink{namespacespam__filter_aaefbe17e1add9b7fc55100524f5fba1e}{mail\+\_\+feature\+\_\+matrix}} = \mbox{\hyperlink{namespacespam__filter_ab5d505fe2125f88d4e3392f1289b0ed2}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})
+\item 
+\mbox{\hyperlink{namespacespam__filter_abf7be92921512c23fe62e8731426e141}{M\+L\+\_\+model}} = Multinomial\+NB()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{namespacespam__filter_ab5d505fe2125f88d4e3392f1289b0ed2}\label{namespacespam__filter_ab5d505fe2125f88d4e3392f1289b0ed2}} 
+\index{spam\_filter@{spam\_filter}!extract\_features@{extract\_features}}
+\index{extract\_features@{extract\_features}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{extract\_features()}{extract\_features()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+extract\+\_\+features (\begin{DoxyParamCaption}\item[{}]{files }\end{DoxyParamCaption})}
+
+
+
+Method to extract features from all mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix A np-\/array containing features of all mails 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_a58a7e2df19d545d1d838fda0ad9ad18b}\label{namespacespam__filter_a58a7e2df19d545d1d838fda0ad9ad18b}} 
+\index{spam\_filter@{spam\_filter}!find\_payload@{find\_payload}}
+\index{find\_payload@{find\_payload}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{find\_payload()}{find\_payload()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+find\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+body,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to recursively find single part payloads. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+body} & The complete mail body \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_a961c1080cc59e3d87f8952cb30139f92}\label{namespacespam__filter_a961c1080cc59e3d87f8952cb30139f92}} 
+\index{spam\_filter@{spam\_filter}!get\_words\_html@{get\_words\_html}}
+\index{get\_words\_html@{get\_words\_html}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{get\_words\_html()}{get\_words\_html()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+get\+\_\+words\+\_\+html (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of html content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & The html content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_a05f97ed131c8c68cbe3eeae9c9bceb78}\label{namespacespam__filter_a05f97ed131c8c68cbe3eeae9c9bceb78}} 
+\index{spam\_filter@{spam\_filter}!get\_words\_plain@{get\_words\_plain}}
+\index{get\_words\_plain@{get\_words\_plain}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{get\_words\_plain()}{get\_words\_plain()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+get\+\_\+words\+\_\+plain (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of plain text content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & Plain text content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_a9f037d2c254216371ec9baf1236e3316}\label{namespacespam__filter_a9f037d2c254216371ec9baf1236e3316}} 
+\index{spam\_filter@{spam\_filter}!mail\_features@{mail\_features}}
+\index{mail\_features@{mail\_features}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{mail\_features()}{mail\_features()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+mail\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to find features of a single mail. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix\+: The features of a single mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_af09d64c0fde98c0093d974f3e041b516}\label{namespacespam__filter_af09d64c0fde98c0093d974f3e041b516}} 
+\index{spam\_filter@{spam\_filter}!make\_Dictionary@{make\_Dictionary}}
+\index{make\_Dictionary@{make\_Dictionary}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{make\_Dictionary()}{make\_Dictionary()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+make\+\_\+\+Dictionary (\begin{DoxyParamCaption}\item[{}]{emails }\end{DoxyParamCaption})}
+
+
+
+Method to create Dictionary. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em train\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+dictionary The dictionary containing most common words 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_ad3b8566a1cdaaffdb96af690e4b3541f}\label{namespacespam__filter_ad3b8566a1cdaaffdb96af690e4b3541f}} 
+\index{spam\_filter@{spam\_filter}!preprocessor@{preprocessor}}
+\index{preprocessor@{preprocessor}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{preprocessor()}{preprocessor()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+preprocessor (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to pre-\/process the mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+all\+\_\+words\+: List of all words in mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacespam__filter_ab3383047adbaf68a3a9eb4ceb1f01fdd}\label{namespacespam__filter_ab3383047adbaf68a3a9eb4ceb1f01fdd}} 
+\index{spam\_filter@{spam\_filter}!split\_payload@{split\_payload}}
+\index{split\_payload@{split\_payload}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{split\_payload()}{split\_payload()}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+split\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{payload,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to split the large payloads into smaller chunks. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em payload} & The complete payload \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}\label{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}} 
+\index{spam\_filter@{spam\_filter}!all\_mails@{all\_mails}}
+\index{all\_mails@{all\_mails}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{all\_mails}{all\_mails}}
+{\footnotesize\ttfamily list spam\+\_\+filter.\+all\+\_\+mails = \mbox{\hyperlink{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}{ham\+\_\+mails}} + \mbox{\hyperlink{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}{spam\+\_\+mails}}}
+
+\mbox{\Hypertarget{namespacespam__filter_a88ba36555f61a4c70fe35702012a8f38}\label{namespacespam__filter_a88ba36555f61a4c70fe35702012a8f38}} 
+\index{spam\_filter@{spam\_filter}!all\_size@{all\_size}}
+\index{all\_size@{all\_size}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{all\_size}{all\_size}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+all\+\_\+size = len(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})}
+
+\mbox{\Hypertarget{namespacespam__filter_a46da0e36749d05f5c445066c8008a2ae}\label{namespacespam__filter_a46da0e36749d05f5c445066c8008a2ae}} 
+\index{spam\_filter@{spam\_filter}!dic\_size@{dic\_size}}
+\index{dic\_size@{dic\_size}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{dic\_size}{dic\_size}}
+{\footnotesize\ttfamily int spam\+\_\+filter.\+dic\+\_\+size = 3000}
+
+\mbox{\Hypertarget{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}\label{namespacespam__filter_afa746cf1d46132f610b1843e8732b27f}} 
+\index{spam\_filter@{spam\_filter}!dictionary@{dictionary}}
+\index{dictionary@{dictionary}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{dictionary}{dictionary}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+dictionary = \mbox{\hyperlink{namespacespam__filter_af09d64c0fde98c0093d974f3e041b516}{make\+\_\+\+Dictionary}}(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})}
+
+\mbox{\Hypertarget{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}\label{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}} 
+\index{spam\_filter@{spam\_filter}!ham\_dir@{ham\_dir}}
+\index{ham\_dir@{ham\_dir}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{ham\_dir}{ham\_dir}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+ham\+\_\+dir = sys.\+argv\mbox{[}1\mbox{]}}
+
+\mbox{\Hypertarget{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}\label{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}} 
+\index{spam\_filter@{spam\_filter}!ham\_mails@{ham\_mails}}
+\index{ham\_mails@{ham\_mails}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{ham\_mails}{ham\_mails}}
+{\footnotesize\ttfamily list spam\+\_\+filter.\+ham\+\_\+mails = \mbox{[}os.\+path.\+join(\mbox{\hyperlink{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}{ham\+\_\+dir}}, f) for f in os.\+listdir(\mbox{\hyperlink{namespacespam__filter_aa8eb1a5d9a656e5be7b0fe28b8ed2121}{ham\+\_\+dir}})\mbox{]}}
+
+\mbox{\Hypertarget{namespacespam__filter_a6014e04adda95ef9a05ad883af5516e4}\label{namespacespam__filter_a6014e04adda95ef9a05ad883af5516e4}} 
+\index{spam\_filter@{spam\_filter}!ham\_size@{ham\_size}}
+\index{ham\_size@{ham\_size}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{ham\_size}{ham\_size}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+ham\+\_\+size = len(\mbox{\hyperlink{namespacespam__filter_aca05d727e7c840f10c45b40848f57d45}{ham\+\_\+mails}})}
+
+\mbox{\Hypertarget{namespacespam__filter_aaefbe17e1add9b7fc55100524f5fba1e}\label{namespacespam__filter_aaefbe17e1add9b7fc55100524f5fba1e}} 
+\index{spam\_filter@{spam\_filter}!mail\_feature\_matrix@{mail\_feature\_matrix}}
+\index{mail\_feature\_matrix@{mail\_feature\_matrix}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{mail\_feature\_matrix}{mail\_feature\_matrix}}
+{\footnotesize\ttfamily def spam\+\_\+filter.\+mail\+\_\+feature\+\_\+matrix = \mbox{\hyperlink{namespacespam__filter_ab5d505fe2125f88d4e3392f1289b0ed2}{extract\+\_\+features}}(\mbox{\hyperlink{namespacespam__filter_ad02756e27b91918be49e43d1cac051b2}{all\+\_\+mails}})}
+
+\mbox{\Hypertarget{namespacespam__filter_adbaad01bbb901e5193bef416d2326b82}\label{namespacespam__filter_adbaad01bbb901e5193bef416d2326b82}} 
+\index{spam\_filter@{spam\_filter}!mail\_labels@{mail\_labels}}
+\index{mail\_labels@{mail\_labels}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{mail\_labels}{mail\_labels}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+mail\+\_\+labels = np.\+zeros(\mbox{\hyperlink{namespacespam__filter_a88ba36555f61a4c70fe35702012a8f38}{all\+\_\+size}})}
+
+\mbox{\Hypertarget{namespacespam__filter_abf7be92921512c23fe62e8731426e141}\label{namespacespam__filter_abf7be92921512c23fe62e8731426e141}} 
+\index{spam\_filter@{spam\_filter}!ML\_model@{ML\_model}}
+\index{ML\_model@{ML\_model}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{ML\_model}{ML\_model}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+M\+L\+\_\+model = Multinomial\+NB()}
+
+\mbox{\Hypertarget{namespacespam__filter_a51843ee7fc8a0dde6365afb2070f793e}\label{namespacespam__filter_a51843ee7fc8a0dde6365afb2070f793e}} 
+\index{spam\_filter@{spam\_filter}!nlp@{nlp}}
+\index{nlp@{nlp}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{nlp}{nlp}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+nlp = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})}
+
+\mbox{\Hypertarget{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}\label{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}} 
+\index{spam\_filter@{spam\_filter}!spam\_dir@{spam\_dir}}
+\index{spam\_dir@{spam\_dir}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{spam\_dir}{spam\_dir}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+spam\+\_\+dir = sys.\+argv\mbox{[}2\mbox{]}}
+
+\mbox{\Hypertarget{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}\label{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}} 
+\index{spam\_filter@{spam\_filter}!spam\_mails@{spam\_mails}}
+\index{spam\_mails@{spam\_mails}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{spam\_mails}{spam\_mails}}
+{\footnotesize\ttfamily list spam\+\_\+filter.\+spam\+\_\+mails = \mbox{[}os.\+path.\+join(\mbox{\hyperlink{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}{spam\+\_\+dir}}, f) for f in os.\+listdir(\mbox{\hyperlink{namespacespam__filter_aa0da61d95c2c8b59469b5526c781d393}{spam\+\_\+dir}})\mbox{]}}
+
+\mbox{\Hypertarget{namespacespam__filter_aaddc80ea9536e075c4b47d0b26747119}\label{namespacespam__filter_aaddc80ea9536e075c4b47d0b26747119}} 
+\index{spam\_filter@{spam\_filter}!spam\_size@{spam\_size}}
+\index{spam\_size@{spam\_size}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{spam\_size}{spam\_size}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+spam\+\_\+size = len(\mbox{\hyperlink{namespacespam__filter_add14b40466a11efd5a0025526f4b1e3b}{spam\+\_\+mails}})}
+
+\mbox{\Hypertarget{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}\label{namespacespam__filter_a06c90fa2e2bc5c47540b9d96e5651ade}} 
+\index{spam\_filter@{spam\_filter}!stopWords@{stopWords}}
+\index{stopWords@{stopWords}!spam\_filter@{spam\_filter}}
+\doxysubsubsection{\texorpdfstring{stopWords}{stopWords}}
+{\footnotesize\ttfamily spam\+\_\+filter.\+stop\+Words = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS}
+

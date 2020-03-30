@@ -1,0 +1,73 @@
+\hypertarget{is__ham_8sh}{}\doxysection{is\+\_\+ham.\+sh File Reference}
+\label{is__ham_8sh}\index{is\_ham.sh@{is\_ham.sh}}
+
+
+Shell script to improve ham detection.  
+
+
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a7d2413b7d093f7c20e61329b3ea91146}\label{is__ham_8sh_a7d2413b7d093f7c20e61329b3ea91146}} 
+{\bfseries H\+A\+M\+M\+A\+IL} =\$1
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a3e2e11830d2471094ecc74d67409e6f0}\label{is__ham_8sh_a3e2e11830d2471094ecc74d67409e6f0}} 
+{\bfseries H\+A\+M\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+ME} =\char`\"{}\$\{H\+A\+M\+M\+A\+IL//!$\ast$/\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_ada4ed6750f8ddb4a486c11bf6899431c}\label{is__ham_8sh_ada4ed6750f8ddb4a486c11bf6899431c}} 
+{\bfseries M\+A\+I\+L\+\_\+\+D\+IR} =\char`\"{}\$\{H\+A\+M\+M\+A\+IL\%/$\ast$\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_ae667829fa40ebe8a0b9b2a52cf952f47}\label{is__ham_8sh_ae667829fa40ebe8a0b9b2a52cf952f47}} 
+{\bfseries D\+I\+R\+N\+A\+ME} =\char`\"{}\$\{M\+A\+I\+L\+\_\+\+D\+IR\%/$\ast$\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_aa6b176b1eaf200331261a738096b430f}\label{is__ham_8sh_aa6b176b1eaf200331261a738096b430f}} 
+{\bfseries H\+A\+M\+\_\+\+D\+IR} =\char`\"{}\$D\+I\+R\+N\+A\+ME/ham\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a132df71a30b1cb62ef99b2cd8723cf5a}\label{is__ham_8sh_a132df71a30b1cb62ef99b2cd8723cf5a}} 
+{\bfseries H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR} =\char`\"{}\$D\+I\+R\+N\+A\+ME/train\+\_\+ham\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a56e681e94489913e96f5301fafe59a40}\label{is__ham_8sh_a56e681e94489913e96f5301fafe59a40}} 
+{\bfseries W\+A\+T\+C\+H\+L\+OG} =\char`\"{}\$D\+I\+R\+N\+A\+ME/watchlog\char`\"{}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a35713ce827bb373d83338474c1c43cc2}\label{is__ham_8sh_a35713ce827bb373d83338474c1c43cc2}} 
+{\bfseries T\+R\+A\+I\+N\+\_\+\+NO} =1000
+\item 
+\mbox{\Hypertarget{is__ham_8sh_aa212521b85d803e45644a5e7da7b19b1}\label{is__ham_8sh_aa212521b85d803e45644a5e7da7b19b1}} 
+{\bfseries if} \mbox{[}-\/d \char`\"{}\$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR\char`\"{}\mbox{]}
+\item 
+\mbox{\Hypertarget{is__ham_8sh_a7f9036262fbd8f7deff62a0914ffdac0}\label{is__ham_8sh_a7f9036262fbd8f7deff62a0914ffdac0}} 
+then mv \$H\+A\+M\+M\+A\+IL \$H\+A\+M\+\_\+\+D\+IR echo \$H\+A\+M\+M\+A\+IL is moved fi else mkdir \$H\+A\+M\+\_\+\+D\+IR mv \$H\+A\+M\+M\+A\+IL \$H\+A\+M\+\_\+\+D\+IR echo \$H\+A\+M\+M\+A\+IL is moved fi {\bfseries H\+A\+M\+\_\+\+NO} =\char`\"{}\$(ls \$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR $\vert$ wc -\/l)\char`\"{}
+\item 
+then echo Retraining time running python code python3 \$D\+I\+R\+N\+A\+ME partial\+\_\+filter py \$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR rm rf \$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR {\bfseries P\+Y\+T\+H\+O\+N\+\_\+\+P\+ID}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Shell script to improve ham detection. 
+
+It moves the ham mail to inbox and copies it to training directory. After a fixed number of ham mails are collected, it runs \mbox{\hyperlink{partial__filter_8py}{partial\+\_\+filter.\+py}} to improve model. \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+3/7/2019 
+\end{DoxyDate}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000003}{Bug}}]No known bugs \end{DoxyRefDesc}
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{is__ham_8sh_a7943c0e9f35ded0d79e2199928de6722}\label{is__ham_8sh_a7943c0e9f35ded0d79e2199928de6722}} 
+\index{is\_ham.sh@{is\_ham.sh}!PYTHON\_PID@{PYTHON\_PID}}
+\index{PYTHON\_PID@{PYTHON\_PID}!is\_ham.sh@{is\_ham.sh}}
+\doxysubsubsection{\texorpdfstring{PYTHON\_PID}{PYTHON\_PID}}
+{\footnotesize\ttfamily then echo Retraining time running python code python3 \$D\+I\+R\+N\+A\+ME partial\+\_\+filter py \$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR rm rf \$H\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR P\+Y\+T\+H\+O\+N\+\_\+\+P\+ID}
+
+{\bfseries Initial value\+:}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{=\textcolor{stringliteral}{"\$(ps -\/fu \$USER| grep "}fast\_single.py\textcolor{stringliteral}{" | grep -\/v "}grep\textcolor{stringliteral}{" | awk '\{print \$2\}')"}}
+\DoxyCodeLine{    \textcolor{keywordflow}{if} [ ! -\/z \$PYTHON\_PID ]}
+
+\end{DoxyCode}

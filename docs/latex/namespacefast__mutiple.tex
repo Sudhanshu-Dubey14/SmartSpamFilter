@@ -1,0 +1,230 @@
+\hypertarget{namespacefast__mutiple}{}\doxysection{fast\+\_\+mutiple Namespace Reference}
+\label{namespacefast__mutiple}\index{fast\_mutiple@{fast\_mutiple}}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a80638bf2a4ca2d3e662a88199fd19cf4}{multiple}} (mail\+\_\+dir)
+\begin{DoxyCompactList}\small\item\em Method to predict results for all mails individually. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_abf69be710bfd6ff2d32e43a1c8df2336}{predict}} (mail\+\_\+file)
+\begin{DoxyCompactList}\small\item\em Method to predict result of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a6a7d8d9e6a2f21d3c883e251467fd385}{mail\+\_\+features}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to find features of a single mail. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a1973c566e2dda21af0aa14c52b331555}{preprocessor}} (mail)
+\begin{DoxyCompactList}\small\item\em Method to pre-\/process the mails. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_acef59e0bef0e8fce2fd60eac67322db3}{find\+\_\+payload}} (mail\+\_\+body, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to recursively find single part payloads. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a91992ecad9656467f38bfbaf6f807f16}{split\+\_\+payload}} (payload, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to split the large payloads into smaller chunks. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_abfeae0f360d60b514f7052930b61a778}{get\+\_\+words\+\_\+plain}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of plain text content. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespacefast__mutiple_a1ac6305c38a614734cc312ed00a7a2a7}{get\+\_\+words\+\_\+html}} (content, all\+\_\+words)
+\begin{DoxyCompactList}\small\item\em Method to get words out of html content. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_af6b1299fb0460ed9ed5d5ceb8d81e4f9}{nlp}} = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_aaf95033f9bd09f5f42c63d7ba1dd9f30}{stop\+Words}} = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_a846bad529ed15c1b6bb6d55d24ac4585}{dictionary}} = json.\+load(dic)
+\item 
+int \mbox{\hyperlink{namespacefast__mutiple_a963794d1f3120daae591e004fbb2cd3c}{dic\+\_\+size}} = 3000
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_ae8ead694c29ea0fcea9aa55378e741b6}{ml\+\_\+model}} = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))
+\item 
+\mbox{\hyperlink{namespacefast__mutiple_a4975c54524c7b6f9d16c9fa47fb72ab8}{directory}} = sys.\+argv\mbox{[}1\mbox{]}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{namespacefast__mutiple_acef59e0bef0e8fce2fd60eac67322db3}\label{namespacefast__mutiple_acef59e0bef0e8fce2fd60eac67322db3}} 
+\index{fast\_mutiple@{fast\_mutiple}!find\_payload@{find\_payload}}
+\index{find\_payload@{find\_payload}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{find\_payload()}{find\_payload()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+find\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+body,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to recursively find single part payloads. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+body} & The complete mail body \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_a1ac6305c38a614734cc312ed00a7a2a7}\label{namespacefast__mutiple_a1ac6305c38a614734cc312ed00a7a2a7}} 
+\index{fast\_mutiple@{fast\_mutiple}!get\_words\_html@{get\_words\_html}}
+\index{get\_words\_html@{get\_words\_html}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{get\_words\_html()}{get\_words\_html()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+get\+\_\+words\+\_\+html (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of html content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & The html content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_abfeae0f360d60b514f7052930b61a778}\label{namespacefast__mutiple_abfeae0f360d60b514f7052930b61a778}} 
+\index{fast\_mutiple@{fast\_mutiple}!get\_words\_plain@{get\_words\_plain}}
+\index{get\_words\_plain@{get\_words\_plain}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{get\_words\_plain()}{get\_words\_plain()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+get\+\_\+words\+\_\+plain (\begin{DoxyParamCaption}\item[{}]{content,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to get words out of plain text content. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em content} & Plain text content \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_a6a7d8d9e6a2f21d3c883e251467fd385}\label{namespacefast__mutiple_a6a7d8d9e6a2f21d3c883e251467fd385}} 
+\index{fast\_mutiple@{fast\_mutiple}!mail\_features@{mail\_features}}
+\index{mail\_features@{mail\_features}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{mail\_features()}{mail\_features()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+mail\+\_\+features (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to find features of a single mail. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+features\+\_\+matrix\+: The features of a single mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_a80638bf2a4ca2d3e662a88199fd19cf4}\label{namespacefast__mutiple_a80638bf2a4ca2d3e662a88199fd19cf4}} 
+\index{fast\_mutiple@{fast\_mutiple}!multiple@{multiple}}
+\index{multiple@{multiple}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{multiple()}{multiple()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+multiple (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+dir }\end{DoxyParamCaption})}
+
+
+
+Method to predict results for all mails individually. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+dir} & The directory containing mails \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_abf69be710bfd6ff2d32e43a1c8df2336}\label{namespacefast__mutiple_abf69be710bfd6ff2d32e43a1c8df2336}} 
+\index{fast\_mutiple@{fast\_mutiple}!predict@{predict}}
+\index{predict@{predict}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{predict()}{predict()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+predict (\begin{DoxyParamCaption}\item[{}]{mail\+\_\+file }\end{DoxyParamCaption})}
+
+
+
+Method to predict result of a single mail. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail\+\_\+file} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+result\+: The result of a mail in binary 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_a1973c566e2dda21af0aa14c52b331555}\label{namespacefast__mutiple_a1973c566e2dda21af0aa14c52b331555}} 
+\index{fast\_mutiple@{fast\_mutiple}!preprocessor@{preprocessor}}
+\index{preprocessor@{preprocessor}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{preprocessor()}{preprocessor()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+preprocessor (\begin{DoxyParamCaption}\item[{}]{mail }\end{DoxyParamCaption})}
+
+
+
+Method to pre-\/process the mails. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mail} & The address of mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+all\+\_\+words\+: List of all words in mail 
+\end{DoxyReturn}
+\mbox{\Hypertarget{namespacefast__mutiple_a91992ecad9656467f38bfbaf6f807f16}\label{namespacefast__mutiple_a91992ecad9656467f38bfbaf6f807f16}} 
+\index{fast\_mutiple@{fast\_mutiple}!split\_payload@{split\_payload}}
+\index{split\_payload@{split\_payload}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{split\_payload()}{split\_payload()}}
+{\footnotesize\ttfamily def fast\+\_\+mutiple.\+split\+\_\+payload (\begin{DoxyParamCaption}\item[{}]{payload,  }\item[{}]{all\+\_\+words }\end{DoxyParamCaption})}
+
+
+
+Method to split the large payloads into smaller chunks. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em payload} & The complete payload \\
+\hline
+{\em all\+\_\+words} & List of all words in the mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nothing 
+\end{DoxyReturn}
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{namespacefast__mutiple_a963794d1f3120daae591e004fbb2cd3c}\label{namespacefast__mutiple_a963794d1f3120daae591e004fbb2cd3c}} 
+\index{fast\_mutiple@{fast\_mutiple}!dic\_size@{dic\_size}}
+\index{dic\_size@{dic\_size}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{dic\_size}{dic\_size}}
+{\footnotesize\ttfamily int fast\+\_\+mutiple.\+dic\+\_\+size = 3000}
+
+\mbox{\Hypertarget{namespacefast__mutiple_a846bad529ed15c1b6bb6d55d24ac4585}\label{namespacefast__mutiple_a846bad529ed15c1b6bb6d55d24ac4585}} 
+\index{fast\_mutiple@{fast\_mutiple}!dictionary@{dictionary}}
+\index{dictionary@{dictionary}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{dictionary}{dictionary}}
+{\footnotesize\ttfamily fast\+\_\+mutiple.\+dictionary = json.\+load(dic)}
+
+\mbox{\Hypertarget{namespacefast__mutiple_a4975c54524c7b6f9d16c9fa47fb72ab8}\label{namespacefast__mutiple_a4975c54524c7b6f9d16c9fa47fb72ab8}} 
+\index{fast\_mutiple@{fast\_mutiple}!directory@{directory}}
+\index{directory@{directory}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{directory}{directory}}
+{\footnotesize\ttfamily fast\+\_\+mutiple.\+directory = sys.\+argv\mbox{[}1\mbox{]}}
+
+\mbox{\Hypertarget{namespacefast__mutiple_ae8ead694c29ea0fcea9aa55378e741b6}\label{namespacefast__mutiple_ae8ead694c29ea0fcea9aa55378e741b6}} 
+\index{fast\_mutiple@{fast\_mutiple}!ml\_model@{ml\_model}}
+\index{ml\_model@{ml\_model}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{ml\_model}{ml\_model}}
+{\footnotesize\ttfamily fast\+\_\+mutiple.\+ml\+\_\+model = pickle.\+load(open(\textquotesingle{}spamfilter.\+sav\textquotesingle{}, \textquotesingle{}rb\textquotesingle{}))}
+
+\mbox{\Hypertarget{namespacefast__mutiple_af6b1299fb0460ed9ed5d5ceb8d81e4f9}\label{namespacefast__mutiple_af6b1299fb0460ed9ed5d5ceb8d81e4f9}} 
+\index{fast\_mutiple@{fast\_mutiple}!nlp@{nlp}}
+\index{nlp@{nlp}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{nlp}{nlp}}
+{\footnotesize\ttfamily fast\+\_\+mutiple.\+nlp = spacy.\+load(\char`\"{}en\+\_\+core\+\_\+web\+\_\+sm\char`\"{})}
+
+\mbox{\Hypertarget{namespacefast__mutiple_aaf95033f9bd09f5f42c63d7ba1dd9f30}\label{namespacefast__mutiple_aaf95033f9bd09f5f42c63d7ba1dd9f30}} 
+\index{fast\_mutiple@{fast\_mutiple}!stopWords@{stopWords}}
+\index{stopWords@{stopWords}!fast\_mutiple@{fast\_mutiple}}
+\doxysubsubsection{\texorpdfstring{stopWords}{stopWords}}
+{\footnotesize\ttfamily fast\+\_\+mutiple.\+stop\+Words = spacy.\+lang.\+en.\+stop\+\_\+words.\+S\+T\+O\+P\+\_\+\+W\+O\+R\+DS}
+

@@ -1,0 +1,38 @@
+\hypertarget{watchfile_8sh}{}\doxysection{watchfile.\+sh File Reference}
+\label{watchfile_8sh}\index{watchfile.sh@{watchfile.sh}}
+
+
+Shell script to start spam filtering service.  
+
+
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{watchfile_8sh_a35ba5f4ca8a457ee9be78458af17b074}\label{watchfile_8sh_a35ba5f4ca8a457ee9be78458af17b074}} 
+{\bfseries C\+U\+R\+D\+IR} =\char`\"{}\$( cd \char`\"{}\$( dirname \char`\"{}\$\{B\+A\+S\+H\+\_\+\+S\+O\+U\+R\+CE\mbox{[}0\mbox{]}\}\char`\"{} )\char`\"{} $>$/dev/null 2$>$\&1 \&\& pwd )\char`\"{}
+\item 
+\mbox{\Hypertarget{watchfile_8sh_a0b646ae51989467f1289bab2a245a77a}\label{watchfile_8sh_a0b646ae51989467f1289bab2a245a77a}} 
+{\bfseries W\+A\+T\+C\+H\+D\+IR} =\char`\"{}\$C\+U\+R\+D\+IR/new\+\_\+mails\char`\"{}
+\item 
+\mbox{\Hypertarget{watchfile_8sh_a56e681e94489913e96f5301fafe59a40}\label{watchfile_8sh_a56e681e94489913e96f5301fafe59a40}} 
+{\bfseries W\+A\+T\+C\+H\+L\+OG} =\char`\"{}\$C\+U\+R\+D\+IR/watchlog\char`\"{}
+\item 
+\mbox{\Hypertarget{watchfile_8sh_a7c2e59aeaca897567616cf8b5c2b6fa8}\label{watchfile_8sh_a7c2e59aeaca897567616cf8b5c2b6fa8}} 
+{\bfseries if} \mbox{[}-\/f \$W\+A\+T\+C\+H\+L\+OG\mbox{]}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Shell script to start spam filtering service. 
+
+It starts the inotifywait process on the given directory and runs the \mbox{\hyperlink{fast__single_8py}{fast\+\_\+single.\+py}} file. \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+3/7/2019 
+\end{DoxyDate}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000007}{Bug}}]No known bugs \end{DoxyRefDesc}

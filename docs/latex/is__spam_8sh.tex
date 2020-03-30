@@ -1,0 +1,78 @@
+\hypertarget{is__spam_8sh}{}\doxysection{is\+\_\+spam.\+sh File Reference}
+\label{is__spam_8sh}\index{is\_spam.sh@{is\_spam.sh}}
+
+
+Shell script to improve spam detection.  
+
+
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a1d09339d9dcad003ea5f52c27eed9d40}\label{is__spam_8sh_a1d09339d9dcad003ea5f52c27eed9d40}} 
+{\bfseries S\+P\+A\+M\+M\+A\+IL} =\$1
+\item 
+\mbox{\Hypertarget{is__spam_8sh_abcf420ab6d0ec21a55cf6e53e60f1baf}\label{is__spam_8sh_abcf420ab6d0ec21a55cf6e53e60f1baf}} 
+{\bfseries S\+P\+A\+M\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+ME} =\char`\"{}\$\{S\+P\+A\+M\+M\+A\+IL//!$\ast$/\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_ada4ed6750f8ddb4a486c11bf6899431c}\label{is__spam_8sh_ada4ed6750f8ddb4a486c11bf6899431c}} 
+{\bfseries M\+A\+I\+L\+\_\+\+D\+IR} =\char`\"{}\$\{S\+P\+A\+M\+M\+A\+IL\%/$\ast$\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_ae667829fa40ebe8a0b9b2a52cf952f47}\label{is__spam_8sh_ae667829fa40ebe8a0b9b2a52cf952f47}} 
+{\bfseries D\+I\+R\+N\+A\+ME} =\char`\"{}\$\{M\+A\+I\+L\+\_\+\+D\+IR\%/$\ast$\}\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a16f82fbc515aff8c3a665e63f744e7c8}\label{is__spam_8sh_a16f82fbc515aff8c3a665e63f744e7c8}} 
+{\bfseries S\+P\+A\+M\+\_\+\+D\+IR} =\char`\"{}\$D\+I\+R\+N\+A\+ME/spam\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a022079e8444e59805fa49fcb4e5bf386}\label{is__spam_8sh_a022079e8444e59805fa49fcb4e5bf386}} 
+{\bfseries S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR} =\char`\"{}\$D\+I\+R\+N\+A\+ME/train\+\_\+spam\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a56e681e94489913e96f5301fafe59a40}\label{is__spam_8sh_a56e681e94489913e96f5301fafe59a40}} 
+{\bfseries W\+A\+T\+C\+H\+L\+OG} =\char`\"{}\$D\+I\+R\+N\+A\+ME/watchlog\char`\"{}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a35713ce827bb373d83338474c1c43cc2}\label{is__spam_8sh_a35713ce827bb373d83338474c1c43cc2}} 
+{\bfseries T\+R\+A\+I\+N\+\_\+\+NO} =1000
+\item 
+\mbox{\Hypertarget{is__spam_8sh_a62563792fede2830e7cd661a75b72e5a}\label{is__spam_8sh_a62563792fede2830e7cd661a75b72e5a}} 
+{\bfseries if} \mbox{[}-\/d \char`\"{}\$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR\char`\"{}\mbox{]}
+\item 
+\mbox{\Hypertarget{is__spam_8sh_af1ec833e4440ca0a6ae7795a3a11c29a}\label{is__spam_8sh_af1ec833e4440ca0a6ae7795a3a11c29a}} 
+then mv \$S\+P\+A\+M\+M\+A\+IL \$S\+P\+A\+M\+\_\+\+D\+IR fi else mkdir \$S\+P\+A\+M\+\_\+\+D\+IR mv \$S\+P\+A\+M\+M\+A\+IL \$S\+P\+A\+M\+\_\+\+D\+IR echo \$S\+P\+A\+M\+M\+A\+IL is moved fi {\bfseries S\+P\+A\+M\+\_\+\+NO} =\char`\"{}\$(ls \$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR $\vert$ wc -\/l)\char`\"{}
+\item 
+then echo Retraining time running python code python3 \$D\+I\+R\+N\+A\+ME partial\+\_\+filter py \$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR rm rf \$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR {\bfseries P\+Y\+T\+H\+O\+N\+\_\+\+P\+ID}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Shell script to improve spam detection. 
+
+It moves the spam mail to spam directory and copies it to training directory. After a fixed number of spam mails are collected, it runs \mbox{\hyperlink{partial__filter_8py}{partial\+\_\+filter.\+py}} to improve model. \begin{DoxyAuthor}{Author}
+Sudhanshu Dubey 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+3/7/2019 
+\end{DoxyDate}
+
+\begin{DoxyParams}{Parameters}
+{\em S\+P\+A\+M\+M\+A\+IL} & Location of spam mail \\
+\hline
+\end{DoxyParams}
+\begin{DoxyRefDesc}{Bug}
+\item[\mbox{\hyperlink{bug__bug000004}{Bug}}]No known bugs \end{DoxyRefDesc}
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{is__spam_8sh_a939dae7aa87f6d3f1b817c6a6d0cac8d}\label{is__spam_8sh_a939dae7aa87f6d3f1b817c6a6d0cac8d}} 
+\index{is\_spam.sh@{is\_spam.sh}!PYTHON\_PID@{PYTHON\_PID}}
+\index{PYTHON\_PID@{PYTHON\_PID}!is\_spam.sh@{is\_spam.sh}}
+\doxysubsubsection{\texorpdfstring{PYTHON\_PID}{PYTHON\_PID}}
+{\footnotesize\ttfamily then echo Retraining time running python code python3 \$D\+I\+R\+N\+A\+ME partial\+\_\+filter py \$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR rm rf \$S\+P\+A\+M\+\_\+\+T\+R\+A\+I\+N\+\_\+\+D\+IR P\+Y\+T\+H\+O\+N\+\_\+\+P\+ID}
+
+{\bfseries Initial value\+:}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{=\textcolor{stringliteral}{"\$(ps -\/fu \$USER| grep "}fast\_single.py\textcolor{stringliteral}{" | grep -\/v "}grep\textcolor{stringliteral}{" | awk '\{print \$2\}')"}}
+\DoxyCodeLine{    \textcolor{keywordflow}{if} [ ! -\/z \$PYTHON\_PID ]}
+
+\end{DoxyCode}
